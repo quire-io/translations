@@ -1,2 +1,3 @@
-# translations
-Translations of Quire messages and labels
+# Translations
+
+Translations of [Quire](https://quire.io) messages and labels
