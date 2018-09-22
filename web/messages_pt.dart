@@ -14,6 +14,7 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
+ 
 const Map<String, String> ptWeb = const <String, String> {
   mSlogan: 'Unfold Your Ideas',
   mSloganSentence: 'Unfold your ideas',
