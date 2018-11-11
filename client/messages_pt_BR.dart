@@ -16,1047 +16,1047 @@ part of server.intl.messages_all;
 
 const Map<String, String> ptBrClient = const <String, String> {
   mInternalError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <a href="/feedback">contact us</a>. '
-    'Meanwhile, you may try <a href="javascript:reloadPage()">reloading this page</a>.',
-  mNetworkError:
-    "Unable to reach Quire. Please check your internet connection.",
+    'Desculpe, encontramos um erro inesperado. '
+    "Vamos investigar, mas "
+    'fique à vontade para <a href="/feedback">entrar em contato</a>. '
+    'Enquanto isso, você pode tentar <a href="javascript:reloadPage()">recarregar esta página</a>.',
+  mNetworkError:
+    "Não é possível acessar o Quire. Por favor, verifique sua conexão à internet.",
 
   mNotAllowed:
-    "You do not have permission to perform this action.<br/>"
-    'Please contact your admin.',
-  mNotFound:
-    "Sorry, we cannot find what you are looking for.",
-  mSessionTimeout:
-    "Sorry, your session has timed out. Please try logging in again.",
+    "Você não tem permissão para realizar esta ação.<br/>"
+    'Por favor, entre em contato com seu administrador.',
+  mNotFound:
+    "Desculpe, não encontramos o que você está procurando.",
+  mSessionTimeout:
+    "Desculpe, sua sessão expirou. Por favor, tente fazer o login novamente.",
 
   mBrowserNotSupported:
-    "Sorry, your browser is out of date. Please upgrade it to the latest version.",
+    "Desculpe, seu navegador está desatualizado. Atualize-o para a versão mais recente.",
 
   mMaintenance:
-    "Sorry, we are down for maintenance. We will be back shortly. "
-    "Not to worry, your updates will be saved locally.",
-  mConnected: "Connection is back. Everything is in sync.",
-  mDisconnected: "Connection lost. Not to worry, your updates will be saved locally.",
-  mDisconnectedUnsafe:
-    'Connection lost. Please enable <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">local storage</a> '
-    'to save your updates locally.',
+    "Desculpe, estamos em manutenção. Estaremos de volta em breve. "
+    "Não se preocupe, suas atualizações serão salvas localmente.",
+  mConnected: "A conexão está de volta. Tudo está em sincronia.",
+  mDisconnected: "Conexão perdida. Não se preocupe, suas atualizações serão salvas localmente.",
+  mDisconnectedUnsafe:
+    'Conexão perdida. Por favor, ative o <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">armazenamento local</a> '
+    'para salvar suas atualizações localmente.',
 
   mReloadNewPartJS: 
-    'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
-    'You can try the following steps:'
-    '<ul>'
-    "<li>Clear your browser's cache and reload.</li>"
-    '<li>Or, open Quire in a new browser tab.</li>'
-    '<li>Or, restart your browser.</li>'
-    '</ul>'
-    'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
+    'Desculpe, não conseguimos obter a última versão do Quire.<br/><br/>'
+    'Você pode tentar os seguintes passos:'
+    '<ul>'
+    "<li>Limpe o cache do seu navegador e recarregue.</li>"
+    '<li>Ou, abra o Quire em uma nova aba do navegador.</li>'
+    '<li>Ou, reinicie o seu navegador.</li>'
+    '</ul>'
+    'Para mais detalhes, confira <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aqui</a>.',
 
   mCtrl: "Ctrl",
   mShift: "Shift",
   mAlt: "Alt",
 
-  mQuireCannotReach: "Unable to reach Quire.",
-  mQuireCannotReachDesc: "Please check your internet connection.",
+  mQuireCannotReach: "Não é possível acessar o Quire.",
+  mQuireCannotReachDesc: "Por favor, verifique sua conexão com a internet.",
 
   mCantMoveInCurrentMode:
-    "You cannot move tasks while in sorted and filtered modes.",
+    "Você não pode mover tarefas enquanto estas estiverem em modos classificado e filtrado.",
   mCantMoveRoot:
-    "You cannot move the root task.",
+    "Você não pode mover a tarefa raiz.",
   mCantMoveTask:
-    "You cannot move [=task].",
+    "Você não pode mover [=task].",
   mCantMoveTaskTo:
-    "You cannot move [=task] here.",
+    "Você não pode mover [=task] para aqui.",
 
 
   mCantCompleteTask:
-    "You do not have permission to complete [=task]",
+    "Você não tem permissão para concluir [=task]",
   mCantSetThisState:
-    "You cannot set this status to [=task].",
+    "Você não pode definir este estado para [=task].",
   mCantDeleteTask:
-    "You do not have permission to delete [=task].",
+    "Você não tem permissão para excluir [=task].",
   mCantSetAssignee:
-    "You do not have permission to set assignee to [=task].",
+    "Você não tem permissão para definir o responsável para [=task].",
   mCantSetAssigneeCross:
-    "You cannot assign [=assignee] to [=task] not in the same project.",
+    "Você não pode atribuir [=assignee] a [=task] que não está no mesmo projeto.",
   mCantSetAssigneeCrossPlural:
-    "You cannot assign [=assignee] to [=task] and [=count] other tasks not in the same project.",
+    "Você não pode atribuir [=assignee] a [=task] e [=count] outras tarefas que não estão no mesmo projeto.",
   mCantSetPartner:
-    "You cannot set it to another external team, "
-    "as [=task] is already assigned to one.",
+    "Você não pode defini-la a outra equipe externa, "
+    "uma vez que [=task] já está atribuída a uma.",
   mCantAssignPartnerMember:
-    "You cannot assign a task to an external team member. Try to assign to an external team, or project member instead.",
+    "Você não pode atribuir uma tarefa a um membro externo da equipe. Tente atribuir a uma equipe externa ou a um membro do projeto.",
   mCantSetDue:
-    "You do not have permission to set due date for [=task].",
+    "Você não tem permissão para definir a data de conclusão para [=task].",
   mCantAssociateTag:
-    "You do not have permission to add tags to [=task].",
+    "Você não tem permissão para adicionar tags a [=task].",
   mCantCopyTask:
-    "You do not have permission to copy [=task].",
+    "Você não tem permissão para copiar [=task].",
   mCantTransferTask:
-    "You do not have permission to transfer [=task].",
+    "Você não tem permissão para transferir [=task].",
   mCantSetPriority:
-    "You do not have permission to set priority to [=task].",
+    "Você não tem permissão para definir a prioridade para [=task].",
   mCantSetBoard:
-    "You do not have permission to set board to [=task].",
+    "Você não tem permissão para configurar o quadro de [=task].",
   mCantDeleteCompletedState:
-    "You cannot remove the default Completed status.",
+    "Você não pode remover o estado padrão Concluído.",
   mCantDeleteNonemptyState:
-    "You cannot remove a status with tasks in it.",
+    "Você não pode remover um estado com tarefas.",
 
-  mProject: "Project",
-  mProjectLot: "Smart Folder",
-  mUser: "User",
-  mOrganization: "Organization",
-  mProfilePicture: "Profile Picture",
+  mProject: "Projeto",
+  mProjectLot: "Pasta Inteligente",
+  mUser: "Usuário",
+  mOrganization: "Organização",
+  mProfilePicture: "Foto de Perfil",
 
-  mEmptyContent: "(empty)",
-  mRemovedContent: "(removed)",
-  mBlankProject: "(Blank Project)",
-  mBlankBoard: "(Default blank)",
-  mGotoOrg: "Go to [=org]",
+  mEmptyContent: "(vazio)",
+  mRemovedContent: "(removido)",
+  mBlankProject: "(Projeto em Branco)",
+  mBlankBoard: "(Padrão em branco)",
+  mGotoOrg: "Ir para [=org]",
 
   mId: "ID",
-  mParent: "Parent",
-  mName: "Name",
-  mDescription: "Description",
-  mProgress: "Progress",
-  mColor: "Color",
-  mStart: "Start",
-  mDue: "Due",
-  mFrom: "From",
-  mTo: "to",
-  mToCap: "To",
-  mAs: "As",
-  mDate: "Date",
-  mDay: "Due Per Day",
-  mWeek: "Due Per Week",
-  mCompletedWeek: "Complete Per Week",
-  mStartWeek: "Start Per Week",
-  mCreatedWeek: "Create Per Week",
-  mUpdateWeek: "Update Per Week",
-  mToday: "Today",
-  mEarilerToday: "Earlier Today",
-  mTomorrow: "Tomorrow",
-  mYesterday: "Yesterday",
-  mThisweek: "This Week",
-  mLastweek: "Last Week",
-  mNextweek: "Next Week",
-  mJustNow: "Just now",
-  mOverdue: "Overdue",
-  mLater: "Later",
-  mMinutesAgo: "[=n] minutes ago",
-  mOneHourAgo: "1 hour ago",
-  mHoursAgo: "[=n] hours ago",
-  mOneDayAgo: "1 day ago",
-  mDaysAgo: "[=n] days ago",
-  mWeeksAgo: "[=n] weeks ago",
-  mOthers: "Others",
-  mGroupActive: "Active",
-  mGroupCompleted: "Completed",
-  mNTHLabels: "1st,2nd,3rd,4th,5th,6th,7th,8th,9th",
-  mYourEmail: "Your email",
-  mAddEmail: "Add email",
+  mParent: "Classe Pai",
+  mName: "Nome",
+  mDescription: "Descrição",
+  mProgress: "Progresso",
+  mColor: "Cor",
+  mStart: "Começo",
+  mDue: "Final",
+  mFrom: "De",
+  mTo: "a",
+  mToCap: "A",
+  mAs: "Como",
+  mDate: "Data",
+  mDay: "Agendado Por Dia",
+  mWeek: "Agendado Por Semana",
+  mCompletedWeek: "Concluído Por Semana",
+  mStartWeek: "Iniciar Por Semana",
+  mCreatedWeek: "Criar Por Semana",
+  mUpdateWeek: "Atualizar Por Semana",
+  mToday: "Hoje",
+  mEarilerToday: "Hoje Cedo",
+  mTomorrow: "Amanhã",
+  mYesterday: "Ontem",
+  mThisweek: "Essa Semana",
+  mLastweek: "Semana Passada",
+  mNextweek: "Próxima Semana",
+  mJustNow: "Agora mesmo",
+  mOverdue: "Em atraso",
+  mLater: "Mais tarde",
+  mMinutesAgo: "[=n] minutos atrás",
+  mOneHourAgo: "1 hora atrás",
+  mHoursAgo: "[=n] horas atrás",
+  mOneDayAgo: "1 dia atrás",
+  mDaysAgo: "[=n] dias atrás",
+  mWeeksAgo: "[=n] semanas atrás",
+  mOthers: "Outros",
+  mGroupActive: "Ativas",
+  mGroupCompleted: "Concluídas",
+  mNTHLabels: "1ª,2ª,3ª,4ª,5ª,6ª,7ª,8ª,9ª",
+  mYourEmail: "Seu email",
+  mAddEmail: "Adicionar email",
   
-  mAdd: "Add",
-  mRemove: "Remove",
-  mSave: "Save",
-  mSaved: "Saved",
-  mSaveChanges: "Save Changes",
+  mAdd: "Adicionar",
+  mRemove: "Remover",
+  mSave: "Salvar",
+  mSaved: "Salvo",
+  mSaveChanges: "Salvar Alterações",
   mOK: "OK",
-  mOkay: "Okay",
-  mYes: "Yes",
-  mCancel: "Cancel",
-  mAuth: "Get Authentication",
-  mCreate: "Create",
-  mCreateLink: "Create Link",
-  mDelete: "Delete",
-  mLink: "Link",
-  mUnlink: "Unlink",
-  mRevoke: "Revoke",
-  mReload: "Reload",
-  mEdit: "Edit",
-  mClose: "Close",
-  mCopyOF: "Copy of [=name]",
-  mTransfer: "Transfer",
-  mDuplicate: "Duplicate",
-  mMerge: "Merge",
-  mArchive: "Archive",
-  mArchived: "Archived",
-  mOR: "or",
-  mDone: "Done",
-  mRename: "Rename",
-  mCopy: "Copy",
-  mCopyLink: "Copy link",
-  mCustomize: "Customize",
-  mHideCustomize: "Hide customization",
-  mApply: "Apply",
-  mPrimary: "Primary",
-  mPassword: "Password",
-  mTheme: "Theme",
-  mSettings: "Settings",
-  mDefault: "Default",
-  mSearch: "Search",
+  mOkay: "Está bom",
+  mYes: "Sim",
+  mCancel: "Cancelar",
+  mAuth: "Obter Autenticação",
+  mCreate: "Criar",
+  mCreateLink: "Criar Link",
+  mDelete: "Excluir",
+  mLink: "Vincular",
+  mUnlink: "Desvincular",
+  mRevoke: "Revogar",
+  mReload: "Recarregar",
+  mEdit: "Editar",
+  mClose: "Fechar",
+  mCopyOF: "Cópia de [=name]",
+  mTransfer: "Transferir",
+  mDuplicate: "Duplicar",
+  mMerge: "Juntar",
+  mArchive: "Arquivar",
+  mArchived: "Arquivado",
+  mOR: "ou",
+  mDone: "Concluído",
+  mRename: "Renomear",
+  mCopy: "Copiar",
+  mCopyLink: "Copiar link",
+  mCustomize: "Personalizar",
+  mHideCustomize: "Ocultar personalização",
+  mApply: "Aplicar",
+  mPrimary: "Primário",
+  mPassword: "Senha",
+  mTheme: "Tema",
+  mSettings: "Configurações",
+  mDefault: "Padrão",
+  mSearch: "Pesquisar",
 
-  mSelect: "Select",
-  mSelectAll: "Select all",
-  mUnselect: "Deselect",
-  mUnselectAll: "Deselect all",
+  mSelect: "Selecionar",
+  mSelectAll: "Selecionar tudo",
+  mUnselect: "Desmarcar",
+  mUnselectAll: "Desmarcar tudo",
 
-  mDuplicatedName: 'This name is already taken',
-  mDuplicatedValue: 'This value is already taken',
+  mDuplicatedName: 'Esse nome já foi usado',
+  mDuplicatedValue: 'Esse valor já foi usado',
 
-  mPreview: "PREVIEW",
-  mWrite: "WRITE",
+  mPreview: "VISTA PRÉVIA",
+  mWrite: "ESCREVER",
 
-  mDatePrep: " on",
-  mEditedAt: "Edited[=on] [=when]",
+  mDatePrep: " em",
+  mEditedAt: "Editado[=on] [=when]",
 
-  mCreatedByAt: "Created by [=who], [=when]",
-  mCompletedByAt: "Completed by [=who], [=when]",
-  mReopenedByAt: "Reopened by [=who], [=when]",
-  mDeferredByAt: "Deferred by [=who], [=when]",
-  mWorkedByAt: "Worked on by [=who], [=when]",
-  mPinnedByAt: "Pinned by [=who], [=when]",
+  mCreatedByAt: "Criado por [=who], [=when]",
+  mCompletedByAt: "Concluído por [=who], [=when]",
+  mReopenedByAt: "Reaberto por [=who], [=when]",
+  mDeferredByAt: "Adiado por [=who], [=when]",
+  mWorkedByAt: "Trabalhado por [=who], [=when]",
+  mPinnedByAt: "Fixado por [=who], [=when]",
 
-  mSetAsPrimary: "Set as primary",
+  mSetAsPrimary: "Definir como primário",
 
   mSubtaskStatus: 
-    '[=active] incomplete and [=completed] completed subtasks',
+    '[=active] subtarefas incompletas e [=completed] concluídas',
   mSubtaskStatusShort: 
-    '[=active] incomplete and [=completed] completed subtasks',
-  mSubtaskStatisticOthers: "Others",
-  mSubtaskStatisticUnasgd: "Unasgd",
+    '[=active] subtarefas incompletas e [=completed] concluídas',
+  mSubtaskStatisticOthers: "Outras",
+  mSubtaskStatisticUnasgd: "Por atribuir",
 
-  mProjectMember: "Project Members",
-  mMemberAmount: "[=amount] members",
-  mProjectMemberDesc: "[=amount] others from [=org] also have access to this project.",
-  mProjectLotCount: "[=amount] projects",
-  mProjectLotCountDesc: "You can add a maximum of [=amount] projects",
-  mInvitationSentTo: "The invitation has been sent to [=email]",
-  mViewMemberDesc: "Total [=number] members in this organization and its projects",
-  mViewMemberCount: "Member Count",
-  mShowMemberCount: "View complete member list",
-  mInvitationSent: "Invite sent",
+  mProjectMember: "Membros do Projeto",
+  mMemberAmount: "[=amount] membros",
+  mProjectMemberDesc: "[=amount] outros da [=org] também têm acesso a este projeto.",
+  mProjectLotCount: "[=amount] projetos",
+  mProjectLotCountDesc: "Você pode adicionar no máximo [=amount] projetos",
+  mInvitationSentTo: "O convite foi enviado para [=email]",
+  mViewMemberDesc: "Um total de [=number] membros nesta organização e seus projetos",
+  mViewMemberCount: "Contagem de membros",
+  mShowMemberCount: "Visualizar lista completa de membros",
+  mInvitationSent: "Convite enviado",
   
-  mNone: "None",
+  mNone: "Nenhum",
   mNA: "N/A",
 
-  mDontShowAgain: "Do not show again",
+  mDontShowAgain: "Não mostrar novamente",
 
-  mIdRequired: 'ID required',
-  mNameRequired: 'Name required',
-  mSubjectRequired: 'Subject required',
-  mCommentsRequired: 'Comments required',
+  mIdRequired: 'ID obrigatória',
+  mNameRequired: 'Nome obrigatório',
+  mSubjectRequired: 'Assunto obrigatório',
+  mCommentsRequired: 'Comentários obrigatórios',
 
-  mInputTooLong: "Please shorten your text to a maximum length of [=size].",
+  mInputTooLong: "Por favor, encurte seu texto para um tamanho máximo de [=size].",
     //more likely being attacked (so need to describe details)
 
-  mAddRootTask: "Add root task (t)",
-  mAddTask: "Add task (&#x23ce;)",
-  mAddSubTask: "Add subtask (Shift+&#x23ce;)",
-  mAddBoardTask: "Add tasks",
+  mAddRootTask: "Adicionar tarefa raiz (t)",
+  mAddTask: "Adicionar tarefa (&#x23ce;)",
+  mAddSubTask: "Adicionar subtarefa (Shift+&#x23ce;)",
+  mAddBoardTask: "Adicionar tarefas",
 
-  mAssignee: "Assignee",
-  mAssignees: "Assignees",
-  mFollowers: "Followers", 
-  mFavorites: "Favorites", 
+  mAssignee: "Responsável",
+  mAssignees: "Responsáveis",
+  mFollowers: "Seguidores", 
+  mFavorites: "Favoritos", 
 
-  mUnassigned: "Unassigned",
-  mAssignedTo: "Assigned to",
-  mAssignedBy: "Assigned by",
-  mCreatedBy: "Created by",
-  mFollowedByME: "Followed by me",
-  mFavoritedByME: "Favorited by me",
-  mAssignedToME: "Assigned to me",//cus filter
-  mSortByAssignee: "Sort by assignee",//cus filter
-  mSortByDate: "Sort by date",//cus filter
-  mPriority: "Priority",
-  mPriorityLabel: "Low,Medium,High,Urgent",
-  mStateLabel: "To-Do,In Progress,Completed",
-  mTaskTypeLabel: "Normal,Subproject,Label",
+  mUnassigned: "Não atribuído",
+  mAssignedTo: "Atribuído a",
+  mAssignedBy: "Atribuído por",
+  mCreatedBy: "Criado por",
+  mFollowedByME: "Seguido por mim",
+  mFavoritedByME: "Marcado como favorito por mim",
+  mAssignedToME: "Atribuído a mim",//cus filter
+  mSortByAssignee: "Classificar por responsável",//cus filter
+  mSortByDate: "Classificar por data",//cus filter
+  mPriority: "Prioridade",
+  mPriorityLabel: "Baixa,Média,Alta,Urgente",
+  mStateLabel: "Por Fazer, Em progresso, Concluída",
+  mTaskTypeLabel: "Normal,Subprojeto,Etiqueta",
 
-  mHideAddedTasks: 'Hide added tasks',//only used in add task to board picker
+  mHideAddedTasks: 'Ocultar tarefas adicionadas',//only used in add task to board picker
 
-  mMenuItemSortByStates: "Sort by status",
-  mMenuItemSortByPriority: "Sort by priority",
-  mMenuItemSortByAssignee: "Sort by assignee",
+  mMenuItemSortByStates: "Classificar por estado",
+  mMenuItemSortByPriority: "Classificar por prioridade",
+  mMenuItemSortByAssignee: "Classificar por responsável",
   
-  mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
+  mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Usuários,Filtros guardados",
 
-  mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress",
-  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks",
-  mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name",
+  mBaseFilterLabel: "Todas,Ativas,Concluídas,Por fazer,Em Progresso",
+  mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas",
+  mGrouperLabel: "Responsável,Data,Prioridade,Agendado Por Dia, Agendado Por Semana, Concluído Por Semana,Criar Por Semana, Iniciar Por Semana, Atualizar Por Semana, Estado, Nome",
 
-  mFilterRecentHistory: "Recent history",
-  mCusFilterSortLabel: "Sort",
-  mCusFilterLabel: "Filter",
+  mFilterRecentHistory: "Histórico recente",
+  mCusFilterSortLabel: "Classificar",
+  mCusFilterLabel: "Filtrar",
 
-  mSaveFilter: "Save this filter",
-  mAddFilter: "Add filter",
-  mRemoveFilter: "Remove filter",
+  mSaveFilter: "Salvar este filtro",
+  mAddFilter: "Adicionar filtro",
+  mRemoveFilter: "Remover filtro",
   
-  mProjectISPublic: "This project is public",
+  mProjectISPublic: "Este projeto é público",
 
-  mDeleteTask: "Delete this task ([=ctrlCommand]+DEL)",
-  mDuplicateTask: "Duplicate this task",
-  mTransferTask: "Transfer this task",
-  mMergeTask: "Merge this task",
-  mZoomInTask: "Zoom in (z)",
-  mZoomOutTask: "Zoom out (a)",
+  mDeleteTask: "Excluir esta tarefa ([=ctrlCommand]+DEL)",
+  mDuplicateTask: "Duplicar esta tarefa",
+  mTransferTask: "Transferir esta tarefa",
+  mMergeTask: "Fundir esta tarefa",
+  mZoomInTask: "Mais zoom (z)",
+  mZoomOutTask: "Menos zoom (a)",
   
   mTreeTagTooltip: "Tag",
 
-  mTreeMenuSetPriority: "Set priority",
-  mTreeMenuSetBoard: "Add to board",
-  mTreeMenuSetStatus: "Set status",
-  mTreeMenuApplyTags: "Set tags",
-  mTreeMenuSetAssignee: "Set assignees",
-  mTreeMenuSetDue: "Set due",
-  mTreeMenuFavorite: "Favorite",
-  mTreeMenuUnfavorite: "Unfavorite",
-  mTreeMenuFollow: "Follow",
-  mTreeMenuUnfollow: "Unfollow",
-  mTreeMenuOpenNewTab: "Open in new tab",
-  mTreeMenuDuplicate: "Duplicate",
-  mTreeMenuTransfer: "Transfer to",
-  mTreeMenuMerge: "Merge to",
-  mTreeMenuPaste: "Paste",
-  mTreeMenuDelete: "Delete ([=ctrlCommand]+DEL)",
+  mTreeMenuSetPriority: "Definir prioridade",
+  mTreeMenuSetBoard: "Adicionar ao quadro",
+  mTreeMenuSetStatus: "Definir estado",
+  mTreeMenuApplyTags: "Definir tags",
+  mTreeMenuSetAssignee: "Definir responsáveis",
+  mTreeMenuSetDue: "Definir data de conclusão",
+  mTreeMenuFavorite: "Favorito",
+  mTreeMenuUnfavorite: "Não favorito",
+  mTreeMenuFollow: "Seguir",
+  mTreeMenuUnfollow: "Não seguir",
+  mTreeMenuOpenNewTab: "Abrir em nova aba",
+  mTreeMenuDuplicate: "Duplicar",
+  mTreeMenuTransfer: "Transferir para",
+  mTreeMenuMerge: "Fundir com",
+  mTreeMenuPaste: "Colar",
+  mTreeMenuDelete: "Excluir ([=ctrlCommand]+DEL)",
 
   // batch
-  mTreeBatchCompleteTooltip: "Complete",
-  mTreeBatchAssigneeTooltip: "Assignee",
-  mTreeBatchDateTooltip: "Due date",
-  mTreeBatchPriorityTooltip: "Priority",
-  mTreeBatchDeleteTooltip: "Delete",
+  mTreeBatchCompleteTooltip: "Concluído",
+  mTreeBatchAssigneeTooltip: "Responsável",
+  mTreeBatchDateTooltip: "data de conclusão",
+  mTreeBatchPriorityTooltip: "Prioridade",
+  mTreeBatchDeleteTooltip: "Excluir",
   
-  mSidebarOpenTooltip: "Open sidebar",
-  mSidebarPinTooltip: "Pin sidebar",
-  mSidebarHideTooltip: "Hide sidebar",
-  mSidebarAddScopeTooltip: "Add projects, organizations, etc.",
+  mSidebarOpenTooltip: "Abrir barra lateral",
+  mSidebarPinTooltip: "Fixar barra lateral",
+  mSidebarHideTooltip: "Ocultar barra lateral",
+  mSidebarAddScopeTooltip: "Adicionar projetos, organizações, etc.",
 
-  mSidebarAddFavTooltip: "Add to bookmarks",
-  mSidebarRMFavTooltip: "Remove from bookmarks",
-  mRemoveRecent: "Remove from Recent",
-  mSidebarSearchForPrj: "Search projects, organizations, etc. ([=ctrlCommand]+B)",
+  mSidebarAddFavTooltip: "Adicionar aos favoritos",
+  mSidebarRMFavTooltip: "Remover dos favoritos",
+  mRemoveRecent: "Remover dos Recentes",
+  mSidebarSearchForPrj: "Pesquisar projetos, organizações, etc. ([=ctrlCommand]+B)",
   
-  mBlinkSearchHint: "Blink Search",
+  mBlinkSearchHint: "Pesquisa Rápida",
 
-  mDetailOpenTooltip: "Open detail panel (SPACE)",
-  mDetailHideTooltip: "Hide detail panel (SPACE)",
-  mDetailCancelPinTooltip: "Hide detail panel",
-  mDetailPinTooltip: "Pin detail panel",
+  mDetailOpenTooltip: "Abrir painel de detalhes (ESPAÇO)",
+  mDetailHideTooltip: "Ocultar painel de detalhes (ESPAÇO)",
+  mDetailCancelPinTooltip: "Ocultar painel de detalhes",
+  mDetailPinTooltip: "Fixar painel de detalhes",
 
-  mComplete: "Complete",
-  mCompleteNTasks: "Complete [=amount] tasks",
-  mReopen: "Reopen",
-  mStatus: "Status",
+  mComplete: "Concluído",
+  mCompleteNTasks: "Concluídas [=amount] tarefas",
+  mReopen: "Reabrir",
+  mStatus: "Estado",
 
-  mNotifications: "Notifications",
+  mNotifications: "Notificações",
 
-  mShowMarkdownTips: "Click to get tips on Markdown",
+  mShowMarkdownTips: "Clique para obter dicas sobre o Markdown",
 
-  mHelp: "Help",
-  mDownload: "Download",
-  mFullSize: "Full size",
+  mHelp: "Ajuda",
+  mDownload: "Baixar",
+  mFullSize: "Tamanho grande",
   
-  mOptions: "Options",
-  mFilter: "Filter",
-  mFilterActive: "Active Tasks",
-  mFilterAll: "All Tasks",
-  mFilterCompleted: "Completed Tasks",
-  mFilterMYTasks: "My Tasks",
+  mOptions: "Opções",
+  mFilter: "Filtro",
+  mFilterActive: "Tarefas Ativas",
+  mFilterAll: "Todas as Tarefas",
+  mFilterCompleted: "Tarefas Concluídas",
+  mFilterMYTasks: "Minhas Tarefas",
 
-  mEditFilter: "Save New Filter",
-  mFilterName: "Filter name",
+  mEditFilter: "Salvar Novo Filtro",
+  mFilterName: "Nome do Filtro",
 
-  mTreeFilterFilteredBy: "Filter by",
-  mTreeFilterSortBy: "Sort by",
-  mClearFilter: "Clear filter",
+  mTreeFilterFilteredBy: "Filtrar por",
+  mTreeFilterSortBy: "Classificar por",
+  mClearFilter: "Limpar filtro",
 
-  mTreeExpandSubtasks: "Expand all subtasks",
-  mTreeExpandIncomplete: "Expand all incomplete",
-  mTreeExpandTo: "Expand up to",
-  mTreeExpandLevelLabel: "1st level,2nd level,3rd level,4th level",
+  mTreeExpandSubtasks: "Expandir todas as subtarefas",
+  mTreeExpandIncomplete: "Expandir todas as incompletas",
+  mTreeExpandTo: "Expandir até",
+  mTreeExpandLevelLabel: "1º nível,2º nível,3º nível,4º nível",
   
-  mUndo: "UNDO",
-  mShowUndoTooltip: "Show undo list",
-  mUndoTooltip: "Undo",
+  mUndo: "DESFAZER",
+  mShowUndoTooltip: "Mostrar lista desfazer",
+  mUndoTooltip: "Desfazer",
 
-  mActivities: "Activities",
+  mActivities: "Atividades",
   mOnline: "Online",
 
-  mTaskActivities: "Task activities",
-  mNActivities: "[=count] activities",
+  mTaskActivities: "Atividades da tarefa",
+  mNActivities: "[=count] atividades",
 
-  mAddFirstTaskHint: "Enter a task name",
-  mAddTaskHere: "Click here to add task",
-  mAddTaskNameHere: "Add task name here",
-  mAddBoard: "Add board",
-  mEditBoard: "Edit Board",
-  mAddStatus: "Add status",
-  mEditStatus: "Edit Status",
+  mAddFirstTaskHint: "Digite um nome de tarefa",
+  mAddTaskHere: "Clique aqui para adicionar tarefa",
+  mAddTaskNameHere: "Adicionar nome da tarefa aqui",
+  mAddBoard: "Adicionar quadro",
+  mEditBoard: "Editar Quadro",
+  mAddStatus: "Adicionar estado",
+  mEditStatus: "Editar Estado",
 
-  mAddDesc: "Add description",
-  mEditDesc: "Edit",
+  mAddDesc: "Adicionar descrição",
+  mEditDesc: "Editar",
   mEditSaveTooltip: "[=ctrlCommand]+&#x23ce;",
   mEditCancelTooltip: "[=shiftCommand]+Esc",
-  mEditCancelMessage: "Press [=shiftCommand]+Esc to cancel the changes.",
-  mAddComment: "Add comment",
-  mEditComment: "Edit comment",
-  mPinComment: "Pin",
-  mUnpinComment: "Unpin",
+  mEditCancelMessage: "Pressione [=shiftCommand]+Esc para cancelar as alterações.",
+  mAddComment: "Adicionar comentário",
+  mEditComment: "Editar comentário",
+  mPinComment: "Fixar",
+  mUnpinComment: "Soltar",
   
-  mMore: "more",
-  mNOther: ", and there's [=count] more",
+  mMore: "mais",
+  mNOther: ", e existem mais [=count]",
 
-  mDueDate: "Due date",
-  mDueDateGroupComing: "Upcoming",
-  mDueDateGroupComingShort: "In 5d",
+  mDueDate: "Data de Conclusão",
+  mDueDateGroupComing: "Futuras",
+  mDueDateGroupComingShort: "Em 5d",
 
-  mAssigneePickerPlaceholder: "Set assignee by name or email",
-  mFollowerPickerPlaceholder: "Add follower by name or email",
-  mReadonlyTagPickerPlaceholder: "Select tags below",
-  mReadonlyTagPickerPlaceholderEmpty: "No tags available",
+  mAssigneePickerPlaceholder: "Definir responsável por nome ou email",
+  mFollowerPickerPlaceholder: "Adicionar seguidor por nome ou email",
+  mReadonlyTagPickerPlaceholder: "Selecionar tags abaixo",
+  mReadonlyTagPickerPlaceholderEmpty: "Não existem tags disponíveis",
 
-  mUserPickerHint: "Or invite a new member by email address",
-  mUserPickerInviteHint: "Press ENTER to send an invitation",
-  mUserPickerHintNOInvite: "Or select a member from the list below",
+  mUserPickerHint: "Ou convide um novo usuário por endereço de email",
+  mUserPickerInviteHint: "Pressione ENTER para enviar um convite",
+  mUserPickerHintNOInvite: "Ou selecione um usuário da lista abaixo",
   mUserPickerInviteHintNOInvite: 
-    "You do not have <a href=\"[=link]\" target=\"_blank\">permission</a> to add a new member",
+    "Você não tem <a href=\"[=link]\" target=\"_blank\">permissão</a> para adicionar um novo membro",
 
-  mAddAssignee: "Add assignee",
-  mAddDate: "Add date",
+  mAddAssignee: "Adicionar responsável",
+  mAddDate: "Adicionar data",
 
-  mAddToFollower: "Add to followers",
+  mAddToFollower: "Adicionar aos seguidores",
 
-  mAssignMultiple: "Add to assignees",
-  mRemoveAssignMultiple: "Remove from assignees",
-  mAssignPartner: "Assign an external team",
-  mAddNewTeam: "Create new team",
+  mAssignMultiple: "Adicionar aos responsáveis",
+  mRemoveAssignMultiple: "Remover dos responsáveis",
+  mAssignPartner: "Atribuir a uma equipe externa",
+  mAddNewTeam: "Criar nova equipe",
   mAssignPartnerDesc:
-    'This task has already been assigned to an external team, but you can'
-    ' <a>assign it to your team member</a>',
+    'Esta tarefa já foi atribuída a uma equipe externa, mas você pode'
+    ' <a>atribui-la a um membro da sua equipe</a>',
 
-  mAssigneeMemberListTitle: "[=team] members",
+  mAssigneeMemberListTitle: "membros [=team]",
 
-  mInviteMembers: "Invite members",
-  mInvite: "Invite",
-  mREInvite: "Reinvite",
-  mNotSignedUP: "Not signed up yet",
-  mAddMemberMultiplePlaceholder: "Add members by emails",
-  mAddMemberHint: "You can enter multiple emails at once using commas.",
-  mAddMemberInvalidEmail: 'You have entered an invalid email address.',
+  mInviteMembers: "Convidar usuários",
+  mInvite: "Convidar",
+  mREInvite: "Voltar a convidar",
+  mNotSignedUP: "Ainda não se registrou",
+  mAddMemberMultiplePlaceholder: "Adicionar usuários por emails",
+  mAddMemberHint: "Você pode inserir vários emails de uma só vez, usando vírgulas.",
+  mAddMemberInvalidEmail: 'Você digitou um endereço de email inválido.',
 
-  mCreatePartner: "Create External Team",
-  mManageAPartner: "External Team and Members",
-  mNPartners: "[=n] External teams",
-  mManagePartnerMembers: "Members",
-  mManagePartnerMembersDesc: "Members in the team have access to any tasks assigned to it",
+  mCreatePartner: "Criar Equipe Externa",
+  mManageAPartner: "Equipe Externa e usuários",
+  mNPartners: "[=n] Equipes externas",
+  mManagePartnerMembers: "Membros",
+  mManagePartnerMembersDesc: "Membros da equipe têm acesso a qualquer tarefa atribuída a ela",
 
-  mEditTeam: "Edit this team",
-  mAddTeamNameHere: "Add team name here",
+  mEditTeam: "Editar esta equipe",
+  mAddTeamNameHere: "Adicione o nome da equipe aqui",
 
-  mLinkAccessedNTimes: 'Accessed [=n] times',
+  mLinkAccessedNTimes: 'Acessado [=n] vezes',
 
-  mUserpickerTitle: "Edit Assignee",
+  mUserpickerTitle: "Editar Responsável",
 
-  mShowMoreOptions: "Show more options",
-  mTaskStartOptionToggleTitle: "Set start date",
-  mTaskTimeOptionToggleTitle: "Set time",
+  mShowMoreOptions: "Mostrar mais opções",
+  mTaskStartOptionToggleTitle: "Definir data de início",
+  mTaskTimeOptionToggleTitle: "Definir hora",
 
-  mTaskRecurringOptionTooltip: "Repeat task",
-  mTaskRecurringOptionToggleTitle: "Set to repeat",
-  mTaskRecurringOptionLabelRepeat: "Repeat",
-  mTaskRecurringOptionLabelNORepeat: "Don’t Repeat",
-  mTaskRecurringOptionLabelBy: "by",
-  mTaskRecurringOptionLabelOn: "On the",
-  mTaskRecurringOptionLabelOnWeekday: "On",
-  mTaskRecurringOptionLabelOF: "of",
-  mTaskRecurringOptionLabelEvery: "Every",
-  mTaskRecurringOptionLabelDay: "day",
-  mTaskRecurringOptionLabelDays: "days",
-  mTaskRecurringOptionLabelWeek: "weeks",
-  mTaskRecurringOptionLabelMonth: "months",
-  mTaskRecurringOptionLabelSinceCompleted: "Since my last completed day",
-  mTaskRecurringOptionLabelUntilEnds: "Ends",
+  mTaskRecurringOptionTooltip: "Repetir tarefa",
+  mTaskRecurringOptionToggleTitle: "Definir para repetir",
+  mTaskRecurringOptionLabelRepeat: "Repetir",
+  mTaskRecurringOptionLabelNORepeat: "Não Repetir",
+  mTaskRecurringOptionLabelBy: "por",
+  mTaskRecurringOptionLabelOn: "No",
+  mTaskRecurringOptionLabelOnWeekday: "Na",
+  mTaskRecurringOptionLabelOF: "de",
+  mTaskRecurringOptionLabelEvery: "Cada",
+  mTaskRecurringOptionLabelDay: "dia",
+  mTaskRecurringOptionLabelDays: "dias",
+  mTaskRecurringOptionLabelWeek: "semanas",
+  mTaskRecurringOptionLabelMonth: "meses",
+  mTaskRecurringOptionLabelSinceCompleted: "Desde o meu último dia concluído",
+  mTaskRecurringOptionLabelUntilEnds: "Termina a",
 
-  mTaskRecurringOptionWeekly: "weekly",
-  mTaskRecurringOptionMonthly: "monthly",
-  mTaskRecurringOptionYearly: "yearly",
-  mTaskRecurringOptionCustom: "custom",
+  mTaskRecurringOptionWeekly: "semanalmente",
+  mTaskRecurringOptionMonthly: "mensalmente",
+  mTaskRecurringOptionYearly: "anualmente",
+  mTaskRecurringOptionCustom: "personalizar",
 
-  mTaskRecurringOptionNever: "never",
-  mTaskRecurringOptionDay: "day of week",
-  mTaskRecurringOptionDate: "date",
-  mTaskRecurringOptionOnDate: "on",
+  mTaskRecurringOptionNever: "nunca",
+  mTaskRecurringOptionDay: "dia da semana",
+  mTaskRecurringOptionDate: "data",
+  mTaskRecurringOptionOnDate: "a",
 
-  mTaskRecurringOptionDayLast: "last",
-  mTaskRecurringOptionDateLast: "last",
+  mTaskRecurringOptionDayLast: "último",
+  mTaskRecurringOptionDateLast: "última",
 
-  mDatepickerSwitchTooltip: "Start/Due",
-  mDatepickerTimeTooltip: "Add time",
+  mDatepickerSwitchTooltip: "Início/Fim",
+  mDatepickerTimeTooltip: "Adicionar hora",
 
-  mDatepickerTitle: "Due Date",
+  mDatepickerTitle: "Data de conclusão",
 
   mTag: "Tag",
   mTags: "Tags",
-  mTagName: "Tag name",
-  mAddTag: "Add tag",
-  mRemoveTag: "Remove tag",
-  mAddNewTag: "Add new tag",
-  mNewTagHint: "(new tag)",
-  mNewTagCreateHint: "(new)",
-  mNewTag: "Create Tag",
-  mEditTag: "Edit Tag",
-  mDeleteTag: "Delete Tag",
-  mDeleteTagContent: "You are about to <strong>permanently delete</strong> the tag [=name].",
-  mGlobalTag: "Visible to all projects",
-  mUnsetGlobalTag: "Remove from Other Projects",
-  mUnsetGlobalTagContent: "You are about to <strong>remove</strong> the tag [=name] from other projects in the same organization.",
+  mTagName: "Nome de Tag",
+  mAddTag: "Adicionar tag",
+  mRemoveTag: "Remover tag",
+  mAddNewTag: "Adicionar nova tag",
+  mNewTagHint: "(nova tag)",
+  mNewTagCreateHint: "(nova)",
+  mNewTag: "Criar Tag",
+  mEditTag: "Editar Tag",
+  mDeleteTag: "Excluir Tag",
+  mDeleteTagContent: "Você está prestes a <strong>excluir permanentemente</strong> a tag [=name].",
+  mGlobalTag: "Visível para todos os projetos",
+  mUnsetGlobalTag: "Remover de Outros Projetos",
+  mUnsetGlobalTagContent: "Você está prestes a <strong>remover</strong> a tag [=name] de outros projetos na mesma organização.",
   mDeleteGlobalTagContent:
-    'You are about to <strong>permanently delete</strong> the tag [=name].<br><br>'
-    'This tag will be removed from other projects in the same organization as well.',
+    'Você está prestes a <strong>excluir permanentemente</strong> a tag [=name].<br><br>'
+    'Essa tag será também removida de outros projetos na mesma organização.',
 
-  mSearchTagPlaceholder: "Search tags",
+  mSearchTagPlaceholder: "Pesquisar tags",
 
-  mTaskRemoved: "[=task] has been deleted",
-  mTaskCompleted: "[=task] has been completed",
+  mTaskRemoved: "[=task] foi excluída",
+  mTaskCompleted: "[=task] foi concluída",
 
-  mTaskNotFound: "Task [=id] cannot be found.",
-  mCommentNotFound: "This comment cannot be found. It could be deleted.",
-  mTagNotFound: "No tags found.",
+  mTaskNotFound: "A tarefa [=id] não foi encontrada.",
+  mCommentNotFound: "Este comentário não pode ser encontrado. Pode ter sido excluído.",
+  mTagNotFound: "Nenhuma tag encontrada.",
 
-  mNOTaskFound: "No tasks found.",
-  mNOTaskFoundDesc: "Try search for something else, or <a class=[=clz]>reset filter</a>.",
+  mNOTaskFound: "Nenhuma tarefa encontrada.",
+  mNOTaskFoundDesc: "Tente pesquisar por outra coisa, ou <a class=[=clz]>remova o filtro</a>.",
 
-  "UDS$udtComplete": "Completed [=task]",
-  "UDP$udtComplete": "Completed [=task] and others",
-  "UDS$udtMove": "Moved [=task]",
-  "UDP$udtMove": "Moved [=task] and others",
-  "UDS$udtRemove": "Deleted [=task]",
-  "UDP$udtRemove": "Deleted [=task] and others",
-  "UDS$udtAssign": "Assigned [=task] to [=value]",
-  "UDP$udtAssign": "Assigned [=task] to [=value] and others",
-  "UDSR$udtAssign": "Unassigned [=value] from [=task]",
-  "UDPR$udtAssign": "Unassigned [=value] from [=task] and others",
-  "UDSC$udtAssign": "Unassigned all from [=task]",
-  "UDPC$udtAssign": "Unassigned all from [=task] and others",
-  "UDS$udtDue": "Set due date [=value:due] to [=task]",
-  "UDP$udtDue": "Set due date [=value:due] to [=task] and others",
-  "UDSR$udtDue": "Removed due date [=value:due] from [=task]",
-  "UDPR$udtDue": "Removed due date [=value:due] from [=task] and others",
-  "UDS$udtTag": "Added tag [=value] to [=task]",
-  "UDP$udtTag": "Added tag [=value] to [=task] and others",
-  "UDSR$udtTag": "Removed tag [=value] from [=task]",
-  "UDPR$udtTag": "Removed tag [=value] from [=task] and others",
-  "UDSC$udtTag": "Cleared tags from [=task]",
-  "UDPC$udtTag": "Cleared tags from [=task] and others",
-  "UDS$udtPriority": "Prioritized [=task] with [=value]",
-  "UDP$udtPriority": "Prioritized [=task] and others with [=value]",
-  "UDS$udtTitle": "Renamed [=value] to [=task]",
-  "UDP$udtTitle": "Renamed [=value] and others to [=task]",
-  "UDS$udtDesc": "Edited the description of [=task]",
-  "UDP$udtDesc": "Edited the descriptions of [=task] and others",
+  "UDS$udtComplete": "Concluiu [=task]",
+  "UDP$udtComplete": "Concluiu [=task] e outras",
+  "UDS$udtMove": "Moveu [=task]",
+  "UDP$udtMove": "Moveu [=task] e outras",
+  "UDS$udtRemove": "Excluiu [=task]",
+  "UDP$udtRemove": "Excluiu [=task] e outras",
+  "UDS$udtAssign": "Atribuiu [=task] a [=value]",
+  "UDP$udtAssign": "Atribuiu [=task] a [=value] e outros",
+  "UDSR$udtAssign": "Desatribuiu [=value] de [=task]",
+  "UDPR$udtAssign": "Desatribuiu [=value] de [=task] e outras",
+  "UDSC$udtAssign": "Desatribuiu todos de [=task]",
+  "UDPC$udtAssign": "Desatribuiu todos de [=task] e outras",
+  "UDS$udtDue": "Definiu data de conclusão [=value:due] para [=task]",
+  "UDP$udtDue": "Definiu data de conclusão [=value:due] para [=task] e outras",
+  "UDSR$udtDue": "Removeu data de conclusão [=value:due] de [=task]",
+  "UDPR$udtDue": "Removeu data de conclusão de [=value:due] de [=task] e outras",
+  "UDS$udtTag": "Adicionou tag [=value] para [=task]",
+  "UDP$udtTag": "Adicionou tag [=value] para [=task] e outras",
+  "UDSR$udtTag": "Removeu tag [=value] de [=task]",
+  "UDPR$udtTag": "Removeu tag [=value] de [=task] e outras",
+  "UDSC$udtTag": "Limpou tags de [=task]",
+  "UDPC$udtTag": "Limpou tags de [=task] e outras",
+  "UDS$udtPriority": "Priorizou [=task] com [=value]",
+  "UDP$udtPriority": "Priorizou [=task] e outras com [=value]",
+  "UDS$udtTitle": "Renomeou [=value] para [=task]",
+  "UDP$udtTitle": "Renomeou [=value] e outras para [=task]",
+  "UDS$udtDesc": "Editou a descrição de [=task]",
+  "UDP$udtDesc": "Editou a descrição de [=task] e outras",
 
-  mMutipleSelectTask: "Selected <b>[=amount]</b> tasks",
-  mShowMutipleSelectTaskTooltip: "Show selected tasks",
-  mHideMutipleSelectTaskTooltip: "Hide selected tasks",
+  mMutipleSelectTask: "Selecionou <b>[=amount]</b> tarefas",
+  mShowMutipleSelectTaskTooltip: "Mostrar tarefas selecionadas",
+  mHideMutipleSelectTaskTooltip: "Ocultar tarefas selecionadas",
 
-  mShowStatesTooltip: "Show [=status]",
-  mBoardListTooltip: "Board list",
+  mShowStatesTooltip: "Mostrar [=status]",
+  mBoardListTooltip: "Lista de Quadro",
   
 
-  mCommentsRemoved: "This comment has been removed.",
+  mCommentsRemoved: "Este comentário foi removido.",
 
-  mOffHintDesc: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
+  mOffHintDesc: "Pressione [=ctrlAlt] novamente para desativar a exibição da ID da tarefa e mais.",
 
-  mNewTaskNameHint1: "Type @, #, ! and < to set assignees, tags...",
-  mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
-  mNewTaskNameHint3: "Press Esc to stop adding tasks",
+  mNewTaskNameHint1: "Digite @, #, ! e < para definir responsáveis, tags...",
+  mNewTaskNameHint2: "Pressiosse Tab e Shift+Tab para mover a tarefa horizontalmente",
+  mNewTaskNameHint3: "Pressione Esc para parar de adicionar tarefas",
 
-  mSearchIconTooltip: "Search tasks",
-  mSearchTaskHintIncomplete: "Search incomplete tasks",
-  mSearchTaskHintAll: "Search all tasks",
-  mSearchTaskHintComplete: "Search completed tasks",
-  mSearchTaskHintAutocomplete: "You can also search by @assignee, #tag or !priority",
+  mSearchIconTooltip: "Pesquisar tarefas",
+  mSearchTaskHintIncomplete: "Pesquisar tarefas incompletas",
+  mSearchTaskHintAll: "Pesquisar todas as tarefas",
+  mSearchTaskHintComplete: "Pesquisar tarefas concluídas",
+  mSearchTaskHintAutocomplete: "Você também pode pesquisar por @responsável, #tag ou !prioridade",
 
   //style autocomplete
-  autocompleteStyleBold: "Bold",
-  autocompleteStyleUnderline: "Underline",
-  autocompleteStyleTitle: "Title",
-  autocompleteStyleRed: "Red",
-  autocompleteStyleItalic: "Italic",
-  autocompleteStyleHighlight: "Highlight",
+  autocompleteStyleBold: "Negrito",
+  autocompleteStyleUnderline: "Sublinhado",
+  autocompleteStyleTitle: "Título",
+  autocompleteStyleRed: "Vermelho",
+  autocompleteStyleItalic: "Itálico",
+  autocompleteStyleHighlight: "Realçar",
 
   //upload
-  mAttachFiles: "Attach files",
-  mAttachFilesFromGoogle: "Attach files from Google Drive",
-  mDragFilesHere: "Drop files here",
-  mUploading: "Uploading [=name]",
+  mAttachFiles: "Anexar arquivos",
+  mAttachFilesFromGoogle: "Anexe arquivos do Google Drive",
+  mDragFilesHere: "Solte os arquivos aqui",
+  mUploading: "Enviando [=name]",
 
   mFileLimit:
-    "Unable to upload the file because it exceeds the maximum size allowed ([=size])",
+    "Não foi possível enviar o arquivo porque ele excede o tamanho máximo permitido ([=size])",
   mFileQuota:
-    "Unable to upload the file because it exceeds the maximum file quota allowed ([=size])",
-  mFileUnfinished: "There are unfinished file uploads, do you still want to close the window and cancel the uploads?",
+    "Não foi possível enviar o arquivo porque ele excede a cota máxima de arquivos permitida ([=size])",
+  mFileUnfinished: "Existem envios de arquivos pendentes. Ainda assim, você ainda deseja fechar a janela e cancelar os envios?",
 
-  mUnableUploadAttmtTitle: "Unable to upload files",
-  mUnableUploadAttmtDesc: "Due to a <strong>[=size]</strong> file size limit, the following files cannot be uploaded: <strong>[=name]</strong>.",
+  mUnableUploadAttmtTitle: "Não foi possível enviar os arquivos",
+  mUnableUploadAttmtDesc: "Devido a um limite de tamanhoa de arquivo <strong>[=size]</strong>, os seguintes arquivos não podem ser enviados: <strong>[=name]</strong>.",
 
-  mUploadPicture: "Upload picture",
-  mChangeIconColor: "Change icon color",
-  mChangeIconTooltip: "Edit icon",
+  mUploadPicture: "Enviar imagem",
+  mChangeIconColor: "Alterar cor do ícone",
+  mChangeIconTooltip: "Editar ícone",
 
-  mDragPhotoHere: "Drag a photo here",
-  mProfilePicHere: "Drop a picture here",
-  mSelectPhotoFromPC: "Select from computer",
-  mSetProfilePicture: "Set as profile picture",
+  mDragPhotoHere: "Arraste uma foto aqui",
+  mProfilePicHere: "Solte uma imagem aqui",
+  mSelectPhotoFromPC: "Selecionar do computador",
+  mSetProfilePicture: "Definir como imagem de perfil",
   
-  mFailUpload: "Oops.. failed to upload this time. Please give it another try!",
-  mFailUploadFormat: "Sorry, we do not support the file format: [=format].",
-  mFailUploadSize: "The file size must be less than [=size]",
+  mFailUpload: "Opa.. parece que falhou ao fazer o envio desta vez. Por favor, tente novamente!",
+  mFailUploadFormat: "Desculpe, não suportamos o formato do arquivo: [=format].",
+  mFailUploadSize: "O tamanho do arquivo deve ser menor que [=size]",
 
-  mDeleteFile: "Delete Attachment",
-  mDeleteFileContent: "You are about to <strong>permanently delete</strong> the attachment [=name].",
+  mDeleteFile: "Excluir Anexo",
+  mDeleteFileContent: "Você está prestes a <strong>excluir permanentemente</strong> o anexo [=name].",
 
-  mNotSupportPreview: "This file is not available for preview.",
-  mFileOpenNewTab: "Open in New Tab",
+  mNotSupportPreview: "Este arquivo não está disponível para visualização.",
+  mFileOpenNewTab: "Abrir em Nova Aba",
 
   //option menu
-  mMenuExport: "Export",
-  mMenuEditName: "Edit name & description",
-  mMenuEditMember: "Edit members",
-  mMenuViewMember: "View members",
-  mMenuEditProjects: "Edit projects",
-  mMenuComment: "Comment",
-  mMenuPrint: "Print...",
-  mMenuIntegrate: "Integrate",
-  mMenuCalendars: "Calendars...",
+  mMenuExport: "Exportar",
+  mMenuEditName: "Editar nome e descrição",
+  mMenuEditMember: "Editar membros",
+  mMenuViewMember: "Visualizar membros",
+  mMenuEditProjects: "Editar projetos",
+  mMenuComment: "Comentar",
+  mMenuPrint: "Imprimir...",
+  mMenuIntegrate: "Integrar",
+  mMenuCalendars: "Calendários...",
   mMenuGithub: "Github...",
 
-  mMenuMore: "More",
+  mMenuMore: "Mais",
 
-  mMenuDuplicate: "Duplicate...",
-  mMenuTransfer: "Transfer...",
-  mMenuArchive: "Archive...",
-  mMenuUnarchive: "Unarchive",
-  mMenuDelete: "Delete...",
-  mMenuAddProject: "Add project...",
-  mMenuProfile: "Profile",
-  mMenuAccount: "Account Settings",
-  mMenuSettings: "Settings",
+  mMenuDuplicate: "Duplicar...",
+  mMenuTransfer: "Transferir...",
+  mMenuArchive: "Arquivar...",
+  mMenuUnarchive: "Desarquivar",
+  mMenuDelete: "Excluir...",
+  mMenuAddProject: "Adicionar projeto...",
+  mMenuProfile: "Perfil",
+  mMenuAccount: "Configurações de Conta",
+  mMenuSettings: "Configurações",
 
-  mMenuBoardAddTask: "Create new tasks",
-  mMenuBoardAddTaskExist: "Add existing tasks",
-  mMenuEditBoard: "Edit board",
-  mMenuBoardEditStatus: "Edit status",
-  mMenuBoardHideStatus: "Hide status",
-  mMenuBoardRemoveStatus: "Remove <strong>[=status]</strong> from <strong>[=board]</strong>",
+  mMenuBoardAddTask: "Criar novas tarefas",
+  mMenuBoardAddTaskExist: "Adicionar tarefas existentes",
+  mMenuEditBoard: "Editar quadro",
+  mMenuBoardEditStatus: "Edit estado",
+  mMenuBoardHideStatus: "Ocultar estado",
+  mMenuBoardRemoveStatus: "Remover <strong>[=status]</strong> de <strong>[=board]</strong>",
 
-  mMenuTaskCardEditCover: "Edit cover",
-  mMenuTaskCardRemoveCover: "Remove cover",
-  mMenuTaskCardTransferBoard: "Transfer task to another board",
-  mMenuTaskCardRemoveFromBoard: "Remove task from <strong>[=board]</strong>",
+  mMenuTaskCardEditCover: "Editar capa",
+  mMenuTaskCardRemoveCover: "Remover capa",
+  mMenuTaskCardTransferBoard: "Transferir tarefa para outro quadro",
+  mMenuTaskCardRemoveFromBoard: "Remover tarefa de <strong>[=board]</strong>",
 
-  mSettingOptionsTab: "Options",
-  mSettingMemberTab: "Members",
-  mSettingGeneralTab: "General",
+  mSettingOptionsTab: "Opções",
+  mSettingMemberTab: "Membros",
+  mSettingGeneralTab: "Geral",
 
   //Dialogs
-  mCreateNewCrossProject: "Create new smart folder",
-  mCrossProjectName: "Smart folder name",
-  mSelectAProject: "Select a project",
-  mSelectAnotherProject: "Select another project",
-  mSelectAnotherProjectOptional: "Select another project (optional)",
-  mAddAnotherProject: "Add another project",
-  mProjectN: "Project [=n]",//e.g. Project 1, Project 2, ....
+  mCreateNewCrossProject: "Criar nova pasta inteligente",
+  mCrossProjectName: "Nome da pasta inteligente",
+  mSelectAProject: "Selecionar um projeto",
+  mSelectAnotherProject: "Selecionar outro projeto",
+  mSelectAnotherProjectOptional: "Selecionar outro projeto (opcional)",
+  mAddAnotherProject: "Adicionar outro projeto",
+  mProjectN: "Projeto [=n]",//e.g. Project 1, Project 2, ....
 
 
-  mCreateOrganization: "Create an Organization",
-  mCreateProject: "Create a project",
-  mDuplicateProject: "Duplicate project",
-  mDialogTitleProjectSettings: "Project Settings",
-  mCreateBoard: "Create a board",
+  mCreateOrganization: "Criar uma Organização",
+  mCreateProject: "Criar um projeto",
+  mDuplicateProject: "Duplicar projeto",
+  mDialogTitleProjectSettings: "Configurações do Projeto",
+  mCreateBoard: "Criar um quadro",
 
-  mOrganizationName: "Organization name",
-  mProjectName: "Project name",
-  mNewProjectName: "New project name",
-  mCopyFromProject: "Template",
-  mProjectUrl: "Project URL",
-  mBoardName: "Board name",
-  mBoardUrl: "Board URL",
-  mBoardShareWith: "Share with",
-  mBoardShareProjectMember: "Project Members",
-  mBoardShareWithWho: "This board is shared with [=who].",
+  mOrganizationName: "Nome da Organização",
+  mProjectName: "Nome do Projeto",
+  mNewProjectName: "Novo nome de projeto",
+  mCopyFromProject: "Modelo",
+  mProjectUrl: "URL do Projeto",
+  mBoardName: "Nome do Quadro",
+  mBoardUrl: "URL do Quadro",
+  mBoardShareWith: "Compartilhar com",
+  mBoardShareProjectMember: "Membros do Projeto",
+  mBoardShareWithWho: "Este quadro é compartilhado com [=who].",
 
-  mSettingLabelTask: "Task",
-  mSettingLabelShowIcon: "Icon",
-  mSettingLabelShowIconDesc: "Highlight this project by displaying its icon in the sidebar",
-  mSettingLabelVisibility: "Visibility",
+  mSettingLabelTask: "Tarefa",
+  mSettingLabelShowIcon: "Ícone",
+  mSettingLabelShowIconDesc: "Realce este projeto exibindo seu ícone na barra lateral",
+  mSettingLabelVisibility: "Visibilidade",
 
-  mSettingOptionAddToTop: "Add to top",
-  mSettingOptionAddToBottom: "Add to bottom",
-  mSettingOptionFavorite: "Favorites",
-  mSettingOptionFavoriteDesc: "Enable to ♥ a task and focus on those that matter to you personally",
-  mSettingOptionComment: "Comment",
-  mSettingOptionCommentNewAtTop: "Newest at top",
-  mSettingOptionCommentOldAtTop: "Oldest at top",
+  mSettingOptionAddToTop: "Adicionar ao topo",
+  mSettingOptionAddToBottom: "Adicionar ao fundo",
+  mSettingOptionFavorite: "Favoritos",
+  mSettingOptionFavoriteDesc: "Habilite para ♥ uma tarefa e concentre-se naquelas que são mais importantes para você pessoalmente",
+  mSettingOptionComment: "Comentar",
+  mSettingOptionCommentNewAtTop: "Mais novas no topo",
+  mSettingOptionCommentOldAtTop: "Mais antigas no topo",
 
-  mSettingOptionStart: "Start date",
-  mSettingOptionStartDesc: "Always show start date when you set date",
-  mSettingOptionTime: "Time",
-  mSettingOptionTimeDesc: "Always show time when you set date",
-  mSettingOptionAssignee: "Multiple assignees",
-  mSettingOptionAssigneeDesc: "Always add to assignees when you click on member's names",
-  mSettingOptionStatus: "Status",
-  mSettingOptionStatusDesc: "Always show status options when you click on the complete icon",
-  mSettingOptionPrivate: "Private",
-  mSettingOptionPrivateDesc: "Available only to your project and organization members",
-  mSettingOptionPublic: "Public",
-  mSettingOptionPublicDesc: "Available to any user including anonymous users",
-  mSettingOptionPublicAllowAddDesc: "Allow users to add tasks at the first level",
+  mSettingOptionStart: "Data de Início",
+  mSettingOptionStartDesc: "Mostrar sempre a data de início quando você define a data",
+  mSettingOptionTime: "Hora",
+  mSettingOptionTimeDesc: "Mostrar sempre a hora quando define uma data",
+  mSettingOptionAssignee: "Vários responsáveis",
+  mSettingOptionAssigneeDesc: "Adicionar sempre aos responsáveis quando você clica nos nomes dos usuários",
+  mSettingOptionStatus: "Estado",
+  mSettingOptionStatusDesc: "Mostrar sempre as opções de estado quando você clica no ícone de concluído",
+  mSettingOptionPrivate: "Privado",
+  mSettingOptionPrivateDesc: "Disponível apenas para membros do seu projeto e organização",
+  mSettingOptionPublic: "Público",
+  mSettingOptionPublicDesc: "Disponível para qualquer usuário, incluindo usuários anônimos",
+  mSettingOptionPublicAllowAddDesc: "Permitir que os usuários adicionem tarefas no primeiro nível",
 
-  mSettingOptionLeaveOrganization: "Leave organization",
-  mSettingOptionDeleteOrganization: "Delete organization",
+  mSettingOptionLeaveOrganization: "Deixar organização",
+  mSettingOptionDeleteOrganization: "Excluir organização",
 
-  mSettingOptionExportCsv: "Export to CSV",
-  mSettingOptionExportJson: "Export to JSON",
-  mSettingOptionDuplicateProject: "Duplicate project", //shall be "Duplicate this project", but keep it short
-  mSettingOptionTransferProject: "Transfer project", //shall be "Transfer this project", but keep it short
-  mSettingOptionMakeArchive: "Archive project",
-  mSettingOptionMakeUnarchive: "Unarchive project",
-  mSettingOptionLeaveProject: "Leave project",
-  mSettingOptionDeleteProject: "Delete project",//shall be "Delete this project", but keep it short
+  mSettingOptionExportCsv: "Exportar para CSV",
+  mSettingOptionExportJson: "Exportar para JSON",
+  mSettingOptionDuplicateProject: "Duplicar projeto", //shall be "Duplicate this project", but keep it short
+  mSettingOptionTransferProject: "Transferir projeto", //shall be "Transfer this project", but keep it short
+  mSettingOptionMakeArchive: "Arquivar projeto",
+  mSettingOptionMakeUnarchive: "Desarquivar projeto",
+  mSettingOptionLeaveProject: "Deixar projeto",
+  mSettingOptionDeleteProject: "Excluir projeto",//shall be "Delete this project", but keep it short
 
-  mSettingOptionDeleteProjectLot: "Delete smart folder",
+  mSettingOptionDeleteProjectLot: "Excluir pasta inteligente",
 
-  mSettingOptionManageMember: "Manage members",
-  mSettingMembersRemoveTooltip: "Remove",
-  mSettingOptionManagePartners: "Manage external teams",
-  mSettingPartnersEditTooltip: "Edit",
-  mSettingPartnersDeleteTooltip: "Delete",
-  mSettingOptionManageTags: "Manage tags",
-  mSettingOptionSyncCalendar: "Sync to calendar",
-  mSettingOptionIntegra: "Integrate [=name]",
+  mSettingOptionManageMember: "Gerenciar membros",
+  mSettingMembersRemoveTooltip: "Remover",
+  mSettingOptionManagePartners: "Gerenciar equipes externas",
+  mSettingPartnersEditTooltip: "Editar",
+  mSettingPartnersDeleteTooltip: "Excluir",
+  mSettingOptionManageTags: "Gerenciar tags",
+  mSettingOptionSyncCalendar: "Sincronizar com calendário",
+  mSettingOptionIntegra: "Integrar [=name]",
 
-  mStandardThemes: ":Serene Light,dark:Monochrome Dark",
+  mStandardThemes: ":Claro Sereno,escuro:Escuro Monocromático",
 
-  mDeleteOrganization: "Delete this organization",
-  mDeleteProjectLotTitle: "Delete Smart Folder",
-  mDeleteProjectTitle: "Delete Project",
-  mTransferProjectTitle: "Transfer Project",
-  mCopyProject: "Make a copy of [=name]",
-  mArchiveProject: "Archive Project",
-  mCopyProjectSharePeople: "Share it with the same people",
+  mDeleteOrganization: "Excluir esta organização",
+  mDeleteProjectLotTitle: "Excluir Pasta Inteligente",
+  mDeleteProjectTitle: "Excluir Projeto",
+  mTransferProjectTitle: "Transferir Projeto",
+  mCopyProject: "Fazer uma cópia de [=name]",
+  mArchiveProject: "Arquivar Projeto",
+  mCopyProjectSharePeople: "Compartilhe com as mesmas pessoas",
 
-  mTransferTaskTitle: "Transfer Tasks",
-  mArchiveBoard: "Archive Board",
-  mDeletePartnerTitle: "Delete External Team",
-  mDeleteBoardTitle: "Delete Board",
-  mDeleteStatusTitle: "Remove Status",
+  mTransferTaskTitle: "Transferir Tarefas",
+  mArchiveBoard: "Arquivar Quadro",
+  mDeletePartnerTitle: "Excluir Equipe Externa",
+  mDeleteBoardTitle: "Excluir Quadro",
+  mDeleteStatusTitle: "Remover Estado",
   
-  mMakeUnarchiveMsg: "You've unarchived this project.",
+  mMakeUnarchiveMsg: "Você desarquivou este projeto.",
 
   mPermissionChange:
-    "Your permissions in this project have been changed.",
+    "Suas permissões neste projeto foram alteradas.",
 
   mRemoveOrganizationMemberContent:
-    "This will unassign this member from all his assigned tasks in this organization.",
+    "Isso cancelará a atribuição desse usuário de todas as tarefas atribuídas a ele nessa organização.",
   mRemoveProjectMemberContent:
-    "This will unassign this member from [=task] in this project.",
+    "Isso cancelará a atribuição desse usuário de [=task] nesse projeto.",
   mRemoveProjectMemberContentPlural:
-    "This will unassign this member from [=task] and [=count] other tasks in this project.",
+    "Isso cancelará a atribuição desse usuário de [=task] e outras [=count] tarefas nesse projeto.",
   
 
   mDeleteOrganizationContent:
-    "You are about to <strong>permanently delete</strong> the organization [=name:full].",
+    "Você está prestes a <strong>excluir permanentemente</strong> a organização [=name:full].",
   mDeleteProjectLotContent:
-    "You are about to <strong>delete</strong> the smart folder [=name:full].",
+    "Você está prestes a <strong>excluir</strong> a pasta inteligente [=name:full].",
   mDeleteProjectContent:
-    "You are about to <strong>permanently delete</strong> the project [=name:full].",
+    "Você está prestes a <strong>excluir permanentemente</strong> o projeto [=name:full].",
   mDeletePartnerContent:
-    "You are about to <strong>permanently delete</strong> the external team [=name].",
+    "Você está prestes a <strong>excluir permanentemente</strong> a equipe externa [=name].",
   mDeleteBoardContent:
-    "You are about to <strong>permanently delete</strong> the board [=name].",
+    "Você está prestes a <strong>excluir permanentemente</strong> o quadro [=name].",
   mDeleteStatusContent:
-    "You are about to <strong>remove</strong> the status [=name].",
+    "Você está prestes a <strong>remover</strong> o estado [=name].",
   mDeleteEntityConfirm:
-    "I am aware that I <strong>cannot undo</strong> this.",
+    "Estou ciente de que <strong>não posso desfazer</strong> isso.",
   mDeleteOrganizationConfirm:
-    "Please type in the name of the organization to confirm.",
+    "Por favor, digite o nome da organização para confirmar.",
   mDeleteProjectLotConfirm:
-    "Projects in this smart folder will <b>not</b> be deleted.",
+    "Os projetos nesta pasta inteligente <b>não</b> serão excluídos.",
   mDeleteProjectConfirm:
-    "Please type in the name of the project to confirm.",
+    "Por favor, digite o nome do projeto para confirmar.",
   mDeleteAccountContent:
-    "You are about to <strong>permanently delete</strong> your user account, "
-    "<b>[=email]</b>, and all associated data.",
+    "Você está prestes a <strong>excluir permanentement</strong> sua conta de usuário, "
+    "<b>[=email]</b>, e todos os dados associados.",
   mDeleteAccountConfirm:
-    "I am aware that I <strong>cannot undo</strong> this.",
-  mDeleteAccount: "Delete My Account",
+    "Estou ciente de que <strong>não posso desfazer</strong> isso.",
+  mDeleteAccount: "Excluir Minha Conta",
 
-  mLeaveOrganizationTitle: "Leave Organization",
-  mLeaveOrganizationDesc: "You will no longer have access to this organization. Are you sure you want to leave?",
-  mLeaveProjectTitle: "Leave Project",
-  mLeaveProjectDesc: "You will no longer have access to this project. Are you sure you want to leave?",
-  mLeaveErrorMessage: "Sorry, you cannot leave because you are the only admin left.",
+  mLeaveOrganizationTitle: "Deixar Organização",
+  mLeaveOrganizationDesc: "Você não terá mais acesso a esta organização. Você tem certeza de que deseja sair?",
+  mLeaveProjectTitle: "Deixar Projeto",
+  mLeaveProjectDesc: "Você não terá mais acesso a este projeto. Você tem certeza de que deseja sair?",
+  mLeaveErrorMessage: "Desculpe, você não pode sair porque você é o único administrador que resta.",
 
   mTransferProjectContent:
-    "You are about to transfer [=name] to organization",
+    "Você está prestes a transferir [=name] para a organização",
 //  mTransferProjectConfirm:
-//    "I am aware that I <strong>cannot access</strong> the project after "
-//    "the transfer if I do not have access permission for the new organization.",
+//    "Estou ciente de que <strong>não poderei acessar</strong> o projeto depois "
+//    "da transferência, se não tiver permissão de acesso para a nova organização.",
 
-  mLoadOrganizationsFailed: "You do not have the permission to create a project in any existing organization. "
-    'You have to create your own organization first.',
+  mLoadOrganizationsFailed: "Você não tem permissão para criar um projeto em nenhuma organização existente. "
+    'Você tem que criar sua própria organização, primeiro.',
 
   mArchiveProjectContent:
-    "You are about to archive this project. "
-    "An archived project will be moved to the Archived category in the sidebar.",
+    "Você está prestes a arquivar este projeto. "
+    "Um projeto arquivado será movido para a categoria Arquivado na barra lateral.",
 
-  mDuplicateTaskTitle: "Duplicate Task",
+  mDuplicateTaskTitle: "Duplicar Tarefa",
   mDuplicateTaskContent:
-    "You are about to duplicate [=name].",
+    "Você está prestes a duplicar [=name].",
   mDuplicateTaskContentPlural:
-    "You are about to duplicate [=name] and [=count] other tasks.",
+    "Você está prestes a duplicar [=name] e outras [=count] tarefas.",
 
-  mDuplicateTaskCPState: "Reset all statuses to [=todo]",
-  mDuplicateTaskCPBoard: "Keep the duplicated task in the same board",
+  mDuplicateTaskCPState: "Redefinir todos os estados para [=todo]",
+  mDuplicateTaskCPBoard: "Manter a tarefa duplicada no mesmo quadro",
 
 
 
   mTransferTaskContent:
-    "You are about to transfer [=name] to project",
+    "Você está prestes a transferir [=name] para o projeto",
   mTransferTaskContentPlural:
-    "You are about to transfer [=name] and [=count] other tasks to project",
+    "Você está prestes a transferir [=name] e outras [=count] tarefas para o projeto",
   
-  mTransferTaskCPTaskFinish: "Copy of [=name] has been transferred to [=project].",
-  mTransferTaskCPTaskFinishPlural: "Copy of [=name] and [=count] other tasks have been transferred to [=project].",
-  mTransferTaskTaskFinish: "[=name] has been transferred to [=project].",
-  mTransferTaskTaskFinishPlural: "[=name] and [=count] other tasks have been transferred to [=project].",
+  mTransferTaskCPTaskFinish: "Cópia de [=name] foi transferida para [=project].",
+  mTransferTaskCPTaskFinishPlural: "Cópia de [=name] e outras [=count] tarefas foram transferidas para [=project].",
+  mTransferTaskTaskFinish: "[=name] foi transferida para [=project].",
+  mTransferTaskTaskFinishPlural: "[=name] e outras [=count] tarefas foram transferidas para [=project].",
   
 
 
-  mTransferTaskCPTask: "Transfer a copy and keep the tasks in the current project",
+  mTransferTaskCPTask: "Transferir uma cópia e manter as tarefas no projeto atual",
   mTransferTaskIncUser:
-    "Add people associated with the tasks to that project",
+    "Adicionar pessoas associadas com tarefas a esse projeto",
   mTransferTaskIncTag:
-    "Add the tags of the tasks to that project",
-  mLoadProjectsFailed: "You do not have the permission to transfer tasks to another project.",
+    "Adicionar as tags das tarefas a esse projeto",
+  mLoadProjectsFailed: "Você não tem permissão para transferir tarefas para outro projeto.",
   
-  mMergeTaskTitle: "Merge Task",
+  mMergeTaskTitle: "Fundir Tarefa",
   mMergeTaskDesc:
-    "You are about to merge [=name] to another task.<br><br>"
-    "When you merge this task, it will close and its favorites and followers will be added to the selected task.",
-  mMergeTaskPlaceholder: "Select a task to merge to",
-  mMergeTaskHint: "You must enter a valid task ID or task name",
-  mMergedTaskComment: "Merged to [=link].",
-  mMergeToTaskComment: "Merged [=link] to this task.",
-  mMergeTaskToChildHint: "You cannot merge the task to its subtask",
-  mMergeTaskToSelfHint: "You cannot merge the task to itself",
+    "Você está prestes a fundir [=name] a outra tarefa.<br><br>"
+    "Quando você fundir essa tarefa, ela será fechada e seus favoritos e seguidores serão adicionados à tarefa selecionada.",
+  mMergeTaskPlaceholder: "Selecione uma tarefa para fundir",
+  mMergeTaskHint: "Você deve digitar uma ID de tarefa ou nome de tarefa válido",
+  mMergedTaskComment: "Fundido para [=link].",
+  mMergeToTaskComment: " [=link] Fundido para esta tarefa.",
+  mMergeTaskToChildHint: "Você não pode fundir a tarefa à sua subtarefa",
+  mMergeTaskToSelfHint: "Você não pode fundir a tarefa a si mesma",
 
-  mPasteTaskTitle: "Paste",
-  mPasteTaskFirstHint: "Press [=ctrlCommand]+V to paste",
+  mPasteTaskTitle: "Colar",
+  mPasteTaskFirstHint: "Pressione [=ctrlCommand]+V para colar",
   mPasteTaskFirstMessage: 
-    'You can press [=ctrlCommand]+V or right click to paste what you copied. '
-    'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste</a>.',
+    'Você pode pressionar [=ctrlCommand]+V ou clicar com o botão direito para colar o que você copiou. '
+    'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar</a>.',
   mPasteTaskFirstErrorMessage: 
-    'Nothing is copied or what you copied is not recognizable. '
-    'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',
+    'Nada está copiado ou o que você copiou não é reconhecível. '
+    'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',
   mPasteTaskSecondHint: 
-    "You can press [=ctrlCommand]+V again to replace the current content.",
-  mPasteTaskSecondHintIE: "Click <a>here</a> to paste again.",
+    "Você pode pressionar [=ctrlCommand]+V novamente para substituir o conteúdo atual.",
+  mPasteTaskSecondHintIE: "Clique <a>aqui</a> para colar novamente.",
   mPasteTaskSecondMessage: 
-    'You can choose how tasks are imported and preview them below. '
-    'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',
-  mPasteTaskAsOption1: "single task",
-  mPasteTaskAsOption2: "multiple tasks",
-  mPasteTaskToOption1: "same level as tasks",
-  mPasteTaskToOption2: "lower level as subtasks",
+    'Você pode escolher como as tarefas são importadas e visualizá-las abaixo. '
+    'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',
+  mPasteTaskAsOption1: "tarefa única",
+  mPasteTaskAsOption2: "várias tarefas",
+  mPasteTaskToOption1: "mesmo nível das tarefas",
+  mPasteTaskToOption2: "nível inferior como subtarefas",
 
-  mInvalidId: 'Invalid ID. Only letters, digits, dashes, dots, and underscores are allowed.',
-  mInvalidUrl: 'Invalid URL',
-  mInvalidValue: 'Invalid value',
-  mEmailConfirmSentTitle: 'Confirmation Sent',
+  mInvalidId: 'ID inválida. Somente letras, dígitos, traços, pontos e sublinhas são permitidos.',
+  mInvalidUrl: 'URL inválido',
+  mInvalidValue: 'Valor inválido',
+  mEmailConfirmSentTitle: 'Confirmação Enviada',
   mEmailConfirmSent:
-    'A confirmation email has been sent. '
-    'Please check your email and visit the confirmation link in the email.',
-  mEmailNotConfirm: 'Not confirmed',
-  mPasswordTooShort: 'Password must have at least 6 characters',
-  mPasswordNumberLetter: 'Password must contain at least one number and one letter',
-  mIncorrectPassword: 'The password you entered is incorrect',
-  mPasswordChanged: 'Password has been changed successfully',
-  mShowPassword: 'Show password',
+    'Um email de confirmação foi enviado. '
+    'Por favor, verifique seu email e acesse o link de confirmação no email.',
+  mEmailNotConfirm: 'Não confirmado',
+  mPasswordTooShort: 'A senha deve conter pelo menos 6 caracteres',
+  mPasswordNumberLetter: 'A senha deve conter pelo menos um número e uma letra',
+  mIncorrectPassword: 'A senha que você digitou está incorreta',
+  mPasswordChanged: 'A senha foi alterada com sucesso',
+  mShowPassword: 'Mostrar senha',
 
-  mSyncCalendarTitle: "Sync to Calendar",
-  mSyncHtmlCalendarOption: "Google Calendar (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook or Other Calendar (Plain Text)",
+  mSyncCalendarTitle: "Sincronizar com o Calendário",
+  mSyncHtmlCalendarOption: "Agenda Google (HTML)",
+  mSyncPlainTextCalendarOption: "iCal, Outlook ou Outro Calendário (Texto Simples)",
   mSyncHtmlCalendarContent: 
-    'Follow the steps:'
+    'Siga os passos:'
     '<ol>'
-    "<li>Copy the URL above.</li>"
-    '<li>Go to Google Calendar and find "Other calendars" in the bottom left.</li>'
-    '<li>Select "Add by URL" from the drop down menu.</li>'
-    '<li>Paste the URL in the dialogue and click on "Add Calendar."</li>'
+    "<li>Copie o URL acima.</li>"
+    '<li>Acesse a Agenda Google e encontre "Outros Calendários" no canto inferior esquerdo.</li>'
+    '<li>Selecione "Adicionar por URL" do menu suspenso.</li>'
+    '<li>Cole o URL no diálogo e clique em "Adicionar Calendário."</li>'
     '</ol>'
-    '<p>Note: Only incomplete tasks with due dates will be shown. '
-    'It may take a day for Google Calendar to be in sync.</p>',
+    '<p>Nota: Apenas tarefas incompletas com datas de conclusão serão mostradas. '
+    'Pode demorar um dia para sincronizar o Calendário Google.</p>',
   mSyncPlainTextCalendarContent: 
-    'Copy the URL above and go to your calendar app to subscribe.<br>'
-    '<p>Note: Only incomplete tasks with due dates will be shown.</p>',
-  mSyncCalendarScopeLabel: 'Sync',
-  mSyncCalendarToLabel: 'To',
-  mSyncCalendarProjectTask: 'All tasks in this project',
-  mSyncCalendarProjectMYTask: 'My tasks in this project',
-  mSyncCalendarMYTask: 'My tasks in all projects',
+    'Copie o URL acima e acesse o seu aplicativo de calendário para se inscrever.<br>'
+    '<p>Nota: Somente tarefas incompletas com datas de conclusão serão exibidas.</p>',
+  mSyncCalendarScopeLabel: 'Sincronizar',
+  mSyncCalendarToLabel: 'Para',
+  mSyncCalendarProjectTask: 'Todas as tarefas neste projeto',
+  mSyncCalendarProjectMYTask: 'Minhas Tarefas neste projeto',
+  mSyncCalendarMYTask: 'Minhas Tarefas em todos os projetos',
 
-  mIntegrationGithubTitle: "GitHub Integration",
-  mIntegrationGithubContent: 'You can link GitHub commits to your tasks so everyone on your team can keep track of the code changes, or autocomplete tasks.<br><br>'
-    'Looking at the code changes, you can also refer to the relevant tasks used as issues on Quire.<br><br>'
-    'More about <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">GitHub Integration</a>',
+  mIntegrationGithubTitle: "Integração com o GitHub",
+  mIntegrationGithubContent: 'Você pode vincular os commits do GitHub às suas tarefas para que todos em sua equipe possam acompanhar as alterações no código ou as tarefas de preenchimento automático.<br><br>'
+    'Olhando para as alterações de código, você também pode consultar as tarefas relevantes usadas como problemas no Quire.<br><br>'
+    'Mais sobre <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integração do GitHub</a>',
 
-  mIntegraGithubRepoErrorTitle: "Saving Failed",
+  mIntegraGithubRepoErrorTitle: "Salvar Falhou",
   mIntegraGithubRepoErrorContent: 
-    'Oops...it seems we have encountered an error. '
-    'We will look into it, and meanwhile, please try again.<br>'
-    'If the error persists, please <a href="/feedback">contact us</a>.',
-  mIntegraGithubRepoSuccessTitle: "Saved Successfully",
+    'Opa...parece que encontramos um erro. '
+    'Vamos investigar, enquanto isso, por favor, tente novamente.<br>'
+    'Se o erro persistir, por favor, <a href="/feedback">entre em contato</a>.',
+  mIntegraGithubRepoSuccessTitle: "Salvo com Sucesso",
   mIntegraGithubRepoSuccessContent: 
-    'You will be redirected to your project in 5 seconds.',
+    'Você será redirecionado para o seu projeto em 5 segundos.',
 
-  mIntegrationUnlinklSlackTitle: 'Unlink',
+  mIntegrationUnlinklSlackTitle: 'Desvincular',
   mIntegrationUnlinklSlackContent: 
-  'This organization will no longer be linked to [=team].',
+  'Esta organização não estará mais vinculada a [=team].',
 
-  mIntegrationRevokeSlackUserTitle: 'Revoke Permissions',
+  mIntegrationRevokeSlackUserTitle: 'Revogar Permissões',
   mIntegrationRevokeSlackUserContent: 
-    'This app will no longer have access to your Quire data.',
+    'Esse aplicativo não terá mais acesso aos seus dados do Quire.',
 
-  mCreateLinkTitle: 'Create Share Link',
+  mCreateLinkTitle: 'Criar Link de Compartilhamento',
   mCreateLinkContent:
-    'Select when the link will expire so after that it will no longer be accessible.',
-  mLinkExpiresOn: 'Expires on',
+    'Selecione quando o link expirará para não seja mais acessível.',
+  mLinkExpiresOn: 'Expira em',
 
-  mLinkCreatedTitle: 'Share Link Created',
+  mLinkCreatedTitle: 'Compartilhar Link Criado',
   mLinkCreatedContent: 
-    'Copy the link below and send it to your clients.<br><br>'
-    'Note: Anyone with the link will have read-only access to your project. Please keep the link safe or make it expire sooner.',
-  mLinkCopied: 'Link copied to clipboard',
-  mLinkExpired: 'Link expired',
+    'Copie o link abaixo e envie para seus clientes.<br><br>'
+    'Nota: Qualquer pessoa com o link terá acesso somente de leitura ao seu projeto. Por favor, mantenha o link seguro ou faça com que ele expire mais cedo.',
+  mLinkCopied: 'Link copiado para a área de transferência',
+  mLinkExpired: 'Link expirado',
 
-  mEditShareLinkTitle: 'Edit Shared Link',
+  mEditShareLinkTitle: 'Editar Link Compartilhado',
   mEditShareLinkContent: 
-    'You can update the expiry date to give the shared link a new deadline.',
+    'Você pode atualizar a data de expiração para dar uma nova data de validade ao link compartilhado.',
 
   mArchiveBoardContent: 
-    "You are about to archive this board. An archived board will be "
-    "moved to the Archived category in the dropdown.",
+    "Você está prestes a arquivar este quadro. Um quadro arquivado será "
+    "movido para a categoria Arquivado no menu suspenso.",
 
-  mArchiveBoardOptionMigrate: 'Move remaining tasks to a new board',
-  mArchiveBoardOptionLeaveTasks: 'Leave remaining tasks in the current board',
-  mArchiveBoardOptionMigrateButton: 'Archive & Create New Board',
+  mArchiveBoardOptionMigrate: 'Mover as tarefas restantes para um novo quadro',
+  mArchiveBoardOptionLeaveTasks: 'Deixar as tarefas restantes no quadro atual',
+  mArchiveBoardOptionMigrateButton: 'Arquivar e Criar Novo Quadro',
 
 
-  mAddTaskToBoardTitle: 'Add Existing Tasks',
+  mAddTaskToBoardTitle: 'Adicionar Tarefas Existentes',
   mAddTaskToBoardContent: 
-    'You can select existing tasks to add to this board.',
-  mAddedInBoardTooltip: 'Added in <i>[=board]</i>',
+    'Você pode selecionar tarefas existentes para adicionar a este quadro.',
+  mAddedInBoardTooltip: 'Adicionado a <i>[=board]</i>',
 
-  mConfirmAddTaskToBoardTitle: 'Status Change',
+  mConfirmAddTaskToBoardTitle: 'Alteração de Estado',
   mConfirmAddTaskToBoardContent:
-    "The task you selected [=task] has a different status. "
-    "Are you sure you want to move the task to this status?",
+    "A tarefa que você selecionou [=task] tem um estado diferente. "
+    "Tem a certeza de que deseja mover a tarefa para este estado?",
   mConfirmAddTaskToBoardContentPlural:
-    "The tasks you selected [=task] and [=count] more have a different status. "
-    "Are you sure you want to move the tasks to this status?",
+    "As tarefas que você selecionou [=task] e [=count] mais têm um estado diferente. "
+    "Tem a certeza de que deseja mover as tarefas para este estado?",
 
   mCreateStatusContent: 
-    'You need to set a progress and color for the new status.',
+    'Você precisa definir um progresso e cor para o novo estado.',
   mEditStatusContent: 
-    'You can edit the status name and its progress and color.',
+    'Você pode editar o nome do estado e seu progresso e cor.',
 
 
-  mApiRightEditTask: "Edit tasks in the projects",
-  mApiRightAddTask: "Add tasks for you",
-  mApiRightCompleteTask: "Complete tasks for you",
-  mApiRightDeleteTask: "Delete tasks for you",
-  mApiRightRead: "Read all of your organizations and projects",
+  mApiRightEditTask: "Editar tarefas nos projetos",
+  mApiRightAddTask: "Adicionar tarefas por você",
+  mApiRightCompleteTask: "Concluir tarefas por você",
+  mApiRightDeleteTask: "Excluir tarefas por você",
+  mApiRightRead: "Ler todas as suas organizações e projetos",
 
-  mUserOrganizationRoles: "Admin,Normal+,Normal,Limited+,Guest",
-  mUserProjectRoles: "Admin,Normal,Limited,Guest",
+  mUserOrganizationRoles: "Administrador,Normal+,Normal,Limitado+,Convidado",
+  mUserProjectRoles: "Administrador,Normal,Limitado,Convidado",
 
-  mOrgAdminDesc: "Can manage all projects, tasks and members in this organization.",
-  mOrgNormalPDesc: "Can manage all projects, add projects, and edit this organization except members or delete.",
-  mOrgNormalDesc: "Can add projects, and edit this organization except members or delete.",
-  mOrgLimitedDesc: "Can read all projects in this organization, add tasks, and manage assigned tasks except delete.",
-  mOrgGuestDesc: "Can read this organization only.",
+  mOrgAdminDesc: "Pode gerenciar todos os projetos, tarefas e membros desta organização.",
+  mOrgNormalPDesc: "Pode gerenciar todos os projetos, adicionar projetos e editar essa organização exceto usuários ou excluir.",
+  mOrgNormalDesc: "Pode adicionar projetos e editar esta organização exceto usuários ou excluir.",
+  mOrgLimitedDesc: "Pode ler todos os projetos nesta organização, adicionar tarefas e gerenciar tarefas atribuídas exceto excluir.",
+  mOrgGuestDesc: "Pode ler apenas esta organização.",
 
-  mProjectAdminDesc: "Can manage all tasks and members in this project.",
-  mProjectNormalDesc: "Can add and edit all tasks, and manage project except its members or delete it.",
-  mProjectLimitedDesc: "Can add tasks, and manage assigned tasks except delete.",
-  mProjectGuestDesc: "Can read, and post comments.",
+  mProjectAdminDesc: "Pode gerenciar todas as tarefas e membros neste projeto.",
+  mProjectNormalDesc: "Pode adicionar e editar todas as tarefas e gerenciar o projeto exceto seus usuários ou excluí-lo.",
+  mProjectLimitedDesc: "Pode adicionar tarefas e gerenciar tarefas atribuídas exceto excluir.",
+  mProjectGuestDesc: "Pode ler e postar comentários.",
 
-  mPartnerAdminDesc: "Can manage all outsourced tasks and external members in this project.",
-  mPartnerNormalDesc: "Can add and edit all tasks under outsourced tasks.",
-  mPartnerLimitedDesc: "Can add tasks under outsourced tasks, and manage assigned tasks except delete.",
-  mPartnerGuestDesc: "Can read, and post comments.",
+  mPartnerAdminDesc: "Pode gerenciar todas as tarefas terceirizadas e usuários externos neste projeto.",
+  mPartnerNormalDesc: "Pode adicionar e editar todas as tarefas em tarefas terceirizadas.",
+  mPartnerLimitedDesc: "Pode adicionar tarefas em tarefas terceirizadas e gerenciar tarefas atribuídas exceto excluir.",
+  mPartnerGuestDesc: "Pode ler e postar comentários.",
 
-  mSearchEscape: "<code>Esc</code> to close search",
+  mSearchEscape: "<code>Esc</code> para fechar a pesquisa",
   //end of Dialogs
 
 
-  mSearchProjectHint: "search",
-  mSearchMustChar: "Type 3 or more characters or press Enter to search",
-  mSearchOption: "Search Scope",
-  mUserNobody: "Nobody",
+  mSearchProjectHint: "pesquisar",
+  mSearchMustChar: "Digite 3 ou mais caracteres ou pressione Enter para pesquisar",
+  mSearchOption: "Escopo de Pesquisa",
+  mUserNobody: "Ninguém",
 
-  mGroupDropStateToComplete: "Drop tasks here to complete",
-  mGroupDropStateToStart: "Drop tasks here to start",
-  mGroupDropStateToPostpone: "Drop tasks here to postpone",
+  mGroupDropStateToComplete: "Solte as tarefas aqui para concluir",
+  mGroupDropStateToStart: "Solte as tarefas aqui para iniciar",
+  mGroupDropStateToPostpone: "Solte as tarefas aqui para adiar",
   
-  mGroupDropPriority: "Drop tasks here to set this priority",
-  mGroupDropAssignee: "Drop tasks here to set this assignee",
-  mGroupDropUnassign: "Drop tasks here to remove assignees",
-  mGroupDropRemoveDue: "Drop tasks here to remove due dates",
-  mGroupDropDueDay: "Drop tasks here to set this due date",
-  mGroupDropDueDays: "Drop tasks here to set a due date",
-  mGroupDropStartDays: "Drop tasks here to set a start date",
-  mGroupDropRemoveStart: "Drop tasks here to remove start dates",
+  mGroupDropPriority: "Solte as tarefas aqui para definir essa prioridade",
+  mGroupDropAssignee: "Solte as tarefas aqui para definir esse responsável",
+  mGroupDropUnassign: "Solte as tarefas aqui para remover responsáveis",
+  mGroupDropRemoveDue: "Solte as tarefas aqui para remover datas de conclusão",
+  mGroupDropDueDay: "Solte as tarefas aqui para definir essa data de conclusão",
+  mGroupDropDueDays: "Solte as tarefas aqui para definir uma data de conclusão",
+  mGroupDropStartDays: "Solte as tarefas aqui para definir uma data de início",
+  mGroupDropRemoveStart: "Solte as tarefas aqui para remover datas de início",
 
-  mDragTooltipState: "Drag and drop to set status",
-  mDragTooltipPriority: "Drag and drop to set priority",
-  mDragTooltipAssignee: "Drag and drop to set or remove assignees",
-  mDragTooltipDueDate: "Drag and drop to set due dates",
-  mDragTooltipDuePer: "Drag and drop to set or remove due dates",
-  mDragTooltipStartPer: "Drag and drop to set or remove start dates",
-  mDragTooltipReprder: "Drag to reorder",
+  mDragTooltipState: "Arraste e solte para definir o estado",
+  mDragTooltipPriority: "Arraste e solte para definir a prioridade",
+  mDragTooltipAssignee: "Arraste e solte para definir ou remover responsáveis",
+  mDragTooltipDueDate: "Arraste e solte para definir datas de conclusão",
+  mDragTooltipDuePer: "Arraste e solte para definir ou remover datas de conclusão",
+  mDragTooltipStartPer: "Arraste e solte para definir ou remover datas de início",
+  mDragTooltipReprder: "Arraste para reclassificar",
 
   // bubble tips
   mTipOpenDetail:
-    "You can click to add description, post comments, attach files, etc.",
+    "Você pode clicar para adicionar decrição, postar comentários, anexar arquivos, etc.",
   mTipPinDetail:
-    "You can click to make the detail panel sticky.",
+    "Você pode clicar para tornar o painel de detalhes fixo.",
   mTipFilterForCompleted:
-    "You can click All Tasks to see tasks you just completed.",
+    "Você pode clicar em Todas as Tarefas para ver tarefas que acabou de concluir.",
   mTipEnterToAddTask:
-    "You can press Enter to add new tasks.",
+    "Você pode pressionar Enter para adicionar novas tarefas.",
 
   // views
-  mProfileViewTooltip: "Overview",
-  mTreeViewTooltip: "Tasks",
-  mMYTaskViewTooltip: "My Tasks",
-  mBoardViewTooltip: "Board",
+  mProfileViewTooltip: "Visão Geral",
+  mTreeViewTooltip: "Tarefas",
+  mMYTaskViewTooltip: "Minhas Tarefas",
+  mBoardViewTooltip: "Quadro",
 
   // profile
-  mProfileEditTooltip: "Edit",
+  mProfileEditTooltip: "Editar",
   
-  mStatsWeeklyCompletedLabel: "Completed",
-  mStatsWeeklyCreatedLabel: "Created",
-  mStatsWeeklyAssignedByLabel: "Assigned by",
-  mStatsWeeklyAssignedToLabel: "Assigned to",
+  mStatsWeeklyCompletedLabel: "Concluído",
+  mStatsWeeklyCreatedLabel: "Criado",
+  mStatsWeeklyAssignedByLabel: "Atribuído por",
+  mStatsWeeklyAssignedToLabel: "Atribuído a",
 
-  mStatsMYTasksSec: "My Tasks",
-  mStatsUserTasksSec: "'s Tasks",
+  mStatsMYTasksSec: "Minhas Tarefas",
+  mStatsUserTasksSec: "Tarefas de",
 };

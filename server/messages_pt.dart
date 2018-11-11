@@ -12,344 +12,344 @@ part of server.intl.messages_all;
  */
 
 const Map<String, String> ptServer = const {
-  mSubmit: "Submit",
+  mSubmit: "Submeter",
 
-  mProjectLC: "project",
-  mOrganizationLC: "organization",
+  mProjectLC: "projeto",
+  mOrganizationLC: "organização",
 
-  mSidebarTitleMYTasks: "MY TASKS",//for mobile
-  mSidebarMYTasksFav: "FAVORITES",
-  mSidebarMYTasksArchived: "ARCHIVED",
-  mSidebarCrossProjects: "SMART FOLDERS",
-  mSidebarProjects: "PROJECTS",
-  mSidebarFav: "BOOKMARKS",
-  mSidebarRec: "RECENT",
-  mSidebarArchive: "Archived",
-  mSidebarMembers: "MEMBERS",
+  mSidebarTitleMYTasks: "AS MINHAS TAREFAS",//for mobile
+  mSidebarMYTasksFav: "FAVORITAS",
+  mSidebarMYTasksArchived: "ARQUIVADO",
+  mSidebarCrossProjects: "PASTAS INTELIGENTES",
+  mSidebarProjects: "PROJETOS",
+  mSidebarFav: "FAVORITOS",
+  mSidebarRec: "RECENTE",
+  mSidebarArchive: "Arquivado",
+  mSidebarMembers: "MEMBROS",
 
-  mSignup: "Sign up",
-  mLogin: "Log in",
-  mLogout: "Log out",
+  mSignup: "Registe-se",
+  mLogin: "Iniciar Sessão",
+  mLogout: "Terminar Sessão",
   mEmail: "Email",
-  mLanguage: "Language",
+  mLanguage: "Idioma",
   mLanguageAuto: "(auto)",
-  mAllow: "Allow",
-  mDeny: "Deny",
+  mAllow: "Permitir",
+  mDeny: "Negar",
 
-  mConfirmPassword: "Confirm your password",
-  mNewPassword: "New", // for account settings page
-  mConfirmSignupPassword: "New Password", // for confirm sign-up placeholder
-  mCurrentPassword: "Current", // for account settings page
-  mChangePassword: "Change password",
-  mRememberME: "Remember Me",
-  mConfirm: "Confirm",
+  mConfirmPassword: "Confirme a sua palavra-passe",
+  mNewPassword: "Nova", // for account settings page
+  mConfirmSignupPassword: "Nova Palavra-passe", // for confirm sign-up placeholder
+  mCurrentPassword: "Atual", // for account settings page
+  mChangePassword: "Alterar palavra-passe",
+  mRememberME: "Lembrar-me",
+  mConfirm: "Confirmar",
   mLoginFailed:
-    "Please enter a valid email and password, or <a href='/signup'>sign&nbsp;up</a> first.",
-  mNotYet: "Not yet",
-  mNotComfirmedYet: "Not confirmed yet",
-  mGOWS: "Continue to my project",
-  mReturnWS: "Return to my project",
-  mTryAgain: "Try again",
+    "Por favor, introduza um email e palavra-passe válidos, ou <a href='/signup'>registe-se</a> primeiro.",
+  mNotYet: "Ainda não",
+  mNotComfirmedYet: "Ainda não confirmado",
+  mGOWS: "Continuar para o meu projeto",
+  mReturnWS: "Regressar ao meu projeto",
+  mTryAgain: "Tente novamente",
 
-  mSignupAt: "Joined",
-  mCreatedAt: "Created",
+  mSignupAt: "Aderiu",
+  mCreatedAt: "Criado",
 
   mTour: "Tour",
   mBlog: "Blog",
-  mAbout: "About",
-  mAboutQuire: "About Quire",
-  mGetStarted: "GET STARTED",
-  mSignupForFree: "GET STARTED - It's FREE!",
-  mTerms: "Terms",
-  mTermsOFService: "Terms of Service",
+  mAbout: "Sobre",
+  mAboutQuire: "Sobre o Quire",
+  mGetStarted: "COMEÇAR",
+  mSignupForFree: "EXPERIMENTE - É GRÁTIS!",
+  mTerms: "Termos",
+  mTermsOFService: "Termos de Serviço",
   mFaq: "FAQ",
-  mPricing: "Pricing",
-  mLearnMore: "Learn more",
-  mGetIphone: "Get iPhone App",
-  mGetAndroid: "Get Android App",
-  mGetChromeExtension: "Get Chrome Extension",
+  mPricing: "Preços",
+  mLearnMore: "Saiba mais",
+  mGetIphone: "Obter App do iPhone",
+  mGetAndroid: "Obter App do Android",
+  mGetChromeExtension: "Obter Extensão Chrome",
 
-  mPost: "Post",
+  mPost: "Publicar",
 
-  mReadOnly: "Read Only",
+  mReadOnly: "Somente Leitura",
 
-  mGettingStarted: "Getting Started",
+  mGettingStarted: "Começar",
 
-  mHomeBannerLoginDescMorning: 'Good Morning <strong>[=name]</strong>!',
-  mHomeBannerLoginDescAfternoon: 'Good Afternoon <strong>[=name]</strong>',
-  mHomeBannerLoginDescEvening: 'Good Evening <strong>[=name]</strong>',
-  mHomeBannerLoginDescCoffeine: 'Better cut down on that caffeine <strong>[=name]</strong>!',
-  mHomeBannerLoginDescEarly: 'Early bird gets the worms <strong>[=name]</strong>!',
+  mHomeBannerLoginDescMorning: 'Bom Dia, <strong>[=name]</strong>!',
+  mHomeBannerLoginDescAfternoon: 'Boa Tarde, <strong>[=name]</strong>',
+  mHomeBannerLoginDescEvening: 'Boa Noite, <strong>[=name]</strong>',
+  mHomeBannerLoginDescCoffeine: 'Talvez seja melhor cortar na cafeína, <strong>[=name]</strong>!',
+  mHomeBannerLoginDescEarly: 'Deus ajuda a quem muito madruga, <strong>[=name]</strong>!',
 
-  mSignupQuire: "Sign up to Quire",
-  mSignupFree: "SIGN UP FOR FREE",
-  mSignupFreeShort: "SIGN UP",
-  mSignupToPostAComment: "SIGN UP TO POST A COMMENT",
-  mLoginQuire: "Log in to Quire",
-  mLoginQuireDesc: "Welcome Back!",
-  mStayLogin: "Stay signed in",
-  mLoginAccountDesc: "Don't have an account yet?",
-  mLoginAccountCreate: "Create a Quire account",
-  mSigninGoogle: "Sign in with Google",
-  mHomeGotoWSButtom: "GO TO YOUR PROJECT",
+  mSignupQuire: "Registe-se no Quire",
+  mSignupFree: "REGISTE-SE GRATUITAMENTE",
+  mSignupFreeShort: "REGISTE-SE",
+  mSignupToPostAComment: "REGISTE-SE PARA PUBLICAR UM COMENTÁRIO",
+  mLoginQuire: "Inicie sessão no Quire",
+  mLoginQuireDesc: "Bem-vind@ de Volta!",
+  mStayLogin: "Permanecer ligado",
+  mLoginAccountDesc: "Ainda não tem uma conta?",
+  mLoginAccountCreate: "Crie uma conta no Quire",
+  mSigninGoogle: "Inicie sessão com o Google",
+  mHomeGotoWSButtom: "IR PARA O SEU  PROJETO",
 
-  m403Title: "Oops!",
+  m403Title: "Ups!",
   m403Desc: 
-    "You do not have permission to access this page.<br/>"
-    'Please contact your admin.',
+    "Não tem permissão para aceder a esta página.<br/>"
+    'Por favor, contacte o seu administrador.',
 
-  m404PageTitle: '404: Page Not Found',
-  m404Title: "Oops!",
+  m404PageTitle: '404: Página Não Encontrada',
+  m404Title: "Ups!",
   m404Desc: 
-    "The page you are looking for cannot be found.<br/>"
-    'If you need assistance, please <a href="mailto:support@quire.io">contact us.</a>',
+    "A página que está a procurar não pode ser encontrada.<br/>"
+    'Se precisa de assistência, por favor, <a href="mailto:support@quire.io">contacte-nos.</a>',
       //we can NOT use /feedback since the user might not log in yet
-  mBackToHome: "Back to Home",
+  mBackToHome: "Voltar à Página Inicial",
 
-  m500PageTitle: 'Error',
-  m500Title: 'Looks like something went wrong!',
+  m500PageTitle: 'Erro',
+  m500Title: 'Parece que algo correu mal!',
   m500Desc: 
-    'We track these errors automatically, but if the problem persists, '
-    'feel free to <a href="mailto:support@quire.io">contact us.</a> '
+    'Nós monitoramos estes erros automaticamente, mas se o problema persistir, '
+    'não hesite em <a href="mailto:support@quire.io">entrar em contacto connosco.</a> '
       //we can NOT use /feedback since the user might not log in yet
-    'In the meantime, please try to <a href="javascript:reloadPage()">refresh</a>.',
+    'Enquanto isso, por favor, tente <a href="javascript:reloadPage()">atualizar</a>.',
 
   mNewVersionApp:
-    'A new version is now available <a href="[=link]">for download</a>!',
+    'Já está disponível uma nova versão para <a href="[=link]">descarregar</a>!',
   mNewVersionBrowser:
-    'A new version is available. '
-    'Please <a href="javascript:reloadPage(false)">reload to get the latest version</a>.',
+    'Uma nova versão está disponível. '
+    'Por favor, <a href="javascript:reloadPage(false)">recarregue para obter a versão mais recente</a>.',
 
-  mRequired: 'Required',
+  mRequired: 'Obrigatório',
 
-  mDuplicatedId: 'This ID is already taken',
-  mReservedId: 'The ID you entered is reserved',
+  mDuplicatedId: 'Esta ID já está em uso',
+  mReservedId: 'A ID que introduziu está reservada',
 
-  mForgotPassword: 'Forgot?',
-  mResetPassword: 'Reset password',
+  mForgotPassword: 'Esqueceu-se?',
+  mResetPassword: 'Redefinir palavra-passe',
 
-  mForgotYourPassword: 'Forgot your password?',
+  mForgotYourPassword: 'Esqueceu-se da sua palavra-passe?',
   mForgotYourPasswordDesc: 
-    'No problem, enter the email address you registered with '
-    'and we will send you a reset password link.',
-  mResetMYPassword: 'Reset My Password',
+    'Não há problema, introduza o email com que se registou '
+    'e enviamos-lhe um link para redefinir a sua palavra-passe.',
+  mResetMYPassword: 'Redefinir a Minha Palavra-Passe',
 
-  mEmailSentCheckInbox: '<h3>Email Sent to [=email]!</h3>Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.',
+  mEmailSentCheckInbox: '<h3>Email Enviado para [=email]!</h3>Por favor, [=hrefStart]verifique a sua caixa de entrada [=hrefEnd] ou pasta de spam.',
 
   mYourNewPasswordDesc: 
-    'Please enter a new password '
-    'for your account <strong>[=email]</strong>',
+    'Por favor, introduza uma nova palavra-passe '
+    'para a sua conta <strong>[=email]</strong>',
   mPasswordReseted: 
-    'You just changed your password.',
+    'Acabou de alterar a sua palavra-passe.',
 
-  mConfirmSignupExpired: "Signup Confirmation Expired",
-  mConfirmPasswordExpired: "Reset Password Confirmation Expired",
-  mConfirmEmailExpired: "Email Confirmation Expired",
+  mConfirmSignupExpired: "Confirmação de Registo Expirada",
+  mConfirmPasswordExpired: "Confirmação de Redefinição de Palavra-passe Expirada",
+  mConfirmEmailExpired: "Confirmação de Email Expirada",
   mConfirmExpired:
-    'Sorry, the confirmation has been expired.',
+    'Desculpe, a confirmação expirou.',
 
-  mConfirmedEmail: "Hi, [=email]",
-  mConfirmedEmailDesc: "Let's get your account ready now!",
-  mDoneConfirmSignupButtton: "I'm done, let's go!",
-  mNameISPublicVisible: "Your name is publicly visible",
+  mConfirmedEmail: "Olá, [=email]",
+  mConfirmedEmailDesc: "Vamos lá preparar a sua conta!",
+  mDoneConfirmSignupButtton: "Já terminei, vamos lá!",
+  mNameISPublicVisible: "O seu nome é visível publicamente",
 
-  mCantFindEmail: "Can't find that email.",
-  mInvalidEmail: 'Invalid Email.',
-  mDuplicatedEmail: 'This email is already taken.',
-  mEmailChangedCancel: '(cancel)',
+  mCantFindEmail: "Não encontramos esse email.",
+  mInvalidEmail: 'Email Inválido.',
+  mDuplicatedEmail: 'Este email já está em uso.',
+  mEmailChangedCancel: '(cancelar)',
 
-  mEmailChangedTitle: "Email Changed",
+  mEmailChangedTitle: "Email Alterado",
   mEmailChanged: 
-    'Thanks. Your primary email has been changed to<br>[=email].',
-  mEmailChangeFailedTitle: "Unable to Change Email",
-  mEmailChangeFailed: "Sorry, we cannot change your email to [=email]: [=message]",
+    'Obrigado. O seu email principal foi alterado para <br>[=email].',
+  mEmailChangeFailedTitle: "Não foi possível Alterar o Email",
+  mEmailChangeFailed: "Desculpe, não podemos alterar o seu email para [=email]: [=message]",
 
-  mEmailAddedTitle: "New Email Added",
+  mEmailAddedTitle: "Novo Email Adicionado",
   mEmailAdded: 
-    'Thanks. Your new email, [=email], has been added.',
-  mEmailAddFailedTitle: "Unable to Add New Email",
-  mEmailAddFailed: "Sorry, we cannot add your new email, [=email]: [=message]",
+    'Obrigado. O seu novo email, [=email], foi adicionado.',
+  mEmailAddFailedTitle: "Não foi possível Adicionar Novo Email",
+  mEmailAddFailed: "Desculpe, não podemos adicionar o seu novo email, [=email]: [=message]",
 
-  mSignupMailSentTitle: 'Awesome!',
+  mSignupMailSentTitle: 'Espetacular!',
   mSignupMailSentDesc: 
-    'We sent you a confirmation email to<br>'
+    'Enviámos-lhe um email de confirmação para<br>'
     '<strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder and confirm it.',
-  mSignupAccountDesc: "Already have an account?",
-  mSignupAccountLogin: "Log in here",
+    'Por favor, [=hrefStart]verifique a sua caixa de entrada[=hrefEnd] ou pasta de spam e confirme.',
+  mSignupAccountDesc: "Já tem uma conta?",
+  mSignupAccountLogin: "Inicie sessão aqui",
 
   mDeleteAccountNotEmpty:
-    'You must have your membership removed from [=granted], or delete them '
-    'before you can delete your account.',
+    'Precisa de remover a sua associação de [=granted], ou eliminá-la '
+    'antes de poder eliminar a sua conta.',
 
-  mAlreadySignupMailTitle: 'Hi there!',
+  mAlreadySignupMailTitle: 'Olá!',
   mAlreadySignupMailDesc: 
-    'It seems like you have already signed up with<br>'
+    'Parece que já se registou com <br>'
     '<strong>[=email]</strong>.<br>'
-    'Please <a href="/login">log in here</a>.',
+    'Por favor, <a href="/login">inicie sessão aqui</a>.',
 
-  mInviteFriends: "Invite Friends",
-  mInviteFriendsTitle: "Invite your friends on board",
-  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily a accomplish their dreams too!",
+  mInviteFriends: "Convidar Amigos",
+  mInviteFriendsTitle: "Convide os seus amigos a juntarem-se",
+  mInviteFriendsDesc: "Gosta da sua experiência com o Quire?<br/>Diga aos seus amigos que eles também podem facilmente alcançar os seus sonhos!",
 
-  mInviteFriendsSuccessTitle: "Thank You!",
+  mInviteFriendsSuccessTitle: "Obrigado!",
   mInviteFriendsSuccess:
-    'An invitation was sent to <ul class="list-unstyled"></ul> We really appreciate your support!',
+    'Foi enviado um convite para <ul class="list-unstyled"></ul> Agradecemos muito o seu apoio!',
 
-  mInviteOthersFriends: "Invite other friends",
-  mInviteNewMembers: "Invite new members",
+  mInviteOthersFriends: "Convidar outros amigos",
+  mInviteNewMembers: "Convidar novos membros",
 
-  mFeedback: "Feedback",
-  mFeedbackSubject: "Subject",
-  mFeedbackContent: "Tell us how we can help",
-  mSend: "Send",
-  mPostFeedbackPublic: "Allow other Quire users to see",
+  mFeedback: "Comentários",
+  mFeedbackSubject: "Assunto",
+  mFeedbackContent: "Conte-nos como podemos ajudar",
+  mSend: "Enviar",
+  mPostFeedbackPublic: "Permitir que outros utilizadores do Quire vejam",
 
-  mFeedbackDesc: "Have a question or suggestion for us?<br>Thanks! We're all ears!",
-  mCheckCommunity: "Check out all feedback",
+  mFeedbackDesc: "Tem alguma questão ou sugestão para nós?<br>Obrigado! Somos todos ouvidos!",
+  mCheckCommunity: "Leia todos os comentários",
   
-  mUndoListTitle: "My Operations",
-  mUndoDeleteListTitle: "Deleted",
-  mUndoCompleteListTitle: "Completed",
+  mUndoListTitle: "As Minhas Operações",
+  mUndoDeleteListTitle: "Eliminado",
+  mUndoCompleteListTitle: "Concluído",
 
-  mUndoEmptyTitle: "Nothing to undo.",
-  mUndoEmptyDesc: "You haven't moved, completed or deleted tasks yet.",
-  mUndoRemoveTaskEmptyDesc: "No task has been deleted recently.",
-  mUndoCompleteTaskEmptyDesc: "No task has been completed recently.",
+  mUndoEmptyTitle: "Nada para desfazer.",
+  mUndoEmptyDesc: "Ainda não moveu, concluiu ou eliminou tarefas.",
+  mUndoRemoveTaskEmptyDesc: "Nenhuma tarefa foi eliminada recentemente.",
+  mUndoCompleteTaskEmptyDesc: "Nenhuma tarefa foi concluída recentemente.",
   
 
-  mSearchResultEmpty: "No results found.",
-  mSearchPartialResult: "Only partial results are shown",
-  mSearchOtherProjects: "Search other projects",
-  mBackSearch: "Back to search",
-  mMarkAllRead: "Mark All as Read",
-  mEmptyNotificationMessage: "You don't have any notifications.",
+  mSearchResultEmpty: "Nenhum resultado encontrado.",
+  mSearchPartialResult: "Apenas resultados parciais são mostrados",
+  mSearchOtherProjects: "Pesquisar outros projetos",
+  mBackSearch: "Voltar à pesquisa",
+  mMarkAllRead: "Marcar Tudo como Lido",
+  mEmptyNotificationMessage: "Não tem nenhuma notificação.",
 
-  mShowMoreActivities: "Show earlier activities",
-  mShowMoreComments: "Show earlier comments",
+  mShowMoreActivities: "Mostrar atividades anteriores",
+  mShowMoreComments: "Mostrar comentários anteriores",
 
-  mEmptyComments: "No comments",
-  mEmptyCommentsDesc: "Be the first to <a>add comment</a>",
-  mNewComments: "New comments",
-  mNewNotifications: "New notifications",
-  mScrollToBottom: "Scroll to bottom",
+  mEmptyComments: "Sem comentários",
+  mEmptyCommentsDesc: "Seja o primeiro a <a>adicionar um comentário</a>",
+  mNewComments: "Novos comentários",
+  mNewNotifications: "Novas notificações",
+  mScrollToBottom: "Rolar para baixo",
 
-  mSubtaskStatusAsgdTitle: "Tasks per assignee",
-  mSubtaskStatusDueTitle: "Task due dates",
+  mSubtaskStatusAsgdTitle: "Tarefas por colaborador",
+  mSubtaskStatusDueTitle: "Prazos da Tarefa",
   
-  mTaskRemovedTitle: "This task has been deleted.",
-  mTaskRemovedDesc: "Try searching for something else.",
+  mTaskRemovedTitle: "Esta tarefa foi eliminada.",
+  mTaskRemovedDesc: "Tente pesquisar por outra coisa.",
 
-  mMYTasksEmptyMessage: "Hurray~ no task is due!",
+  mMYTasksEmptyMessage: "Viva~ não existem tarefas em atraso!",
 
-  mSignupOrganization: "[=user]'s Organization",
-  mSignupProject: "[=user]'s Project",
+  mSignupOrganization: "Organização de [=user]",
+  mSignupProject: " Projeto de [=user]",
 
-  mEmailSignupSubject: 'Complete your Quire sign up',
+  mEmailSignupSubject: 'Complete o seu registo no Quire',
   mEmailSignupContent: 
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>You are one click away!</p>
+<p>Está a um clique de distância!</p>
 
-<p>To start using Quire, please verify your email address by clicking here:</p>
+<p>Para começar a usar o Quire, por favor, verifique o seu endereço de email, clicando aqui:</p>
 
 <p style="margin-left:30px">[=link]</p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Caso não reconheça este email, por favor, ignore-o.</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
+  mEmailProfileChangeSubject: 'Quire: O seu perfil foi atualizado',
   mEmailProfileChangeContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know you have changed [=fields] in your profile.</p>
+<p>Estamos a escrever-lhe para informar que alterou [=fields] no seu perfil.</p>
 
-<p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Se não realizou esta alteração, por favor, <a href="mailto:support@quire.io">contacte-nos</a> de imediato.</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailInviteSubject: "Quire: You are invited to join [=host]",
+  mEmailInviteSubject: "Quire: Foi convidad@ para aderir [=host]",
   mEmailInviteContent:
 '''
-<p>Hello,</p>
+<p>Olá,</p>
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Foi convidad@ por [=invitor] para aderir a [=hostType]: [=host].</p>
 
-<p>To accept the invitation, please visit the following link:</p>
+<p>Para aceitar o convite, por favor, visite o seguinte link:</p>
 
 <p style="margin-left:30px">[=link] </p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
+  mEmailInviteFriendsSubject: "[=name] convidou-@ para se registar no Quire",
   mEmailInviteFriendsContent:
 '''
-<p>Hello,</p>
+<p>Olá,</p>
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) convidou-@ para se registar no <a href="https://quire.io">Quire</a>;
+uma solução de gestão de projetos que [=invitor] está a gostar bastante.</p>
 
-<p>To accept the invitation, please visit the following link. It is free!</p>
+<p>Para aceitar o convite, por favor, visite o seguinte link. É gratuito!</p>
 
 <p style="margin-left:30px">[=link]</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know:</p>
+<p>Estamos a escrever-lhe para informar:</p>
 
 [=digest]
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">You are receiving this email because you are
-following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p style="font-style:italic;font-size:80%">Está a receber este email porque está
+a seguir [=source]. Para cancelar a subscrição, por favor, <a href="[=unsubscribe]">clique aqui</a>.</p>
 <style>.t-desc-block {word-wrap: break-word;}
 .t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
 .t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
 .t-desc-block img {max-width:100%;}</style>
 ''',
 
-  mEmailDigestSubject: "Quire: A total [=count] notifications for you",
+  mEmailDigestSubject: "Quire: Um total de [=count] notificações para si",
   mEmailDigestContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>There are a total of [=count] notifications for you:</p>
+<p>Existem um total de [=count] notificações para si:</p>
 
 [=digest]
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">You are receiving this email because you requested to
-receive activity updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p style="font-style:italic;font-size:80%">Está a receber este email porque pediu para
+receber atualizações de atividades. Para cancelar esta subscrição, por favor, <a href="[=unsubscribe]">clique aqui</a>.</p>
 <style>.t-desc-block {word-wrap: break-word;}
 .t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
 .t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
@@ -357,1006 +357,1006 @@ receive activity updates. To unsubscribe, please <a href="[=unsubscribe]">click 
 ''',
 
   mEmailEmailChangeSubject:
-    "Quire: Please verify your new email address",
+    "Quire: Por favor, verifique o seu novo endereço de email",
   mEmailEmailChangeContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>Please visit the following link within the next 12 hours to verify your new email address:</p>
+<p>Por favor, visite o seguinte link nas próximas 12 horas para validar o seu novo endereço de email:</p>
 
 <p style="margin-left:30px">[=link]</p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Caso não reconheça este email, por favor, ignore-o.</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
   mEmailEmailChangeNotificationSubject:
-    "Quire: Your primary email address has been changed",
+    "Quire: O seu email principal foi alterado",
   mEmailEmailChangeNotificationContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know you have changed your primary
-email address to <b>[=newEmail]</b>.
+<p>Estamos a escrever-lhe para informar que alterou o seu endereço de email
+principal para <b>[=newEmail]</b>.
 
-<p>All notifications related to you will be sent to your new
-primary email address,
-including account-related notifications and task activities.</p>
+<p>Todas as notificações relacionadas consigo serão enviadas para o seu novo
+endereço de email principal,
+incluindo notificações relacionadas com a sua conta e atividades de tarefas.</p>
 
-<p>If you did not make the change, please
-<a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Se não realizou esta alteração, por favor,
+<a href="mailto:support@quire.io">contacte-nos</a> de imediato.</p>
 
-<p>Update Code: <b>[=code]</b></p>
+<p>Código de Atualização: <b>[=code]</b></p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
   mEmailAddEmailSubject:
-    "Quire: Please verify your new email address",
+    "Quire: Por favor, verifique o seu novo endereço de email",
   mEmailAddEmailContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>Please visit the following link within the next 12 hours to verify your new email address:</p>
+<p>Por favor, visite o seguinte link nas próximas 12 horas para validar o seu novo endereço de email:</p>
 
 <p style="margin-left:30px">[=link]</p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Caso não reconheça esta email, por favor, ignore-o.</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailForgotPasswordSubject: "Quire: Please reset your password",
+  mEmailForgotPasswordSubject: "Quire: Por favor, redefina a sua palavra-passe",
   mEmailForgotPasswordContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Está a receber este email porque perdeu a sua palavra-passe do Quire.</p>
 
-<p>Please visit the following link within the next 2 hours to reset your password:</p>
+<p>Por favor, visite o seguinte link nas próximas 2 horas para redefinir a sua palavra-passe:</p>
 
 <p style="margin-left:30px">[=link]</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
   mEmailInviteConfirmedSubject:
-    "[=inviteeName] has accepted your invitation to Quire",
+    "[=inviteeName] aceitou o seu convite para o Quire",
   mEmailInviteConfirmedContent:
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
+<p>No seguimento do seu convite, [=invitee] ([=inviteeEmail]) registou-se com sucesso no Quire.</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
   mEmailSubscriberContent:
 '''
-<p[=styleHi]>Hi [=name],</p>
+<p[=styleHi]>Olá [=name],</p>
 
 [=message]
 
-<p[=styleRegards]>Thanks,</p>
+<p[=styleRegards]>Obrigado,</p>
 
-<p[=styleQuireTeam]>The Quire Team</p>
+<p[=styleQuireTeam]>A Equipa Quire</p>
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">You are receiving this email because you
-requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p style="font-style:italic;font-size:80%">Está a receber este email porque
+pediu para receber emails sobre atualizações. Para cancelar a subscrição, por favor, <a href="[=unsubscribe]">clique aqui</a>.</p>
 ''',
 
-  mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
+  mEmailLeaveMemberSubject: "Quire: [=member] saiu [=target]",
   mEmailLeaveMemberContent: 
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
+<p>Estamos a escrever-lhe para informar que [=member] ([=memberEmail]) saiu de [=target].</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
+  mEmailNewProjectSubject: "Quire: [=member] criou [=project]",
   mEmailNewProjectContent: 
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
+<p>Estamos a escrever-lhe para informar que [=member] ([=memberEmail]) criou [=project].</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mEmailDeleteProjectSubject: "Quire: [=member] has deleted [=project]",
+  mEmailDeleteProjectSubject: "Quire: [=member] eliminou [=project]",
   mEmailDeleteProjectContent: 
 '''
-<p>Hi [=name],</p>
+<p>Olá [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=project]".</p>
+<p>Estamos a escrever-lhe para informar que [=member] ([=memberEmail]) eliminou "[=project]".</p>
 
-<p>Thanks,</p>
+<p>Obrigado,</p>
 
-<p>The Quire Team</p>
+<p>A Equipa Quire</p>
 ''',
 
-  mSummaryUnknown: "Activity Update",
+  mSummaryUnknown: "Atualização de Atividade",
 
-  mExtraValue: " as [=value]",
-  mSaying: ", saying [=value]",
-  mViewOnQuire: "view on Quire",
-  mUnfllow: "unfollow",
+  mExtraValue: " como [=value]",
+  mSaying: ", disse [=value]",
+  mViewOnQuire: "ver no Quire",
+  mUnfllow: "deixar de seguir",
 
 //task activity contents
-  mThisTask: "this task",
+  mThisTask: "esta tarefa",
 
   "AT$atAddTask":
-    "[=who] added [=what][=value]",
+    "[=who] adicionou [=what][=value]",
   "AT$atRemoveTask":
-    "[=who] deleted [=what][=value]",
+    "[=who] eliminou [=what][=value]",
   "AT$atEditTask":
-    "[=who] edited [=what][=value]",
+    "[=who] editou [=what][=value]",
   "AT$atMoveTask":
-    "[=who] moved [=what] to [=value]",
+    "[=who] moveu [=what] a [=value]",
   "AT$atComplete":
-    "[=who] completed [=what]",
+    "[=who] concluiu [=what]",
   "AT$atUncomplete":
-    "[=who] reopened [=what]",
+    "[=who] reabriu [=what]",
   "AT$atAssign":
-    "[=who] assigned [=what] to [=value]",
+    "[=who] atribuiu [=what] a [=value]",
   "AT$atUnassign":
-    "[=who] unassigned [=value] from [=what]",
+    "[=who] desatribuiu [=value] de [=what]",
   "AT$atSetDue":
-    "[=who] set the due date of [=what] to [=value:due]",
+    "[=who] definiu prazo de [=what] para [=value:due]",
   "AT$atUnsetDue":
-    "[=who] unset the due date of [=what]",
+    "[=who] removeu o prazo de [=what]",
   "AT$atSetStart":
-    "[=who] set the start date of [=what] to [=value:due]",
+    "[=who] definiu a data de início de [=what] para [=value:due]",
   "AT$atUnsetStart":
-    "[=who] unset the start date of [=what]",
+    "[=who] removeu a data de início de [=what]",
 
   "AT$atAddTaskComment":
-    "[=who] commented [=what][=value]",
+    "[=who] comentou [=what][=value]",
   "AT$atUndoComplete":
-    "[=who] undid the completion of [=what]",
+    "[=who] anulou a conclusão de [=what]",
   "AT$atUndoRemoveTask":
-    "[=who] undid the removal of [=what]",
+    "[=who] anulou a remoção de [=what]",
   "AT$atAddTaskAttachment":
-    "[=who] added [=value] to [=what]",
+    "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveTaskAttachment":
-    "[=who] removed [=value] from [=what]",
+    "[=who] removeu [=value] de [=what]",
   "AT$atSetPartner":
-    "[=who] shared [=what] to the external team [=value]",
+    "[=who] partilhou [=what] com a equipa externa [=value]",
   "AT$atUnsetPartner":
-    "[=who] cleared the external team from [=what]",
+    "[=who] retirou a equipa externa de [=what]",
   "AT$atEditTaskComment":
-    "[=who] edited a comment in [=what][=value]",
+    "[=who] editou um comentário em [=what][=value]",
   "AT$atRemoveTaskComment":
-    "[=who] removed a comment in [=what]",
+    "[=who] removeu um comentário em [=what]",
   "AT$atTag":
-    "[=who] added the tag [=value] to [=what]",
+    "[=who] adicionou uma tag [=value] a [=what]",
   "AT$atUntag":
-    "[=who] removed the tag [=value] from [=what]",
+    "[=who] removeu uma tag [=value] de [=what]",
   "AT$atTransferTask":
-    "[=who] transferred [=what] to [=value]",
+    "[=who] transferiu [=what] para [=value]",
   "AT$atDuplicateTask":
-    "[=who] duplicated [=what] from [=value]",
+    "[=who] duplicou [=what] de [=value]",
   "AT$atTaskMention":
-    "[=who] has mentioned you in [=value]",
+    "[=who] mencionou-@ em [=value]",
   "AT$atDuplicateRecurring":
-    "[=who] duplicated [=what] from recurring task [=value]",
+    "[=who] duplicou [=what] da tarefa recorrente [=value]",
   "AT$atSetPriority":
-    "[=who] set the priority of [=what] to [=value]",
+    "[=who] definiu a prioridade de [=what] para [=value]",
   "AT$atSetTaskType":
-    "[=who] set the type of [=what] to [=value]",
+    "[=who] definiu o tipo de [=what] para [=value]",
   "AT$atStartTask":
-    "[=who] started working on [=what]",
+    "[=who] começou a trabalhar em [=what]",
   "AT$atPauseTask":
-    "[=who] deferred [=what]",
+    "[=who] adiou [=what]",
   "AT$atSetBoard":
-    "[=who] added [=what] to [=value]",
+    "[=who] adicionou [=what] a [=value]",
   "AT$atUnsetBoard":
-    "[=who] removed [=what] from [=value]",
+    "[=who] removeu [=what] de [=value]",
 
   "AT$atAddProject":
-    "[=who] created [=what]",
+    "[=who] criou [=what]",
   "AT$atRemoveProject":
-    "[=who] removed the project [=value]",
+    "[=who] removeu o projeto [=value]",
   "AT$atEditProject":
-    "[=who] edited [=what]",
+    "[=who] editou [=what]",
   "AT$atAddProjectMember":
-    "[=who] added [=value] to [=what]",
+    "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveProjectMember":
-    "[=who] removed [=value] from [=what]",
+    "[=who] removeu [=value] de [=what]",
   "AT$atAddPartnerMember":
-    "[=who] added an external team member [=value] to [=what]",
+    "[=who] adicionou um membro da equipa externa [=value] a [=what]",
   "AT$atRemovePartnerMember":
-    "[=who] removed an external team member [=value] from [=what]",
+    "[=who] removeu um membro da equipa externa [=value] de [=what]",
   "AT$atTransferProject":
-    "[=who] transferred [=what] to [=value]",
+    "[=who] transferiu [=what] para [=value]",
   "AT$atExportProject":
-    "[=who] exported [=what]",
+    "[=who] exportou [=what]",
   "AT$atImportProject":
-    "[=who] imported [=what] to [=value]",
+    "[=who] importou [=what] para [=value]",
   "AT$atAddProjectComment":
-    "[=who] commented [=what][=value]",
+    "[=who] comentou [=what][=value]",
   "AT$atAddProjectAttachment":
-    "[=who] added [=value] to [=what]",
+    "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveProjectAttachment":
-    "[=who] removed [=value] from [=what]",
+    "[=who] removeu [=value] de [=what]",
   "AT$atEditProjectComment":
-    "[=who] edited a comment in [=what][=value]",
+    "[=who] editou um comentário em [=what][=value]",
   "AT$atRemoveProjectComment":
-    "[=who] removed a comment in [=what]",
+    "[=who] removeu um comentário em [=what]",
   "AT$atAddTag":
-    "[=who] added the tag [=value] to [=what]",
+    "[=who] adicionou a tag [=value] a [=what]",
   "AT$atRemoveTag":
-    "[=who] removed the tag [=value] from [=what]",
+    "[=who] removeu a tag [=value] de [=what]",
 
   "AT$atAddPartner":
-    "[=who] added an external team [=value] to [=what]",
+    "[=who] adicionou uma equipa externa [=value] a [=what]",
   "AT$atRemovePartner":
-    "[=who] removed an external team [=value] from [=what]",
+    "[=who] removeu uma equipa externa [=value] de [=what]",
   "AT$atDuplicateProject":
-    "[=who] created [=what] by copying from [=value]",
+    "[=who] criou [=what] copiando de [=value]",
   "AT$atSetPublic":
-    "[=who] set [=what] as public",
+    "[=who] definiu [=what] como público",
   "AT$atUnsetPublic":
-    "[=who] set [=what] as private",
+    "[=who] definiu [=what] como privado",
   "AT$atProjectMention":
-    "[=who] has mentioned you in [=value]",
+    "[=who] mencionou-@ em [=value]",
   "AT$atGithubConfig":
-    "[=who] connected [=what] to Github: [=value]",
+    "[=who] conectou [=what] ao Github: [=value]",
   "AT$atGithubUnconfig":
-    "[=who] disconnected [=what] from Github: [=value]",
+    "[=who] desconectou [=what] do Github: [=value]",
   "AT$atAuthorizeProject":
-    "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
+    "[=who] atribuiu funções [=extra] a [=value] para aceder a [=what]",
   "AT$atAuthorizePartner":
-    "[=who] assigned [=extra] roles to [=value] in the external team [=extra2] of [=what]",
+    "[=who] atribuiu funções [=extra] a [=value] na equipa externa [=extra2] de [=what]",
   "AT$atArchive":
-    "[=who] archived [=what]",
+    "[=who] arquivou [=what]",
   "AT$atUnarchive":
-    "[=who] unarchived [=what]",
+    "[=who] desarquivou [=what]",
 
   "AT$atAddOrganization":
-    "[=who] created [=what]",
+    "[=who] criou [=what]",
   "AT$atRemoveOrganization":
-    "[=who] removed the organization [=value]",
+    "[=who] removeu a organização [=value]",
   "AT$atEditOrganization":
-    "[=who] edited [=what]",
+    "[=who] editou [=what]",
   "AT$atAddOrganizationMember":
-    "[=who] added [=value] to [=what]",
+    "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveOrganizationMember":
-    "[=who] removed [=value] from [=what]",
+    "[=who] removeu [=value] de [=what]",
 
   "AT$atAddOapp":
-    "[=who] added an application, [=value], to [=what]",
+    "[=who] adicionou uma aplicação, [=value], para [=what]",
   "AT$atRemoveOapp":
-    "[=who] removed an application, [=value], from [=what]",
+    "[=who] removeu uma aplicação, [=value], de [=what]",
   "AT$atEditOapp":
-    "[=who] edited [=value]",
+    "[=who] editou [=value]",
 
   "AT$atAddShare":
-    "[=who] created a share link, [=value], of [=what]",
+    "[=who] criou um link partilhável, [=value], de [=what]",
   "AT$atRemoveShare":
-    "[=who] removed a shared link, [=value], of [=what]",
+    "[=who] removeu um link partilhável, [=value], de [=what]",
 
   "AT$atAddBoard":
-    "[=who] added a board [=value] to [=what]",
+    "[=who] adicionou um quadro [=value] a [=what]",
   "AT$atRemoveBoard":
-    "[=who] removed a board [=value] from [=what]",
+    "[=who] removeu um quadro [=value] de [=what]",
   "AT$atEditBoard":
-    "[=who] edited the board [=value]",
+    "[=who] editou um quadro [=value]",
 
   "AT$atAddTaskState":
-    "[=who] added [=extra] to the board [=value] in [=what]",
+    "[=who] adicionou [=extra] ao quadro [=value] em [=what]",
   "AT$atRemoveTaskState":
-    "[=who] removed [=extra] from the board [=value] in [=what]",
+    "[=who] removeu [=extra] do quadro [=value] em [=what]",
 
   "AT$atSlackInstall":
-    "[=who] connected [=what] to Slack's [=value]",
+    "[=who] conectou [=what] ao [=value] do Slack",
   "AT$atSlackUninstall":
-    "[=who] disconnected [=what] from Slack's [=value]",
+    "[=who] desconectou [=what] do [=value] do Slack ",
 
   "AT$atExportOrganization":
-    "[=who] exported [=what]",
+    "[=who] exportou [=what]",
   "AT$atAuthorizeOrganization":
-    "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
+    "[=who] atribuiu funções [=extra] a [=value] para aceder a [=what]",
 
   "AT$atxInviteExisting":
-    "[=who] invited you to join [=what]",
+    "[=who] convidou-@ para aderir a [=what]",
   "AT$atxInviteConfirm":
-    "[=who] accepted your invitation to join [=what]",
+    "[=who] aceitou o seu convite para aderir a [=what]",
   "AT$atxRemindStart":
-    "Remember to start [=what] on [=value:due]",
+    "Lembre-se de iniciar [=what] em [=value:due]",
   "AT$atxRemindDue":
-    "Remember to complete [=what] by [=value:due]",
+    "Lembre-se de concluir [=what] até [=value:due]",
   "AT$atxRemindOverdue":
-    "You missed the deadline [=value:due] of [=what]",
+    "Deixou passar o prazo limite [=value:due] de [=what]",
 
-  mUnsubscribe: "Unsubscription",
-  mUnsubscribeSuccess: "You have unsubscribed [=target] successfully.",
+  mUnsubscribe: "Cancelar Subscrição",
+  mUnsubscribeSuccess: "Cancelou a subscrição [=target] com sucesso.",
   mUnsubscribeTargetFailed:
-    'Oops... failed to unsubscribe <code>[=target]</code>. It might be removed. '
-    'Please <a href="/w">browse your tasks here</a>.',
+    'Ups... falha ao cancelar subscrição <code>[=target]</code>. Pode ter sido removida. '
+    'Por favor, <a href="/w">consulte as suas tarefas aqui</a>.',
   mUnsubscribeFailed:
-    'Sorry, the unsubscription link has been expired. '
-    'Please update <a href="/r/setting">your preferences here</a>.',
-  mUnsubscribeAutoSuccess: "You ([=email]) have unsubscribed [=target] successfully.",
+    'Desculpe, o link de cancelamento da subscrição expirou. '
+    'Por favor, atualize <a href="/r/setting">as suas preferências aqui</a>.',
+  mUnsubscribeAutoSuccess: "([=email]) cancelou a subscrição [=target] com sucesso.",
   mUnsubscribeAll:
-    "You ([=email]) have unsubscribed notifications and messages from Quire successfully.",
+    " ([=email]) cancelou a subscrição de notificações e mensagens do Quire com sucesso.",
 
   //Keyboard shortcuts
-  mKeyShortcuts: 'Keyboard Shortcuts (F1)',
-  mKeyShortcutsTitle: 'Keyboard Shortcuts',
-  mKeyNavigate: 'Navigate different task or function',
-  mKeyMoveTask: 'Move tasks vertically or horizontally',
-  mKeyMultipleSelect: 'Select multiple tasks',
-  mKeyF1: 'Keyboard shortcuts',
+  mKeyShortcuts: 'Atalhos de Teclado (F1)',
+  mKeyShortcutsTitle: 'Atalhos de Teclado',
+  mKeyNavigate: 'Navegue por diferentes tarefas ou funções',
+  mKeyMoveTask: 'Mova tarefas vertical ou horizontalmente',
+  mKeyMultipleSelect: 'Selecione várias tarefas',
+  mKeyF1: 'Atalhos de teclado',
 
-  mKeyEditTask: 'Edit task name',
-  mKeyEditTaskDesc: 'Edit task description',
-  mKeyCreateRootTask: 'Add new task at first level',
-  mKeyCreateTask: 'Add new task',
-  mKeyCreateSubtask: 'Add new subtask',
-  mKeyDeleteTask: 'Delete selected tasks',
-  mKeyCollapseTask: 'Collapse or expand tasks by level',
+  mKeyEditTask: 'Editar nome da tarefa',
+  mKeyEditTaskDesc: 'Editar descrição da tarefa',
+  mKeyCreateRootTask: 'Adicionar nova tarefa no primeiro nível',
+  mKeyCreateTask: 'Adicionar nova tarefa',
+  mKeyCreateSubtask: 'Adicionar nova sub-tarefa',
+  mKeyDeleteTask: 'Eliminar tarefas selecionadas',
+  mKeyCollapseTask: 'Recolher ou expandir tarefas por nível',
 
-  mKeyBlinkSearch: 'Blink search projects, members, etc.',
-  mKeySearchTask: 'Search tasks and comments',
-  mKeyCompleteTask: 'Complete selected tasks',
-  mKeyAssign: 'Assign..',
-  mKeyDueDate: 'Set due date',
-  mKeyAddTag: 'Add tag',
-  mKeyAddComment: 'Add comment',
-  mKeyOpenUndoList: 'Open undo operation list',
-  mKeyPrint: 'Print tasks',
-  mKeyDrillDown: 'Zoom in or out selected task',
-  mKeyQuote: 'Quote selected text in your reply',
-  mKeyComment: 'Comment in selected task',
-  mKeyIndent: 'Indent task in edit mode',
-  mKeyToggleHint: 'Show task ID and more',
-  mKeyPasteHint: "Paste what you copied as tasks",
-  mKeyToggleDetail: "Open or hide detail panel",
+  mKeyBlinkSearch: 'Pesquisa rápida de projetos, membros, etc.',
+  mKeySearchTask: 'Pesquisar tarefas e comentários',
+  mKeyCompleteTask: 'Concluir tarefas selecionadas',
+  mKeyAssign: 'Atribuir..',
+  mKeyDueDate: 'Definir prazo',
+  mKeyAddTag: 'Adicionar tag',
+  mKeyAddComment: 'Adicionar comentário',
+  mKeyOpenUndoList: 'Abrir lista de operações desfazer',
+  mKeyPrint: 'Imprimir tarefas',
+  mKeyDrillDown: 'Aumentar ou diminuir zoom da tarefa selecionada',
+  mKeyQuote: 'Citar o texto selecionado na sua resposta',
+  mKeyComment: 'Comentar na tarefa selecionada',
+  mKeyIndent: 'Recuar tarefa no modo de edição',
+  mKeyToggleHint: 'Mostrar ID da tarefa e mais',
+  mKeyPasteHint: "Colar o que copiou como tarefas",
+  mKeyToggleDetail: "Abrir ou ocultar o painel de detalhes",
 
   // Markdown help
   mMarkdownIntro: 'Markdown',
 
-  mMDHeader3: 'Headers',
-  mMDItalic: 'Italic',
-  mMDBold: 'Bold',
-  mMDColoring: 'Coloring',
-  mMDOrderedList: 'Numbered List',
-  mMDUnorderedList: 'Bulleted List',
+  mMDHeader3: 'Cabeçalhos',
+  mMDItalic: 'Itálico',
+  mMDBold: 'Negrito',
+  mMDColoring: 'Cor',
+  mMDOrderedList: 'Lista Numerada',
+  mMDUnorderedList: 'Lista com Marcadores',
   mMDLink: 'Link',
   mMDMention:
-    'You can also use <b><i>@user_name</i></b> '
-    'and <b><i>#task_name</i></b> for mention and reference.',
+    'Também pode usar <b><i>@nome_utilizador</i></b> '
+    'e <b><i>#nome_tarefa</i></b> para menção e referência.',
   mMDAbout:
-    'More about <a target="_blank" href="'
+    'Mais sobre <a target="_blank" href="'
     '/blog/p/Our-Very-Own-Markdown.html">'
-    'Quire flavored Markdown</a>',
+    'Quire com variante Markdown</a>',
 
   //Profile
-  mStatsHealthSec: "Progress Stats",
-  mStatsProgressChartSec: "Progress Stats",
+  mStatsHealthSec: "Estatísticas de Progresso",
+  mStatsProgressChartSec: "Estatísticas de Progresso",
 
-  mStatsProjectSummarySec: "Project Summary",
-  mStatsWeeklySummarySec: "Weekly Summary",
+  mStatsProjectSummarySec: "Resumo do Projeto",
+  mStatsWeeklySummarySec: "Resumo Semanal",
 
-  mArchivedProjects: "Archived projects",
+  mArchivedProjects: "Projetos arquivados",
 
-  mStatsWeeklyTodosLabel: "To-dos",
+  mStatsWeeklyTodosLabel: "Por Fazer",
 
-  mSettingProfileSec: "Profile",
-  mSettingBasicsSec: "Basics",
-  mSettingApplicationsSec: "Applications",
-  mSettingAdditionalSec: "Advanced",
+  mSettingProfileSec: "Perfil",
+  mSettingBasicsSec: "Básico",
+  mSettingApplicationsSec: "Aplicações",
+  mSettingAdditionalSec: "Avançado",
 
-  mSettingMemberSec: "Members",
-  mSettingMemberCountSec: "Member count",
-  mSettingExternalTeamsSec: "External Teams",
-  mSettingShareLinksSec: "Shared Links",
+  mSettingMemberSec: "Membros",
+  mSettingMemberCountSec: "Contagem de membros",
+  mSettingExternalTeamsSec: "Equipas externas",
+  mSettingShareLinksSec: "Links Partilhados",
   mSettingShareLinksDesc: 
-    "Share a link of your project with your clients so they can access it without signup.",
-  mSettingProjectSec: "Projects",
+    "Partilhe um link do seu projeto com os seus clientes para que eles possam aceder sem estarem registados.",
+  mSettingProjectSec: "Projetos",
   mSettingTagSec: "Tags",
-  mSettingFeatureSec: "Features",
-  mSettingIntegrationSec: "Integrations",  
-  mSettingReminderSec: "Reminders",
-  mSettingEmailSec: "Email Notifications",
-  mSettingCalTitle: "Calendar",
-  mSettingCalDesc: "Sync incomplete tasks with due dates to Google Calendar, iCal or others.",
-  mSettingCalBtnTitle: "Sync",
+  mSettingFeatureSec: "Recursos",
+  mSettingIntegrationSec: "Integrações",  
+  mSettingReminderSec: "Lembretes",
+  mSettingEmailSec: "Notificações de Email",
+  mSettingCalTitle: "Calendário",
+  mSettingCalDesc: "Sincronize tarefas incompletas com prazo ao Calendário Google, iCal ou outros.",
+  mSettingCalBtnTitle: "Sincronizar",
   mSettingGithubTitle: "GitHub",
-  mSettingGithubDesc: "Link GitHub commits to your tasks.",
-  mSettingGithubBtnTitle: "Integrate",
+  mSettingGithubDesc: "Integre commits do GitHub às suas tarefas.",
+  mSettingGithubBtnTitle: "Integrar",
   mSettingSlackTitle: "Slack",
   mSettingSlackDesc: 
-    "Link this organization to a Slack team to collaborate on projects from within Slack.",
-  mSettingSlackBtnTitle: "Add to Slack",
+    "Vincule esta organização a uma equipa do Slack para colaborar em projetos dentro do Slack.",
+  mSettingSlackBtnTitle: "Adicionar ao Slack",
   mSettingSlackTeamsDesc:
-    "This organization is linked to the following Slack teams:",
+    "Esta organização está vinculada às seguintes equipas do Slack:",
 
 
 
-  mOauthViewTitle: "Grant Permissions",
-  mOauthViewDesc: "[=name] will be able to:",
+  mOauthViewTitle: "Conceder Permissões",
+  mOauthViewDesc: "[=name] poderá:",
 
-  mOauthSlackSuccessViewTitle: "You are all set!",
+  mOauthSlackSuccessViewTitle: "Está tudo pronto!",
   mOauthSlackSuccessViewDesc: 
-    'Slack has succesfully authenticated with Quire.<br>'
-    'Type <b>/quire</b> in Slack to get started.',
+    'O Slack autenticou-se com o Quire com sucesso.<br>'
+    'Digite <b>/quire</b> no Slack para começar.',
 
-  mOauthSlackErrorViewTitle: "Uh oh!",
+  mOauthSlackErrorViewTitle: "Oh, não!",
   mOauthSlackErrorViewDesc: 
-    'There was an error linking your account, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
+    'Ocorreu um erro ao vincular a sua conta, por favor, tente novamente. '
+    'Se o erro persistir, não hesite em <a href="mailto:support@quire.io">contactar-nos</a>.',
 
-  mBoardIntroduce: 'You can manage your tasks visually in a board. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
+  mBoardIntroduce: 'Pode gerir as suas tarefas visualmente no quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> para mais informação.',
 
-  mSettingPictureLabel: "Picture",
+  mSettingPictureLabel: "Imagem",
 
-  mOrganizationProfile: "Organization Profile",
-  mMYProfile: "My Profile",
-  mUserProfile: "User Profile",
-  mAccountSettings: "Account Settings",
-  mRecommendQuire: "Recommend Quire",
+  mOrganizationProfile: "Perfil da Organização",
+  mMYProfile: "O Meu Perfil",
+  mUserProfile: "Perfil do Utilizador",
+  mAccountSettings: "Definições da Conta",
+  mRecommendQuire: "Recomendar Quire",
 
-  mAddCrossProject: "Add smart folder",
-  mAddOrganization: "Add organization",
-  mAddProject: "Add project",
+  mAddCrossProject: "Adicionar Pasta Inteligente",
+  mAddOrganization: "Adicionar organização",
+  mAddProject: "Adicionar projeto",
 
-  mAddNewLink: "Create new link",
+  mAddNewLink: "Criar novo link",
 
-  mViewMember: "View all members",
+  mViewMember: "Ver todos os membros",
 
-  mDeleteMYAccount: "Delete account",
+  mDeleteMYAccount: "Eliminar conta",
 
-  mChangeProfileVisibility: "Change profile visibility",
-  mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
-  mProfileVisibilityMember: "Non-member users cannot access your profile page.",
+  mChangeProfileVisibility: "Alterar visibilidade do perfil",
+  mProfileVisibilityAll: "Utilizadores não-membros só podem ver as suas informações básicas excluindo o email.",
+  mProfileVisibilityMember: "Utilizadores não-membros não podem aceder à sua página de perfil.",
 
-  mBasicInformation: "Basic Information",
-  mTasks: "Tasks",
-  mProjects: "Projects",
-  mOrganizations: "Organizations",
-  mOrganizationsAndProjects: "Organizations and Projects",
-  mOrganizationsPicture: "Organization Picture",
-  mMembers: "Members",
-  mRecentActivities: "Recent Activities",
-  mUpdateFromQuire: "Updates from Quire",
+  mBasicInformation: "Informação Básica",
+  mTasks: "Tarefas",
+  mProjects: "Projetos",
+  mOrganizations: "Organizações",
+  mOrganizationsAndProjects: "Organizações e Projetos",
+  mOrganizationsPicture: "Imagem da Organização",
+  mMembers: "Membros",
+  mRecentActivities: "Atividades Recentes",
+  mUpdateFromQuire: "Atualizações do Quire",
   mMembersSecDesc:
-    "Members in an organization have access to any project belonging to it.",
+    "Os membros de uma organização têm acesso a qualquer projeto que pertença à mesma.",
 
   mIntegraGithubDesc: 
-    "Select one or more repositories you want to connect to. "
-    "You can uncheck those you have selected.",
-  mIntegraGithubRepo: "Repositories",
-  mIntegraGithubErrorTitle: "Authentication Failed",
+    "Selecione um ou mais repositórios aos quais deseja conectar-se. "
+    "Pode desmarcar aqueles que selecionou.",
+  mIntegraGithubRepo: "Repositórios",
+  mIntegraGithubErrorTitle: "Falha na Autenticação",
   mIntegraGithubErrorDesc:
-    "Oops...there seems to be a connection problem. Please try again.",
+    "Ups...parece que há um problema com a ligação. Por favor, tente novamente.",
 
-  mIntegraSlackErrorTitle: "Uh oh!",
+  mIntegraSlackErrorTitle: "Oh, não!",
   mIntegraSlackErrorDesc:
-    'There was an error linking your organization, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
+    'Ocorreu um erro ao vincular a sua organização, por favor, tente novamente. '
+    'Se o erro persistir, não hesite em <a href="mailto:support@quire.io">contactar-nos</a>.',
 
-  mGeneral: "General",
-  mOrganizationUrl: "Org URL",
-  mCrossProjectUrl: "Smart folder URL",
-  mProfileUrl: "Profile URL",
+  mGeneral: "Geral",
+  mOrganizationUrl: "URL da Organização",
+  mCrossProjectUrl: "URL da Pasta Inteligente",
+  mProfileUrl: "URL do Perfil",
 
-  mCompany: "Company",
+  mCompany: "Empresa",
   mWebsite: "Website",
 
-  mActive: "Incomplete",
+  mActive: "Incompleto",
 
-  mEmailNotifications: "Email Notifications",
+  mEmailNotifications: "Notificações por Email",
 
-  mPerUpdate: "Per Update",
-  mHourly: "Hourly",
-  mDaily: "Daily",
-  mWeekly: "Weekly",
+  mPerUpdate: "Por Atualização",
+  mHourly: "De hora em hora",
+  mDaily: "Dirariamente",
+  mWeekly: "Semanalmente",
 
-  mStartedAt: "Started",
-  mCompletedAt: "Completed",
+  mStartedAt: "Iniciado",
+  mCompletedAt: "Concluído",
 
-  mSendActivityNotification: "Send Activity Notifications",
-  mActivityNotice: "Activity Notifications",
-  mReceiveTipsOutOFQuire: "Receive Tips on Getting More Out of Quire",
-  mReceiveNewsAboutProduceFeatureUpdates: "Receive News About Product and Feature Updates",
-  mReceiveQuireResearchSurvey: "Receive Quire Research Survey",
+  mSendActivityNotification: "Enviar Notificações de Atividade",
+  mActivityNotice: "Notificações de Atividade",
+  mReceiveTipsOutOFQuire: "Receber Dicas sobre Como Tirar Maior Proveito do Quire",
+  mReceiveNewsAboutProduceFeatureUpdates: "Receber Notícias sobre Atualizações do Produto e Recursos",
+  mReceiveQuireResearchSurvey: "Receber Questionário do Quire",
 
-  mReminders: "Task Reminders",
-  mRemindAdvance: "Remind Upcoming Tasks",
-  m12hrBefore: "12 hrs before",
-  m1dayBefore: "1 day before",
-  m2dayBefore: "2 days before",
-  m3dayBefore: "3 days before",
-  mStartOFDay: "At start of the day",
-  mStartOFWeek: "At start of the week",
-  mRemindTime: "Remind Upcoming Tasks with Due Time",
-  m0MinutesBefore: "At the time",
-  m15MinutesBefore: "15 mins before",
-  m30MinutesBefore: "30 mins before",
-  m1hrBefore: "1 hr before",
-  m2hrBefore: "2 hrs before",
-  mRemindOverdue: "Remind Overdue Tasks",
-  mNextDay: "Next day",
-  m2dayLater: "2 days later",
-  mStartOFNextWeek: "At start of next week",
-  mRemindDefaultTime: "Reminder Time",
+  mReminders: "Lembretes de Tarefas",
+  mRemindAdvance: "Lembrar Tarefas Futuras",
+  m12hrBefore: "12 horas antes",
+  m1dayBefore: "1 dia antes",
+  m2dayBefore: "2 dias antes",
+  m3dayBefore: "3 dias antes",
+  mStartOFDay: "Ao início do dia",
+  mStartOFWeek: "Ao início da semana",
+  mRemindTime: "Lembrar Tarefas Futuras com Prazos",
+  m0MinutesBefore: "Na hora",
+  m15MinutesBefore: "15 mins antes",
+  m30MinutesBefore: "30 mins antes",
+  m1hrBefore: "1 hora antes",
+  m2hrBefore: "2 horas antes",
+  mRemindOverdue: "Lembrar Tarefas Atrasadas",
+  mNextDay: "No Dia Seguinte",
+  m2dayLater: "2 dias depois",
+  mStartOFNextWeek: "Ao início da semana seguinte",
+  mRemindDefaultTime: "Hora do Lembrete",
   
-  mAlreadySignedUP: "[=email] already signed up",
+  mAlreadySignedUP: "[=email] já se registou",
   
   mNotSignedUPAndRedirect:
-    "You have not confirmed your signup yet.<br>"
-    "Please check your inbox or spam folder for the confirmation email, "
-    'or <a href="/signup?email=[=email]">sign up again</a>.',
+    "Ainda não confirmou o seu registo.<br>"
+    "Por favor, verifique na sua caixa de entrada ou pasta de spam o email de confirmação, "
+    'ou <a href="/signup?email=[=email]">registe-se novamente</a>.',
 
-  mGplusAuthorizeErrorTitle: "Google authorization failed",
-  mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
+  mGplusAuthorizeErrorTitle: "Falha na autorização Google",
+  mGplusAuthorizeError: "Ups... A autorização do Google falhou. Por favor, tente novamente.",
 
   mTransferProjectToSameOrganization:
-    "This project is already in the organization you specified.",
+    "Este projeto já está na organização que especificou.",
   mTransferTaskToSameProject:
-    "This task is already in the project you specified.",
+    "Esta tarefa já está no projeto que especificou.",
   mTransferTargetNotExist:
-    "The target no longer exists.",
+    "O objeto já não existe.",
 
-  mTaskNotExist: "This task has been deleted.",
-  mProjectNotExist: "This project has been deleted.",
+  mTaskNotExist: "Esta tarefa foi eliminada.",
+  mProjectNotExist: "Este projeto foi eliminado.",
   mReloadData:
-    "Data inconsistency detected. Synchronized with the server.",
+    "Detetada inconsistência de dados. Sincronizado com o servidor.",
 
   mThanksFeedback:
-    "Thank You! Your feedback is most valuable to us.<br>We'll get back to you ASAP!",
+    "Obrigado! A sua opinião é muito valiosa para nós.<br>Entraremos em contacto consigo o mais rápido possível!",
   mThanksFeedbackTask:
-    "Thank You! Your feedback is most valuable to us.<br>We created a task for it. "
-    'You can <a href="[=url]">follow it here</a>.',
+    "Obrigado! A  sua opinião é muito valiosa para nós.<br>Criámos uma tarefa para isto. "
+    'Pode <a href="[=url]">segui-la aqui</a>.',
 
   mTipF1:
-    "Tip: Press F1 to see keyboard shortcuts",
+    "Dica: Pressione F1 para ver os atalhos de teclado",
   mTipSelectMultiple:
-    "Tip: Select multiple tasks by <code>[=ctrlCommand]+Click</code> or <code>Shift+Click</code>",
+    "Dica: Selecione várias tarefas através de <code>[=ctrlCommand]+Clique</code> ou <code>Shift+Clique</code>",
   mTipMention:
-    'Tip: Enter <b><i>@user_name</i></b> in descriptions or comments to mention someone',
+    'Dica: Introduza <b><i>@nome_utilizador</i></b> nas descrições ou comentários para mencionar alguém',
   mTipReference:
-    'Tip: Enter <b><i>#task_name</i></b> in descriptions or comments to reference a task',
+    'Dica: Introduza <b><i>#nome_tarefa</i></b> nas descrições ou comentários para referir uma tarefa',
   mTipDrillDown:
-    'Tip: Zoom in a task by <code>[=ctrlCommand]+I</code> to only see its subtasks',
+    'Dica: Amplie uma tarefa através de <code>[=ctrlCommand]+I</code> para ver apenas as suas sub-tarefas',
   mTipTwitter:
-    'Tip: Follow us on <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'for recent updates',
+    'Dica: Siga-nos no <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
+    'para atualizações recentes',
   mTipMarkdown:
-    'Tip: Write descriptions and comments in '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> for better style',
+    'Dica: Escreva descrições e comentários em '
+    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> para um estilo melhor',
   mTipMoveTask:
-    'Tip: Move a task by <code>[=ctrlAlt]+↑</code>, '
+    'Dica: Mova uma tarefa através de <code>[=ctrlAlt]+↑</code>, '
     '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> and '
+    '<code>[=ctrlAlt]+←</i></code> e '
     '<code>[=ctrlAlt]+→</code>',
   mTipTabMove:
-    'Tip: Indent your task while in edit mode! Press <code>Tab</code> or <code>Shift+Tab</code>',
+    'Dica: Recue a sua tarefa durante o modo de edição! Pressione <code>Tab</code> ou <code>Shift+Tab</code>',
   mTipInvite:
-    'Enjoying Quire? <a href="/invite">Invite your friends</a>, '
-    'or <a href="/feedback">share with us</a> on how we can be better!',
+    'Está a gostar do Quire? <a href="/invite">Convide os seus amigos</a>, '
+    'ou <a href="/feedback">partilhe connosco</a> como podemos melhorar!',
   mTipPrint:
-    'Tip: Keep a hard copy of your tasks! <a href="javascript:window.print()">Print</a> '
-    'them via <code>[=ctrlCommand]+P</code>',
+    'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:window.print()">Imprima-as</a> '
+    'através de <code>[=ctrlCommand]+P</code>',
   mTipTaskId:
-    'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
+    'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
   mTipAssignInTaskName:
-    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code> and <code>&lt;</code> when naming your task for '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',
+    'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code> e <code>&lt;</code> quando nomeia a sua tarefa para '
+    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">adicionar rapidamente</a>',
   mTipChromeExtension:
-    'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
-    'to quickly access Quire and get notified',
+    'Dica: Adicione a <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extensão Chrome</a> '
+    'para aceder rapidamente ao Quire e receber notificações',
   mTipRightClick:
-    'Tip: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Right click</a> '
-    'on tasks to easily set assignees, priority and more!',
+    'Dica: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Clique com o botão direito</a> '
+    'nas tarefas para facilmente definir colaboradores, prioridade e muito mais!',
   mTipShiftLR:
-    'Tip: Press <code>Shift+←</code> or '
-    '<code>Shift+→</code> to collapse or expand all tasks level by level',
+    'Dica: Pressione <code>Shift+←</code> ou '
+    '<code>Shift+→</code> para recolher ou expandir todas as tarefas, nível por nível',
   mTipPaste:
-    'Tip: Press <code>[=ctrlCommand]+V</code> to <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">paste</a> '
-    'what you copied as tasks directly',
+    'Dica: Pressione <code>[=ctrlCommand]+V</code> para <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">colar</a> '
+    'o que copiou diretamente como tarefas',
   mTipCrossProject:
-    'Tip: Add a smart folder to view all tasks across different projects',
+    'Dica: Adicione uma pasta inteligente para ver todas as tarefas sobre diferentes projetos',
   mTipBlinkSearch:
-    'Tip: Blink search (<code>[=ctrlCommand]+B</code>) is an easy way to find almost anything in your workspace',
+    'Dica: A pesquisa rápida (<code>[=ctrlCommand]+B</code>) é uma forma simples de encontrar quase tudo na sua área de trabalho',
   mTipDarkTheme:
-    'Tip: <a href="/r/setting?tab=options">Select the dark theme</a> when your eyes grow weary at night',
+    'Dica: <a href="/r/setting?tab=options">Selecione o tema escuro</a> quando os seus olhos ficam cansados à noite',
   mTipSwipe:
-    'Tip: Swipe to complete, add or delete tasks(s)',
+    'Dica: Deslize para concluir, adicionar ou eliminar tarefas',
 
   mIntegraInvalidOptions:
-    "The configuration is incorrect",
+    "A configuração está incorreta",
 
   mTooManyNewOrgagnizations:
-    "You have added too many organizations in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Adicionou demasiadas organizações num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter uma cota maior.',
   mTooManyNewProjects:
-    "You have added too many projects in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Adicionou demasiados projetos num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter uma cota maior.',
   mTooManyNewTasks:
-    "You have added too many tasks in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Adicionou demasiadas tarefas num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter uma cota maior.',
   mTooManyInvites:
-    "You have invited too many members in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Convidou demasiados membros num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter uma cota maior.',
   mTooManyFriendInvites:
-    "You have invited too many friends in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Convidou demasiados amigos num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter uma cota maior.',
   mTooManyRequests:
-    "You have made the same request too many times in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for help.',
+    "Efetuou o mesmo pedido demasiadas vezes num curto espaço de tempo. "
+    'Por favor, aguarde algumas horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para obter suporte.',
   mBlocked:
-    'Sorry, you have violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>. '
-    'Please wait for [=hours] hours, or <a href="mailto:support@quire.io">contact us</a> for support.',
+    'Desculpe, violou os nossos <a href="https://quire.io/terms" target="_blank">Termos de Serviço</a>. '
+    'Por favor, aguarde por [=hours] horas, ou <a href="mailto:support@quire.io">entre em contacto connosco</a> para suporte.',
 
   mOrganizationLimit:
-    "Unable to add a new organization. Currently, the maximum number of organizations allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não foi possível adicionar uma nova organização. Atualmente, o número máximo de organizações permitido é de([=size]). "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
   mProjectLimit:
-    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não foi possível adicionar um novo projeto a [=organization]. Atualmente, o número máximo de projetos permitido é de ([=size]). "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
   mMemberLimit:
-    "Unable to add a new member to [=organization]. "
-    "Currently, the maximum number of members allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não foi possível adicionar um novo membro a [=organization]. "
+    "Atualmente, o número máximo de membros permitido é de <b>[=size]</b>. "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
   mTaskLimit:
-    "Unable to add a new task. Currently, the maximum number of tasks allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não foi possível adicionar uma nova tarefa. Atualmente, o número máximo de tarefas permitido é de ([=size]). "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
 
   mAppAccessInHourLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não pode aceder à API do Quire mais de <b>[=size]</b> vezes numa hora. "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
   mAppAccessInSecondLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in one second. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Não pode aceder à API do Quire mais do que <b>[=size]</b> vezes num segundo. "
+    'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
 
   mDenyLeaveDueToOnlyAdmin:
-    "Sorry, you cannot leave because you are the only admin left.",
+    "Desculpe, não pode sair porque é o único administrador que resta.",
 
   // FOLLOWING is used for Slack
   mSlackError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <https://quire.io/feedback|contact us>.',
+    'Desculpe, encontrámos um erro inesperado. '
+    "Vamos dar uma vista de olhos, mas "
+    'não hesite <https://quire.io/feedback|contact us>.',
 
   mSlackNeedLinkQuireAccount:
-    'Hello! We need you to link to your Quire account first. It only takes a few seconds, and you will be ready to go.',
+    'Olá! Precisamos que vincule primeiro à sua conta do Quire. Só demora alguns segundos, e estará pronto para começar.',
 
-  mSlackNeedLinkQuireAccountBtn: '<[=url]|Link Quire Account>',
+  mSlackNeedLinkQuireAccountBtn: '<[=url]|Vincular Conta do Quire>',
   mSlackLinkQuireAccountOK: 
-    'You have successfully linked to your Quire account.',
+    'Vinculou com sucesso à sua conta do Quire.',
 
   //Simple helps
-  mSlackSimpleHelpTitle: 'Here are some commands to get you started.',
+  mSlackSimpleHelpTitle: 'Aqui estão alguns comandos para começar.',
 
-  mSlackSimpleHelpAdd: 'Add a task, and assign it to team members',
+  mSlackSimpleHelpAdd: 'Adicione uma tarefa, e atribua-a aos membros da equipa',
   mSlackSimpleHelpAddExample: 
-    '`/quire add [task name] [@team member name] [@team member name]`\n'
-    'Example: `/quire add Design new logo @eric @jess`',
+    '`/quire add [nome da tarefa] [@nome do membro da equipa] [@nome do membro da equipa]`\n'
+    'Exemplo: `/quire add Design do novo logo @marco @sara`',
 
-  mSlackSimpleHelpComment: 'Add a comment to a task',
+  mSlackSimpleHelpComment: 'Adicionar um comentário a uma tarefa',
   mSlackSimpleHelpCommentExample: 
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
+    '`/quire comment [ID da tarefa] comment`\n'
+    'Exemplo: `/quire comment 123 Isto está espetacular!`',
 
-  mSlackSimpleHelpFollow: 'Follow a task or project',
+  mSlackSimpleHelpFollow: 'Seguir uma tarefa ou projeto',
   mSlackSimpleHelpFollowExample: 
-    '`/quire follow [task ID or project ID]`\n'
-    'Example: `/quire follow 123`\n'
-    'Example: `/quire follow Development_Project`',
+    '`/quire follow [ID da tarefa ou ID do projeto]`\n'
+    'Exemplo: `/quire follow 123`\n'
+    'Exemplo: `/quire follow Projeto_Desenvolvimento`',
 
-  mSlackSimpleHelpMore: 'More commands are available here `/quire help`.',
+  mSlackSimpleHelpMore: 'Pode encontrar mais comandos disponíveis aqui `/quire help`.',
 
   
   // Full helps
-  mSlackHelpAdd: 'Add a task',
+  mSlackHelpAdd: 'Adicionar uma tarefa',
   mSlackHelpAddExample: 
-    '`/quire add [task name]`\n'
-    '`/quire add [under or after] [parent or sibling id] [task name]`\n'
-    'Example: `/quire add Design new logo @eric @jess\n'
-    'Example: `/quire add under 10 Logo',
+    '`/quire add [nome da tarefa]`\n'
+    '`/quire add [debaixo ou depois] [id da classe pai ou classe irmão] [nome da tarefa]`\n'
+    'Exemplo: `/quire add Design do novo logo @marco @sara\n'
+    'Exemplo: `/quire add debaixo 10 Logo',
 
-  mSlackHelpLink: 'Link a Quire project to this Slack channel',
+  mSlackHelpLink: 'Vincular um Projeto do Quire a este canal Slack',
   mSlackHelpLinkExample: 
-    '`/quire link [project ID or project URL]`\n'
-    'Example: `/quire link Development_Project`\n'
-    'Example: `/quire link https://quire.io/w/development_project`',
+    '`/quire link [ID do projeto ou URL do projeto]`\n'
+    'Exemplo: `/quire link Projeto_desenvolvimento`\n'
+    'Exemplo: `/quire link https://quire.io/w/projeto_desenvolvimento`',
 
-  mSlackHelpListProject: 'List all projects',
+  mSlackHelpListProject: 'Listar todos os projetos',
   mSlackHelpListProjectExample: '`/quire list project`',
-  mSlackHelpSearchProject: 'Search projects',
+  mSlackHelpSearchProject: 'Pesquisar projetos',
   mSlackHelpSearchProjectExample: 
-    '`/quire list project [keyword 1] [keyword 2]`\n'
-    'Example: `/quire list project Development Marketing`',
+    '`/quire list project [palavra-chave 1] [palavra-chave 2]`\n'
+    'Exemplo: `/quire list project Desenvolvimento de Marketing`',
 
-  mSlackHelpListTask: 'List recent tasks',
+  mSlackHelpListTask: 'Listar tarefas recentes',
   mSlackHelpListTaskExample: '`/quire list`',
-  mSlackHelpSearchTask: 'Search tasks',
-  mSlackHelpSearchTaskExample: '`/quire list [keyword 1] [keyword 2]`',
-  mSlackHelpViewTask: 'View specific tasks',
+  mSlackHelpSearchTask: 'Pesquisar tarefas',
+  mSlackHelpSearchTaskExample: '`/quire list [palavra-chave 1] [palavra-chave 2]`',
+  mSlackHelpViewTask: 'Ver tarefas específicas',
   mSlackHelpViewTaskExample: 
-    '`/quire list [task ID 1] [task ID 2]`\n'
-    'Example: `/quire list 123 456`',
+    '`/quire list [ID de tarefa 1] [ID de tarefa 2]`\n'
+    'Exemplo: `/quire list 123 456`',
 
-  mSlackHelpListTag: 'List tags',
+  mSlackHelpListTag: 'Listar tags',
   mSlackHelpListTagExample: '`/quire list tag`',
 
-  mSlackHelpListMember: 'List members',
+  mSlackHelpListMember: 'Listar membros',
   mSlackHelpListMemberExample: '`/quire list member`',
 
-  mSlackHelpEdit: 'Edit a task',
+  mSlackHelpEdit: 'Editar uma tarefa',
   mSlackHelpEditExample: 
-    '`/quire edit [task ID] name`\n'
-    'Example: `/quire edit 123 Design new logo !1 @david`',
+    '`/quire edit [ID da tarefa] nome`\n'
+    'Exemplo: `/quire edit 123 Desenhar o novo logo !1 @david`',
 
-  mSlackHelpAssign: 'Assign a task',
+  mSlackHelpAssign: 'Atribuir uma tarefa',
   mSlackHelpAssignExample: 
-    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>]`e\n'
-    'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
-    'Example: `/quire assign 123 +@david -@jess +#marketing`',
+    '`/quire assign [ID da tarefa] [@nome do membro da equipa] [!prioridade] [#tag] [<início; fim>]`e\n'
+    'Exemplo: `/quire assign 123 @david @maria #design !1 <Out 25>`\n'
+    'Exemplo: `/quire assign 123 +@david -@sara +#marketing`',
 
-  mSlackHelpComment: 'Comment a task',
+  mSlackHelpComment: 'Comentar uma tarefa',
   mSlackHelpCommentExample: 
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
+    '`/quire comment [ID da tarefa] comentário`\n'
+    'Exemplo: `/quire comment 123 Está a ficar espetacular!`',
 
-  mSlackHelpComplete: 'Complete tasks',
+  mSlackHelpComplete: 'Concluir tarefas',
   mSlackHelpCompleteExample: 
-    '`/quire complete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire complete 123 456`',
+    '`/quire complete [ID da tarefa 1] [ID da tarefa 2]`\n'
+    'Exemplo: `/quire complete 123 456`',
 
-  mSlackHelpDelete: 'Delete tasks',
+  mSlackHelpDelete: 'Eliminar tarefas',
   mSlackHelpDeleteExample: 
-    '`/quire delete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire delete 123 456`',
+    '`/quire delete [ID da tarefa 1] [ID da tarefa 2]`\n'
+    'Exemplo: `/quire delete 123 456`',
 
-  mSlackHelpFollowTask:  'Follow or unfollow tasks',
+  mSlackHelpFollowTask:  'Seguir ou deixar de seguir tarefas',
   mSlackHelpFollowTaskExample: 
-    '`/quire [follow or unfollow] [task ID 1] [task ID 2]`\n'
-    'Example: `/quire follow 123 456`',
+    '`/quire [Seguir ou não seguir] [ID da tarefa 1] [ID da tarefa 2]`\n'
+    'Exemplo: `/quire follow 123 456`',
 
-  mSlackHelpFollowProject:  'Follow or unfollow projects',
+  mSlackHelpFollowProject:  'Seguir ou deixar de seguir projetos',
   mSlackHelpFollowProjectExample: 
-    '`/quire [follow or unfollow] project [project ID 1] [project ID 2]`\n'
-    'Example: `/quire follow project Development_Project Marketing_Project`',
+    '`/quire [seguir ou não seguir] project [project ID 1] [project ID 2]`\n'
+    'Exemplo: `/quire follow project Projeto_Desenvolvimento Projeto_Marketing`',
 
   mSlackNeedLinkProject: 
-    'You need to link to a Quire project first.',
+    'Primeiro, precisa de vincular a um projeto do Quire.',
     //then auto list projects with link button
-  mSlackCurrentLinkProject: 'This channel is already linked to [=project].',
-  mSlackCurrentLinkProjectSimpleHelp: 'This channel is linked to [=project].',
-  mSlackCurrentLinkProjectMarker: '(currently linked)',  
-  mSlackLinkProjectOK: '[=who] has linked this channel to [=project].',
+  mSlackCurrentLinkProject: 'Este canal já está vinculado a [=project].',
+  mSlackCurrentLinkProjectSimpleHelp: 'Este canal está vinculado a [=project].',
+  mSlackCurrentLinkProjectMarker: '(atualmente vinculado)',  
+  mSlackLinkProjectOK: '[=who] vinculou este canal a [=project].',
 
-  mSlackAddTaskOK: '[=who] has successfully added [=task]',
-  mSlackAddTaskUnderOK: '[=who] has successfully added subtask [=task] under [=parent].',
-  mSlackAddTaskAfterOK: '[=who] has successfully added task [=task] after [=sibling].',
+  mSlackAddTaskOK: '[=who] adicionou [=task] com sucesso',
+  mSlackAddTaskUnderOK: '[=who] adicionou com sucesso a sub-tarefa [=task] sob [=parent].',
+  mSlackAddTaskAfterOK: '[=who] adicionou com sucesso a tarefa [=task] depois de [=sibling].',
 
-  mSlackCompleteTaskOK: 'You have successfully completed [=tasks].',
-  mSlackDeleteTaskOK: 'You have successfully deleted [=tasks].',
+  mSlackCompleteTaskOK: 'Concluiu com sucesso [=tasks].',
+  mSlackDeleteTaskOK: 'Eliminou com sucesso [=tasks].',
 
 
-  mSlackAssignAssigneesTaskOK: 'You have successfully edited the assignees of [=tasks].',
-  mSlackAssignPriorityTaskOK: 'You have successfully edited the priority of [=tasks].',
-  mSlackAssignDateTaskOK: 'You have successfully edited the dates of [=tasks].',
-  mSlackAssignTagsTaskOK: 'You have successfully edited the tags of [=tasks].',
+  mSlackAssignAssigneesTaskOK: 'Editou os colaboradores de [=tasks] com sucesso.',
+  mSlackAssignPriorityTaskOK: 'Editou a prioridade de [=tasks] com sucesso.',
+  mSlackAssignDateTaskOK: 'Editou as datas de [=tasks] com sucesso.',
+  mSlackAssignTagsTaskOK: 'Editou as tags de [=tasks] com sucesso.',
 
-  mSlackEditNameTaskOK: 'You have successfully renamed [=task].',
-  mSlackCommentTaskOK: '[=who] has successfully commented [=task].',
+  mSlackEditNameTaskOK: 'Renomeou [=task] com sucesso.',
+  mSlackCommentTaskOK: '[=who] comentou [=task] com sucesso.',
 
-  mSlackFollowTaskOK: '[=who] has got this channel to follow [=tasks].',
-  mSlackUnfollowTaskOK: '[=who] has got this channel to unfollow [=tasks].',
-  mSlackFollowProjectOK: '[=who] has got this channel to follow [=projects].',
-  mSlackUnfollowProjectOK: '[=who] has got this channel to unfollow [=projects].',
+  mSlackFollowTaskOK: '[=who] tem este canal para seguir [=tasks].',
+  mSlackUnfollowTaskOK: '[=who] tem este canal para não seguir [=tasks].',
+  mSlackFollowProjectOK: '[=who] tem este canal para seeguir [=projects].',
+  mSlackUnfollowProjectOK: '[=who] tem este canal para não seguir [=projects].',
 
-  mSlackFailProjectNotFound: 'Project [=project]: not found.',
-  mSlackFailUserNotFound: 'Please check if [=name] has linked to his or her Quire account.',
-  mSlackFailPropertiesNotFound: '[=text] not found',
-  mSlackFailTaskNotFound:  'Task [=task]: not found.',
-  mSlackFailTaskNotAllow: 'Task [=task]: not allowed.',
+  mSlackFailProjectNotFound: 'Projeto [=project]: não encontrado.',
+  mSlackFailUserNotFound: 'Por favor, confirme se [=name] se vinculou à sua conta do Quire.',
+  mSlackFailPropertiesNotFound: '[=text] não encontrado',
+  mSlackFailTaskNotFound:  'Tarefa [=task]: não encontrada.',
+  mSlackFailTaskNotAllow: 'Tarefa [=task]: não permitida.',
   mSlackFailListNotFound: 
-    'Nothing found in the linked project. '
-    'You can go to [=project] to add them first.',
+    'Nada encontrado no projeto vinculado. '
+    'Pode ir a [=project] para adicioná-los primeiro.',
 
 
   // FOLLOWING is used for mobile
-  mAddMemberPlaceholder: "Add member by email",
+  mAddMemberPlaceholder: "Adicionar membro por email",
   
-  mMobileUndo: "Undo",
-  mMobileTaskTreeAddTask: "Add Task",
-  mMobileCamera: "Camera",
-  mMobilePhotos: "Photos",
-  mMobileComment: "Comment",
-  mMobileTaskName: "Task name",
-  mMobileTaskDesc: "Task description",
-  mMobileSaveToPhoto: "Saved to Photos",
-  mMobileEditPriority: "Edit Priority",
+  mMobileUndo: "Desfazer",
+  mMobileTaskTreeAddTask: "Adicionar Tarefa",
+  mMobileCamera: "Câmara",
+  mMobilePhotos: "Fotos",
+  mMobileComment: "Comentário",
+  mMobileTaskName: "Nome da Tarefa",
+  mMobileTaskDesc: "Descrição da Tarefa",
+  mMobileSaveToPhoto: "Guardado em Fotos",
+  mMobileEditPriority: "Editar Prioridade",
   mMobileOffline: "Offline",
-  mMobileHide: "Hide",
-  mMobileAccount: "Account",
-  mMobileSendFeedback: "Send Feedback",
-  mMobileRateQuire: "Rate Quire",
-  mMobileAddTags: "Add Tags",
-  mMobileSettings: "Settings",
-  mMobileSearch: "Search",
-  mMobileDueDay: "Due Date",
-  mMobileDueTime: "Due Time",
-  mMobileStartDay: "Start Date",
-  mMobileStartTime: "Start Time",
-  mMobileRepeateTask: "Repeat Task",
-  mMobileApply: "Apply",
-  mMobileStatus: "Status",
-  mMobileSort: "Sort",
-  mMobileNew: "New",
-  mMobileRetry: "Retry",
-  mMobileRefresh: "Refresh",
-  mMobileNextWeek: "Next week",
-  mMobilePickDate: "Pick date",
-  mMobileJustRefresh: "Just Refreshed",
-  mMobileDrill: "Zoom in",
-  mMobileUndrill: "Zoom out",
-  mMobileFavorite: "Favorite",
-  mMobileFavorited: "Favorited",
-  mMobileView: "VIEW",
-  mMobileCopiedTo: "Copied to",
-  mMobileTransferedTo: "Transferred to",
-  mMobileNewTask: "New Task",
-  mMobileBack: "Back",
-  mMobileMYTasks: "My Tasks",
-  mMobileEditName: "Edit Name",
-  mMobileEditDesc: "Edit Description",
-  mMobileIgnore: "ignore",
-  mMobileReload: "reload",
-  mMobileTime: "Time",
-  mMobileEditRole: "Edit role",
-  mMobileMenuArchive: "Archive",
-  mMobileMenuUnarchive: "Unarchive",
-  mMobileTasksSelected: "[=amount] Selected",
-  mMobileFiles: "Files",
+  mMobileHide: "Ocultar",
+  mMobileAccount: "Conta",
+  mMobileSendFeedback: "Enviar Feedback",
+  mMobileRateQuire: "Avaliar o Quire",
+  mMobileAddTags: "Adicionar Tags",
+  mMobileSettings: "Definições",
+  mMobileSearch: "Pesquisar",
+  mMobileDueDay: "Prazo de Conclusão",
+  mMobileDueTime: "Hora Limite",
+  mMobileStartDay: "Data de Início",
+  mMobileStartTime: "Hora de Início",
+  mMobileRepeateTask: "Repetir Tarefa",
+  mMobileApply: "Aplicar",
+  mMobileStatus: "Estado",
+  mMobileSort: "Ordenar",
+  mMobileNew: "Nova",
+  mMobileRetry: "Tentar novamente",
+  mMobileRefresh: "Atualizar",
+  mMobileNextWeek: "Próxima semana",
+  mMobilePickDate: "Escolher data",
+  mMobileJustRefresh: "Acabado de Atualizar",
+  mMobileDrill: "Mais zoom",
+  mMobileUndrill: "Menos zomm",
+  mMobileFavorite: "Favorito",
+  mMobileFavorited: "Adicionado aos Favoritos",
+  mMobileView: "VER",
+  mMobileCopiedTo: "Copiada para",
+  mMobileTransferedTo: "Transferida para",
+  mMobileNewTask: "Nova Tarefa",
+  mMobileBack: "Voltar",
+  mMobileMYTasks: "As Minhas Tarefas",
+  mMobileEditName: "Editar Nome",
+  mMobileEditDesc: "Editar Descrição",
+  mMobileIgnore: "ignorar",
+  mMobileReload: "recarregar",
+  mMobileTime: "Hora",
+  mMobileEditRole: "Editar função",
+  mMobileMenuArchive: "Arquivar",
+  mMobileMenuUnarchive: "Desarquivar",
+  mMobileTasksSelected: "[=amount] Selecionadas",
+  mMobileFiles: "Ficheiros",
 
-  mMobileForgotPasswordTitle: "Forgot Password",
-  mMobileForgotResetErrorTitle: "Reset error",
-  mMobileSignupErrorTitle: "Signup error",
+  mMobileForgotPasswordTitle: "Esqueci-me da Palavra-passe",
+  mMobileForgotResetErrorTitle: "Erro de Redefinição",
+  mMobileSignupErrorTitle: "Erro de registo",
 
-  mMobileProjectTreeSearchOffline: "You cannot add project or organization when offline.",
+  mMobileProjectTreeSearchOffline: "Não pode adicionar um projeto ou organização quando está offline.",
 
-  mMobileDisconnected: "Connection lost. Please check your internet connection.",
-  mMobileTaskDeleted: "Sorry, this task has been deleted.",
-  mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
+  mMobileDisconnected: "Ligação perdida. Por favor, verifique a sua ligação à internet.",
+  mMobileTaskDeleted: "Desculpe, esta tarefa foi eliminada.",
+  mMobileUnableUploadAttachment: "Não nos é possível carregar o ficheiro. Por favor, tente novamente.",
 
-  mMobileDetailFollow: "Follow",
-  mMobileDetailFollowing: "Following",
-  mMobileDetailProjectInfo: "Project Info",
-  mMobileDetailProjectTag: "Project Tags",
-  mMobileDetailTaskBeenDeletedTitle: "Oops!",
-  mMobileDetailTaskBeenDeletedDesc: "This task has been deleted.",
-  mMobileDetailTaskDescEdit: "Edit Task Info",
-  mMobileDetailProjectDescEdit: "Edit Project Info",
-  mMobileDetailTasksStatus: "Tasks Status",
-  mMobileDetailActivityLog: "Activity Log",
-  mMobileEditAttachments: "Edit Attachments",
-  mMobileEditDate: "Edit Date",
-  mMobileCopyTaskLink: "Copy Task URL",
-  mMobileShareTaskLink: "Share Task URL",
+  mMobileDetailFollow: "Seguir",
+  mMobileDetailFollowing: "A Seguir",
+  mMobileDetailProjectInfo: "Informação do Projeto",
+  mMobileDetailProjectTag: "Tags do Projeto",
+  mMobileDetailTaskBeenDeletedTitle: "Ups!",
+  mMobileDetailTaskBeenDeletedDesc: "Esta tarefa foi eliminada.",
+  mMobileDetailTaskDescEdit: "Editar Informação da Tarefa",
+  mMobileDetailProjectDescEdit: "Editar Informação do Projeto",
+  mMobileDetailTasksStatus: "Estados das Tarefas",
+  mMobileDetailActivityLog: "Registo de Atividade",
+  mMobileEditAttachments: "Editar Anexos",
+  mMobileEditDate: "Editar Data",
+  mMobileCopyTaskLink: "Copiar URL da Tarefa",
+  mMobileShareTaskLink: "Partilhar URL da Tarefa",
 
-  mMobileDueInvalidTitle: "Invalid Date",
-  mMobileDueInvalidDesc: "Your start date must be earlier than due date.",
-  mMobileDueAddTime: "Add Time",
+  mMobileDueInvalidTitle: "Data Inválida",
+  mMobileDueInvalidDesc: "A sua data de início deve ser anterior à data de conclusão.",
+  mMobileDueAddTime: "Adicionar Hora",
 
-  mMobileAssigneeEditTitle: "Edit Assignee",
-  mMobileAssigneePartnerWarn: "This task is assigned to an external team, but you can assign it to your team member.",
-  mMobileAssigneeExternalTeamCantAssign: "Sorry, external team cannot be reassigned yet",
-  mMobileAssigneeHasAdded: "This member has already been added",
-  mMobileAssigneeInvite: "Invite a new member by email address",
-  mMobileAssigneeAssignee: "Asgnee",
-  mMobileAssigneeAssigner: "Asgner",
-  mMobileAssigneeCreator: "Creator",
+  mMobileAssigneeEditTitle: "Editar Colaborador",
+  mMobileAssigneePartnerWarn: "Esta tarefa está atribuída a uma equipa externa, mas pode atribuí-la ao membro da sua equipa.",
+  mMobileAssigneeExternalTeamCantAssign: "Desculpe, a equipa externa ainda não pode ser reatribuída",
+  mMobileAssigneeHasAdded: "Este membro já foi adicionado",
+  mMobileAssigneeInvite: "Convide um novo membro por endereço de email",
+  mMobileAssigneeAssignee: "Colaborador",
+  mMobileAssigneeAssigner: "Atribuidor",
+  mMobileAssigneeCreator: "Criador",
 
-  mMobileFollowerEdit: "Edit Followers",
-  mMobileMemberAddTitle: "Add Members",
+  mMobileFollowerEdit: "Editar Seguidores",
+  mMobileMemberAddTitle: "Adicionar Membros",
 
-  mMobileAttachmentAdd: "Add attachment",
-  mMobileCommentPost: "Post a comment",
+  mMobileAttachmentAdd: "Adicionar anexo",
+  mMobileCommentPost: "Publicar um comentário",
 
-  mMobileFeedbackFieldRequired: "Subject and Comments are required",
-  mMobileFeedbackTitle: "Have a question or suggestion for us?\nWe're all ears!",
+  mMobileFeedbackFieldRequired: "O Assunto e Comentários são obrigatórios",
+  mMobileFeedbackTitle: "Tem alguma questão ou sugestão para nós?\nSomos todos ouvidos!",
 
-  mMobileNewProject: "New Project",
-  mMobileNewOrganization: "New Organization",
-  mMobileOrganizationCreatedOn: "Created on [=createdAt]",
-  mMobileYourNewPassword: "Your new password.",
+  mMobileNewProject: "Novo Projeto",
+  mMobileNewOrganization: "Nova Organização",
+  mMobileOrganizationCreatedOn: "Criado em [=createdAt]",
+  mMobileYourNewPassword: "A sua nova palavra-passe.",
 
-  mMobileMenuManageTags: "Manage tags",
-  mMobileMenuManageMember: "Manage members",
+  mMobileMenuManageTags: "Gerir tags",
+  mMobileMenuManageMember: "Gerir membros",
 
-  mMobileAssignedByShort: "Asgd by",
-  mMobileCreatedByShort: "Crtd by",
-  mMobileAssignedToShort: "Asgd to",
+  mMobileAssignedByShort: "Atribuídos por",
+  mMobileCreatedByShort: "Criado por",
+  mMobileAssignedToShort: "Atribuído a",
 
-  mMobileSearchOptionsTitle: "Search results in...",
-  mMobileSearchRecent: "Recent searches",
-  mMobileSearchMoreChars: "Search by 3 or more characters",
-  mMobileSearchTaskHint: "Search for Tasks",
+  mMobileSearchOptionsTitle: "Resultados de pesquisa em...",
+  mMobileSearchRecent: "Pesquisas recentes",
+  mMobileSearchMoreChars: "Pesquise por 3 ou mais caracteres",
+  mMobileSearchTaskHint: "Pesquisar por Tarefas",
 
-  mMobileRateTitle: "Love Quire?",
-  mMobileRateDesc: "Cheer us on with a 5-star rating!",
-  mMobileRateNow: "Rate now",
-  mMobileRateFeedback: "Give us feedback",
-  mMobileRateNOThanks: "No, thanks",
+  mMobileRateTitle: "Adora o Quire?",
+  mMobileRateDesc: "Anime-nos com uma avaliação de 5 estrelas!",
+  mMobileRateNow: "Avaliar agora",
+  mMobileRateFeedback: "Dê-nos o seu feedback",
+  mMobileRateNOThanks: "Não, obrigado",
 
-  mMobileTransferTaskToPrj: "To project:",
-  mMobileTransferTaskIncTag: "Keep the tags of the task",
-  mMobileTransferTaskIncUser: "Keep the people associated with the task",
-  mMobileTransferTaskCPTaskFinish: "Keep a copy of the task in this project",
+  mMobileTransferTaskToPrj: "Para o projeto:",
+  mMobileTransferTaskIncTag: "Mantenha a tag da tarefa",
+  mMobileTransferTaskIncUser: "Mantenha as pessoas associadas à tarefa",
+  mMobileTransferTaskCPTaskFinish: "Mantenha uma cópia da tarefa neste projeto",
 
-  mMobileSettingSupport: "Sorry, you cannot edit your profile yet. Please use the web browser for now.",
-  mMobileConfirmEmailExpired: "Oops!",
-  mMobileConfirmExpired: "Sorry, the email conformation link has expired.",
-  mMobileConfirmExpiredSubmit: "Try again",
-  mMobileSignupMailSentTitle: "You're almost there!",
+  mMobileSettingSupport: "Desculpe, ainda não pode editar o seu perfil. Por favor, use o navegador por agora.",
+  mMobileConfirmEmailExpired: "Ups!",
+  mMobileConfirmExpired: "Desculpe, o link de confirmação de email expirou.",
+  mMobileConfirmExpiredSubmit: "Tente novamente",
+  mMobileSignupMailSentTitle: "Está quase lá!",
   mMobileSignupMailSentDesc:
-    'We have sent a confirmation email to <strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder to complete registration.',
-  mMobileLoginErrorTitle: "Error",
-  mMobileLoginErrorDesc: "Incorrect email or password",
-  mMobileForgotPasswordDesc: "Don't worry! Enter your email address and we will send you a link to reset your password.",
-  mMobileEmailSentCheckTitle: "Help's on the way!",
-  mMobileEmailSentCheckDesc: "Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.",
-  mMobileEmptyBackgroundTitle: "Ready?",
-  mMobileEmptyBackgroundDesc: "Add some ideas to kick start your dream!",
-  mMobileNOFilterBackgroundDesc: "Hurray~ no task is due!",
-  mMobileNODrillBackgroundDesc: "There is no subtask to show.",
-  mMobileFilterBackgroundDesc1: "No tasks found. You can try to ",
-  mMobileFilterBackgroundDesc2: "reset filter",
+    'Enviámos um email de confirmação para <strong>[=email]</strong>.<br>'
+    'Por favor, [=hrefStart]verifique a sua caixa de entrada[=hrefEnd] ou pasta de spam para completar o seu registo.',
+  mMobileLoginErrorTitle: "Erro",
+  mMobileLoginErrorDesc: "Email ou palavra-passe incorretos",
+  mMobileForgotPasswordDesc: "Não se preocupe! Introduza o seu endereço de email e enviamos-lhe um link para redefinir a sua palavra-passe.",
+  mMobileEmailSentCheckTitle: "A ajuda vai a caminho!",
+  mMobileEmailSentCheckDesc: "Por favor, [=hrefStart]verifique a sua caixa de entrada[=hrefEnd] ou pasta de spam.",
+  mMobileEmptyBackgroundTitle: "Pront@?",
+  mMobileEmptyBackgroundDesc: "Adicione algumas ideias para arrancar com o seu sonho!",
+  mMobileNOFilterBackgroundDesc: "Viva~ nenhuma tarefa em atraso!",
+  mMobileNODrillBackgroundDesc: "Não existe nenhuma sub-tarefa para mostrar.",
+  mMobileFilterBackgroundDesc1: "Não foram encontradas tarefas. Pode tentar ",
+  mMobileFilterBackgroundDesc2: "limpar filtro",
   mMobileFilterBackgroundDesc3: ".",
-  mMobile404BackgroundTitle: "Ouch.",
-  mMobile404BackgroundDesc: "The thing you're looking for is gone.",
-  mMobileNOConnectionBackgroundTitle: "Bummer.",
-  mMobileNOConnectionBackgroundDesc: "Looks like you lost connection.",
-  mMobileInitNOConnectionTitle: "Oops!",
-  mMobileInitNOConnectionDesc: "We seem to lost you. Please try connecting again.",
-  mMobileNOProjectTitle: "Nothing Here",
-  mMobileNOProjectDesc: "You can create a project or refresh to see if you already have one.",
-  mMobileNOPermissionToFunction: "You don't have permission to use this function.",
-  mMobileFeedbackPublic: "Allow other Quire users to see",
-  mMobileFeedbackSuccessTitle: "Thank You!",
-  mMobileFeedbackSuccessDesc: "Your feedback is important to us. We’ll get back to you ASAP!",
-  mMobileFeedbackSuccessUrl: "Check out my feedback",
+  mMobile404BackgroundTitle: "Ai.",
+  mMobile404BackgroundDesc: "A coisa que está à procura desapareceu.",
+  mMobileNOConnectionBackgroundTitle: "Bolas.",
+  mMobileNOConnectionBackgroundDesc: "Parece que perdeu a ligação.",
+  mMobileInitNOConnectionTitle: "Ups!",
+  mMobileInitNOConnectionDesc: "Parece que @ perdemos. Por favor, tente ligar-se novamente.",
+  mMobileNOProjectTitle: "Nada Aqui",
+  mMobileNOProjectDesc: "Pode criar um projeto ou atualizar para ver se já tem um.",
+  mMobileNOPermissionToFunction: "Não tem permissão para usar esta função.",
+  mMobileFeedbackPublic: "Permitir que outros utilizadores do Quire vejam",
+  mMobileFeedbackSuccessTitle: "Obrigado!",
+  mMobileFeedbackSuccessDesc: "A sua opinião é importante para nós. Entraremos em contacto consigo o mais rápido possível!",
+  mMobileFeedbackSuccessUrl: "Ver o meu feedback",
   mMobileFeedbackSuccessOK: "OK",
   mMobileArchiveProjectContent:
-    "You're about to archive this project. "
-    "An archived project will be moved to the Archived in the menu sidebar.",
-  mMobileSidebarSearchForPrj: "Search for Projects",
-  mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
-  mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
-  mMobileCrashRefreshTitle: "Oops!",
-  mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
-  mMobileBatchNOSelectedDesc: "You need to select at least one task.",
+    "Está prestes a arquivar este projeto. "
+    "Um projeto arquivado será movido para Arquivado na barra lateral do menu.",
+  mMobileSidebarSearchForPrj: "Pesquisar por Projetos",
+  mMobileReadOnlyProfileDesc: "Por enquanto é uma visualização somente de leitura. Para atualizações e notícias, siga-nos em",
+  mMobilePermissionDenyCamera: "Precisa de ir às Definições e dar permissão para que o Quire aceda à sua Câmara.",
+  mMobileCrashRefreshTitle: "Ups!",
+  mMobileCrashRefreshDesc: "Parece que algo correu mal! Nós monitoramos estes erros automaticamente. Entretanto, pode tentar recarregar a página.",
+  mMobileBatchNOSelectedDesc: "Precisa de selecionar pelo menos uma tarefa.",
 
-  mMobileEXServerError: "Sorry, we encountered an unexpected error. Please try again later.",
-  mMobileEXTaskCreated: "Your task has been added",
-  mMobileEXTaskCreatedImgMaxDeny1: "Please choose",
-  mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
-  mMobileEXLogin: "Please log in Quire first"
+  mMobileEXServerError: "Desculpe, ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
+  mMobileEXTaskCreated: "A sua tarefa foi adicionada",
+  mMobileEXTaskCreatedImgMaxDeny1: "Por favor, escolha",
+  mMobileEXTaskCreatedImgMaxDeny2: "fotos ou menos",
+  mMobileEXLogin: "Por favor, primeiro inicie sessão no Quire"
 };

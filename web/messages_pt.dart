@@ -14,203 +14,202 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
- 
 const Map<String, String> ptWeb = const <String, String> {
-  mSlogan: 'Unfold Your Ideas',
-  mSloganSentence: 'Unfold your ideas',
+  mSlogan: 'Desenrole As Suas Ideias',
+  mSloganSentence: 'Desenrole as suas ideias',
   mSloganSubtitle:
-    'accomplish more with Quire project management',
+    'alcance mais com a gestão de projetos do Quire',
   mQuireDescription:
-    'The best collaborative project management software for breaking down goals in hierarchical lists.',
+    'O melhor software de gestão colaborativa de projetos para decompor objetivos em listas hierárquicas.',
 
-  mHomeSection2Title: "Tackle big goals <br>with <strong>small steps</strong>",
+  mHomeSection2Title: "Enfrente grandes objetivos <br>com <strong>pequenos passos</strong>",
   mHomeSection2Desc:
-    "We face a challenge by breaking it down. <br>"
-    "That’s how our minds naturally work.",
+    "Encaramos um desafio derrubando-o. <br>"
+    "É assim que as nossas mentes funcionam por natureza.",
   mHomeSection2Desc2:
-    "Quire lets you map your thoughts in a dynamic world.",
+    "O Quire ajuda-o a mapear os seus pensamentos num mundo dinâmico.",
 
-  mHomeSection3Title: "Turn growing plan into <strong>minimal to-dos</strong>",
+  mHomeSection3Title: "Transforme um plano de crescimento em <strong>tarefas ínfimas</strong>",
   mHomeSection3Desc: 
-    "We kick start a goal by picking out critical tasks. <br>"
-    "Visualize it, and complete them in Kanban board.",
+    "Arrancamos com um objetivo ao escolher as tarefas críticas. <br>"
+    "Visualize-as, e complete-as no quadro Kanban.",
   mHomeSection3Desc2: 
-    "Quire lets you drive your inspirations forward without losing the big picture.",
+    "O Quire ajuda-o a levar as suas inspirações mais além sem perder a perspetiva.",
 
-  mHomeSection4Title: "Focus on tasks that <strong>matter to you</strong>",
+  mHomeSection4Title: "Foque-se nas tarefas que <strong>são importantes para si</strong>",
   mHomeSection4Desc:
-    "Stick to what’s important. <br>"
-    "Leave the errands to us. <br>"
-    "Quire simplifies your life, so you can do what you’re meant to do.",
+    "Agarre-se ao que é importante. <br>"
+    "Deixe as pequenas tarefas connosco. <br>"
+    "O Quire simplifica a sua vida, para que possa fazer o que o destino quer que alcance.",
 
   mHomeSection5Desc: 
-    "Everything you want and all you need to get things done. <br>"
-    "See for yourself, sign up now.",
+    "Tudo o quer e tudo o que precisa para fazer as coisas acontecerem. <br>"
+    "Veja por si mesmo, registe-se agora.",
 
-  mHomeSection6Title: '<strong>More reasons</strong> to love Quire',
+  mHomeSection6Title: '<strong>Mais motivos</strong> para adorar o Quire',
   mHomeSection6Desc: 
-    "Google Calendar, Google Drive, recurring tasks, "
-    "priority, comments, outsourcing...",
+    "Calendário Google, Google Drive, tarefas recorrentes, "
+    "prioridade, comentários, outsourcing...",
 
-  mHomeSection7Title: "Anytime. Anywhere.",
-  mHomeSection8Title: "Trusted by teams big and small.",
-  mHomeSection9Title: "Why people love Quire.",
+  mHomeSection7Title: "A qualquer hora. Em qualquer lugar.",
+  mHomeSection8Title: "Aprovado por grandes e pequenas equipas.",
+  mHomeSection9Title: "Porque é que as pessoas adoram o Quire.",
 
-  mFeaturesSection1Title: "All you need. [=linebreak]No more, no less.",
+  mFeaturesSection1Title: "Tudo o que precisa. [=linebreak]Nem mais, nem menos.",
   mFeaturesSection1Desc:
-    "Spend less time figuring out how things work. <br>"
-    "Quire’s powerful features and intuitive design allow for project management harmony.",
+    "Passe menos tempo a tentar descobrir como as coisas funcionam. <br>"
+    "Os poderosos recursos do Quire e o seu design intuitivo permitem a harmonia na gestão de projetos.",
 
-  mFeaturesSection2Title: "<strong>Collaboration</strong> made simple",
+  mFeaturesSection2Title: "<strong>Colaboração</strong> simplificada",
   mFeaturesSection2Desc:
-    "Increase productivity and stay in the loop with your team. <br>"
-    "Descriptions, attachments, or comments are reflected instantly on your screen.",
+    "Aumente a produtividade e mantenha-se atualizado com a sua equipa. <br>"
+    "Descrições, anexos, ou comentários são mostrados instantaneamente no seu ecrã.",
   
-  mFeaturesSection3Title: "Work offline <strong>seamlessly</strong>",
+  mFeaturesSection3Title: "Trabalhe offline <strong>tranquilamente</strong>",
   mFeaturesSection3Desc:
-    "Never lose work over a bad internet connection. <br>"
-    "We sync your work when you're back online.",
+    "Nunca perca o seu trabalho às custas de uma má ligação à internet. <br>"
+    "Sincronizamos o seu trabalho quando se conecta novamente.",
 
-  mFeaturesSection4Title: "Quire at a glance. <strong>Powerful features</strong>",
+  mFeaturesSection4Title: "O Quire num relance. <strong>Recursos Poderosos</strong>",
 
   mFeaturesSection5Title: 
-    "Everything you want and all you need to get things done. <br>"
-    "See for yourself, sign up now.",
+    "Tudo o quer e tudo o que precisa para fazer as coisas acontecerem. <br>"
+    "Veja por si mesmo, registe-se agora.",
 
-  mFeatureHierarchyTitle: "Nested Task List",
-  mFeatureHierarchyDesc: "Tackle big projects by breaking them down into small, manageable steps.",
+  mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
+  mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos maleáveis.",
 
-  mFeatureBoardTitle: "Kanban Board",
-  mFeatureBoardDesc: "Visualize your workflow to better manage and focus on your tasks.",
+  mFeatureBoardTitle: "Quadro Kanban",
+  mFeatureBoardDesc: "Visualize o seu fluxo de trabalho para gerir mais facilmente e focar-se nas suas tarefas.",
 
-  mFeatureMytasksTitle: "My Tasks at a Glance",
-  mFeatureMytasksDesc: "Stay on top of tasks assigned to you across all projects.",
+  mFeatureMytasksTitle: "As Minhas Tarefas num Relance",
+  mFeatureMytasksDesc: "Esteja a par das tarefas que lhe são atribuídas em todos os projetos.",
 
-  mFeatureSmartFolderTitle: "Smart Folders",
-  mFeatureSmartFolderDesc: "View, and organize tasks from different projects you chose in one place.",
+  mFeatureSmartFolderTitle: "Pastas Inteligentes",
+  mFeatureSmartFolderDesc: "Visualize e organize tarefas de diferentes projetos que escolher num só lugar.",
 
-  mFeatureExternalTeamTitle: "Outsource to External Team",
-  mFeatureExternalTeamDesc: "Focus on your core tasks and assign those that are non-core to third parties easily and safely.",
+  mFeatureExternalTeamTitle: "Terceirize para uma Equipa Externa",
+  mFeatureExternalTeamDesc: "Concentre-se nas suas tarefas principais e atribua as tarefas menos importantes a terceiros facilmente e em segurança.",
 
-  mFeatureTeamTitle: "Teamwork in Realtime",
-  mFeatureTeamDesc: "Share and delegate tasks to your friends and colleagues. See their modifications on your screen instantly.",
+  mFeatureTeamTitle: "Trabalho de Equipa em Tempo Real",
+  mFeatureTeamDesc: "Partilhe e delegue tarefas aos seus amigos e colegas. Veja as suas modificações no seu ecrã instantaneamente.",
 
-  mFeatureMessageTitle: "Instant Messaging",
-  mFeatureMessageDesc: "See who said what about your tasks instantly.",
+  mFeatureMessageTitle: "Mensagens Instantâneas",
+  mFeatureMessageDesc: "Veja quem disse o quê sobre as suas tarefas de forma imediata.",
 
-  mFeatureMultipleAssignee: "Multiple Assignees",
-  mFeatureMultipleAssigneeDesc: "Assign a task to the people responsible for it.",
+  mFeatureMultipleAssignee: "Vários Colaboradores",
+  mFeatureMultipleAssigneeDesc: "Atribua uma tarefa às pessoas responsáveis pela mesma.",
 
-  mFeatureRoleTitle: "Roles & Permissions",
-  mFeatureRoleDesc: "Grant different authorities to different members of your projects.",
+  mFeatureRoleTitle: "Funções e Permissões",
+  mFeatureRoleDesc: "Conceda diferentes autoridades a diferentes membros dos seus projetos.",
 
-  mFeatureShareLinkTitle: "Share Your Project with Clients",
-  mFeatureShareLinkDesc: "Send an invitation link to your clients so they can access your project without signup.",
+  mFeatureShareLinkTitle: "Partilhe o Seu Projeto com Clientes",
+  mFeatureShareLinkDesc: "Envie um link de convite aos seus clientes para que eles possam aceder ao seu projeto sem precisarem de se registar.",
 
-  mFeatureShareTitle: "Share Your Project with Anyone",
-  mFeatureShareDesc: "Make your project public so anyone with that URL can see your project.",
+  mFeatureShareTitle: "Partilhe o Seu Projeto com Qualquer Pessoa",
+  mFeatureShareDesc: "Torne o seu projeto público para que qualquer pessoa com esse URL possa ver o seu projeto.",
 
-  mFeatureDrilldownTitle: "Zoom In",
-  mFeatureDrilldownDesc: "Focus on a task and see all its subtasks while filtering out everything else.",
+  mFeatureDrilldownTitle: "Aumente o Foco",
+  mFeatureDrilldownDesc: "Concentre-se na tarefa e veja todas as suas sub-tarefas enquanto filtra tudo o resto.",
 
-  mFeatureGroupTitle: "Sort Tasks",
-  mFeatureGroupDesc: "Sort your tasks to see those with the same assignee, priority, etc., together.",
+  mFeatureGroupTitle: "Ordene Tarefas",
+  mFeatureGroupDesc: "Ordene as suas tarefas para ver, conjuntamente, aquelas que têm o mesmo colaborador, prioridade, etc.",
 
-  mFeatureFilterTitle: "Filter tasks",
-  mFeatureFilterDesc: "Filter your tasks to focus on a few crucial tasks and leave out the rest.",
+  mFeatureFilterTitle: "Filtre tarefas",
+  mFeatureFilterDesc: "Filtre as suas tarefas para se concentrar am algumas tarefas cruciais e deixe o resto de fora.",
 
-  mFeatureBlinkSearchTitle: "Blink Search",
-  mFeatureBlinkSearchDesc: "Find any project, organization or member you want in an instant.",
+  mFeatureBlinkSearchTitle: "Pesquisa Rápida",
+  mFeatureBlinkSearchDesc: "Encontre qualquer projeto, organização ou membro que deseja, num instante.",
 
-  mFeatureThemesTitle: "Themes",
-  mFeatureThemesDesc: "Switch to a light, or dark theme for the comfort of your eyes.",
+  mFeatureThemesTitle: "Temas",
+  mFeatureThemesDesc: "Mude para um tema claro, ou escuro para maior conforto dos seus olhos.",
 
-  mFeatureHealthStatsTitle: "Health Stats",
-  mFeatureHealthStatsDesc: "A visual overview of how well each of your projects and members is performing.",
+  mFeatureHealthStatsTitle: "Estatísticas de Progresso",
+  mFeatureHealthStatsDesc: "Uma visão geral para saber como vão os seus projetos e como vai o desempenho dos membros.",
 
-  mFeatureRecurringTitle: "Recurring Tasks",
-  mFeatureRecurringDesc: "Get your routines in your task tree once and for all.",
+  mFeatureRecurringTitle: "Tarefas Recorrentes",
+  mFeatureRecurringDesc: "Coloque as suas rotinas numa árvore de tarefas de uma vez por todas.",
 
-  mFeatureTimeTitle: "Time and Duration",
-  mFeatureTimeDesc: "Set start and due dates to see a Gantt chart-like view in your calendar.",
+  mFeatureTimeTitle: "Data e Duração",
+  mFeatureTimeDesc: "Defina datas de início e conclusão para ver a exibição de gráfico de Gantt no seu calendário.",
 
-  mFeatureRemindersTitle: "Reminders",
-  mFeatureRemindersDesc: "Get reminded of upcoming tasks before start or due whenever you want across devices.",
+  mFeatureRemindersTitle: "Lembretes",
+  mFeatureRemindersDesc: "Receba lembretes de tarefas futuras antes da data de início ou fim sempre que quiser em todos os dispositivos.",
 
-  mFeatureNotificationTitle: "Notifications",
-  mFeatureNotificationDesc: "Get notified of updates on what you care about and when.",
+  mFeatureNotificationTitle: "Notificações",
+  mFeatureNotificationDesc: "Receba notificações de atualizações do que lhe importa e quando.",
 
-  mFeatureFavoriteTitle: "Favorites",
-  mFeatureFavoriteDesc: "Give a thumbs up, vote for a task, or focus on those that matter to you personally. With ❤.",
+  mFeatureFavoriteTitle: "Favoritos",
+  mFeatureFavoriteDesc: "Dê o seu aval, vote numa tarefa, ou concentre-se naquelas que lhe importam pessoalmente. Com ❤.",
 
-  mFeatureFollowersTitle: "Followers",
-  mFeatureFollowersDesc: "Follow tasks to get notified of any changes made to them automatically.",
+  mFeatureFollowersTitle: "Seguidores",
+  mFeatureFollowersDesc: "Siga tarefas para receber notificações automaticamente de quaiquer alterações feitas.",
 
-  mFeatureMobileAppTitle: "iOS App",
-  mFeatureMobileAppDesc: "Work seamlessly on your iPhone and iPad whenever, wherever.",
+  mFeatureMobileAppTitle: "App iOS",
+  mFeatureMobileAppDesc: "Trabalhe tranquilamente no seu iPhone e iPad quando e onde quiser.",
 
-  mFeatureSiriTitle: "Siri for Tasks",
-  mFeatureSiriDesc: "Your smart assistant that helps you manage tasks using just your voice.",
+  mFeatureSiriTitle: "Siri para Tarefas",
+  mFeatureSiriDesc: "A sua assistente inteligente que @ ajuda a gerir tarefas usando apenas a sua voz.",
 
-  mFeatureAndroidTitle: "Android App",
-  mFeatureAndroidDesc: "Pick up where you left off on your Android phone. Even offline.",
+  mFeatureAndroidTitle: "App Android",
+  mFeatureAndroidDesc: "Volte a pegar no trabalho que parou no seu dispositivo Android. Mesmo offline.",
 
-  mFeatureGoogleCalendarTitle: "Sync to Google Calendar",
-  mFeatureGoogleCalendarDesc: "See your tasks as events on Google, iCal or Outlook Calendar and get notified.",
+  mFeatureGoogleCalendarTitle: "Sincronize com o Calendário Google",
+  mFeatureGoogleCalendarDesc: "Veja as suas tarefas como eventos no Google, iCal ou Calendário do Outlook e receba notificações.",
 
-  mFeatureSlackTitle: "Slack integration",
-  mFeatureSlackDesc: "Get updates about your projects in a Slack channel and more.",
+  mFeatureSlackTitle: "Integração com o Slack",
+  mFeatureSlackDesc: "Receba atualizações sobre os seus projetos num canal Slack e muito mais.",
 
-  mFeatureIntegraGithubTitle: "GitHub integration",
-  mFeatureIntegraGithubDesc: "Keep everyone on your team up to date with the code changes by linking commits to your tasks.",
+  mFeatureIntegraGithubTitle: "Integração com o GitHub",
+  mFeatureIntegraGithubDesc: "Mantenha toda a sua equipa atualizada sobre as alterações de código ao vincular os commits às suas tarefas.",
 
-  mFeatureChromeExtensionTitle: "Chrome Extension",
-  mFeatureChromeExtensionDesc: "Quickly access Quire and get notified from any web page in Chrome.",
+  mFeatureChromeExtensionTitle: "Extensão do Chrome",
+  mFeatureChromeExtensionDesc: "Aceda rapidamente ao Quire e receba notificações a partir de qualquer página da Web no Chrome.",
 
-  mFeatureNameStyleTitle: "Color & Styles for Tasks",
-  mFeatureNameStyleDesc: "Highlight your tasks and projects by adding color, bold and more.",
+  mFeatureNameStyleTitle: "Cor e Estilos para Tarefas",
+  mFeatureNameStyleDesc: "Realce as suas tarefas e projetos adicionando cores, negrito e muito mais.",
 
-  mFeatureShortcutsTitle: "Keyboard Shortcuts",
-  mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
+  mFeatureShortcutsTitle: "Atalhos de Teclado",
+  mFeatureShortcutsDesc: "Toneladas de atalhos estilosos para viciados em atalhos sem tocar no rato.",
 
-  mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quick assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
+  mFeatureSmartAddTitle: "Adicão Inteligente",
+  mFeatureSmartAddDesc: "Atribua rapidamente um membro, tag, prioridade, etc., a uma tarefa sem tocar no rato e com preenchimento automático.",
 
-  mFeatureBatchOPTitle: "Batch Operations",
-  mFeatureBatchOPDesc: "Make changes, such as assign a member and tag, to all your selected tasks at once.",  
+  mFeatureBatchOPTitle: "Operações em Lote",
+  mFeatureBatchOPDesc: "Faça alterações, tais como atribuir um membro e uma tag, a todas as tarefas selecionadas de uma só vez.",  
 
-  mFeatureTemplateTitle: "Project Template",
-  mFeatureTemplateDesc: "Save time - duplicate a project or task to use as a template.",
+  mFeatureTemplateTitle: "Modelo de Projeto",
+  mFeatureTemplateDesc: "Poupe tempo - duplique um projeto ou tarefa para usar como modelo.",
 
-  mFeatureExportTitle: "Export",
-  mFeatureExportDesc: "Convert your project data into CSV to edit it in Excel, or into JSON for further processing and back up.",
+  mFeatureExportTitle: "Exportar",
+  mFeatureExportDesc: "Converta os dados do seu projeto em CSV para editá-los em Excel, ou em JSON para processamento ou backup adicionais.",
 
-  mFeaturePasteTitle: "Copy & Paste",
-  mFeaturePasteDesc: "Copy your contents from other apps like Word, Excel and Email and paste as tasks in Quire.",
+  mFeaturePasteTitle: "Copiar e Colar",
+  mFeaturePasteDesc: "Copie os seus conteúdos de outras aplicações como o Word, Excel e Email e cole-os como tarefas no Quire.",
 
-  mFeatureGoogleDriveTitle: "File Sharing",
-  mFeatureGoogleDriveDesc: "Easily upload a file or attach a file from Google Drive to your tasks.",
+  mFeatureGoogleDriveTitle: "Partilha de Ficheiros",
+  mFeatureGoogleDriveDesc: "Carregue facilmente um ficheiro ou anexe um ficheiro do Google Drive às suas tarefas.",
 
 
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so much exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring which feature belong to which package.</p>"
-    "<p>At least until the fourth quarter of 2018.</p>"
-    "<p>In other words, Quire will be free for the time being.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
+    "<p>Muitas pessoas nos estão a perguntar sobre os preços.</p>"
+    "<p>Mas, ainda existem tantas ideias entusiasmantes a explorar! Preferimos focar-nos em tornar o Quire ainda mais espetacular, do que decidir que recurso pertence a um determinado plano.</p>"
+    "<p>Pelo menos até ao quarto trimestre de 2018.</p>"
+    "<p>Por outras palavras, por agora o Quire será gratuito.</p>"
+    "<p>E a boa noticia é que, o que quer que seja que estiver a usar até lá, continuará a ser gratuito.</p>"
+    '<p>Tem alguma questão? Não hesite em <a href="mailto:support@quire.io">contactar-nos.</a></p>',
 
 
-  mMobileWelcomeP1Title1: "Welcome to ",
+  mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "Capture everything",
-  mMobileWelcomeP3Title: "From start to finish",
-  mMobileWelcomeP4Title: "Get in action",
-  mMobileWelcomeP5Title: "Within reach",
-  mMobileWelcomeP1Desc: "Unfold your ideas.",
-  mMobileWelcomeP2Desc: "Snap your ideas into words or photos.",
-  mMobileWelcomeP3Desc: "Swipe left or right to complete, delete or add a task.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, attachments, comments, etc. to your plan.",
-  mMobileWelcomeP5Desc: "Keep your team close to you anywhere you go.",
+  mMobileWelcomeP2Title: "Capture tudo",
+  mMobileWelcomeP3Title: "Do princípio ao fim",
+  mMobileWelcomeP4Title: "Entre em ação",
+  mMobileWelcomeP5Title: "Dentro do Alcance",
+  mMobileWelcomeP1Desc: "Desenrole as suas ideias.",
+  mMobileWelcomeP2Desc: "Capture as suas ideias em palavras ou fotos.",
+  mMobileWelcomeP3Desc: "Deslize para a esquerda ou direita para concluir, eliminar ou adicionar uma tarefa.",
+  mMobileWelcomeP4Desc: "Adicione colaboradores, tags, anexos, comentários, etc. ao seu plano.",
+  mMobileWelcomeP5Desc: "Mantenha a sua equipa perto de si onde quer que vá.",
 
 };
