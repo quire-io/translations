@@ -306,7 +306,7 @@ const ptClient = const <String, String> {
   mFilterActive: "Tarefas Ativas",
   mFilterAll: "Todas as Tarefas",
   mFilterCompleted: "Tarefas Concluídas",
-  mFilterMyTasks: "My Tasks",
+  mFilterMyTasks: "As Minhas Tarefas",
   mEditFilter: "Guardar Novo Filtro",
   mFilterName: "Nome do Filtro",
   mTreeFilterFilteredBy: "Filtrar por",
@@ -732,8 +732,8 @@ const ptClient = const <String, String> {
   mSyncCalendarScopeLabel: 'Sincronizar',
   mSyncCalendarToLabel: 'Para',
   mSyncCalendarProjectTask: 'Todas as tarefas neste projeto',
-  mSyncCalendarProjectMyTask: 'My tasks in this project',
-  mSyncCalendarMyTask: 'My tasks in all projects',
+  mSyncCalendarProjectMyTask: 'As Minhas Tarefas neste projeto',
+  mSyncCalendarMyTask: 'As Minhas Tarefas em todos os projetos',
   mIntegrationGithubTitle: "Integração com o GitHub",
   mIntegrationGithubContent:
     'Pode vincular os commits do GitHub às suas tarefas para que todas as pessoas da sua equipa possam acompanhar as alterações no código ou as tarefas de preenchimento automático.<br><br>'
@@ -834,13 +834,13 @@ const ptClient = const <String, String> {
     "You can click here to see more.",
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "Tarefas",
-  mMyTaskViewTooltip: "My Tasks",
+  mMyTaskViewTooltip: "As Minhas Tarefas",
   mBoardViewTooltip: "Quadro",
   mProfileEditTooltip: "Editar",
   mStatsWeeklyCompletedLabel: "Concluído",
   mStatsWeeklyCreatedLabel: "Criado",
   mStatsWeeklyAssignedByLabel: "Atribuído por",
   mStatsWeeklyAssignedToLabel: "Atribuído a",
-  mStatsMyTasksSec: "My Tasks",
+  mStatsMyTasksSec: "As Minhas Tarefas",
   mStatsUserTasksSec: "Tarefas de"
 };
