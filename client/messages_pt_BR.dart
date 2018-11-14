@@ -17,41 +17,41 @@ part of server.intl.messages_all;
 const Map<String, String> ptBrClient = const <String, String> {
   mInternalError:
     'Desculpe, encontramos um erro inesperado. '
-    "Vamos investigar, mas "
-    'fique à vontade para <a href="/feedback">entrar em contato</a>. '
-    'Enquanto isso, você pode tentar <a href="javascript:reloadPage()">recarregar esta página</a>.',
-  mNetworkError:
-    "Não é possível acessar o Quire. Por favor, verifique sua conexão à internet.",
+    "Vamos investigar, mas "
+    'fique à vontade para <a href="/feedback">entrar em contato</a>. '
+    'Enquanto isso, você pode tentar <a href="javascript:reloadPage()">recarregar esta página</a>.',
+  mNetworkError:
+    "Não é possível acessar o Quire. Por favor, verifique sua conexão à internet.",
 
   mNotAllowed:
     "Você não tem permissão para realizar esta ação.<br/>"
-    'Por favor, entre em contato com seu administrador.',
-  mNotFound:
-    "Desculpe, não encontramos o que você está procurando.",
-  mSessionTimeout:
-    "Desculpe, sua sessão expirou. Por favor, tente fazer o login novamente.",
+    'Por favor, entre em contato com seu administrador.',
+  mNotFound:
+    "Desculpe, não encontramos o que você está procurando.",
+  mSessionTimeout:
+    "Desculpe, sua sessão expirou. Por favor, tente fazer o login novamente.",
 
   mBrowserNotSupported:
     "Desculpe, seu navegador está desatualizado. Atualize-o para a versão mais recente.",
 
   mMaintenance:
     "Desculpe, estamos em manutenção. Estaremos de volta em breve. "
-    "Não se preocupe, suas atualizações serão salvas localmente.",
-  mConnected: "A conexão está de volta. Tudo está em sincronia.",
-  mDisconnected: "Conexão perdida. Não se preocupe, suas atualizações serão salvas localmente.",
-  mDisconnectedUnsafe:
-    'Conexão perdida. Por favor, ative o <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">armazenamento local</a> '
-    'para salvar suas atualizações localmente.',
+    "Não se preocupe, suas atualizações serão salvas localmente.",
+  mConnected: "A conexão está de volta. Tudo está em sincronia.",
+  mDisconnected: "Conexão perdida. Não se preocupe, suas atualizações serão salvas localmente.",
+  mDisconnectedUnsafe:
+    'Conexão perdida. Por favor, ative o <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">armazenamento local</a> '
+    'para salvar suas atualizações localmente.',
 
   mReloadNewPartJS: 
     'Desculpe, não conseguimos obter a última versão do Quire.<br/><br/>'
-    'Você pode tentar os seguintes passos:'
-    '<ul>'
-    "<li>Limpe o cache do seu navegador e recarregue.</li>"
-    '<li>Ou, abra o Quire em uma nova aba do navegador.</li>'
-    '<li>Ou, reinicie o seu navegador.</li>'
-    '</ul>'
-    'Para mais detalhes, confira <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aqui</a>.',
+    'Você pode tentar os seguintes passos:'
+    '<ul>'
+    "<li>Limpe o cache do seu navegador e recarregue.</li>"
+    '<li>Ou, abra o Quire em uma nova aba do navegador.</li>'
+    '<li>Ou, reinicie o seu navegador.</li>'
+    '</ul>'
+    'Para mais detalhes, confira <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aqui</a>.',
 
   mCtrl: "Ctrl",
   mShift: "Shift",

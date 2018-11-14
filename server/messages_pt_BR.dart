@@ -11,7 +11,7 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
-const Map<String, String> ptServer = const {
+const Map<String, String> ptBrServer = const {
   mSubmit: "Enviar",
 
   mProjectLC: "projeto",
