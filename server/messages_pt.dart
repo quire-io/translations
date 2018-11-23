@@ -1053,6 +1053,8 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mMobileCrashRefreshDesc: "Parece que algo correu mal! Nós monitoramos estes erros automaticamente. Entretanto, pode tentar recarregar a página.",
   mMobileBatchNOSelectedDesc: "Precisa de selecionar pelo menos uma tarefa.",
   mMobileExcludeCompletedTask: "Exclude completed task",
+  mMobilePressBackAgainToExit: "Press again to EXIT",
+  mMobileRefreshForLanguageChange: "We will reload for your language settings to take effect.",
   mMobileAddEmail: "Add Email",
   mMobileEditEmail: "Edit Email",
   mMobileEXServerError: "Desculpe, ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",

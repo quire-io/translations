@@ -1057,6 +1057,8 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileCrashRefreshDesc: "Da ging wohl etwas schief, aber wir haben das Problem auf dem Schirm. Sie können versuchen die Seite neu zu laden.",
   mMobileBatchNOSelectedDesc: "Sie müssen mindestens eine Aufgabe auswählen.",
   mMobileExcludeCompletedTask: "Erledigte Aufgabe ausschließen",
+  mMobilePressBackAgainToExit: "Zum Verlassen erneut drücken",
+  mMobileRefreshForLanguageChange: "Die Seite wird neu geladen, damit Ihre Spracheinstellungen wirksam werden.",
   mMobileAddEmail: "E-Mail-Adresse hinzufügen",
   mMobileEditEmail: "E-Mail-Adresse bearbeiten",
   mMobileEXServerError: "Sorry, das hat nicht funktioniert. Bitte versuchen Sie es später nochmal.",

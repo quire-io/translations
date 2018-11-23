@@ -1052,6 +1052,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
   mMobileBatchNOSelectedDesc: "You need to select at least one task.",
   mMobileExcludeCompletedTask: "Exclude completed task",
+  mMobilePressBackAgainToExit: "Press again to EXIT",
+  mMobileRefreshForLanguageChange: "We will reload for your language settings to take effect.",
   mMobileAddEmail: "Add Email",
   mMobileEditEmail: "Edit Email",
   mMobileEXServerError: "Sorry, we encountered an unexpected error. Please try again later.",
