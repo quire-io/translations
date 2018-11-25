@@ -83,7 +83,7 @@ const ptBrClient = const <String, String> {
   mCantDeleteCompletedState: "Você não pode remover o estado padrão Concluído.",
   mCantDeleteNonemptyState: "Você não pode remover um estado com tarefas.",
   mCantSetAssigneeInName: "Você não tem permissão para definir o responsável.",
-  mCantSetDuePriorityInName: "Você não tem permissão para definir data ou prioridade.",
+  mCantSetDuePriorityInName: "You do not have the permission to set date or priority.",
   mProject: "Projeto",
   mProjectLot: "Pasta Inteligente",
   mUser: "Usuário",
@@ -828,10 +828,10 @@ const ptBrClient = const <String, String> {
   mTipBatchBar: "Você pode clicar aqui para editar as tarefas selecionadas de uma só vez.",
   mTipAddProjectIcon: "Você pode clicar aqui para adicionar novos projetos ou organizações.",
   mTipSelectDarkTheme: 'Você pode <a href="/r/setting?tab=options">trocar para o tema escuro</a> nas suas Definições de Conta.',
-  mTipExcluded: "Tarefas concluídas há muito tempo são excluídas.",
+  mTipExcluded: "Tasks completed long ago are excluded.",
   mTipExcludedOption:
-    "Tarefas concluídas há muito tempo são excluídas. "
-    "Você pode clicar aqui para ver mais.",
+    "Tasks completed long ago are excluded. "
+    "You can click here to see more.",
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "Tarefas",
   mMyTaskViewTooltip: "As Minhas Tarefas",
