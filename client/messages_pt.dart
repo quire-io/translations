@@ -41,20 +41,20 @@ const ptClient = const <String, String> {
     'Desculpe, não conseguimos obter a última versão do Quire.<br/><br/>'
     'Pode tentar os seguintes passos:'
     '<ul>'
-    "<li>Limpar o cache do seu navegador e recarregar.</li>"
+    "<li>Limpar a cache do seu navegador e recarregar.</li>"
     '<li>Ou, abrir o Quire numa nova aba do navegador.</li>'
     '<li>Ou, reiniciar o seu navegador.</li>'
     '</ul>'
     'Para mais detalhes, por favor, verifique <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aqui</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'You can try press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
-    'to clear browser\'s cached images and files, and reload this page.',
+    'Pode tentar pressionar <code>[=ctrlCommand]+Shift+DEL ou [=ctrlCommand]+Shift+Backspace</code> '
+    'para limpar a cache das imagens e ficheiros do navegador, e recarregar esta página.',
   mDeleteBrowserCacheSafari:
-    'You can try press <code>Option+Command+E</code> to empty browser\'s cache, '
-    'and reload this page.',
+    'Pode tentar pressionar <code>Opção+Comando+E</code> para limpar a cache do navegador, '
+    'e recarregar esta página.',
   mDeleteBrowserCacheEtc:
-    'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
-    'and reload this page.',
+    'Pode tentar <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">limpar os ficheiros da cache do navegador</a>, '
+    'e recarregar esta página.',
   mCtrl: "Ctrl",
   mShift: "Shift",
   mAlt: "Alt",
@@ -83,7 +83,7 @@ const ptClient = const <String, String> {
   mCantDeleteCompletedState: "Não pode remover o estado padrão Concluído.",
   mCantDeleteNonemptyState: "Não pode remover um estado que contenha tarefas.",
   mCantSetAssigneeInName: "Não tem permissão para definir o colaborador.",
-  mCantSetDuePriorityInName: "You do not have the permission to set date or priority.",
+  mCantSetDuePriorityInName: "Não tem permissão para definir data ou prioridade.",
   mProject: "Projeto",
   mProjectLot: "Pasta Inteligente",
   mUser: "Utilizador",
@@ -97,7 +97,7 @@ const ptClient = const <String, String> {
   mId: "ID",
   mParent: "Classe Pai",
   mName: "Nome",
-  mDescription: "Description",
+  mDescription: "Descrição",
   mProgress: "Progresso",
   mColor: "Cor",
   mStart: "Início",
@@ -470,9 +470,9 @@ const ptClient = const <String, String> {
   mShowStatesTooltip: "Mostrar [=status]",
   mBoardListTooltip: "Lista de Quadro",
   mCommentsRemoved: "Este comentário foi removido.",
-  mReloadAltModeHint: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
+  mReloadAltModeHint: "Pressione [=ctrlAlt] novamente para desligar a exibição da ID da tarefa e mais.",
   mNewTaskNameHint1: "Digite @, #, ! e < para definir colaboradores, tags...",
-  mNewTaskNameHint2: "Pressiosse Tab e Shift+Tab para mover a tarefa horizontalmente",
+  mNewTaskNameHint2: "Pressione Tab e Shift+Tab para mover a tarefa horizontalmente",
   mNewTaskNameHint3: "Pressione Esc para parar de adicionar tarefas",
   mSearchIconTooltip: "Pesquisar tarefas",
   mSearchTaskHintIncomplete: "Pesquisar tarefas incompletas",
@@ -481,7 +481,7 @@ const ptClient = const <String, String> {
   mSearchTaskHintAutocomplete: "Também pode pesquisar por @colaborador, #tag ou !prioridade",
   autocompleteStyleTitle: "Título",
   autocompleteStyleRed: "Vermelho",
-  autocompleteStyleOrange: "Orange",
+  autocompleteStyleOrange: "Laranja",
   autocompleteStyleHighlight: "Realçar",
   mAttachFiles: "Anexar ficheiros",
   mAttachFilesFromGoogle: "Anexe ficheiros do Google Drive",
@@ -510,7 +510,7 @@ const ptClient = const <String, String> {
   mMenuEditName: "Editar nome e descrição",
   mMenuEditMember: "Editar membros",
   mMenuViewMember: "Ver membros",
-  mMenuEditTag: "Edit tags",
+  mMenuEditTag: "Editar tags",
   mMenuEditProjects: "Editar projetos",
   mMenuComment: "Comentar",
   mMenuPrint: "Imprimir...",
@@ -530,7 +530,7 @@ const ptClient = const <String, String> {
   mMenuBoardAddTask: "Criar novas tarefas",
   mMenuBoardAddTaskExist: "Adicionar tarefas existentes",
   mMenuEditBoard: "Editar quadro",
-  mMenuBoardEditStatus: "Edit estado",
+  mMenuBoardEditStatus: "Editar estado",
   mMenuBoardHideStatus: "Ocultar estado",
   mMenuBoardRemoveStatus: "Remover <strong>[=status]</strong> de <strong>[=board]</strong>",
   mMenuTaskCardEditCover: "Editar capa",
@@ -613,7 +613,7 @@ const ptClient = const <String, String> {
   mCopyProject: "Fazer uma cópia de [=name]",
   mArchiveProject: "Arquivar Projeto",
   mCopyProjectSharePeople: "Partilhe-o com as mesmas pessoas",
-  mCopyProjectWithCompletedTasks: "Copy completed tasks",
+  mCopyProjectWithCompletedTasks: "Copiar tarefas concluídas",
   mTransferTaskTitle: "Transferir Tarefas",
   mArchiveBoard: "Arquivar Quadro",
   mDeletePartnerTitle: "Eliminar Equipa Externa",
@@ -635,7 +635,7 @@ const ptClient = const <String, String> {
   mDeleteProjectLotConfirm: "Os projetos nesta pasta inteligente <b>não</b> serão eliminados.",
   mDeleteProjectConfirm: "Por favor, insira o nome do projeto para confirmar.",
   mDeleteAccountContent:
-    "Está prestes a <strong>eliminar permanentement</strong> a sua conta de utilizador, "
+    "Está prestes a <strong>eliminar permanentemente</strong> a sua conta de utilizador, "
     "<b>[=email]</b>, e todos os dados associados.",
   mDeleteAccountConfirm: "Estou ciente de que <strong>não posso desfazer</strong> esta ação.",
   mDeleteAccount: "Eliminar a Minha Conta",
@@ -644,8 +644,8 @@ const ptClient = const <String, String> {
   mLeaveProjectTitle: "Deixar Projeto",
   mLeaveProjectDesc: "Deixará de ter acesso a este projeto. Tem a certeza de que deseja sair?",
   mLeaveErrorMessage: "Desculpe, não pode sair porque é o único administrador que resta.",
-  mLeaveAllPrjsInOrganizationDesc: "Remove [=name] from all projects in this organization.",
-  mLeaveAllPrjsInOrganizationTlp: "Remove from all projects in this organization",
+  mLeaveAllPrjsInOrganizationDesc: "Remover [=name] de todos os projetos nesta organização.",
+  mLeaveAllPrjsInOrganizationTlp: "Remover de todos os projetos nesta organização",
   mTransferProjectContent: "Está prestes a transferir [=name] para a organização",
   mLoadOrganizationsFailed:
     "Não tem permissão para criar um projeto em nenhuma organização existente. "
@@ -664,10 +664,10 @@ const ptClient = const <String, String> {
   mTransferTaskCPTaskFinishPlural: "Cópia de [=name] e outras [=count] tarefas foram transferidas para [=project].",
   mTransferTaskTaskFinish: "[=name] foi transferida para [=project].",
   mTransferTaskTaskFinishPlural: "[=name] e outras [=count] tarefas foram transferidas para [=project].",
-  mChangeTaskBoardFinish: "[=name] has been added to board [=board].",
-  mChangeTaskBoardFinishPlural: "[=name] and [=count] other tasks have been added to board [=board].",
-  mRemoveTaskBoardFinish: "[=name] has been removed from board.",
-  mRemoveTaskBoardFinishPlural: "[=name] and [=count] other tasks have been removed from board.",
+  mChangeTaskBoardFinish: "[=name] foi adicionada ao quadro [=board].",
+  mChangeTaskBoardFinishPlural: "[=name] e outras [=count] tarefas foram adicionadas ao quadro [=board].",
+  mRemoveTaskBoardFinish: "[=name] foi removida do quadro.",
+  mRemoveTaskBoardFinishPlural: "[=name] e outras [=count] tarefas foram removidas do quadro.",
   mTransferTaskCPTask: "Transferir uma cópia e manter as tarefas no projeto atual",
   mTransferTaskIncUser: "Adicionar pessoas associadas com as tarefas a esse projeto",
   mTransferTaskIncTag: "Adicionar as tags das tarefas a esse projeto",
@@ -697,7 +697,7 @@ const ptClient = const <String, String> {
     'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',
   mPasteTaskAsOption1: "tarefa única",
   mPasteTaskAsOption2: "várias tarefas",
-  mPasteTaskToOptionRoot: "root tasks",
+  mPasteTaskToOptionRoot: "tarefas raiz",
   mPasteTaskToOption1: "mesmo nível das tarefas",
   mPasteTaskToOption2: "nível inferior como sub-tarefas",
   mInvalidId: 'ID inválida. Apenas letras, dígitos, travessões, pontos e subtraços são permitidos.',
@@ -821,17 +821,17 @@ const ptClient = const <String, String> {
   mDragTooltipDuePer: "Arraste e solte para definir ou remover prazos",
   mDragTooltipStartPer: "Arraste e solte para definir ou remover datas de início",
   mDragTooltipReprder: "Arraste para reordenar",
-  mTipOpenDetail: "Pode clicar para adicionar decrição, postar comentários, anexar ficheiros, etc.",
+  mTipOpenDetail: "Pode clicar para adicionar descrição, postar comentários, anexar ficheiros, etc.",
   mTipPinDetail: "Pode clicar para tornar o painel de detalhes fixo.",
   mTipFilterForCompleted: "Pode clicar Todas as Tarefas para ver tarefas que acabou de concluir.",
   mTipEnterToAddTask: "Pode pressionar Enter para adicionar novas tarefas.",
   mTipBatchBar: "Pode clicar aqui para editar as tarefas selecionadas de uma só vez.",
   mTipAddProjectIcon: "Pode clicar aqui para adicionar novos projetos ou organizações.",
   mTipSelectDarkTheme: 'Pode <a href="/r/setting?tab=options">mudar para o tema escuro</a> nas suas Configurações de Conta.',
-  mTipExcluded: "Tasks completed long ago are excluded.",
+  mTipExcluded: "Tarefas concluídas há muito tempo são eliminadas.",
   mTipExcludedOption:
-    "Tasks completed long ago are excluded. "
-    "You can click here to see more.",
+    "Tarefas concluídas há muito tempo são eliminadas. "
+    "Pode clicar aqui para ver mais.",
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "Tarefas",
   mMyTaskViewTooltip: "As Minhas Tarefas",
