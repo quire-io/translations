@@ -19,45 +19,33 @@ Welcome to [=systemName] version [=systemVersion]"
 const deWeb = const <String, String> {
   mSlogan: 'Entfalte Deine Ideen',
   mSloganSentence: 'Entfalte Deine Ideen',
-  mSloganSubtitle: 'Erreiche mehr mit Quire',
+  mSloganSubtitle: 'A visual collaborative platform for your next, great projects.',
   mQuireDescription: 'Der beste Projektmanager für Teamwork mit hierarchischen Aufgabenlisten.',
-  mHomeSection2Title: "Große Ziele mit <br><strong>kleinen Schritten</strong> erreichen",
-  mHomeSection2Desc:
-    "Wir gehen Herausforderungen an, indem wir sie herunterbrechen. <br>"
-    "So arbeitet unser Verstand.",
-  mHomeSection2Desc2: "Quire hilft Ihnen Ihre Gedanken in einer dynamischen Umgebung zu strukturieren.",
-  mHomeSection3Title: "Große Projekte in <strong>kleine Aufgaben</strong> aufsplitten",
-  mHomeSection3Desc:
-    "Wir gehen kritische Aufgaben zuerst an. <br>"
-    "Und arbeiten uns Aufgabe für Aufgabe zum Ziel.",
-  mHomeSection3Desc2: "Mit Quire behalten Sie die Übersicht.",
-  mHomeSection4Title: "Konzentrieren Sie sich auf <strong>Ihre Aufgaben</strong>",
-  mHomeSection4Desc:
-    "Kümmern Sie sich um das was wichtig ist. <br>"
-    "Wir kümmern uns um den Rest. <br>"
-    "Quire hilft Ihnen dabei sich auf das Wesentliche konzentrieren zu können.",
-  mHomeSection5Desc:
-    "Alles was Sie brauchen um Ihre Aufgaben zu erledigen. <br>"
-    "Probieren Sie es auch und registrieren Sie sich.",
-  mHomeSection6Title: '<strong>Noch mehr Gründe</strong> die für Quire sprechen',
-  mHomeSection6Desc:
-    "Google Calendar, Google Drive, wiederkehrende Aufgaben, "
-    "Prioritäten, Kommentare, Outsourcing...",
+  mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
+  mHomeSectionDreamsDesc:
+    "“There’s no path before me, <br> "
+    "and a track will be created behind me.” <br>"
+    "- Takamura Kotaro",
+  mHomeSectionStartSmallTitle: "Think Big, Start Small",
+  mHomeSectionStartSmallDesc: "Ｗe face a challenge by breaking it down. That is how our minds naturally work. <br>",
+  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
+  mHomeSectionVisuallyDesc:
+    "Make you work flow visually. Arrange, prioritize, "
+    "and focus on what is most important each day in board. With everyone on board.",
+  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+  mHomeSectionProgressDesc:
+    "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
+    "your projects, and your team now and ahead. And celebrate success.",
+  mHomeSectionSignupMidDesc:
+    "Everything you need to go from ideas to action. <br>"
+    "Sign up now. It's free!",
+  mHomeSectionSignupBottomDesc:
+    "Quire is here to walk your dreams home. <br>"
+    "So go for it. And have fun!",
   mHomeSection7Title: "Jederzeit. Überall.",
-  mHomeSection8Title: "Für große und kleine Teams.",
-  mHomeSection9Title: "Darum lieben wir Quire.",
   mFeaturesSection1Title: "Alles was Sie brauchen. [=linebreak]Nicht mehr, nicht weniger.",
   mFeaturesSection1Desc: "Schnelle Eingewöhnung dank intuitiver Oberfläche. <br>",
-  mFeaturesSection2Title: "Einfache <strong>Teamarbeit</strong>",
-  mFeaturesSection2Desc:
-    "Behalten Sie den Überblick über Ihr Team. <br>"
-    "Neue Aufgaben, Anhänge und Kommentare werden in Echtzeit aktualisiert und angezeigt.",
-  mFeaturesSection3Title: "<strong>Nahtlos</strong> offline arbeiten",
-  mFeaturesSection3Desc:
-    "Änderungen gehen auch bei einer unterbrochenen Internetverbindung nicht verloren. <br>"
-    "Quire synchronisiert alle Änderungen sobald Sie wieder online sind.",
-  mFeaturesSection4Title: "Alle Funktionen auf einen Blick.",
-  mFeaturesSection5Title:
+  mFeaturesSectionSignupBottomDesc:
     "Alles was Sie brauchen, um Aufgaben effizient zu erledigen. <br>"
     "Sehen Sie selbst und melden Sie sich jetzt an.",
   mFeatureHierarchyTitle: "Verschachtelte Aufgabenliste",
@@ -143,6 +131,7 @@ const deWeb = const <String, String> {
     "<p>Mit anderen Worten: Quire bleibt bis auf weiteres kostenlos.</p>"
     "<p>Und das Beste: Alles was Sie bis dahin nutzen bleibt auch weiterhin kostenfrei.</p>"
     '<p>Fragen? <a href="mailto:support@quire.io">Kontaktieren Sie uns.</a></p>',
+  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Alles festhalten",

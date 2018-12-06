@@ -51,6 +51,7 @@ const ptServer = const <String, String> {
   mSignupAt: "Aderiu",
   mCreatedAt: "Criado",
   mTour: "Tour",
+  mFeature: "Feature",
   mBlog: "Blog",
   mAbout: "Sobre",
   mAboutQuire: "Sobre o Quire",
@@ -64,8 +65,14 @@ const ptServer = const <String, String> {
   mGetIphone: "Obter App do iPhone",
   mGetAndroid: "Obter App do Android",
   mGetChromeExtension: "Obter Extensão Chrome",
+  mLoginU: "LOG IN",
+  mTourU: "TOUR",
+  mTutorialU: "TUTORIAL",
+  mFeedbackU: "FEEDBACK",
   mPost: "Publicar",
+  mGotIt: "Got it!",
   mReadOnly: "Somente Leitura",
+  mReadMore: "Read more",
   mGettingStarted: "Começar",
   mHomeBannerLoginDescMorning: 'Bom Dia, <strong>[=name]</strong>!',
   mHomeBannerLoginDescAfternoon: 'Boa Tarde, <strong>[=name]</strong>',
@@ -323,8 +330,6 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
 
 <p>Se não realizou esta alteração, por favor,
 <a href="mailto:support@quire.io">contacte-nos</a> de imediato.</p>
-
-<p>Código de Atualização: <b>[=code]</b></p>
 
 <p>Obrigado,</p>
 

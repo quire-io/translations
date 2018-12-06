@@ -51,6 +51,7 @@ const deServer = const <String, String> {
   mSignupAt: "Angemeldet",
   mCreatedAt: "Erstellt",
   mTour: "Tour",
+  mFeature: "Feature",
   mBlog: "Blog",
   mAbout: "Über Quire",
   mAboutQuire: "Über Quire",
@@ -64,8 +65,14 @@ const deServer = const <String, String> {
   mGetIphone: "iPhone App downloaden",
   mGetAndroid: "Android App downloaden",
   mGetChromeExtension: "Chrome Extension installieren",
+  mLoginU: "LOG IN",
+  mTourU: "TOUR",
+  mTutorialU: "TUTORIAL",
+  mFeedbackU: "FEEDBACK",
   mPost: "Posten",
+  mGotIt: "Got it!",
   mReadOnly: "Schreibgeschützt",
+  mReadMore: "Read more",
   mGettingStarted: "Erste Schritte (Englisch)",
   mHomeBannerLoginDescMorning: 'Guten Morgen, <strong>[=name]</strong>!',
   mHomeBannerLoginDescAfternoon: 'Guten Tag, <strong>[=name]</strong>',
@@ -328,8 +335,6 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
 
 <p>Falls Sie diese Änderung nicht beantragt haben, 
 <a href="mailto:support@quire.io">wenden Sie sich bitte an uns</a>.<p>
-
-<p>Update Code: <b>[=code]</b></p>
 
 <p>Mit freundlichen Grüßen,</p>
 

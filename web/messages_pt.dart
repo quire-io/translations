@@ -21,45 +21,35 @@ const ptWeb = const <String, String> {
   mSloganSentence: 'Desenrole as suas ideias',
   mSloganSubtitle: 'alcance mais com a gestão de projetos do Quire',
   mQuireDescription: 'O melhor software de gestão colaborativa de projetos para decompor objetivos em listas hierárquicas.',
-  mHomeSection2Title: "Enfrente grandes objetivos <br>com <strong>pequenos passos</strong>",
-  mHomeSection2Desc:
-    "Encaramos um desafio derrubando-o. <br>"
-    "É assim que as nossas mentes funcionam por natureza.",
-  mHomeSection2Desc2: "O Quire ajuda-o a mapear os seus pensamentos num mundo dinâmico.",
-  mHomeSection3Title: "Transforme um plano de crescimento em <strong>tarefas ínfimas</strong>",
-  mHomeSection3Desc:
-    "Arrancamos com um objetivo ao escolher as tarefas críticas. <br>"
-    "Visualize-as, e complete-as no quadro Kanban.",
-  mHomeSection3Desc2: "O Quire ajuda-o a levar as suas inspirações mais além sem perder a perspetiva.",
-  mHomeSection4Title: "Foque-se nas tarefas que <strong>são importantes para si</strong>",
-  mHomeSection4Desc:
-    "Agarre-se ao que é importante. <br>"
-    "Deixe as pequenas tarefas connosco. <br>"
-    "O Quire simplifica a sua vida, para que possa fazer o que o destino quer que alcance.",
-  mHomeSection5Desc:
-    "Tudo o quer e tudo o que precisa para fazer as coisas acontecerem. <br>"
-    "Veja por si mesmo, registe-se agora.",
-  mHomeSection6Title: '<strong>Mais motivos</strong> para adorar o Quire',
-  mHomeSection6Desc:
-    "Calendário Google, Google Drive, tarefas recorrentes, "
-    "prioridade, comentários, outsourcing...",
+  mHomeSectionDreamsTitle: "Transforme os Seus Sonhos em Realidade",
+  mHomeSectionDreamsDesc:
+    "“Não existe uma estrada antes de mim, <br> "
+    "e um caminho será criado atrás de mim.” <br>"
+    "- Takamura Kotaro",
+  mHomeSectionStartSmallTitle: "Sonhe Alto, Comece Passo a Passo",
+  mHomeSectionStartSmallDesc:
+    "Encaramos um desafio derrubando-o. É assim que as nossas mentes funcionam por natureza. <br>"
+    "O Quire ajuda-o a mapear os seus pensamentos e encará-los em pequenos passos.",
+  mHomeSectionVisuallyTitle: "Organize as Suas Tarefas Visualmente",
+  mHomeSectionVisuallyDesc:
+    "Crie o seu fluxo de trabalho visualmente. "
+    "Organize, estabeleça prioridades e foque-se no que é mais importante a cada dia no quadro. Com todos a bordo.",
+  mHomeSectionProgressTitle: "Visualize e Supere o Seu Progresso",
+  mHomeSectionProgressDesc:
+    "Sinta a pulsação dos seus sonhos. "
+    "Entenda os altos e baixos das suas tarefas, dos seus projetos e da sua equipa, agora e mais à frente. E celebre o sucesso.",
+  mHomeSectionSignupMidDesc:
+    "Tudo o que precisa para passar das ideias à ação. <br>"
+    "Registe-se agora. É gratuito!",
+  mHomeSectionSignupBottomDesc:
+    "O Quire está aqui para guiar os seus sonhos a porto seguro. <br>"
+    "Então, força! E divirta-se.",
   mHomeSection7Title: "A qualquer hora. Em qualquer lugar.",
-  mHomeSection8Title: "Aprovado por grandes e pequenas equipas.",
-  mHomeSection9Title: "Porque é que as pessoas adoram o Quire.",
   mFeaturesSection1Title: "Tudo o que precisa. [=linebreak]Nem mais, nem menos.",
   mFeaturesSection1Desc:
     "Passe menos tempo a tentar descobrir como as coisas funcionam. <br>"
     "Os poderosos recursos do Quire e o seu design intuitivo permitem a harmonia na gestão de projetos.",
-  mFeaturesSection2Title: "<strong>Colaboração</strong> simplificada",
-  mFeaturesSection2Desc:
-    "Aumente a produtividade e mantenha-se atualizado com a sua equipa. <br>"
-    "Descrições, anexos, ou comentários são mostrados instantaneamente no seu ecrã.",
-  mFeaturesSection3Title: "Trabalhe offline <strong>tranquilamente</strong>",
-  mFeaturesSection3Desc:
-    "Nunca perca o seu trabalho às custas de uma má ligação à internet. <br>"
-    "Sincronizamos o seu trabalho quando se conecta novamente.",
-  mFeaturesSection4Title: "O Quire num relance. <strong>Recursos Poderosos</strong>",
-  mFeaturesSection5Title:
+  mFeaturesSectionSignupBottomDesc:
     "Tudo o quer e tudo o que precisa para fazer as coisas acontecerem. <br>"
     "Veja por si mesmo, registe-se agora.",
   mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
@@ -145,6 +135,7 @@ const ptWeb = const <String, String> {
     "<p>Por outras palavras, por agora o Quire será gratuito.</p>"
     "<p>E a boa noticia é que, o que quer que seja que estiver a usar até lá, continuará a ser gratuito.</p>"
     '<p>Tem alguma questão? Não hesite em <a href="mailto:support@quire.io">contactar-nos.</a></p>',
+  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",
