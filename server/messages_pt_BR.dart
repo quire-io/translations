@@ -51,7 +51,6 @@ const ptBrServer = const <String, String> {
   mSignupAt: "Registrado",
   mCreatedAt: "Criado",
   mTour: "Tour",
-  mFeature: "Feature",
   mBlog: "Blog",
   mAbout: "Sobre",
   mAboutQuire: "Sobre o Quire",
@@ -65,14 +64,8 @@ const ptBrServer = const <String, String> {
   mGetIphone: "Obter App do iPhone",
   mGetAndroid: "Obter App do Android",
   mGetChromeExtension: "Obter Extensão Chrome",
-  mLoginU: "LOG IN",
-  mTourU: "TOUR",
-  mTutorialU: "TUTORIAL",
-  mFeedbackU: "FEEDBACK",
   mPost: "Postar",
-  mGotIt: "Got it!",
   mReadOnly: "Somente Leitura",
-  mReadMore: "Read more",
   mGettingStarted: "Começar",
   mHomeBannerLoginDescMorning: 'Bom Dia, <strong>[=name]</strong>!',
   mHomeBannerLoginDescAfternoon: 'Boa Tarde, <strong>[=name]</strong>',
@@ -89,7 +82,7 @@ const ptBrServer = const <String, String> {
   mLoginAccountDesc: "Não tem uma conta ainda?",
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Entrar com o Google",
-  mHomeGotoWSButtom: "IR PARA SEU  PROJETO",
+  mHomeGotoWSButtom: "IR PARA O SEU PROJETO",
   m403Title: "Opa!",
   m403Desc:
     "Você não tem permissão para acessar esta página.<br/>"
@@ -99,7 +92,7 @@ const ptBrServer = const <String, String> {
   m404Desc:
     "A página que você está procurando não pode ser encontrada.<br/>"
     'Se você precisar de ajuda, por favor, <a href="mailto:support@quire.io">entre em contato conosco.</a>',
-  m404ProjectList: "Here is a list of projects you can access:",
+  m404ProjectList: "Aqui está uma lista de projetos que você pode acessar:",
   mBackToHome: "Voltar à Página Inicial",
   m500PageTitle: 'Erro',
   m500Title: 'Parece que algo deu errado!',
@@ -160,21 +153,21 @@ const ptBrServer = const <String, String> {
   mAlreadySignupMailTitle: 'Oi!',
   mAlreadySignupMailDesc:
     'Parece que você já se registrou com <br>'
-    '<strong>[=email]</strong>.<br>faça login aqui</a>.',
+    '<strong>[=email]</strong>.<br>',
   mInviteFriends: "Convidar Amigos",
-  mInviteFriendsTitle: "Convide seus amigos a juntarem-se",
-  mInviteFriendsDesc: "Você está gostando da sua experiência com o Quire?<br/>Fale para seus amigos que eles podem facilmente realizar seus sonhos também!",
+  mInviteFriendsTitle: "Convide seus amigos para se juntarem",
+  mInviteFriendsDesc: "Você está gostando da sua experiência com o Quire?<br/>Fale para os seus amigos que eles também podem facilmente realizar seus sonhos!",
   mInviteFriendsSuccessTitle: "Obrigado!",
   mInviteFriendsSuccess: 'Um convite foi enviado para <ul class="list-unstyled"></ul> Agradecemos muito o seu apoio!',
   mInviteOthersFriends: "Convidar outros amigos",
   mInviteNewMembers: "Convidar novos membros",
-  mContactUs: "Contact Us",
-  mFeedback: "Feedback",
+  mContactUs: "Entre em Contato",
+  mFeedback: "Comentários",
   mFeedbackSubject: "Assunto",
-  mFeedbackContent: "Conte-nos como podemos ajudar",
+  mFeedbackContent: "Como podemos ajudar",
   mSend: "Enviar",
   mPostFeedbackPublic: "Permitir que outros usuários do Quire vejam",
-  mFeedbackDesc: "Tem alguma pergunta ou sugestão para nós?<br>Obrigado! Somos todos ouvidos!",
+  mFeedbackDesc: "Tem alguma questão ou sugestão para nós?<br>Obrigado! Somos todos ouvidos!",
   mCheckCommunity: "Confira todos os comentários",
   mUndoListTitle: "Minhas Operações",
   mUndoDeleteListTitle: "Eliminado",
@@ -184,7 +177,7 @@ const ptBrServer = const <String, String> {
   mUndoRemoveTaskEmptyDesc: "Nenhuma tarefa foi excluida recentemente.",
   mUndoCompleteTaskEmptyDesc: "Nenhuma tarefa foi concluída recentemente.",
   mSearchResultEmpty: "Nenhum resultado encontrado.",
-  mSearchPartialResult: "Apenas resultados parciais são mostrados",
+  mSearchPartialResult: "Apenas resultados parciais são exibidos",
   mSearchOtherProjects: "Pesquisar outros projetos",
   mBackSearch: "Voltar para a pesquisa",
   mMarkAllRead: "Marcar Tudo como Lido",
@@ -192,7 +185,7 @@ const ptBrServer = const <String, String> {
   mShowMoreActivities: "Mostrar atividades anteriores",
   mShowMoreComments: "Mostrar comentários anteriores",
   mEmptyComments: "Sem comentários",
-  mEmptyCommentsDesc: "Seja o primeiro a <a>adicionar um comentário</a>",
+  mEmptyCommentsDesc: "Seja o primeiro a <a>adicionar um comentário <a>",
   mNewComments: "Novos comentários",
   mNewNotifications: "Novas notificações",
   mScrollToBottom: "Rolar para baixo",
@@ -202,7 +195,7 @@ const ptBrServer = const <String, String> {
   mTaskRemovedDesc: "Tente pesquisar por outra coisa.",
   mMyTasksEmptyMessage: "Oba~ nenhuma tarefa em atraso!",
   mSignupOrganization: "Organização de [=user]",
-  mSignupProject: " Projeto de [=user]",
+  mSignupProject: "Projeto de [=user]",
   mEmailSignupSubject: 'Complete seu registro no Quire',
   mEmailSignupContent: '''
 <p>Oi [=name],</p>
@@ -237,7 +230,7 @@ const ptBrServer = const <String, String> {
 
 <p>Você foi convidad@ por [=invitor] para se registrar em [=hostType]: [=host].</p>
 
-<p>Para aceitar o convite, visite o seguinte link:</p>
+<p>ara aceitar o convite, visite o seguinte link:</p>
 
 <p style="margin-left:30px">[=link] </p>
 
@@ -250,7 +243,7 @@ const ptBrServer = const <String, String> {
 <p>Oi,</p>
 
 <p>[=invitor] ([=email]) convidou você para se registrar no <a href="https://quire.io">Quire</a>;
-uma solução de gerenciamento de projetos que [=invitor] está gostando bastante.</p>
+uma solução de gerenciamento de projetos que está gostando de usar.</p>
 
 <p>Para aceitar o convite, por favor, visite o seguinte link. É grátis!</p>
 
@@ -274,8 +267,8 @@ uma solução de gerenciamento de projetos que [=invitor] está gostando bastant
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Você está recebendo este email porque está
-seguindo [=source]. Para cancelar a subscrição <a href="[=unsubscribe]">clique aqui</a>.</p>
+<p style="font-style:italic;font-size:80%">Você está recebendo este email porque você está
+seguindo [=source]. Para cancelar a subscrição, por favor <a href="[=unsubscribe]">clique aqui</a>.</p>
 <style>.t-desc-block {word-wrap: break-word;}
 .t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
 .t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
@@ -295,8 +288,8 @@ seguindo [=source]. Para cancelar a subscrição <a href="[=unsubscribe]">clique
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Você está recebendo este email porque pediu para
-receber atualizações de atividades. Para cancelar a subscrição <a href="[=unsubscribe]">clique aqui</a>.</p>
+<p style="font-style:italic;font-size:80%">Você está recebendo este email porque você pediu para
+receber atualizações de atividades. Para alterar a frequência com que você deseja recebê-las, <a href="https://quire.io/r/setting?tab=options#email">clique aqui</a>. Para cancelar a subscrição, <a href="[=unsubscribe]">clique aqui</a>.</p>
 <style>.t-desc-block {word-wrap: break-word;}
 .t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
 .t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
@@ -330,6 +323,8 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 <p>Se você não fez essa alteração, por favor,
 <a href="mailto:support@quire.io">entre em contato conosco</a> imediatamente.</p>
 
+<p>Código de Atualização: <b>[=code]</b></p>
+
 <p>Obrigado,</p>
 
 <p>A Equipe do  Quire</p>
@@ -352,24 +347,24 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mEmailForgotPasswordContent: '''
 <p>Oi [=name],</p>
 
-<p>Você está recebendo este email porque perdeu a sua senha do Quire.</p>
+<p>Você está recebendo este email porque você perdeu a sua senha do Quire.</p>
 
 <p>Por favor, visite o seguinte link nas próximas 2 horas para redefinir sua senha:</p>
 
 <p style="margin-left:30px">[=link]</p>
 
 <p>Obrigado,</p>
- 
+
 <p>A Equipe do Quire</p>
 ''',
   mEmailInviteConfirmedSubject: "[=inviteeName] aceitou seu convite para o Quire",
   mEmailInviteConfirmedContent: '''
 <p>Oi [=name],</p>
 
-<p>Após o seu convite, [=invitee] ([=inviteeEmail]) entrou no Quire com sucesso.</p>
+<p>Após o seu convite, [=invitee] ([=inviteeEmail]) se registrou no Quire com sucesso.</p>
 
 <p>Obrigado,</p>
- 
+
 <p>A Equipe do Quire</p>
 ''',
   mEmailSubscriberContent: '''
@@ -378,21 +373,20 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 [=message]
 
 <p[=styleRegards]>Obrigado,</p>
- 
+
 <p[=styleQuireTeam]>A Equipe do Quire</p>
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Você está recebendo este email porque
-pediu para receber atualizações por email. Para cancelar a subscrição <a href="[=unsubscribe]">clique aqui</a>.</p>
+<p style="font-style:italic;font-size:80%">Você está recebendo este email porque você
+pediu para receber atualizações por email. Para cancelar a subscrição, por favor <a href="[=unsubscribe]">clique aqui</a>.</p>
 ''',
   mEmailLeaveMemberSubject: "Quire: [=member] saiu [=target]",
   mEmailLeaveMemberContent: '''
 <p>Oi [=name],</p>
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
- 
+
 <p>Estamos escrevendo para que você saiba que [=member] ([=memberEmail]) saiu de [=target].</p>
- 
+
 <p>Obrigado,</p>
 
 <p>A Equipe do Quire</p>
@@ -402,9 +396,9 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
 <p>Oi [=name],</p>
 
 <p>Estamos escrevendo para informar você que [=member] ([=memberEmail]) criou [=project].</p>
- 
+
 <p>Obrigado,</p>
- 
+
 <p>A Equipe do Quire</p>
 ''',
   mEmailDeleteProjectSubject: "Quire: [=member] excluiu [=project]",
@@ -414,7 +408,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
 <p>Estamos escrevendo para informar você que [=member] ([=memberEmail]) excluiu "[=project]".</p>
 
 <p>Obrigado,</p>
- 
+
 <p>A Equipe do Quire</p>
 ''',
   mSummaryUnknown: "Atualização de Atividade",
@@ -422,11 +416,11 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mSaying: ", dizendo [=value]",
   mViewOnQuire: "ver no Quire",
   mUnfllow: "deixar de seguir",
-  mThisTask: "esta tarefa",
+  mThisTask: "essa tarefa",
   "AT$atAddTask": "[=who] adicionou [=what][=value]",
   "AT$atRemoveTask": "[=who] excluiu [=what][=value]",
   "AT$atEditTask": "[=who] editou [=what][=value]",
-  "AT$atMoveTask": "[=who] moveu [=what] a [=value]",
+  "AT$atMoveTask": "[=who] moveu [=what] to [=value]",
   "AT$atComplete": "[=who] concluiu [=what]",
   "AT$atUncomplete": "[=who] reabriu [=what]",
   "AT$atAssign": "[=who] atribuiu [=what] a [=value]",
@@ -444,8 +438,8 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   "AT$atUnsetPartner": "[=who] retirou a equipe externa de [=what]",
   "AT$atEditTaskComment": "[=who] editou um comentário em [=what][=value]",
   "AT$atRemoveTaskComment": "[=who] removeu um comentário em [=what]",
-  "AT$atTag": "[=who] adicionou uma tag [=value] a [=what]",
-  "AT$atUntag": "[=who] removeu uma tag [=value] de [=what]",
+  "AT$atTag": "[=who] adicionou a tag [=value] a [=what]",
+  "AT$atUntag": "[=who] removeu a tag [=value] de [=what]",
   "AT$atTransferTask": "[=who] transferiu [=what] para [=value]",
   "AT$atDuplicateTask": "[=who] duplicou [=what] de [=value]",
   "AT$atTaskMention": "[=who] mencionou você em [=value]",
@@ -490,9 +484,9 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   "AT$atEditOrganization": "[=who] editou [=what]",
   "AT$atAddOrganizationMember": "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveOrganizationMember": "[=who] removeu [=value] de [=what]",
-  "AT$atAddGlobalTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atRemoveGlobalTag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atAddOapp": "[=who] adicionou um aplicativo, [=value], para [=what]",
+  "AT$atAddGlobalTag": "[=who] adicionou a tag [=value] a [=what]",
+  "AT$atRemoveGlobalTag": "[=who] removeu a tag [=value] de [=what]",
+  "AT$atAddOapp": "[=who] adicionou um aplicativo, [=value], a [=what]",
   "AT$atRemoveOapp": "[=who] removeu um aplicativo, [=value], de [=what]",
   "AT$atEditOapp": "[=who] editou [=value]",
   "AT$atAddShare": "[=who] criou um link compartilhável, [=value], de [=what]",
@@ -503,27 +497,27 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   "AT$atAddTaskState": "[=who] adicionou [=extra] ao quadro [=value] em [=what]",
   "AT$atRemoveTaskState": "[=who] removeu [=extra] do quadro [=value] em [=what]",
   "AT$atSlackInstall": "[=who] conectou [=what] ao [=value] do Slack",
-  "AT$atSlackUninstall": "[=who] desconectou [=what] do [=value] do Slack ",
+  "AT$atSlackUninstall": "[=who] desconectou [=what] do [=value] do Slack",
   "AT$atExportOrganization": "[=who] exportou [=what]",
   "AT$atAuthorizeOrganization": "[=who] atribuiu funções [=extra] a [=value] para acessar a [=what]",
   "AT$atxInviteExisting": "[=who] convidou você para participar em [=what]",
   "AT$atxInviteConfirm": "[=who] aceitou seu convite participar em [=what]",
-  "AT$atxRemindStart": "Lembre-se de começar [=what] em [=value:due]",
-  "AT$atxRemindDue": "Lembre-se de concluir [=what] até [=value:due]",
+  "AT$atxRemindStart": "Lembrar para começar [=what] em [=value:due]",
+  "AT$atxRemindDue": "Lembrar para concluir [=what] até [=value:due]",
   "AT$atxRemindOverdue": "Você deixou passar a data de conclusão [=value:due] de [=what]",
   "AT$atxGithubError":
-    "We cannot access [=value] due to [=extra]. "
-    "Please check your Github configuration for [=what].",
+    "Nós não podemos acessar [=value] devido a [=extra]. "
+    "Por favor, verifique suas configurações do Github para [=what].",
   mUnsubscribe: "Cancelar Subscrição",
   mUnsubscribeSuccess: "Você cancelou a subscrição [=target] com sucesso.",
   mUnsubscribeTargetFailed:
     'Opa... falha ao cancelar subscrição <code>[=target]</code>. Pode ter sido removida. '
-    'Por favor, <a href="/w">navegue pelas suas tarefas aqui</a>.',
+    'Por favor <a href="/w">navegue por suas tarefas aqui<</a>.',
   mUnsubscribeFailed:
     'Desculpe, o link de cancelamento da subscrição expirou. '
     'Por favor, atualize <a href="/r/setting">suas preferências aqui</a>.',
-  mUnsubscribeAutoSuccess: "([=email]) cancelou a subscrição [=target] com sucesso.",
-  mUnsubscribeAll: " ([=email]) cancelou a subscrição de notificações e mensagens do Quire com sucesso.",
+  mUnsubscribeAutoSuccess: "Você ([=email]) cancelou a subscrição [=target] com sucesso.",
+  mUnsubscribeAll: "Você ([=email]) cancelou a subscrição de notificações e mensagens do Quire com sucesso.",
   mKeyShortcuts: 'Atalhos de Teclado (F1)',
   mKeyShortcutsTitle: 'Atalhos de Teclado',
   mKeyNavigate: 'Navegue por diferentes tarefas ou funções',
@@ -557,7 +551,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMDHeader3: 'Cabeçalhos',
   mMDItalic: 'Itálico',
   mMDBold: 'Negrito',
-  mMDUnderline: 'Underline',
+  mMDUnderline: 'Sublinhado',
   mMDColoring: 'Cor',
   mMDOrderedList: 'Lista Numerada',
   mMDUnorderedList: 'Lista com Marcadores',
@@ -604,13 +598,13 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mOauthViewDesc: "[=name] poderá:",
   mOauthSlackSuccessViewTitle: "Está tudo pronto!",
   mOauthSlackSuccessViewDesc:
-    'O Slack foi autenticado com êxito com o Quire.<br>'
+    'O Slack foi autenticado com sucesso com o Quire.<br>'
     'Digite <b>/quire</b> no Slack para começar.',
   mOauthSlackErrorViewTitle: "Puxa!",
   mOauthSlackErrorViewDesc:
     'Ocorreu um erro ao vincular sua conta, por favor, tente novamente. '
     'Se o erro persistir, sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato</a>.',
-  mBoardIntroduce: 'Você pode gerenciar suas tarefas visualmente em um quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> para mais informação.',
+  mBoardIntroduce: 'Você pode gerenciar suas tarefas visualmente em um quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">aqui</a> para mais informação.',
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",
   mMYProfile: "Meu Perfil",
@@ -694,13 +688,13 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mTransferProjectToSameOrganization: "Este projeto já está na organização que você especificou.",
   mTransferTaskToSameProject: "Esta tarefa já está no projeto que você especificou.",
   mTransferTargetNotExist: "O objeto não existe mais.",
-  mTaskNotExist: "Esta tarefa foi excluída.",
-  mProjectNotExist: "Este projeto foi excluído.",
+  mTaskNotExist: "Essa tarefa foi excluída.",
+  mProjectNotExist: "Esse projeto foi excluído.",
   mReloadData: "Detetada inconsistência de dados. Sincronizado com o servidor.",
   mThanksFeedback: "Obrigado! Sua opinião é muito valiosa para nós.<br>Nós entraremos em contato com você o mais rápido possível!",
   mThanksFeedbackTask:
     "Obrigado! A  sua opinião é muito valiosa para nós.<br>Nós criámos uma tarefa para isso. "
-    'Você pode <a href="[=url]">acompanhar aqui</a>.',
+    'Você pode <a href="[=url]">segui-la aqui</a>.',
   mTipF1: "Dica: Pressione F1 para ver atalhos de teclado",
   mTipSelectMultiple: "Dica: Selecione várias tarefas através de <code>[=ctrlCommand]+Clique</code> ou <code>Shift+Clique</code>",
   mTipMention: 'Dica: Digite <b><i>@nome_usuário</i></b> nas descrições ou comentários para mencionar alguém',
@@ -720,7 +714,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mTipTabMove: 'Dica: Recue sua tarefa enquanto estiver no modo de edição! Pressione <code>Tab</code> ou <code>Shift+Tab</code>',
   mTipInvite:
     'Gostando do Quire? <a href="/invite">Convide seus amigos</a>, '
-    'ou <a href="/feedback">compartilhe conosco</a> sobre como podemos melhorar!',
+    'ou<a href="/feedback">compartilhe conosco</a> sobre como podemos melhorar!',
   mTipPrint:
     'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:window.print()">Imprima-as</a> '
     'através de <code>[=ctrlCommand]+P</code>',
@@ -742,8 +736,8 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
     'o que você copiou diretamente como tarefas',
   mTipCrossProject: 'Dica: Adicione uma pasta inteligente para ver todas as tarefas sobre diferentes projetos',
   mTipBlinkSearch: 'Dica: A pesquisa rápida (<code>[=ctrlCommand]+B</code>) é uma forma simples de encontrar quase tudo em sua área de trabalho',
-  mTipDarkTheme: 'Dica: <a href="/r/setting?tab=options">Selecione o tema escuro</a> quando os seus olhos se cansam à noite',
-  mTipSwipe: 'Dica: Deslize para concluir, adicionar ou excluir tarefas',
+  mTipDarkTheme: 'Dica: <a href="/r/setting?tab=options">Selecione o tema escuro</a> quando os seus olhos se cansam de noite',
+  mTipSwipe: 'Dica: Deslize para concluir, adicionar ou excluir tarefas(s)',
   mIntegraInvalidOptions: "A configuração está incorreta",
   mTooManyNewOrgagnizations:
     "Você adicionou demasiadas organizações em um curto espaço de tempo. "
@@ -767,7 +761,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
     'Desculpe, você violou nossos <a href="https://quire.io/terms" target="_blank">Termos de Serviço</a>. '
     'Por favor, aguarde por [=hours] horas, ou <a href="mailto:support@quire.io">entre em contato conosco</a> para suporte.',
   mOrganizationLimit:
-    "Não foi possível adicionar uma nova organização. Atualmente, o número máximo de organizações permitido é de([=size]). "
+    "Não foi possível adicionar uma nova organização. Atualmente, o número máximo de organizações permitido é de ([=size]). "
     'Por favor, <a href="mailto:support@quire.io">entre em contato conosco</a> para obter uma cota maior.',
   mProjectLimit:
     "Não foi possível adicionar um novo projeto a [=organization]. Atualmente, o número máximo de projetos permitido é de ([=size]). "
@@ -790,7 +784,6 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
     'Desculpe, encontramos um erro inesperado. '
     "Vamos dar uma olhada, mas "
     'fique à vontade <https://quire.io/feedback|contact us>.',
-  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
   mSlackNeedLinkQuireAccount: 'Oi! Precisamos que você vincule sua conta do Quire primeiro. Leva apenas alguns segundos, e você estará pronto para começar.',
   mSlackNeedLinkQuireAccountBtn: '<[=url]|Vincular Conta do Quire>',
   mSlackLinkQuireAccountOK: 'Você vinculou com sucesso sua conta do Quire.',
@@ -802,13 +795,13 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mSlackSimpleHelpComment: 'Adicionar um comentário a uma tarefa',
   mSlackSimpleHelpCommentExample:
     '`/quire comment [ID da tarefa] comment`\n'
-    'Exemplo: `/quire comment 123 Isso está muito bacana!`',
+    'Example: `/quire comment 123 Está ficando muito bacana!`',
   mSlackSimpleHelpFollow: 'Seguir uma tarefa ou projeto',
   mSlackSimpleHelpFollowExample:
     '`/quire follow [ID da tarefa ou ID do projeto]`\n'
     'Exemplo: `/quire follow 123`\n'
     'Exemplo: `/quire follow Projeto_Desenvolvimento`',
-  mSlackSimpleHelpMore: 'Você pode encontrar mais comandos disponíveis aqui `/quire help`.',
+  mSlackSimpleHelpMore: 'Mais comandos estão disponíveis aqui `/quire help`.',
   mSlackHelpAdd: 'Adicionar uma tarefa',
   mSlackHelpAddExample:
     '`/quire add [nome da tarefa]`\n'
@@ -820,8 +813,6 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
     '`/quire link [ID do projeto ou URL do projeto]`\n'
     'Exemplo: `/quire link Projeto_desenvolvimento`\n'
     'Exemplo: `/quire link https://quire.io/w/projeto_desenvolvimento`',
-  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
-  mSlackHelpUnLinkExample: '`/quire unlink`',
   mSlackHelpListProject: 'Listar todos os projetos',
   mSlackHelpListProjectExample: '`/quire list project`',
   mSlackHelpSearchProject: 'Pesquisar projetos',
@@ -874,24 +865,22 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mSlackCurrentLinkProjectSimpleHelp: 'Esse canal está vinculado a [=project].',
   mSlackCurrentLinkProjectMarker: '(atualmente vinculado)',
   mSlackLinkProjectOK: '[=who] vinculou esse canal a [=project].',
-  mSlackUnLinkProjectOK: '[=who] has unlinked this channel from [=project].',
   mSlackAddTaskOK: '[=who] adicionou [=task] com sucesso',
   mSlackAddTaskUnderOK: '[=who] adicionou com sucesso a subtarefa [=task] sob [=parent].',
   mSlackAddTaskAfterOK: '[=who] adicionou com sucesso a tarefa [=task] depois de [=sibling].',
-  mSlackCompleteTaskOK: 'Concluiu com sucesso [=tasks].',
-  mSlackDeleteTaskOK: 'Excluiu com sucesso [=tasks].',
-  mSlackAssignAssigneesTaskOK: 'Editou os responsáveis de [=tasks] com sucesso.',
-  mSlackAssignPriorityTaskOK: 'Editou a prioridade de [=tasks] com sucesso.',
-  mSlackAssignDateTaskOK: 'Editou as datas de [=tasks] com sucesso.',
-  mSlackAssignTagsTaskOK: 'Editou as tags de [=tasks] com sucesso.',
-  mSlackEditNameTaskOK: 'Renomeou [=task] com sucesso.',
+  mSlackCompleteTaskOK: 'Você concluiu com sucesso [=tasks].',
+  mSlackDeleteTaskOK: 'Você excluiu com sucesso [=tasks].',
+  mSlackAssignAssigneesTaskOK: 'Você editou os responsáveis de [=tasks] com sucesso.',
+  mSlackAssignPriorityTaskOK: 'Você editou a prioridade de [=tasks] com sucesso.',
+  mSlackAssignDateTaskOK: 'Você editou as datas de [=tasks] com sucesso.',
+  mSlackAssignTagsTaskOK: 'Você editou as tags de [=tasks] com sucesso.',
+  mSlackEditNameTaskOK: 'Você renomeou [=task] com sucesso.',
   mSlackCommentTaskOK: '[=who] comentou [=task] com sucesso.',
   mSlackFollowTaskOK: '[=who] tem esse canal para seguir [=tasks].',
-  mSlackUnfollowTaskOK: '[=who] tem esse canal para não seguir [=tasks].',
-  mSlackFollowProjectOK: '[=who] tem esse canal para seeguir [=projects].',
-  mSlackUnfollowProjectOK: '[=who] tem esse canal para não seguir [=projects].',
+  mSlackUnfollowTaskOK: '[=who] tem esse canal para deixar de seguir [=tasks].',
+  mSlackFollowProjectOK: '[=who] tem esse canal para seguir [=projects].',
+  mSlackUnfollowProjectOK: '[=who] tem esse canal para deixar de seguir [=projects].',
   mSlackFailProjectNotFound: 'Projeto [=project]: não encontrado.',
-  mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Por favor, confirme se [=name] se vinculou à sua conta do Quire.',
   mSlackFailPropertiesNotFound: '[=text] não encontrado',
   mSlackFailTaskNotFound: 'Tarefa [=task]: não encontrada.',
@@ -918,7 +907,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileSettings: "Configurações",
   mMobileSearch: "Pesquisar",
   mMobileDueDay: "Data de Conclusão",
-  mMobileDueTime: "Hora Limite",
+  mMobileDueTime: "Hora de Conclusão",
   mMobileStartDay: "Data de Início",
   mMobileStartTime: "Hora de Início",
   mMobileRepeateTask: "Repetir Tarefa",
@@ -932,7 +921,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobilePickDate: "Escolher data",
   mMobileJustRefresh: "Acabado de Atualizar",
   mMobileDrill: "Mais zoom",
-  mMobileUndrill: "Menos zomm",
+  mMobileUndrill: "Menos zoom",
   mMobileFavorite: "Favorito",
   mMobileFavorited: "Adicionado aos Favoritos",
   mMobileView: "VER",
@@ -954,11 +943,11 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileProfileIconColor: "Alterar Cor do Ícone",
   mMobileProfileEditColor: "Editar cor",
   mMobileEditPicture: "Editar Imagem",
-  mMobileEditIcon: "Edit Icon",
+  mMobileEditIcon: "Editar Ícone",
   mMobileEditName: "Editar Nome",
   mMobileEditDesc: "Editar Descrição",
-  mMobileEditCompany: "Edit Company",
-  mMobileEditWebsite: "Edit Website",
+  mMobileEditCompany: "Editar Companhia",
+  mMobileEditWebsite: "Editar Website",
   mMobileEditAttachments: "Editar Anexos",
   mMobileEditDate: "Editar Data",
   mMobileForgotPasswordTitle: "Esqueci minha senha",
@@ -967,11 +956,10 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileProjectTreeSearchOffline: "Você não pode adicionar um projeto ou organização quando está offline.",
   mMobileDisconnected: "Conexão perdida. Por favor, verifique sua conexão com a internet.",
   mMobileTaskDeleted: "Desculpe, esta tarefa foi excluída.",
-  mMobileUnableUploadAttachment: "Não é possível enviar o arquivo. Por favor, tente novamente.",
+  mMobileUnableUploadAttachment: "Não conseguimos carregar o arquivo. Por favor, tente novamente.",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Seguindo",
   mMobileDetailProjectInfo: "Informação do Projeto",
-  mMobileDetailProjectLotInfo: "Smart Folder Info",
   mMobileDetailProjectTag: "Tags do Projeto",
   mMobileDetailTaskBeenDeletedTitle: "Opa!",
   mMobileDetailTaskBeenDeletedDesc: "Esta tarefa foi excluída.",
@@ -985,7 +973,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileDueInvalidDesc: "Sua data de início deve ser anterior à data de conclusão.",
   mMobileDueAddTime: "Adicionar Hora",
   mMobileAssigneeEditTitle: "Editar Responsável",
-  mMobileAssigneePartnerWarn: "Esta tarefa está atribuída a uma equipe externa, mas você pode atribuí-la ao membro da sua equipe.",
+  mMobileAssigneePartnerWarn: "Esta tarefa está atribuída a uma equipe externa, mas você pode atribuí-la ao membro da sua equipe",
   mMobileAssigneeExternalTeamCantAssign: "Desculpe, a equipe externa ainda não pode ser reatribuída",
   mMobileAssigneeHasAdded: "Esse usuário já foi adicionado",
   mMobileAssigneeInvite: "Convide um novo membro por endereço de email",
@@ -999,14 +987,9 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileFeedbackFieldRequired: "O Assunto e Comentários são obrigatórios",
   mMobileFeedbackTitle: "Você tem alguma pergunta ou sugestão para nós?\nSomos todos ouvidos!",
   mMobileNewProject: "Novo Projeto",
-  mMobileNewProjectLot: "New Smart Folder",
   mMobileNewOrganization: "Nova Organização",
-  mMobileOrganizationCreatedOn: "Criado em [=createdAt]",
+  mMobileOrganizationCreatedOn: "Criada em  [=createdAt]",
   mMobileYourNewPassword: "Sua nova senha.",
-  mMobileMoveProjectUp: "Move project up",
-  mMobileMoveProjectDown: "Move project down",
-  mMobileSearchProject: "Search Project",
-  mMobileSmartFolderExceedMaximum: "You have reached the maximum number of projects allowed in a Smart Folder.",
   mMobileMenuManageTags: "Gerenciar tags",
   mMobileMenuManageMember: "Gerenciar membros",
   mMobileAssignedByShort: "Atribuídos por",
@@ -1022,16 +1005,16 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileRateFeedback: "Dê-nos feedback",
   mMobileRateNOThanks: "Não, obrigado",
   mMobileTransferTaskToPrj: "Para o projeto:",
-  mMobileTransferTaskIncTag: "Mantenha a tag da tarefa",
-  mMobileTransferTaskIncUser: "Mantenha as pessoas associadas à tarefa",
-  mMobileTransferTaskCPTaskFinish: "Mantenha uma cópia da tarefa neste projeto",
+  mMobileTransferTaskIncTag: "Manter a tag da tarefa",
+  mMobileTransferTaskIncUser: "Manter as pessoas associadas à tarefa",
+  mMobileTransferTaskCPTaskFinish: "Manter uma cópia da tarefa nesse projeto",
   mMobileSettingSupport: "Desculpe, você ainda não pode editar o seu perfil. Por favor, use o navegador da web por agora.",
   mMobileConfirmEmailExpired: "Opa!",
   mMobileConfirmExpired: "Desculpe, o link de confirmação de email expirou.",
   mMobileConfirmExpiredSubmit: "Tente novamente",
   mMobileSignupMailSentTitle: "Você está quase lá!",
   mMobileSignupMailSentDesc:
-    'Enviámos um email de confirmação para <strong>[=email]</strong>.<br>'
+    'Enviamos um email de confirmação para <strong>[=email]</strong>.<br>'
     'Por favor, [=hrefStart]verifique sua caixa de entrada[=hrefEnd] ou pasta de spam para completar seu registro.',
   mMobileLoginErrorTitle: "Erro",
   mMobileLoginErrorDesc: "Email ou senha incorretos",
@@ -1039,11 +1022,11 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileEmailSentCheckTitle: "A ajuda está a caminho!",
   mMobileEmailSentCheckDesc: "Por favor, [=hrefStart]verifique sua caixa de entrada[=hrefEnd] ou pasta de spam.",
   mMobileEmptyBackgroundTitle: "Pront@?",
-  mMobileEmptyBackgroundDesc: "Adicione algumas ideias para começar o seu sonho!",
+  mMobileEmptyBackgroundDesc: "Adicione algumas ideias para começar seu sonho!",
   mMobileNOFilterBackgroundDesc: "Oba~ nenhuma tarefa em atraso!",
   mMobileNODrillBackgroundDesc: "Não existe nenhuma subtarefa para mostrar.",
   mMobileFilterBackgroundDesc1: "Nenhuma tarefa encontrada. Você pode tentar ",
-  mMobileFilterBackgroundDesc2: "limpar filtro",
+  mMobileFilterBackgroundDesc2: "limpar o filtro",
   mMobileFilterBackgroundDesc3: ".",
   mMobile404BackgroundTitle: "Úe.",
   mMobile404BackgroundDesc: "A coisa que você está procurando sumiu.",
@@ -1056,7 +1039,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileNOPermissionToFunction: "Você não tem permissão para usar essa função.",
   mMobileFeedbackPublic: "Permitir que outros usuários do Quire vejam",
   mMobileFeedbackSuccessTitle: "Obrigado!",
-  mMobileFeedbackSuccessDesc: "Sua opinião é muito importante para nós. Nós entraremos em contato com você o quanto antes!",
+  mMobileFeedbackSuccessDesc: "Sua opinião é muito importante para nós. Nós entraremos em contato com você o quanto antes",
   mMobileFeedbackSuccessUrl: "Conferir meu feedback",
   mMobileFeedbackSuccessOK: "OK",
   mMobileArchiveProjectContent:
@@ -1070,7 +1053,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição <a hre
   mMobileBatchNOSelectedDesc: "Você precisa de selecionar pelo menos uma tarefa.",
   mMobileExcludeCompletedTask: "Excluir tarefa concluída",
   mMobilePressBackAgainToExit: "Pressione novamente para SAIR",
-  mMobileRefreshForLanguageChange: "Nós iremos recarregar para que suas definições de idiomas tenham efeito.",
+  mMobileRefreshForLanguageChange: "Nós iremos recarregar para que suas configurações de idiomas tenham efeito.",
   mMobileAddEmail: "Adicionar Email",
   mMobileEditEmail: "Editar Email",
   mMobileEXServerError: "Desculpe, nós encontramos um erro inesperado. Por favor, tente novamente mais tarde.",
