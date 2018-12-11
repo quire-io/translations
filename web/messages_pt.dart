@@ -135,7 +135,7 @@ const ptWeb = const <String, String> {
     "<p>Por outras palavras, por agora o Quire será gratuito.</p>"
     "<p>E a boa noticia é que, o que quer que seja que estiver a usar até lá, continuará a ser gratuito.</p>"
     '<p>Tem alguma questão? Não hesite em <a href="mailto:support@quire.io">contactar-nos.</a></p>',
-  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
+  mCookieGDPRDesc: "Usamos cookies para garantir que lhe damos a melhor experiência no nosso website.",
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",
