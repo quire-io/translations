@@ -51,7 +51,7 @@ const ptServer = const <String, String> {
   mSignupAt: "Aderiu",
   mCreatedAt: "Criado",
   mTour: "Tour",
-  mFeature: "Feature",
+  mFeature: "Recurso",
   mBlog: "Blog",
   mAbout: "Sobre",
   mAboutQuire: "Sobre o Quire",
