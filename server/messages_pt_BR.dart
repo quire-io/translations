@@ -914,7 +914,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileOffline: "Offline",
   mMobileHide: "Ocultar",
   mMobileAccount: "Conta",
-  mMobileMyFeedback: "My Feedback",
+  mMobileMyFeedback: "Meu Feedback",
   mMobileSendFeedback: "Enviar Feedback",
   mMobileRateQuire: "Avaliar o Quire",
   mMobileAddTags: "Adicionar Tags",
