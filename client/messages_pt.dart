@@ -240,7 +240,7 @@ const ptClient = const <String, String> {
   mMenuItemSortByAssignee: "Ordenar por colaborador",
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Membros,Filtros guardados",
   mBaseFilterLabel: "Todas,Ativas,Concluídas,Por fazer,Em andamento",
-  mExtFilterLabel: "A Seguir,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,As Minhas Tarefas",
+  mExtFilterLabel: "A Seguir,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,As Minhas Tarefas,Boards",
   mGrouperLabel: "Colaborador,Data,Prioridade,Agendado Por Dia, Agendado Por Semana, Concluído Por Semana,Criar Por Semana, Iniciar Por Semana, Atualizar Por Semana, Estado, Nome",
   mFilterRecentHistory: "Histórico recente",
   mCusFilterSortLabel: "Ordenar",
