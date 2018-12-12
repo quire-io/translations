@@ -913,7 +913,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mMobileOffline: "Offline",
   mMobileHide: "Ocultar",
   mMobileAccount: "Conta",
-  mMobileMyFeedback: "My Feedback",
+  mMobileMyFeedback: "O Meu Feedback",
   mMobileSendFeedback: "Enviar Feedback",
   mMobileRateQuire: "Avaliar o Quire",
   mMobileAddTags: "Adicionar Tags",
