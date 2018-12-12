@@ -240,7 +240,7 @@ const ptBrClient = const <String, String> {
   mMenuItemSortByAssignee: "Classificar por responsável",
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Usuários,Filtros guardados",
   mBaseFilterLabel: "Todas,Ativas,Concluídas,Por fazer,Em Progresso",
-  mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas",
+  mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas,Boards",
   mGrouperLabel: "Responsável,Data,Prioridade,Agendado Por Dia, Agendado Por Semana, Concluído Por Semana,Criar Por Semana, Iniciar Por Semana, Atualizar Por Semana, Estado, Nome",
   mFilterRecentHistory: "Histórico recente",
   mCusFilterSortLabel: "Classificar",
