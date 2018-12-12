@@ -462,7 +462,7 @@ const deClient = const <String, String> {
   mReloadAltModeHint: "Drücken Sie [=ctrlAlt] nochmal, um Aufgaben ID und weiteres auszublenden.",
   mNewTaskNameHint1: "Tippen Sie @, #, ! und < um Beauftragte, Tags...",
   mNewTaskNameHint2: "Drücken Sie Tab und Shift+Tab, um Aufgaben horizontal zu verschieben",
-  mNewTaskNameHint3: "Drücken Sie Esc, um das Hinzufügen von Aufgaben zu beenden",
+  mNewTaskNameHint3: "Drücken Sie Esc oder Enter, um das Hinzufügen von Aufgaben zu beenden",
   mSearchIconTooltip: "Aufgaben durchsuchen",
   mSearchTaskHintIncomplete: "Unvollständige Aufgaben durchsuchen",
   mSearchTaskHintAll: "Alle Aufgaben durchsuchen",

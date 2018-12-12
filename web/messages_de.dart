@@ -19,29 +19,29 @@ Welcome to [=systemName] version [=systemVersion]"
 const deWeb = const <String, String> {
   mSlogan: 'Entfalte Deine Ideen',
   mSloganSentence: 'Entfalte Deine Ideen',
-  mSloganSubtitle: 'A visual collaborative platform for your next, great projects.',
-  mQuireDescription: 'Der beste Projektmanager für Teamwork mit hierarchischen Aufgabenlisten.',
-  mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
+  mSloganSubtitle: 'Eine kollaborative Plattform für Ihre Projekte.',
+  mQuireDescription: 'Die beste Projektmanagement-Anwendung mit hierarchischen Aufgabenlisten für perfektes Teamwork.',
+  mHomeSectionDreamsTitle: "Verwirklichen Sie Ihre Ideen",
   mHomeSectionDreamsDesc:
     "“There’s no path before me, <br> "
     "and a track will be created behind me.” <br>"
     "- Takamura Kotaro",
-  mHomeSectionStartSmallTitle: "Think Big, Start Small",
-  mHomeSectionStartSmallDesc: "Ｗe face a challenge by breaking it down. That is how our minds naturally work. <br>",
-  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
+  mHomeSectionStartSmallTitle: "Groß denken, klein anfangen",
+  mHomeSectionStartSmallDesc: "Große Herausforderungen gehen wir mit kleinen Schritten an. <br>",
+  mHomeSectionVisuallyTitle: "Optimieren Sie Ihre Aufgaben visuell",
   mHomeSectionVisuallyDesc:
-    "Make you work flow visually. Arrange, prioritize, "
-    "and focus on what is most important each day in board. With everyone on board.",
-  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+    "Visualisieren Sie Ihre Arbeitsabläufe. Verwalten, priorisieren, "
+    "und fokussieren Sie die wichtigsten Aufgaben in Boards. Mit jedem an Bord.",
+  mHomeSectionProgressTitle: "Behalten Sie den Fortschritt Ihrer Projekte im Blick",
   mHomeSectionProgressDesc:
-    "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
-    "your projects, and your team now and ahead. And celebrate success.",
+    "Bleiben Sie am Puls Ihrer Projekte. Verschaffen Sie sich einen Überblick über Ihre Aufgaben, "
+    "Projekte und Teams.",
   mHomeSectionSignupMidDesc:
-    "Everything you need to go from ideas to action. <br>"
-    "Sign up now. It's free!",
+    "Alles was Sie von der Idee bis zur Umsetzung brauchen. <br>"
+    "Jetzt registrieren. Es ist kostenlos!",
   mHomeSectionSignupBottomDesc:
-    "Quire is here to walk your dreams home. <br>"
-    "So go for it. And have fun!",
+    "Verwirklichen Sie sich und Ihre Projekte mit Quire. <br>"
+    "Viel Spaß und viel Erfolg!",
   mHomeSection7Title: "Jederzeit. Überall.",
   mFeaturesSection1Title: "Alles was Sie brauchen. [=linebreak]Nicht mehr, nicht weniger.",
   mFeaturesSection1Desc: "Schnelle Eingewöhnung dank intuitiver Oberfläche. <br>",
@@ -131,7 +131,7 @@ const deWeb = const <String, String> {
     "<p>Mit anderen Worten: Quire bleibt bis auf weiteres kostenlos.</p>"
     "<p>Und das Beste: Alles was Sie bis dahin nutzen bleibt auch weiterhin kostenfrei.</p>"
     '<p>Fragen? <a href="mailto:support@quire.io">Kontaktieren Sie uns.</a></p>',
-  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
+  mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Alles festhalten",
