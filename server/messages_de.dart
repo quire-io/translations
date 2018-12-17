@@ -917,7 +917,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileOffline: "Offline",
   mMobileHide: "Ausblenden",
   mMobileAccount: "Konto",
-  mMobileMyFeedback: "My Feedback",
+  mMobileMyFeedback: "Mein Feedback",
   mMobileSendFeedback: "Feedback senden",
   mMobileRateQuire: "Quire bewerten",
   mMobileAddTags: "Tags hinzufügen",
