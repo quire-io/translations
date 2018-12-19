@@ -608,7 +608,7 @@ const ptBrClient = const <String, String> {
   mSettingOptionManageTags: "Gerenciar tags",
   mSettingOptionSyncCalendar: "Sincronizar com calendário",
   mSettingOptionIntegra: "Integrar [=name]",
-  mStandardThemes: ":Claro Sereno,escuro:Escuro Monocromático",
+  mStandardThemes: "Claro Sereno,Escuro Monocromático",
   mDeleteOrganization: "Excluir esta organização",
   mDeleteProjectLotTitle: "Excluir Pasta Inteligente",
   mDeleteProjectTitle: "Excluir Projeto",
