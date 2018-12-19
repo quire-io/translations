@@ -28,6 +28,9 @@ const ptClient = const <String, String> {
     'Por favor, entre em contacto com o seu administrador.',
   mNotFound: "Desculpe, não encontramos o que está a procurar.",
   mSessionTimeout: "Desculpe, a sua sessão expirou. Por favor, tente iniciar sessão novamente.",
+  mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
+  mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
+  mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
   mBrowserNotSupported: "Desculpe, o seu navegador está desatualizado. Atualize-o para a versão mais recente.",
   mMaintenance:
     "Desculpe, estamos em manutenção. Voltaremos brevemente. "

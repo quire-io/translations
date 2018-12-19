@@ -28,6 +28,9 @@ const deClient = const <String, String> {
     'Bitte kontaktieren Sie Ihren Administrator.',
   mNotFound: "Sorry, das konnten wir nicht finden.",
   mSessionTimeout: "Sorry, Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
+  mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
+  mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
+  mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
   mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
   mMaintenance:
     "Sorry, wir nehmen gerade kleine Verbesserungen an Quire vor. Wir sind gleich wieder für Sie da. "
