@@ -31,7 +31,6 @@ const deClient = const <String, String> {
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
   mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
-  mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
   mMaintenance:
     "Sorry, wir nehmen gerade kleine Verbesserungen an Quire vor. Wir sind gleich wieder für Sie da. "
     "Keine Sorge, Ihre Änderungen werden lokal gespeichert.",
@@ -115,6 +114,7 @@ const deClient = const <String, String> {
   mJustNow: "Vor einigen Sekunden",
   mOverdue: "Überfällig",
   mLater: "Später",
+  mUnscheduled: "Unscheduled",
   mMinutesAgo: "vor [=n] Minuten",
   mOneHourAgo: "vor einer Stunde",
   mHoursAgo: "vor [=n] Stunden",
@@ -186,6 +186,7 @@ const deClient = const <String, String> {
   mWorkedByAt: "Bearbeitet von [=who], [=when]",
   mPinnedByAt: "Gemerkt von [=who], [=when]",
   mSetAsPrimary: "Als primäre E-Mail-Adresse festlegen",
+  mReferredTaskAmount: '[=n] tasks referred to this task',
   mSubtaskStatus: '[=active] offene und [=completed] erledigte Unteraufgaben',
   mSubtaskStatusShort: '[=active] offene und [=completed] erledigte Unteraufgaben',
   mSubtaskStatisticOthers: "Andere",
@@ -318,6 +319,7 @@ const deClient = const <String, String> {
   mOnline: "Online",
   mTaskActivities: "Aufgabenaktivitäten",
   mNActivities: "[=count] Aktivitäten",
+  mRemoveHistory: "Remove from history",
   mAddFirstTaskHint: "Aufgabenname eingeben",
   mAddTaskHere: "Eine Aufgabe hinzufügen...",
   mAddTaskNameHere: "Name der Aufgabe",
@@ -501,7 +503,10 @@ const deClient = const <String, String> {
   mDeleteFileContent: "Den Anhang [=name] <strong>unwiderruflich löschen</strong>.",
   mNotSupportPreview: "Diese Datei ist nicht für die Vorschau verfügbar.",
   mFileOpenNewTab: "In neuem Tab öffnen",
-  mMenuExport: "exportieren",
+  mMenuImportExport: "Import & Export",
+  mMenuImport: "Import",
+  mMenuExportCSV: "Export CSV",
+  mMenuExportJSON: "Export JSON",
   mMenuEditName: "Name & Beschreibung bearbeiten",
   mMenuEditMember: "Mitglieder bearbeiten",
   mMenuViewMember: "Mitglieder anzeigen",
@@ -678,7 +683,7 @@ const deClient = const <String, String> {
   mMergeTaskToChildHint: "Sie können die Aufgabe nicht mit deren Unteraufgabe zusammenführen",
   mMergeTaskToSelfHint: "Sie können die Aufgabe nicht mit sich selbst zusammenführen",
   mPasteTaskTitle: "Einfügen",
-  mPasteTaskFirstHint: "Drücken Sie [=ctrlCommand]+V zum Einfügen",
+  mPasteTaskFirstHint: "Press [=ctrlCommand]+V or drag a CSV file here to paste",
   mPasteTaskFirstMessage:
     'Drücken Sie [=ctrlCommand]+V oder die rechte Maustaste, um kopierte Inhalte einzufügen. '
     'Mehr zu <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">Kopieren und Einfügen</a>.',
@@ -824,7 +829,6 @@ const deClient = const <String, String> {
   mTipFilterForCompleted: "Klicken Sie hier, um Aufgaben zu sehen, die Sie gerade in Alle Aufgaben erledigt haben.",
   mTipEnterToAddTask: "Drücken Sie die Eingabetaste, um neue Aufgaben hinzuzufügen.",
   mTipBatchBar: "Klicken Sie hier, um ausgewählte Aufgaben gleichzeitig zu bearbeiten.",
-  mTipAddProjectIcon: "Klicken Sie hier, um neue Projekte oder Organisationen hinzuzufügen.",
   mTipSelectDarkTheme: 'Sie können das <a href="/r/setting?tab=options">Dark Theme in Ihren Account-Einstellungen aktivieren</a>.',
   mTipExcluded: "Vor langer Zeit abgeschlossene Aufgaben sind ausgeschlossen.",
   mTipExcludedOption:

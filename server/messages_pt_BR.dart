@@ -191,6 +191,7 @@ const ptBrServer = const <String, String> {
   mMarkAllRead: "Marcar Tudo como Lido",
   mEmptyNotificationMessage: "Você não tem nenhuma notificação.",
   mShowMoreActivities: "Mostrar atividades anteriores",
+  mShowMoreTasks: "Show more tasks",
   mShowMoreComments: "Mostrar comentários anteriores",
   mEmptyComments: "Sem comentários",
   mEmptyCommentsDesc: "Seja o primeiro a <a>adicionar um comentário <a>",

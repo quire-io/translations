@@ -112,7 +112,7 @@ const deServer = const <String, String> {
   mObsoleteVersionApp: 'Die Version, die sie aktuell verwenden, läuft am [=when] aus. Bitte <a href="[=link]">laden Sie die neueste Version herunter</a>.',
   mNewVersionBrowser:
     'Eine neue Version ist verfügbar. '
-    'Bitte <a href="javascript:reloadPage(false, true)">laden Sie die Seite neu</a>, um die neueste Version zu verwenden.',
+    'Bitte <a href="javascript:reloadPage(false)">laden Sie die Seite neu</a>, um die neueste Version zu verwenden.',
   mRequired: 'Benötigt',
   mDuplicatedId: 'Diese ID wird bereits verwendet',
   mReservedId: 'Die eingegebene ID ist reserviert',
@@ -192,6 +192,7 @@ const deServer = const <String, String> {
   mMarkAllRead: "Alle als gelesen markieren",
   mEmptyNotificationMessage: "Sie haben keine Benachrichtigungen.",
   mShowMoreActivities: "Frühere Aktivitäten zeigen",
+  mShowMoreTasks: "Show more tasks",
   mShowMoreComments: "Frühere Kommentare zeigen",
   mEmptyComments: "Keine Kommentare",
   mEmptyCommentsDesc: "<a>Kommentar verfassen</a>",
