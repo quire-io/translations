@@ -424,7 +424,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mExtraValue: " como [=value]",
   mSaying: ", dizendo [=value]",
   mViewOnQuire: "ver no Quire",
-  mUnfllow: "deixar de seguir",
+  mUnfollow: "deixar de seguir",
   mThisTask: "essa tarefa",
   "AT$atAddTask": "[=who] adicionou [=what][=value]",
   "AT$atRemoveTask": "[=who] excluiu [=what][=value]",

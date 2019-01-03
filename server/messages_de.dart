@@ -429,7 +429,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mExtraValue: " als [=value]",
   mSaying: ": [=value]",
   mViewOnQuire: "in Quire anzeigen",
-  mUnfllow: "nicht mehr folgen",
+  mUnfollow: "nicht mehr folgen",
   mThisTask: "diese Aufgabe",
   "AT$atAddTask": "[=who] hat [=what][=value] hinzugefügt",
   "AT$atRemoveTask": "[=who] hat [=what][=value] entfernt",
