@@ -950,6 +950,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileMenuUnarchive: "Desarquivar",
   mMobileTasksSelected: "[=amount] Selecionadas",
   mMobileFiles: "Arquivos",
+  mMobileSyncing: "Syncing",
   mMobileProfileCamera: "Tirar Foto",
   mMobileProfilePhoto: "Escolher Foto Existente",
   mMobileProfileIconColor: "Alterar Cor do Ícone",

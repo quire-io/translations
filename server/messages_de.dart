@@ -953,6 +953,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileMenuUnarchive: "Wiederherstellen",
   mMobileTasksSelected: "[=amount] ausgewählt",
   mMobileFiles: "Dateien",
+  mMobileSyncing: "Syncing",
   mMobileProfileCamera: "Foto machen",
   mMobileProfilePhoto: "Vorhandenes Foto auwählen",
   mMobileProfileIconColor: "Icon-Farbe ändern",
