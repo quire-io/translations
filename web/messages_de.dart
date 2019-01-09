@@ -127,7 +127,7 @@ const deWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Es erreichen uns viele Anfragen bezüglich unserer Preisgestaltung.</p>"
     "<p>Allerdings gibt es so viele aufregende Ideen die wir gerne umsetzen würden! Deshalb konzentrieren wir uns aktuell darauf Quire weiter zu verbessern, statt uns über Preise Gedanken zu machen.</p>"
-    "<p>Mindestens bis zum zweiten Quartal 2019.</p>"
+    "<p>Mindestens bis zum zweiten hälfte 2019.</p>"
     "<p>Mit anderen Worten: Quire bleibt bis auf weiteres kostenlos.</p>"
     "<p>Und das Beste: Alles was Sie bis dahin nutzen bleibt auch weiterhin kostenfrei.</p>"
     '<p>Fragen? <a href="mailto:support@quire.io">Kontaktieren Sie uns.</a></p>',

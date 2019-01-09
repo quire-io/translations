@@ -131,7 +131,7 @@ const ptBrWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Muitas pessoas estão nos perguntando sobre preços.</p>"
     "<p>Mas, há tantas ideias interessantes a serem exploradas! Nós preferimos manter nosso foco em tornar o Quire ainda mais incrível, do que decidir qual recurso pertence a qual plano.</p>"
-    "<p>Pelo menos até o quarto trimestre de 2018.</p>"
+    "<p>Pelo menos até o segundo semestre de 2019.</p>"
     "<p>Em outras palavras, por enquanto o Quire será gratuito.</p>"
     "<p>E a boa noticia é que, o que você já estiver usando até lá, continuará sendo gratuito.</p>"
     '<p>Tem alguma pergunta? Sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato conosco.</a></p>',
