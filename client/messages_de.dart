@@ -487,6 +487,8 @@ const deClient = const <String, String> {
   mFileLimit: "Hochladen nicht möglich. Die Dateigröße überschreitet die maximal erlaubte Größe ([=size])",
   mFileQuota: "Hochladen nicht möglich. Die Dateigröße überschreitet die maximal erlaubte Größe ([=size])",
   mFileUnfinished: "Es wurden nicht alle Dateien hochgeladen. Möchten Sie den Vorgang trotzdem abbrechen?",
+  mFileLimitWithoutSize: "Unable to upload [=name] because it exceeds the maximum size allowed.",
+  mFileQuotaWithoutSize: "Unable to upload [=name] because it exceeds the maximum file quota allowed.",
   mUnableUploadAttmtTitle: "Hochladen der Datei(en) nicht möglich",
   mUnableUploadAttmtDesc: "Aufgrund einer maximal erlaubten Dateigröße von <strong>[=size]</strong>, können folgende Dateien nicht hochgeladen werden: <strong>[=name]</strong>.",
   mUploadPicture: "Bild hochladen",

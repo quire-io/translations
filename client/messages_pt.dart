@@ -498,6 +498,8 @@ const ptClient = const <String, String> {
   mFileLimit: "Não foi possível carregar o ficheiro porque ele excede o tamanho máximo permitido ([=size])",
   mFileQuota: "Não foi possível carregar o ficheiro porque ele excede a quota máxima de ficheiros permitida ([=size])",
   mFileUnfinished: "Existem carregamentos de ficheiros pendentes. Ainda assim, pretende fechar a janela e cancelar os carregamentos?",
+  mFileLimitWithoutSize: "Unable to upload [=name] because it exceeds the maximum size allowed.",
+  mFileQuotaWithoutSize: "Unable to upload [=name] because it exceeds the maximum file quota allowed.",
   mUnableUploadAttmtTitle: "Não foi possível carregar os ficheiros",
   mUnableUploadAttmtDesc: "Devido ao limite de <strong>[=size]</strong> de tamanho de ficheiro, os seguintes ficheiros não podem ser carregados: <strong>[=name]</strong>.",
   mUploadPicture: "Carregar imagem",
