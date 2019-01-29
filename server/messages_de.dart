@@ -75,11 +75,6 @@ const deServer = const <String, String> {
   mReadMore: "Mehr erfahren",
   mGettingStarted: "Erste Schritte (Englisch)",
   mTutorial: "Tutorial",
-  mHomeBannerLoginDescMorning: 'Guten Morgen, <strong>[=name]</strong>!',
-  mHomeBannerLoginDescAfternoon: 'Guten Tag, <strong>[=name]</strong>',
-  mHomeBannerLoginDescEvening: 'Guten Abend, <strong>[=name]</strong>',
-  mHomeBannerLoginDescCoffeine: 'Morgenstund hat Gold im Mund, <strong>[=name]</strong>!',
-  mHomeBannerLoginDescEarly: 'Der frühe Vogel fängt den Wurm, <strong>[=name]</strong>!',
   mSignupQuire: "Kostenloses Konto erstellen",
   mSignupFree: "KOSTENLOS REGISTRIEREN",
   mSignupFreeShort: "ANMELDEN",
@@ -91,6 +86,10 @@ const deServer = const <String, String> {
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
   mHomeGotoWSButtom: "AN PROJEKT ARBEITEN",
+  mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
+  mMobileBrowserNotSupported:
+    'We no longer support mobile browser with small display screen. '
+    'Please download our native app instead.',
   m403Title: "Oh nein!",
   m403Desc:
     "Sie haben keinen Zugriff auf diese Seite.<br/>"
@@ -953,7 +952,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileMenuUnarchive: "Wiederherstellen",
   mMobileTasksSelected: "[=amount] ausgewählt",
   mMobileFiles: "Dateien",
-  mMobileSyncing: "Syncing",
+  mMobileSyncing: "Synchronisation",
   mMobileProfileCamera: "Foto machen",
   mMobileProfilePhoto: "Vorhandenes Foto auwählen",
   mMobileProfileIconColor: "Icon-Farbe ändern",

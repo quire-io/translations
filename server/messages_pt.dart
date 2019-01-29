@@ -75,11 +75,6 @@ const ptServer = const <String, String> {
   mReadMore: "Ler mais",
   mGettingStarted: "Começar",
   mTutorial: "Tutorial",
-  mHomeBannerLoginDescMorning: 'Bom Dia, <strong>[=name]</strong>!',
-  mHomeBannerLoginDescAfternoon: 'Boa Tarde, <strong>[=name]</strong>',
-  mHomeBannerLoginDescEvening: 'Boa Noite, <strong>[=name]</strong>',
-  mHomeBannerLoginDescCoffeine: 'Talvez seja melhor cortar na cafeína, <strong>[=name]</strong>!',
-  mHomeBannerLoginDescEarly: 'Deus ajuda a quem muito madruga, <strong>[=name]</strong>!',
   mSignupQuire: "Registe-se no Quire",
   mSignupFree: "REGISTE-SE GRATUITAMENTE",
   mSignupFreeShort: "REGISTE-SE",
@@ -91,6 +86,10 @@ const ptServer = const <String, String> {
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Inicie sessão com o Google",
   mHomeGotoWSButtom: "IR PARA O SEU PROJETO",
+  mBrowserNotSupported: "Desculpe, o seu navegador está desatualizado. Atualize-o para a versão mais recente.",
+  mMobileBrowserNotSupported:
+    'We no longer support mobile browser with small display screen. '
+    'Please download our native app instead.',
   m403Title: "Ups!",
   m403Desc:
     "Não tem permissão para aceder a esta página.<br/>"
