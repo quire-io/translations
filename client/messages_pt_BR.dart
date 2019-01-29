@@ -498,7 +498,7 @@ const ptBrClient = const <String, String> {
   mFileLimit: "Não foi possível enviar o arquivo porque ele excede o tamanho máximo permitido ([=size]).",
   mFileQuota: "Não foi possível enviar o arquivo porque ele excede a cota máxima de arquivos permitida ([=size]).",
   mFileUnfinished: "Existem envios de arquivos pendentes. Ainda assim, você ainda deseja fechar a janela e cancelar os envios?",
-  mFileLimitWithName: "Due to a <strong>[=size]</strong> file size limit, the following files cannot be uploaded: <strong>[=name]</strong>.",
+  mFileLimitWithName: "Devido a um limite de tamanho de arquivo de <strong>[=size]</strong>, os seguintes arquivos não podem ser enviados: <strong>[=name]</strong>.",
   mFileQuotaWithName: "Unable to upload [=name] because it exceeds the maximum file quota allowed ([=size]).",
   mUnableUploadAttmtTitle: "Não foi possível enviar os arquivos",
   mUploadPicture: "Enviar imagem",
