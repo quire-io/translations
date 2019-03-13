@@ -86,6 +86,10 @@ const deServer = const <String, String> {
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
   mHomeGotoWSButtom: "AN PROJEKT ARBEITEN",
+  mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
+  mDownloadMobileAppToStartWith:
+    '[=who] has invited you to collaborate on their project.<br/>'
+    'Download Quire to get started!',
   mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
   mMobileBrowserNotSupported:
     'We no longer support mobile browser with small display screen. '
@@ -440,6 +444,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   "AT$atUnassign": "[=who] hat den Beauftragten [=value] von [=what] entfernt",
   "AT$atSetDue": "[=who] hat das Enddatum von [=what] auf [=value:due] gesetzt",
   "AT$atUnsetDue": "[=who] hat das Enddatum von [=what] entfernt",
+  "AT$atSetState": "[=who] set the status of [=what] to [=value]",
   "AT$atSetStart": "[=who] hat das Stardatum von [=what] auf [=value:due] gesetzt",
   "AT$atUnsetStart": "[=who] hat das Startdatum von [=what] entfernt",
   "AT$atAddTaskComment": "[=who] hat [=what] kommentiert[=value]",
@@ -784,8 +789,8 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mAppAccessInHourLimit:
     "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
-  mAppAccessInSecondLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in one second. "
+  mAppAccessInMinuteLimit:
+    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mDenyLeaveDueToOnlyAdmin: "Sorry, Sie können das Projekt nicht verlassen, weil Sie der einzig verbleibende Administrator sind.",
   mSlackError:
@@ -895,6 +900,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mSlackFailProjectNotFound: 'Projekt [=project]: Nicht gefunden.',
   mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Bitte überprüfen Sie, ob [=name] sein oder ihr Quire-Konto verknüpft hat.',
+  mSlackFailMemberNotFound: 'Fehler: [=name] ist nicht Mitglied Ihres Projekts',
   mSlackFailPropertiesNotFound: '[=text] nicht gefunden',
   mSlackFailTaskNotFound: 'Aufgabe [=task]: Nicht gefunden.',
   mSlackFailTaskNotAllow: 'Aufgabe [=task]: Nicht erlaubt.',
@@ -906,6 +912,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileTaskTreeAddTask: "Aufgabe hinzufügen",
   mMobileCamera: "Kamera",
   mMobilePhotos: "Fotos",
+  mMobilePhoto: "Foto",
   mMobileComment: "Kommentar",
   mMobileTaskName: "Aufgabenname",
   mMobileTaskDesc: "Aufgabeninfo",

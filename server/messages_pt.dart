@@ -86,6 +86,10 @@ const ptServer = const <String, String> {
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Inicie sessão com o Google",
   mHomeGotoWSButtom: "IR PARA O SEU PROJETO",
+  mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
+  mDownloadMobileAppToStartWith:
+    '[=who] has invited you to collaborate on their project.<br/>'
+    'Download Quire to get started!',
   mBrowserNotSupported: "Desculpe, o seu navegador está desatualizado. Atualize-o para a versão mais recente.",
   mMobileBrowserNotSupported:
     'We no longer support mobile browser with small display screen. '
@@ -434,6 +438,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   "AT$atUnassign": "[=who] desatribuiu [=value] de [=what]",
   "AT$atSetDue": "[=who] definiu prazo de [=what] para [=value:due]",
   "AT$atUnsetDue": "[=who] removeu o prazo de [=what]",
+  "AT$atSetState": "[=who] set the status of [=what] to [=value]",
   "AT$atSetStart": "[=who] definiu a data de início de [=what] para [=value:due]",
   "AT$atUnsetStart": "[=who] removeu a data de início de [=what]",
   "AT$atAddTaskComment": "[=who] comentou [=what][=value]",
@@ -780,8 +785,8 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mAppAccessInHourLimit:
     "Não pode aceder à API do Quire mais de <b>[=size]</b> vezes numa hora. "
     'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
-  mAppAccessInSecondLimit:
-    "Não pode aceder à API do Quire mais do que <b>[=size]</b> vezes num segundo. "
+  mAppAccessInMinuteLimit:
+    "Não pode aceder à API do Quire mais do que <b>[=size]</b> vezes num minuto. "
     'Por favor, <a href="mailto:support@quire.io">contacte-nos</a> para obter uma cota maior.',
   mDenyLeaveDueToOnlyAdmin: "Desculpe, não pode sair porque é o único administrador que resta.",
   mSlackError:
@@ -891,6 +896,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mSlackFailProjectNotFound: 'Projeto [=project]: não encontrado.',
   mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Por favor, confirme se [=name] se vinculou à sua conta do Quire.',
+  mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
   mSlackFailPropertiesNotFound: '[=text] não encontrado',
   mSlackFailTaskNotFound: 'Tarefa [=task]: não encontrada.',
   mSlackFailTaskNotAllow: 'Tarefa [=task]: não permitida.',
@@ -902,6 +908,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mMobileTaskTreeAddTask: "Adicionar Tarefa",
   mMobileCamera: "Câmara",
   mMobilePhotos: "Fotos",
+  mMobilePhoto: "Photo",
   mMobileComment: "Comentário",
   mMobileTaskName: "Nome da Tarefa",
   mMobileTaskDesc: "Descrição da Tarefa",
