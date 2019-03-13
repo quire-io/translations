@@ -86,10 +86,10 @@ const ptServer = const <String, String> {
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Inicie sessão com o Google",
   mHomeGotoWSButtom: "IR PARA O SEU PROJETO",
-  mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
+  mDownloadMobileAppToStart: 'Descarregue o Quire e comece a trabalhar nos seus projetos',
   mDownloadMobileAppToStartWith:
-    '[=who] has invited you to collaborate on their project.<br/>'
-    'Download Quire to get started!',
+    '[=who] convidou-@ para colaborar no seu projeto.<br/>'
+    'Descarregue o Quire para começar!',
   mBrowserNotSupported: "Desculpe, o seu navegador está desatualizado. Atualize-o para a versão mais recente.",
   mMobileBrowserNotSupported:
     'We no longer support mobile browser with small display screen. '
@@ -438,7 +438,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   "AT$atUnassign": "[=who] desatribuiu [=value] de [=what]",
   "AT$atSetDue": "[=who] definiu prazo de [=what] para [=value:due]",
   "AT$atUnsetDue": "[=who] removeu o prazo de [=what]",
-  "AT$atSetState": "[=who] set the status of [=what] to [=value]",
+  "AT$atSetState": "[=who] definiu o estado de [=what] para [=value]",
   "AT$atSetStart": "[=who] definiu a data de início de [=what] para [=value:due]",
   "AT$atUnsetStart": "[=who] removeu a data de início de [=what]",
   "AT$atAddTaskComment": "[=who] comentou [=what][=value]",
@@ -896,7 +896,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mSlackFailProjectNotFound: 'Projeto [=project]: não encontrado.',
   mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Por favor, confirme se [=name] se vinculou à sua conta do Quire.',
-  mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
+  mSlackFailMemberNotFound: 'Erro: [=name] não é um membro do seu projeto',
   mSlackFailPropertiesNotFound: '[=text] não encontrado',
   mSlackFailTaskNotFound: 'Tarefa [=task]: não encontrada.',
   mSlackFailTaskNotAllow: 'Tarefa [=task]: não permitida.',
@@ -908,7 +908,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mMobileTaskTreeAddTask: "Adicionar Tarefa",
   mMobileCamera: "Câmara",
   mMobilePhotos: "Fotos",
-  mMobilePhoto: "Photo",
+  mMobilePhoto: "Foto",
   mMobileComment: "Comentário",
   mMobileTaskName: "Nome da Tarefa",
   mMobileTaskDesc: "Descrição da Tarefa",
