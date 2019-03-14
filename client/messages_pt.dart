@@ -146,6 +146,7 @@ const ptClient = const <String, String> {
   mSave: "Guardar",
   mSaved: "Guardado",
   mSaveChanges: "Guardar Alterações",
+  mChange: "Change",
   mOK: "OK",
   mOkay: "Está bem",
   mYes: "Sim",
