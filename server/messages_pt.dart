@@ -33,6 +33,7 @@ const ptServer = const <String, String> {
   mEmail: "Email",
   mLanguage: "Idioma",
   mLanguageAuto: "(auto)",
+  mFirstDayOfWeek: 'First day of week',
   mAllow: "Permitir",
   mDeny: "Negar",
   mConfirmPassword: "Confirme a sua palavra-passe",
@@ -51,7 +52,7 @@ const ptServer = const <String, String> {
   mSignupAt: "Aderiu",
   mCreatedAt: "Criado",
   mTour: "Tour",
-  mFeature: "Recurso",
+  mFeatures: "Recursos",
   mBlog: "Blog",
   mAbout: "Sobre",
   mAboutQuire: "Sobre o Quire",
@@ -86,6 +87,8 @@ const ptServer = const <String, String> {
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Inicie sessão com o Google",
   mHomeGotoWSButtom: "IR PARA O SEU PROJETO",
+  mDownloadAPK: "DOWNLOAD APK",
+  mAPKVersion: 'Version [=version]',
   mDownloadMobileAppToStart: 'Descarregue o Quire e comece a trabalhar nos seus projetos',
   mDownloadMobileAppToStartWith:
     '[=who] convidou-@ para colaborar no seu projeto.<br/>'

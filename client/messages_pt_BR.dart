@@ -351,6 +351,7 @@ const ptBrClient = const <String, String> {
   mEditComment: "Editar comentário",
   mPinComment: "Fixar",
   mUnpinComment: "Soltar",
+  mLeanMore: "Lean more",
   mMore: "mais",
   mNOther: ", e existem mais [=count]",
   mDueDate: "Data de Conclusão",
@@ -370,6 +371,10 @@ const ptBrClient = const <String, String> {
   mAssignMultiple: "Adicionar aos responsáveis",
   mRemoveAssignMultiple: "Remover dos responsáveis",
   mAssignPartner: "Atribuir a uma equipe externa",
+  mAssignPartnerTip:
+    "You can outsource a task or more to a third party, "
+    "namely the external team, without having them seeing "
+    "your other tasks or any of your sensitive data.",
   mAddNewTeam: "Criar nova equipe",
   mAssignPartnerDesc:
     'Esta tarefa já foi atribuída a uma equipe externa, mas você pode'
@@ -515,7 +520,7 @@ const ptBrClient = const <String, String> {
   mSetProfilePicture: "Definir como imagem de perfil",
   mFailUpload: "Opa.. parece que falhou ao fazer o envio desta vez. Por favor, tente novamente!",
   mFailUploadSize: "O tamanho do arquivo deve ser menor que [=size]",
-  mOnlySupportImage: "Somente suporta arquivos de imagem em formato: JPEG ou PNG",
+  mOnlySupportImage: "Somente suporta arquivos de imagem em formato: JPEG, PNG, GIF ou SVG",
   mOnlySupportImport: "Somente suporta a importação de arquivos em formato CSV/JSON",
   mDeleteFile: "Excluir Anexo",
   mDeleteFileContent: "Você está prestes a <strong>excluir permanentemente</strong> o anexo [=name].",
@@ -535,6 +540,7 @@ const ptBrClient = const <String, String> {
   mMenuIntegrate: "Integrar",
   mMenuCalendars: "Calendários...",
   mMenuGithub: "Github...",
+  mMenuSlack: "Slack...",
   mMenuMore: "Mais",
   mMenuDuplicate: "Duplicar...",
   mMenuTransfer: "Transferir...",
@@ -565,6 +571,7 @@ const ptBrClient = const <String, String> {
   mSelectAnotherProjectOptional: "Selecionar outro projeto (opcional)",
   mAddAnotherProject: "Adicionar outro projeto",
   mProjectN: "Projeto [=n]",
+  mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
   mCreateOrganization: "Criar uma Organização",
   mCreateProject: "Criar um projeto",
   mDuplicateProject: "Duplicar projeto",

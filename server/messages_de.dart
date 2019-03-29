@@ -33,6 +33,7 @@ const deServer = const <String, String> {
   mEmail: "E-Mail",
   mLanguage: "Sprache",
   mLanguageAuto: "(auto)",
+  mFirstDayOfWeek: 'First day of week',
   mAllow: "Allow",
   mDeny: "Deny",
   mConfirmPassword: "Passwort bestätigen",
@@ -51,7 +52,7 @@ const deServer = const <String, String> {
   mSignupAt: "Angemeldet",
   mCreatedAt: "Erstellt",
   mTour: "Tour",
-  mFeature: "Feature",
+  mFeatures: "Features",
   mBlog: "Blog",
   mAbout: "Über Quire",
   mAboutQuire: "Über Quire",
@@ -86,6 +87,8 @@ const deServer = const <String, String> {
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
   mHomeGotoWSButtom: "AN PROJEKT ARBEITEN",
+  mDownloadAPK: "DOWNLOAD APK",
+  mAPKVersion: 'Version [=version]',
   mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
   mDownloadMobileAppToStartWith:
     '[=who] has invited you to collaborate on their project.<br/>'

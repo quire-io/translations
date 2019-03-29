@@ -351,6 +351,7 @@ const ptClient = const <String, String> {
   mEditComment: "Editar comentário",
   mPinComment: "Fixar",
   mUnpinComment: "Soltar",
+  mLeanMore: "Lean more",
   mMore: "mais",
   mNOther: ", e existem mais [=count]",
   mDueDate: "Prazo",
@@ -370,6 +371,10 @@ const ptClient = const <String, String> {
   mAssignMultiple: "Adicionar aos colaboradores",
   mRemoveAssignMultiple: "Remover dos colaboradores",
   mAssignPartner: "Atribuir a uma equipa externa",
+  mAssignPartnerTip:
+    "You can outsource a task or more to a third party, "
+    "namely the external team, without having them seeing "
+    "your other tasks or any of your sensitive data.",
   mAddNewTeam: "Criar nova equipa",
   mAssignPartnerDesc:
     'Esta tarefa já foi atribuída a uma equipa externa, mas pode'
@@ -515,7 +520,7 @@ const ptClient = const <String, String> {
   mSetProfilePicture: "Definir como imagem de perfil",
   mFailUpload: "Ups.. parece que o carregamento falhou desta vez. Por favor, tente novamente!",
   mFailUploadSize: "O tamanho do ficheiro deve ser inferior a [=size]",
-  mOnlySupportImage: "Apenas são suportados ficheiros de imagem nos formatos: JPEG ou PNG",
+  mOnlySupportImage: "Apenas são suportados ficheiros de imagem nos formatos: JPEG, PNG, GIF ou SVG",
   mOnlySupportImport: "Apenas é suportada a importação de ficheiros com formato CSV/JSON",
   mDeleteFile: "Eliminar Anexo",
   mDeleteFileContent: "Está prestes a <strong>eliminar permanentemente</strong> o anexo [=name].",
@@ -535,6 +540,7 @@ const ptClient = const <String, String> {
   mMenuIntegrate: "Integrar",
   mMenuCalendars: "Calendários...",
   mMenuGithub: "Github...",
+  mMenuSlack: "Slack...",
   mMenuMore: "Mais",
   mMenuDuplicate: "Duplicar...",
   mMenuTransfer: "Transferir...",
@@ -565,6 +571,7 @@ const ptClient = const <String, String> {
   mSelectAnotherProjectOptional: "Selecionar outro projeto (opcional)",
   mAddAnotherProject: "Adicionar outro projeto",
   mProjectN: "Projeto [=n]",
+  mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
   mCreateOrganization: "Criar uma Organização",
   mCreateProject: "Criar um projeto",
   mDuplicateProject: "Duplicar projeto",

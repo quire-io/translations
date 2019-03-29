@@ -52,6 +52,10 @@ const ptWeb = const <String, String> {
   mFeaturesSectionSignupBottomDesc:
     "Tudo o quer e tudo o que precisa para fazer as coisas acontecerem. <br>"
     "Veja por si mesmo, registe-se agora.",
+  mFeaturesMigrationSectionTitle: "Looking for something better?",
+  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
+  mFeaturesMigrationAsanaButton: "Migrate from Asana",
+  mFeaturesMigrationOthersButton: "Migrate from Others",
   mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos maleáveis.",
   mFeatureBoardTitle: "Quadro Kanban",

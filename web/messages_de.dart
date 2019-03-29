@@ -48,6 +48,10 @@ const deWeb = const <String, String> {
   mFeaturesSectionSignupBottomDesc:
     "Alles was Sie brauchen, um Aufgaben effizient zu erledigen. <br>"
     "Sehen Sie selbst und melden Sie sich jetzt an.",
+  mFeaturesMigrationSectionTitle: "Auf der Suche nach etwas Besserem?",
+  mFeaturesMigrationSectionDesc: "Migration zu Quire in 3 einfachen Schritten!",
+  mFeaturesMigrationAsanaButton: "Wechseln von Asana",
+  mFeaturesMigrationOthersButton: "Wechseln von Anderen",
   mFeatureHierarchyTitle: "Verschachtelte Aufgabenliste",
   mFeatureHierarchyDesc: "Zerlegen Sie große Projekte in überschaubare Schritte und Unteraufgaben.",
   mFeatureBoardTitle: "Kanban Board",
@@ -127,8 +131,8 @@ const deWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Es erreichen uns viele Anfragen bezüglich unserer Preisgestaltung.</p>"
     "<p>Allerdings gibt es so viele aufregende Ideen die wir gerne umsetzen würden! Deshalb konzentrieren wir uns aktuell darauf Quire weiter zu verbessern, statt uns über Preise Gedanken zu machen.</p>"
-    "<p>Mindestens bis zum zweiten hälfte 2019.</p>"
-    "<p>Mit anderen Worten: Quire bleibt bis auf weiteres kostenlos.</p>"
+    "<p>Zumindest bis zur zweiten Hälfte von 2019.</p>"
+    "<p>Mit anderen Worten: Nutzen Sie Quire kostenlos mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern.</p>"
     "<p>Und das Beste: Alles was Sie bis dahin nutzen bleibt auch weiterhin kostenfrei.</p>"
     '<p>Fragen? <a href="mailto:support@quire.io">Kontaktieren Sie uns.</a></p>',
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
