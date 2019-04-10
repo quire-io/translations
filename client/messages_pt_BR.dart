@@ -858,7 +858,7 @@ const ptBrClient = const <String, String> {
     "Tarefas concluídas há muito tempo atrás são excluídas. "
     "Você pode clicar aqui para ver mais.",
   mProfileViewTooltip: "Visão Geral",
-  mTreeViewTooltip: "Tarefas",
+  mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "As Minhas Tarefas",
   mBoardViewTooltip: "Quadro",
   mProfileEditTooltip: "Editar",

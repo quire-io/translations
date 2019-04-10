@@ -849,7 +849,7 @@ const deClient = const <String, String> {
     "Vor langer Zeit abgeschlossene Aufgaben sind ausgeschlossen. "
     "Sie können hier klicken, um mehr zu sehen.",
   mProfileViewTooltip: "Übersicht",
-  mTreeViewTooltip: "Aufgaben",
+  mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "Meine Aufgaben",
   mBoardViewTooltip: "Board",
   mProfileEditTooltip: "Bearbeiten",
