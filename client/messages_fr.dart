@@ -1102,7 +1102,7 @@ const frClient = const <String, String> {
 
   // views
   mProfileViewTooltip: "Overview",
-  mTreeViewTooltip: "List1",
+  mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "My Tasks",
   mBoardViewTooltip: "Board",
 
