@@ -11,15 +11,15 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
-const Map<String, String> enServer = const {
+const enServer = const <String, String> {
   mSubmit: "Submit",
 
   mProjectLC: "project",
   mOrganizationLC: "organization",
 
-  mSidebarTitleMYTasks: "MY TASKS",//for mobile
-  mSidebarMYTasksFav: "FAVORITES",
-  mSidebarMYTasksArchived: "ARCHIVED",
+  mSidebarTitleMyTasks: "MY TASKS",//for mobile
+  mSidebarMyTasksFav: "FAVORITES",
+  mSidebarMyTasksArchived: "ARCHIVED",
   mSidebarCrossProjects: "SMART FOLDERS",
   mSidebarProjects: "PROJECTS",
   mSidebarFav: "BOOKMARKS",
@@ -33,6 +33,7 @@ const Map<String, String> enServer = const {
   mEmail: "Email",
   mLanguage: "Language",
   mLanguageAuto: "(auto)",
+  mFirstDayOfWeek: 'First day of week',
   mAllow: "Allow",
   mDeny: "Deny",
 
@@ -55,6 +56,7 @@ const Map<String, String> enServer = const {
   mCreatedAt: "Created",
 
   mTour: "Tour",
+  mFeatures: "Features",
   mBlog: "Blog",
   mAbout: "About",
   mAboutQuire: "About Quire",
@@ -69,17 +71,19 @@ const Map<String, String> enServer = const {
   mGetAndroid: "Get Android App",
   mGetChromeExtension: "Get Chrome Extension",
 
+  mLoginU: "LOG IN",
+  mTourU: "TOUR",
+  mTutorialU: "TUTORIAL",
+  mFeedbackU: "FEEDBACK",
+
   mPost: "Post",
+  mGotIt: "Got it!",
 
   mReadOnly: "Read Only",
+  mReadMore: "Read more",
 
   mGettingStarted: "Getting Started",
-
-  mHomeBannerLoginDescMorning: 'Good Morning <strong>[=name]</strong>!',
-  mHomeBannerLoginDescAfternoon: 'Good Afternoon <strong>[=name]</strong>',
-  mHomeBannerLoginDescEvening: 'Good Evening <strong>[=name]</strong>',
-  mHomeBannerLoginDescCoffeine: 'Better cut down on that caffeine <strong>[=name]</strong>!',
-  mHomeBannerLoginDescEarly: 'Early bird gets the worms <strong>[=name]</strong>!',
+  mTutorial: "Tutorial",
 
   mSignupQuire: "Sign up to Quire",
   mSignupFree: "SIGN UP FOR FREE",
@@ -93,17 +97,32 @@ const Map<String, String> enServer = const {
   mSigninGoogle: "Sign in with Google",
   mHomeGotoWSButtom: "GO TO YOUR PROJECT",
 
+  mDownloadAPK: "DOWNLOAD APK",
+  mAPKVersion: 'Version [=version]',
+  mDownloadMobileAppToStart: 
+    'Download Quire to start working on your projects',
+  mDownloadMobileAppToStartWith: 
+    '[=who] has invited you to collaborate on their project.<br/>'
+    'Download Quire to get started!',
+
+  mBrowserNotSupported: 
+    "Sorry, your browser is out of date. Please upgrade it to the latest version.",
+  mMobileBrowserNotSupported: 
+    'We no longer support mobile browser with small display screen. '
+    'Please download our native app instead.',
+
   m403Title: "Oops!",
   m403Desc: 
     "You do not have permission to access this page.<br/>"
-    'Please contact your admin.',
+    'Please contact your Admin.',
 
   m404PageTitle: '404: Page Not Found',
   m404Title: "Oops!",
   m404Desc: 
-    "The page you are looking for cannot be found.<br/>"
+    "We cannot find what you are looking for. It could be deleted by you or your Admin.<br/>"
     'If you need assistance, please <a href="mailto:support@quire.io">contact us.</a>',
       //we can NOT use /feedback since the user might not log in yet
+  m404ProjectList: "Here is a list of projects you can access:",
   mBackToHome: "Back to Home",
 
   m500PageTitle: 'Error',
@@ -116,6 +135,8 @@ const Map<String, String> enServer = const {
 
   mNewVersionApp:
     'A new version is now available <a href="[=link]">for download</a>!',
+  mObsoleteVersionApp:
+    'This old version you are using will expire on [=when]. Please <a href="[=link]">download the latest version</a>!',
   mNewVersionBrowser:
     'A new version is available. '
     'Please <a href="javascript:reloadPage(false)">reload to get the latest version</a>.',
@@ -190,7 +211,7 @@ const Map<String, String> enServer = const {
 
   mInviteFriends: "Invite Friends",
   mInviteFriendsTitle: "Invite your friends on board",
-  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily a accomplish their dreams too!",
+  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily accomplish their dreams too!",
 
   mInviteFriendsSuccessTitle: "Thank You!",
   mInviteFriendsSuccess:
@@ -199,6 +220,7 @@ const Map<String, String> enServer = const {
   mInviteOthersFriends: "Invite other friends",
   mInviteNewMembers: "Invite new members",
 
+  mContactUs: "Contact Us",
   mFeedback: "Feedback",
   mFeedbackSubject: "Subject",
   mFeedbackContent: "Tell us how we can help",
@@ -226,6 +248,7 @@ const Map<String, String> enServer = const {
   mEmptyNotificationMessage: "You don't have any notifications.",
 
   mShowMoreActivities: "Show earlier activities",
+  mShowMoreTasks: "Show more tasks",
   mShowMoreComments: "Show earlier comments",
 
   mEmptyComments: "No comments",
@@ -240,7 +263,7 @@ const Map<String, String> enServer = const {
   mTaskRemovedTitle: "This task has been deleted.",
   mTaskRemovedDesc: "Try searching for something else.",
 
-  mMYTasksEmptyMessage: "Hurray~ no task is due!",
+  mMyTasksEmptyMessage: "Hurray~ no task is due!",
 
   mSignupOrganization: "[=user]'s Organization",
   mSignupProject: "[=user]'s Project",
@@ -349,7 +372,7 @@ following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here<
 <hr/>
 
 <p style="font-style:italic;font-size:80%">You are receiving this email because you requested to
-receive activity updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
 <style>.t-desc-block {word-wrap: break-word;}
 .t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
 .t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
@@ -388,8 +411,6 @@ including account-related notifications and task activities.</p>
 
 <p>If you did not make the change, please
 <a href="mailto:support@quire.io">contact us</a> immediately.</p>
-
-<p>Update Code: <b>[=code]</b></p>
 
 <p>Thanks,</p>
 
@@ -499,7 +520,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mExtraValue: " as [=value]",
   mSaying: ", saying [=value]",
   mViewOnQuire: "view on Quire",
-  mUnfllow: "unfollow",
+  mUnfollow: "unfollow",
 
 //task activity contents
   mThisTask: "this task",
@@ -524,6 +545,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     "[=who] set the due date of [=what] to [=value:due]",
   "AT$atUnsetDue":
     "[=who] unset the due date of [=what]",
+  "AT$atSetState":
+    "[=who] set the status of [=what] to [=value]",
   "AT$atSetStart":
     "[=who] set the start date of [=what] to [=value:due]",
   "AT$atUnsetStart":
@@ -556,7 +579,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atDuplicateTask":
     "[=who] duplicated [=what] from [=value]",
   "AT$atTaskMention":
-    "[=who] has mentioned you in [=value]",
+    "[=who] has mentioned you in [=what][=value]",
   "AT$atDuplicateRecurring":
     "[=who] duplicated [=what] from recurring task [=value]",
   "AT$atSetPriority":
@@ -618,7 +641,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atUnsetPublic":
     "[=who] set [=what] as private",
   "AT$atProjectMention":
-    "[=who] has mentioned you in [=value]",
+    "[=who] has mentioned you in [=what][=value]",
   "AT$atGithubConfig":
     "[=who] connected [=what] to Github: [=value]",
   "AT$atGithubUnconfig":
@@ -642,6 +665,11 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     "[=who] added [=value] to [=what]",
   "AT$atRemoveOrganizationMember":
     "[=who] removed [=value] from [=what]",
+
+  "AT$atAddGlobalTag":
+    "[=who] added the tag [=value] to [=what]",
+  "AT$atRemoveGlobalTag":
+    "[=who] removed the tag [=value] from [=what]",
 
   "AT$atAddOapp":
     "[=who] added an application, [=value], to [=what]",
@@ -688,6 +716,10 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atxRemindOverdue":
     "You missed the deadline [=value:due] of [=what]",
 
+  "AT$atxGithubError":
+    "We cannot access [=value] due to [=extra]. "
+    "Please check your Github configuration for [=what].",
+
   mUnsubscribe: "Unsubscription",
   mUnsubscribeSuccess: "You have unsubscribed [=target] successfully.",
   mUnsubscribeTargetFailed:
@@ -727,7 +759,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyPrint: 'Print tasks',
   mKeyDrillDown: 'Zoom in or out selected task',
   mKeyQuote: 'Quote selected text in your reply',
-  mKeyComment: 'Comment in selected task',
+  mKeyComment: 'Comment selected task',
   mKeyIndent: 'Indent task in edit mode',
   mKeyToggleHint: 'Show task ID and more',
   mKeyPasteHint: "Paste what you copied as tasks",
@@ -739,6 +771,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMDHeader3: 'Headers',
   mMDItalic: 'Italic',
   mMDBold: 'Bold',
+  mMDUnderline: 'Underline',
   mMDColoring: 'Coloring',
   mMDOrderedList: 'Numbered List',
   mMDUnorderedList: 'Bulleted List',
@@ -807,7 +840,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     'There was an error linking your account, please try again. '
     'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
 
-  mBoardIntroduce: 'You can manage your tasks visually in a board. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
+  mBoardIntroduce: 'You can manage your tasks visually in one or more boards. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
 
   mSettingPictureLabel: "Picture",
 
@@ -816,10 +849,6 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mUserProfile: "User Profile",
   mAccountSettings: "Account Settings",
   mRecommendQuire: "Recommend Quire",
-
-  mAddCrossProject: "Add smart folder",
-  mAddOrganization: "Add organization",
-  mAddProject: "Add project",
 
   mAddNewLink: "Create new link",
 
@@ -1027,8 +1056,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mAppAccessInHourLimit:
     "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
-  mAppAccessInSecondLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in one second. "
+  mAppAccessInMinuteLimit:
+    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
 
   mDenyLeaveDueToOnlyAdmin:
@@ -1039,6 +1068,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     'Sorry, we encountered an unexpected error. '
     "We will look into it, but "
     'feel free to <https://quire.io/feedback|contact us>.',
+  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
 
   mSlackNeedLinkQuireAccount:
     'Hello! We need you to link to your Quire account first. It only takes a few seconds, and you will be ready to go.',
@@ -1082,6 +1112,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     '`/quire link [project ID or project URL]`\n'
     'Example: `/quire link Development_Project`\n'
     'Example: `/quire link https://quire.io/w/development_project`',
+  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
+  mSlackHelpUnLinkExample: '`/quire unlink`',
 
   mSlackHelpListProject: 'List all projects',
   mSlackHelpListProjectExample: '`/quire list project`',
@@ -1148,6 +1180,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mSlackCurrentLinkProjectSimpleHelp: 'This channel is linked to [=project].',
   mSlackCurrentLinkProjectMarker: '(currently linked)',  
   mSlackLinkProjectOK: '[=who] has linked this channel to [=project].',
+  mSlackUnLinkProjectOK: '[=who] has unlinked this channel from [=project].',
 
   mSlackAddTaskOK: '[=who] has successfully added [=task]',
   mSlackAddTaskUnderOK: '[=who] has successfully added subtask [=task] under [=parent].',
@@ -1171,7 +1204,9 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mSlackUnfollowProjectOK: '[=who] has got this channel to unfollow [=projects].',
 
   mSlackFailProjectNotFound: 'Project [=project]: not found.',
+  mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Please check if [=name] has linked to his or her Quire account.',
+  mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
   mSlackFailPropertiesNotFound: '[=text] not found',
   mSlackFailTaskNotFound:  'Task [=task]: not found.',
   mSlackFailTaskNotAllow: 'Task [=task]: not allowed.',
@@ -1187,6 +1222,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileTaskTreeAddTask: "Add Task",
   mMobileCamera: "Camera",
   mMobilePhotos: "Photos",
+  mMobilePhoto: "Photo",
   mMobileComment: "Comment",
   mMobileTaskName: "Task name",
   mMobileTaskDesc: "Task description",
@@ -1195,6 +1231,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileOffline: "Offline",
   mMobileHide: "Hide",
   mMobileAccount: "Account",
+  mMobileMyFeedback: "My Feedback",
   mMobileSendFeedback: "Send Feedback",
   mMobileRateQuire: "Rate Quire",
   mMobileAddTags: "Add Tags",
@@ -1223,9 +1260,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileTransferedTo: "Transferred to",
   mMobileNewTask: "New Task",
   mMobileBack: "Back",
-  mMobileMYTasks: "My Tasks",
-  mMobileEditName: "Edit Name",
-  mMobileEditDesc: "Edit Description",
+  mMobileMyTasks: "My Tasks",
   mMobileIgnore: "ignore",
   mMobileReload: "reload",
   mMobileTime: "Time",
@@ -1234,6 +1269,20 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileMenuUnarchive: "Unarchive",
   mMobileTasksSelected: "[=amount] Selected",
   mMobileFiles: "Files",
+  mMobileSyncing: "Syncing",
+
+  mMobileProfileCamera: "Take Photo",
+  mMobileProfilePhoto: "Choose Existing Photo",
+  mMobileProfileIconColor: "Change Icon Color",
+  mMobileProfileEditColor: "Edit color",
+  mMobileEditPicture: "Edit Picture",
+  mMobileEditIcon: "Edit Icon",
+  mMobileEditName: "Edit Name",
+  mMobileEditDesc: "Edit Description",
+  mMobileEditCompany: "Edit Company",
+  mMobileEditWebsite: "Edit Website",
+  mMobileEditAttachments: "Edit Attachments",
+  mMobileEditDate: "Edit Date",
 
   mMobileForgotPasswordTitle: "Forgot Password",
   mMobileForgotResetErrorTitle: "Reset error",
@@ -1248,6 +1297,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileDetailFollow: "Follow",
   mMobileDetailFollowing: "Following",
   mMobileDetailProjectInfo: "Project Info",
+  mMobileDetailProjectLotInfo: "Smart Folder Info",
   mMobileDetailProjectTag: "Project Tags",
   mMobileDetailTaskBeenDeletedTitle: "Oops!",
   mMobileDetailTaskBeenDeletedDesc: "This task has been deleted.",
@@ -1255,10 +1305,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileDetailProjectDescEdit: "Edit Project Info",
   mMobileDetailTasksStatus: "Tasks Status",
   mMobileDetailActivityLog: "Activity Log",
-  mMobileEditAttachments: "Edit Attachments",
-  mMobileEditDate: "Edit Date",
-  mMobileCopyTaskLink: "Copy Task URL",
-  mMobileShareTaskLink: "Share Task URL",
+  mMobileShareTaskLink: "Share Link",
 
   mMobileDueInvalidTitle: "Invalid Date",
   mMobileDueInvalidDesc: "Your start date must be earlier than due date.",
@@ -1283,9 +1330,14 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileFeedbackTitle: "Have a question or suggestion for us?\nWe're all ears!",
 
   mMobileNewProject: "New Project",
+  mMobileNewProjectLot: "New Smart Folder",
   mMobileNewOrganization: "New Organization",
   mMobileOrganizationCreatedOn: "Created on [=createdAt]",
   mMobileYourNewPassword: "Your new password.",
+  mMobileMoveProjectUp: "Move project up",
+  mMobileMoveProjectDown: "Move project down",
+  mMobileSearchProject: "Search Project",
+  mMobileSmartFolderExceedMaximum: "You have reached the maximum number of projects allowed in a Smart Folder.",
 
   mMobileMenuManageTags: "Manage tags",
   mMobileMenuManageMember: "Manage members",
@@ -1353,6 +1405,12 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileCrashRefreshTitle: "Oops!",
   mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
   mMobileBatchNOSelectedDesc: "You need to select at least one task.",
+  mMobileExcludeCompletedTask: "Exclude completed task",
+  mMobilePressBackAgainToExit: "Press again to EXIT",
+  mMobileRefreshForLanguageChange: "We will reload for your language settings to take effect.",
+
+  mMobileAddEmail: "Add Email",
+  mMobileEditEmail: "Edit Email",
 
   mMobileEXServerError: "Sorry, we encountered an unexpected error. Please try again later.",
   mMobileEXTaskCreated: "Your task has been added",

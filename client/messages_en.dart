@@ -14,7 +14,7 @@ part of server.intl.messages_all;
  * If not found or null, an empty string is replaced.
  */
 
-const Map<String, String> enClient = const <String, String> {
+const enClient = const <String, String> {
   mInternalError:
     'Sorry, we encountered an unexpected error. '
     "We will look into it, but "
@@ -25,14 +25,17 @@ const Map<String, String> enClient = const <String, String> {
 
   mNotAllowed:
     "You do not have permission to perform this action.<br/>"
-    'Please contact your admin.',
+    'Please contact your Admin.',
   mNotFound:
     "Sorry, we cannot find what you are looking for.",
   mSessionTimeout:
     "Sorry, your session has timed out. Please try logging in again.",
-
-  mBrowserNotSupported:
-    "Sorry, your browser is out of date. Please upgrade it to the latest version.",
+  mAddProjectWithoutOrg:
+    "You cannot add project without adding an organization first.",
+  mCantAddRootTaskInCurrentMode:
+    "You cannot add root tasks in this mode.",
+  mNotAllowedAddRootTask:
+    "You do not have permission to add root tasks.",
 
   mMaintenance:
     "Sorry, we are down for maintenance. We will be back shortly. "
@@ -45,13 +48,18 @@ const Map<String, String> enClient = const <String, String> {
 
   mReloadNewPartJS: 
     'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
-    'You can try the following steps:'
-    '<ul>'
-    "<li>Clear your browser's cache and reload.</li>"
-    '<li>Or, open Quire in a new browser tab.</li>'
-    '<li>Or, restart your browser.</li>'
-    '</ul>'
+    '[=clearCache]<br/><br/>'
     'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
+
+  mDeleteBrowserCacheChromeFirefoxEdge:
+    'You can try press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
+    'to clear browser\'s cached images and files, and reload this page.',
+  mDeleteBrowserCacheSafari:
+    'You can try press <code>Option+Command+E</code> to empty browser\'s cache, '
+    'and reload this page.',
+  mDeleteBrowserCacheEtc:
+    'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
+    'and reload this page.',
 
   mCtrl: "Ctrl",
   mShift: "Shift",
@@ -104,6 +112,11 @@ const Map<String, String> enClient = const <String, String> {
   mCantDeleteNonemptyState:
     "You cannot remove a status with tasks in it.",
 
+  mCantSetAssigneeInName:
+    "You do not have the permission to set assignee.",
+  mCantSetDuePriorityInName:
+    "You do not have the permission to set date or priority.",
+
   mProject: "Project",
   mProjectLot: "Smart Folder",
   mUser: "User",
@@ -145,6 +158,7 @@ const Map<String, String> enClient = const <String, String> {
   mJustNow: "Just now",
   mOverdue: "Overdue",
   mLater: "Later",
+  mUnscheduled: "Unscheduled",
   mMinutesAgo: "[=n] minutes ago",
   mOneHourAgo: "1 hour ago",
   mHoursAgo: "[=n] hours ago",
@@ -157,12 +171,15 @@ const Map<String, String> enClient = const <String, String> {
   mNTHLabels: "1st,2nd,3rd,4th,5th,6th,7th,8th,9th",
   mYourEmail: "Your email",
   mAddEmail: "Add email",
-  
+  mAddCrossProject: "Add smart folder",
+  mAddOrganization: "Add organization",
+  mAddProject: "Add project",
   mAdd: "Add",
   mRemove: "Remove",
   mSave: "Save",
   mSaved: "Saved",
   mSaveChanges: "Save Changes",
+  mChange: "Change",
   mOK: "OK",
   mOkay: "Okay",
   mYes: "Yes",
@@ -188,6 +205,8 @@ const Map<String, String> enClient = const <String, String> {
   mRename: "Rename",
   mCopy: "Copy",
   mCopyLink: "Copy link",
+  mPaste: "Paste",
+  mText: "Text",
   mCustomize: "Customize",
   mHideCustomize: "Hide customization",
   mApply: "Apply",
@@ -221,6 +240,9 @@ const Map<String, String> enClient = const <String, String> {
 
   mSetAsPrimary: "Set as primary",
 
+  mReferredTaskAmount: '[=n] tasks referred to this task',
+  mReferrers: 'Referrers',
+
   mSubtaskStatus: 
     '[=active] incomplete and [=completed] completed subtasks',
   mSubtaskStatusShort: 
@@ -235,7 +257,7 @@ const Map<String, String> enClient = const <String, String> {
   mProjectLotCountDesc: "You can add a maximum of [=amount] projects",
   mInvitationSentTo: "The invitation has been sent to [=email]",
   mViewMemberDesc: "Total [=number] members in this organization and its projects",
-  mViewMemberCount: "Member Count",
+  mViewMemberCount: "Complete Member List",
   mShowMemberCount: "View complete member list",
   mInvitationSent: "Invite sent",
   
@@ -252,9 +274,9 @@ const Map<String, String> enClient = const <String, String> {
   mInputTooLong: "Please shorten your text to a maximum length of [=size].",
     //more likely being attacked (so need to describe details)
 
-  mAddRootTask: "Add root task (t)",
-  mAddTask: "Add task (&#x23ce;)",
-  mAddSubTask: "Add subtask (Shift+&#x23ce;)",
+  mMenuAddTask: "Add task (t)",
+  mAddTask: "Add task (&#8629;)",
+  mAddSubTask: "Add subtask (Shift+&#8629;)",
   mAddBoardTask: "Add tasks",
 
   mAssignee: "Assignee",
@@ -275,8 +297,7 @@ const Map<String, String> enClient = const <String, String> {
   mPriorityLabel: "Low,Medium,High,Urgent",
   mStateLabel: "To-Do,In Progress,Completed",
   mTaskTypeLabel: "Normal,Subproject,Label",
-
-  mHideAddedTasks: 'Hide added tasks',//only used in add task to board picker
+  mBoard: "Board",
 
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
@@ -285,7 +306,7 @@ const Map<String, String> enClient = const <String, String> {
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress",
-  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks",
+  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name",
 
   mFilterRecentHistory: "Recent history",
@@ -295,6 +316,9 @@ const Map<String, String> enClient = const <String, String> {
   mSaveFilter: "Save this filter",
   mAddFilter: "Add filter",
   mRemoveFilter: "Remove filter",
+
+  mExcludeCompletedTaskIn: "Exclude completed task in",
+  mExcludeCompletedTaskOverNDays: "Over [=n] days",
   
   mProjectISPublic: "This project is public",
 
@@ -355,7 +379,7 @@ const Map<String, String> enClient = const <String, String> {
 
   mNotifications: "Notifications",
 
-  mShowMarkdownTips: "Click to get tips on Markdown",
+  mShowMarkdownTips: "Markdown tips",
 
   mHelp: "Help",
   mDownload: "Download",
@@ -366,7 +390,7 @@ const Map<String, String> enClient = const <String, String> {
   mFilterActive: "Active Tasks",
   mFilterAll: "All Tasks",
   mFilterCompleted: "Completed Tasks",
-  mFilterMYTasks: "My Tasks",
+  mFilterMyTasks: "My Tasks",
 
   mEditFilter: "Save New Filter",
   mFilterName: "Filter name",
@@ -389,6 +413,7 @@ const Map<String, String> enClient = const <String, String> {
 
   mTaskActivities: "Task activities",
   mNActivities: "[=count] activities",
+  mRemoveHistory: "Remove from history",
 
   mAddFirstTaskHint: "Enter a task name",
   mAddTaskHere: "Click here to add task",
@@ -400,7 +425,7 @@ const Map<String, String> enClient = const <String, String> {
 
   mAddDesc: "Add description",
   mEditDesc: "Edit",
-  mEditSaveTooltip: "[=ctrlCommand]+&#x23ce;",
+  mEditSaveTooltip: "[=ctrlCommand]+&#8629;",
   mEditCancelTooltip: "[=shiftCommand]+Esc",
   mEditCancelMessage: "Press [=shiftCommand]+Esc to cancel the changes.",
   mAddComment: "Add comment",
@@ -408,6 +433,7 @@ const Map<String, String> enClient = const <String, String> {
   mPinComment: "Pin",
   mUnpinComment: "Unpin",
   
+  mLeanMore: "Lean more",
   mMore: "more",
   mNOther: ", and there's [=count] more",
 
@@ -434,6 +460,10 @@ const Map<String, String> enClient = const <String, String> {
   mAssignMultiple: "Add to assignees",
   mRemoveAssignMultiple: "Remove from assignees",
   mAssignPartner: "Assign an external team",
+  mAssignPartnerTip: 
+    "You can outsource a task or more to a third party, "
+    "namely the external team, without having them seeing "
+    "your other tasks or any of your sensitive data.",
   mAddNewTeam: "Create new team",
   mAssignPartnerDesc:
     'This task has already been assigned to an external team, but you can'
@@ -570,11 +600,11 @@ const Map<String, String> enClient = const <String, String> {
 
   mCommentsRemoved: "This comment has been removed.",
 
-  mOffHintDesc: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
+  mReloadAltModeHint: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
 
   mNewTaskNameHint1: "Type @, #, ! and < to set assignees, tags...",
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
-  mNewTaskNameHint3: "Press Esc to stop adding tasks",
+  mNewTaskNameHint3: "Press Esc or Enter to stop adding tasks",
 
   mSearchIconTooltip: "Search tasks",
   mSearchTaskHintIncomplete: "Search incomplete tasks",
@@ -583,27 +613,29 @@ const Map<String, String> enClient = const <String, String> {
   mSearchTaskHintAutocomplete: "You can also search by @assignee, #tag or !priority",
 
   //style autocomplete
-  autocompleteStyleBold: "Bold",
-  autocompleteStyleUnderline: "Underline",
   autocompleteStyleTitle: "Title",
   autocompleteStyleRed: "Red",
-  autocompleteStyleItalic: "Italic",
+  autocompleteStyleOrange: "Orange",
   autocompleteStyleHighlight: "Highlight",
 
   //upload
   mAttachFiles: "Attach files",
   mAttachFilesFromGoogle: "Attach files from Google Drive",
   mDragFilesHere: "Drop files here",
+  mDragImagesHere: "Drop images here",
   mUploading: "Uploading [=name]",
 
   mFileLimit:
-    "Unable to upload the file because it exceeds the maximum size allowed ([=size])",
+    "Unable to upload the file because it exceeds the maximum size allowed ([=size]).",
   mFileQuota:
-    "Unable to upload the file because it exceeds the maximum file quota allowed ([=size])",
+    "Unable to upload the file because it exceeds the maximum file quota allowed ([=size]).",
   mFileUnfinished: "There are unfinished file uploads, do you still want to close the window and cancel the uploads?",
+  mFileLimitWithName:
+    "Due to a <strong>[=size]</strong> file size limit, the following files cannot be uploaded: <strong>[=name]</strong>.",
+  mFileQuotaWithName:
+    "Unable to upload [=name] because it exceeds the maximum file quota allowed ([=size]).",
 
   mUnableUploadAttmtTitle: "Unable to upload files",
-  mUnableUploadAttmtDesc: "Due to a <strong>[=size]</strong> file size limit, the following files cannot be uploaded: <strong>[=name]</strong>.",
 
   mUploadPicture: "Upload picture",
   mChangeIconColor: "Change icon color",
@@ -615,8 +647,9 @@ const Map<String, String> enClient = const <String, String> {
   mSetProfilePicture: "Set as profile picture",
   
   mFailUpload: "Oops.. failed to upload this time. Please give it another try!",
-  mFailUploadFormat: "Sorry, we do not support the file format: [=format].",
   mFailUploadSize: "The file size must be less than [=size]",
+  mOnlySupportImage: "Only support image file format: JPEG, PNG, GIF or SVG",
+  mOnlySupportImport: "Only support import from CSV/JSON file format",
 
   mDeleteFile: "Delete Attachment",
   mDeleteFileContent: "You are about to <strong>permanently delete</strong> the attachment [=name].",
@@ -625,16 +658,22 @@ const Map<String, String> enClient = const <String, String> {
   mFileOpenNewTab: "Open in New Tab",
 
   //option menu
+  mMenuImportExport: "Import & Export",
+  mMenuImport: "Import",
   mMenuExport: "Export",
+  mMenuClipboard: "Clipboard ([=ctrlCommand]+V)",
+
   mMenuEditName: "Edit name & description",
   mMenuEditMember: "Edit members",
   mMenuViewMember: "View members",
+  mMenuEditTag: "Edit tags",
   mMenuEditProjects: "Edit projects",
   mMenuComment: "Comment",
   mMenuPrint: "Print...",
   mMenuIntegrate: "Integrate",
   mMenuCalendars: "Calendars...",
   mMenuGithub: "Github...",
+  mMenuSlack: "Slack...",
 
   mMenuMore: "More",
 
@@ -672,6 +711,7 @@ const Map<String, String> enClient = const <String, String> {
   mSelectAnotherProjectOptional: "Select another project (optional)",
   mAddAnotherProject: "Add another project",
   mProjectN: "Project [=n]",//e.g. Project 1, Project 2, ....
+  mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
 
 
   mCreateOrganization: "Create an Organization",
@@ -741,7 +781,7 @@ const Map<String, String> enClient = const <String, String> {
   mSettingOptionSyncCalendar: "Sync to calendar",
   mSettingOptionIntegra: "Integrate [=name]",
 
-  mStandardThemes: ":Serene Light,dark:Monochrome Dark",
+  mStandardThemes: "Serene Light,Monochrome Dark",
 
   mDeleteOrganization: "Delete this organization",
   mDeleteProjectLotTitle: "Delete Smart Folder",
@@ -750,6 +790,7 @@ const Map<String, String> enClient = const <String, String> {
   mCopyProject: "Make a copy of [=name]",
   mArchiveProject: "Archive Project",
   mCopyProjectSharePeople: "Share it with the same people",
+  mCopyProjectWithCompletedTasks: "Copy completed tasks",
 
   mTransferTaskTitle: "Transfer Tasks",
   mArchiveBoard: "Archive Board",
@@ -802,7 +843,9 @@ const Map<String, String> enClient = const <String, String> {
   mLeaveProjectTitle: "Leave Project",
   mLeaveProjectDesc: "You will no longer have access to this project. Are you sure you want to leave?",
   mLeaveErrorMessage: "Sorry, you cannot leave because you are the only admin left.",
-
+  mLeaveAllPrjsInOrganizationDesc: "Remove [=name] from all projects in this organization.",
+  mLeaveAllPrjsInOrganizationTlp: "Remove from all projects in this organization",
+  
   mTransferProjectContent:
     "You are about to transfer [=name] to organization",
 //  mTransferProjectConfirm:
@@ -837,6 +880,10 @@ const Map<String, String> enClient = const <String, String> {
   mTransferTaskTaskFinish: "[=name] has been transferred to [=project].",
   mTransferTaskTaskFinishPlural: "[=name] and [=count] other tasks have been transferred to [=project].",
   
+  mChangeTaskBoardFinish: "[=name] has been added to board [=board].",
+  mChangeTaskBoardFinishPlural: "[=name] and [=count] other tasks have been added to board [=board].",
+  mRemoveTaskBoardFinish: "[=name] has been removed from board.",
+  mRemoveTaskBoardFinishPlural: "[=name] and [=count] other tasks have been removed from board.",
 
 
   mTransferTaskCPTask: "Transfer a copy and keep the tasks in the current project",
@@ -857,10 +904,10 @@ const Map<String, String> enClient = const <String, String> {
   mMergeTaskToChildHint: "You cannot merge the task to its subtask",
   mMergeTaskToSelfHint: "You cannot merge the task to itself",
 
-  mPasteTaskTitle: "Paste",
-  mPasteTaskFirstHint: "Press [=ctrlCommand]+V to paste",
+  mPasteTaskTitle: "Paste & Import",
+  mPasteTaskFirstHint: "Press [=ctrlCommand]+V or drag a CSV file here to paste",
   mPasteTaskFirstMessage: 
-    'You can press [=ctrlCommand]+V or right click to paste what you copied. '
+    'You can press [=ctrlCommand]+V or right-click to paste what you copied. '
     'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste</a>.',
   mPasteTaskFirstErrorMessage: 
     'Nothing is copied or what you copied is not recognizable. '
@@ -873,6 +920,7 @@ const Map<String, String> enClient = const <String, String> {
     'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',
   mPasteTaskAsOption1: "single task",
   mPasteTaskAsOption2: "multiple tasks",
+  mPasteTaskToOptionRoot: "root tasks",
   mPasteTaskToOption1: "same level as tasks",
   mPasteTaskToOption2: "lower level as subtasks",
 
@@ -886,6 +934,7 @@ const Map<String, String> enClient = const <String, String> {
   mEmailNotConfirm: 'Not confirmed',
   mPasswordTooShort: 'Password must have at least 6 characters',
   mPasswordNumberLetter: 'Password must contain at least one number and one letter',
+  mFragilePassword: "Please choose a strong password that's harder to guess",
   mIncorrectPassword: 'The password you entered is incorrect',
   mPasswordChanged: 'Password has been changed successfully',
   mShowPassword: 'Show password',
@@ -909,8 +958,8 @@ const Map<String, String> enClient = const <String, String> {
   mSyncCalendarScopeLabel: 'Sync',
   mSyncCalendarToLabel: 'To',
   mSyncCalendarProjectTask: 'All tasks in this project',
-  mSyncCalendarProjectMYTask: 'My tasks in this project',
-  mSyncCalendarMYTask: 'My tasks in all projects',
+  mSyncCalendarProjectMyTask: 'My tasks in this project',
+  mSyncCalendarMyTask: 'My tasks in all projects',
 
   mIntegrationGithubTitle: "GitHub Integration",
   mIntegrationGithubContent: 'You can link GitHub commits to your tasks so everyone on your team can keep track of the code changes, or autocomplete tasks.<br><br>'
@@ -1010,7 +1059,6 @@ const Map<String, String> enClient = const <String, String> {
   mSearchProjectHint: "search",
   mSearchMustChar: "Type 3 or more characters or press Enter to search",
   mSearchOption: "Search Scope",
-  mUserNobody: "Nobody",
 
   mGroupDropStateToComplete: "Drop tasks here to complete",
   mGroupDropStateToStart: "Drop tasks here to start",
@@ -1042,11 +1090,20 @@ const Map<String, String> enClient = const <String, String> {
     "You can click All Tasks to see tasks you just completed.",
   mTipEnterToAddTask:
     "You can press Enter to add new tasks.",
+  mTipBatchBar:
+    "You can click here to edit selected tasks at once.",
+  mTipSelectDarkTheme:
+    'You can <a href="/r/setting?tab=options">switch to dark theme</a> in your Account Settings.',
+  mTipExcluded:
+    "Tasks completed long ago are excluded.",
+  mTipExcludedOption:
+    "Tasks completed long ago are excluded. "
+    "You can click here to see more.",
 
   // views
   mProfileViewTooltip: "Overview",
-  mTreeViewTooltip: "Tasks",
-  mMYTaskViewTooltip: "My Tasks",
+  mTreeViewTooltip: "List",
+  mMyTaskViewTooltip: "My Tasks",
   mBoardViewTooltip: "Board",
 
   // profile
@@ -1057,6 +1114,6 @@ const Map<String, String> enClient = const <String, String> {
   mStatsWeeklyAssignedByLabel: "Assigned by",
   mStatsWeeklyAssignedToLabel: "Assigned to",
 
-  mStatsMYTasksSec: "My Tasks",
+  mStatsMyTasksSec: "My Tasks",
   mStatsUserTasksSec: "'s Tasks",
 };

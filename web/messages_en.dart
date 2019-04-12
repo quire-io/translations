@@ -18,63 +18,54 @@ const Map<String, String> enWeb = const <String, String> {
   mSlogan: 'Unfold Your Ideas',
   mSloganSentence: 'Unfold your ideas',
   mSloganSubtitle:
-    'accomplish more with Quire project management',
+    'A visual collaborative platform for your next, great projects.',
   mQuireDescription:
     'The best collaborative project management software for breaking down goals in hierarchical lists.',
 
-  mHomeSection2Title: "Tackle big goals <br>with <strong>small steps</strong>",
-  mHomeSection2Desc:
-    "We face a challenge by breaking it down. <br>"
-    "That’s how our minds naturally work.",
-  mHomeSection2Desc2:
-    "Quire lets you map your thoughts in a dynamic world.",
+  mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
+  mHomeSectionDreamsDesc:
+    "“There’s no path before me, <br> "
+    "and a track will be created behind me.” <br>"
+    "- Takamura Kotaro",
 
-  mHomeSection3Title: "Turn growing plan into <strong>minimal to-dos</strong>",
-  mHomeSection3Desc: 
-    "We kick start a goal by picking out critical tasks. <br>"
-    "Visualize it, and complete them in Kanban board.",
-  mHomeSection3Desc2: 
-    "Quire lets you drive your inspirations forward without losing the big picture.",
+  mHomeSectionStartSmallTitle: "Think Big, Start Small",
+  mHomeSectionStartSmallDesc:
+    "We face a challenge by breaking it down. That is how our minds naturally work. <br>"
+    "Quire lets you map out your thoughts, and tackle them with small steps.",
 
-  mHomeSection4Title: "Focus on tasks that <strong>matter to you</strong>",
-  mHomeSection4Desc:
-    "Stick to what’s important. <br>"
-    "Leave the errands to us. <br>"
-    "Quire simplifies your life, so you can do what you’re meant to do.",
+  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
+  mHomeSectionVisuallyDesc:
+    "Make you work flow visually. Arrange, prioritize, "
+    "and focus on what is most important each day in board. With everyone on board.",
 
-  mHomeSection5Desc: 
-    "Everything you want and all you need to get things done. <br>"
-    "See for yourself, sign up now.",
+  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+  mHomeSectionProgressDesc:
+    "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
+    "your projects, and your team now and ahead. And celebrate success.",
 
-  mHomeSection6Title: '<strong>More reasons</strong> to love Quire',
-  mHomeSection6Desc: 
-    "Google Calendar, Google Drive, recurring tasks, "
-    "priority, comments, outsourcing...",
+  mHomeSectionSignupMidDesc:
+    "Everything you need to go from ideas to action. <br>"
+    "Sign up now. It's free!",
+  mHomeSectionSignupBottomDesc:
+    "Quire is here to walk your dreams home. <br>"
+    "So go for it. And have fun!",
 
   mHomeSection7Title: "Anytime. Anywhere.",
-  mHomeSection8Title: "Trusted by teams big and small.",
-  mHomeSection9Title: "Why people love Quire.",
 
   mFeaturesSection1Title: "All you need. [=linebreak]No more, no less.",
   mFeaturesSection1Desc:
     "Spend less time figuring out how things work. <br>"
     "Quire’s powerful features and intuitive design allow for project management harmony.",
 
-  mFeaturesSection2Title: "<strong>Collaboration</strong> made simple",
-  mFeaturesSection2Desc:
-    "Increase productivity and stay in the loop with your team. <br>"
-    "Descriptions, attachments, or comments are reflected instantly on your screen.",
-  
-  mFeaturesSection3Title: "Work offline <strong>seamlessly</strong>",
-  mFeaturesSection3Desc:
-    "Never lose work over a bad internet connection. <br>"
-    "We sync your work when you're back online.",
-
-  mFeaturesSection4Title: "Quire at a glance. <strong>Powerful features</strong>",
-
-  mFeaturesSection5Title: 
+  mFeaturesSectionSignupBottomDesc: 
     "Everything you want and all you need to get things done. <br>"
     "See for yourself, sign up now.",
+
+  mFeaturesMigrationSectionTitle: "Looking for something better?",
+  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
+
+  mFeaturesMigrationAsanaButton: "Migrate from Asana",
+  mFeaturesMigrationOthersButton: "Migrate from Others",
 
   mFeatureHierarchyTitle: "Nested Task List",
   mFeatureHierarchyDesc: "Tackle big projects by breaking them down into small, manageable steps.",
@@ -193,12 +184,13 @@ const Map<String, String> enWeb = const <String, String> {
 
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so much exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring which feature belong to which package.</p>"
-    "<p>At least until the fourth quarter of 2018.</p>"
-    "<p>In other words, Quire will be free for the time being.</p>"
+    "<p>But, there are so much exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
+    "<p>At least until the second half of 2019.</p>"
+    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
     "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
     '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
 
+  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
 
   mMobileWelcomeP1Title1: "Welcome to ",
   mMobileWelcomeP1Title2: "Quire",
