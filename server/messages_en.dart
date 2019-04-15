@@ -762,7 +762,9 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyComment: 'Comment selected task',
   mKeyIndent: 'Indent task in edit mode',
   mKeyToggleHint: 'Show task ID and more',
-  mKeyPasteHint: "Paste what you copied as tasks",
+  mKeyCopyHint: "Copy selected task",
+  mKeyCutHint: "Cut selected task",
+  mKeyPasteHint: "Paste what you cut or copied as tasks",
   mKeyToggleDetail: "Open or hide detail panel",
 
   // Markdown help
