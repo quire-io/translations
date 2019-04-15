@@ -1099,6 +1099,9 @@ const enClient = const <String, String> {
   mTipExcludedOption:
     "Tasks completed long ago are excluded. "
     "You can click here to see more.",
+  mTipCheckTutorial:
+    "Not sure how to get started? "
+    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
 
   // views
   mProfileViewTooltip: "Overview",

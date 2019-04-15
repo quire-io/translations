@@ -857,6 +857,9 @@ const ptClient = const <String, String> {
   mTipExcludedOption:
     "Tarefas concluídas há muito tempo são eliminadas. "
     "Pode clicar aqui para ver mais.",
+  mTipCheckTutorial:
+    "Not sure how to get started? "
+    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "As Minhas Tarefas",

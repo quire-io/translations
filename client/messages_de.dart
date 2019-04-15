@@ -848,6 +848,9 @@ const deClient = const <String, String> {
   mTipExcludedOption:
     "Vor langer Zeit abgeschlossene Aufgaben sind ausgeschlossen. "
     "Sie können hier klicken, um mehr zu sehen.",
+  mTipCheckTutorial:
+    "Not sure how to get started? "
+    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
   mProfileViewTooltip: "Übersicht",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "Meine Aufgaben",
