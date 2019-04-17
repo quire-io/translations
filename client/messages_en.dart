@@ -567,6 +567,8 @@ const enClient = const <String, String> {
   "UDP$udtMove": "Moved [=task] and others",
   "UDS$udtRemove": "Deleted [=task]",
   "UDP$udtRemove": "Deleted [=task] and others",
+  "UDS$udtDup": "Duplicated [=task]",
+  "UDP$udtDup": "Duplicated [=task] and others",
   "UDS$udtAssign": "Assigned [=task] to [=value]",
   "UDP$udtAssign": "Assigned [=task] to [=value] and others",
   "UDSR$udtAssign": "Unassigned [=value] from [=task]",
@@ -1101,7 +1103,7 @@ const enClient = const <String, String> {
     "You can click here to see more.",
   mTipCheckTutorial:
     "Not sure how to get started? "
-    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
+    'Check out our <a href="/tutorial">Tutorial</a>!',
 
   // views
   mProfileViewTooltip: "Overview",

@@ -459,6 +459,8 @@ const ptClient = const <String, String> {
   "UDP$udtMove": "Moveu [=task] e outras",
   "UDS$udtRemove": "Eliminou [=task]",
   "UDP$udtRemove": "Eliminou [=task] e outras",
+  "UDS$udtDup": "Duplicated [=task]",
+  "UDP$udtDup": "Duplicated [=task] and others",
   "UDS$udtAssign": "Atribuiu [=task] a [=value]",
   "UDP$udtAssign": "Atribuiu [=task] a [=value] e outros",
   "UDSR$udtAssign": "Desatribuiu [=value] de [=task]",

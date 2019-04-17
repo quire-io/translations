@@ -448,6 +448,8 @@ const deClient = const <String, String> {
   "UDP$udtMove": "Verschob [=task] und andere",
   "UDS$udtRemove": "Löschte [=task]",
   "UDP$udtRemove": "Löschte [=task] und andere",
+  "UDS$udtDup": "Duplicated [=task]",
+  "UDP$udtDup": "Duplicated [=task] and others",
   "UDS$udtAssign": "Hat [=task] an [=value] zugewiesen",
   "UDP$udtAssign": "Hat [=task] an [=value] und andere zugewiesen",
   "UDSR$udtAssign": "Hat [=value] von [=task] entzogen",
@@ -850,7 +852,7 @@ const deClient = const <String, String> {
     "Sie können hier klicken, um mehr zu sehen.",
   mTipCheckTutorial:
     "Not sure how to get started? "
-    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
+    'Check out our <a href="/tutorial">Tutorial</a>!',
   mProfileViewTooltip: "Übersicht",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "Meine Aufgaben",

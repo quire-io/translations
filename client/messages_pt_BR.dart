@@ -459,6 +459,8 @@ const ptBrClient = const <String, String> {
   "UDP$udtMove": "Moveu [=task] e outras",
   "UDS$udtRemove": "Excluiu [=task]",
   "UDP$udtRemove": "Excluiu [=task] e outras",
+  "UDS$udtDup": "Duplicated [=task]",
+  "UDP$udtDup": "Duplicated [=task] and others",
   "UDS$udtAssign": "Atribuiu [=task] a [=value]",
   "UDP$udtAssign": "Atribuiu [=task] a [=value] e outros",
   "UDSR$udtAssign": "Desatribuiu [=value] de [=task]",

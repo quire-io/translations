@@ -65,6 +65,7 @@ const enWeb = const <String, String> {
   mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
 
   mFeaturesMigrationAsanaButton: "Migrate from Asana",
+  mFeaturesMigrationTrelloButton: "Migrate from Trello",
   mFeaturesMigrationOthersButton: "Migrate from Others",
 
   mFeatureHierarchyTitle: "Nested Task List",
@@ -171,6 +172,9 @@ const enWeb = const <String, String> {
 
   mFeatureTemplateTitle: "Project Template",
   mFeatureTemplateDesc: "Save time - duplicate a project or task to use as a template.",
+
+  mFeatureImportTitle: "Import",
+  mFeatureImportDesc: "Pain-free moving from your current project management software to Quire.",
 
   mFeatureExportTitle: "Export",
   mFeatureExportDesc: "Convert your project data into CSV to edit it in Excel, or into JSON for further processing and back up.",
