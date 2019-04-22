@@ -563,6 +563,8 @@ const enClient = const <String, String> {
 
   "UDS$udtComplete": "Completed [=task]",
   "UDP$udtComplete": "Completed [=task] and others",
+  "UDS$udtState": "Edited the status of [=task]",
+  "UDP$udtState": "Edited the status of [=task] and others",
   "UDS$udtMove": "Moved [=task]",
   "UDP$udtMove": "Moved [=task] and others",
   "UDS$udtRemove": "Deleted [=task]",

@@ -455,6 +455,8 @@ const ptClient = const <String, String> {
   mNOTaskFoundDesc: "Tente pesquisar por outra coisa, ou <a class=[=clz]>remova o filtro</a>.",
   "UDS$udtComplete": "Concluiu [=task]",
   "UDP$udtComplete": "Concluiu [=task] e outras",
+  "UDS$udtState": "Edited the status of [=task]",
+  "UDP$udtState": "Edited the status of [=task] and others",
   "UDS$udtMove": "Moveu [=task]",
   "UDP$udtMove": "Moveu [=task] e outras",
   "UDS$udtRemove": "Eliminou [=task]",
@@ -861,7 +863,7 @@ const ptClient = const <String, String> {
     "Pode clicar aqui para ver mais.",
   mTipCheckTutorial:
     "Not sure how to get started? "
-    'Here’s our <a href="/tutorial">Tutorial</a> for you to explore Quire!',
+    'Check out our <a href="/tutorial">Tutorial</a>!',
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "As Minhas Tarefas",
