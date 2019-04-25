@@ -27,6 +27,9 @@ const enServer = const <String, String> {
   mSidebarArchive: "Archived",
   mSidebarMembers: "MEMBERS",
 
+  mSidebarMyTasksSortDate: "Sort by date",
+  mSidebarMyTasksSortProject: "Sort by project",
+
   mSignup: "Sign up",
   mLogin: "Log in",
   mLogout: "Log out",
@@ -1272,6 +1275,9 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileTasksSelected: "[=amount] Selected",
   mMobileFiles: "Files",
   mMobileSyncing: "Syncing",
+
+  mMobileNewBoard: "New Board",
+  mMobileArchivedBoard: "Archived boards",
 
   mMobileProfileCamera: "Take Photo",
   mMobileProfilePhoto: "Choose Existing Photo",

@@ -347,6 +347,9 @@ const enClient = const <String, String> {
   mTreeMenuMerge: "Merge to",
   mTreeMenuPaste: "Paste",
   mTreeMenuDelete: "Delete ([=ctrlCommand]+DEL)",
+  mTreeMenuCutTask: "Cut ([=ctrlCommand]+X)",
+  mTreeMenuCopyTask: "Copy ([=ctrlCommand]+C)",
+  mTreeMenuPasteTask: "Paste ([=ctrlCommand]+V)",
 
   // batch
   mTreeBatchCompleteTooltip: "Complete",
