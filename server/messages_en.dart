@@ -29,6 +29,7 @@ const enServer = const <String, String> {
 
   mSidebarMyTasksSortDate: "Sort by date",
   mSidebarMyTasksSortProject: "Sort by project",
+  mSidebarResetOrder: "Reset to default order",
 
   mSignup: "Sign up",
   mLogin: "Log in",
@@ -763,6 +764,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyDrillDown: 'Zoom in or out selected task',
   mKeyQuote: 'Quote selected text in your reply',
   mKeyComment: 'Comment selected task',
+  mKeySelfAssign: 'Self-assign selected task',
+  mKeyAssignTask: 'Assign, tag and schedule selected task.',
   mKeyIndent: 'Indent task in edit mode',
   mKeyToggleHint: 'Show task ID and more',
   mKeyCopyHint: "Copy selected task",

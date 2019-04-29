@@ -296,11 +296,11 @@ const deClient = const <String, String> {
   mDetailCancelPinTooltip: "Detailansich ausblenden",
   mDetailPinTooltip: "Detailansicht anheften",
   mComplete: "Erledigt",
-  mCompleteNTasks: "Complete [=amount] tasks",
+  mCompleteNTasks: "[=amount] Aufgaben erledigen",
   mReopen: "Wieder öffnen",
   mStatus: "Status",
   mNotifications: "Benachrichtigungen",
-  mShowMarkdownTips: "Markdown tips",
+  mShowMarkdownTips: "Markdown Tips",
   mHelp: "Hilfe",
   mDownload: "Herunterladen",
   mFullSize: "Vollbild anzeigen",
@@ -343,7 +343,7 @@ const deClient = const <String, String> {
   mEditComment: "Kommentar bearbeiten",
   mPinComment: "Pin setzen",
   mUnpinComment: "Pin entfernen",
-  mLeanMore: "Lean more",
+  mLeanMore: "Mehr erfahren",
   mMore: "mehr",
   mNOther: ", und es gibt [=count] weitere",
   mDueDate: "Datum auswählen",
@@ -364,9 +364,9 @@ const deClient = const <String, String> {
   mRemoveAssignMultiple: "Von Beauftragten entfernen",
   mAssignPartner: "Externes Team zuweisen",
   mAssignPartnerTip:
-    "You can outsource a task or more to a third party, "
-    "namely the external team, without having them seeing "
-    "your other tasks or any of your sensitive data.",
+    "Sie können eine oder mehrere Aufgaben an Dritte, "
+    "z.B. ein externes Team, auslagern, ohne dass diese "
+    "Ihre anderen Aufgaben oder Ihre sensiblen Daten angezeigt bekommen.",
   mAddNewTeam: "Neues Team erstellen",
   mAssignPartnerDesc:
     'Diese Aufgabe wurde bereits an ein externes Team zugewiesen, Sie können sie aber'
@@ -567,7 +567,7 @@ const deClient = const <String, String> {
   mSelectAnotherProjectOptional: "Weiteres Projekt auswählen (optional)",
   mAddAnotherProject: "Weiteres Projekt hinzufügen",
   mProjectN: "Projekt [=n]",
-  mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
+  mAddSmartFolderTip: "Ein Smart Ordner ist ein virtueller Ordner mit Projekten aus verschiedenen Organisationen.",
   mCreateOrganization: "Organisation erstellen",
   mCreateProject: "Projekt erstellen",
   mDuplicateProject: "Projekt duplizieren",
@@ -856,8 +856,8 @@ const deClient = const <String, String> {
     "Vor langer Zeit abgeschlossene Aufgaben sind ausgeschlossen. "
     "Sie können hier klicken, um mehr zu sehen.",
   mTipCheckTutorial:
-    "Not sure how to get started? "
-    'Check out our <a href="/tutorial">Tutorial</a>!',
+    "Sie sind nicht sicher, wie Sie anfangen sollen? "
+    'Schauen Sie sich unser <a href="/tutorial">Tutorial</a> an!',
   mProfileViewTooltip: "Übersicht",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "Meine Aufgaben",
