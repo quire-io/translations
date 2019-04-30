@@ -20,7 +20,7 @@ const frWeb = const <String, String> {
   mSlogan: 'Dépliez Vos Idées',
   mSloganSentence: 'Dépliez vos idées',
   mSloganSubtitle: 'Une plateforme collaborative visuelle pour vos prochains grands projets.',
-  mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour décomposer ses objectifs à travers des listes hiérarchisées.',
+  mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
   mHomeSectionDreamsTitle: "Donnez Vie à vos Rêves",
   mHomeSectionDreamsDesc:
     "« Il n'y avait pas de chemin avant moi, <br> "
@@ -28,8 +28,8 @@ const frWeb = const <String, String> {
     "- Takamura Kotaro",
   mHomeSectionStartSmallTitle: "Pensez Large, Commencez Petit",
   mHomeSectionStartSmallDesc:
-    "Nous faisons face à un défi en le décomposant. Ainsi fonctionne naturellement notre cerveau. <br>"
-    "Quire vous permet de détailler vos idées, et de les aborder à petits pas.",
+    "Nous faisons face à un défi en le fractionnant. Ainsi fonctionne naturellement notre cerveau. <br>"
+    "Quire vous permet de détailler vos idées, et de les aborder pas à pas.",
   mHomeSectionVisuallyTitle: "Organisez Vos Tâches Visuellement",
   mHomeSectionVisuallyDesc:
     "Faites avancer votre travail visuellement. Organisez, hiérarchisez, "
@@ -45,7 +45,7 @@ const frWeb = const <String, String> {
     "Quire est ici pour amener vos rêves à la maison. <br>"
     "Donc foncez. Et amusez-vous !",
   mHomeSection7Title: "Partout. Tout le temps.",
-  mFeaturesSection1Title: "Tout ce dont vous avez besoin. [=linebreak]Pas plus, pas moins.",
+  mFeaturesSection1Title: "Tout ce dont vous avez besoin. [=linebreak]Ni plus, ni moins.",
   mFeaturesSection1Desc:
     "Perdez moins de temps à vous demander comment fonctionnent les choses. <br>"
     "Les puissantes fonctionnalités et le design intuitif de Quire vous offrent une gestion de projet harmonieuse.",
