@@ -468,6 +468,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atPauseTask": "[=who] deferred [=what]",
   "AT$atSetBoard": "[=who] added [=what] to [=value]",
   "AT$atUnsetBoard": "[=who] removed [=what] from [=value]",
+  "AT$atArchiveTask": "[=who] archived [=what]",
+  "AT$atUnarchiveTask": "[=who] unarchived [=what]",
   "AT$atAddProject": "[=who] created [=what]",
   "AT$atRemoveProject": "[=who] removed the project [=value]",
   "AT$atEditProject": "[=who] edited [=what]",
@@ -495,8 +497,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atGithubUnconfig": "[=who] disconnected [=what] from Github: [=value]",
   "AT$atAuthorizeProject": "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
   "AT$atAuthorizePartner": "[=who] assigned [=extra] roles to [=value] in the external team [=extra2] of [=what]",
-  "AT$atArchive": "[=who] archived [=what]",
-  "AT$atUnarchive": "[=who] unarchived [=what]",
+  "AT$atArchiveProject": "[=who] archived [=what]",
+  "AT$atUnarchiveProject": "[=who] unarchived [=what]",
   "AT$atAddOrganization": "[=who] created [=what]",
   "AT$atRemoveOrganization": "[=who] removed the organization [=value]",
   "AT$atEditOrganization": "[=who] edited [=what]",
@@ -562,7 +564,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyQuote: 'Quote selected text in your reply',
   mKeyComment: 'Comment selected task',
   mKeySelfAssign: 'Self-assign selected task',
-  mKeyAssignTask: 'Assign, tag and schedule selected task.',
+  mKeyAssignTask: 'Administer selected task',
   mKeyIndent: 'Indent task in edit mode',
   mKeyToggleHint: 'Show task ID and more',
   mKeyCopyHint: "Copy selected task",
@@ -739,7 +741,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     'them via <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
   mTipAssignInTaskName:
-    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code> and <code>&lt;</code> when naming your task for '
+    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> and <code>^</code> when naming your task for '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',
   mTipChromeExtension:
     'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
@@ -859,7 +861,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     'Example: `/quire edit 123 Design new logo !1 @david`',
   mSlackHelpAssign: 'Assign a task',
   mSlackHelpAssignExample:
-    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>]`e\n'
+    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
     'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
     'Example: `/quire assign 123 +@david -@jess +#marketing`',
   mSlackHelpComment: 'Comment a task',

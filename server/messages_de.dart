@@ -474,6 +474,8 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   "AT$atPauseTask": "[=who] hat [=what] aufgeschoben",
   "AT$atSetBoard": "[=who] hat [=what] zu [=value] hinzugefügt",
   "AT$atUnsetBoard": "[=who] hat [=what] von [=value] entfernt",
+  "AT$atArchiveTask": "[=who] hat [=what] archiviert",
+  "AT$atUnarchiveTask": "[=who] hat [=what] aus dem Archiv geholt",
   "AT$atAddProject": "[=who] hat [=what] erstellt",
   "AT$atRemoveProject": "[=who] hat das Projekt [=value] entfernt",
   "AT$atEditProject": "[=who] hat [=what] bearbeitet",
@@ -501,8 +503,8 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   "AT$atGithubUnconfig": "[=who] disconnected [=what] from Github: [=value]",
   "AT$atAuthorizeProject": "[=who] hat [=extra] Rollen an [=value] für den Zugriff auf [=what] zugewiesen",
   "AT$atAuthorizePartner": "[=who] hat [=extra] Rollen an [=value] in dem externen Team [=extra2] von [=what] zugwiesen",
-  "AT$atArchive": "[=who] hat [=what] archiviert",
-  "AT$atUnarchive": "[=who] hat [=what] aus dem Archiv geholt",
+  "AT$atArchiveProject": "[=who] hat [=what] archiviert",
+  "AT$atUnarchiveProject": "[=who] hat [=what] aus dem Archiv geholt",
   "AT$atAddOrganization": "[=who] hat [=what] erstellt",
   "AT$atRemoveOrganization": "[=who] hat die Organisation [=value] entfernt",
   "AT$atEditOrganization": "[=who] hat [=what] bearbeitet",
@@ -568,7 +570,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mKeyQuote: 'Ausgewählten Text zitieren',
   mKeyComment: 'Ausgewählte Aufgabe kommentieren',
   mKeySelfAssign: 'Self-assign selected task',
-  mKeyAssignTask: 'Assign, tag and schedule selected task.',
+  mKeyAssignTask: 'Administer selected task',
   mKeyIndent: 'Aufgabe einrücken',
   mKeyToggleHint: 'Aufgaben ID and mehr anzeigen',
   mKeyCopyHint: "Ausgewählte Aufgabe kopieren",
@@ -743,7 +745,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mTipPrint: '<a href="javascript:window.print()">Drucken</a> Sie Ihre Aufgaben mit <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tipp: Drücken Sie <code>[=ctrlAlt]</code>, um Aufgaben ID und Pfad anzuzeigen',
   mTipAssignInTaskName:
-    'Verwenden Sie <code>@</code>, <code>#</code>, <code>!</code> und <code>&lt;</code>, wenn Sie eine Aufgabe erstellen, um '
+    'Verwenden Sie <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> und <code>^</code>, wenn Sie eine Aufgabe erstellen, um '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">Tags etc. schnell hinzuzufügen</a>',
   mTipChromeExtension:
     'Tipp: <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> hinzufügen , '
@@ -863,7 +865,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
     'Beispiel: `/quire edit 123 Design new logo !1 @david`',
   mSlackHelpAssign: 'Eine Aufgabe zuweisen',
   mSlackHelpAssignExample:
-    '`/quire assign [Aufgaben-ID] [@Teammitglied] [!Priorität] [#Tag] [<Start; Fällig>]`e\n'
+    '`/quire assign [Aufgaben-ID] [@Teammitglied] [!Priorität] [#Tag] [<Start; Fällig>] [^Board]`\n'
     'Beispiel: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
     'Beispiel: `/quire assign 123 +@david -@jess +#marketing`',
   mSlackHelpComment: 'Eine Aufgabe kommentieren',

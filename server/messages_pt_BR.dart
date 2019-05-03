@@ -469,6 +469,8 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   "AT$atPauseTask": "[=who] diferiu [=what]",
   "AT$atSetBoard": "[=who] adicionou [=what] a [=value]",
   "AT$atUnsetBoard": "[=who] removeu [=what] de [=value]",
+  "AT$atArchiveTask": "[=who] arquivou [=what]",
+  "AT$atUnarchiveTask": "[=who] desarquivou [=what]",
   "AT$atAddProject": "[=who] criou [=what]",
   "AT$atRemoveProject": "[=who] removeu o projeto [=value]",
   "AT$atEditProject": "[=who] editou [=what]",
@@ -496,8 +498,8 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   "AT$atGithubUnconfig": "[=who] desconectou [=what] do Github: [=value]",
   "AT$atAuthorizeProject": "[=who] atribuiu funções [=extra] a [=value] para acessar a [=what]",
   "AT$atAuthorizePartner": "[=who] atribuiu funções [=extra] a [=value] na equipe externa [=extra2] de [=what]",
-  "AT$atArchive": "[=who] arquivou [=what]",
-  "AT$atUnarchive": "[=who] desarquivou [=what]",
+  "AT$atArchiveProject": "[=who] arquivou [=what]",
+  "AT$atUnarchiveProject": "[=who] desarquivou [=what]",
   "AT$atAddOrganization": "[=who] criou [=what]",
   "AT$atRemoveOrganization": "[=who] removeu a organização [=value]",
   "AT$atEditOrganization": "[=who] editou [=what]",
@@ -563,7 +565,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mKeyQuote: 'Citar o texto selecionado na sua resposta',
   mKeyComment: 'Comentar na tarefa selecionada',
   mKeySelfAssign: 'Self-assign selected task',
-  mKeyAssignTask: 'Assign, tag and schedule selected task.',
+  mKeyAssignTask: 'Administer selected task',
   mKeyIndent: 'Recuar tarefa no modo de edição',
   mKeyToggleHint: 'Mostrar ID da tarefa e mais',
   mKeyCopyHint: "Copy selected task",
@@ -740,7 +742,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
     'através de <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
   mTipAssignInTaskName:
-    'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code> e <code>&lt;</code> quando nomeia sua tarefa para '
+    'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> e <code>^</code> quando nomeia sua tarefa para '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">adicionar rapidamente</a>',
   mTipChromeExtension:
     'Dica: Adicione a <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extensão Chrome</a> '
@@ -860,7 +862,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
     'Exemplo: `/quire edit 123 Desenhar o novo logo !1 @david`',
   mSlackHelpAssign: 'Atribuir uma tarefa',
   mSlackHelpAssignExample:
-    '`/quire assign [ID da tarefa] [@nome do membro da equipe] [!prioridade] [#tag] [<início; fim>]`e\n'
+    '`/quire assign [ID da tarefa] [@nome do membro da equipe] [!prioridade] [#tag] [<início; fim>] [^board]`\n'
     'Exemplo: `/quire assign 123 @david @maria #design !1 <Out 25>`\n'
     'Exemplo: `/quire assign 123 +@david -@sara +#marketing`',
   mSlackHelpComment: 'Comentar uma tarefa',
