@@ -450,6 +450,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atAddTaskComment": "[=who] commented [=what][=value]",
   "AT$atUndoComplete": "[=who] undid the completion of [=what]",
   "AT$atUndoRemoveTask": "[=who] undid the removal of [=what]",
+  "AT$atUndoArchiveTask": "[=who] undid the archiving of [=what]",
   "AT$atAddTaskAttachment": "[=who] added [=value] to [=what]",
   "AT$atRemoveTaskAttachment": "[=who] removed [=value] from [=what]",
   "AT$atSetPartner": "[=who] shared [=what] to the external team [=value]",

@@ -562,6 +562,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     "[=who] undid the completion of [=what]",
   "AT$atUndoRemoveTask":
     "[=who] undid the removal of [=what]",
+  "AT$atUndoArchiveTask":
+    "[=who] undid the archiving of [=what]",
   "AT$atAddTaskAttachment":
     "[=who] added [=value] to [=what]",
   "AT$atRemoveTaskAttachment":

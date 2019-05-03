@@ -450,6 +450,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   "AT$atAddTaskComment": "[=who] comentou [=what][=value]",
   "AT$atUndoComplete": "[=who] anulou a conclusão de [=what]",
   "AT$atUndoRemoveTask": "[=who] anulou a remoção de [=what]",
+  "AT$atUndoArchiveTask": "[=who] undid the archiving of [=what]",
   "AT$atAddTaskAttachment": "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveTaskAttachment": "[=who] removeu [=value] de [=what]",
   "AT$atSetPartner": "[=who] partilhou [=what] com a equipa externa [=value]",

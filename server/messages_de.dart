@@ -456,6 +456,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   "AT$atAddTaskComment": "[=who] hat [=what] kommentiert[=value]",
   "AT$atUndoComplete": "[=who] hat das Erledigen von [=what] rückgängig gemacht",
   "AT$atUndoRemoveTask": "[=who] hat das Entfernen von [=what] rückgängig gemacht",
+  "AT$atUndoArchiveTask": "[=who] undid the archiving of [=what]",
   "AT$atAddTaskAttachment": "[=who] hat [=value] zu [=what] hinzugefügt",
   "AT$atRemoveTaskAttachment": "[=who] hat [=value] von [=what] entfernt",
   "AT$atSetPartner": "[=who] hat [=what] mit dem externen Team [=value] geteilt",

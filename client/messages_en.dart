@@ -288,6 +288,7 @@ const enClient = const <String, String> {
   mAssignedTo: "Assigned to",
   mAssignedBy: "Assigned by",
   mCreatedBy: "Created by",
+  mUnreadFilter: "Unread",
   mFollowedByME: "Followed by me",
   mFavoritedByME: "Favorited by me",
   mAssignedToME: "Assigned to me",//cus filter
@@ -306,7 +307,7 @@ const enClient = const <String, String> {
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress",
-  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards",
+  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name",
 
   mFilterRecentHistory: "Recent history",
