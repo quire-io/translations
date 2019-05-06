@@ -563,7 +563,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atUndoRemoveTask":
     "[=who] undid the removal of [=what]",
   "AT$atUndoArchiveTask":
-    "[=who] undid the archiving of [=what]",
+    "[=who] unarchived [=what]",
   "AT$atAddTaskAttachment":
     "[=who] added [=value] to [=what]",
   "AT$atRemoveTaskAttachment":
@@ -602,8 +602,6 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     "[=who] removed [=what] from [=value]",
   "AT$atArchiveTask":
     "[=who] archived [=what]",
-  "AT$atUnarchiveTask":
-    "[=who] unarchived [=what]",
 
   "AT$atAddProject":
     "[=who] created [=what]",
