@@ -759,6 +759,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',
   mKeyCompleteTask: 'Complete selected tasks',
+  mKeyTaskStatus: 'Change status of selected task',
   mKeyAssign: 'Assign..',
   mKeyDueDate: 'Set due date',
   mKeyAddTag: 'Add tag',

@@ -555,6 +555,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mKeyBlinkSearch: 'Pesquisa rápida de projetos, usuários, etc.',
   mKeySearchTask: 'Pesquisar tarefas e comentários',
   mKeyCompleteTask: 'Concluir tarefas selecionadas',
+  mKeyTaskStatus: 'Change status of selected task',
   mKeyAssign: 'Atribuir..',
   mKeyDueDate: 'Definir data de conclusão',
   mKeyAddTag: 'Adicionar tag',
