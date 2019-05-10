@@ -574,7 +574,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mKeyPasteHint: "Paste what you cut or copied as tasks",
   mKeyToggleDetail: "Abrir ou ocultar o painel de detalhes",
   mKeyLearnMore:
-    "Learn more, check "
+    'Learn more about how to use Quire with keyboard only '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'Cabeçalhos',
