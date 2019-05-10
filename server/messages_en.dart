@@ -777,6 +777,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyCutHint: "Cut selected task",
   mKeyPasteHint: "Paste what you cut or copied as tasks",
   mKeyToggleDetail: "Open or hide detail panel",
+  mKeyLearnMore: "Learn more, check "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
 
   // Markdown help
   mMarkdownIntro: 'Markdown',

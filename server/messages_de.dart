@@ -578,6 +578,9 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mKeyCutHint: "Ausgewählte Aufgabe ausschneiden",
   mKeyPasteHint: "Fügen Sie das als Aufgabe ein, was Sie ausgeschnitten oder kopiert haben",
   mKeyToggleDetail: "Detailansicht öffnen oder schließen",
+  mKeyLearnMore:
+    "Learn more, check "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'Überschriften',
   mMDItalic: 'Kursiv',
