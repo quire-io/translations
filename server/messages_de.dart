@@ -571,7 +571,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mKeyComment: 'Ausgewählte Aufgabe kommentieren',
   mKeySelfAssign: 'Ausgewählte Aufgabe mir zuweisen',
   mKeyAssignTask: 'Ausgewählte Aufgaben verwalten',
-  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board',
+  mKeyAssignTaskProperties: 'zuweisen,status,tag,fällig,priorität,board',
   mKeyIndent: 'Aufgabe einrücken',
   mKeyToggleHint: 'Aufgaben ID and mehr anzeigen',
   mKeyCopyHint: "Ausgewählte Aufgabe kopieren",

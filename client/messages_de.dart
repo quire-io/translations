@@ -448,6 +448,8 @@ const deClient = const <String, String> {
   mNOTaskFoundDesc: "Versuchen Sie es mit einem anderen Suchbegriff oder <a class=[=clz]>setzen Sie die Filter zurück</a>.",
   "UDS$udtComplete": "Erledigte [=task]",
   "UDP$udtComplete": "Erledigte [=task] und andere",
+  "UDS$udtReopen": "Reopened [=task]",
+  "UDP$udtReopen": "Reopened [=task] and others",
   "UDS$udtState": "Edited the status of [=task]",
   "UDP$udtState": "Edited the status of [=task] and others",
   "UDS$udtMove": "Verschob [=task]",
