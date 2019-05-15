@@ -52,6 +52,7 @@ const deWeb = const <String, String> {
   mFeaturesMigrationSectionDesc: "Migration zu Quire in 3 einfachen Schritten!",
   mFeaturesMigrationAsanaButton: "Wechseln von Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",
+  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
   mFeaturesMigrationOthersButton: "Wechseln von Anderen",
   mFeatureHierarchyTitle: "Verschachtelte Aufgabenliste",
   mFeatureHierarchyDesc: "Zerlegen Sie große Projekte in überschaubare Schritte und Unteraufgaben.",

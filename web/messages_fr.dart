@@ -56,6 +56,7 @@ const frWeb = const <String, String> {
   mFeaturesMigrationSectionDesc: "3 étapes simples pour une migration vers Quire sans douleur !",
   mFeaturesMigrationAsanaButton: "Migrer depuis Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",
+  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
   mFeaturesMigrationOthersButton: "Migrer depuis d'autres plateformes",
   mFeatureHierarchyTitle: "Liste de Tâches Imbriquées",
   mFeatureHierarchyDesc: "Abordez les grands projets en les décomposant en petites étapes, plus gérables.",

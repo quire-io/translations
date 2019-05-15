@@ -56,6 +56,7 @@ const ptWeb = const <String, String> {
   mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
   mFeaturesMigrationAsanaButton: "Migrate from Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",
+  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
   mFeaturesMigrationOthersButton: "Migrate from Others",
   mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos maleáveis.",

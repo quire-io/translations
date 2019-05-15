@@ -66,6 +66,7 @@ const enWeb = const <String, String> {
 
   mFeaturesMigrationAsanaButton: "Migrate from Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",
+  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
   mFeaturesMigrationOthersButton: "Migrate from Others",
 
   mFeatureHierarchyTitle: "Nested Task List",
