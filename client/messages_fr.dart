@@ -27,6 +27,7 @@ const frClient = const <String, String> {
     "You do not have permission to perform this action.<br/>"
     'Please contact your Admin.',
   mNotFound: "Sorry, we cannot find what you are looking for.",
+  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Sorry, your session has timed out. Please try logging in again.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",

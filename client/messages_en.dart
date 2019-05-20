@@ -28,6 +28,8 @@ const enClient = const <String, String> {
     'Please contact your Admin.',
   mNotFound:
     "Sorry, we cannot find what you are looking for.",
+  mTooLarge:
+    "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout:
     "Sorry, your session has timed out. Please try logging in again.",
   mAddProjectWithoutOrg:

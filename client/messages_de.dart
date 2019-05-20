@@ -27,6 +27,7 @@ const deClient = const <String, String> {
     "Sie sind nicht berechtigt, diese Aktion auszuführen.<br/>"
     'Bitte kontaktieren Sie Ihren Administrator.',
   mNotFound: "Sorry, das konnten wir nicht finden.",
+  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Sorry, Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",

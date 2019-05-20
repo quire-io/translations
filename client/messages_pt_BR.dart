@@ -27,6 +27,7 @@ const ptBrClient = const <String, String> {
     "Você não tem permissão para realizar esta ação.<br/>"
     'Por favor, entre em contato com seu administrador.',
   mNotFound: "Desculpe, não encontramos o que você está procurando.",
+  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Desculpe, sua sessão expirou. Por favor, tente fazer o login novamente.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",

@@ -27,6 +27,7 @@ const ptClient = const <String, String> {
     "Não tem permissão para realizar esta ação.<br/>"
     'Por favor, entre em contacto com o seu administrador.',
   mNotFound: "Desculpe, não encontramos o que está a procurar.",
+  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Desculpe, a sua sessão expirou. Por favor, tente iniciar sessão novamente.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
