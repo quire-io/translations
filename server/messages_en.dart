@@ -389,7 +389,9 @@ receive activity updates. To change how often you want to receive them, <a href=
 '''
 <p>Hi [=name],</p>
 
-<p>Please visit the following link within the next 12 hours to verify your new email address:</p>
+<p>You have recently updated a new email address for your Quire account.</p>
+
+<p>Please click the below link within the next 12 hours to verify your new email address:</p>
 
 <p style="margin-left:30px">[=link]</p>
 

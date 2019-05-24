@@ -110,9 +110,9 @@ const enClient = const <String, String> {
   mCantSetBoard:
     "You do not have permission to set board to [=task].",
   mCantDeleteCompletedState:
-    "You cannot remove the default Completed status.",
+    "You cannot remove the default Completed column.",
   mCantDeleteNonemptyState:
-    "You cannot remove a status with tasks in it.",
+    "You cannot remove a column that contains existing tasks.",
 
   mCantSetAssigneeInName:
     "You do not have the permission to set assignee.",
@@ -426,8 +426,8 @@ const enClient = const <String, String> {
   mAddTaskNameHere: "Add task name here",
   mAddBoard: "Add board",
   mEditBoard: "Edit Board",
-  mAddStatus: "Add status",
-  mEditStatus: "Edit Status",
+  mAddStatus: "Add column",
+  mEditStatus: "Edit column",
 
   mAddDesc: "Add description",
   mEditDesc: "Edit",
@@ -702,9 +702,9 @@ const enClient = const <String, String> {
   mMenuBoardAddTask: "Create new tasks",
   mMenuBoardAddTaskExist: "Add existing tasks",
   mMenuEditBoard: "Edit board",
-  mMenuBoardEditStatus: "Edit status",
-  mMenuBoardHideStatus: "Hide status",
-  mMenuBoardRemoveStatus: "Remove <strong>[=status]</strong> from <strong>[=board]</strong>",
+  mMenuBoardEditStatus: "Edit column",
+  mMenuBoardHideStatus: "Hide column",
+  mMenuBoardRemoveStatus: "Delete column",
 
   mMenuTaskCardEditCover: "Edit cover",
   mMenuTaskCardRemoveCover: "Remove cover",
@@ -1028,15 +1028,15 @@ const enClient = const <String, String> {
   mConfirmAddTaskToBoardTitle: 'Status Change',
   mConfirmAddTaskToBoardContent:
     "The task you selected [=task] has a different status. "
-    "Are you sure you want to move the task to this status?",
+    "Are you sure you want to move the tasks to this column?",
   mConfirmAddTaskToBoardContentPlural:
     "The tasks you selected [=task] and [=count] more have a different status. "
-    "Are you sure you want to move the tasks to this status?",
+    "Are you sure you want to move the tasks to this column?",
 
   mCreateStatusContent: 
-    'You need to set a progress and color for the new status.',
+    'You need to set a progress and color for the new column.',
   mEditStatusContent: 
-    'You can edit the status name and its progress and color.',
+    'You can edit the name, color and progress of this column.',
 
 
   mApiRightEditTask: "Edit tasks in the projects",
