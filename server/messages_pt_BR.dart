@@ -37,6 +37,8 @@ const ptBrServer = const <String, String> {
   mLanguage: "Idioma",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'First day of week',
+  m24hourTime: 'Time',
+  m24hourTimeDesc: 'Enable 24-Hour time',
   mAllow: "Permitir",
   mDeny: "Negar",
   mConfirmPassword: "Confirme sua senha",

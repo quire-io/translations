@@ -38,6 +38,8 @@ const enServer = const <String, String> {
   mLanguage: "Language",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'First day of week',
+  m24hourTime: 'Time',
+  m24hourTimeDesc: 'Enable 24-Hour time',
   mAllow: "Allow",
   mDeny: "Deny",
 

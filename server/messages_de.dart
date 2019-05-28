@@ -37,6 +37,8 @@ const deServer = const <String, String> {
   mLanguage: "Sprache",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'Erster Tag der Woche',
+  m24hourTime: 'Time',
+  m24hourTimeDesc: 'Enable 24-Hour time',
   mAllow: "Zulassen",
   mDeny: "Verweigern",
   mConfirmPassword: "Passwort bestätigen",
