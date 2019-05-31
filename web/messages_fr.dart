@@ -61,7 +61,7 @@ const frWeb = const <String, String> {
   mFeatureHierarchyTitle: "Liste de Tâches Imbriquées",
   mFeatureHierarchyDesc: "Abordez les grands projets en les décomposant en petites étapes, plus gérables.",
   mFeatureBoardTitle: "Tableau Kanban",
-  mFeatureBoardDesc: "Visualisez votre travail pour mieux gérer et vous concentrer sur vos tâches.",
+  mFeatureBoardDesc: "Visualisez votre travail pour mieux vous concentrer et gérer vos tâches.",
   mFeatureMytasksTitle: "Mes Tâches en un Coup d'Œil",
   mFeatureMytasksDesc: "Restez au courant des tâches qui vous ont été attribuées à travers tous les projets.",
   mFeatureSmartFolderTitle: "Dossiers Intelligents",
@@ -147,10 +147,10 @@ const frWeb = const <String, String> {
   mMobileWelcomeP1Title1: "Bienvenue sur ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Saisissez tout",
-  mMobileWelcomeP3Title: "Streamline your workflow",
+  mMobileWelcomeP3Title: "Organisez votre travail",
   mMobileWelcomeP4Title: "Rentrez dans l'action",
   mMobileWelcomeP1Desc: "Dépliez vos idées.",
   mMobileWelcomeP2Desc: "Décomposez vos idées en mots et photos.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
+  mMobileWelcomeP3Desc: "Concentrez-vous sur les tâches sélectionnées avec le tableau Kanban.",
+  mMobileWelcomeP4Desc: "Ajoutez des attributions, des étiquettes, des échéances, etc., pour commencer votre projet."
 };
