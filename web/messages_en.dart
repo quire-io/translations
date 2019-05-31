@@ -199,14 +199,12 @@ const enWeb = const <String, String> {
 
   mMobileWelcomeP1Title1: "Welcome to ",
   mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "Capture everything",
-  mMobileWelcomeP3Title: "From start to finish",
+  mMobileWelcomeP2Title: "From start to finish",
+  mMobileWelcomeP3Title: "Streamline your workflow",
   mMobileWelcomeP4Title: "Get in action",
-  mMobileWelcomeP5Title: "Within reach",
   mMobileWelcomeP1Desc: "Unfold your ideas.",
-  mMobileWelcomeP2Desc: "Snap your ideas into words or photos.",
-  mMobileWelcomeP3Desc: "Swipe left or right to complete, delete or add a task.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, attachments, comments, etc. to your plan.",
-  mMobileWelcomeP5Desc: "Keep your team close to you anywhere you go.",
+  mMobileWelcomeP2Desc: "Swipe left or right to complete, delete or add a task.",
+  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
+  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project.",
 
 };

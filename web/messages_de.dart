@@ -142,13 +142,11 @@ const deWeb = const <String, String> {
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "Alles festhalten",
-  mMobileWelcomeP3Title: "Von Anfang bis Ende",
+  mMobileWelcomeP2Title: "Von Anfang bis Ende",
+  mMobileWelcomeP3Title: "Streamline your workflow",
   mMobileWelcomeP4Title: "Loslegen",
-  mMobileWelcomeP5Title: "In Reichweite",
   mMobileWelcomeP1Desc: "Entfalten Sie Ihre Ideen.",
-  mMobileWelcomeP2Desc: "Halten Sie Ideen in Wörtern und Bildern fest.",
-  mMobileWelcomeP3Desc: "Wischen sie links oder rechts um Aufgaben zu erledigen, löschen oder hinzuzufügen.",
-  mMobileWelcomeP4Desc: "Fügen Sie Beauftragte, Tags, Anhänge, Kommentare etc. Ihrem Plan hinzu.",
-  mMobileWelcomeP5Desc: "Bleiben Sie überall mit Ihrem Team in Kontakt."
+  mMobileWelcomeP2Desc: "Wischen sie links oder rechts um Aufgaben zu erledigen, löschen oder hinzuzufügen.",
+  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
+  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
 };

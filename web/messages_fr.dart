@@ -147,12 +147,10 @@ const frWeb = const <String, String> {
   mMobileWelcomeP1Title1: "Bienvenue sur ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Saisissez tout",
-  mMobileWelcomeP3Title: "Du début à la fin",
+  mMobileWelcomeP3Title: "Streamline your workflow",
   mMobileWelcomeP4Title: "Rentrez dans l'action",
-  mMobileWelcomeP5Title: "À portée de main",
   mMobileWelcomeP1Desc: "Dépliez vos idées.",
   mMobileWelcomeP2Desc: "Décomposez vos idées en mots et photos.",
-  mMobileWelcomeP3Desc: "Glissez vers la gauche ou vers la droite pour compléter, supprimer ou ajouter une tâche.",
-  mMobileWelcomeP4Desc: "Ajoutez des membres, des étiquettes, des pièces jointes, des commentaires… à votre projet.",
-  mMobileWelcomeP5Desc: "Gardez votre équipe près de vous, partout où vous allez."
+  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
+  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
 };
