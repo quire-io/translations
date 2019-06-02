@@ -147,10 +147,10 @@ const ptWeb = const <String, String> {
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",
-  mMobileWelcomeP3Title: "Streamline your workflow",
+  mMobileWelcomeP3Title: "Simplifique o seu fluxo de trabalho",
   mMobileWelcomeP4Title: "Entre em ação",
   mMobileWelcomeP1Desc: "Desenrole as suas ideias.",
   mMobileWelcomeP2Desc: "Capture as suas ideias em palavras ou fotos.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
+  mMobileWelcomeP3Desc: "Foque-se em tarefas selecionadas com o quadro Kanban.",
+  mMobileWelcomeP4Desc: "Adicione colaboradores,tags, datas de conclusão, etc., para arrancar com o seu projeto."
 };
