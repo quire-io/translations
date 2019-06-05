@@ -1007,6 +1007,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileDetailProjectDescEdit: "Edit Project Info",
   mMobileDetailTasksStatus: "Tasks Status",
   mMobileDetailActivityLog: "Activity Log",
+  mMobileDetailReferralLog: "Referral Log",
   mMobileShareTaskLink: "Share Link",
   mMobileDueInvalidTitle: "Invalid Date",
   mMobileDueInvalidDesc: "Your start date must be earlier than due date.",

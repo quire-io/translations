@@ -1011,6 +1011,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileDetailProjectDescEdit: "Projektinfo bearbeiten",
   mMobileDetailTasksStatus: "Aufgabenstatus",
   mMobileDetailActivityLog: "Aktivitätsprotokoll",
+  mMobileDetailReferralLog: "Referral Log",
   mMobileShareTaskLink: "Freigabe-Link",
   mMobileDueInvalidTitle: "Ungültiges Datum",
   mMobileDueInvalidDesc: "Das Startdatum muss vor dem Fälligkeitsdatum liegen.",

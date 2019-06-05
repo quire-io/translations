@@ -1008,6 +1008,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileDetailProjectDescEdit: "Editar Informação do Projeto",
   mMobileDetailTasksStatus: "Estados das Tarefas",
   mMobileDetailActivityLog: "Registro de Atividade",
+  mMobileDetailReferralLog: "Referral Log",
   mMobileShareTaskLink: "Link de Compartilhamento",
   mMobileDueInvalidTitle: "Data Inválida",
   mMobileDueInvalidDesc: "Sua data de início deve ser anterior à data de conclusão.",
