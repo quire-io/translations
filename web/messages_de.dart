@@ -143,10 +143,10 @@ const deWeb = const <String, String> {
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Von Anfang bis Ende",
-  mMobileWelcomeP3Title: "Streamline your workflow",
+  mMobileWelcomeP3Title: "Optimieren Sie Ihren Workflow",
   mMobileWelcomeP4Title: "Loslegen",
   mMobileWelcomeP1Desc: "Entfalten Sie Ihre Ideen.",
   mMobileWelcomeP2Desc: "Wischen sie links oder rechts um Aufgaben zu erledigen, löschen oder hinzuzufügen.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
+  mMobileWelcomeP3Desc: "Konzentrieren Sie sich mit Kanban Boards auf ausgewählte Aufgaben.",
+  mMobileWelcomeP4Desc: "Fügen Sie Bearbeiter, Tags, Fälligkeitstermine usw. hinzu, um mit Ihrem Projekt zu beginnen."
 };

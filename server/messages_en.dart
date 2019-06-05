@@ -110,6 +110,8 @@ const enServer = const <String, String> {
   mDownloadMobileAppToStartWith: 
     '[=who] has invited you to collaborate on their project.<br/>'
     'Download Quire to get started!',
+  mCompleteSingupWithApp: 
+    'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>',
 
   mBrowserNotSupported: 
     "Sorry, your browser is out of date. Please upgrade it to the latest version.",

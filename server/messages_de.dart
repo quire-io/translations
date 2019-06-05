@@ -98,6 +98,7 @@ const deServer = const <String, String> {
   mDownloadMobileAppToStartWith:
     '[=who] hat Sie eingeladen, an ihrem Projekt mitzuarbeiten.<br/>'
     'Laden Sie Quire herunter, um loszulegen!',
+  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>',
   mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
   mMobileBrowserNotSupported:
     'Wir unterstützen keine mobilen Browser mit kleinem Bildschirm mehr. '
