@@ -98,7 +98,7 @@ const ptBrServer = const <String, String> {
   mDownloadMobileAppToStartWith:
     '[=who] convidou você a colaborar em seu projeto.<br/>'
     'Baixe o Quire para iniciar!',
-  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>',
+  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>.',
   mBrowserNotSupported: "Desculpe, seu navegador está desatualizado. Atualize-o para a versão mais recente.",
   mMobileBrowserNotSupported:
     'We no longer support mobile browser with small display screen. '
