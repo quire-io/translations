@@ -11,7 +11,7 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
-const jpServer = const <String, String> {
+const jaServer = const <String, String> {
   mSubmit: "Submit",
 
   mProjectLC: "project",

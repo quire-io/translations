@@ -14,7 +14,7 @@ part of server.intl.messages_all;
  * If not found or null, an empty string is replaced.
  */
 
-const jpClient = const <String, String> {
+const jaClient = const <String, String> {
   mInternalError:
     'Sorry, we encountered an unexpected error. '
     "We will look into it, but "

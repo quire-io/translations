@@ -14,7 +14,7 @@ part of server.intl.messages_all;
  * names that will be retrieved from the map given at run time.
  */
 
-const jpWeb = const <String, String> {
+const jaWeb = const <String, String> {
   mSlogan: 'Unfold Your Ideas',
   mSloganSentence: 'Unfold your ideas',
   mSloganSubtitle:
