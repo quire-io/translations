@@ -98,7 +98,7 @@ const deServer = const <String, String> {
   mDownloadMobileAppToStartWith:
     '[=who] hat Sie eingeladen, an ihrem Projekt mitzuarbeiten.<br/>'
     'Laden Sie Quire herunter, um loszulegen!',
-  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>.',
+  mCompleteSingupWithApp: 'Schließen Sie die Registrierung in der Quire App ab<br>oder <a href="[=url]">Laden Sie zuerst die Quire App herunter</a>.',
   mBrowserNotSupported: "Sorry, Ihr Browser ist veraltet und wird nicht mehr unterstützt. Bitte aktualisieren Sie Ihren Browser.",
   mMobileBrowserNotSupported:
     'Wir unterstützen keine mobilen Browser mit kleinem Bildschirm mehr. '
@@ -1011,7 +1011,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileDetailProjectDescEdit: "Projektinfo bearbeiten",
   mMobileDetailTasksStatus: "Aufgabenstatus",
   mMobileDetailActivityLog: "Aktivitätsprotokoll",
-  mMobileDetailReferralLog: "Referral Log",
+  mMobileDetailReferralLog: "Verweisprotokoll",
   mMobileShareTaskLink: "Freigabe-Link",
   mMobileDueInvalidTitle: "Ungültiges Datum",
   mMobileDueInvalidDesc: "Das Startdatum muss vor dem Fälligkeitsdatum liegen.",
