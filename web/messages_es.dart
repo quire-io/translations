@@ -24,7 +24,7 @@ const enWeb = const <String, String> {
 
   mHomeSectionDreamsTitle: "Haz Realidad Tus Sueños",
   mHomeSectionDreamsDesc:
-    "“There’s no path before me, <br> "
+    "“There’s no path before me, <br>"
     "and a track will be created behind me.” <br>"
     "- Takamura Kotaro",
 
