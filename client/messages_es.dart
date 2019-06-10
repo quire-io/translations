@@ -610,6 +610,7 @@ const esClient = const <String, String> {
   mSettingOptionCommentNewAtTop: "Newest at top",
   mSettingOptionCommentOldAtTop: "Oldest at top",
   mSettingOptionUnarchiveTask: "Reshow tasks",
+  mSettingOptionUnarchiveTaskDesc: "Peekaboo tasks that are not completed will be shown again automatically on the list after the selected time.",
   mSettingOptionUnarchiveTaskNever: "Never",
   mSettingOptionUnarchiveTaskNDays: "[=days] days later",
   mSettingOptionStart: "Start date",
