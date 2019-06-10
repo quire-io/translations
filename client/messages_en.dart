@@ -308,7 +308,7 @@ const enClient = const <String, String> {
   
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 
-  mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress",
+  mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
   mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name",
 
@@ -326,6 +326,8 @@ const enClient = const <String, String> {
   mProjectISPublic: "This project is public",
 
   mDeleteTask: "Delete this task ([=ctrlCommand]+DEL)",
+  mArchiveTask: "Peekaboo this task",
+  mUnarchiveTask: "Reshow this task",
   mDuplicateTask: "Duplicate this task",
   mTransferTask: "Transfer this task",
   mMergeTask: "Merge this task",
@@ -353,6 +355,8 @@ const enClient = const <String, String> {
   mTreeMenuCutTask: "Cut ([=ctrlCommand]+X)",
   mTreeMenuCopyTask: "Copy ([=ctrlCommand]+C)",
   mTreeMenuPasteTask: "Paste ([=ctrlCommand]+V)",
+  mTreeMenuArchive: "Peekaboo",
+  mTreeMenuUnarchive: "Reshow",
 
   // batch
   mTreeBatchCompleteTooltip: "Complete",
@@ -397,6 +401,7 @@ const enClient = const <String, String> {
   mFilterAll: "All Tasks",
   mFilterCompleted: "Completed Tasks",
   mFilterMyTasks: "My Tasks",
+  mFilterArchiveTasks: "Peekaboo Tasks",
 
   mEditFilter: "Save New Filter",
   mFilterName: "Filter name",
@@ -755,6 +760,10 @@ const enClient = const <String, String> {
   mSettingOptionComment: "Comment",
   mSettingOptionCommentNewAtTop: "Newest at top",
   mSettingOptionCommentOldAtTop: "Oldest at top",
+
+  mSettingOptionUnarchiveTask: "Reshow tasks",
+  mSettingOptionUnarchiveTaskNever: "Never",
+  mSettingOptionUnarchiveTaskNDays: "[=days] days later",
 
   mSettingOptionStart: "Start date",
   mSettingOptionStartDesc: "Always show start date when you set date",
