@@ -142,7 +142,7 @@ const esWeb = const <String, String> {
     "<p>Al menos hasta el segundo semestre de 2019.</p>"
     "<p>En otras palabras: de momento, puedes disfrutar de una cuenta de Quire gratuita, con hasta 35 organizaciones, 80 proyectos y 30 miembros.</p>"
     "<p>Y la buena noticia es que todas las funciones que ya utilizas seguirán estando disponibles de forma gratuita.</p>"
-    '<p>¿Tienes alguna pregunta? No dudes eb <a href="mailto:support@quire.io">contactar con nosotros.</a></p>',
+    '<p>¿Tienes alguna pregunta? No dudes en <a href="mailto:support@quire.io">contactar con nosotros.</a></p>',
   mCookieGDPRDesc: "Utilizamos cookies para asegurarnos de que te proporcionamos la mejor experiencia posible en nuestro sitio web.",
   mMobileWelcomeP1Title1: "Bienvenido a ",
   mMobileWelcomeP1Title2: "Quire",
