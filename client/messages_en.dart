@@ -239,6 +239,7 @@ const enClient = const <String, String> {
   mDeferredByAt: "Deferred by [=who], [=when]",
   mWorkedByAt: "Worked on by [=who], [=when]",
   mPinnedByAt: "Pinned by [=who], [=when]",
+  mArchivedByAt: "Peekaboo by [=who], [=when]",
 
   mSetAsPrimary: "Set as primary",
 
@@ -914,6 +915,7 @@ const enClient = const <String, String> {
     "Add people associated with the tasks to that project",
   mTransferTaskIncTag:
     "Add the tags of the tasks to that project",
+  mTransferTaskUndoArchive: "Undo all peekaboo tasks",
   mLoadProjectsFailed: "You do not have the permission to transfer tasks to another project.",
   
   mMergeTaskTitle: "Merge Task",
@@ -1125,6 +1127,8 @@ const enClient = const <String, String> {
   mTipCheckTutorial:
     "Not sure how to get started? "
     'Check out our <a href="/tutorial">Tutorial</a>!',
+  mTipReopenArchive: 'Active tasks will be shown again automatically after [=n] days.',
+  mTipFilterForArchived: 'You can click Peekaboo Tasks to see the tasks you just peekaboo.',
 
   // views
   mProfileViewTooltip: "Overview",

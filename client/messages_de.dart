@@ -189,6 +189,7 @@ const deClient = const <String, String> {
   mDeferredByAt: "Zurückgestellt von [=who], [=when]",
   mWorkedByAt: "Bearbeitet von [=who], [=when]",
   mPinnedByAt: "Gemerkt von [=who], [=when]",
+  mArchivedByAt: "Peekaboo by [=who], [=when]",
   mSetAsPrimary: "Als primäre E-Mail-Adresse festlegen",
   mReferredTaskAmount: '[=n] Aufgaben verweisen auf diese Aufgabe',
   mReferrers: 'Verweise',
@@ -705,6 +706,7 @@ const deClient = const <String, String> {
   mTransferTaskCPTask: "Eine Kopie übertragen und diese Aufgabe im aktuellen Projekt behalten",
   mTransferTaskIncUser: "Personen, die mit diesen Aufgaben verknüpft sind, zu diesem Projekt hinzufügen",
   mTransferTaskIncTag: "Tags dieser Aufgaben zu diesem Projekt hinzufügen",
+  mTransferTaskUndoArchive: "Undo all peekaboo tasks",
   mLoadProjectsFailed: "Keine Berechtigung Aufgaben in andere Projekte zu übertragen.",
   mMergeTaskTitle: "Aufgabe zusammenführen",
   mMergeTaskDesc:
@@ -871,6 +873,8 @@ const deClient = const <String, String> {
   mTipCheckTutorial:
     "Sie sind nicht sicher, wie Sie anfangen sollen? "
     'Schauen Sie sich unser <a href="/tutorial">Tutorial</a> an!',
+  mTipReopenArchive: 'Active tasks will be shown again automatically after [=n] days.',
+  mTipFilterForArchived: 'You can click Peekaboo Tasks to see the tasks you just peekaboo.',
   mProfileViewTooltip: "Übersicht",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "Meine Aufgaben",

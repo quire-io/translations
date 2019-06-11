@@ -200,6 +200,7 @@ const ptClient = const <String, String> {
   mDeferredByAt: "Adiado por [=who], [=when]",
   mWorkedByAt: "Trabalhado por [=who], [=when]",
   mPinnedByAt: "Fixado por [=who], [=when]",
+  mArchivedByAt: "Peekaboo by [=who], [=when]",
   mSetAsPrimary: "Definir como primário",
   mReferredTaskAmount: '[=n] tasks referred to this task',
   mReferrers: 'Recomendadores',
@@ -716,6 +717,7 @@ const ptClient = const <String, String> {
   mTransferTaskCPTask: "Transferir uma cópia e manter as tarefas no projeto atual",
   mTransferTaskIncUser: "Adicionar pessoas associadas com as tarefas a esse projeto",
   mTransferTaskIncTag: "Adicionar as tags das tarefas a esse projeto",
+  mTransferTaskUndoArchive: "Undo all peekaboo tasks",
   mLoadProjectsFailed: "Não tem permissão para transferir tarefas para outro projeto.",
   mMergeTaskTitle: "Fundir Tarefa",
   mMergeTaskDesc:
@@ -880,6 +882,8 @@ const ptClient = const <String, String> {
   mTipCheckTutorial:
     "Not sure how to get started? "
     'Check out our <a href="/tutorial">Tutorial</a>!',
+  mTipReopenArchive: 'Active tasks will be shown again automatically after [=n] days.',
+  mTipFilterForArchived: 'You can click Peekaboo Tasks to see the tasks you just peekaboo.',
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "As Minhas Tarefas",
