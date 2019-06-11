@@ -98,7 +98,7 @@ const ptBrServer = const <String, String> {
   mDownloadMobileAppToStartWith:
     '[=who] convidou você a colaborar em seu projeto.<br/>'
     'Baixe o Quire para iniciar!',
-  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>.',
+  mCompleteSingupWithApp: 'Complete o registro no app Quire<br>ou <a href="[=url]">Baixe primeiro a app Quire</a>.',
   mBrowserNotSupported: "Desculpe, seu navegador está desatualizado. Atualize-o para a versão mais recente.",
   mMobileBrowserNotSupported:
     'We no longer support mobile browser with small display screen. '
@@ -1008,7 +1008,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileDetailProjectDescEdit: "Editar Informação do Projeto",
   mMobileDetailTasksStatus: "Estados das Tarefas",
   mMobileDetailActivityLog: "Registro de Atividade",
-  mMobileDetailReferralLog: "Referral Log",
+  mMobileDetailReferralLog: "Registro de Referência",
   mMobileShareTaskLink: "Link de Compartilhamento",
   mMobileDueInvalidTitle: "Data Inválida",
   mMobileDueInvalidDesc: "Sua data de início deve ser anterior à data de conclusão.",
