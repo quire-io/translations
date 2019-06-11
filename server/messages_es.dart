@@ -821,78 +821,78 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mSlackSimpleHelpTitle: 'Aquí tienes algunos comandos para empezar.',
   mSlackSimpleHelpAdd: 'Añade una tarea, y asígnala a miembros del equipo',
   mSlackSimpleHelpAddExample:
-    '`/quire add [task name] [@team member name] [@team member name]`\n'
-    'Example: `/quire add Design new logo @eric @jess`',
+    '`/quire add [nombre de tarea] [@nombre del miembro del equipo] [@nombre del miembro del equipo]`\n'
+    'Ejemplo: `/quire add Diseño de nuevo logo @pablo @sara`',
   mSlackSimpleHelpComment: 'Añade un comentario a una tarea',
   mSlackSimpleHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
+    '`/quire comment [ID de tarea] comment`\n'
+    'Ejemplo: `/quire comment 123 Qué buena pinta tiene esto`',
   mSlackSimpleHelpFollow: 'Sigue una tarea o proyecto',
   mSlackSimpleHelpFollowExample:
-    '`/quire follow [task ID or project ID]`\n'
-    'Example: `/quire follow 123`\n'
-    'Example: `/quire follow Development_Project`',
-  mSlackSimpleHelpMore: 'Hay más comandos disponibles aquí `/quire help`.',
+    '`/quire follow [ID de tarea o ID de proyecto]`\n'
+    'Ejemplo: `/quire follow 123`\n'
+    'Ejemplo: `/quire follow Proyecto_Desarrollo`',
+  mSlackSimpleHelpMore: 'Puedes ver más comandos disponibles aquí `/quire help`.',
   mSlackHelpAdd: 'Añadir una tarea',
   mSlackHelpAddExample:
-    '`/quire add [task name]`\n'
-    '`/quire add [under or after] [parent or sibling id] [task name]`\n'
-    'Example: `/quire add Design new logo @eric @jess\n'
-    'Example: `/quire add under 10 Logo',
+    '`/quire add [nombre de tarea]`\n'
+    '`/quire add [antes o después] [ID de tarea principal o secundaria] [nombre de tarea]`\n'
+    'Ejemplo: `/quire add Diseño nuevo logo @pablo @sara\n'
+    'Ejemplo: `/quire add Logo bajo 10',
   mSlackHelpLink: 'Vincular un proyecto de Quire a este canal de Slack',
   mSlackHelpLinkExample:
-    '`/quire link [project ID or project URL]`\n'
-    'Example: `/quire link Development_Project`\n'
-    'Example: `/quire link https://quire.io/w/development_project`',
+    '`/quire link [ID de proyecto o URL de proyecto]`\n'
+    'Ejemplo: `/quire link Proyecto_Desarrollo`\n'
+    'Ejemplo: `/quire link https://quire.io/w/proyecto_desarrollo`',
   mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
   mSlackHelpUnLinkExample: '`/quire unlink`',
   mSlackHelpListProject: 'Listar todos los proyectos',
   mSlackHelpListProjectExample: '`/quire list project`',
   mSlackHelpSearchProject: 'Buscar proyectos',
   mSlackHelpSearchProjectExample:
-    '`/quire list project [keyword 1] [keyword 2]`\n'
-    'Example: `/quire list project Development Marketing`',
+    '`/quire list project [palabra clave 1] [palabra clave 2]`\n'
+    'Ejemplo: `/quire list project Desarrollo de Marketing`',
   mSlackHelpListTask: 'Listar tareas recientes',
   mSlackHelpListTaskExample: '`/quire list`',
   mSlackHelpSearchTask: 'Buscar tareas',
   mSlackHelpSearchTaskExample: '`/quire list [keyword 1] [keyword 2]`',
   mSlackHelpViewTask: 'Ver tareas específicas',
   mSlackHelpViewTaskExample:
-    '`/quire list [task ID 1] [task ID 2]`\n'
-    'Example: `/quire list 123 456`',
+    '`/quire list [ID de tarea 1] [ID de tarea 2]`\n'
+    'Ejemplo: `/quire list 123 456`',
   mSlackHelpListTag: 'Listar etiquetas',
   mSlackHelpListTagExample: '`/quire list tag`',
   mSlackHelpListMember: 'Listar miembros',
   mSlackHelpListMemberExample: '`/quire list member`',
   mSlackHelpEdit: 'Editar una tarea',
   mSlackHelpEditExample:
-    '`/quire edit [task ID] name`\n'
-    'Example: `/quire edit 123 Design new logo !1 @david`',
+    '`/quire edit [ID de tarea] name`\n'
+    'Ejemplo: `/quire edit 123 Diseñar nuevo logo !1 @david`',
   mSlackHelpAssign: 'Asignar una tarea',
   mSlackHelpAssignExample:
     '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
-    'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
-    'Example: `/quire assign 123 +@david -@jess +#marketing`',
+    'Ejemplo: `/quire assign 123 @carlos @sonia #design !1 <Oct 25>`\n'
+    'Ejemplo: `/quire assign 123 +@lara -@gonzalo +#marketing`',
   mSlackHelpComment: 'Comentar una tarea',
   mSlackHelpCommentExample:
     '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
+    'Ejemplo: `/quire comment 123 Espectacular!`',
   mSlackHelpComplete: 'Completar tareas',
   mSlackHelpCompleteExample:
-    '`/quire complete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire complete 123 456`',
+    '`/quire complete [ID de tarea 1] [ID de tarea 2]`\n'
+    'Ejemplo: `/quire complete 123 456`',
   mSlackHelpDelete: 'Eliminar tareas',
   mSlackHelpDeleteExample:
-    '`/quire delete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire delete 123 456`',
+    '`/quire delete [ID de tarea 1] [ID de tarea 2]`\n'
+    'Ejemplo: `/quire delete 123 456`',
   mSlackHelpFollowTask: 'Seguir o dejar de seguir tareas',
   mSlackHelpFollowTaskExample:
-    '`/quire [follow or unfollow] [task ID 1] [task ID 2]`\n'
-    'Example: `/quire follow 123 456`',
+    '`/quire [seguir o dejar de seguir] [ID de tarea 1] [ID de tarea 2]`\n'
+    'Ejemplo: `/quire follow 123 456`',
   mSlackHelpFollowProject: 'Seguir o dejar de seguir proyectos',
   mSlackHelpFollowProjectExample:
-    '`/quire [follow or unfollow] project [project ID 1] [project ID 2]`\n'
-    'Example: `/quire follow project Development_Project Marketing_Project`',
+    '`/quire [seguir o dejar de seguir] project [ID de proyecto 1] [ID de proyecto 2]`\n'
+    'Ejemplo: `/quire follow project Proyecto_Desarrollo Proyecto_Marketing`',
   mSlackNeedLinkProject: 'Primero necesitas un enlace a un proyecto de Quire.',
   mSlackCurrentLinkProject: 'Este canal ya está vinculado a [=project].',
   mSlackCurrentLinkProjectSimpleHelp: 'Este canal está vinculado a [=project].',
