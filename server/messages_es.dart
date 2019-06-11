@@ -1,11 +1,14 @@
 //Copyright (C) 2013 Potix Corporation. All Rights Reserved.
-//History: Thu, Aug 22, 2013  2:38:48 PM
+//History: Fri, Aug 23, 2013  7:31:11 PM
+// Author: tomyeh
+
 part of server.intl.messages_all;
 
 /* A message can contain any number of variables, enclosing with `[=` and `]`.
  * For example,
  *
- *     "Hi, [=name]\nWelcome to [=systemName] version [=systemVersion]"
+ *     "Hi, [=name]
+Welcome to [=systemName] version [=systemVersion]"
  *
  * where `name`, `systemName` and `systemVersion` are assumed to be variable
  * names that will be retrieved from the map given at run time.

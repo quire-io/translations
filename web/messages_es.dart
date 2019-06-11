@@ -1,6 +1,7 @@
-//Copyright (C) 2016 Potix Corporation. All Rights Reserved.
-//History: Mon Feb  6 11:56:15 CST 2017
+//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
+//History: Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
+
 part of server.intl.messages_all;
 
 /** The messages used on Web pages.
@@ -8,13 +9,14 @@ part of server.intl.messages_all;
  * A message can contain any number of variables, enclosing with `[=` and `]`.
  * For example,
  *
- *     "Hi, [=name]\nWelcome to [=systemName] version [=systemVersion]"
+ *     "Hi, [=name]
+Welcome to [=systemName] version [=systemVersion]"
  *
  * where `name`, `systemName` and `systemVersion` are assumed to be variable
  * names that will be retrieved from the map given at run time.
  */
 
-const enWeb = const <String, String> {
+const esWeb = const <String, String> {
   mSlogan: 'Despliega Tus Ideas',
   mSloganSentence: 'Despliega tus ideas',
   mSloganSubtitle:
