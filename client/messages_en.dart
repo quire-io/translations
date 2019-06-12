@@ -130,6 +130,7 @@ const enClient = const <String, String> {
   mBlankProject: "(Blank Project)",
   mBlankBoard: "(Default blank)",
   mGotoOrg: "Go to [=org]",
+  mArchivedTask: 'Peekaboo task',
 
   mId: "ID",
   mParent: "Parent",
@@ -711,6 +712,7 @@ const enClient = const <String, String> {
   mMenuBoardEditStatus: "Edit column",
   mMenuBoardHideStatus: "Hide column",
   mMenuBoardRemoveStatus: "Delete column",
+  mMenuBoardArchiveTaskInStatus: "Peekaboo all tasks in this column",
 
   mMenuTaskCardEditCover: "Edit cover",
   mMenuTaskCardRemoveCover: "Remove cover",
