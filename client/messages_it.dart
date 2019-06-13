@@ -78,6 +78,7 @@ const itClient = const <String, String> {
   mCantTransferTask: "You do not have permission to transfer [=task].",
   mCantSetPriority: "You do not have permission to set priority to [=task].",
   mCantSetBoard: "You do not have permission to set board to [=task].",
+  mCantSetArchive: "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState: "You cannot remove the default Completed column.",
   mCantDeleteNonemptyState: "You cannot remove a column that contains existing tasks.",
   mCantSetAssigneeInName: "You do not have the permission to set assignee.",

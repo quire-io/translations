@@ -109,6 +109,8 @@ const enClient = const <String, String> {
     "You do not have permission to set priority to [=task].",
   mCantSetBoard:
     "You do not have permission to set board to [=task].",
+  mCantSetArchive:
+    "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState:
     "You cannot remove the default Completed column.",
   mCantDeleteNonemptyState:

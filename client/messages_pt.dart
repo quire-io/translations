@@ -83,6 +83,7 @@ const ptClient = const <String, String> {
   mCantTransferTask: "Não tem permissão para transferir [=task].",
   mCantSetPriority: "Não tem permissão para definir a prioridade de [=task].",
   mCantSetBoard: "Não tem permissão para configurar o quadro de [=task].",
+  mCantSetArchive: "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState: "You cannot remove the default Completed column.",
   mCantDeleteNonemptyState: "You cannot remove a column that contains existing tasks.",
   mCantSetAssigneeInName: "Não tem permissão para definir o colaborador.",

@@ -78,6 +78,7 @@ const esClient = const <String, String> {
   mCantTransferTask: "No tienes permiso para transferir [=task].",
   mCantSetPriority: "No tienes permiso para establecer la prioridad de [=task].",
   mCantSetBoard: "No tienes permiso para configurar un tablero para [=task].",
+  mCantSetArchive: "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState: "No puedes eliminar la columna predeterminada por defecto.",
   mCantDeleteNonemptyState: "No puedes eliminar una columna que contiene tareas existentes.",
   mCantSetAssigneeInName: "No tienes permiso para establecer un asignado.",

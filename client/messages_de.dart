@@ -72,6 +72,7 @@ const deClient = const <String, String> {
   mCantTransferTask: "Sie haben keine Berechtigung [=task] zu übertragen.",
   mCantSetPriority: "Sie haben keine Berechtigung [=task] zu priorisieren.",
   mCantSetBoard: "Sie sind nicht berechtigt, das Board auf [=task] zu setzen.",
+  mCantSetArchive: "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState: "Sie können die Standardspalte Abgeschlossen nicht entfernen.",
   mCantDeleteNonemptyState: "Sie können keine Spalte entfernen, die Aufgaben enthält.",
   mCantSetAssigneeInName: "Sie haben nicht die Berechtigung, diese Aufgabe einer Person zuzuweisen.",
