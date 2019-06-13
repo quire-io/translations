@@ -503,6 +503,7 @@ const deClient = const <String, String> {
   mSearchTaskHintIncomplete: "Unvollständige Aufgaben durchsuchen",
   mSearchTaskHintAll: "Alle Aufgaben durchsuchen",
   mSearchTaskHintComplete: "Abgeschlossene Aufgaben durchsuchen",
+  mSearchTaskHintArchive: "Search peekaboo tasks",
   mSearchTaskHintAutocomplete: "Sie können auch nach @beauftragter oder #tag suchen",
   autocompleteStyleTitle: "Titel",
   autocompleteStyleRed: "Rot",

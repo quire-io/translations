@@ -514,6 +514,7 @@ const ptBrClient = const <String, String> {
   mSearchTaskHintIncomplete: "Pesquisar tarefas incompletas",
   mSearchTaskHintAll: "Pesquisar todas as tarefas",
   mSearchTaskHintComplete: "Pesquisar tarefas concluídas",
+  mSearchTaskHintArchive: "Search peekaboo tasks",
   mSearchTaskHintAutocomplete: "Você também pode pesquisar por @responsável, #tag ou !prioridade",
   autocompleteStyleTitle: "Título",
   autocompleteStyleRed: "Vermelho",

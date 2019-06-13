@@ -631,6 +631,7 @@ const enClient = const <String, String> {
   mSearchTaskHintIncomplete: "Search incomplete tasks",
   mSearchTaskHintAll: "Search all tasks",
   mSearchTaskHintComplete: "Search completed tasks",
+  mSearchTaskHintArchive: "Search peekaboo tasks",
   mSearchTaskHintAutocomplete: "You can also search by @assignee, #tag or !priority",
 
   //style autocomplete

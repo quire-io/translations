@@ -509,6 +509,7 @@ const esClient = const <String, String> {
   mSearchTaskHintIncomplete: "Buscar tareas incompletas",
   mSearchTaskHintAll: "Buscar en todas las tareas",
   mSearchTaskHintComplete: "Buscar tareas completadas",
+  mSearchTaskHintArchive: "Search peekaboo tasks",
   mSearchTaskHintAutocomplete: "También puedes buscar por @asignado, #etiqueta or !prioridad",
   autocompleteStyleTitle: "Título",
   autocompleteStyleRed: "Rojo",
