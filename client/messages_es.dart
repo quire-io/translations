@@ -463,6 +463,8 @@ const esClient = const <String, String> {
   mNOTaskFoundDesc: "Intenta buscar otra cosa, o <a class=[=clz]>restablece los filtros</a>.",
   "UDS$udtComplete": "Completó [=task]",
   "UDP$udtComplete": "Completó [=task] y otras",
+  "UDS$udtArchive": "Peekaboo [=task]",
+  "UDP$udtArchive": "Peekaboo [=task] and others",
   "UDS$udtReopen": "Reabrió [=task]",
   "UDP$udtReopen": "Reabrió [=task] y otras",
   "UDS$udtState": "Editó el estado de [=task]",
