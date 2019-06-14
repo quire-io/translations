@@ -883,7 +883,7 @@ const esClient = const <String, String> {
   mTipCheckTutorial:
     "¿No estás seguro de cómo empezar? "
     '¡Echa un vistazo a nuestro <a href="/tutorial">Tutorial</a>!',
-  mTipReopenArchive: 'Las tareas activas volverán a mostrarse automáticamente tras [=n] días.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically after [=n] days.',
   mTipFilterForArchived: 'Puedes hacer clic sobre Tareas Archivadas para ver las tareas que has archivado.',
   mProfileViewTooltip: "Visión General",
   mTreeViewTooltip: "Lista",

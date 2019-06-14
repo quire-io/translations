@@ -888,7 +888,7 @@ const ptClient = const <String, String> {
   mTipCheckTutorial:
     "Not sure how to get started? "
     'Check out our <a href="/tutorial">Tutorial</a>!',
-  mTipReopenArchive: 'As tarefas ativas seão novamente mostradas automaticamente depois de [=n] dias.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically after [=n] days.',
   mTipFilterForArchived: 'Pode clicar em Tarefas Escondidas para ver as tarefas que acabou de esconder.',
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "List",

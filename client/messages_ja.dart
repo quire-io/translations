@@ -883,7 +883,7 @@ const jaClient = const <String, String> {
   mTipCheckTutorial:
     "Not sure how to get started? "
     'Check out our <a href="/tutorial">Tutorial</a>!',
-  mTipReopenArchive: 'Active tasks will be shown again automatically after [=n] days.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically after [=n] days.',
   mTipFilterForArchived: 'You can click Peekaboo Tasks to see the tasks you just peekaboo.',
   mProfileViewTooltip: "Overview",
   mTreeViewTooltip: "List",
