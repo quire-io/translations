@@ -610,7 +610,7 @@ const deClient = const <String, String> {
   mSettingOptionComment: "Kommentar",
   mSettingOptionCommentNewAtTop: "Neuste zuerst",
   mSettingOptionCommentOldAtTop: "Älteste zuerst",
-  mSettingOptionUnarchiveTask: "Reshow tasks",
+  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
   mSettingOptionUnarchiveTaskDesc: "Peekaboo tasks that are not completed will be shown again automatically on the list after the selected time.",
   mSettingOptionUnarchiveTaskNever: "Never",
   mSettingOptionUnarchiveTaskNDays: "[=days] days later",

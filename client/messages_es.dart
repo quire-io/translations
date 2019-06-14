@@ -616,7 +616,7 @@ const esClient = const <String, String> {
   mSettingOptionComment: "Comentar",
   mSettingOptionCommentNewAtTop: "Los más nuevos al principio",
   mSettingOptionCommentOldAtTop: "Los más antiguos al principio",
-  mSettingOptionUnarchiveTask: "Volver a mostrar tareas",
+  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
   mSettingOptionUnarchiveTaskDesc: "Las tareas archivadas no completadas se mostrarán de nuevo en la lista automáticamente tras el tiempo seleccionado.",
   mSettingOptionUnarchiveTaskNever: "Nunca",
   mSettingOptionUnarchiveTaskNDays: "[=days] días después",

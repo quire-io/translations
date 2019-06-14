@@ -54,10 +54,10 @@ const enClient = const <String, String> {
     'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
 
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'You can try press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
+    'You can try to press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
     'to clear browser\'s cached images and files, and reload this page.',
   mDeleteBrowserCacheSafari:
-    'You can try press <code>Option+Command+E</code> to empty browser\'s cache, '
+    'You can try to press <code>Option+Command+E</code> to empty browser\'s cache, '
     'and reload this page.',
   mDeleteBrowserCacheEtc:
     'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
@@ -769,7 +769,7 @@ const enClient = const <String, String> {
   mSettingOptionCommentNewAtTop: "Newest at top",
   mSettingOptionCommentOldAtTop: "Oldest at top",
 
-  mSettingOptionUnarchiveTask: "Reshow tasks",
+  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
   mSettingOptionUnarchiveTaskDesc: 
     "Peekaboo tasks that are not completed will be shown again automatically on the list after the selected time.",
   mSettingOptionUnarchiveTaskNever: "Never",

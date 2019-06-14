@@ -621,7 +621,7 @@ const ptBrClient = const <String, String> {
   mSettingOptionComment: "Comentar",
   mSettingOptionCommentNewAtTop: "Mais recentes no topo",
   mSettingOptionCommentOldAtTop: "Mais antigas no topo",
-  mSettingOptionUnarchiveTask: "Apresentar tarefas novamente",
+  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
   mSettingOptionUnarchiveTaskDesc: "Tarefas ocultas que não estão concluídas serão apresentadas de novo na lista automaticamente depois do tempo selecionado.",
   mSettingOptionUnarchiveTaskNever: "Nunca",
   mSettingOptionUnarchiveTaskNDays: "[=days] dias depois",
