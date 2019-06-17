@@ -1,4 +1,4 @@
-//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
+s//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
 //History: Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
 
@@ -581,7 +581,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
     'Aprende más sobre cómo utilizar Quire solo con el teclado '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">aquí</a>.',
   mMarkdownIntro: 'Markdown',
-  mMDHeader3: 'Cabeceras',
+  mMDHeader3: 'Encabezados',
   mMDItalic: 'Cursiva',
   mMDBold: 'Negrita',
   mMDUnderline: 'Subrayado',
@@ -1093,7 +1093,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
     "Estás a punto de archivar este proyecto. "
     "Un proyecto archivado será movido a Archivado en el menú lateral.",
   mMobileSidebarSearchForPrj: "Buscar Proyectos",
-  mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
+  mMobileReadOnlyProfileDesc: "De momento es una vista de solo-lectura. Para recibir actualizaciones y noticias, síguenos en",
   mMobilePermissionDenyCamera: "Necesitas ir a Ajustes y dar permisos de acceso a tu Cámara a Quire.",
   mMobileCrashRefreshTitle: "¡Vaya!",
   mMobileCrashRefreshDesc: "¡Parece que algo ha salido mal! Registramos estos errores automáticamente. Mientras tanto, puedes intentar recargar.",
