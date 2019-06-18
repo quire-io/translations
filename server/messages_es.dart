@@ -1110,6 +1110,6 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileEXTaskCreatedImgMaxDeny1: "Por favor, elige",
   mMobileEXTaskCreatedImgMaxDeny2: "fotos o menos",
   mMobileEXLogin: "Por favor, primero inicia sesión en Quire",
-  mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date"
+  mMobileSelfAssign: "Asignármela a mí",
+  mMobileAddDue: "Añadir fecha de vencimiento"
 };
