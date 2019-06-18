@@ -687,11 +687,11 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atRemoveGlobalTag":
     "[=who] removed the tag [=value] from [=what]",
 
-  "AT$atAddOapp":
+  "AT$atAddOApp":
     "[=who] added an application, [=value], to [=what]",
-  "AT$atRemoveOapp":
+  "AT$atRemoveOApp":
     "[=who] removed an application, [=value], from [=what]",
-  "AT$atEditOapp":
+  "AT$atEditOApp":
     "[=who] edited [=value]",
 
   "AT$atAddShare":
