@@ -473,6 +473,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   "AT$atSetBoard": "[=who] adicionou [=what] a [=value]",
   "AT$atUnsetBoard": "[=who] removeu [=what] de [=value]",
   "AT$atArchiveTask": "[=who] peekaboo [=what]",
+  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
   "AT$atAddProject": "[=who] criou [=what]",
   "AT$atRemoveProject": "[=who] removeu o projeto [=value]",
   "AT$atEditProject": "[=who] editou [=what]",
@@ -684,9 +685,10 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mCompletedAt: "Concluído",
   mSendActivityNotification: "Enviar Notificações de Atividade",
   mActivityNotice: "Notificações de Atividade",
-  mReceiveTipsOutOFQuire: "Receber Dicas sobre Como Tirar Maior Proveito do Quire",
-  mReceiveNewsAboutProduceFeatureUpdates: "Receber Notícias sobre Atualizações do Produto e Recursos",
-  mReceiveQuireResearchSurvey: "Receber Questionário do Quire",
+  mReceiveBlogPosts: "New blog posts",
+  mReceivePolicyUpdates: "Updates about Quire membership and policy",
+  mReceiveFeatureUpdates: "Updates about product and feature release",
+  mReceiveSurvey: "Receive Quire research survey",
   mReminders: "Lembretes de Tarefas",
   mRemindAdvance: "Lembrar Tarefas Futuras",
   m12hrBefore: "12 horas antes",
@@ -1105,5 +1107,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mMobileEXTaskCreated: "A sua tarefa foi adicionada",
   mMobileEXTaskCreatedImgMaxDeny1: "Por favor, escolha",
   mMobileEXTaskCreatedImgMaxDeny2: "fotos ou menos",
-  mMobileEXLogin: "Por favor, primeiro inicie sessão no Quire"
+  mMobileEXLogin: "Por favor, primeiro inicie sessão no Quire",
+  mMobileSelfAssign: "Assign myself",
+  mMobileAddDue: "Add due date"
 };

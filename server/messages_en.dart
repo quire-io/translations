@@ -569,7 +569,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atUndoRemoveTask":
     "[=who] undid the removal of [=what]",
   "AT$atUndoArchiveTask":
-    "[=who] reshow [=what]",
+    "[=who] undid the peekaboo of [=what]",
   "AT$atAddTaskAttachment":
     "[=who] added [=value] to [=what]",
   "AT$atRemoveTaskAttachment":
@@ -608,6 +608,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
     "[=who] removed [=what] from [=value]",
   "AT$atArchiveTask":
     "[=who] peekaboo [=what]",
+  "AT$atUnarchiveTask":
+    "[=who] reshowed [=what]",
 
   "AT$atAddProject":
     "[=who] created [=what]",
@@ -928,9 +930,11 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
 
   mSendActivityNotification: "Send Activity Notifications",
   mActivityNotice: "Activity Notifications",
-  mReceiveTipsOutOFQuire: "Receive Tips on Getting More Out of Quire",
-  mReceiveNewsAboutProduceFeatureUpdates: "Receive News About Product and Feature Updates",
-  mReceiveQuireResearchSurvey: "Receive Quire Research Survey",
+
+  mReceiveBlogPosts: "New blog posts",
+  mReceivePolicyUpdates: "Updates about Quire membership and policy",
+  mReceiveFeatureUpdates: "Updates about product and feature release",
+  mReceiveSurvey: "Receive Quire research survey",
 
   mReminders: "Task Reminders",
   mRemindAdvance: "Remind Upcoming Tasks",
@@ -1441,5 +1445,8 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileEXTaskCreated: "Your task has been added",
   mMobileEXTaskCreatedImgMaxDeny1: "Please choose",
   mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
-  mMobileEXLogin: "Please log in Quire first"
+  mMobileEXLogin: "Please log in Quire first",
+
+  mMobileSelfAssign: "Assign myself",
+  mMobileAddDue: "Add due date",
 };

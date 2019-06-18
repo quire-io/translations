@@ -1,4 +1,4 @@
-s//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
+//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
 //History: Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
 
@@ -474,7 +474,8 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   "AT$atPauseTask": "[=who] aplazó [=what]",
   "AT$atSetBoard": "[=who] añadió [=what] a [=value]",
   "AT$atUnsetBoard": "[=who] eliminó [=what] de [=value]",
-  "AT$atArchiveTask": "[=who] archivó [=what]",
+  "AT$atArchiveTask": "[=who] peekaboo [=what]",
+  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
   "AT$atAddProject": "[=who] creó [=what]",
   "AT$atRemoveProject": "[=who] eliminó el proyecto [=value]",
   "AT$atEditProject": "[=who] editó [=what]",
@@ -686,9 +687,10 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mCompletedAt: "Completada",
   mSendActivityNotification: "Enviar Notificaciones de Actividad",
   mActivityNotice: "Notificaciones de Actividad",
-  mReceiveTipsOutOFQuire: "Recibe Consejos para sacarle el máximo partido a Quire",
-  mReceiveNewsAboutProduceFeatureUpdates: "Reive Noticias sobre Actualizaciones y Novedades del Producto",
-  mReceiveQuireResearchSurvey: "Recibe la Encuesta de Investigación de Quire",
+  mReceiveBlogPosts: "New blog posts",
+  mReceivePolicyUpdates: "Updates about Quire membership and policy",
+  mReceiveFeatureUpdates: "Updates about product and feature release",
+  mReceiveSurvey: "Receive Quire research survey",
   mReminders: "Recordatorios de Tarea",
   mRemindAdvance: "Recordar las Próximas Tareas",
   m12hrBefore: "12 horas antes",
@@ -1107,5 +1109,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileEXTaskCreated: "Tu tarea ha sido añadida",
   mMobileEXTaskCreatedImgMaxDeny1: "Por favor, elige",
   mMobileEXTaskCreatedImgMaxDeny2: "fotos o menos",
-  mMobileEXLogin: "Por favor, primero inicia sesión en Quire"
+  mMobileEXLogin: "Por favor, primero inicia sesión en Quire",
+  mMobileSelfAssign: "Assign myself",
+  mMobileAddDue: "Add due date"
 };

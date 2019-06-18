@@ -473,6 +473,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   "AT$atSetBoard": "[=who] added [=what] to [=value]",
   "AT$atUnsetBoard": "[=who] removed [=what] from [=value]",
   "AT$atArchiveTask": "[=who] peekaboo [=what]",
+  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
   "AT$atAddProject": "[=who] created [=what]",
   "AT$atRemoveProject": "[=who] removed the project [=value]",
   "AT$atEditProject": "[=who] edited [=what]",
@@ -684,9 +685,10 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mCompletedAt: "Completed",
   mSendActivityNotification: "Send Activity Notifications",
   mActivityNotice: "Activity Notifications",
-  mReceiveTipsOutOFQuire: "Receive Tips on Getting More Out of Quire",
-  mReceiveNewsAboutProduceFeatureUpdates: "Receive News About Product and Feature Updates",
-  mReceiveQuireResearchSurvey: "Receive Quire Research Survey",
+  mReceiveBlogPosts: "New blog posts",
+  mReceivePolicyUpdates: "Updates about Quire membership and policy",
+  mReceiveFeatureUpdates: "Updates about product and feature release",
+  mReceiveSurvey: "Receive Quire research survey",
   mReminders: "Task Reminders",
   mRemindAdvance: "Remind Upcoming Tasks",
   m12hrBefore: "12 hrs before",
@@ -1105,5 +1107,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileEXTaskCreated: "Your task has been added",
   mMobileEXTaskCreatedImgMaxDeny1: "Please choose",
   mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
-  mMobileEXLogin: "Please log in Quire first"
+  mMobileEXLogin: "Please log in Quire first",
+  mMobileSelfAssign: "Assign myself",
+  mMobileAddDue: "Add due date"
 };
