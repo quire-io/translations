@@ -92,8 +92,8 @@ const esClient = const <String, String> {
   mRemovedContent: "(eliminado)",
   mBlankProject: "(Proyecto en blanco)",
   mBlankBoard: "(Espacio en blanco por defecto)",
-  mArchivedTask: 'Peekaboo task',
   mGotoOrg: "Ir a [=org]",
+  mArchivedTask: 'Peekaboo task',
   mId: "ID",
   mParent: "Apellidos",
   mName: "Nombre",
@@ -882,7 +882,7 @@ const esClient = const <String, String> {
     "Puedes hacer clic aquí para ver más.",
   mTipCheckTutorial:
     "¿No estás seguro de cómo empezar? "
-    '¡Echa un vistazo a nuestro <a href="/tutorial">Tutorial</a>!',
+    '¡Echa un vistazo a nuestro <a href="/tutorial" target="_blank">Tutorial</a>!',
   mTipReopenArchive: 'Peekaboo tasks will be shown again automatically after [=n] days.',
   mTipFilterForArchived: 'Puedes hacer clic sobre Tareas Archivadas para ver las tareas que has archivado.',
   mProfileViewTooltip: "Visión General",

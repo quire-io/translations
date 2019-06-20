@@ -887,7 +887,7 @@ const ptBrClient = const <String, String> {
     "Você pode clicar aqui para ver mais.",
   mTipCheckTutorial:
     "Not sure how to get started? "
-    'Check out our <a href="/tutorial">Tutorial</a>!',
+    'Check out our <a href="/tutorial" target="_blank">Tutorial</a>!',
   mTipReopenArchive: 'Peekaboo tasks will be shown again automatically after [=n] days.',
   mTipFilterForArchived: 'Você pode clicar em Tarefas Peekaboo para ver as tarefas que acabou de ocultar.',
   mProfileViewTooltip: "Visão Geral",

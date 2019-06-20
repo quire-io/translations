@@ -878,7 +878,7 @@ const deClient = const <String, String> {
     "Sie können hier klicken, um mehr zu sehen.",
   mTipCheckTutorial:
     "Sie sind nicht sicher, wie Sie anfangen sollen? "
-    'Schauen Sie sich unser <a href="/tutorial">Tutorial</a> an!',
+    'Schauen Sie sich unser <a href="/tutorial" target="_blank">Tutorial</a> an!',
   mTipReopenArchive: 'Peekaboo-Aufgaben werden nach [= n] Tagen automatisch wieder angezeigt.',
   mTipFilterForArchived: 'Sie können Peekaboo-Aufgaben anklicken, um die Aufgaben anzuzeigen, die Sie gerade einsehen.',
   mProfileViewTooltip: "Übersicht",

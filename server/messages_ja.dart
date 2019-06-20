@@ -390,8 +390,7 @@ including account-related notifications and task activities.</p>
 <p>The Quire Team</p>
 ''',
   mEmailSubscriberContentHeader: '<p class="hi-row">Hi [=name],</p>',
-  mEmailSubscriberContent:
-'''
+  mEmailSubscriberContent: '''
 [=header]
 
 [=message]
