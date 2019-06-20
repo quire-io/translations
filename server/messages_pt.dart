@@ -387,20 +387,22 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
 
 <p>A Equipa Quire</p>
 ''',
+  mEmailSubscriberContentHeader: '<p class="hi-row">Olá [=name],</p>',
   mEmailSubscriberContent: '''
-<p[=styleHi]>Olá [=name],</p>
+[=header]
 
 [=message]
 
-<p[=styleRegards]>Obrigado,</p>
-
-<p[=styleQuireTeam]>A Equipa Quire</p>
+[=footer]
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Está a receber este email porque
+<p>Está a receber este email porque
 pediu para receber emails sobre atualizações. Para cancelar a subscrição, por favor, <a href="[=unsubscribe]">clique aqui</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Obrigado,</p>'
+    '<p class="end-row-2">A Equipa Quire</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] saiu [=target]",
   mEmailLeaveMemberContent: '''
 <p>Olá [=name],</p>

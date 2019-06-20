@@ -387,20 +387,23 @@ including account-related notifications and task activities.</p>
 
 <p>The Quire Team</p>
 ''',
-  mEmailSubscriberContent: '''
-<p[=styleHi]>Hi [=name],</p>
+  mEmailSubscriberContentHeader: '<p class="hi-row">Hi [=name],</p>',
+  mEmailSubscriberContent:
+'''
+[=header]
 
 [=message]
 
-<p[=styleRegards]>Thanks,</p>
-
-<p[=styleQuireTeam]>The Quire Team</p>
+[=footer]
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">You are receiving this email because you
+<p>You are receiving this email because you 
 requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Thanks,</p>'
+    '<p class="end-row-2">The Quire Team</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
   mEmailLeaveMemberContent: '''
 <p>Hi [=name],</p>

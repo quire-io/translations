@@ -393,20 +393,22 @@ um Ihr Passwort zurückzusetzen:</p>
 
 <p>Ihr Quire Team</p>
 ''',
+  mEmailSubscriberContentHeader: '<p class="hi-row">Hi [=name],</p>',
   mEmailSubscriberContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 [=message]
 
-<p>Mit freundlichen Grüßen,</p>
-
-<p>Ihr Quire Team</p>
+[=footer]
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Sie haben diese Nachricht erhalten, weil Sie 
+<p>Sie haben diese Nachricht erhalten, weil Sie 
 unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser Art wünschen, <a href="[=unsubscribe]">klicken Sie hier</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Mit freundlichen Grüßen,</p>'
+    '<p class="end-row-2">Ihr Quire Team</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] hat [=target] verlassen",
   mEmailLeaveMemberContent: '''
 <p>Hi [=name],</p>
@@ -691,10 +693,10 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mCompletedAt: "Erledigt",
   mSendActivityNotification: "Aktivitätsbenachrichtungen senden",
   mActivityNotice: "Benachrichtigungen",
-  mReceiveBlogPosts: "New blog posts",
-  mReceivePolicyUpdates: "Information about Quire membership and policy",
-  mReceiveFeatureUpdates: "News about product and feature updates",
-  mReceiveSurvey: "Quire research survey",
+  mReceiveBlogPosts: "Neue Blogbeiträge",
+  mReceivePolicyUpdates: "Informationen zu Mitgliedschaft und Richtlinien von Quire",
+  mReceiveFeatureUpdates: "Neuigkeiten zu Produkt- und Featureupdates",
+  mReceiveSurvey: "Quire Umfrage",
   mReminders: "Aufgabenerinnerungen",
   mRemindAdvance: "An bevorstehende Aufgaben erinnern",
   m12hrBefore: "12 Stunden davor",
@@ -1112,6 +1114,6 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileEXTaskCreatedImgMaxDeny1: "Bitte wählen Sie",
   mMobileEXTaskCreatedImgMaxDeny2: "Fotos oder weniger",
   mMobileEXLogin: "Bitte melden Sie sich erst an",
-  mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date"
+  mMobileSelfAssign: "Mir zuweisen",
+  mMobileAddDue: "Fälligkeitsdatum hinzufügen"
 };

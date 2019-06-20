@@ -389,20 +389,22 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
 
 <p>El Equipo de Quire</p>
 ''',
+  mEmailSubscriberContentHeader: '<p class="hi-row">Hola [=name],</p>',
   mEmailSubscriberContent: '''
-<p[=styleHi]>Hola [=name],</p>
+[=header]
 
 [=message]
 
-<p[=styleRegards]>Gracias,</p>
-
-<p[=styleQuireTeam]>El Equipo de Quire</p>
+[=footer]
 
 <hr/>
 
-<p style="font-style:italic;font-size:80%">Has recibido este email ya que
+<p>Has recibido este email ya que
 solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a href="[=unsubscribe]">pulsa aquí</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Gracias,</p>'
+    '<p class="end-row-2">El Equipo de Quire</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] ha abandonado [=target]",
   mEmailLeaveMemberContent: '''
 <p>Hola [=name],</p>

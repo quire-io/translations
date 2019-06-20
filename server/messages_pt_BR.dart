@@ -388,20 +388,22 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 
 <p>A Equipe do Quire</p>
 ''',
+  mEmailSubscriberContentHeader: '<p class="hi-row">Oi [=name],</p>',
   mEmailSubscriberContent: '''
-<p[=styleHi]>Oi [=name],</p>
+[=header]
 
 [=message]
 
-<p[=styleRegards]>Obrigado,</p>
-
-<p[=styleQuireTeam]>A Equipe do Quire</p>
+[=footer]
 
 <hr/>
 
 <p style="font-style:italic;font-size:80%">Você está recebendo este email porque você
 pediu para receber atualizações por email. Para cancelar a subscrição, por favor <a href="[=unsubscribe]">clique aqui</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Obrigado,</p>'
+    '<p class="end-row-2">A Equipe do Quire</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] saiu [=target]",
   mEmailLeaveMemberContent: '''
 <p>Oi [=name],</p>
