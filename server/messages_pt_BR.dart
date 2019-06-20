@@ -456,7 +456,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   "AT$atAddTaskComment": "[=who] comentou [=what][=value]",
   "AT$atUndoComplete": "[=who] desmarcou a conclusão de [=what]",
   "AT$atUndoRemoveTask": "[=who] desmarcou a remoção de [=what]",
-  "AT$atUndoArchiveTask": "[=who] reshow [=what]",
+  "AT$atUndoArchiveTask": "[=who] voltou a apresentar [=what]",
   "AT$atAddTaskAttachment": "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveTaskAttachment": "[=who] removeu [=value] de [=what]",
   "AT$atSetPartner": "[=who] compartilhou [=what] com a equipe externa [=value]",
@@ -688,10 +688,10 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mCompletedAt: "Concluído",
   mSendActivityNotification: "Enviar Notificações de Atividade",
   mActivityNotice: "Notificações de Atividade",
-  mReceiveBlogPosts: "New blog posts",
-  mReceivePolicyUpdates: "Updates about Quire membership and policy",
-  mReceiveFeatureUpdates: "Updates about product and feature release",
-  mReceiveSurvey: "Receive Quire research survey",
+  mReceiveBlogPosts: "Novas postagens de blog",
+  mReceivePolicyUpdates: "Atualizações sobre associação e política do Quire",
+  mReceiveFeatureUpdates: "Atualizações sobre lançamento de produtos e recursos",
+  mReceiveSurvey: "Receber enquete de pesquisa do Quire",
   mReminders: "Lembretes de Tarefas",
   mRemindAdvance: "Lembrar Tarefas Futuras",
   m12hrBefore: "12 horas antes",
@@ -1111,6 +1111,6 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileEXTaskCreatedImgMaxDeny1: "Por favor, escolha",
   mMobileEXTaskCreatedImgMaxDeny2: "fotos ou menos",
   mMobileEXLogin: "Por favor, primeiro faça login no Quire",
-  mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date"
+  mMobileSelfAssign: "Atribuir para mim",
+  mMobileAddDue: "Adicionar data de conclusão"
 };
