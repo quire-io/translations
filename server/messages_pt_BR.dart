@@ -396,7 +396,7 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 
 [=footer]
 
-<hr/>
+<hr class="end"/>
 
 <p style="font-style:italic;font-size:80%">Você está recebendo este email porque você
 pediu para receber atualizações por email. Para cancelar a subscrição, por favor <a href="[=unsubscribe]">clique aqui</a>.</p>

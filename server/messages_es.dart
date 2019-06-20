@@ -397,7 +397,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
 
 [=footer]
 
-<hr/>
+<hr class="end"/>
 
 <p>Has recibido este email ya que
 solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a href="[=unsubscribe]">pulsa aquí</a>.</p>

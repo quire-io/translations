@@ -401,7 +401,7 @@ um Ihr Passwort zurückzusetzen:</p>
 
 [=footer]
 
-<hr/>
+<hr class="end"/>
 
 <p>Sie haben diese Nachricht erhalten, weil Sie 
 unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser Art wünschen, <a href="[=unsubscribe]">klicken Sie hier</a>.</p>

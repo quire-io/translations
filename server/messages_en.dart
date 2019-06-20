@@ -481,7 +481,7 @@ including account-related notifications and task activities.</p>
 
 [=footer]
 
-<hr/>
+<hr class="end"/>
 
 <p>You are receiving this email because you 
 requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
