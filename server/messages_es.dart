@@ -37,7 +37,7 @@ const esServer = const <String, String> {
   mLanguage: "Idioma",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'Primer día de la semana',
-  m24hourTime: 'Tiempo',
+  m24hourTime: 'Hora',
   m24hourTimeDesc: 'Habilitar formato 24 horas',
   mAllow: "Permitir",
   mDeny: "Rechazar",
