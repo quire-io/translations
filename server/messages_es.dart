@@ -77,7 +77,7 @@ const esServer = const <String, String> {
   mFeedbackU: "FEEDBACK",
   mPost: "Publicar",
   mGotIt: "¡Lo tengo!",
-  mReadOnly: "Leer Solo",
+  mReadOnly: "Solo Lectura",
   mReadMore: "Leer Más",
   mGettingStarted: "Comenzando",
   mTutorial: "Tutorial",
