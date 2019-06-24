@@ -826,7 +826,6 @@ const deClient = const <String, String> {
   mEditStatusContent: 'Sie können den Namen, die Farbe und den Fortschritt dieser Spalte bearbeiten.',
   mApiRightEditTask: "Aufgaben in den Projekten bearbeiten",
   mApiRightAddTask: "Aufgaben für Sie hinzufügen",
-  mApiRightCompleteTask: "Aufgaben für Sie erledigen",
   mApiRightDeleteTask: "Aufgaben für Sie löschen",
   mApiRightRead: "Alle Ihre Organisationen und Projekte lesen",
   mUserOrganizationRoles: "Admin,Normal+,Normal,Eingeschränkt+,Gast",

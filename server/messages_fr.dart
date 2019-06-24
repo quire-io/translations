@@ -618,6 +618,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mSettingIntegrationSec: "Integrations",
   mSettingReminderSec: "Reminders",
   mSettingEmailSec: "Email Notifications",
+  mSettingProjectPrefSec: "Project Preferences",
   mSettingCalTitle: "Calendar",
   mSettingCalDesc: "Sync incomplete tasks with due dates to Google Calendar, iCal or others.",
   mSettingCalBtnTitle: "Sync",
@@ -710,6 +711,9 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   m2dayLater: "2 days later",
   mStartOFNextWeek: "At start of next week",
   mRemindDefaultTime: "Reminder Time",
+  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] already signed up",
   mNotSignedUPAndRedirect:
     "You have not confirmed your signup yet.<br>"

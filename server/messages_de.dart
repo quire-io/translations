@@ -624,6 +624,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mSettingIntegrationSec: "Integrationen",
   mSettingReminderSec: "Erinnerungen",
   mSettingEmailSec: "E-Mail Benachrichtigungen",
+  mSettingProjectPrefSec: "Project Preferences",
   mSettingCalTitle: "Kalender",
   mSettingCalDesc: "Unvollständige Aufgaben mit Fälligkeitsdaten mit Google Kalender, iCal oder anderen synchronisieren.",
   mSettingCalBtnTitle: "Synchronisieren",
@@ -716,6 +717,9 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   m2dayLater: "Zwei Tage später",
   mStartOFNextWeek: "Anfang nächster Woche",
   mRemindDefaultTime: "Erinnerungszeit",
+  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] ist bereits registriert",
   mNotSignedUPAndRedirect:
     "Sie haben ihre Registrierung noch nicht bestätigt.<br/>"

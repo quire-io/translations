@@ -620,6 +620,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mSettingIntegrationSec: "Integraciones",
   mSettingReminderSec: "Recordatorios",
   mSettingEmailSec: "Notificaciones de Email",
+  mSettingProjectPrefSec: "Project Preferences",
   mSettingCalTitle: "Calendario",
   mSettingCalDesc: "Sincroniza las tareas incompletas con fecha de vencimiento con Google Calendar, iCal u otros.",
   mSettingCalBtnTitle: "Sincronizar",
@@ -712,6 +713,9 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   m2dayLater: "2 días después",
   mStartOFNextWeek: "Al comienzo de la siguiente semana",
   mRemindDefaultTime: "Hora de Recordatorio",
+  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] ya registrado",
   mNotSignedUPAndRedirect:
     "Aún no has confirmado tu registro.<br>"

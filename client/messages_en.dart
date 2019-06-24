@@ -1061,7 +1061,6 @@ const enClient = const <String, String> {
 
   mApiRightEditTask: "Edit tasks in the projects",
   mApiRightAddTask: "Add tasks for you",
-  mApiRightCompleteTask: "Complete tasks for you",
   mApiRightDeleteTask: "Delete tasks for you",
   mApiRightRead: "Read all of your organizations and projects",
 

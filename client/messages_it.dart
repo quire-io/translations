@@ -830,7 +830,6 @@ const itClient = const <String, String> {
   mEditStatusContent: 'You can edit the name, color and progress of this column.',
   mApiRightEditTask: "Edit tasks in the projects",
   mApiRightAddTask: "Add tasks for you",
-  mApiRightCompleteTask: "Complete tasks for you",
   mApiRightDeleteTask: "Delete tasks for you",
   mApiRightRead: "Read all of your organizations and projects",
   mUserOrganizationRoles: "Admin,Normal+,Normal,Limited+,Guest",

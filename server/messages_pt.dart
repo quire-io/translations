@@ -618,6 +618,7 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mSettingIntegrationSec: "Integrações",
   mSettingReminderSec: "Lembretes",
   mSettingEmailSec: "Notificações de Email",
+  mSettingProjectPrefSec: "Project Preferences",
   mSettingCalTitle: "Calendário",
   mSettingCalDesc: "Sincronize tarefas incompletas com prazo ao Calendário Google, iCal ou outros.",
   mSettingCalBtnTitle: "Sincronizar",
@@ -710,6 +711,9 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   m2dayLater: "2 dias depois",
   mStartOFNextWeek: "Ao início da semana seguinte",
   mRemindDefaultTime: "Hora do Lembrete",
+  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] já se registou",
   mNotSignedUPAndRedirect:
     "Ainda não confirmou o seu registo.<br>"

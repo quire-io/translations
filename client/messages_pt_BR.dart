@@ -835,7 +835,6 @@ const ptBrClient = const <String, String> {
   mEditStatusContent: 'You can edit the name, color and progress of this column.',
   mApiRightEditTask: "Editar tarefas nos projetos",
   mApiRightAddTask: "Adicionar tarefas por você",
-  mApiRightCompleteTask: "Concluir tarefas por você",
   mApiRightDeleteTask: "Excluir tarefas por você",
   mApiRightRead: "Ler todas as suas organizações e projetos",
   mUserOrganizationRoles: "Administrador,Normal+,Normal,Limitado+,Convidado",
