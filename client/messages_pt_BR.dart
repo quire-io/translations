@@ -297,6 +297,8 @@ const ptBrClient = const <String, String> {
   mTreeMenuPasteTask: "Paste ([=ctrlCommand]+V)",
   mTreeMenuArchive: "Peekaboo",
   mTreeMenuUnarchive: "Apresentar de novo",
+  mTaskArchiveNeverOption: "Never show again",
+  mTaskArchiveDayOption: "Reshow [=n] days later",
   mTreeBatchCompleteTooltip: "Concluído",
   mTreeBatchAssigneeTooltip: "Responsável",
   mTreeBatchDateTooltip: "data de conclusão",
@@ -898,6 +900,10 @@ const ptBrClient = const <String, String> {
   mStatsWeeklyCreatedLabel: "Criado",
   mStatsWeeklyAssignedByLabel: "Atribuído por",
   mStatsWeeklyAssignedToLabel: "Atribuído a",
+  mStatsWeeklyAssignedByMeLabel: "Assigned by me",
+  mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
+  mStatsWeeklyAssignedToMeLabel: "Assigned to me",
+  mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
   mStatsMyTasksSec: "As Minhas Tarefas",
   mStatsUserTasksSec: "Tarefas de"
 };

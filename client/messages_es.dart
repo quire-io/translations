@@ -292,6 +292,8 @@ const esClient = const <String, String> {
   mTreeMenuPasteTask: "Pegar ([=ctrlCommand]+V)",
   mTreeMenuArchive: "Peekaboo",
   mTreeMenuUnarchive: "Volver a Mostrar",
+  mTaskArchiveNeverOption: "Never show again",
+  mTaskArchiveDayOption: "Reshow [=n] days later",
   mTreeBatchCompleteTooltip: "Completar",
   mTreeBatchAssigneeTooltip: "Asignar",
   mTreeBatchDateTooltip: "Fecha de vencimiento",
@@ -893,6 +895,10 @@ const esClient = const <String, String> {
   mStatsWeeklyCreatedLabel: "Creada",
   mStatsWeeklyAssignedByLabel: "Asignada por",
   mStatsWeeklyAssignedToLabel: "Asignada a",
+  mStatsWeeklyAssignedByMeLabel: "Assigned by me",
+  mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
+  mStatsWeeklyAssignedToMeLabel: "Assigned to me",
+  mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
   mStatsMyTasksSec: "Mis Tareas",
   mStatsUserTasksSec: ": Sus Tareas"
 };
