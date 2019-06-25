@@ -960,7 +960,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mRemindDefaultTime: "Reminder Time",
 
   mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
-  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   
   mAlreadySignedUP: "[=email] already signed up",

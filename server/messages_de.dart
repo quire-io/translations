@@ -718,7 +718,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mStartOFNextWeek: "Anfang nächster Woche",
   mRemindDefaultTime: "Erinnerungszeit",
   mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
-  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] ist bereits registriert",
   mNotSignedUPAndRedirect:

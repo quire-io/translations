@@ -714,7 +714,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mStartOFNextWeek: "Al comienzo de la siguiente semana",
   mRemindDefaultTime: "Hora de Recordatorio",
   mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
-  mShowFavoritedMyTasks: 'Show Favorite Tasks in My Tasks',
+  mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] ya registrado",
   mNotSignedUPAndRedirect:
