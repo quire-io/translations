@@ -895,10 +895,10 @@ const esClient = const <String, String> {
   mStatsWeeklyCreatedLabel: "Creada",
   mStatsWeeklyAssignedByLabel: "Asignada por",
   mStatsWeeklyAssignedToLabel: "Asignada a",
-  mStatsWeeklyAssignedByMeLabel: "Assigned by me",
-  mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
-  mStatsWeeklyAssignedToMeLabel: "Assigned to me",
-  mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
+  mStatsWeeklyAssignedByMeLabel: "Asignada por mí",
+  mStatsWeeklyAssignedByUserLabel: "Asignada por [=user]",
+  mStatsWeeklyAssignedToMeLabel: "Asignada a mí",
+  mStatsWeeklyAssignedToUserLabel: "Asignada a [=user]",
   mStatsMyTasksSec: "Mis Tareas",
   mStatsUserTasksSec: ": Sus Tareas"
 };
