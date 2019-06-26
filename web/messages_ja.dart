@@ -32,8 +32,8 @@ const jaWeb = const <String, String> {
     "Quire lets you map out your thoughts, and tackle them with small steps.",
   mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
   mHomeSectionVisuallyDesc:
-    "Make you work flow visually. Arrange, prioritize, "
-    "and focus on what is most important each day in board. With everyone on board.",
+    "Visualize your workflow. Arrange, prioritize, "
+    "and focus on what matters the most with Kanban board. Get everyone on the same page.",
   mHomeSectionProgressTitle: "See and Rise Above Your Progress",
   mHomeSectionProgressDesc:
     "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
