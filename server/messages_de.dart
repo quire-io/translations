@@ -16,6 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const deServer = const <String, String> {
   mSubmit: "Senden",
+  mClear: "Clear",
   mProjectLC: "Projekt",
   mOrganizationLC: "Organisation",
   mSidebarTitleMyTasks: "MEINE AUFGABEN",

@@ -13,6 +13,7 @@ part of server.intl.messages_all;
 
 const enServer = const <String, String> {
   mSubmit: "Submit",
+  mClear: "Clear",
 
   mProjectLC: "project",
   mOrganizationLC: "organization",

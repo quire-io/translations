@@ -16,6 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const ptBrServer = const <String, String> {
   mSubmit: "Enviar",
+  mClear: "Clear",
   mProjectLC: "projeto",
   mOrganizationLC: "organização",
   mSidebarTitleMyTasks: "AS MINHAS TAREFAS",

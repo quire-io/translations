@@ -16,6 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const jaServer = const <String, String> {
   mSubmit: "Submit",
+  mClear: "Clear",
   mProjectLC: "project",
   mOrganizationLC: "organization",
   mSidebarTitleMyTasks: "MY TASKS",

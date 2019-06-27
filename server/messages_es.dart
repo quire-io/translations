@@ -16,6 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const esServer = const <String, String> {
   mSubmit: "Enviar",
+  mClear: "Clear",
   mProjectLC: "proyecto",
   mOrganizationLC: "organización",
   mSidebarTitleMyTasks: "MIS TAREAS",

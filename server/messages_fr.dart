@@ -33,6 +33,7 @@ const frServer = const <String, String> {
   mSignup: "Inscription",
   mLogin: "Connexion",
   mLogout: "Déconnexion",
+  mClear: "Clear",
   mEmail: "Email",
   mLanguage: "Langue",
   mLanguageAuto: "(auto)",
