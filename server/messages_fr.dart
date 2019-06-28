@@ -442,7 +442,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   "AT$atRemoveOrganizationMember": "[=who] a retiré [=value] de [=what]",
   "AT$atAddGlobalTag": "[=who] a ajouté l'étiquette [=value] à [=what]",
   "AT$atRemoveGlobalTag": "[=who] a supprimé l'étiquette [=value] de [=what]",
-  "AT$atAddOApp": "[=who] a ajouté une application, [=value], à [=what]",,
+  "AT$atAddOApp": "[=who] a ajouté une application, [=value], à [=what]",
   "AT$atRemoveOApp": "[=who] a supprimé une application, [=value], de [=what]",
   "AT$atEditOApp": "[=who] a édité [=value]",
   "AT$atAddShare": "[=who] a créé un lien de partage, [=value], de [=what]",
