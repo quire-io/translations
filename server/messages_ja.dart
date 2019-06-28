@@ -714,7 +714,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   m2dayLater: "2 days later",
   mStartOFNextWeek: "At start of next week",
   mRemindDefaultTime: "Reminder Time",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] already signed up",

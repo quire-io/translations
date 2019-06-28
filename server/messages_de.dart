@@ -718,7 +718,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   m2dayLater: "Zwei Tage später",
   mStartOFNextWeek: "Anfang nächster Woche",
   mRemindDefaultTime: "Erinnerungszeit",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] ist bereits registriert",

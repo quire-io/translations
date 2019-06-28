@@ -713,7 +713,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   m2dayLater: "2 dias depois",
   mStartOFNextWeek: "No começo da semana seguinte",
   mRemindDefaultTime: "Hora do Lembrete",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtask by default',
+  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mAlreadySignedUP: "[=email] já se registrou",

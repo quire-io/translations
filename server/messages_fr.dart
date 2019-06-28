@@ -641,7 +641,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   m2dayLater: "2 jours après",
   mStartOFNextWeek: "En début de semaine suivante",
   mRemindDefaultTime: "Heure de rappel",
-  mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
+  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Afficher les Tâches Favorites dans Mes Tâches',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mAlreadySignedUP: "[=email] est déjà inscrit",
