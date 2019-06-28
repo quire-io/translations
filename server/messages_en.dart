@@ -1303,6 +1303,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileTasksSelected: "[=amount] Selected",
   mMobileFiles: "Files",
   mMobileSyncing: "Syncing",
+  mMobileMySelf: "Myself",
 
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",

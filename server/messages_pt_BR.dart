@@ -985,6 +985,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileTasksSelected: "[=amount] Selecionadas",
   mMobileFiles: "Arquivos",
   mMobileSyncing: "Syncing",
+  mMobileMySelf: "Myself",
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",
   mMobileProfileCamera: "Tirar Foto",

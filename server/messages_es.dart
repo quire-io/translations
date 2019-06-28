@@ -986,6 +986,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileTasksSelected: "[=amount] Seleccionadas",
   mMobileFiles: "Archivos",
   mMobileSyncing: "Sincronizando",
+  mMobileMySelf: "Myself",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
   mMobileProfileCamera: "Tomar Foto",

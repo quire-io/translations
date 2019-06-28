@@ -16,6 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const frServer = const <String, String> {
   mSubmit: "Envoyer",
+  mClear: "Clear",
   mProjectLC: "projet",
   mOrganizationLC: "organisation",
   mSidebarTitleMyTasks: "MES TÂCHES",
@@ -33,11 +34,12 @@ const frServer = const <String, String> {
   mSignup: "Inscription",
   mLogin: "Connexion",
   mLogout: "Déconnexion",
-  mClear: "Clear",
   mEmail: "Email",
   mLanguage: "Langue",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'Premier jour de la semaine',
+  m24hourTime: 'Time',
+  m24hourTimeDesc: 'Enable 24-Hour time',
   mAllow: "Autoriser",
   mDeny: "Refuser",
   mConfirmPassword: "Confirmez votre mot de passe",
@@ -328,6 +330,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
 <p>Merci,</p>
 <p>L'équipe Quire</p>
 ''',
+  mEmailSubscriberContentHeader: '<p class="hi-row">Hi [=name],</p>',
   mEmailSubscriberContent: '''
 <p[=styleHi]>Bonjour [=name],</p>
 [=message]
@@ -336,6 +339,9 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
 <hr/>
 <p style="font-style:italic;font-size:80%">Vous recevez cet email parce que vous avez demandé à recevoir des notifications par email. Pour vous désabonner, veuillez <a href="[=unsubscribe]">cliquer ici</a>.</p>
 ''',
+  mEmailSubscriberContentFooter:
+    '<p class="end-row-1">Thanks,</p>'
+    '<p class="end-row-2">The Quire Team</p>',
   mEmailLeaveMemberSubject: "Quire : [=member] a quitté [=target]",
   mEmailLeaveMemberContent: '''
 <p>Bonjour [=name],</p>
@@ -436,9 +442,9 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   "AT$atRemoveOrganizationMember": "[=who] a retiré [=value] de [=what]",
   "AT$atAddGlobalTag": "[=who] a ajouté l'étiquette [=value] à [=what]",
   "AT$atRemoveGlobalTag": "[=who] a supprimé l'étiquette [=value] de [=what]",
-  "AT$atAddOapp": "[=who] a ajouté une application, [=value], à [=what]",
-  "AT$atRemoveOapp": "[=who] a supprimé une application, [=value], de [=what]",
-  "AT$atEditOapp": "[=who] a édité [=value]",
+  "AT$atAddOApp": "[=who] a ajouté une application, [=value], à [=what]",,
+  "AT$atRemoveOApp": "[=who] a supprimé une application, [=value], de [=what]",
+  "AT$atEditOApp": "[=who] a édité [=value]",
   "AT$atAddShare": "[=who] a créé un lien de partage, [=value], de [=what]",
   "AT$atRemoveShare": "[=who] a supprimé un lien de partage, [=value], de [=what]",
   "AT$atAddBoard": "[=who] a ajouté un tableau [=value] à [=what]",
@@ -495,12 +501,16 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mKeyComment: 'Ajouter un commentaire à la tâche sélectionnée',
   mKeySelfAssign: 'S\'auto-attribuer les tâches sélectionnées',
   mKeyAssignTask: 'Gérer les tâches sélectionnées',
+  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board',
   mKeyIndent: 'Mettre en retrait la tâche sélectionnée en mode d\'édition',
   mKeyToggleHint: 'Afficher l\'ID de la tâche et plus',
   mKeyCopyHint: "Copier les tâches sélectionnées",
   mKeyCutHint: "Couper les tâches sélectionnées",
   mKeyPasteHint: "Coller en tant que tâche ce que vous avez copié",
   mKeyToggleDetail: "Ouvrir ou masquer le panneau des détails",
+  mKeyLearnMore:
+    'Learn more about how to use Quire with keyboard only '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'En-têtes',
   mMDItalic: 'Italique',
@@ -903,6 +913,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileTasksSelected: "[=amount] sélectionnées",
   mMobileFiles: "Fichiers",
   mMobileSyncing: "Synchronisation",
+  mMobileMySelf: "Myself",
   mMobileNewBoard: "Nouveau Tableau",
   mMobileArchivedBoard: "Tableaux archivés",
   mMobileProfileCamera: "Prendre une photo",
@@ -1035,5 +1046,5 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileEXTaskCreatedImgMaxDeny2: "photos ou moins",
   mMobileEXLogin: "Veuillez d'abord vous connecter à Quire",
   mMobileSelfAssign: "Attribuer à moi-même",
-  mMobileAddDue: "Ajouter une date d'échéance",
+  mMobileAddDue: "Ajouter une date d'échéance"
 };

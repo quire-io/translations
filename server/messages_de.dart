@@ -988,6 +988,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileTasksSelected: "[=amount] ausgewählt",
   mMobileFiles: "Dateien",
   mMobileSyncing: "Synchronisation",
+  mMobileMySelf: "Myself",
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",
   mMobileProfileCamera: "Foto machen",
