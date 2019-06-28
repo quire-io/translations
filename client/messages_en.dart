@@ -255,6 +255,7 @@ const enClient = const <String, String> {
     '[=active] incomplete and [=completed] completed subtasks',
   mSubtaskStatisticOthers: "Others",
   mSubtaskStatisticUnasgd: "Unasgd",
+  mSubtaskStatisticFirstLevel: "First-level subtasks",
 
   mProjectMember: "Project Members",
   mMemberAmount: "[=amount] members",

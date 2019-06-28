@@ -205,6 +205,7 @@ const itClient = const <String, String> {
   mSubtaskStatusShort: '[=active] incomplete and [=completed] completed subtasks',
   mSubtaskStatisticOthers: "Others",
   mSubtaskStatisticUnasgd: "Unasgd",
+  mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Project Members",
   mMemberAmount: "[=amount] members",
   mProjectMemberDesc: "[=amount] others from [=org] also have access to this project.",

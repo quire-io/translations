@@ -199,6 +199,7 @@ const deClient = const <String, String> {
   mSubtaskStatusShort: '[=active] offene und [=completed] erledigte Unteraufgaben',
   mSubtaskStatisticOthers: "Andere",
   mSubtaskStatisticUnasgd: "Nicht zugewiesen",
+  mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Projektmitglieder",
   mMemberAmount: "[=amount] Mitglieder",
   mProjectMemberDesc: "[=amount] Mitglieder von [=org] können auch auf dieses Projekt zugreifen.",

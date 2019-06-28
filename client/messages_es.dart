@@ -205,6 +205,7 @@ const esClient = const <String, String> {
   mSubtaskStatusShort: '[=active] incompleta y [=completed] subtareas completadas',
   mSubtaskStatisticOthers: "Otras",
   mSubtaskStatisticUnasgd: "Sin asignar",
+  mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Miembros del Proyecto",
   mMemberAmount: "[=amount] miembros",
   mProjectMemberDesc: "Otros [=amount] pertenecientes a [=org] también tienen acceso al proyecto.",

@@ -210,6 +210,7 @@ const ptBrClient = const <String, String> {
   mSubtaskStatusShort: '[=active] subtarefas incompletas e [=completed] concluídas',
   mSubtaskStatisticOthers: "Outras",
   mSubtaskStatisticUnasgd: "Por atribuir",
+  mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Membros do Projeto",
   mMemberAmount: "[=amount] membros",
   mProjectMemberDesc: "[=amount] outros da [=org] também têm acesso a este projeto.",
