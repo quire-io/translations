@@ -18,18 +18,18 @@ Welcome to [=system.name] version [=systemVersion]"
 
 const itClient = const <String, String> {
   mInternalError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <a href="/feedback">contact us</a>. '
-    'Meanwhile, you may try <a href="javascript:reloadPage()">reloading this page</a>.',
-  mNetworkError: "Unable to reach Quire. Please check your internet connection.",
+    'Ci dispiace, abbiamo rilevato un arrore inatteso. '
+    "Stiamo indagando sull'accaduto, ma "
+    'se lo ritieni opportuno <a href="/feedback">Contattaci</a>. '
+    'Nel frattempo, prova a <a href="javascript:reloadPage()">ricaricare la pagina</a>.',
+  mNetworkError: "Impossibile raggiungere Quire. Per favore controlla la tua connessione ad internet.",
   mNotAllowed:
-    "You do not have permission to perform this action.<br/>"
-    'Please contact your Admin.',
-  mNotFound: "Sorry, we cannot find what you are looking for.",
-  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
-  mSessionTimeout: "Sorry, your session has timed out. Please try logging in again.",
-  mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
+    "Purtroppo non hai i permessi per eseguire questa azione.<br/>"
+    'Per favore contatta il tuo amministratore.',
+  mNotFound: "Siamo spiacenti, non riusciamo a trovare quello che stiamo cercando.",
+  mTooLarge: "Ci dispiace, la tua richiesta ha troppi contenuti. Prova con meno.",
+  mSessionTimeout: "Siamo spiacenti, la sessione è scaduta. Per favore effettua di nuovo l'accesso.",
+  mAddProjectWithoutOrg: "Non puoi aggiungere progetti senza prima aggiungere una organizzazione.",
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
   mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
   mMaintenance:
