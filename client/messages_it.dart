@@ -33,15 +33,15 @@ const itClient = const <String, String> {
   mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
   mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
   mMaintenance:
-    "Sorry, we are down for maintenance. We will be back shortly. "
-    "Not to worry, your updates will be saved locally.",
-  mConnected: "Connection is back. Everything is in sync.",
-  mDisconnected: "Connection lost. Not to worry, your updates will be saved locally.",
+    "Ci dispiace, siamo momentanemante offline per manutenzione. Torneremo al più presto. "
+    "Non preoccuparti, i tuoi aggiornamenti verranno salvati localmente.",
+  mConnected: "La connessione è stata ristabilita. Tutto si è sincronizzato.",
+  mDisconnected: "Connessione persa. Non preoccuparti, i tuoi aggiornamenti verranno salvati localmente.",
   mDisconnectedUnsafe:
-    'Connection lost. Please enable <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">local storage</a> '
-    'to save your updates locally.',
+    'Connessiona persa. Per favore abilita <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">il salvataggio locale</a> '
+    'per salvare i tuoi updates localmente.',
   mReloadNewPartJS:
-    'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
+    'Siamo spiacenti. Non riusciamo a verificare l ultima versione di Quire.<br/><br/>'
     '[=clearCache]<br/><br/>'
     'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
