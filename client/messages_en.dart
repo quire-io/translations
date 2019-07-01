@@ -653,14 +653,14 @@ const enClient = const <String, String> {
   mUploading: "Uploading [=name]",
 
   mFileLimit:
-    "Unable to upload the file because it exceeds the maximum size allowed ([=size]).",
+    "Unable to upload the file because it exceeds the allowed maximum file size ([=size]).",
   mFileQuota:
-    "Unable to upload the file because it exceeds the maximum file quota allowed ([=size]).",
+    "Unable to upload the file because it exceeds the allowed maximum total file quota ([=size]).",
   mFileUnfinished: "There are unfinished file uploads, do you still want to close the window and cancel the uploads?",
   mFileLimitWithName:
     "Due to a <strong>[=size]</strong> file size limit, the following files cannot be uploaded: <strong>[=name]</strong>.",
   mFileQuotaWithName:
-    "Unable to upload [=name] because it exceeds the maximum file quota allowed ([=size]).",
+    "Unable to upload [=name] because it exceeds the allowed maximum total file quota ([=size]).",
 
   mUnableUploadAttmtTitle: "Unable to upload files",
 
