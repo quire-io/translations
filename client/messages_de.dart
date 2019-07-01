@@ -892,10 +892,10 @@ const deClient = const <String, String> {
   mStatsWeeklyCreatedLabel: "Erstellt",
   mStatsWeeklyAssignedByLabel: "Zugewiesen von",
   mStatsWeeklyAssignedToLabel: "Zugewiesen an",
-  mStatsWeeklyAssignedByMeLabel: "Assigned by me",
-  mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
-  mStatsWeeklyAssignedToMeLabel: "Assigned to me",
-  mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
+  mStatsWeeklyAssignedByMeLabel: "Zugewiesen von mir",
+  mStatsWeeklyAssignedByUserLabel: "Zugewiesen von [=user]",
+  mStatsWeeklyAssignedToMeLabel: "An mich zugewiesen",
+  mStatsWeeklyAssignedToUserLabel: "Zugewiesen an [=user]",
   mStatsMyTasksSec: "Meine Aufgaben",
   mStatsUserTasksSec: "s Aufgaben"
 };
