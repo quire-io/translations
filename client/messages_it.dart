@@ -41,15 +41,15 @@ const itClient = const <String, String> {
     'Connessiona persa. Per favore abilita <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">il salvataggio locale</a> '
     'per salvare i tuoi updates localmente.',
   mReloadNewPartJS:
-    'Siamo spiacenti. Non riusciamo a verificare l ultima versione di Quire.<br/><br/>'
+    'Siamo spiacenti. Non riusciamo a verificare l\'ultima versione di Quire.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
+    'Per maggiori dettagli, per favore controlla <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">qui</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'You can try press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
-    'to clear browser\'s cached images and files, and reload this page.',
+    'Puoi provare premendo <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
+    'per pulire le immagini ed i file nella cache del browser e ricaricare la pagina.',
   mDeleteBrowserCacheSafari:
-    'You can try press <code>Option+Command+E</code> to empty browser\'s cache, '
-    'and reload this page.',
+    'Prova a premere <code>Option+Command+E</code> per svuotare la cache del browser, '
+    'e ricaricare la pagina.',
   mDeleteBrowserCacheEtc:
     'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
     'and reload this page.',
