@@ -560,6 +560,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mKeyCreateSubtask: 'Añade una subtarea nueva',
   mKeyDeleteTask: 'Elimina las tareas seleccionadas',
   mKeyCollapseTask: 'Contrae o expande las tareas por nivel',
+  mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Resalta la búsqueda de proyectos, miembros, etc.',
   mKeySearchTask: 'Busca tareas y comentarios',
   mKeyCompleteTask: 'Completa las tareas seleccionadas',

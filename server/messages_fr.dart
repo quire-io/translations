@@ -487,6 +487,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mKeyCreateSubtask: 'Ajouter une nouvelle sous-tâche',
   mKeyDeleteTask: 'Supprimer les tâches sélectionnées',
   mKeyCollapseTask: 'Réduire ou développer les tâches par niveau',
+  mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Recherche rapide de projets, de membres, etc.',
   mKeySearchTask: 'Rechercher des tâches et des commentaires',
   mKeyCompleteTask: 'Marquer les tâches sélectionnées comme terminées',

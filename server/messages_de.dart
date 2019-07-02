@@ -564,6 +564,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mKeyCreateSubtask: 'Neue Teilaufgabe hinzufügen',
   mKeyDeleteTask: 'Ausgewählte Aufgabe(n) löschen',
   mKeyCollapseTask: 'Alle Aufgaben ebenenabhängig ein- oder ausklappen',
+  mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Suche nach Projekten, Mitglieder, etc.',
   mKeySearchTask: 'Aufgabe suchen',
   mKeyCompleteTask: 'Ausgewählte Aufgabe(n) erledigen',

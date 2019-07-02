@@ -559,6 +559,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mKeyCreateSubtask: 'Adicionar nova subtarefa',
   mKeyDeleteTask: 'Excluir tarefas selecionadas',
   mKeyCollapseTask: 'Reduzir ou expandir tarefas por nível',
+  mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Pesquisa rápida de projetos, usuários, etc.',
   mKeySearchTask: 'Pesquisar tarefas e comentários',
   mKeyCompleteTask: 'Concluir tarefas selecionadas',

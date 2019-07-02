@@ -560,6 +560,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mKeyCreateSubtask: 'Add new subtask',
   mKeyDeleteTask: 'Delete selected tasks',
   mKeyCollapseTask: 'Collapse or expand tasks by level',
+  mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',
   mKeyCompleteTask: 'Complete selected tasks',
