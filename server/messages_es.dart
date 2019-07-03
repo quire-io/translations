@@ -16,7 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const esServer = const <String, String> {
   mSubmit: "Enviar",
-  mClear: "Clear",
+  mClear: "Limpiar",
   mProjectLC: "proyecto",
   mOrganizationLC: "organización",
   mSidebarTitleMyTasks: "MIS TAREAS",
@@ -450,7 +450,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   "AT$atUncomplete": "[=who] reabrió [=what]",
   "AT$atAssign": "[=who] asignó [=what] a [=value]",
   "AT$atUnassign": "[=who] desasignó [=value] de [=what]",
-  "AT$atSetDue": "[=who] estableció la fecha de vencimiento de [=what] to [=value:due]",
+  "AT$atSetDue": "[=who] estableció la fecha de vencimiento de [=what] a [=value:due]",
   "AT$atUnsetDue": "[=who] quitó la fecha de vencimiento de [=what]",
   "AT$atSetState": "[=who] estableció el estado de [=what] a [=value]",
   "AT$atSetStart": "[=who] estableció la fecha de inicio de [=what] a [=value:due]",
@@ -744,8 +744,8 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
     'Consejo: Síguenos en <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
     'para estar al día de las actualizaciones',
   mTipMarkdown:
-    'Tip: Write descriptions and comments in '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> for better style',
+    'Consejo: escribe descripciones y comentarios en '
+    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> para conseguir un estilo mejor',
   mTipMoveTask:
     'Consejo: Mueve una tarea utilizando <code>[=ctrlAlt]+↑</code>, '
     '<code>[=ctrlAlt]+↓</i></code>, '
@@ -902,7 +902,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mSlackHelpFollowProject: 'Seguir o dejar de seguir proyectos',
   mSlackHelpFollowProjectExample:
     '`/quire [seguir o dejar de seguir] project [ID de proyecto 1] [ID de proyecto 2]`\n'
-    'Ejemplo: `/quire follow project Proyecto_Desarrollo Proyecto_Marketing`',
+    'Ejemplo: `/quire seguir project Proyecto_Desarrollo Proyecto_Marketing`',
   mSlackNeedLinkProject: 'Primero necesitas un enlace a un proyecto de Quire.',
   mSlackCurrentLinkProject: 'Este canal ya está vinculado a [=project].',
   mSlackCurrentLinkProjectSimpleHelp: 'Este canal está vinculado a [=project].',
@@ -1009,7 +1009,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileDisconnected: "Conexión perdida. Por favor, comprueba tu conexión a internet.",
   mMobileTaskDeleted: "Lo sentimos, esta tarea ha sido eliminada.",
   mMobileUnableUploadAttachment: "No podemos subir el archivo. Por favor, inténtalo de nuevo.",
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailTaskProgress: "Progreso de la Tarea",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Siguiendo",
   mMobileDetailProjectInfo: "Información del Proyecto",
@@ -1046,13 +1046,13 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileOrganizationCreatedOn: "Creada el [=createdAt]",
   mMobileYourNewPassword: "Tu nueva contraseña.",
   mMobileMoveProjectUp: "Subir proyecto",
-  mMobileMoveProjectDown: "Bajar proyect",
+  mMobileMoveProjectDown: "Bajar proyecto",
   mMobileSearchProject: "Buscar Proyecto",
   mMobileSmartFolderExceedMaximum: "Haz alcanzado el número máximo de proyectos permitidos en una Carpeta Inteligente.",
   mMobileMenuManageTags: "Administrar etiquetas",
   mMobileMenuManageMember: "Administrar miembros",
   mMobileAssignedByShort: "Asg por",
-  mMobileCreatedByShort: "Cdo por",
+  mMobileCreatedByShort: "Cda por",
   mMobileAssignedToShort: "Asgd a",
   mMobileSearchOptionsTitle: "Buscar resultados en...",
   mMobileSearchRecent: "Búsqyedas recientes",
