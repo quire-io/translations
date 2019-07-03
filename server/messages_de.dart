@@ -1011,6 +1011,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileDisconnected: "Sie sind offline. Bitte überprüfen Sie Ihre Internetverbindung.",
   mMobileTaskDeleted: "Sorry, diese Aufgabe wurde gelöscht.",
   mMobileUnableUploadAttachment: "Die Datei konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.",
+  mMobileDetailTaskProgress: "Task Progress",
   mMobileDetailFollow: "Folgen",
   mMobileDetailFollowing: "Gefolgt",
   mMobileDetailProjectInfo: "Projektinfo",

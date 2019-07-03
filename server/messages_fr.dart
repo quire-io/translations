@@ -936,6 +936,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileDisconnected: "Connexion perdue. Veuillez vérifier votre connexion à Internet.",
   mMobileTaskDeleted: "Désolé, cette tâche a été supprimée.",
   mMobileUnableUploadAttachment: "Nous ne pouvons pas mettre en ligne ce fichier. Veuillez réessayer.",
+  mMobileDetailTaskProgress: "Task Progress",
   mMobileDetailFollow: "Suivre",
   mMobileDetailFollowing: "Suivi",
   mMobileDetailProjectInfo: "Infos du Projet",

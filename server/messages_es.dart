@@ -1009,6 +1009,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileDisconnected: "Conexión perdida. Por favor, comprueba tu conexión a internet.",
   mMobileTaskDeleted: "Lo sentimos, esta tarea ha sido eliminada.",
   mMobileUnableUploadAttachment: "No podemos subir el archivo. Por favor, inténtalo de nuevo.",
+  mMobileDetailTaskProgress: "Task Progress",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Siguiendo",
   mMobileDetailProjectInfo: "Información del Proyecto",

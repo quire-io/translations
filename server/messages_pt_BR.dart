@@ -1008,6 +1008,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileDisconnected: "Conexão perdida. Por favor, verifique sua conexão com a internet.",
   mMobileTaskDeleted: "Desculpe, esta tarefa foi excluída.",
   mMobileUnableUploadAttachment: "Não conseguimos carregar o arquivo. Por favor, tente novamente.",
+  mMobileDetailTaskProgress: "Task Progress",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Seguindo",
   mMobileDetailProjectInfo: "Informação do Projeto",

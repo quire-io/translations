@@ -1009,6 +1009,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileDisconnected: "Connection lost. Please check your internet connection.",
   mMobileTaskDeleted: "Sorry, this task has been deleted.",
   mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
+  mMobileDetailTaskProgress: "Task Progress",
   mMobileDetailFollow: "Follow",
   mMobileDetailFollowing: "Following",
   mMobileDetailProjectInfo: "Project Info",
