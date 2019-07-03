@@ -300,6 +300,7 @@ const ptClient = const <String, String> {
   mTreeMenuUnarchive: "Voltar a mostrar",
   mTaskArchiveNeverOption: "Never show again",
   mTaskArchiveDayOption: "Reshow [=n] days later",
+  mTreeMenuArchiveTip: "<a href='[=link]' target='_blank'>Peekaboo</a> tasks will be tucked away until you're ready to handle them.",
   mTreeBatchCompleteTooltip: "Concluído",
   mTreeBatchAssigneeTooltip: "Colaborador",
   mTreeBatchDateTooltip: "prazo",

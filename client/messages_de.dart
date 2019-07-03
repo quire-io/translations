@@ -289,6 +289,7 @@ const deClient = const <String, String> {
   mTreeMenuUnarchive: "Wieder anzeigen",
   mTaskArchiveNeverOption: "Never show again",
   mTaskArchiveDayOption: "Reshow [=n] days later",
+  mTreeMenuArchiveTip: "<a href='[=link]' target='_blank'>Peekaboo</a> tasks will be tucked away until you're ready to handle them.",
   mTreeBatchCompleteTooltip: "Erledigen",
   mTreeBatchAssigneeTooltip: "Person",
   mTreeBatchDateTooltip: "Fälligkeitsdatum",
