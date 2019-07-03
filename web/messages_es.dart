@@ -74,7 +74,7 @@ const esWeb = const <String, String> {
   mFeatureMessageDesc: "Descubre quién dijo algo sobre tus tareas al instante.",
   mFeatureMultipleAssignee: "Atribuciones Múltiples",
   mFeatureMultipleAssigneeDesc: "Asigna una tarea a los responsables de la misma.",
-  mFeatureRoleTitle: "Roles & Permisos",
+  mFeatureRoleTitle: "Roles y Permisos",
   mFeatureRoleDesc: "Concede diferentes permisos a los distintos miembros de tus proyectos.",
   mFeatureShareLinkTitle: "Comparte tu Proyecto con tus Clientes",
   mFeatureShareLinkDesc: "Envía un enlace de invitación a tus clientes para que puedan acceder a tu proyecto sin necesidad de registrarse.",
