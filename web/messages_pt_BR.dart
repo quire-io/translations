@@ -144,6 +144,33 @@ const ptBrWeb = const <String, String> {
     "<p>E a boa noticia é que, o que você já estiver usando até lá, continuará sendo gratuito.</p>"
     '<p>Tem alguma pergunta? Sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato conosco.</a></p>',
   mCookieGDPRDesc: "Nós usamos cookies para garantir que você tenha a melhor experiência em nosso website.",
+  mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageDesc:
+    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
+    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
+  mSecurityEncryptionTitle: 'Data Encryption',
+  mSecurityEncryptionDesc:
+    "At Quire, we take personal data protection very serious. "
+    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
+    'You can check out our <a href="/policy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
+  mSecurityStorageTitle: 'Data Storage Security',
+  mSecurityStorageDesc:
+    'Your data is stored in the United States by Amazon Web Services (AWS), '
+    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
+    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
+    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
+  mSecurityBackupTitle: 'Data Backup',
+  mSecurityBackupDesc:
+    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
+    'You can backup your data to your local driver on your own at anytime. '
+    'When a user decides to leave Quire and delete his or her account, '
+    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
+    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
+  mSecurityPriorityTitle: 'Privacy is our Priority',
+  mSecurityPriorityDesc:
+    'We always make sure that our users are aware of their control over their personal data. '
+    'We do not share personally identifiable information with third parties. '
+    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",

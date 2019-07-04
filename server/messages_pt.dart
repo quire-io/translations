@@ -581,7 +581,8 @@ pediu para receber emails sobre atualizações. Para cancelar a subscrição, po
   mKeyPasteHint: "Cole o que cortou ou copiou como tarefas",
   mKeyToggleDetail: "Abrir ou ocultar o painel de detalhes",
   mKeyLearnMore:
-    'Descubra mais sobre como usar o Quire apenas com o teclado' '
+    'Descubra mais sobre como usar o Quire apenas com o teclado'
+    ''
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">aqui</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'Cabeçalhos',
