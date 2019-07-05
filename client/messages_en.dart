@@ -404,7 +404,9 @@ const enClient = const <String, String> {
   mHelp: "Help",
   mDownload: "Download",
   mFullSize: "Full size",
-  
+
+  mMyTasks: "My Tasks",
+
   mOptions: "Options",
   mFilter: "Filter",
   mFilterActive: "Active Tasks",

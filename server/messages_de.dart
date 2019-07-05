@@ -16,7 +16,7 @@ Welcome to [=systemName] version [=systemVersion]"
 
 const deServer = const <String, String> {
   mSubmit: "Senden",
-  mClear: "Clear",
+  mClear: "Löschen",
   mProjectLC: "Projekt",
   mOrganizationLC: "Organisation",
   mSidebarTitleMyTasks: "MEINE AUFGABEN",
@@ -38,8 +38,8 @@ const deServer = const <String, String> {
   mLanguage: "Sprache",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'Erster Tag der Woche',
-  m24hourTime: 'Time',
-  m24hourTimeDesc: 'Enable 24-Hour time',
+  m24hourTime: 'Zeit',
+  m24hourTimeDesc: '24-Stunden-Zeit aktivieren',
   mAllow: "Zulassen",
   mDeny: "Verweigern",
   mConfirmPassword: "Passwort bestätigen",
@@ -1011,7 +1011,7 @@ unsere Neuigkeiten abonniert haben. Falls Sie keine weiteren Nachrichten dieser 
   mMobileDisconnected: "Sie sind offline. Bitte überprüfen Sie Ihre Internetverbindung.",
   mMobileTaskDeleted: "Sorry, diese Aufgabe wurde gelöscht.",
   mMobileUnableUploadAttachment: "Die Datei konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.",
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailTaskProgress: "Aufgabenfortschritt",
   mMobileDetailFollow: "Folgen",
   mMobileDetailFollowing: "Gefolgt",
   mMobileDetailProjectInfo: "Projektinfo",

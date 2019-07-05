@@ -328,6 +328,7 @@ const ptClient = const <String, String> {
   mHelp: "Ajuda",
   mDownload: "Descarregar",
   mFullSize: "Tamanho grande",
+  mMyTasks: "As Minhas Tarefas",
   mOptions: "Opções",
   mFilter: "Filtro",
   mFilterActive: "Tarefas Ativas",
