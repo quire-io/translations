@@ -936,7 +936,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileDisconnected: "Connexion perdue. Veuillez vérifier votre connexion à Internet.",
   mMobileTaskDeleted: "Désolé, cette tâche a été supprimée.",
   mMobileUnableUploadAttachment: "Nous ne pouvons pas mettre en ligne ce fichier. Veuillez réessayer.",
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailSubtaskProgress: "Subtasks Progress",
   mMobileDetailFollow: "Suivre",
   mMobileDetailFollowing: "Suivi",
   mMobileDetailProjectInfo: "Infos du Projet",
@@ -1048,5 +1048,6 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileEXTaskCreatedImgMaxDeny2: "photos ou moins",
   mMobileEXLogin: "Veuillez d'abord vous connecter à Quire",
   mMobileSelfAssign: "Attribuer à moi-même",
-  mMobileAddDue: "Ajouter une date d'échéance"
+  mMobileAddDue: "Ajouter une date d'échéance",
+  mMobileSelectATask: "Select a task"
 };

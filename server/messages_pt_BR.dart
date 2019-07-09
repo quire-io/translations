@@ -1008,7 +1008,7 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileDisconnected: "Conexão perdida. Por favor, verifique sua conexão com a internet.",
   mMobileTaskDeleted: "Desculpe, esta tarefa foi excluída.",
   mMobileUnableUploadAttachment: "Não conseguimos carregar o arquivo. Por favor, tente novamente.",
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailSubtaskProgress: "Subtasks Progress",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Seguindo",
   mMobileDetailProjectInfo: "Informação do Projeto",
@@ -1120,5 +1120,6 @@ pediu para receber atualizações por email. Para cancelar a subscrição, por f
   mMobileEXTaskCreatedImgMaxDeny2: "fotos ou menos",
   mMobileEXLogin: "Por favor, primeiro faça login no Quire",
   mMobileSelfAssign: "Atribuir para mim",
-  mMobileAddDue: "Adicionar data de conclusão"
+  mMobileAddDue: "Adicionar data de conclusão",
+  mMobileSelectATask: "Select a task"
 };

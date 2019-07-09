@@ -1332,7 +1332,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileTaskDeleted: "Sorry, this task has been deleted.",
   mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
 
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailSubtaskProgress: "Subtasks Progress",
   mMobileDetailFollow: "Follow",
   mMobileDetailFollowing: "Following",
   mMobileDetailProjectInfo: "Project Info",
@@ -1460,4 +1460,6 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
 
   mMobileSelfAssign: "Assign myself",
   mMobileAddDue: "Add due date",
+
+  mMobileSelectATask: "Select a task",
 };

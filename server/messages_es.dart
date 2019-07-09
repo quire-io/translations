@@ -1009,7 +1009,7 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileDisconnected: "Conexión perdida. Por favor, comprueba tu conexión a internet.",
   mMobileTaskDeleted: "Lo sentimos, esta tarea ha sido eliminada.",
   mMobileUnableUploadAttachment: "No podemos subir el archivo. Por favor, inténtalo de nuevo.",
-  mMobileDetailTaskProgress: "Progreso de la Tarea",
+  mMobileDetailSubtaskProgress: "Subtasks Progress",
   mMobileDetailFollow: "Seguir",
   mMobileDetailFollowing: "Siguiendo",
   mMobileDetailProjectInfo: "Información del Proyecto",
@@ -1121,5 +1121,6 @@ solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a h
   mMobileEXTaskCreatedImgMaxDeny2: "fotos o menos",
   mMobileEXLogin: "Por favor, primero inicia sesión en Quire",
   mMobileSelfAssign: "Asignármela a mí",
-  mMobileAddDue: "Añadir fecha de vencimiento"
+  mMobileAddDue: "Añadir fecha de vencimiento",
+  mMobileSelectATask: "Select a task"
 };

@@ -1009,7 +1009,7 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileDisconnected: "Connection lost. Please check your internet connection.",
   mMobileTaskDeleted: "Sorry, this task has been deleted.",
   mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
-  mMobileDetailTaskProgress: "Task Progress",
+  mMobileDetailSubtaskProgress: "Subtasks Progress",
   mMobileDetailFollow: "Follow",
   mMobileDetailFollowing: "Following",
   mMobileDetailProjectInfo: "Project Info",
@@ -1121,5 +1121,6 @@ requested to receive email updates. To unsubscribe, please <a href="[=unsubscrib
   mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
   mMobileEXLogin: "Please log in Quire first",
   mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date"
+  mMobileAddDue: "Add due date",
+  mMobileSelectATask: "Select a task"
 };
