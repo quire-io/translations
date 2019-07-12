@@ -364,7 +364,7 @@ const itClient = const <String, String> {
   mEditComment: "Edit comment",
   mPinComment: "Pin",
   mUnpinComment: "Unpin",
-  mLeanMore: "Lean more",
+  mLearnMore: "Learn more",
   mMore: "more",
   mNOther: ", and there's [=count] more",
   mDueDate: "Due date",

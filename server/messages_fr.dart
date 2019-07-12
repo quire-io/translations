@@ -68,7 +68,6 @@ const frServer = const <String, String> {
   mTermsOFService: "Conditions d'Utilisation",
   mFaq: "FAQ",
   mPricing: "Tarifs",
-  mLearnMore: "En savoir plus",
   mGetIphone: "Télécharger l'application pour iPhone",
   mGetAndroid: "Télécharger l'application pour Android",
   mGetChromeExtension: "Obtenir l'extension Chrome",

@@ -68,7 +68,6 @@ const itServer = const <String, String> {
   mTermsOFService: "Terms of Service",
   mFaq: "FAQ",
   mPricing: "Pricing",
-  mLearnMore: "Learn more",
   mGetIphone: "Get iPhone App",
   mGetAndroid: "Get Android App",
   mGetChromeExtension: "Get Chrome Extension",

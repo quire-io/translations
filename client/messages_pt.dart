@@ -369,7 +369,7 @@ const ptClient = const <String, String> {
   mEditComment: "Editar comentário",
   mPinComment: "Fixar",
   mUnpinComment: "Soltar",
-  mLeanMore: "Descubra mais",
+  mLearnMore: "Descubra mais",
   mMore: "mais",
   mNOther: ", e existem mais [=count]",
   mDueDate: "Prazo",

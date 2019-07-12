@@ -68,7 +68,6 @@ const ptBrServer = const <String, String> {
   mTermsOFService: "Termos de Serviço",
   mFaq: "FAQ",
   mPricing: "Preços",
-  mLearnMore: "Saiba mais",
   mGetIphone: "Obter App do iPhone",
   mGetAndroid: "Obter App do Android",
   mGetChromeExtension: "Obter Extensão Chrome",

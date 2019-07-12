@@ -364,7 +364,7 @@ const frClient = const <String, String> {
   mEditComment: "Modifier le commentaire",
   mPinComment: "Épingler",
   mUnpinComment: "Détacher",
-  mLeanMore: "En savoir plus",
+  mLearnMore: "En savoir plus",
   mMore: "plus",
   mNOther: ", et il y en a [=count] autres",
   mDueDate: "Date d'échéance",

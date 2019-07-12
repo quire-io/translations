@@ -369,7 +369,7 @@ const ptBrClient = const <String, String> {
   mEditComment: "Editar comentário",
   mPinComment: "Fixar",
   mUnpinComment: "Soltar",
-  mLeanMore: "Aprenda mais",
+  mLearnMore: "Aprenda mais",
   mMore: "mais",
   mNOther: ", e existem mais [=count]",
   mDueDate: "Data de Conclusão",

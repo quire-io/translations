@@ -68,7 +68,6 @@ const esServer = const <String, String> {
   mTermsOFService: "Términos del Servicio",
   mFaq: "Preguntas Frecuentes",
   mPricing: "Precios",
-  mLearnMore: "Saber más",
   mGetIphone: "Obtener aplicación de iPhone",
   mGetAndroid: "Obtener aplicación de Android",
   mGetChromeExtension: "Obtener la Extensión de Chrome",

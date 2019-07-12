@@ -358,7 +358,7 @@ const deClient = const <String, String> {
   mEditComment: "Kommentar bearbeiten",
   mPinComment: "Pin setzen",
   mUnpinComment: "Pin entfernen",
-  mLeanMore: "Mehr erfahren",
+  mLearnMore: "Mehr erfahren",
   mMore: "mehr",
   mNOther: ", und es gibt [=count] weitere",
   mDueDate: "Datum auswählen",

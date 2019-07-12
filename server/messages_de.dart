@@ -68,7 +68,6 @@ const deServer = const <String, String> {
   mTermsOFService: "Nutzungsbedingungen",
   mFaq: "FAQ",
   mPricing: "Preisgestaltung",
-  mLearnMore: "Mehr erfahren",
   mGetIphone: "iPhone App downloaden",
   mGetAndroid: "Android App downloaden",
   mGetChromeExtension: "Chrome Extension installieren",
