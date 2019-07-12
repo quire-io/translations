@@ -230,7 +230,7 @@ const frClient = const <String, String> {
   mAddBoardTask: "Ajouter des tâches",
   mAssignee: "Attribution",
   mAssignees: "Attributions",
-  mFollowers: "Followers",
+  mFollowers: "Abonnés",
   mFavorites: "Favoris",
   mUnassigned: "Non attribué",
   mAssignedTo: "Attribué à",
@@ -356,7 +356,7 @@ const frClient = const <String, String> {
   mAddStatus: "Ajouter une colonne",
   mEditStatus: "Modifier la colonne",
   mAddDesc: "Ajouter une description",
-  mEditDesc: "Édition",
+  mEditDesc: "Modifier",
   mEditSaveTooltip: "[=ctrlCommand]+&#8629;",
   mEditCancelTooltip: "[=shiftCommand]+Esc",
   mEditCancelMessage: "Utilisez [=shiftCommand]+Esc pour annuler les modifications.",
@@ -831,7 +831,7 @@ const frClient = const <String, String> {
   mConfirmAddTaskToBoardContentPlural:
     "La tâche [=task] et [=count] autres que vous avez sélectionnées ont un statut différent. "
     "Êtes-vous sûr(e) de vouloir déplacer les tâches dans cette colonne ?",
-  mCreateStatusContent: 'Vous devez définir un état d\'avancement et une couleur pour cette colonne.',
+  mCreateStatusContent: 'Un état d\'avancement et une couleur sont requis pour cette colonne.',
   mEditStatusContent: 'Vous pouvez modifier le nom, la couleur et l\'avancement de cette colonne.',
   mApiRightEditTask: "Modifier des tâches dans les projets",
   mApiRightAddTask: "Ajouter des tâches pour vous",
