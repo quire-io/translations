@@ -23,12 +23,12 @@ const frWeb = const <String, String> {
   mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
   mHomeSectionDreamsTitle: "Donnez Vie à vos Rêves",
   mHomeSectionDreamsDesc:
-    "« Il n'y avait pas de chemin avant moi, <br> "
-    "et une piste sera créée après moi. » <br>"
+    "« Il n'y avait pas de route devant moi, <br> "
+    "et un chemin sera tracé derrière moi. » <br>"
     "- Takamura Kotaro",
   mHomeSectionStartSmallTitle: "Pensez Large, Commencez Petit",
   mHomeSectionStartSmallDesc:
-    "Nous faisons face à un défi en le fractionnant. Ainsi fonctionne naturellement notre cerveau. <br>"
+    "Nous résolvons naturellement un problème en le fragmentant en tâches réalisables. <br>"
     "Quire vous permet de détailler vos idées, et de les aborder pas à pas.",
   mHomeSectionVisuallyTitle: "Organisez Vos Tâches Visuellement",
   mHomeSectionVisuallyDesc:
@@ -42,9 +42,9 @@ const frWeb = const <String, String> {
     "Tout ce dont vous avez besoin pour passer des idées à l'action. <br>"
     "Inscrivez-vous maintenant. C'est gratuit !",
   mHomeSectionSignupBottomDesc:
-    "Quire est ici pour amener vos rêves à la maison. <br>"
+    "Quire est là pour vous aider à accomplir vos rêves. <br>"
     "Donc foncez. Et amusez-vous !",
-  mHomeSection7Title: "Partout. Tout le temps.",
+  mHomeSection7Title: "Partout. À tout moment.",
   mFeaturesSection1Title: "Tout ce dont vous avez besoin. [=linebreak]Ni plus, ni moins.",
   mFeaturesSection1Desc:
     "Perdez moins de temps à vous demander comment fonctionnent les choses. <br>"
