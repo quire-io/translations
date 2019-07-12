@@ -38,8 +38,8 @@ const frServer = const <String, String> {
   mLanguage: "Langue",
   mLanguageAuto: "(auto)",
   mFirstDayOfWeek: 'Premier jour de la semaine',
-  m24hourTime: 'Time',
-  m24hourTimeDesc: 'Enable 24-Hour time',
+  m24hourTime: 'Heure',
+  m24hourTimeDesc: 'Activer l\'heure sur 24h',
   mAllow: "Autoriser",
   mDeny: "Refuser",
   mConfirmPassword: "Confirmez votre mot de passe",
@@ -509,8 +509,8 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mKeyPasteHint: "Coller en tant que tâche ce que vous avez copié",
   mKeyToggleDetail: "Ouvrir ou masquer le panneau des détails",
   mKeyLearnMore:
-    'Learn more about how to use Quire with keyboard only '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
+    'En savoir plus sur l\'utilisation de Quire avec uniquement le clavier '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">ici</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'En-têtes',
   mMDItalic: 'Italique',
@@ -527,8 +527,8 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
     'En savoir plus à propos du <a target="_blank" href="'
     '/blog/p/Our-Very-Own-Markdown.html">'
     'Markdown à la sauce Quire</a>',
-  mStatsHealthSec: "Statistiques de Progression",
-  mStatsProgressChartSec: "Statistiques de Progression",
+  mStatsHealthSec: "Statistiques",
+  mStatsProgressChartSec: "Statistiques",
   mStatsProjectSummarySec: "Résumé du Projet",
   mStatsWeeklySummarySec: "Résumé Hebdomadaire",
   mArchivedProjects: "Projets archivés",
@@ -621,7 +621,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mReceiveBlogPosts: "Nouveaux posts de blog",
   mReceivePolicyUpdates: "Mises à jour à propos du compte Quire et des politiques",
   mReceiveFeatureUpdates: "Mises à jour à propos du produit et des publications de fonctionnalités",
-  mReceiveSurvey: "Receive Quire research survey",
+  mReceiveSurvey: "Recevoir les sondages Quire",
   mReminders: "Rappels des Tâches",
   mRemindAdvance: "Rappeler les tâches à venir",
   m12hrBefore: "12 h avant",
@@ -641,7 +641,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   m2dayLater: "2 jours après",
   mStartOFNextWeek: "En début de semaine suivante",
   mRemindDefaultTime: "Heure de rappel",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
+  mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
   mShowFavoritedMyTasks: 'Afficher les Tâches Favorites dans Mes Tâches',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mAlreadySignedUP: "[=email] est déjà inscrit",
