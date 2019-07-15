@@ -455,7 +455,7 @@ const enClient = const <String, String> {
   mEditComment: "Edit comment",
   mPinComment: "Pin",
   mUnpinComment: "Unpin",
-  
+  mLearnMore: "Learn more",
   mMore: "more",
   mNOther: ", and there's [=count] more",
 
