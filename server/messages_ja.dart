@@ -220,122 +220,106 @@ const jaServer = const <String, String> {
   mSignupProject: "[=user]'s Project",
   mEmailSignupSubject: 'Complete your Quire sign up',
   mEmailSignupContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>You are one click away!</p>
 
-<p>To start using Quire, please verify your email address by clicking here:</p>
+<p>To start using Quire, please verify your email address by clicking the below button.</p>
 
-<p style="margin-left:30px">[=link]</p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Verify</a>
+</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
   mEmailProfileChangeContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know you have changed [=fields] in your profile.</p>
 
 <p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailInviteSubject: "Quire: You are invited to join [=host]",
   mEmailInviteContent: '''
-<p>Hello,</p>
+[=header]
 
 <p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
 
-<p>To accept the invitation, please visit the following link:</p>
+<p>To accept the invitation, please visit the below button.</p>
 
-<p style="margin-left:30px">[=link] </p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Accept invitation</a>
+</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
   mEmailInviteFriendsContent: '''
-<p>Hello,</p>
+[=header]
 
 <p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
 a project management solution he is enjoying.</p>
 
-<p>To accept the invitation, please visit the following link. It is free!</p>
+<p>To accept the invitation, please click the below button. It is free!</p>
 
-<p style="margin-left:30px">[=link]</p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Accept invitation</a>
+</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know:</p>
 
 [=digest]
 
-<p>Thanks,</p>
+[=footer]
 
-<p>The Quire Team</p>
+<hr class="end"/>
 
-<hr/>
-
-<p style="font-style:italic;font-size:80%">You are receiving this email because you are
-following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
-<style>.t-desc-block {word-wrap: break-word;}
-.t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
-.t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
-.t-desc-block img {max-width:100%;}</style>
+<p>You are receiving this email because you are following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
 ''',
   mEmailDigestSubject: "Quire: A total [=count] notifications for you",
   mEmailDigestContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>There are a total of [=count] notifications for you:</p>
 
 [=digest]
 
-<p>Thanks,</p>
+[=footer]
 
-<p>The Quire Team</p>
+<hr class="end"/>
 
-<hr/>
-
-<p style="font-style:italic;font-size:80%">You are receiving this email because you requested to
-receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
-<style>.t-desc-block {word-wrap: break-word;}
-.t-desc-block p,.t-desc-block li,.t-desc-block th,.t-desc-block td {white-space: pre-wrap;}
-.t-desc-block li p {margin-top: 0.5em; margin-bottom: 0.5em;}
-.t-desc-block img {max-width:100%;}</style>
+<p>You are receiving this email because you requested to receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
 ''',
   mEmailEmailChangeSubject: "Quire: Please verify your new email address",
   mEmailEmailChangeContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>You have recently updated a new email address for your Quire account.</p>
 
-<p>Please click the below link within the next 12 hours to verify your new email address:</p>
+<p>Please click the below button within the next 12 hours to verify your new email address.</p>
 
-<p style="margin-left:30px">[=link]</p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Verify</a>
+</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailEmailChangeNotificationSubject: "Quire: Your primary email address has been changed",
   mEmailEmailChangeNotificationContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know you have changed your primary
 email address to <b>[=newEmail]</b>.
@@ -347,49 +331,46 @@ including account-related notifications and task activities.</p>
 <p>If you did not make the change, please
 <a href="mailto:support@quire.io">contact us</a> immediately.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailAddEmailSubject: "Quire: Please verify your new email address",
   mEmailAddEmailContent: '''
-<p>Hi [=name],</p>
+[=header]
 
-<p>Please visit the following link within the next 12 hours to verify your new email address:</p>
+<p>Please click the below button within the next 12 hours to verify your new email address.</p>
 
-<p style="margin-left:30px">[=link]</p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Verify</a>
+</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailForgotPasswordSubject: "Quire: Please reset your password",
   mEmailForgotPasswordContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>You are receiving this email because you lost your Quire password.</p>
 
-<p>Please visit the following link within the next 2 hours to reset your password:</p>
+<p>Please click the below button within the next 2 hours to reset your password.</p>
 
-<p style="margin-left:30px">[=link]</p>
+<p class="text-center">
+  <a href="[=link]" class="btn">Reset password</a>
+</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailInviteConfirmedSubject: "[=inviteeName] has accepted your invitation to Quire",
   mEmailInviteConfirmedContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
-  mEmailSubscriberContentHeader: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
   mEmailSubscriberContent: '''
 [=header]
 
@@ -399,41 +380,34 @@ including account-related notifications and task activities.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you 
-requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>You are receiving this email because you requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
 ''',
-  mEmailSubscriberContentFooter:
+  mEmailContentFooter:
     '<p class="end-row-1">Thanks,</p>'
     '<p class="end-row-2">The Quire Team</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
   mEmailLeaveMemberContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
   mEmailNewProjectContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mEmailDeleteProjectSubject: "Quire: [=member] has deleted [=project]",
   mEmailDeleteProjectContent: '''
-<p>Hi [=name],</p>
+[=header]
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=project]".</p>
 
-<p>Thanks,</p>
-
-<p>The Quire Team</p>
+[=footer]
 ''',
   mSummaryUnknown: "Activity Update",
   mExtraValue: " as [=value]",
