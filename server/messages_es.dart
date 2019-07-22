@@ -384,7 +384,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
 ''',
   mEmailContentFooter:
     '<p class="end-row-1">Gracias,</p>'
-    '<p class="end-row-2">El Equipo de Quire</p>',  
+    '<p class="end-row-2">El Equipo de Quire</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] ha abandonado [=target]",
   mEmailLeaveMemberContent: '''
 [=header]

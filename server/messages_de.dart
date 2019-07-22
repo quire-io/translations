@@ -367,8 +367,8 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
 
 [=footer]
 ''',
-  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
-  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">Hola,</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">Hola [=name],</p>',
   mEmailSubscriberContent: '''
 [=header]
 
