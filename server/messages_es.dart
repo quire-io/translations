@@ -238,9 +238,9 @@ const esServer = const <String, String> {
   mEmailProfileChangeContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed [=fields] in your profile.</p>
+<p>Te escribimos para hacerte saber que has cambiado [=fields] en tu perfil.</p>
 
-<p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Si tú no has hecho estos cambios, por favor <a href="mailto:support@quire.io">contacta con nosotros</a> inmediatamente.</p>
 
 [=footer]
 ''',
@@ -277,7 +277,7 @@ a project management solution he is enjoying.</p>
   mEmailPerUpdateContent: '''
 [=header]
 
-<p>We are writing to let you know:</p>
+<p>Te escribimos para hacerte saber:</p>
 
 [=digest]
 
@@ -285,13 +285,13 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you are following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>Has recibido este email porque estás siguiendo [=source]. Para darte de baja, por favor <a href="[=unsubscribe]">pulsa aquí</a>.</p>
 ''',
   mEmailDigestSubject: "Quire: Tienes [=count] notificaciones",
   mEmailDigestContent: '''
 [=header]
 
-<p>There are a total of [=count] notifications for you:</p>
+<p>Hay un total de [=count] notificaciones esperándote:</p>
 
 [=digest]
 
@@ -299,7 +299,7 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
+<p>Has recibido este email ya que has solicitado recibir actualizaciones de actividad. Para cambiar la frecuencia de recepción, <a href="https://quire.io/r/setting?tab=options#email">pulsa aquí</a>. Para darte de baja, <a href="[=unsubscribe]">pulsa aquí</a>.</p>
 ''',
   mEmailEmailChangeSubject: "Quire: Por favor, verifica tu nueva dirección de email",
   mEmailEmailChangeContent: '''
@@ -321,15 +321,15 @@ a project management solution he is enjoying.</p>
   mEmailEmailChangeNotificationContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed your primary
-email address to <b>[=newEmail]</b>.
+<p>Te escribimos para hacerte saber que has cambiado
+tu dirección de email principal a <b>[=newEmail]</b>.
 
-<p>All notifications related to you will be sent to your new
-primary email address,
-including account-related notifications and task activities.</p>
+<p>Toda notificación relacionada contigo será enviada a tu nueva
+dirección de email principal,
+incluyendo notificaciones de cuenta y actividades de tareas.</p>
 
-<p>If you did not make the change, please
-<a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Si tú no has hecho este cambio, por favor
+<a href="mailto:support@quire.io">contacta con nosotros</a> immediatamente.</p>
 
 [=footer]
 ''',
@@ -365,12 +365,12 @@ including account-related notifications and task activities.</p>
   mEmailInviteConfirmedContent: '''
 [=header]
 
-<p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
+<p>Tras tu invitación, [=invitee] ([=inviteeEmail]) se ha unido a Quire satisfactoriamente.</p>
 
 [=footer]
 ''',
-  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
-  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">Hola,</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">Hola [=name],</p>',
   mEmailSubscriberContent: '''
 [=header]
 
@@ -380,16 +380,16 @@ including account-related notifications and task activities.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>Has recibido este email ya que solicitaste recibir actualizaciones de email. Para darte de baja, por favor <a href="[=unsubscribe]">pulsa aquí</a>.</p>
 ''',
   mEmailContentFooter:
-    '<p class="end-row-1">Thanks,</p>'
-    '<p class="end-row-2">The Quire Team</p>',
+    '<p class="end-row-1">Gracias,</p>'
+    '<p class="end-row-2">El Equipo de Quire</p>',  
   mEmailLeaveMemberSubject: "Quire: [=member] ha abandonado [=target]",
   mEmailLeaveMemberContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
+<p>Te escribimos para hacerte saber que [=member] ([=memberEmail]) ha abandonado [=target].</p>
 
 [=footer]
 ''',
@@ -397,7 +397,7 @@ including account-related notifications and task activities.</p>
   mEmailNewProjectContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
+<p>Te escribimos para hacerte saber que [=member] ([=memberEmail]) ha creado [=project].</p>
 
 [=footer]
 ''',
@@ -405,7 +405,7 @@ including account-related notifications and task activities.</p>
   mEmailDeleteProjectContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=project]".</p>
+<p>Te escribimos para hacerte saber que [=member] ([=memberEmail]) ha eliminado "[=project]".</p>
 
 [=footer]
 ''',
