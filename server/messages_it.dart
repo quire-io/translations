@@ -218,6 +218,98 @@ const itServer = const <String, String> {
   mMyTasksEmptyMessage: "Hurray~ no task is due!",
   mSignupOrganization: "[=user]'s Organization",
   mSignupProject: "[=user]'s Project",
+  mEmailWelcomeSubject: "How're you finding Quire so far?",
+  mEmailWelcomeContent: '''
+[=header]
+
+<p>We’re super excited to have you on board!</p>
+
+<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+
+<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+
+[=img]
+
+<p class="text-center">
+  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+</p>
+
+<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
+to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+
+<p>Live your dreams and achieve your goals with Quire!</p>
+
+<p>Have a great day!</p>
+
+<p>Best Regards,</p>
+
+<p>[=replyToName]</p>
+
+<hr class="end"/>
+
+<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+''',
+  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalContent: '''
+[=header]
+
+<p>I know, you're new to Quire. I just want to tell you a few things that others like
+about Quire, in case you've overlooked:</p>
+
+<p><b>It Simplifies the Complicated</b></p>
+
+<p>Tasks are broken down into as many steps as you need to complete them
+one by one. No matter how big or challenging your goal is, Quire makes it
+easy to achieve.</p>
+
+<p><b>It Thinks One Step Ahead</b></p>
+
+<p>One reason people switch to Quire is its clean and intuitive design,
+which fits well even with your long and messy to-do list inside.</p>
+
+<p><b>It Collaborates with Anyone</b></p>
+
+<p>Share your workload by assigning tasks to colleagues, business partners,
+friends or family. Teamwork has never been easier, thanks to real-time
+communication and collaboration.</p>
+
+<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+
+<p>Of course, should you have any question while using Quire, we are here to help.</p>
+
+<p>Best regards,</p>
+
+<p>[=replyToName]</p>
+
+<hr class="end"/>
+
+<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+''',
+  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingContent: '''
+<p>Hello [=name],</p>
+
+<p>Thanks again for using Quire.</p>
+
+<p>We hope Quire's been assisting you in achieving your goals. 
+<a href="https://twitter.com/quire_io">More features</a> are being carefully
+crafted to help our users so we do hope you'd stay tuned and see
+how Quire may lessen your project management efforts.</p>
+
+<p>If you don't think Quire is the right solution for you, please let us
+know in what areas we may improve upon so we can reach more users like you.</p>
+
+<p>Should you wish to have a chat about it, we'd love to arrange
+for a call with you.</p>
+
+<p>We would love to hear from you,</p>
+
+<p>[=replyToName]</p>
+
+<hr class="end"/>
+
+<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+''',
   mEmailSignupSubject: 'Complete your Quire sign up',
   mEmailSignupContent: '''
 [=header]
