@@ -517,7 +517,7 @@ const frClient = const <String, String> {
   mSearchTaskHintAll: "Chercher parmi toutes les tâches",
   mSearchTaskHintComplete: "Chercher parmi les tâches terminées",
   mSearchTaskHintArchive: "Chercher parmi les tâches peekaboo",
-  mSearchTaskHintAutocomplete: "Vous pouvez aussi chercher par @attribution, #étiquette ou !priorité",
+  mSearchTaskHintAutocomplete: "Essayez avec @attribution, #étiquette ou !priorité",
   autocompleteStyleTitle: "Titre",
   autocompleteStyleRed: "Rouge",
   autocompleteStyleOrange: "Orange",
