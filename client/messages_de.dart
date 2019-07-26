@@ -750,6 +750,7 @@ const deClient = const <String, String> {
   mInvalidId: 'Ungültige ID. Es sind nur Buchstaben, Zahlen, Bindestriche, Punkte und Unterstriche erlaubt.',
   mInvalidUrl: 'Ungültige URL',
   mInvalidValue: 'Ungültiger Wert',
+  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Bestätigung gesendet',
   mEmailConfirmSent:
     'Eine Bestätigungsmail wurde gesendet. '

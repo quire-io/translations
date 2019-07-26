@@ -166,10 +166,10 @@ const enWeb = const <String, String> {
   mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
 
   mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quick assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
 
   mFeatureBatchOPTitle: "Batch Operations",
-  mFeatureBatchOPDesc: "Make changes, such as assign a member and tag, to all your selected tasks at once.",  
+  mFeatureBatchOPDesc: "Make changes, such as assigning a member and tag, to all your selected tasks at once.",  
 
   mFeatureTemplateTitle: "Project Template",
   mFeatureTemplateDesc: "Save time - duplicate a project or task to use as a template.",
@@ -189,7 +189,7 @@ const enWeb = const <String, String> {
 
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so much exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
+    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
     "<p>At least until the second half of 2019.</p>"
     "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
     "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
@@ -229,7 +229,7 @@ const enWeb = const <String, String> {
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "From start to finish",
   mMobileWelcomeP3Title: "Streamline your workflow",
-  mMobileWelcomeP4Title: "Get in action",
+  mMobileWelcomeP4Title: "Get into action",
   mMobileWelcomeP1Desc: "Unfold your ideas.",
   mMobileWelcomeP2Desc: "Swipe left or right to complete, delete or add a task.",
   mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",

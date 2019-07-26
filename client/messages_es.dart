@@ -756,6 +756,7 @@ const esClient = const <String, String> {
   mInvalidId: 'ID inválida. Solo se permiten letras, dígitos, guiones, puntos y guiones bajos.',
   mInvalidUrl: 'URL no válida',
   mInvalidValue: 'Valor no válido',
+  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Confirmación Enviada',
   mEmailConfirmSent:
     'Se ha enviado un email de confirmación. '

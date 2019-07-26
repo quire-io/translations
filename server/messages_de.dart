@@ -218,111 +218,111 @@ const deServer = const <String, String> {
   mMyTasksEmptyMessage: "Entspannen Sie sich!<br>Es gibt nichts zu tun für Sie!",
   mSignupOrganization: "[=user]'s Organisation",
   mSignupProject: "[=user]'s Projekt",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+  mEmailWelcomeSubject: "Wie findest du Quire so weit?",
   mEmailWelcomeContent: '''
 [=header]
 
-<p>We’re super excited to have you on board!</p>
+<p>Wir freuen uns sehr, Sie an Bord zu haben!</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>Hast Du noch Fragen oder Anregungen? Lass' es mich wissen, ich helfe Dir gerne weiter!</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>Falls Du dir nicht sicher bist, wo Du anfangen sollst, haben wir ein Tutorial für dich, das dir beim Einstieg hilft.</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">Tutorial ansehen</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>Oh, wir haben auch einen <a href="https://quire.io/blog/">Blog</a>, 
+um unsere Tipps zu teilen, um das Beste aus Quire herauszuholen, und dir viele interessante Geschichten darüber zu erzählen, wie andere Quire verwenden, von denen wir glauben, dass sie dich inspirieren und motivieren könnten! Schau doch mal rein!</p>
+<p>Lebe deine Träume und erreiche deine Ziele mit Quire!</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>Hab einen wunderbaren Tag!</p>
 
-<p>Have a great day!</p>
-
-<p>Best Regards,</p>
+<p>Beste Grüße,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Wenn Sie in Zukunft keine derartigen E-Mails mehr erhalten möchten, können Sie sich <a href="[=unsubscribe]">hier abmelden</a>.</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject: "Möglicherweise verpassen Sie etwas bei Quire",
   mEmailValueProposalContent: '''
 [=header]
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Ich weiß, du bist neu bei Quire. Ich möchte dir nur ein paar Dinge erzählen,
+die andere an Quire mögen</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>Es vereinfacht das Komplizierte</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>Aufgaben sind in so viele Schritte unterteilt, wie Sie benötigen,
+um sie nacheinander abzuarbeiten. Egal wie groß oder herausfordernd das Ziel ist,
+Quire macht es einfach, es zu erreichen.</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>Es denkt einen Schritt voraus</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>Ein Grund für den Umstieg auf Quire ist das klare und intuitive Design.
+Das passt auch für lange und chaotische Aufgabenlisten.</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>Es arbeitet mit jedem zusammen</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>Teile deine Arbeitslast, indem Du Aufgaben Kollegen,
+Geschäftspartnern, Freunden oder der Familie zuweist.
+Teamwork war nie einfacher.</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>Worauf wartest Du? <a href="https://quire.io/w">Erreichen deine Ziele mit Quire!</a></p>
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>Solltest Du während der Verwendung von Quire Fragen haben, helfen wir gerne weiter.</p>
 
-<p>Best regards,</p>
+<p>Beste Grüße,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Wenn Sie in Zukunft keine derartigen E-Mails mehr erhalten möchten, können Sie sich <a href="[=unsubscribe]">hier abmelden</a>.</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject: "Wir haben dich eine Weile nicht mehr auf Quire gesehen",
   mEmailLeavingContent: '''
-<p>Hello [=name],</p>
+<p>Hi [=name],</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Nochmals vielen Dank, dass Du Quire verwedest.</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>Wir hoffen, dass Quire dich beim Erreichen deiner Ziele unterstützt hat. 
+<a href="https://twitter.com/quire_io">Mehr Funktionen</a> werden sorgfältig
+ausgearbeitet, um unsere Nutzer bei der täglichen Arbeit zu unterstützen.
+Wir hoffen, dass Du auf dem Laufenden bleibst um zu sehen, wie Quire deinen
+Projektmanagementaufwand verringern kann.</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Wenn Du nicht der Meinung bist, dass Quire die richtige Lösung für dich ist,
+teile uns doch bitte mit, in welchen Bereichen wir besser werden können.</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>Wenn du dich darüber im Detail austauschen möchtest,
+vereinbaren wir gerne einen Anruf mit dir.</p>
 
-<p>We would love to hear from you,</p>
+<p>Wir würden uns freuen, von dir zu hören,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Wenn Sie in Zukunft keine derartigen E-Mails mehr erhalten möchten, können Sie sich <a href="[=unsubscribe]">hier abmelden</a>.</p>
 ''',
   mEmailSignupSubject: 'Quire: Anmeldebestätigung',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Du bist nur einen Klick entfernt!</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>Um Quire zu verwenden, bestätige bitte deine E-Mail-Adresse, indem Du unten auf den Button klickst.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">E-Mail-Adresse bestätigen</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Falls Du diese E-Mail nicht erkennst, ignoriere sie einfach.</p>
 
 [=footer]
 ''',
@@ -340,12 +340,12 @@ for a call with you.</p>
   mEmailInviteContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Du wurdest von [=invitor] eingeladen [=hostType] beizutreten: [=host].</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>Um die Einladung anzunehmen, klicke bitte auf den folgenden Button.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Einladung annehmen</a>
 </p>
 
 [=footer]
@@ -354,13 +354,12 @@ for a call with you.</p>
   mEmailInviteFriendsContent: '''
 [=header]
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) hat dich zu <a href="https://quire.io">Quire</a> eingeladen.</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>Um die Einladung anzunehmen, klicke bitte auf den folgenden Button. Es ist kostenlos!</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Einladung annehmen</a>
 </p>
 
 [=footer]
@@ -397,15 +396,15 @@ a project management solution he is enjoying.</p>
   mEmailEmailChangeContent: '''
 [=header]
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Du hast kürzlich eine neue E-Mail-Adresse für dein Quire-Konto angegeben.</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Bitte klicke innerhalb der nächsten 12 Stunden unten auf den Button, um deine neue E-Mail-Adresse zu bestätigen.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Neue E-Mail-Adresse bestätigen</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Falls Du diese E-Mail nicht erkennst, ignoriere sie einfach.</p>
 
 [=footer]
 ''',
@@ -427,13 +426,13 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Bitte klicke innerhalb der nächsten 12 Stunden unten auf den Button, um deine neue E-Mail-Adresse zu bestätigen.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Neue E-Mail-Adresse bestätigen</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Falls Du diese E-Mail nicht erkennst, ignoriere sie einfach.</p>
 
 [=footer]
 ''',
@@ -441,12 +440,12 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mEmailForgotPasswordContent: '''
 [=header]
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Du erhältst diese E-Mail, weil du dein Quire-Passwort verloren hast.</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>Bitte klicke innerhalb der nächsten 2 Stunden unten auf den Button, um dein Passwort zurück zu setzen.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">Passwort zurücksetzen</a>
 </p>
 
 [=footer]
@@ -535,7 +534,7 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   "AT$atTaskMention": "[=who] hat Sie in [=what][=value] erwähnt",
   "AT$atDuplicateRecurring": "[=who] hat [=what] von der wiederkehrenden Aufgabe [=value] kopiert",
   "AT$atSetPriority": "[=who] hat die Priorität von [=what] auf [=value] gesetzt",
-  "AT$atSetTaskType": "[=who] set the type of [=what] to [=value]",
+  "AT$atSetTaskType": "[=who] hat den Typ von [=what] auf [=value] gesetzt",
   "AT$atStartTask": "[=who] hat die Arbeit an [=what] begonnen",
   "AT$atPauseTask": "[=who] hat [=what] aufgeschoben",
   "AT$atSetBoard": "[=who] hat [=what] zu [=value] hinzugefügt",

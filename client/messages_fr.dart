@@ -756,6 +756,7 @@ const frClient = const <String, String> {
   mInvalidId: 'ID invalide. Seuls les lettres, nombres, tirets, points et underscores sont autorisés.',
   mInvalidUrl: 'URL invalide',
   mInvalidValue: 'Valeur invalide',
+  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Confirmation Envoyée',
   mEmailConfirmSent:
     'Un email de confirmation a été envoyé. '

@@ -966,6 +966,7 @@ const enClient = const <String, String> {
   mInvalidId: 'Invalid ID. Only letters, digits, dashes, dots, and underscores are allowed.',
   mInvalidUrl: 'Invalid URL',
   mInvalidValue: 'Invalid value',
+  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Confirmation Sent',
   mEmailConfirmSent:
     'A confirmation email has been sent. '

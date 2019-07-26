@@ -761,6 +761,7 @@ const ptClient = const <String, String> {
   mInvalidId: 'ID inválida. Apenas letras, dígitos, travessões, pontos e subtraços são permitidos.',
   mInvalidUrl: 'URL inválido',
   mInvalidValue: 'Valor inválido',
+  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Confirmação Enviada',
   mEmailConfirmSent:
     'Foi enviado um email de confirmação. '
