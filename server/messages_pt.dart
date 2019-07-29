@@ -218,97 +218,97 @@ const ptServer = const <String, String> {
   mMyTasksEmptyMessage: "Viva~ não tem tarefas em atraso!",
   mSignupOrganization: "Organização de [=user]",
   mSignupProject: " Projeto de [=user]",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+  mEmailWelcomeSubject: "O que acha do Quire até agora?",
   mEmailWelcomeContent: '''
 [=header]
 
-<p>We’re super excited to have you on board!</p>
+<p>Estamos super entusiasmados por tê-l@ a bordo!</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>Tem alguma questão ou sugestão que queira partilhar? Conte-me, terei todo o prazer em ajudar!</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>Caso não saiba por onde começar, temos um tutorial para que possa acompanhar passo a passo!</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">Ver Tutorial</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>Ah, também temos um <a href="https://quire.io/blog/">blog</a>, 
+onde partilhamos as nossas dicas para que possa ter o melhor do Quire e lhe damos a conhecer muitas histórias interessantes de como outros utilizadores usam o Quire e que pensamos que podem ser inspiradoras e motivadoras para si! Dê uma espreitadela!</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>Viva os seus sonhos e alcance os seus objetivos com o Quire!</p>
 
-<p>Have a great day!</p>
+<p>Tenha um excelente dia!</p>
 
-<p>Best Regards,</p>
+<p>Com os Melhores Cumprimentos,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Caso não queira receber emails como este no futuro, por favor, <a href="[=unsubscribe]">cancele a subscrição aqui</a>.</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject: "Pode estar a perder o que se passa no Quire",
   mEmailValueProposalContent: '''
 [=header]
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Eu sei, é nov@ no Quire. Gostaria apenas de lhe contar algumas coisas que outras pessoas gostam 
+do Quire, que lhe podem ter passado despercebidas:</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>Simplifica o Complicado</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>As tarefas são divididas em tantas etapas quanto necessite para que as possa concluir
+uma a uma. Não importa quão grande ou desafiante seja o seu objetivo, o Quire faz com que 
+seja fácil de alcançar.</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>Pensa um Passo à Frente</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>Uma das razões pelas quais as pessoas mudam para o Quire é devido ao seu design limpo e intuitivo, 
+que encaixa na perfeição mesmo com a sua longa e confusa lista de tarefas dentro.</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>Colabora com Qualquer Pessoa</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>Partilhe o seu volume de trabalho ao atribuir tarefas a colegas, parceiros de negócio, 
+amigos ou família. O trabalho de equipa nunca foi tão fácil, graças à comunicação 
+e colaboração em tempo real.</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>Então, do que está à espera? <a href="https://quire.io/w">Realize os seus objetivos com o Quire!</a></p>
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>Claro, se tiver alguma dúvida enquanto usa o Quire, estamos aqui para ajudar.</p>
 
-<p>Best regards,</p>
+<p>Com os Melhores Cumprimentos,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Caso não queira receber emails como este no futuro, por favor, <a href="[=unsubscribe]">cancele a subscrição aqui</a>.</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject: "Há algum tempo que não @ vemos no Quire",
   mEmailLeavingContent: '''
-<p>Hello [=name],</p>
+<p>Olá [=name],</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Mais uma vez obrigad@ por usar o Quire.</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>Esperamos que o Quire @ esteja a ajudar a alcançar os seus objetivos. 
+Estamos cuidadosamente a trabalhar em <a href="https://twitter.com/quire_io">Mais Recursos</a> para ajudar 
+os nossos utilizadores, por isso, esperamos que esteja atent@ às novidades 
+para ver como o Quire pode diminuir os seus esforços na gestão de projetos.</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Se não acha que o Quire é a solução ideal para si, por favor, diga-nos 
+em que áreas podemos melhorar para que possamos alcançar mais utilizadores como você.</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>Se quiser conversar sobre o assunto, teremos todo o prazer 
+em agendar uma chamada consigo.</p>
 
-<p>We would love to hear from you,</p>
+<p>Adoraríamos saber a sua opinião,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Caso não queira receber emails como este no futuro, por favor, <a href="[=unsubscribe]">cancele a subscrição aqui</a>.</p>
 ''',
   mEmailSignupSubject: 'Complete o seu registo no Quire',
   mEmailSignupContent: '''
