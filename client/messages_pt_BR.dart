@@ -761,7 +761,7 @@ const ptBrClient = const <String, String> {
   mInvalidId: 'ID inválida. Somente letras, dígitos, traços, pontos e sublinhas são permitidos.',
   mInvalidUrl: 'URL inválido',
   mInvalidValue: 'Valor inválido',
-  mInvalidCompany: 'You cannot use Quire or Potix as company name.',
+  mInvalidCompany: 'Você não pode usar Quire ou Potix como nome de empresa.',
   mEmailConfirmSentTitle: 'Confirmação Enviada',
   mEmailConfirmSent:
     'Um email de confirmação foi enviado. '
