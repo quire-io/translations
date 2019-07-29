@@ -145,6 +145,35 @@ const jaWeb = const <String, String> {
     "<p>しかもそれまでに追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
     '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
   mCookieGDPRDesc:"当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
+ 
+ mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageDesc: 
+    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
+    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
+  mSecurityEncryptionTitle: 'Data Encryption',
+  mSecurityEncryptionDesc: 
+    "At Quire, we take personal data protection very serious. "
+    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
+    'You can check out our <a href="/policy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
+  mSecurityStorageTitle: 'Data Storage Security',
+  mSecurityStorageDesc: 
+    'Your data is stored in the United States by Amazon Web Services (AWS), '
+    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
+    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
+    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
+  mSecurityBackupTitle: 'Data Backup',
+  mSecurityBackupDesc: 
+    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
+    'You can backup your data to your local driver on your own at anytime. '
+    'When a user decides to leave Quire and delete his or her account, '
+    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
+    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
+  mSecurityPriorityTitle: 'Privacy is our Priority',
+  mSecurityPriorityDesc: 
+    'We always make sure that our users are aware of their control over their personal data. '
+    'We do not share personally identifiable information with third parties. '
+    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+  
   mMobileWelcomeP1Title1:"ようこそ",
   mMobileWelcomeP1Title2:"Quireへ",
   mMobileWelcomeP2Title:"スタートから完成まで",
