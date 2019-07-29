@@ -24,9 +24,9 @@ const jaWeb = const <String, String> {
   mQuireDescription: '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
   mHomeSectionDreamsTitle: "夢を、かたちに",
   mHomeSectionDreamsDesc:
-    "“There’s no path before me, <br> "
-    "and a track will be created behind me.” <br>"
-    "- Takamura Kotaro",
+    "「僕の前に道はない<br> "
+    "僕の後ろに道は出来る」<br>"
+    "高村光太郎『道程』より",
   mHomeSectionStartSmallTitle: "大きな夢は、小さな一歩から",
   mHomeSectionStartSmallDesc:
     "どんな人でも、作業の細分化はひと仕事。 <br>"
@@ -78,7 +78,7 @@ const jaWeb = const <String, String> {
   mFeatureRoleTitle:"権限管理",
   mFeatureRoleDesc:"各メンバーに適切な権限を設定できます。",
   mFeatureShareLinkTitle:"顧客と共有",
-  mFeatureShareLinkDesc: "Send an invitation link to your clients so they can access your project without signup.",
+  mFeatureShareLinkDesc: "招待リンクを送り、登録不要でプロジェクトを共有しましょう。",
   mFeatureShareTitle:"限定公開",
   mFeatureShareDesc:"URLを知っていれば誰でもプロジェクトを閲覧できます。",
   mFeatureDrilldownTitle:"ズームイン",
