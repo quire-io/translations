@@ -218,111 +218,111 @@ const esServer = const <String, String> {
   mMyTasksEmptyMessage: "¡Bravo, no hay tareas vencidas!",
   mSignupOrganization: "Organización de [=user]",
   mSignupProject: "Proyecto de [=user]",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+  mEmailWelcomeSubject: "¿Qué te está pareciendo QUire?",
   mEmailWelcomeContent: '''
 [=header]
 
-<p>We’re super excited to have you on board!</p>
+<p>¡Estamos súper emocionados de tenerte a bordo!</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>¿Tienes alguna pregunta o sugerencia? ¡Cuéntame, estaré encantado de ayudarte!</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>¡En caso de que no estés seguro de por dónde empezar, tenemos un tutorial que puedes seguir paso a paso!</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">Ver Tutorial</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>Ah, también tenemos un <a href="https://quire.io/blog/">blog</a>, 
+en el que compartimos nuestros consejos para sacar el máximo partido de Quire y contarte unas cuantas historias interesantes de cómo otros usuarios utilizan Quire. ¡Seguro que te inspiran y motivan! ¡Échale un vistazo!</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>¡Vive tus sueños y logra tus metas con Quire!</p>
 
-<p>Have a great day!</p>
+<p>¡Que tengas un gran día!</p>
 
-<p>Best Regards,</p>
+<p>Saludos Cordiales,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Si no deseas recibir correos electrónicos como este en el futuro, por favor <a href="[=unsubscribe]">date de baja aquí</a>.</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject: "Por si te estás perdiendo en Quire",
   mEmailValueProposalContent: '''
 [=header]
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Lo sé, eres nuevo en Quire. Solo contarte algunas cosas que gustan
+de Quire, por si se te han pasado por alto:</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>Simplifica lo Complicado</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>Las tareas se dividen en tantos pasos como sea necesario para
+completarlas uno a uno. No importa lo grande o desafiante que sea tu objetivo,
+Quire hace que sea fácil de conseguir.</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>Un Paso por Delante</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>Una razón por la que la gente cambia a Quire es su diseño claro e intuitivo,
+que encaja perfectamente incluso con tu larga y desordenada lista de tareas.</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>Colabora con CUalquiera</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>Comparte tu carga de trabajo asignando tareas a colegas, socios comerciales,
+amigos o familia. El trabajo en equipo nunca ha sido tan fácil, gracias a la
+communicación y colaboración en tiempo real.</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>Entonces, ¿a qué esperas? <a href="https://quire.io/w">¡Completa tus objetivos con Quire!</a></p>
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>Por supuesto, para cualquier duda que tengas con Quire, estamos aquí para ayudarte.</p>
 
-<p>Best regards,</p>
+<p>Saludos cordiales,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Si no deseas recibir correos electrónicos como este en el futuro, por favor <a href="[=unsubscribe]">date de baja aquí</a>.</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject: "Hace ya un tiempo que no te vemos por Quire",
   mEmailLeavingContent: '''
-<p>Hello [=name],</p>
+<p>Hola [=name],</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Gracias de nuevo por usar Quire.</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>Esperamos que Quire te haya estado ayudando a lograr tus objetivos. 
+Estamos diseñando cuidadosamente <a href="https://twitter.com/quire_io">más funciones</a>
+para ayudar a nuestros usuarios, por lo que esperamos que estés pendiente y veas
+cómo Quire puede disminuir tus esfuerzos gestionando proyectos.</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Si crees que Quire no es la mejor solución para ti, por favor
+dinos en qué áreas podemos mejorar para llegar a más usuarios como tú.</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>Si deseas hablar de ello, nos encantaría organizar
+una llamada para comentarlo contigo.</p>
 
-<p>We would love to hear from you,</p>
+<p>Queremos saber más de ti,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Si no deseas recibir correos electrónicos como este en el futuro, por favor <a href="[=unsubscribe]">date de baja aquí</a>.</p>
 ''',
   mEmailSignupSubject: 'Completa tu registro en Quire',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>¡Estás a un solo clic!</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>Para empezar a usar Quire, por favor verifica tu dirección de correo electrónico pulsando en el botón inferior.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si no reconoces este email, por favor ignóralo.</p>
 
 [=footer]
 ''',
@@ -340,12 +340,12 @@ for a call with you.</p>
   mEmailInviteContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Has sido invitado por [=invitor] para unirte a [=hostType]: [=host].</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>Para aceptar la invitación, por favor pulsa el botón inferior.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Aceptar invitación</a>
 </p>
 
 [=footer]
@@ -354,13 +354,13 @@ for a call with you.</p>
   mEmailInviteFriendsContent: '''
 [=header]
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) te ha invitado a unirte a <a href="https://quire.io">Quire</a>;
+una solución de gestión de proyectos que está disfrutando.</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>Para aceptar la invitación, por favor pulsa el botón inferior. ¡Es gratis!</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Aceptar invitación</a>
 </p>
 
 [=footer]
@@ -397,15 +397,15 @@ a project management solution he is enjoying.</p>
   mEmailEmailChangeContent: '''
 [=header]
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Has actualizado recientemente una nueva dirección de email para tu cuenta de Quire.</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Por favor, haz clic en el botón inferior dentro de las próximas 12 horas para verificar tu nueva dirección de email.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si no reconoces este email, por favor ignóralo.</p>
 
 [=footer]
 ''',
@@ -429,13 +429,13 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Por favor, haz clic en el botón inferior dentro de las próximas 12 horas para verificar tu nueva dirección de email.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si no reconoces este email, por favor ignóralo.</p>
 
 [=footer]
 ''',
@@ -443,12 +443,12 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mEmailForgotPasswordContent: '''
 [=header]
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Has recibido este email ya que has perdido tu contraseña de Quire</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>Por favor, pulsa el botón inferior dentro de las próximas dos horas para restablecer tu contraseña.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">Restablecer contraseña</a>
 </p>
 
 [=footer]
@@ -835,7 +835,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
     'en las tareas para asignarlas fácilmente, establecer prioridades y más!',
   mTipShiftLR:
     'Consejo: Pulsa <code>Shift+←</code> o '
-    '<code>Shift+→</code> para cntrar o expandir todas las tareas nivel por nivel',
+    '<code>Shift+→</code> para contraer o expandir todas las tareas nivel por nivel',
   mTipPaste:
     'Consejo: Pulsa <code>[=ctrlCommand]+V</code> para <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">pegar</a> '
     'lo que copiaste directamente como tareas',
