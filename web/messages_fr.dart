@@ -137,12 +137,12 @@ const frWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "Partage de Fichiers",
   mFeatureGoogleDriveDesc: "Mettez facilement en ligne un fichier ou ajoutez en pièce jointe un fichier de Google Drive à vos tâches.",
   mPricingPageDesc:
-    "<p>Beaucoup de gens nous interrogent à propos du prix.</p>"
-    "<p>Mais il y a tellement d'autres idées passionantes encore à explorer ! Nous préférerions d'abord nous concentrer sur l'amélioration de Quire, plutôt que nous demander quelle fonctionnalité appartient à quel tarif.</p>"
-    "<p>Au moins jusqu'à la seconde moitié de 2019.</p>"
-    "<p>En d'autres termes, pour le moment, vous pouvez profiter d'un compte Quire gratuit, avec jusqu'à 35 organisations, 80 projets et 30 membres.</p>"
-    "<p>Et la bonne nouvelle, c'est que toutes les fonctionnalités que vous utilisez déjà resteront disponibles gratuitement.</p>"
-    '<p>Des questions ? N\'hésitez pas à <a href="mailto:support@quire.io">nous contacter.</a></p>',
+    "<p>Many people are asking us about pricing.</p>"
+    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
+    "<p>At least until the first half of 2020.</p>"
+    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
+    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
+    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
   mCookieGDPRDesc: "Nous utilisons des cookies afin de nous assurer que vous disposez de la meilleure experience possible sur notre site.",
   mSecurityPageTitle: 'Security at Quire',
   mSecurityPageDesc:

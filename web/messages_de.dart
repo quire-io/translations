@@ -133,12 +133,12 @@ const deWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "Dateien einbinden",
   mFeatureGoogleDriveDesc: "Binden Sie Dateien in Aufgaben und Projekte ein.",
   mPricingPageDesc:
-    "<p>Es erreichen uns viele Anfragen bezüglich unserer Preisgestaltung.</p>"
-    "<p>Allerdings gibt es so viele aufregende Ideen die wir gerne umsetzen würden! Deshalb konzentrieren wir uns aktuell darauf Quire weiter zu verbessern, statt uns über Preise Gedanken zu machen.</p>"
-    "<p>Zumindest bis zur zweiten Hälfte von 2019.</p>"
-    "<p>Mit anderen Worten: Nutzen Sie Quire kostenlos mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern.</p>"
-    "<p>Und das Beste: Alles was Sie bis dahin nutzen bleibt auch weiterhin kostenfrei.</p>"
-    '<p>Fragen? <a href="mailto:support@quire.io">Kontaktieren Sie uns.</a></p>',
+    "<p>Many people are asking us about pricing.</p>"
+    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
+    "<p>At least until the first half of 2020.</p>"
+    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
+    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
+    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
   mSecurityPageTitle: 'Security at Quire',
   mSecurityPageDesc:

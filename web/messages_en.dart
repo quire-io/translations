@@ -190,7 +190,7 @@ const enWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"
     "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the second half of 2019.</p>"
+    "<p>At least until the first half of 2020.</p>"
     "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
     "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
     '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
