@@ -137,40 +137,40 @@ const jaWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "ファイルの共有",
   mFeatureGoogleDriveDesc: "ファイルをかんたんにアップロードしたり、Googleドライブのファイルをタスクに添付したりできます。",
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the first half of 2020.</p>"
-    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
+    "<p>料金について、よく質問されます。</p>"
+    "<p>でも今は、試したいアイデアでいっぱい。私たちは料金プランを考えるよりも、まずQuireを充実させたいと考えています。</p>"
+    "<p>少なくとも2020年の前半までは、ご利用無料の予定です。</p>"
+    "<p>その間は、1アカウントにつき35グループ、プロジェクト80件、メンバー30人まで追加できます。</p>"
+    "<p>しかもそれまでに追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
+    '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
   mCookieGDPRDesc: "当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
-  mSecurityPageTitle: 'Security at Quire',
-  mSecurityPageDesc:
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
-  mSecurityEncryptionDesc:
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/policy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
-  mSecurityStorageDesc:
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
-  mSecurityBackupDesc:
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
-  mSecurityPriorityDesc:
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+  mSecurityPageTitle:'Quireのセキュリティ対策',
+  mSecurityPageDesc: 
+    "Quireに携わる私たちは、個人のデータを安全で確実に保護するために最善を尽くしています。<br>"
+    "私たちがタスクやプロジェクト、個人情報をどのように安全に管理しているかを、ぜひ知ってください。",
+  mSecurityEncryptionTitle:'データの暗号化',
+  mSecurityEncryptionDesc: 
+    "Quireに携わる私たちは、個人データの保護に真剣に取り組んでいます。"
+    "個人データは細心の注意をもって扱われ、厳正に管理されています。"
+    '私たちの<a href="/policy">方針ページ</a>をご確認ください。Quireは、安全な通信に最も効果的で信頼されているプロトコルであるSSL／TLSを全面導入しています。',
+  mSecurityStorageTitle:'保管中のデータのセキュリティについて',
+  mSecurityStorageDesc: 
+    '個人のデータはアマゾン ウェブ サービス（AWS）を使って米国に保管されており、'
+    '常にバックアップが作成されています。作成された復旧用のデータは、遠隔地に保管されます。'
+    'AWSは、インフラストラクチャーにSSAE 16認証を取得した物理的セキュリティプログラムを用い、非常に高いセキュリティを実現しています。'
+    '詳しくは<a href="https://aws.amazon.com/security">AWS クラウドセキュリティ</a>にアクセスしてください。',
+  mSecurityBackupTitle:'データのバックアップ',
+  mSecurityBackupDesc: 
+    'Quireプラットフォーム内の個人データは、アクセスや移動、エクスポート、削除について、完全にユーザーご自身の管理下にあります。'
+    'ご自身のデータはいつでもバックアップを作成し、ローカルドライブに保存していただけます。'
+    'Quireのご利用を停止してアカウントを削除した場合、'
+    'すべてのデータがQuireプラットフォームから完全に消去されます。ユーザーの許可なくコピーが残されることはありません。'
+    '書面による許可なくデータにアクセスすることは、誰にも許されません。それも、顧客に関する問題が生じたときでなければ、私たちからお願いすることはありません。',
+  mSecurityPriorityTitle:'私たちはプライバシーを尊重します',
+  mSecurityPriorityDesc: 
+    '私たちは常にユーザーに対し、ご自身の個人データの管理について理解してもらえるよう努めています。'
+    '特定の個人を識別できる情報を、私たちが第三者に開示することはありません。'
+    'Quireは<a href="/privacy">個人データ</a>の取り扱いについて、隠すことなく透明かつ率直であることをモットーにしています。',
   mMobileWelcomeP1Title1: "ようこそ",
   mMobileWelcomeP1Title2: "Quireへ",
   mMobileWelcomeP2Title: "スタートから完成まで",
