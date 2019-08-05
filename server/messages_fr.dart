@@ -491,7 +491,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mThisTask: "cette tâche",
   "AT$atAddTask": "[=who] a ajouté [=what][=value]",
   "AT$atRemoveTask": "[=who] a supprimé [=what][=value]",
-  "AT$atEditTask": "[=who] a édité [=what][=value]",
+  "AT$atEditTask": "[=who] a modifié [=what][=value]",
   "AT$atMoveTask": "[=who] a déplacé [=what] vers [=value]",
   "AT$atComplete": "[=who] a terminé [=what]",
   "AT$atUncomplete": "[=who] a réouvert [=what]",
@@ -628,7 +628,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mKeyCopyHint: "Copier les tâches sélectionnées",
   mKeyCutHint: "Couper les tâches sélectionnées",
   mKeyPasteHint: "Coller en tant que tâche ce que vous avez copié",
-  mKeyToggleDetail: "Ouvrir ou masquer le panneau des détails",
+  mKeyToggleDetail: "Ouvrir ou fermer le panneau des détails",
   mKeyLearnMore:
     'En savoir plus sur l\'utilisation de Quire avec uniquement le clavier '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">ici</a>.',
@@ -993,7 +993,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileSaveToPhoto: "Sauvegardé dans les Photos",
   mMobileEditPriority: "Modifier la priorité",
   mMobileOffline: "Hors ligne",
-  mMobileHide: "Masquer",
+  mMobileHide: "Fermer",
   mMobileAccount: "Compte",
   mMobileMyFeedback: "Mes retours",
   mMobileSendFeedback: "Envoyer un commentaire",
