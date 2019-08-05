@@ -17,7 +17,7 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const frWeb = const <String, String> {
-  mSlogan: 'Développer Vos Idées',
+  mSlogan: 'Développez Vos Idées',
   mSloganSentence: 'Développez vos idées',
   mSloganSubtitle: 'Une plateforme collaborative visuelle pour vos prochains super projets.',
   mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
