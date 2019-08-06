@@ -659,6 +659,7 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   mMDColoring: 'Cor',
   mMDOrderedList: 'Lista Numerada',
   mMDUnorderedList: 'Lista com Marcadores',
+  mMDCheckList: 'Checklist',
   mMDLink: 'Link',
   mMDMention:
     'Também pode usar <b><i>@nome_utilizador</i></b> '

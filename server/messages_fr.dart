@@ -640,6 +640,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMDColoring: 'Couleur',
   mMDOrderedList: 'Liste numérotée',
   mMDUnorderedList: 'Liste à puces',
+  mMDCheckList: 'Checklist',
   mMDLink: 'Lien',
   mMDMention:
     'Vous pouvez aussi utiliser <b><i>@nom_utilisateur</i></b> '

@@ -133,40 +133,40 @@ const deWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "Dateien einbinden",
   mFeatureGoogleDriveDesc: "Binden Sie Dateien in Aufgaben und Projekte ein.",
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the first half of 2020.</p>"
-    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
+    "<p>Viele Leute fragen uns nach dem Preismodell.</p>"
+    "<p>Aber es gibt noch so viele aufregende Ideen, die es zu entdecken gilt! Wir konzentrieren uns lieber darauf, Quire noch besser zu machen, als herauszufinden, welche Funktion zu welchem Paket gehört.</p>"
+    "<p>Zumindest bis zum ersten Halbjahr 2020.</p>"
+    "<p>Mit anderen Worten: Derzeit können Sie ein kostenloses Quire-Konto mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern nutzen.</p>"
+    "<p>Und die gute Nachricht ist, dass alles, was Sie bis dahin bereits verwenden, weiterhin kostenlos ist.</p>"
+    '<p>Fragen? <a href="mailto:support@quire.io">Schreiben Sie uns!</a></p>',
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
-  mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageTitle: 'Sicherheit bei Quire',
   mSecurityPageDesc:
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
+    "Bei Quire arbeiten wir sehr hart daran, dass Ihre Daten sicher und privat sind. <br>"
+    "Ihre Aufgaben, Projekte und persönlichen Informationen sind bei uns sicher und wir möchten, dass Sie wissen, wie wir damit umgehen.",
+  mSecurityEncryptionTitle: 'Datenverschlüsselung',
   mSecurityEncryptionDesc:
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/policy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
+    "Bei Quire nehmen wir den Schutz personenbezogener Daten sehr ernst. "
+    "Wir möchten, dass Sie sich darauf verlassen können, dass Ihre persönlichen Daten bei Quire sorgfältig behandelt und geschützt werden. "
+    'Sie können unsere <a href="/policy">Datenschutzrichtlinien</a> einsehen. Sie können unsere Richtlinienseite einsehen. Der gesamte Datenverkehr auf Quire wird mit SSL/TLS ausgeführt, dem leistungsstärksten und vertrauenswürdigsten Protokoll für sichere Kommunikation..',
+  mSecurityStorageTitle: 'Sicherheit der Datenspeicherung',
   mSecurityStorageDesc:
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
+    'Ihre Daten werden in den USA von Amazon Web Services (AWS) gespeichert, '
+    'und wird kontinuierlich mit Kopien gesichert, die an einem externen Speicherort für die Notfallwiederherstellung gespeichert sind. '
+    'Diese hochsichere AWS-Infrastruktur stellt ein physisches Sicherheitsprogramm mit SSAE 16-Zertifizierung bereit. '
+    'Weitere Informationen auf <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
+  mSecurityBackupTitle: 'Datensicherung',
   mSecurityBackupDesc:
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
+    'Sie haben die vollständige Kontrolle über Ihre Daten auf der Quire-Plattform (zum Zugreifen, Übertragen, Exportieren und Löschen der Daten). '
+    'Sie können Ihre Daten jederzeit selbst auf Ihrem lokalen Treiber sichern. '
+    'Wenn ein Benutzer Quire verlässt und sein Konto löscht, '
+    'werden alle Daten vollständig und rückstandslos von der Quire-Plattform entfernt. '
+    'Niemand darf ohne schriftliche Erlaubnis auf die Daten zugreifen, und wir fragen nur, ob es wirklich notwendig ist, kundenbezogene Probleme zu lösen.',
+  mSecurityPriorityTitle: 'Datenschutz ist unsere Priorität',
   mSecurityPriorityDesc:
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+    'Wir stellen stets sicher, dass unsere Nutzer sich ihrer Kontrolle über ihre personenbezogenen Daten bewusst sind. '
+    'Wir geben keine personenbezogenen Daten an Dritte weiter. '
+    'Quire verpflichtet sich, transparent zu sein, ohne verborgene Absichten hinsichtlich der Verwendung der <a href="/privacy">personenbezogenen Daten</a> der Benutzer zu haben.',
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Von Anfang bis Ende",

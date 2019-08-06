@@ -383,7 +383,7 @@ const enClient = const <String, String> {
   mSidebarAddFavTooltip: "Add to bookmarks",
   mSidebarRMFavTooltip: "Remove from bookmarks",
   mRemoveRecent: "Remove from Recent",
-  mSidebarSearchForPrj: "Search projects, organizations, etc. ([=ctrlCommand]+B)",
+  mSidebarSearchForPrj: "Search projects, organizations, members. ([=ctrlCommand]+B)",
   
   mBlinkSearchHint: "Blink Search",
 

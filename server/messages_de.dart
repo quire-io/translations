@@ -655,6 +655,7 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMDColoring: 'Farbgebung',
   mMDOrderedList: 'Geordnete Liste',
   mMDUnorderedList: 'Ungeordnete List',
+  mMDCheckList: 'Checklist',
   mMDLink: 'Link',
   mMDMention:
     'Erwähnen Sie jemanden mit <b><i>@name</i></b>. '

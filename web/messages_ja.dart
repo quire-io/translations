@@ -144,30 +144,30 @@ const jaWeb = const <String, String> {
     "<p>しかもそれまでに追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
     '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
   mCookieGDPRDesc: "当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
-  mSecurityPageTitle:'Quireのセキュリティ対策',
-  mSecurityPageDesc: 
+  mSecurityPageTitle: 'Quireのセキュリティ対策',
+  mSecurityPageDesc:
     "Quireに携わる私たちは、個人のデータを安全で確実に保護するために最善を尽くしています。<br>"
     "私たちがタスクやプロジェクト、個人情報をどのように安全に管理しているかを、ぜひ知ってください。",
-  mSecurityEncryptionTitle:'データの暗号化',
-  mSecurityEncryptionDesc: 
+  mSecurityEncryptionTitle: 'データの暗号化',
+  mSecurityEncryptionDesc:
     "Quireに携わる私たちは、個人データの保護に真剣に取り組んでいます。"
     "個人データは細心の注意をもって扱われ、厳正に管理されています。"
     '私たちの<a href="/policy">方針ページ</a>をご確認ください。Quireは、安全な通信に最も効果的で信頼されているプロトコルであるSSL／TLSを全面導入しています。',
-  mSecurityStorageTitle:'保管中のデータのセキュリティについて',
-  mSecurityStorageDesc: 
+  mSecurityStorageTitle: '保管中のデータのセキュリティについて',
+  mSecurityStorageDesc:
     '個人のデータはアマゾン ウェブ サービス（AWS）を使って米国に保管されており、'
     '常にバックアップが作成されています。作成された復旧用のデータは、遠隔地に保管されます。'
     'AWSは、インフラストラクチャーに「SSAE 16」認証を取得した物理的セキュリティプログラムを用い、非常に高いレベルのセキュリティを実現しています。'
     '詳しくは<a href="https://aws.amazon.com/security">AWS クラウドセキュリティ</a>にアクセスしてください。',
-  mSecurityBackupTitle:'データのバックアップ',
-  mSecurityBackupDesc: 
+  mSecurityBackupTitle: 'データのバックアップ',
+  mSecurityBackupDesc:
     'Quireプラットフォーム内の個人データは、アクセスや移動、エクスポート、削除に関して、完全にユーザーご自身の管理下にあります。'
     'ご自身のデータはいつでもバックアップを作成し、ローカルドライブに保存していただけます。'
     'Quireのご利用を停止してアカウントを削除した場合、'
     'すべてのデータがQuireプラットフォームから完全に消去されます。ユーザーの許可なくコピーが残されることはありません。'
     '書面による許可なくデータにアクセスすることは、誰にも許されません。それも、顧客に関する問題が生じたときでなければ、私たちからお願いすることはありません。',
-  mSecurityPriorityTitle:'私たちはプライバシーを尊重します',
-  mSecurityPriorityDesc: 
+  mSecurityPriorityTitle: '私たちはプライバシーを尊重します',
+  mSecurityPriorityDesc:
     '私たちは常にユーザーに対し、ご自身の個人データの管理について理解してもらえるよう努めています。'
     '特定の個人を識別できる情報を、私たちが第三者に開示することはありません。'
     'Quireは<a href="/privacy">個人データ</a>の取り扱いについて、隠すことなく透明かつ率直であることをモットーにしています。',

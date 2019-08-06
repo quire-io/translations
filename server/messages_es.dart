@@ -658,6 +658,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mMDColoring: 'Colores',
   mMDOrderedList: 'Lista Numerada',
   mMDUnorderedList: 'Lista de Viñetas',
+  mMDCheckList: 'Checklist',
   mMDLink: 'Enlace',
   mMDMention:
     'También puedes usar <b><i>@user_name</i></b> '

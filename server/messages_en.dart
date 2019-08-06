@@ -871,6 +871,7 @@ including account-related notifications and task activities.</p>
   mMDColoring: 'Coloring',
   mMDOrderedList: 'Numbered List',
   mMDUnorderedList: 'Bulleted List',
+  mMDCheckList: 'Checklist',
   mMDLink: 'Link',
   mMDMention:
     'You can also use <b><i>@user_name</i></b> '
