@@ -842,11 +842,12 @@ const enClient = const <String, String> {
     "Your permissions in this project have been changed.",
 
   mRemoveOrganizationMemberContent:
-    "This will unassign this member from all his assigned tasks in this organization.",
+    "This member will be unassigned from all tasks in this organization.",
   mRemoveProjectMemberContent:
-    "This will unassign this member from [=task] in this project.",
+    "This member will be unassigned from [=task] in this project.",
   mRemoveProjectMemberContentPlural:
-    "This will unassign this member from [=task] and [=count] other tasks in this project.",
+    "This member will be unassigned from [=task] and [=count] other tasks in this project.",
+  mReassignMemberToTasks: "Reassign the tasks to",
   
 
   mDeleteOrganizationContent:
