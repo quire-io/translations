@@ -405,7 +405,7 @@ const enClient = const <String, String> {
   mDownload: "Download",
   mFullSize: "Full size",
 
-  mMyTasks: "My Tasks",
+  mInbox: "Inbox",
 
   mOptions: "Options",
   mFilter: "Filter",

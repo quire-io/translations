@@ -323,7 +323,7 @@ const frClient = const <String, String> {
   mHelp: "Aide",
   mDownload: "Télécharger",
   mFullSize: "Taille réelle",
-  mMyTasks: "My Tasks",
+  mInbox: "Inbox",
   mOptions: "Options",
   mFilter: "Filtrer",
   mFilterActive: "Tâches Actives",

@@ -323,7 +323,7 @@ const esClient = const <String, String> {
   mHelp: "Ayuda",
   mDownload: "Descargar",
   mFullSize: "Tamaño completo",
-  mMyTasks: "Mis Tareas",
+  mInbox: "Inbox",
   mOptions: "Opciones",
   mFilter: "Filtro",
   mFilterActive: "Tareas Activas",

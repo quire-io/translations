@@ -317,7 +317,7 @@ const deClient = const <String, String> {
   mHelp: "Hilfe",
   mDownload: "Herunterladen",
   mFullSize: "Vollbild anzeigen",
-  mMyTasks: "Meine Aufgaben",
+  mInbox: "Inbox",
   mOptions: "Optionen",
   mFilter: "Filter",
   mFilterActive: "Aktive Aufgaben",

@@ -323,7 +323,7 @@ const itClient = const <String, String> {
   mHelp: "Help",
   mDownload: "Download",
   mFullSize: "Full size",
-  mMyTasks: "My Tasks",
+  mInbox: "Inbox",
   mOptions: "Options",
   mFilter: "Filter",
   mFilterActive: "Active Tasks",
