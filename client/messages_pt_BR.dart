@@ -471,6 +471,7 @@ const ptBrClient = const <String, String> {
   mTagNotFound: "Nenhuma tag encontrada.",
   mNOTaskFound: "Nenhuma tarefa encontrada.",
   mNOTaskFoundDesc: "Tente pesquisar por outra coisa, ou <a class=[=clz]>remova o filtro</a>.",
+  mSearchResultEmpty: "No results found.",
   "UDS$udtComplete": "Concluiu [=task]",
   "UDP$udtComplete": "Concluiu [=task] e outras",
   "UDS$udtArchive": "Peekaboo [=task]",

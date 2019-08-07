@@ -197,7 +197,6 @@ const jaServer = const <String, String> {
   mUndoEmptyDesc: "You haven't moved, completed or deleted tasks yet.",
   mUndoRemoveTaskEmptyDesc: "No task has been deleted recently.",
   mUndoCompleteTaskEmptyDesc: "No task has been completed recently.",
-  mSearchResultEmpty: "No results found.",
   mSearchPartialResult: "Only partial results are shown",
   mSearchOtherProjects: "Search other projects",
   mBackSearch: "Back to search",

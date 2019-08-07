@@ -460,6 +460,7 @@ const deClient = const <String, String> {
   mTagNotFound: "Es wurden keine Tags gefunden.",
   mNOTaskFound: "Keine Aufgaben gefunden.",
   mNOTaskFoundDesc: "Versuchen Sie es mit einem anderen Suchbegriff oder <a class=[=clz]>setzen Sie die Filter zurück</a>.",
+  mSearchResultEmpty: "Keine Ergebnisse gefunden.",
   "UDS$udtComplete": "Erledigte [=task]",
   "UDP$udtComplete": "Erledigte [=task] und andere",
   "UDS$udtArchive": "Peekaboo [=task]",

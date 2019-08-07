@@ -466,6 +466,7 @@ const frClient = const <String, String> {
   mTagNotFound: "Aucune étiquette trouvée.",
   mNOTaskFound: "Aucune tâche trouvée.",
   mNOTaskFoundDesc: "Essayez de chercher autre chose, ou <a class=[=clz]>réinitialisez le filtre</a>.",
+  mSearchResultEmpty: "No results found.",
   "UDS$udtComplete": "[=task] terminée",
   "UDP$udtComplete": "[=task] et d'autres tâches terminées",
   "UDS$udtArchive": "[=task] peekaboo",

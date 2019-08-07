@@ -197,7 +197,6 @@ const deServer = const <String, String> {
   mUndoEmptyDesc: "Sie haben noch keine Aufgaben erledigt oder gelöscht.",
   mUndoRemoveTaskEmptyDesc: "Keine kürzlich gelöschten Aufgaben vorhanden.",
   mUndoCompleteTaskEmptyDesc: "In letzter Zeit wurden keine Aufgaben abgeschlossen.",
-  mSearchResultEmpty: "Keine Ergebnisse gefunden.",
   mSearchPartialResult: "Es werden nur Teilergebnisse angezeigt",
   mSearchOtherProjects: "Andere Projekte durchsuchen",
   mBackSearch: "Zurück zur Suche",

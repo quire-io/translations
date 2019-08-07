@@ -582,6 +582,7 @@ const enClient = const <String, String> {
 
   mNOTaskFound: "No tasks found.",
   mNOTaskFoundDesc: "Try search for something else, or <a class=[=clz]>reset filter</a>.",
+  mSearchResultEmpty: "No results found.",
 
   "UDS$udtComplete": "Completed [=task]",
   "UDP$udtComplete": "Completed [=task] and others",

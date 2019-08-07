@@ -197,7 +197,6 @@ const frServer = const <String, String> {
   mUndoEmptyDesc: "Vous n'avez pas encore déplacé, terminé ou supprimé de tâches.",
   mUndoRemoveTaskEmptyDesc: "Aucune tâche n'a été supprimée récemment.",
   mUndoCompleteTaskEmptyDesc: "Aucune tâche n'a été terminée récemment.",
-  mSearchResultEmpty: "Aucun résultat trouvé.",
   mSearchPartialResult: "Seuls des résultats partiels sont montrés",
   mSearchOtherProjects: "Chercher d'autres projets",
   mBackSearch: "Revenir à la recherche",

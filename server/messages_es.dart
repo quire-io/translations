@@ -197,7 +197,6 @@ const esServer = const <String, String> {
   mUndoEmptyDesc: "No has movido, completado o eliminado tareas aún.",
   mUndoRemoveTaskEmptyDesc: "No se han eliminado tareas recientemente.",
   mUndoCompleteTaskEmptyDesc: "No se han completado tareas recientemente.",
-  mSearchResultEmpty: "No se han encontrado resultados.",
   mSearchPartialResult: "Solo se muestra parte de los resultados",
   mSearchOtherProjects: "Buscar otros proyectos",
   mBackSearch: "Volver a la búsqueda",

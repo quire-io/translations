@@ -197,7 +197,6 @@ const ptServer = const <String, String> {
   mUndoEmptyDesc: "Ainda não moveu, concluiu ou eliminou tarefas.",
   mUndoRemoveTaskEmptyDesc: "Nenhuma tarefa foi eliminada recentemente.",
   mUndoCompleteTaskEmptyDesc: "Nenhuma tarefa foi concluída recentemente.",
-  mSearchResultEmpty: "Nenhum resultado encontrado.",
   mSearchPartialResult: "Apenas resultados parciais são mostrados",
   mSearchOtherProjects: "Pesquisar outros projetos",
   mBackSearch: "Voltar à pesquisa",
