@@ -923,7 +923,12 @@ including account-related notifications and task activities.</p>
   mSettingSlackTeamsDesc:
     "This organization is linked to the following Slack teams:",
 
-
+  mSettingAppInfo: 'Display Info',
+  mSettingAppOption: 'Settings',
+  mSettingAppSec: "Apps",
+  mSettingAppAuthSec: "Authorized Apps",
+  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a.',
+  mAppListAuthTarget: 'Authorized in',
 
   mOauthViewTitle: "Grant Permissions",
   mOauthViewDesc: "[=name] will be able to:",
@@ -953,6 +958,11 @@ including account-related notifications and task activities.</p>
   mViewMember: "View all members",
 
   mDeleteMYAccount: "Delete account",
+
+  mSettingOptionLeaveOrganization: "Leave organization",
+  mSettingOptionDeleteOrganization: "Delete organization",
+  mSettingOptionManageDeveloperApps: "Manage Developer Apps",
+
 
   mChangeProfileVisibility: "Change profile visibility",
   mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
@@ -1034,7 +1044,31 @@ including account-related notifications and task activities.</p>
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
-  
+
+  //App/API
+  mDeveloperConsoleTitle: "Apps",
+  mDeveloperConsoleIntro: 'Vestibulum in blandit urna, ut iaculis ipsum. Vestibulum <a href="/doc/api/"">documentation</a>, nec ullamcorper.',
+  mAppListLastUpdate: 'Last update',
+
+  mAppDirectoryHeader: "App Directory",
+  mAppDirectoryTitle: "Quisque in ipsum sodales",
+  mAppDirectoryTitleIntro: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  mAppSearchPlaceholder: "Search apps",
+  mAppDirectoryBackApps: 'Browse Apps',
+
+  mAppCreatedBy: 'by [=company]',
+  mAppUpdateAt: 'Last updated: [=when]',
+  mAppVisitWebsite: "Visit App Website",
+  mAppContactDeveloper: 'Contact App Developer',
+  mAppInstallButtom: 'Add app',
+
+  mAppAuthDesc: 'Lorem ipsum dolor, [=app] will be able to:',
+  mAppAuthTarget: 'Fusce iaculis mi turpis:',
+
+  mAppAuthSpecifyTarget: 'Specify an organization or project',
+  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
+
+
   mAlreadySignedUP: "[=email] already signed up",
   
   mNotSignedUPAndRedirect:

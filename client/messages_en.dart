@@ -196,7 +196,9 @@ const enClient = const <String, String> {
   mLink: "Link",
   mUnlink: "Unlink",
   mRevoke: "Revoke",
+  mRevokeAll: "Revoke all",
   mReload: "Reload",
+  mRegenerate: "Regenerate",
   mEdit: "Edit",
   mClose: "Close",
   mCopyOF: "Copy of [=name]",
@@ -220,6 +222,7 @@ const enClient = const <String, String> {
   mTheme: "Theme",
   mSettings: "Settings",
   mDefault: "Default",
+  mOptional: "optional",
   mSearch: "Search",
 
   mSelect: "Select",
@@ -456,7 +459,9 @@ const enClient = const <String, String> {
   mPinComment: "Pin",
   mUnpinComment: "Unpin",
   mLearnMore: "Learn more",
+  mLoadMore: "Load more",
   mMore: "more",
+  mMoreInfo: "More info",
   mNOther: ", and there's [=count] more",
 
   mDueDate: "Due date",
@@ -797,9 +802,6 @@ const enClient = const <String, String> {
   mSettingOptionPublicDesc: "Available to any user including anonymous users",
   mSettingOptionPublicAllowAddDesc: "Allow users to add tasks at the first level",
 
-  mSettingOptionLeaveOrganization: "Leave organization",
-  mSettingOptionDeleteOrganization: "Delete organization",
-
   mSettingOptionExportCsv: "Export to CSV",
   mSettingOptionExportJson: "Export to JSON",
   mSettingOptionDuplicateProject: "Duplicate project", //shall be "Duplicate this project", but keep it short
@@ -849,8 +851,10 @@ const enClient = const <String, String> {
   mRemoveProjectMemberContentPlural:
     "This member will be unassigned from [=task] and [=count] other tasks in this project.",
   mReassignMemberToTasks: "Reassign the tasks to",
-  
 
+
+  mDeleteAppContent:
+    "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent:
     "You are about to <strong>permanently delete</strong> the organization [=name:full].",
   mDeleteProjectLotContent:
@@ -865,6 +869,8 @@ const enClient = const <String, String> {
     "You are about to <strong>remove</strong> the status [=name].",
   mDeleteEntityConfirm:
     "I am aware that I <strong>cannot undo</strong> this.",
+  mDeleteAppConfirm:
+    "Please type in the name of the app to confirm.",
   mDeleteOrganizationConfirm:
     "Please type in the name of the organization to confirm.",
   mDeleteProjectLotConfirm:
@@ -1167,4 +1173,64 @@ const enClient = const <String, String> {
 
   mStatsMyTasksSec: "My Tasks",
   mStatsUserTasksSec: "'s Tasks",
+
+  // App/API
+  mDeveloperConsoleHeader: "Developer App Console",
+  mCreateNewApp: "Create new app",
+  mCreateNewAppTitle: "Create a new app",
+  mCreateNewAppTermDesc: 'Nam interdum vehicula tincidunt agree to <a href="#">Quire API terms and conditions</a>',
+  mAppVisitDirectory: "Visit app directory",
+  mAppUpdateBy: '[=when], by [=who]',
+  mAppBackApps: 'Back to Apps',
+
+  mAppName: 'App name',
+  mAppNameDesc: 'User will see this name when your application requests permission to access their account as well as when they review the list of apps they have authorized.',
+  mAppShortDesc: 'Short description',
+  mAppShortDescDesc: 'Short description',
+  mAppFullDesc: 'Full description',
+  mAppFullDescDesc: 'Full description',
+  mAppIcon: 'App Icon',
+  mAppIconDesc: 'App Icon',
+  mAppCategories: 'App Directory Categories',
+  mAppCompany: 'Company name',
+  mAppContactEmail: 'Contact email',
+  mAppOrganization: 'Development Organization',
+
+  mAppOrganizationDesc: 'Your app belongs to this workspace—leaving this workspace will remove your ability to manage this app. Unfortunately, this can’t be changed later.',
+  mAppRedirectURL: 'Redirect URL',
+  mAppRedirectURLDesc: 'You will need to configure redirect URLs in order to automatically generate the vulputate, lacus vel fermentum euismod, ante neque venenatis tellus,',
+  mAppWebhookURL: 'Webhook URL',
+  mAppWebhookURLDesc: 'Webhook URL',
+  mAppUrl: 'App URL',
+  mAppUrlDesc: 'Sed id velit eget nisl egestas auctor display in app directory.',
+
+  mAppClientID: 'Client ID',
+  mAppClientSecert: 'Client Secert',
+  mAppClientSecertDesc: "You'll need to send this secret along with your client ID when making your oauth.access request.",
+
+  mAppPermission: 'Permission Scopes',
+  mAppPermissionCreateTasks: 'Create tasks',
+  mAppPermissionCreateTasksDesc: 'Add new tasks',
+  mAppPermissionManageTasks: 'Manage tasks',
+  mAppPermissionManageTasksDesc: 'Edit, assign, and schedule tasks',
+  mAppPermissionRemoveTasks: 'Remove tasks',
+  mAppPermissionRemoveTasksDesc: 'Remove tasks',
+  mAppPermissionManageTags: 'Manage tags',
+  mAppPermissionManageTagsDesc: 'Add, edit, and remove tags',
+  mAppPermissionManageBoards: 'Manage boards',
+  mAppPermissionManageBoardsDesc: 'Add, edit, and remove boards, including managing columns',
+
+  mAppOptionPrivateDesc: "Available only to your organization members",
+  mAppOptionPublicDesc: "Available to any Quire user",
+
+
+  mAppDelete: 'Delete App',
+  mAppDeleteDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus rutrum sem. Vivamus elementum purus eget gravida ultricies.',
+  mAppMenuItemDelete: 'Delete app',
+
+  mAddNewApp: "Add new app",
+  mAppAuthWhen: 'Authorized on [=when]',
+  mAppAuthTargetAll: 'All organizations and projects',
+  mAppAuthAllowTo: 'Access to:',
+  mAppAuthNotAllowTo: 'No access to:',
 };
