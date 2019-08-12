@@ -808,6 +808,10 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mAppAuthTarget: 'Fusce iaculis mi turpis:',
   mAppAuthSpecifyTarget: 'Specify an organization or project',
   mAppAuthSpecifyTargetDesc: 'Select an organization or project',
+  mAppAuthSpecifyOrganization: 'Specify an organization',
+  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
+  mAppAuthSpecifyProject: 'Specify a project',
+  mAppAuthSpecifyProjectDesc: 'Select a project',
   mAlreadySignedUP: "[=email] já se registrou",
   mNotSignedUPAndRedirect:
     "Você ainda não confirmou seu registro.<br>"

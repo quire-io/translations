@@ -1068,6 +1068,12 @@ including account-related notifications and task activities.</p>
   mAppAuthSpecifyTarget: 'Specify an organization or project',
   mAppAuthSpecifyTargetDesc: 'Select an organization or project',
 
+  mAppAuthSpecifyOrganization: 'Specify an organization',
+  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
+
+  mAppAuthSpecifyProject: 'Specify a project',
+  mAppAuthSpecifyProjectDesc: 'Select a project',
+
 
   mAlreadySignedUP: "[=email] already signed up",
   

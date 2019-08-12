@@ -791,6 +791,10 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mAppAuthTarget: 'Fusce iaculis mi turpis:',
   mAppAuthSpecifyTarget: 'Specify an organization or project',
   mAppAuthSpecifyTargetDesc: 'Select an organization or project',
+  mAppAuthSpecifyOrganization: 'Specify an organization',
+  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
+  mAppAuthSpecifyProject: 'Specify a project',
+  mAppAuthSpecifyProjectDesc: 'Select a project',
   mAlreadySignedUP: "[=email] est déjà inscrit",
   mNotSignedUPAndRedirect:
     "Vous n'avez pas encore confirmé votre inscription.<br>"

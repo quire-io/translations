@@ -809,6 +809,10 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mAppAuthTarget: 'Fusce iaculis mi turpis:',
   mAppAuthSpecifyTarget: 'Specify an organization or project',
   mAppAuthSpecifyTargetDesc: 'Select an organization or project',
+  mAppAuthSpecifyOrganization: 'Specify an organization',
+  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
+  mAppAuthSpecifyProject: 'Specify a project',
+  mAppAuthSpecifyProjectDesc: 'Select a project',
   mAlreadySignedUP: "[=email] ya registrado",
   mNotSignedUPAndRedirect:
     "Aún no has confirmado tu registro.<br>"
