@@ -1415,6 +1415,7 @@ including account-related notifications and task activities.</p>
   mMobileFiles: "Files",
   mMobileSyncing: "Syncing",
   mMobileMySelf: "Myself",
+  mMobileShare: "Share",
 
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",

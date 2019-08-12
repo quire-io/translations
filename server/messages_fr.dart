@@ -1065,6 +1065,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileFiles: "Fichiers",
   mMobileSyncing: "Synchronisation",
   mMobileMySelf: "Myself",
+  mMobileShare: "Share",
   mMobileNewBoard: "Nouveau Tableau",
   mMobileArchivedBoard: "Tableaux archivés",
   mMobileProfileCamera: "Prendre une photo",

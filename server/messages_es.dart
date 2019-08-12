@@ -1083,6 +1083,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mMobileFiles: "Archivos",
   mMobileSyncing: "Sincronizando",
   mMobileMySelf: "Myself",
+  mMobileShare: "Share",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
   mMobileProfileCamera: "Tomar Foto",

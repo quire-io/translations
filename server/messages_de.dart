@@ -1078,6 +1078,7 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMobileFiles: "Dateien",
   mMobileSyncing: "Synchronisation",
   mMobileMySelf: "Mich selbst",
+  mMobileShare: "Share",
   mMobileNewBoard: "Neues Board",
   mMobileArchivedBoard: "Archivierte Boards",
   mMobileProfileCamera: "Foto machen",
