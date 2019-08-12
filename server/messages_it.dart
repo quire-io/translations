@@ -702,7 +702,7 @@ including account-related notifications and task activities.</p>
   mSettingAppOption: 'Settings',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
-  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a.',
+  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a>.',
   mAppListAuthTarget: 'Authorized in',
   mOauthViewTitle: "Grant Permissions",
   mOauthViewDesc: "[=name] will be able to:",

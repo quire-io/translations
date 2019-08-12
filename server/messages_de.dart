@@ -699,7 +699,7 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mSettingAppOption: 'Settings',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
-  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a.',
+  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a>.',
   mAppListAuthTarget: 'Authorized in',
   mOauthViewTitle: "Berechtigungen erteilen",
   mOauthViewDesc: "[=name] kann Folgendes tun:",

@@ -701,7 +701,7 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mSettingAppOption: 'Settings',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
-  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a.',
+  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a>.',
   mAppListAuthTarget: 'Authorized in',
   mOauthViewTitle: "Conceder Permissões",
   mOauthViewDesc: "[=name] poderá:",

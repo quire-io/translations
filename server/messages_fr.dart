@@ -684,7 +684,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mSettingAppOption: 'Settings',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
-  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a.',
+  mSettingAppAuthSecDesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dignissim mi, <a href="/apps">visit app directory</a>.',
   mAppListAuthTarget: 'Authorized in',
   mOauthViewTitle: "Accorder les Autorisations",
   mOauthViewDesc: "[=name] pourra :",
