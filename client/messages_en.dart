@@ -1209,6 +1209,8 @@ const enClient = const <String, String> {
   mAppClientSecertDesc: "You'll need to send this secret along with your client ID when making your oauth.access request.",
 
   mAppPermission: 'Permission Scopes',
+  mAppPermissionRead: 'Readonly',
+  mAppPermissionReadDesc: 'Read all of your organizations and projects',
   mAppPermissionCreateTasks: 'Create tasks',
   mAppPermissionCreateTasksDesc: 'Add new tasks',
   mAppPermissionManageTasks: 'Manage tasks',
