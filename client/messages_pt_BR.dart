@@ -160,6 +160,7 @@ const ptBrClient = const <String, String> {
   mDelete: "Excluir",
   mLink: "Vincular",
   mUnlink: "Desvincular",
+  mGrantNew: "Grant new",
   mRevoke: "Revogar",
   mRevokeAll: "Revoke all",
   mReload: "Recarregar",

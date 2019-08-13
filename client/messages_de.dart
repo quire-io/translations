@@ -149,6 +149,7 @@ const deClient = const <String, String> {
   mDelete: "Löschen",
   mLink: "Verlinken",
   mUnlink: "Link entfernen",
+  mGrantNew: "Grant new",
   mRevoke: "Widerrufen",
   mRevokeAll: "Revoke all",
   mReload: "Neu laden",

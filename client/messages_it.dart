@@ -155,6 +155,7 @@ const itClient = const <String, String> {
   mDelete: "Delete",
   mLink: "Link",
   mUnlink: "Unlink",
+  mGrantNew: "Grant new",
   mRevoke: "Revoke",
   mRevokeAll: "Revoke all",
   mReload: "Reload",

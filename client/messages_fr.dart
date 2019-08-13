@@ -155,6 +155,7 @@ const frClient = const <String, String> {
   mDelete: "Supprimer",
   mLink: "Lien",
   mUnlink: "Dissocier",
+  mGrantNew: "Grant new",
   mRevoke: "Révoquer",
   mRevokeAll: "Revoke all",
   mReload: "Réactualiser",

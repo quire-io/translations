@@ -155,6 +155,7 @@ const esClient = const <String, String> {
   mDelete: "Eliminar",
   mLink: "Vincular",
   mUnlink: "Desvincular",
+  mGrantNew: "Grant new",
   mRevoke: "Anular",
   mRevokeAll: "Revoke all",
   mReload: "Recargar",
