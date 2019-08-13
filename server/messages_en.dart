@@ -1573,4 +1573,5 @@ including account-related notifications and task activities.</p>
   mMobileAddDue: "Add due date",
 
   mMobileSelectATask: "Select a task",
+  mMobileTutorialVideos: "Tutorial videos",
 };

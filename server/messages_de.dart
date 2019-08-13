@@ -1213,5 +1213,6 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMobileEXLogin: "Bitte melden Sie sich erst an",
   mMobileSelfAssign: "Mir zuweisen",
   mMobileAddDue: "Fälligkeitsdatum hinzufügen",
-  mMobileSelectATask: "Select a task"
+  mMobileSelectATask: "Select a task",
+  mMobileTutorialVideos: "Tutorial videos"
 };

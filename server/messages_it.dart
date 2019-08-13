@@ -1218,5 +1218,6 @@ including account-related notifications and task activities.</p>
   mMobileEXLogin: "Please log in Quire first",
   mMobileSelfAssign: "Assign myself",
   mMobileAddDue: "Add due date",
-  mMobileSelectATask: "Select a task"
+  mMobileSelectATask: "Select a task",
+  mMobileTutorialVideos: "Tutorial videos"
 };

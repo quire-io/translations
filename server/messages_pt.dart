@@ -1219,5 +1219,6 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   mMobileEXLogin: "Por favor, primeiro inicie sessão no Quire",
   mMobileSelfAssign: "Atribuir-me",
   mMobileAddDue: "Adicionar data de conclusão",
-  mMobileSelectATask: "Select a task"
+  mMobileSelectATask: "Select a task",
+  mMobileTutorialVideos: "Tutorial videos"
 };

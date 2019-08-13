@@ -1200,5 +1200,6 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileEXLogin: "Veuillez d'abord vous connecter à Quire",
   mMobileSelfAssign: "Attribuer à moi-même",
   mMobileAddDue: "Ajouter une date d'échéance",
-  mMobileSelectATask: "Select a task"
+  mMobileSelectATask: "Select a task",
+  mMobileTutorialVideos: "Tutorial videos"
 };
