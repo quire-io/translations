@@ -635,7 +635,7 @@ const frClient = const <String, String> {
   mSettingOptionStart: "Date de début",
   mSettingOptionStartDesc: "Toujours afficher la date de début quand vous définissez une date",
   mSettingOptionTime: "Heure",
-  mSettingOptionTimeDesc: "Tuojours afficher l'heure quand vous définissez une date",
+  mSettingOptionTimeDesc: "Toujours afficher l'heure quand vous définissez une date",
   mSettingOptionAssignee: "Attributions multiples",
   mSettingOptionAssigneeDesc: "Toujours ajouter comme attribution quand vous cliquez sur le nom d'un membre",
   mSettingOptionStatus: "Statut",
