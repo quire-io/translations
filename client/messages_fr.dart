@@ -192,7 +192,7 @@ const frClient = const <String, String> {
   mDuplicatedName: 'Ce nom est déjà pris',
   mDuplicatedValue: 'Cette valeur est déjà utilisée',
   mPreview: "APERÇU",
-  mWrite: "ÉCRIRE",
+  mWrite: "ÉCRITURE",
   mDatePrep: " le",
   mEditedAt: "Édité[=on] [=when]",
   mCreatedByAt: "Créé par [=who], [=when]",
