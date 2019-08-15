@@ -806,7 +806,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mAppSearchPlaceholder: "Search Apps",
   mAppDirectoryBackApps: 'Browse Apps',
   mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already install this app, for more info please visit your [=setting].',
+  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit Developer Website",
   mAppContactDeveloper: 'Contact App Developer',
