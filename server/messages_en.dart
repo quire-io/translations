@@ -1057,6 +1057,8 @@ including account-related notifications and task activities.</p>
   mAppDirectoryBackApps: 'Browse Apps',
 
   mAppCreatedBy: 'by [=company]',
+  mAppInstalledDesc: 
+    'You have already install this app, for more info please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit App Website",
   mAppContactDeveloper: 'Contact App Developer',

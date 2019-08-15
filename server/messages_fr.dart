@@ -783,6 +783,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mAppSearchPlaceholder: "Search apps",
   mAppDirectoryBackApps: 'Browse Apps',
   mAppCreatedBy: 'by [=company]',
+  mAppInstalledDesc: 'You have already install this app, for more info please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit App Website",
   mAppContactDeveloper: 'Contact App Developer',
