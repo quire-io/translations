@@ -327,7 +327,6 @@ const frClient = const <String, String> {
   mShowMarkdownTips: "Astuces pour le Markdown",
   mHelp: "Aide",
   mDownload: "Télécharger",
-  mFullSize: "Taille réelle",
   mInbox: "Inbox",
   mOptions: "Options",
   mFilter: "Filtrer",

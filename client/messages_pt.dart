@@ -332,7 +332,6 @@ const ptClient = const <String, String> {
   mShowMarkdownTips: "Clique para obter dicas sobre o Markdown",
   mHelp: "Ajuda",
   mDownload: "Descarregar",
-  mFullSize: "Tamanho grande",
   mInbox: "Inbox",
   mOptions: "Opções",
   mFilter: "Filtro",

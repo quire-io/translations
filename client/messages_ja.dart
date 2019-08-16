@@ -327,7 +327,6 @@ const jaClient = const <String, String> {
   mShowMarkdownTips: "Markdown tips",
   mHelp: "Help",
   mDownload: "Download",
-  mFullSize: "Full size",
   mInbox: "Inbox",
   mOptions: "Options",
   mFilter: "Filter",

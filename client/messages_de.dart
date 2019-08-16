@@ -321,7 +321,6 @@ const deClient = const <String, String> {
   mShowMarkdownTips: "Markdown Tips",
   mHelp: "Hilfe",
   mDownload: "Herunterladen",
-  mFullSize: "Vollbild anzeigen",
   mInbox: "Inbox",
   mOptions: "Optionen",
   mFilter: "Filter",

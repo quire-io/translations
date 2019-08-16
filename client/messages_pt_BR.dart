@@ -332,7 +332,6 @@ const ptBrClient = const <String, String> {
   mShowMarkdownTips: "Clique para obter dicas sobre o Markdown",
   mHelp: "Ajuda",
   mDownload: "Baixar",
-  mFullSize: "Tamanho grande",
   mInbox: "Inbox",
   mOptions: "Opções",
   mFilter: "Filtro",

@@ -408,7 +408,6 @@ const enClient = const <String, String> {
 
   mHelp: "Help",
   mDownload: "Download",
-  mFullSize: "Full size",
 
   mInbox: "Inbox",
 

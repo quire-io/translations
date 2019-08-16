@@ -327,7 +327,6 @@ const esClient = const <String, String> {
   mShowMarkdownTips: "Consejos de Markdown",
   mHelp: "Ayuda",
   mDownload: "Descargar",
-  mFullSize: "Tamaño completo",
   mInbox: "Inbox",
   mOptions: "Opciones",
   mFilter: "Filtro",
