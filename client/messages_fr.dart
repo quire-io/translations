@@ -1,4 +1,4 @@
-//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
+//Copyright (C) 2013 PotixCorporation. All Rights Reserved.
 //History: Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
 
@@ -313,7 +313,7 @@ const frClient = const <String, String> {
   mSidebarAddFavTooltip: "Ajouter un signet",
   mSidebarRMFavTooltip: "Supprimer le signet",
   mRemoveRecent: "Retirer des Récents",
-  mSidebarSearchForPrj: "Chercher des projets, des organisations, etc. ([=ctrlCommand]+B)",
+  mSidebarSearchForPrj: "Chercher des projets, des organisations, des membres. ([=ctrlCommand]+B)",
   mBlinkSearchHint: "Recherche Rapide",
   mDetailOpenTooltip: "Ouvrir le panneau des détails (ESPACE)",
   mDetailHideTooltip: "Fermer le panneau des détails (ESPACE)",
@@ -679,11 +679,11 @@ const frClient = const <String, String> {
   mDeleteStatusTitle: "Retirer le statut",
   mMakeUnarchiveMsg: "Vous avez désarchivé ce projet.",
   mPermissionChange: "Vos permissions dans ce projet ont été modifiées.",
-  mRemoveOrganizationMemberContent: "This member will be unassigned from all tasks in this organization.",
-  mRemoveProjectMemberContent: "This member will be unassigned from [=task] in this project.",
-  mRemoveProjectMemberContentPlural: "This member will be unassigned from [=task] and [=count] other tasks in this project.",
-  mReassignMemberToTasks: "Reassign the tasks to",
-  mDeleteAppContent: "You are about to <strong>permanently delete</strong> the app [=name].",
+  mRemoveOrganizationMemberContent: "Les tâches de cette organisation ne seront plus attribuées à ce membre.",
+  mRemoveProjectMemberContent: "[=task] ne sera plus attribuée à ce membre dans ce projet.",
+  mRemoveProjectMemberContentPlural: "[=task] et [=count] autres tâches de ce projet ne seront plus attribuées à ce membre.",
+  mReassignMemberToTasks: "Réattribuer les tâches à",
+  mDeleteAppContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'application [=name].",
   mDeleteOrganizationContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'organisation [=name:full].",
   mDeleteProjectLotContent: "Vous êtes sur le point de <strong>supprimer</strong> le dossier intelligent [=name:full].",
   mDeleteProjectContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> le projet [=name:full].",
