@@ -825,6 +825,7 @@ const enClient = const <String, String> {
   mSettingOptionIntegra: "Integrate [=name]",
 
   mStandardThemes: "Serene Light,Monochrome Dark",
+  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
 
   mDeleteOrganization: "Delete this organization",
   mDeleteProjectLotTitle: "Delete Smart Folder",

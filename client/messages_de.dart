@@ -658,6 +658,7 @@ const deClient = const <String, String> {
   mSettingOptionSyncCalendar: "Mit Kalender synchronisieren",
   mSettingOptionIntegra: "[=name] integrieren",
   mStandardThemes: "Serene Light,Monochrome Dark",
+  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
   mDeleteOrganization: "Diese Organisation löschen",
   mDeleteProjectLotTitle: "Smart Ordner löschen",
   mDeleteProjectTitle: "Projekt löschen",

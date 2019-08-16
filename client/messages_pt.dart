@@ -669,6 +669,7 @@ const ptClient = const <String, String> {
   mSettingOptionSyncCalendar: "Sincronizar com calendário",
   mSettingOptionIntegra: "Integrar [=name]",
   mStandardThemes: "Claro Sereno,Escuro Monocromático",
+  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
   mDeleteOrganization: "Eliminar esta organização",
   mDeleteProjectLotTitle: "Eliminar Pasta Inteligente",
   mDeleteProjectTitle: "Eliminar Projeto",
