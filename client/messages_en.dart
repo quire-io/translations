@@ -234,8 +234,9 @@ const enClient = const <String, String> {
   mDuplicatedName: 'This name is already taken',
   mDuplicatedValue: 'This value is already taken',
 
-  mPreview: "PREVIEW",
-  mWrite: "WRITE",
+  mPreviewU: "PREVIEW",
+  mWriteU: "WRITE",
+  mPreview: "Preview",
 
   mDatePrep: " on",
   mEditedAt: "Edited[=on] [=when]",
@@ -1028,9 +1029,11 @@ const enClient = const <String, String> {
   mIntegrationUnlinklSlackContent: 
   'This organization will no longer be linked to [=team].',
 
-  mIntegrationRevokeSlackUserTitle: 'Revoke Permissions',
-  mIntegrationRevokeSlackUserContent: 
-    'This app will no longer have access to your Quire data.',
+  mRevokeOAppTitle: 'Revoke Permissions',
+  mRevokeOAppTargetContent:
+    'This app will no longer have access to your [=target].',
+  mRevokeOAppAllTargetContent:
+    'This app will no longer have access to all of your data in Quire.',
 
   mCreateLinkTitle: 'Create Share Link',
   mCreateLinkContent:
@@ -1210,8 +1213,8 @@ const enClient = const <String, String> {
   mAppClientSecretDesc: "You'll need to send this secret along with your client ID when making your oauth.access request.",
 
   mAppPermission: 'Permission Scopes',
-  mAppPermissionRead: 'Readonly',
-  mAppPermissionReadDesc: 'Read all of your organizations and projects',
+  mAppPermissionRead: 'Read Only',
+  mAppPermissionReadDesc: 'Read all of your authorized organizations and projects',
   mAppPermissionCreateTasks: 'Create tasks',
   mAppPermissionCreateTasksDesc: 'Add new tasks',
   mAppPermissionManageTasks: 'Manage tasks',
@@ -1235,6 +1238,6 @@ const enClient = const <String, String> {
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
   mAppAuthAllowTo: 'Permission to:',
-  mAppAuthShowNotAllowTo: 'Show what app has no permission to',
+  mAppAuthShowNotAllowTo: 'Show which area app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:',
 };

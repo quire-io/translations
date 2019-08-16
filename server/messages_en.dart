@@ -1048,13 +1048,10 @@ including account-related notifications and task activities.</p>
   //App/API
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro: 
-    '<strong>Create great things with Quire!</strong>'
-    'Build an app that make Quire a better experience for you and your team! '
-    'You can make your app private for your workplace only or public for the marketplace. '
-    'Maybe other users on Quire want to discover it as well.'
-    "If you're not sure how to start, you can check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
+    'Build an app that make Quire an even better experience for you and your team!</br>'
+    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
 
-  mAppListLastUpdate: 'Last update',
+  mAppListLastUpdate: 'Last Update',
 
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
@@ -1082,7 +1079,7 @@ including account-related notifications and task activities.</p>
   mAppAuthSpecifyProject: 'Specify a project',
   mAppAuthSpecifyProjectDesc: 'Select a project',
 
-  mAppAuthContact: 'Allow app to access contact information of my colleagues',
+  mAppAuthContact: "Allow app to access my team members' email addresses",
 
   mAlreadySignedUP: "[=email] already signed up",
   
@@ -1482,6 +1479,8 @@ including account-related notifications and task activities.</p>
 
   mMobileFollowerEdit: "Edit Followers",
   mMobileMemberAddTitle: "Add Members",
+  mMobileRemoveMember: "Remove Member",
+  mMobileUserName: "User name",
 
   mMobileAttachmentAdd: "Add attachment",
   mMobileCommentPost: "Post a comment",

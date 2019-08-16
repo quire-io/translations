@@ -794,12 +794,9 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:
-    '<strong>Create great things with Quire!</strong>'
-    'Build an app that make Quire a better experience for you and your team! '
-    'You can make your app private for your workplace only or public for the marketplace. '
-    'Maybe other users on Quire want to discover it as well.'
-    "If you're not sure how to start, you can check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last update',
+    'Build an app that make Quire an even better experience for you and your team!</br>'
+    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
+  mAppListLastUpdate: 'Last Update',
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
   mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
@@ -819,7 +816,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mAppAuthSpecifyOrganizationDesc: 'Select an organization',
   mAppAuthSpecifyProject: 'Specify a project',
   mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: 'Allow app to access contact information of my colleagues',
+  mAppAuthContact: "Allow app to access my team members' email addresses",
   mAlreadySignedUP: "[=email] ya registrado",
   mNotSignedUPAndRedirect:
     "Aún no has confirmado tu registro.<br>"
@@ -1139,6 +1136,8 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mMobileAssigneeCreator: "Creador",
   mMobileFollowerEdit: "Editar Seguridores",
   mMobileMemberAddTitle: "Añadir Miembros",
+  mMobileRemoveMember: "Remove Member",
+  mMobileUserName: "User name",
   mMobileAttachmentAdd: "Añadir Adjunto",
   mMobileCommentPost: "Publicar un comentario",
   mMobileFeedbackFieldRequired: "Asunto y Comentarios son obligatorios",

@@ -776,12 +776,9 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:
-    '<strong>Create great things with Quire!</strong>'
-    'Build an app that make Quire a better experience for you and your team! '
-    'You can make your app private for your workplace only or public for the marketplace. '
-    'Maybe other users on Quire want to discover it as well.'
-    "If you're not sure how to start, you can check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last update',
+    'Build an app that make Quire an even better experience for you and your team!</br>'
+    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
+  mAppListLastUpdate: 'Last Update',
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
   mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
@@ -801,7 +798,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mAppAuthSpecifyOrganizationDesc: 'Select an organization',
   mAppAuthSpecifyProject: 'Specify a project',
   mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: 'Allow app to access contact information of my colleagues',
+  mAppAuthContact: "Allow app to access my team members' email addresses",
   mAlreadySignedUP: "[=email] est déjà inscrit",
   mNotSignedUPAndRedirect:
     "Vous n'avez pas encore confirmé votre inscription.<br>"
@@ -1121,6 +1118,8 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mMobileAssigneeCreator: "Créateur",
   mMobileFollowerEdit: "Modifier les Followers",
   mMobileMemberAddTitle: "Ajouter des Membres",
+  mMobileRemoveMember: "Remove Member",
+  mMobileUserName: "User name",
   mMobileAttachmentAdd: "Ajouter une pièce jointe",
   mMobileCommentPost: "Poster un commentaire",
   mMobileFeedbackFieldRequired: "Sujet et commentaire sont requis",
