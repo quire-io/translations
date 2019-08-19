@@ -754,7 +754,6 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mCrossProjectUrl: "URL da Pasta Inteligente",
   mProfileUrl: "URL do Perfil",
   mCompany: "Empresa",
-  mWebsite: "Website",
   mActive: "Incompleto",
   mEmailNotifications: "Notificações por Email",
   mPerUpdate: "Por Atualização",

@@ -755,7 +755,6 @@ including account-related notifications and task activities.</p>
   mCrossProjectUrl: "Smart folder URL",
   mProfileUrl: "Profile URL",
   mCompany: "Company",
-  mWebsite: "Website",
   mActive: "Incomplete",
   mEmailNotifications: "Email Notifications",
   mPerUpdate: "Per Update",

@@ -755,7 +755,6 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mCrossProjectUrl: "URL de la carpeta inteligente",
   mProfileUrl: "URL del perfil",
   mCompany: "Compañía",
-  mWebsite: "Sitio web",
   mActive: "Incompleto",
   mEmailNotifications: "Notifications de Email",
   mPerUpdate: "Por Actualización",

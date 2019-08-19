@@ -999,7 +999,6 @@ including account-related notifications and task activities.</p>
   mProfileUrl: "Profile URL",
 
   mCompany: "Company",
-  mWebsite: "Website",
 
   mActive: "Incomplete",
 

@@ -139,6 +139,7 @@ const enClient = const <String, String> {
   mName: "Name",
   mDescription: "Description",
   mProgress: "Progress",
+  mWebsite: "Website",
   mColor: "Color",
   mStart: "Start",
   mDue: "Due",
@@ -1202,11 +1203,12 @@ const enClient = const <String, String> {
 
   mAppOrganizationDesc: 'Your app belongs to this organization — leaving this organization will remove your permission to manage this app. Unfortunately, this can’t be changed later.',
   mAppRedirectURL: 'Redirect URL',
-  mAppRedirectURLDesc: 'You will need to configure redirect URLs in order to automatically generate the vulputate, lacus vel fermentum euismod, ante neque venenatis tellus,',
-  mAppWebhookURL: 'Webhook URL',
-  mAppWebhookURLDesc: 'Webhook URL',
+  mAppRedirectURLDesc: 'When authorization request is granted, you will be redirected to the redirect URL configured in your app setting.',
+  mAppWebhookURL: 'Webhooks',
+  mAppWebhookURLDesc: "When one event on Quire is triggered, the system will send a payload to the webhook's configured URL.",
   mAppUrl: 'App URL',
   mAppUrlDesc: 'This URL link will display in the app directory.',
+  mAppWebsiteDesc: "We'll refer Quire users to this URL if they require more information about your app.",
 
   mAppClientID: 'Client ID',
   mAppClientSecret: 'Client Secret',

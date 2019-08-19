@@ -752,7 +752,6 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mCrossProjectUrl: "Smart Ordner URL",
   mProfileUrl: "Profil URL",
   mCompany: "Unternehmen",
-  mWebsite: "Webseite",
   mActive: "Unerledigt",
   mEmailNotifications: "E-Mail-Benachrichtigungen",
   mPerUpdate: "Pro Update",

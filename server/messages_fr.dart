@@ -737,7 +737,6 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mCrossProjectUrl: "URL du dossier intelligent",
   mProfileUrl: "URL du profil",
   mCompany: "Entreprise",
-  mWebsite: "Site web",
   mActive: "Incomplet",
   mEmailNotifications: "Notifications par Email",
   mPerUpdate: "Par modification",

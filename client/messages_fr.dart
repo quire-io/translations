@@ -1,4 +1,4 @@
-//Copyright (C) 2013 PotixCorporation. All Rights Reserved.
+//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
 //History: Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
 
@@ -99,6 +99,7 @@ const frClient = const <String, String> {
   mName: "Nom",
   mDescription: "Description",
   mProgress: "Progression",
+  mWebsite: "Website",
   mColor: "Couleur",
   mStart: "Début",
   mDue: "Échéance",
@@ -936,11 +937,12 @@ const frClient = const <String, String> {
   mAppOrganization: 'Development Organization',
   mAppOrganizationDesc: 'Your app belongs to this organization — leaving this organization will remove your permission to manage this app. Unfortunately, this can’t be changed later.',
   mAppRedirectURL: 'Redirect URL',
-  mAppRedirectURLDesc: 'You will need to configure redirect URLs in order to automatically generate the vulputate, lacus vel fermentum euismod, ante neque venenatis tellus,',
-  mAppWebhookURL: 'Webhook URL',
-  mAppWebhookURLDesc: 'Webhook URL',
+  mAppRedirectURLDesc: 'When authorization request is granted, you will be redirected to the redirect URL configured in your app setting.',
+  mAppWebhookURL: 'Webhooks',
+  mAppWebhookURLDesc: "When one event on Quire is triggered, the system will send a payload to the webhook's configured URL.",
   mAppUrl: 'App URL',
   mAppUrlDesc: 'This URL link will display in the app directory.',
+  mAppWebsiteDesc: "We'll refer Quire users to this URL if they require more information about your app.",
   mAppClientID: 'Client ID',
   mAppClientSecret: 'Client Secret',
   mAppClientSecretDesc: "You'll need to send this secret along with your client ID when making your oauth.access request.",
