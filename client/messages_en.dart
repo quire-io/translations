@@ -975,7 +975,9 @@ const enClient = const <String, String> {
   mPasteTaskToOption2: "lower level as subtasks",
 
   mInvalidId: 'Invalid ID. Only letters, digits, dashes, dots, and underscores are allowed.',
+  mReservedId: 'The ID you entered is reserved',
   mInvalidUrl: 'Invalid URL',
+  mInvalidEmail: 'Invalid Email.',
   mInvalidValue: 'Invalid value',
   mInvalidCompany: 'You cannot use Quire or Potix as company name.',
   mEmailConfirmSentTitle: 'Confirmation Sent',

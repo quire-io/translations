@@ -152,7 +152,6 @@ const enServer = const <String, String> {
   mRequired: 'Required',
 
   mDuplicatedId: 'This ID is already taken',
-  mReservedId: 'The ID you entered is reserved',
 
   mForgotPassword: 'Forgot?',
   mResetPassword: 'Reset password',
@@ -183,7 +182,6 @@ const enServer = const <String, String> {
   mNameISPublicVisible: "Your name is publicly visible",
 
   mCantFindEmail: "Can't find that email.",
-  mInvalidEmail: 'Invalid Email.',
   mDuplicatedEmail: 'This email is already taken.',
   mEmailChangedCancel: '(cancel)',
 
