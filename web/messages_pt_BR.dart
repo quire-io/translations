@@ -137,12 +137,12 @@ const ptBrWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "Compartilhamento de Arquivos",
   mFeatureGoogleDriveDesc: "Carregue facilmente um arquivo ou anexe um arquivo do Google Drive às suas tarefas.",
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the first half of 2020.</p>"
-    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
+    "<p>Muitas pessoas nos estão perguntando sobre preços.</p>"
+    "<p>Mas, tem ainda tantas ideias interessantes a serem exploradas! Nós preferimos manter nosso foco em tornar o Quire ainda mais incrível, do que decidir qual recurso pertence a qual plano.</p>"
+    "<p>Pelo menos até o primeiro semestre de 2020.</p>"
+    "<p>Em outras palavras, por agora você pode desfrutar gratuitamente de uma conta Quire com até 35 organizações, 80 projetos e 30 membros.</p>"
+    "<p>E a boa noticia é que, o que você já estiver usando até lá, continuará sendo gratuito.</p>"
+    '<p>Você tem alguma pergunta? Sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato conosco.</a></p>',
   mCookieGDPRDesc: "Nós usamos cookies para garantir que você tenha a melhor experiência em nosso website.",
   mSecurityPageTitle: 'Security at Quire',
   mSecurityPageDesc:
