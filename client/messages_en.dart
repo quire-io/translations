@@ -1197,7 +1197,7 @@ const enClient = const <String, String> {
   mAppFullDesc: 'Full Description',
   mAppFullDescDesc: "You can tell a whole story on why you created this app and how your app can make everyone's working lives better.",
   mAppIcon: 'App Icon',
-  mAppIconDesc: 'Think of this as an identity photo of your app.',
+  mAppIconDesc: 'Icon should be at least 512x512px.',
   mAppCategories: 'App Directory Categories',
   mAppCompany: 'Company Name',
   mAppContactEmail: 'Contact Email',

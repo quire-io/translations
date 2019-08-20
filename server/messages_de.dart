@@ -697,7 +697,9 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mSettingAppOption: 'Settings',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
-  mSettingAppAuthSecDesc: 'You have authorized the following applications with Quire. For more integrations, visit app <a href="/apps">directory</a>.',
+  mSettingAppAuthSecDesc:
+    'You have authorized the following applications with Quire. For more integrations, '
+    'visit app <a href="/apps" target="_blank">directory</a>.',
   mAppListAuthTarget: 'Access to',
   mOauthViewTitle: "Berechtigungen erteilen",
   mOauthViewDesc: "[=name] kann Folgendes tun:",
