@@ -656,7 +656,7 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   mMDColoring: 'Cor',
   mMDOrderedList: 'Lista Numerada',
   mMDUnorderedList: 'Lista com Marcadores',
-  mMDCheckList: 'Checklist',
+  mMDCheckList: 'Lista de Verificação',
   mMDLink: 'Link',
   mMDMention:
     'Também pode usar <b><i>@nome_utilizador</i></b> '
@@ -1085,7 +1085,7 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   mMobileFiles: "Ficheiros",
   mMobileSyncing: "A sincronizar",
   mMobileMySelf: "Myself",
-  mMobileShare: "Share",
+  mMobileShare: "Partilhar",
   mMobileNewBoard: "Novo Quadro",
   mMobileArchivedBoard: "Quadros arquivados",
   mMobileProfileCamera: "Tirar Foto",
