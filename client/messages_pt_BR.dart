@@ -669,7 +669,9 @@ const ptBrClient = const <String, String> {
   mSettingOptionSyncCalendar: "Sincronizar com calendário",
   mSettingOptionIntegra: "Integrar [=name]",
   mStandardThemes: "Claro Sereno,Escuro Monocromático",
-  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
+  mQuireAppCategories:
+    "bot=Bots;com=Communication;crm=Customer Support;dev=Development;"
+    "file=File Management;mkt=Marketing;fin=Finance;rpt=Reporting;sale=Sales;time=Time Tracking",
   mDeleteOrganization: "Excluir esta organização",
   mDeleteProjectLotTitle: "Excluir Pasta Inteligente",
   mDeleteProjectTitle: "Excluir Projeto",

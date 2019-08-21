@@ -664,7 +664,9 @@ const jaClient = const <String, String> {
   mSettingOptionSyncCalendar: "Sync to calendar",
   mSettingOptionIntegra: "Integrate [=name]",
   mStandardThemes: "Serene Light,Monochrome Dark",
-  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
+  mQuireAppCategories:
+    "bot=Bots;com=Communication;crm=Customer Support;dev=Development;"
+    "file=File Management;mkt=Marketing;fin=Finance;rpt=Reporting;sale=Sales;time=Time Tracking",
   mDeleteOrganization: "Delete this organization",
   mDeleteProjectLotTitle: "Delete Smart Folder",
   mDeleteProjectTitle: "Delete Project",

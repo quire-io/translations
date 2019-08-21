@@ -664,7 +664,9 @@ const esClient = const <String, String> {
   mSettingOptionSyncCalendar: "Sincronizar con el calendario",
   mSettingOptionIntegra: "Integrar [=name]",
   mStandardThemes: "Luz Serena,Monocromo Oscuro",
-  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
+  mQuireAppCategories:
+    "bot=Bots;com=Communication;crm=Customer Support;dev=Development;"
+    "file=File Management;mkt=Marketing;fin=Finance;rpt=Reporting;sale=Sales;time=Time Tracking",
   mDeleteOrganization: "Eliminar esta organización",
   mDeleteProjectLotTitle: "Eliminar Carpeta Inteligente",
   mDeleteProjectTitle: "Eliminar Proyecto",

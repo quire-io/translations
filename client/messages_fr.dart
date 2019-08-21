@@ -664,7 +664,9 @@ const frClient = const <String, String> {
   mSettingOptionSyncCalendar: "Synchroniser avec l'agenda",
   mSettingOptionIntegra: "Intégrer [=name]",
   mStandardThemes: "Blanc Serein,Sombre Monochrome",
-  mQuireAppCategories: "Bots,Communication,Customer Support,Development,File Management,Marketing,Finance,Reporting,Sales,Time Tracking",
+  mQuireAppCategories:
+    "bot=Bots;com=Communication;crm=Customer Support;dev=Development;"
+    "file=File Management;mkt=Marketing;fin=Finance;rpt=Reporting;sale=Sales;time=Time Tracking",
   mDeleteOrganization: "Supprimer cette organisation",
   mDeleteProjectLotTitle: "Supprimer le Dossier Intelligent",
   mDeleteProjectTitle: "Supprimer le projet",
