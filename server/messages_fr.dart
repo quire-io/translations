@@ -684,7 +684,7 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc:
     'You have authorized the following applications with Quire. For more integrations, '
-    'visit app <a href="/apps" target="_blank">directory</a>.',
+    'visit <a href="/apps" target="_blank">App Directory</a>.',
   mAppListAuthTarget: 'Access to',
   mOauthViewTitle: "Accorder les Autorisations",
   mOauthViewDesc: "[=name] pourra :",

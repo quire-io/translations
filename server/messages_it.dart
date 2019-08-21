@@ -702,7 +702,7 @@ including account-related notifications and task activities.</p>
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc:
     'You have authorized the following applications with Quire. For more integrations, '
-    'visit app <a href="/apps" target="_blank">directory</a>.',
+    'visit <a href="/apps" target="_blank">App Directory</a>.',
   mAppListAuthTarget: 'Access to',
   mOauthViewTitle: "Grant Permissions",
   mOauthViewDesc: "[=name] will be able to:",

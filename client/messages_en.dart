@@ -1218,7 +1218,7 @@ const enClient = const <String, String> {
 
   mAppPermission: 'Permission Scopes',
   mAppPermissionRead: 'Read Only',
-  mAppPermissionReadDesc: 'Read all of your authorized organizations and projects',
+  mAppPermissionReadDesc: 'Read all of your authorized organizations and projects',
   mAppPermissionCreateTasks: 'Create tasks',
   mAppPermissionCreateTasksDesc: 'Add new tasks',
   mAppPermissionManageTasks: 'Manage tasks',
