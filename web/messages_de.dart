@@ -148,7 +148,7 @@ const deWeb = const <String, String> {
   mSecurityEncryptionDesc:
     "Bei Quire nehmen wir den Schutz personenbezogener Daten sehr ernst. "
     "Wir möchten, dass Sie sich darauf verlassen können, dass Ihre persönlichen Daten bei Quire sorgfältig behandelt und geschützt werden. "
-    'Sie können unsere <a href="/policy">Datenschutzrichtlinien</a> einsehen. Sie können unsere Richtlinienseite einsehen. Der gesamte Datenverkehr auf Quire wird mit SSL/TLS ausgeführt, dem leistungsstärksten und vertrauenswürdigsten Protokoll für sichere Kommunikation..',
+    'Sie können unsere <a href="/privacy">Datenschutzrichtlinien</a> einsehen. Sie können unsere Richtlinienseite einsehen. Der gesamte Datenverkehr auf Quire wird mit SSL/TLS ausgeführt, dem leistungsstärksten und vertrauenswürdigsten Protokoll für sichere Kommunikation..',
   mSecurityStorageTitle: 'Sicherheit der Datenspeicherung',
   mSecurityStorageDesc:
     'Ihre Daten werden in den USA von Amazon Web Services (AWS) gespeichert, '

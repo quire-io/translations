@@ -152,7 +152,7 @@ const jaWeb = const <String, String> {
   mSecurityEncryptionDesc:
     "Quireに携わる私たちは、個人データの保護に真剣に取り組んでいます。"
     "個人データは細心の注意をもって扱われ、厳正に管理されています。"
-    '私たちの<a href="/policy">方針ページ</a>をご確認ください。Quireは、安全な通信に最も効果的で信頼されているプロトコルであるSSL／TLSを全面導入しています。',
+    '私たちの<a href="/privacy">方針ページ</a>をご確認ください。Quireは、安全な通信に最も効果的で信頼されているプロトコルであるSSL／TLSを全面導入しています。',
   mSecurityStorageTitle: '保管中のデータのセキュリティについて',
   mSecurityStorageDesc:
     '個人のデータはアマゾン ウェブ サービス（AWS）を使って米国に保管されており、'

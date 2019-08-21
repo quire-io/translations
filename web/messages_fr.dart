@@ -152,7 +152,7 @@ const frWeb = const <String, String> {
   mSecurityEncryptionDesc:
     "At Quire, we take personal data protection very serious. "
     "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/policy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
+    'You can check out our <a href="/privacy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
   mSecurityStorageTitle: 'Data Storage Security',
   mSecurityStorageDesc:
     'Your data is stored in the United States by Amazon Web Services (AWS), '
