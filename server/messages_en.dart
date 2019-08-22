@@ -762,6 +762,10 @@ including account-related notifications and task activities.</p>
     "[=who] removed an application, [=value], from [=what]",
   "AT$atEditOApp":
     "[=who] edited [=value]",
+  "AT$atPublishOApp":
+    "[=who] published [=value]",
+  "AT$atUnpublishOApp":
+    "[=who] unpublished [=value]",
 
   "AT$atAddShare":
     "[=who] created a share link, [=value], of [=what]",

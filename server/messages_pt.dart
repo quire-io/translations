@@ -580,6 +580,8 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   "AT$atAddOApp": "[=who] adicionou uma aplicação, [=value], para [=what]",
   "AT$atRemoveOApp": "[=who] removeu uma aplicação, [=value], de [=what]",
   "AT$atEditOApp": "[=who] editou [=value]",
+  "AT$atPublishOApp": "[=who] published [=value]",
+  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
   "AT$atAddShare": "[=who] criou um link partilhável, [=value], de [=what]",
   "AT$atRemoveShare": "[=who] removeu um link partilhável, [=value], de [=what]",
   "AT$atAddBoard": "[=who] adicionou um quadro [=value] a [=what]",

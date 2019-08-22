@@ -580,6 +580,8 @@ including account-related notifications and task activities.</p>
   "AT$atAddOApp": "[=who] added an application, [=value], to [=what]",
   "AT$atRemoveOApp": "[=who] removed an application, [=value], from [=what]",
   "AT$atEditOApp": "[=who] edited [=value]",
+  "AT$atPublishOApp": "[=who] published [=value]",
+  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
   "AT$atAddShare": "[=who] created a share link, [=value], of [=what]",
   "AT$atRemoveShare": "[=who] removed a shared link, [=value], of [=what]",
   "AT$atAddBoard": "[=who] added a board [=value] to [=what]",

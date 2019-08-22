@@ -562,6 +562,8 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   "AT$atAddOApp": "[=who] a ajouté une application, [=value], à [=what]",
   "AT$atRemoveOApp": "[=who] a supprimé une application, [=value], de [=what]",
   "AT$atEditOApp": "[=who] a édité [=value]",
+  "AT$atPublishOApp": "[=who] published [=value]",
+  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
   "AT$atAddShare": "[=who] a créé un lien de partage, [=value], de [=what]",
   "AT$atRemoveShare": "[=who] a supprimé un lien de partage, [=value], de [=what]",
   "AT$atAddBoard": "[=who] a ajouté un tableau [=value] à [=what]",

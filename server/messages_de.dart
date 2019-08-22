@@ -577,6 +577,8 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   "AT$atAddOApp": "[=who] hat die Anwendung [=value] zu [=what] hinzugefügt",
   "AT$atRemoveOApp": "[=who] hat die Anwendung [=value] von [=what] entfernt",
   "AT$atEditOApp": "[=who] hat [=what] bearbeitet",
+  "AT$atPublishOApp": "[=who] published [=value]",
+  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
   "AT$atAddShare": "[=who] hat den Link [=value] zum Teilen von [=what] erstellt",
   "AT$atRemoveShare": "[=who] hat den Link [=value] zum Teilen von [=what] entfernt",
   "AT$atAddBoard": "[=who] hat das Board [=value] zu [=what] hinzugefügt",
