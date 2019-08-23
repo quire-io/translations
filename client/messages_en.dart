@@ -190,6 +190,9 @@ const enClient = const <String, String> {
   mCreate: "Create",
   mCreateLink: "Create Link",
   mDelete: "Delete",
+  mActivate: "Activate",
+  mPublished: "Published",
+  mRejected: "Rejected",
   mLink: "Link",
   mUnlink: "Unlink",
   mGrantNew: "Grant Access",
@@ -438,6 +441,7 @@ const enClient = const <String, String> {
   mTaskActivities: "Task activities",
   mNActivities: "[=count] activities",
   mRemoveHistory: "Remove from history",
+  mShowAllHistory: "Show all history",
 
   mAddFirstTaskHint: "Enter a task name",
   mAddTaskHere: "Click here to add task",
@@ -1235,6 +1239,14 @@ const enClient = const <String, String> {
   mAppDelete: 'Delete App',
   mAppDeleteDesc: 'If your app is listed in the App Directory, please communicate any plans to deprecate it to your users.',
   mAppMenuItemDelete: 'Delete App',
+
+  mAppDistribution: 'Public Distribution',
+  mAppDistributionDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus available to any users on Quire <a href="/apps" target="_blank">App Directory</a>.',
+  mAppDistributionButton: 'Activate Public Distribution',
+  mAppDistributionNewButton: 'Submit new version',
+
+  mDistributeAppTitle: 'Activate Public Distribution',
+  mDistributeAppContent: 'You are about to publish this app to public. Morbi at iaculis tortor, nec imperdiet mi.',
 
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',

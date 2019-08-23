@@ -701,6 +701,7 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
   mSettingSlackTeamsDesc: "Esta organização está vinculada às seguintes equipas do Slack:",
   mSettingAppInfo: 'Display Info',
   mSettingAppOption: 'Settings',
+  mSettingAppDistribution: 'Distribution',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc:
@@ -799,6 +800,8 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
     'Build an app that make Quire an even better experience for you and your team!</br>'
     "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
   mAppListLastUpdate: 'Last Update',
+  mAppDistributeListDate: 'Submit Date',
+  mAppDistributeListStatus: 'App Directory Status',
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
   mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',

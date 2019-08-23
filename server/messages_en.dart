@@ -927,6 +927,7 @@ including account-related notifications and task activities.</p>
 
   mSettingAppInfo: 'Display Info',
   mSettingAppOption: 'Settings',
+  mSettingAppDistribution: 'Distribution',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc: 
@@ -1055,6 +1056,8 @@ including account-related notifications and task activities.</p>
     "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
 
   mAppListLastUpdate: 'Last Update',
+  mAppDistributeListDate: 'Submit Date',
+  mAppDistributeListStatus: 'App Directory Status',
 
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",

@@ -697,6 +697,7 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mSettingSlackTeamsDesc: "Diese Organisation ist mit den folgenden Slack-Teams verbunden:",
   mSettingAppInfo: 'Display Info',
   mSettingAppOption: 'Settings',
+  mSettingAppDistribution: 'Distribution',
   mSettingAppSec: "Apps",
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc:
@@ -795,6 +796,8 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
     'Build an app that make Quire an even better experience for you and your team!</br>'
     "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
   mAppListLastUpdate: 'Last Update',
+  mAppDistributeListDate: 'Submit Date',
+  mAppDistributeListStatus: 'App Directory Status',
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
   mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
