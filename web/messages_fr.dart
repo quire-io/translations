@@ -17,8 +17,8 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const frWeb = const <String, String> {
-  mSlogan: 'Développez Vos Idées',
-  mSloganSentence: 'Développez vos idées',
+  mSlogan: 'Explorez Vos Idées',
+  mSloganSentence: 'Explorez vos idées',
   mSloganSubtitle: 'Une plateforme collaborative visuelle pour vos prochains super projets.',
   mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
   mHomeSectionDreamsTitle: "Donnez Vie à vos Rêves",
@@ -144,40 +144,40 @@ const frWeb = const <String, String> {
     "<p>Et la bonne nouvelle, c'est que toutes les fonctionnalités que vous utilisez déjà resteront disponibles gratuitement.</p>"
     '<p>Des questions ? N\'hésitez pas à <a href="mailto:support@quire.io">nous contacter.</a></p>',
   mCookieGDPRDesc: "Nous utilisons des cookies afin de nous assurer que vous disposez de la meilleure experience possible sur notre site.",
-  mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageTitle: 'La sécurité chez Quire',
   mSecurityPageDesc:
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
+    "Chez Quire, nous travaillons dur pour sécuriser et préserver vos données. <br>"
+    "Vos tâches, projets et informations personnelles sont en sécurité avec nous, et voici comment nous les prenons en charge.",
+  mSecurityEncryptionTitle: 'Cryptage des données',
   mSecurityEncryptionDesc:
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/privacy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
+    "Chez Quire, nous prenons la protection des données personnelles au sérieux. "
+    "Soyez assuré(e) que vos données personnelles sont prises en charge avec soin et protégées avec Quire. "
+    'Vous pouvez aller voir notre <a href="/privacy">politique de confidentialité</a>. Tout le trafic sur Quire fontionne sous SSL/TLS, le protocole le plus puissant et le plus fiable pour des communications sécurisées.',
+  mSecurityStorageTitle: 'Sécurité du stockage des données',
   mSecurityStorageDesc:
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
+    'Vos données sont stockées aux États-Unis par Amazon Web Services (AWS), '
+    'et sont sauvegardées en permanence avec des copies stockées hors-site pour une récupération en cas de catastrophe. '
+    'Cette infrastructure AWS hautement sécurisée déploie un programme de sécurité physique avec certification SSAE 16. '
+    'Pour plus d\'informations, rendez-vous sur la <a href="https://aws.amazon.com/security">Sécurité Cloud AWS</a>.',
+  mSecurityBackupTitle: 'Sauvegarde des données',
   mSecurityBackupDesc:
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
+    'Vous avez un contrôle total de vos données sur la plateforme Quire (pour accéder, transférer, exporter et supprimer les données). '
+    'Vous pouvez sauvegarder vos données à tout moment sur un disque dur local. '
+    'Quand un(e) utilisateur(trice) décide de quitter Quire et de supprimer son compte, '
+    'toutes ses données sont entièrement supprimées de la plateforme Quire, et aucune copie cachée n\'est gardée sans la permission de l\'utilisateur(trice). '
+    'Personne n\'est autorisé à accéder aux données sans permission écrite, et nous ne le demanderons que si c\'est réellement nécessaire pour régler un problème de l\'utilisateur(trice).',
+  mSecurityPriorityTitle: 'La confidentialité est notre priorité',
   mSecurityPriorityDesc:
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+    'Nous nous assurons en permanence que nos utilisateurs sont au courant du contrôle qu\'ils ont de leurs données personnelles. '
+    'Nous ne partageons pas des données personnellement identifiables avec des tiers. '
+    'Quire s\'engage à être transparent et honnête, sans intention cachée, à propos de l\'utilisation des <a href="/privacy">données personnelles</a> des utilisateurs.',
   mMobileWelcomeP1Title1: "Bienvenue sur ",
   mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "Saisissez tout",
+  mMobileWelcomeP2Title: "De A à Z",
   mMobileWelcomeP3Title: "Organisez votre travail",
   mMobileWelcomeP4Title: "Rentrez dans l'action",
-  mMobileWelcomeP1Desc: "Dépliez vos idées.",
-  mMobileWelcomeP2Desc: "Décomposez vos idées en mots et photos.",
+  mMobileWelcomeP1Desc: "Explorez vos idées.",
+  mMobileWelcomeP2Desc: "Glissez une tâche vers la gauche ou vers la droite pour la terminer, la supprimer ou y ajouter une sous-tâche.",
   mMobileWelcomeP3Desc: "Concentrez-vous sur les tâches sélectionnées avec le tableau Kanban.",
   mMobileWelcomeP4Desc: "Ajoutez des attributions, des étiquettes, des échéances, etc., pour commencer votre projet."
 };
