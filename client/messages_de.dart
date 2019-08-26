@@ -970,6 +970,8 @@ const deClient = const <String, String> {
   mAppDistributionNewButton: 'Submit new version',
   mDistributeAppTitle: 'Activate Public Distribution',
   mDistributeAppContent: 'You are about to publish this app to public. Morbi at iaculis tortor, nec imperdiet mi.',
+  mUnpublishAppTitle: 'Remove from App Directory',
+  mUnpublishAppContent: 'Nullam iaculis fermentum posuere.. Morbi at iaculis tortor, nec imperdiet mi.',
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
