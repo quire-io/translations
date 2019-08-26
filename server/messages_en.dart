@@ -27,6 +27,7 @@ const enServer = const <String, String> {
   mSidebarRec: "RECENT",
   mSidebarArchive: "Archived",
   mSidebarMembers: "MEMBERS",
+  mAppCategoriesU: 'CATEGORIES',
 
   mSidebarMyTasksSortDate: "Sort by date",
   mSidebarMyTasksSortProject: "Sort by project",

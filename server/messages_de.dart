@@ -28,6 +28,7 @@ const deServer = const <String, String> {
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
   mSidebarMembers: "MITGLIEDER",
+  mAppCategoriesU: 'CATEGORIES',
   mSidebarMyTasksSortDate: "Nach Datum sortieren",
   mSidebarMyTasksSortProject: "Nach Projekt sortieren",
   mSidebarResetOrder: "Auf Standardsortierung zurücksetzen",

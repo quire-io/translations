@@ -28,6 +28,7 @@ const ptBrServer = const <String, String> {
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
   mSidebarMembers: "MEMBROS",
+  mAppCategoriesU: 'CATEGORIES',
   mSidebarMyTasksSortDate: "Ordenar por data",
   mSidebarMyTasksSortProject: "Ordenar por projeto",
   mSidebarResetOrder: "Redefinir para a ordem padrão",

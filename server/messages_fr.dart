@@ -28,6 +28,7 @@ const frServer = const <String, String> {
   mSidebarRec: "RÉCENT",
   mSidebarArchive: "Archivé",
   mSidebarMembers: "MEMBRES",
+  mAppCategoriesU: 'CATEGORIES',
   mSidebarMyTasksSortDate: "Trier par date",
   mSidebarMyTasksSortProject: "Trier par projet",
   mSidebarResetOrder: "Remettre à l'ordre par défaut",
