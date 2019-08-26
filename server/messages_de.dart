@@ -212,6 +212,9 @@ const deServer = const <String, String> {
   mSubtaskStatusDueTitle: "Fälligkeitsdatum",
   mTaskRemovedTitle: "Diese Aufgabe wurde entfernt.",
   mTaskRemovedDesc: "",
+  mAppBanned:
+    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
+    "You aren't allowed to publish the app again until [=when].",
   mMyTasksEmptyMessage: "Entspannen Sie sich!<br>Es gibt nichts zu tun für Sie!",
   mSignupOrganization: "[=user]'s Organisation",
   mSignupProject: "[=user]'s Projekt",
@@ -492,6 +495,29 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
 [=header]
 
 <p>Wir möchten Sie darüber informieren, dass [=member] ([=memberEmail]) "[=project]" gelöscht hat.</p>
+
+[=footer]
+''',
+  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been rejected since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+
+[=reason]
+
+[=footer]
+''',
+  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been banned since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+You won't be allowed to publish the app again until [=days] days later.</p>
+
+[=reason]
 
 [=footer]
 ''',
@@ -1079,14 +1105,14 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMobileIgnore: "ignorieren",
   mMobileReload: "neu laden",
   mMobileTime: "Zeit",
-  mMobileEditRole: "Edit role",
+  mMobileEditRole: "Rolle bearbeiten",
   mMobileMenuArchive: "Archivieren",
   mMobileMenuUnarchive: "Wiederherstellen",
   mMobileTasksSelected: "[=amount] ausgewählt",
   mMobileFiles: "Dateien",
   mMobileSyncing: "Synchronisation",
   mMobileMySelf: "Mich selbst",
-  mMobileShare: "Share",
+  mMobileShare: "Teilen",
   mMobileNewBoard: "Neues Board",
   mMobileArchivedBoard: "Archivierte Boards",
   mMobileProfileCamera: "Foto machen",
@@ -1135,8 +1161,8 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMobileAssigneeCreator: "Ersteller",
   mMobileFollowerEdit: "Follower bearbeiten",
   mMobileMemberAddTitle: "Mitglieder hinzufügen",
-  mMobileRemoveMember: "Remove Member",
-  mMobileUserName: "User name",
+  mMobileRemoveMember: "Mitglied entfernen",
+  mMobileUserName: "Benutzername",
   mMobileAttachmentAdd: "Anhang hinzufügen",
   mMobileCommentPost: "Einen Kommentar posten",
   mMobileFeedbackFieldRequired: "Betreff und Kommentare benötigt",
@@ -1223,6 +1249,6 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
   mMobileEXLogin: "Bitte melden Sie sich erst an",
   mMobileSelfAssign: "Mir zuweisen",
   mMobileAddDue: "Fälligkeitsdatum hinzufügen",
-  mMobileSelectATask: "Select a task",
-  mMobileTutorialVideos: "Tutorial videos"
+  mMobileSelectATask: "Aufgabe auswählen",
+  mMobileTutorialVideos: "Tutorial-Videos"
 };

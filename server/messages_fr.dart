@@ -212,6 +212,9 @@ const frServer = const <String, String> {
   mSubtaskStatusDueTitle: "Dates d'expiration des tâches",
   mTaskRemovedTitle: "Cette tâche a été supprimée.",
   mTaskRemovedDesc: "Essayez de chercher quelque chose d'autre.",
+  mAppBanned:
+    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
+    "You aren't allowed to publish the app again until [=when].",
   mMyTasksEmptyMessage: "Hourra~ aucune tâche n'est due !",
   mSignupOrganization: "Organisation de [=user]",
   mSignupProject: "Projet de [=user]",
@@ -478,6 +481,29 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mEmailDeleteProjectContent: '''
 [=header]
 <p>Nous vous écrivons pour vous informer que [=member] ([=memberEmail]) a supprimé "[=project]".</p>
+[=footer]
+''',
+  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been rejected since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+
+[=reason]
+
+[=footer]
+''',
+  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been banned since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+You won't be allowed to publish the app again until [=days] days later.</p>
+
+[=reason]
+
 [=footer]
 ''',
   mSummaryUnknown: "Mise à jour de l'Activité",

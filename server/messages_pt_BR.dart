@@ -211,6 +211,9 @@ const ptBrServer = const <String, String> {
   mSubtaskStatusDueTitle: "Datas de Conclusão da Tarefa",
   mTaskRemovedTitle: "Esta tarefa foi excluída.",
   mTaskRemovedDesc: "Tente pesquisar por outra coisa.",
+  mAppBanned:
+    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
+    "You aren't allowed to publish the app again until [=when].",
   mMyTasksEmptyMessage: "Oba~ nenhuma tarefa em atraso!",
   mSignupOrganization: "Organização de [=user]",
   mSignupProject: "Projeto de [=user]",
@@ -494,6 +497,29 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 [=header]
 
 <p>Estamos escrevendo para informar você que [=member] ([=memberEmail]) excluiu "[=project]".</p>
+
+[=footer]
+''',
+  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been rejected since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+
+[=reason]
+
+[=footer]
+''',
+  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedContent: '''
+[=header]
+
+<p>We are writing to let you know your app, [=app], has been banned since
+it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+You won't be allowed to publish the app again until [=days] days later.</p>
+
+[=reason]
 
 [=footer]
 ''',
