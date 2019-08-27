@@ -427,7 +427,7 @@ const jaClient = const <String, String> {
   mTaskRecurringOptionYearly: "yearly",
   mTaskRecurringOptionCustom: "custom",
   mTaskRecurringLabelOnWeekday: "On",
-  mTaskRecurringLabelMonthlyBy: "by",
+  mTaskRecurringLabelMonthlyBy: "",
   mTaskRecurringOptionMonthlyByWeekday: "day of week",
   mTaskRecurringOptionMonthlyByDate: "date",
   mTaskRecurringLabelOnWhen: "On the",
