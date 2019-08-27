@@ -1104,8 +1104,8 @@ const enClient = const <String, String> {
   mProjectGuestDesc: "Can read, and post comments.",
 
   mPartnerAdminDesc: "Can manage all outsourced tasks and external members in this project.",
-  mPartnerNormalDesc: "Can add and edit all tasks under outsourced tasks.",
-  mPartnerLimitedDesc: "Can add tasks under outsourced tasks, and manage assigned tasks except delete.",
+  mPartnerNormalDesc: "Can add and edit all outsourced tasks and their subtasks.",
+  mPartnerLimitedDesc: "Can add subtasks under outsourced tasks, and manage assigned tasks except delete.",
   mPartnerGuestDesc: "Can read, and post comments.",
 
   mSearchEscape: "<code>Esc</code> to close search",
