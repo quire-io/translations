@@ -976,8 +976,6 @@ const frClient = const <String, String> {
   mAppDistributionDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus disponible à tous les utilisateurs dans la <a href="/apps" target="_blank">Liste des Applications</a> de Quire.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
-  mDistributeAppTitle: 'Activer la distribution publique',
-  mDistributeAppContent: 'Vous êtes sur le point de distribuer cette application au public. Morbi at iaculis tortor, nec imperdiet mi.',
   mUnpublishAppTitle: 'Retirer de la liste des applications',
   mUnpublishAppContent: 'Nullam iaculis fermentum posuere.. Morbi at iaculis tortor, nec imperdiet mi.',
   mAddNewApp: "Ajouter une nouvelle application",

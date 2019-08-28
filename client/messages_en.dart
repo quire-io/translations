@@ -1255,10 +1255,7 @@ const enClient = const <String, String> {
   mAppDistributionDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus available to any users on Quire <a href="/apps" target="_blank">App Directory</a>.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',
-
-  mDistributeAppTitle: 'Activate Public Distribution',
-  mDistributeAppContent: 'You are about to publish this app to public. Morbi at iaculis tortor, nec imperdiet mi.',
-
+  
   mUnpublishAppTitle: 'Remove from App Directory',
   mUnpublishAppContent: 'Nullam iaculis fermentum posuere.. Morbi at iaculis tortor, nec imperdiet mi.',
 
