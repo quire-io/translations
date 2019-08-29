@@ -835,6 +835,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectoryBackApps: 'Browse Apps',
   mAppDirectorySidebarItems: 'All Apps;Popular;New;Made by Quire',
   mAppCreatedBy: 'by [=company]',
+  mAppUnpublishDesc: 'Orci varius natoque <strong>private app</strong> penatibus et magnis dis parturient montes.',
   mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit Developer Website",

@@ -817,6 +817,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectoryBackApps: 'Parcourir les applications',
   mAppDirectorySidebarItems: 'Toutes les applications;Populaires;Nouvelles;Conçues par Quire',
   mAppCreatedBy: 'par [=company]',
+  mAppUnpublishDesc: 'Orci varius natoque <strong>private app</strong> penatibus et magnis dis parturient montes.',
   mAppInstalledDesc: 'Vous avez déjà installé cette application, pour plus d\'informations, rendez-vous dans les [=setting].',
   mAppUpdateAt: 'Dernière mise à jour : [=when]',
   mAppVisitWebsite: "Aller sur le site du développeur",
