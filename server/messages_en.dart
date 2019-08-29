@@ -1100,7 +1100,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mAppCreatedBy: 'by [=company]',
   mAppUnpublishDesc: 
-    'Orci varius natoque <strong>private app</strong> penatibus et magnis dis parturient montes.',
+    'This app is currently set as <strong>private app</strong> and not yet made available on Quire App Directory.',
   mAppInstalledDesc: 
     'You have already installed this app, for more information please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
