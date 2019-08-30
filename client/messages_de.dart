@@ -145,6 +145,7 @@ const deClient = const <String, String> {
   mDelete: "Löschen",
   mActivate: "Activate",
   mPublished: "Published",
+  mUnpublished: "Unpublished",
   mRejected: "Rejected",
   mLink: "Verlinken",
   mUnlink: "Link entfernen",

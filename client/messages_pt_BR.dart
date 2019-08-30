@@ -156,6 +156,7 @@ const ptBrClient = const <String, String> {
   mDelete: "Excluir",
   mActivate: "Activate",
   mPublished: "Published",
+  mUnpublished: "Unpublished",
   mRejected: "Rejected",
   mLink: "Vincular",
   mUnlink: "Desvincular",

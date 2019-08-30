@@ -156,6 +156,7 @@ const ptClient = const <String, String> {
   mDelete: "Eliminar",
   mActivate: "Activate",
   mPublished: "Published",
+  mUnpublished: "Unpublished",
   mRejected: "Rejected",
   mLink: "Vincular",
   mUnlink: "Desvincular",

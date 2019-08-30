@@ -151,6 +151,7 @@ const itClient = const <String, String> {
   mDelete: "Delete",
   mActivate: "Activate",
   mPublished: "Published",
+  mUnpublished: "Unpublished",
   mRejected: "Rejected",
   mLink: "Link",
   mUnlink: "Unlink",

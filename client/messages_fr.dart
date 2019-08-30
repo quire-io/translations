@@ -151,6 +151,7 @@ const frClient = const <String, String> {
   mDelete: "Supprimer",
   mActivate: "Activate",
   mPublished: "Published",
+  mUnpublished: "Unpublished",
   mRejected: "Rejected",
   mLink: "Lien",
   mUnlink: "Dissocier",
