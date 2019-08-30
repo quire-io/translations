@@ -984,7 +984,9 @@ const frClient = const <String, String> {
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
   mUnpublishAppTitle: 'Retirer de la liste des applications',
-  mUnpublishAppContent: 'Nullam iaculis fermentum posuere.. Morbi at iaculis tortor, nec imperdiet mi.',
+  mUnpublishAppContent:
+    'Your app and its related information will be removed from Quire App Directory. '
+    'Exisiting users of this app will not be able to use the app anymore.',
   mAddNewApp: "Ajouter une nouvelle application",
   mAppAuthWhen: 'Autorisée le [=when]',
   mAppAuthTargetAll: 'Tous les projets et organisations',

@@ -1268,8 +1268,9 @@ const enClient = const <String, String> {
   mAppDistributionNewButton: 'Submit new version',
   
   mUnpublishAppTitle: 'Remove from App Directory',
-  mUnpublishAppContent: 'Nullam iaculis fermentum posuere.. Morbi at iaculis tortor, nec imperdiet mi.',
-
+  mUnpublishAppContent: 
+    'Your app and its related information will be removed from Quire App Directory. '
+    'Exisiting users of this app will not be able to use the app anymore.',
 
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
