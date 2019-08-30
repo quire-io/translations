@@ -944,7 +944,7 @@ const frClient = const <String, String> {
   mAppCompany: 'Nom de l\'entreprise',
   mAppContactEmail: 'Email de contact',
   mAppOrganization: 'Organisation liée au développement',
-  mAppOrganizationDesc: 'Votre application appartient à cette organisation — quitter cette organisation supprimera votre permission de gérer cette application. Malheureusement, cela ne pourra pas être modifié plus tard.',
+  mAppOrganizationDesc: 'Your app belongs to this organization - you will not have permission to edit this app if you leave the organization. This cannot be undone.',
   mAppRedirectURL: 'URL de redirection',
   mAppRedirectURLDesc: 'Quand votre demande de permission sera accordée, vous serez redirigé(e) vers l\'URL de redirection configurée dans les paramètres de votre application.',
   mAppWebhookURL: 'Webhooks',
@@ -954,7 +954,9 @@ const frClient = const <String, String> {
   mAppWebsiteDesc: "Nous redirigerons les utilisateurs de Quire vers cette URL s'ils ont besoin de plus d'informations à propos de votre application.",
   mAppClientID: 'ID Client',
   mAppClientSecret: 'Secret Client',
-  mAppClientSecretDesc: "Vous devrez envoyer ce secret ainsi que votre ID client lors de votre demande d'oauth.access.",
+  mAppClientSecretDesc:
+    "Client secret is a secret known only to the application and Quire server. "
+    "You need the client secret when you make oauth.access request.",
   mAppPermission: 'Étendue des autorisations',
   mAppPermissionRead: 'Lecture Seule',
   mAppPermissionReadDesc: 'Lecture de toutes les organisations et de tous les projets dont vous avez la permission',
@@ -971,10 +973,14 @@ const frClient = const <String, String> {
   mAppOptionPrivateDesc: "Disponible uniquement aux membres de votre organisation",
   mAppOptionPublicDesc: "Disponible pour tous les utilisateurs de Quire",
   mAppDelete: 'Supprimer l\'application',
-  mAppDeleteDesc: 'Si votre application est présente dans la liste des applications, veuillez informer les utilisateurs de votre intention de la retirer.',
+  mAppDeleteDesc: 'If your app is listed in Quire App Directory, you should inform your users if you have any plans to deprecate the app.',
   mAppMenuItemDelete: 'Supprimer l\'application',
+  mAppShareableLink: 'Shareable Link',
+  mAppShareableLinkDesc: "This app is unpublished in Quire App Directory but anyone with this link can still install the app.",
   mAppDistribution: 'Distribution publique',
-  mAppDistributionDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus disponible à tous les utilisateurs dans la <a href="/apps" target="_blank">Liste des Applications</a> de Quire.',
+  mAppDistributionDesc:
+    'If you set your app as public distribution so that other users can integrate their Quire accounts with your app. '
+    'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
   mUnpublishAppTitle: 'Retirer de la liste des applications',

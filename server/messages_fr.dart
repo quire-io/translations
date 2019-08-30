@@ -713,8 +713,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingAppSec: "Applications",
   mSettingAppAuthSec: "Applications autorisées",
   mSettingAppAuthSecDesc:
-    'Vous avez autorisé les applications suivantes avec Quire. Pour plus d\'intégrations, '
-    'rendez-vous dans <a href="/apps" target="_blank">la liste des applications</a>.',
+    'You have authorized the following applications with Quire. For more integrations, '
+    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppListAuthTarget: 'Accès à',
   mOauthViewTitle: "Accorder les Autorisations",
   mOauthViewDesc: "[=name] pourra :",
@@ -808,8 +808,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'Développez une application qui rendra Quire encore plus pratique pour vous et votre équipe !</br>'
     "Si vous ne savez pas par où commencer, allez voir <a href='/doc/api/'>le guide de développement</a> pour commencer à développer votre intégration.",
   mAppListLastUpdate: 'Dernière mise à jour',
-  mAppDistributeListDate: 'Date d\'ajout',
-  mAppDistributeListStatus: 'Statut de la liste des applications',
+  mAppDistributeListDate: 'Submission Date',
+  mAppDistributeListStatus: 'App Status',
   mAppDirectoryHeader: "Liste des Applications",
   mAppDirectoryTitle: "Vers Quire et au-delà",
   mAppDirectoryTitleIntro: 'Explorez ces intégrations géniales qui font de la gestion de projet un travail agréable et simple.',

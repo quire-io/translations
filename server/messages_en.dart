@@ -964,7 +964,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc: 
     'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="_blank">App Directory</a>.',
+    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppListAuthTarget: 'Access to',
 
   mOauthViewTitle: "Grant Permissions",
@@ -1088,8 +1088,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
 
   mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submit Date',
-  mAppDistributeListStatus: 'App Directory Status',
+  mAppDistributeListDate: 'Submission Date',
+  mAppDistributeListStatus: 'App Status',
 
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",

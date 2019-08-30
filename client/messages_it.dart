@@ -944,7 +944,7 @@ const itClient = const <String, String> {
   mAppCompany: 'Company Name',
   mAppContactEmail: 'Contact Email',
   mAppOrganization: 'Development Organization',
-  mAppOrganizationDesc: 'Your app belongs to this organization — leaving this organization will remove your permission to manage this app. Unfortunately, this can’t be changed later.',
+  mAppOrganizationDesc: 'Your app belongs to this organization - you will not have permission to edit this app if you leave the organization. This cannot be undone.',
   mAppRedirectURL: 'Redirect URL',
   mAppRedirectURLDesc: 'When authorization request is granted, you will be redirected to the redirect URL configured in your app setting.',
   mAppWebhookURL: 'Webhooks',
@@ -954,7 +954,9 @@ const itClient = const <String, String> {
   mAppWebsiteDesc: "We'll refer Quire users to this URL if they require more information about your app.",
   mAppClientID: 'Client ID',
   mAppClientSecret: 'Client Secret',
-  mAppClientSecretDesc: "You'll need to send this secret along with your client ID when making your oauth.access request.",
+  mAppClientSecretDesc:
+    "Client secret is a secret known only to the application and Quire server. "
+    "You need the client secret when you make oauth.access request.",
   mAppPermission: 'Permission Scopes',
   mAppPermissionRead: 'Read Only',
   mAppPermissionReadDesc: 'Read all of your authorized organizations and projects',
@@ -971,10 +973,14 @@ const itClient = const <String, String> {
   mAppOptionPrivateDesc: "Available only to your organization members",
   mAppOptionPublicDesc: "Available to any users on Quire",
   mAppDelete: 'Delete App',
-  mAppDeleteDesc: 'If your app is listed in the App Directory, please communicate any plans to deprecate it to your users.',
+  mAppDeleteDesc: 'If your app is listed in Quire App Directory, you should inform your users if you have any plans to deprecate the app.',
   mAppMenuItemDelete: 'Delete App',
+  mAppShareableLink: 'Shareable Link',
+  mAppShareableLinkDesc: "This app is unpublished in Quire App Directory but anyone with this link can still install the app.",
   mAppDistribution: 'Public Distribution',
-  mAppDistributionDesc: 'Ut nisi nibh, fringilla eu nunc ac, faucibus available to any users on Quire <a href="/apps" target="_blank">App Directory</a>.',
+  mAppDistributionDesc:
+    'If you set your app as public distribution so that other users can integrate their Quire accounts with your app. '
+    'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',
   mUnpublishAppTitle: 'Remove from App Directory',
