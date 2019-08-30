@@ -172,6 +172,7 @@ const esClient = const <String, String> {
   mDone: "Hecho",
   mRename: "Renombrar",
   mCopy: "Copiar",
+  mCopied: "Copied",
   mCopyLink: "Copiar enlace",
   mPaste: "Pegar",
   mText: "Texto",

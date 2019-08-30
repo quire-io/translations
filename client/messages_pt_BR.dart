@@ -177,6 +177,7 @@ const ptBrClient = const <String, String> {
   mDone: "Concluído",
   mRename: "Renomear",
   mCopy: "Copiar",
+  mCopied: "Copied",
   mCopyLink: "Copiar link",
   mPaste: "Colar",
   mText: "Texto",

@@ -172,6 +172,7 @@ const frClient = const <String, String> {
   mDone: "Terminé",
   mRename: "Renommer",
   mCopy: "Copier",
+  mCopied: "Copied",
   mCopyLink: "Copier le lien",
   mPaste: "Coller",
   mText: "Texte",

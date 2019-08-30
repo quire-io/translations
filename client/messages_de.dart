@@ -166,6 +166,7 @@ const deClient = const <String, String> {
   mDone: "Fertig",
   mRename: "Umbenennen",
   mCopy: "Kopieren",
+  mCopied: "Copied",
   mCopyLink: "Link kopieren",
   mPaste: "Einfügen",
   mText: "Text",

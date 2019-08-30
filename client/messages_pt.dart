@@ -177,6 +177,7 @@ const ptClient = const <String, String> {
   mDone: "Feito",
   mRename: "Renomear",
   mCopy: "Copiar",
+  mCopied: "Copied",
   mCopyLink: "Copiar link",
   mPaste: "Colar",
   mText: "Texto",

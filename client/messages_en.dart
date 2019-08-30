@@ -212,6 +212,7 @@ const enClient = const <String, String> {
   mDone: "Done",
   mRename: "Rename",
   mCopy: "Copy",
+  mCopied: "Copied",
   mCopyLink: "Copy link",
   mPaste: "Paste",
   mText: "Text",
