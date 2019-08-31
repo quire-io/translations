@@ -651,7 +651,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyCreateSubtask: 'Añade una subtarea nueva',
   mKeyDeleteTask: 'Elimina las tareas seleccionadas',
   mKeyCollapseTask: 'Contrae o expande las tareas por nivel',
-  mKeySwitchViews: 'Switch views',
+  mKeySwitchViews: 'Cambiar vistas',
   mKeyBlinkSearch: 'Resalta la búsqueda de proyectos, miembros, etc.',
   mKeySearchTask: 'Busca tareas y comentarios',
   mKeyCompleteTask: 'Completa las tareas seleccionadas',
@@ -684,7 +684,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMDColoring: 'Colores',
   mMDOrderedList: 'Lista Numerada',
   mMDUnorderedList: 'Lista de Viñetas',
-  mMDCheckList: 'Checklist',
+  mMDCheckList: 'Lista de Verificación',
   mMDLink: 'Enlace',
   mMDMention:
     'También puedes usar <b><i>@user_name</i></b> '
@@ -1118,8 +1118,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileTasksSelected: "[=amount] Seleccionadas",
   mMobileFiles: "Archivos",
   mMobileSyncing: "Sincronizando",
-  mMobileMySelf: "Myself",
-  mMobileShare: "Share",
+  mMobileMySelf: "Yo",
+  mMobileShare: "Compartir",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
   mMobileProfileCamera: "Tomar Foto",
@@ -1256,6 +1256,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileEXLogin: "Por favor, primero inicia sesión en Quire",
   mMobileSelfAssign: "Asignármela a mí",
   mMobileAddDue: "Añadir fecha de vencimiento",
-  mMobileSelectATask: "Select a task",
-  mMobileTutorialVideos: "Tutorial videos"
+  mMobileSelectATask: "Selecciona una tarea",
+  mMobileTutorialVideos: "Videotutoriales"
 };
