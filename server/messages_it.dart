@@ -164,6 +164,7 @@ const itServer = const <String, String> {
     'We sent you a confirmation email to<br>'
     '<strong>[=email]</strong>.<br>'
     'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder and confirm it.',
+  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
   mSignupAccountDesc: "Already have an account?",
   mSignupAccountLogin: "Log in here",
   mDeleteAccountNotEmpty:

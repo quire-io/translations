@@ -164,6 +164,7 @@ const deServer = const <String, String> {
     'Eine Bestätigungsmail ging raus an<br>'
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte [=hrefStart]überprüfen Sie ihren Posteingang[=hrefEnd] oder Spamordner.',
+  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
   mSignupAccountDesc: "Sie haben sich schon registriert?",
   mSignupAccountLogin: "Hier anmelden",
   mDeleteAccountNotEmpty:

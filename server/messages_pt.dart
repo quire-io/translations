@@ -164,6 +164,7 @@ const ptServer = const <String, String> {
     'Enviámos-lhe um email de confirmação para<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, [=hrefStart]verifique a sua caixa de entrada[=hrefEnd] ou pasta de spam e confirme.',
+  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
   mSignupAccountDesc: "Já tem uma conta?",
   mSignupAccountLogin: "Inicie sessão aqui",
   mDeleteAccountNotEmpty:
