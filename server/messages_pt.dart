@@ -29,6 +29,7 @@ const ptServer = const <String, String> {
   mSidebarArchive: "Arquivado",
   mSidebarMembers: "MEMBROS",
   mAppCategoriesU: 'CATEGORIES',
+  mAppCategory: 'Category',
   mSidebarMyTasksSortDate: "Ordenar por data",
   mSidebarMyTasksSortProject: "Ordenar por projeto",
   mSidebarResetOrder: "Restaurar ordem padrão",
