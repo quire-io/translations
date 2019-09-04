@@ -816,7 +816,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectoryTitleIntro: 'Explorez ces intégrations géniales qui font de la gestion de projet un travail agréable et simple.',
   mAppSearchPlaceholder: "Chercher des applications",
   mAppDirectoryBackApps: 'Parcourir les applications',
-  mAppDirectorySidebarItems: 'Toutes les applications;Populaires;Nouvelles;Conçues par Quire',
+  mAppDirectorySidebarItems: 'popular=Populaires;new=Nouvelles;quire=Conçues par Quire;=Toutes les applications',
   mAppCreatedBy: 'par [=company]',
   mAppInstalledDesc: 'Vous avez déjà installé cette application, pour plus d\'informations, rendez-vous dans les [=setting].',
   mAppUpdateAt: 'Dernière mise à jour : [=when]',

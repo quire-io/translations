@@ -834,7 +834,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
   mAppSearchPlaceholder: "Search Apps",
   mAppDirectoryBackApps: 'Browse Apps',
-  mAppDirectorySidebarItems: 'All Apps;Popular;New;Made by Quire',
+  mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
   mAppCreatedBy: 'by [=company]',
   mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
