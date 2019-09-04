@@ -229,6 +229,7 @@ const jaClient = const <String, String> {
   mNameRequired: 'Name required',
   mSubjectRequired: 'Subject required',
   mCommentsRequired: 'Comments required',
+  mValueRequired: 'Value required',
   mInputTooLong: "Please shorten your text to a maximum length of [=size].",
   mMenuAddTask: "Add task (t)",
   mAddTask: "Add task (&#8629;)",

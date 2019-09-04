@@ -234,6 +234,7 @@ const ptClient = const <String, String> {
   mNameRequired: 'Nome obrigatório',
   mSubjectRequired: 'Assunto obrigatório',
   mCommentsRequired: 'Comentários obrigatórios',
+  mValueRequired: 'Value required',
   mInputTooLong: "Por favor, reduza o seu texto para um comprimento máximo de [=size].",
   mMenuAddTask: "Adicionar tarefa (t)",
   mAddTask: "Adicionar tarefa (&#8629;)",

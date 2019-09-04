@@ -229,6 +229,7 @@ const esClient = const <String, String> {
   mNameRequired: 'Nombre Obligatorio',
   mSubjectRequired: 'Asunto Obligatorio',
   mCommentsRequired: 'Comentarios Obligatorios',
+  mValueRequired: 'Value required',
   mInputTooLong: "Por favor, reduce el texto a una longitud máxima de [=size].",
   mMenuAddTask: "Añadir tarea (t)",
   mAddTask: "Añadir tarea (&#8629;)",

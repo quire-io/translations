@@ -229,6 +229,7 @@ const frClient = const <String, String> {
   mNameRequired: 'Nom requis',
   mSubjectRequired: 'Sujet requis',
   mCommentsRequired: 'Commentaires requis',
+  mValueRequired: 'Value required',
   mInputTooLong: "Veuillez raccourcir votre texte à une longueur maximale de [=size].",
   mMenuAddTask: "Ajouter une tâche (t)",
   mAddTask: "Ajouter une tâche (&#8629;)",

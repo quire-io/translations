@@ -223,6 +223,7 @@ const deClient = const <String, String> {
   mNameRequired: 'Name erforderlich',
   mSubjectRequired: 'Betreff erforderlich',
   mCommentsRequired: 'Kommentare erforderlich',
+  mValueRequired: 'Value required',
   mInputTooLong: "Bitte kürzen Sie Ihren Text auf eine Maximallänge von [=size].",
   mMenuAddTask: "Aufgabe hinzufügen (t)",
   mAddTask: "Aufgabe hinzufügen (&#8629;)",

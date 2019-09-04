@@ -234,6 +234,7 @@ const ptBrClient = const <String, String> {
   mNameRequired: 'Nome obrigatório',
   mSubjectRequired: 'Assunto obrigatório',
   mCommentsRequired: 'Comentários obrigatórios',
+  mValueRequired: 'Value required',
   mInputTooLong: "Por favor, encurte seu texto para um tamanho máximo de [=size].",
   mMenuAddTask: "Adicionar tarefa (t)",
   mAddTask: "Adicionar tarefa (&#8629;)",

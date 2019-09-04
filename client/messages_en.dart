@@ -283,6 +283,7 @@ const enClient = const <String, String> {
   mNameRequired: 'Name required',
   mSubjectRequired: 'Subject required',
   mCommentsRequired: 'Comments required',
+  mValueRequired: 'Value required',
 
   mInputTooLong: "Please shorten your text to a maximum length of [=size].",
     //more likely being attacked (so need to describe details)
