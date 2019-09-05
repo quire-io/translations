@@ -995,11 +995,11 @@ const frClient = const <String, String> {
   mUnpublishAppTitle: 'Retirer de la liste des applications',
   mUnpublishAppContent:
     'Your app and its related information will be removed from Quire App Directory. '
-    'Exisiting users of this app will not be able to use the app anymore.',
+    'Existing users will not be able to use the app anymore.',
   mAddNewApp: "Ajouter une nouvelle application",
   mAppAuthWhen: 'Autorisée le [=when]',
   mAppAuthTargetAll: 'Tous les projets et organisations',
   mAppAuthAllowTo: 'Autorisation de :',
-  mAppAuthShowNotAllowTo: 'Afficher les endroits auxquels l\'application n\'a pas le droit d\'accéder',
+  mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'Pas l\'autorisation de :'
 };

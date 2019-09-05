@@ -995,11 +995,11 @@ const esClient = const <String, String> {
   mUnpublishAppTitle: 'Remove from App Directory',
   mUnpublishAppContent:
     'Your app and its related information will be removed from Quire App Directory. '
-    'Exisiting users of this app will not be able to use the app anymore.',
+    'Existing users will not be able to use the app anymore.',
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
   mAppAuthAllowTo: 'Permission to:',
-  mAppAuthShowNotAllowTo: 'Show which area app has no permission to access',
+  mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:'
 };
