@@ -1123,6 +1123,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSyncing: "A sincronizar",
   mMobileMySelf: "Myself",
   mMobileShare: "Partilhar",
+  mMobileSkip: "Skip",
+  mMobileNext: "Next",
   mMobileNewBoard: "Novo Quadro",
   mMobileArchivedBoard: "Quadros arquivados",
   mMobileProfileCamera: "Tirar Foto",

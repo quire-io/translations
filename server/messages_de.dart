@@ -1117,6 +1117,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSyncing: "Synchronisation",
   mMobileMySelf: "Mich selbst",
   mMobileShare: "Teilen",
+  mMobileSkip: "Skip",
+  mMobileNext: "Next",
   mMobileNewBoard: "Neues Board",
   mMobileArchivedBoard: "Archivierte Boards",
   mMobileProfileCamera: "Foto machen",
