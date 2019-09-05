@@ -139,6 +139,7 @@ const esClient = const <String, String> {
   mRemove: "Eliminar",
   mSave: "Guardar",
   mSaved: "Guardado",
+  mDiscard: "Discard",
   mSaveChanges: "Guardar cambios",
   mChange: "Cambiar",
   mOK: "OK",
@@ -693,6 +694,8 @@ const esClient = const <String, String> {
   mRemoveProjectMemberContent: "Este miembro será desasignado de [=task] en este proyecto.",
   mRemoveProjectMemberContentPlural: "Este miembro será desasignado de [=task] y otras [=count] tareas en este proyecto.",
   mReassignMemberToTasks: "Reasignar las tareas a",
+  mDiscardDraftTitle: "Discard draft?",
+  mDiscardDraftContent: "Changes you made may not be saved.",
   mDeleteAppContent: "Estás a punto de <strong>borrar permanentemente</strong> la app [=name].",
   mDeleteOrganizationContent: "Estás a punto de <strong>eliminar permanentemente</strong> la organización [=name:full].",
   mDeleteProjectLotContent: "Estás a punto de <strong>eliminar</strong> la carpeta inteligente [=name:full].",
@@ -943,8 +946,10 @@ const esClient = const <String, String> {
   mAppIcon: 'App Icon',
   mAppIconDesc: 'Icon should be at least 512x512px.',
   mAppCategories: 'App Directory Categories',
-  mAppCompany: 'Company Name',
+  mAppOwner: 'App Owner',
+  mAppOwnerDesc: 'Let users know about the brilliant mind behind this app.',
   mAppContactEmail: 'Contact Email',
+  mAppContactEmailDesc: 'Users will contact this email if there is any problem or concern with this app.',
   mAppOrganization: 'Development Organization',
   mAppOrganizationDesc: 'Your app belongs to this organization - you will not have permission to edit this app if you leave the organization. This cannot be undone.',
   mAppRedirectURL: 'Redirect URL',
@@ -975,13 +980,15 @@ const esClient = const <String, String> {
   mAppOptionPrivateDesc: "Available only to your organization members",
   mAppOptionPublicDesc: "Available to any users on Quire",
   mAppDelete: 'Delete App',
-  mAppDeleteDesc: 'If your app is listed in Quire App Directory, you should inform your users if you have any plans to deprecate the app.',
+  mAppDeleteDesc:
+    'If your app is listed in Quire App Directory, '
+    'you should inform your users if you have any plans to deprecate the app.',
   mAppMenuItemDelete: 'Delete App',
   mAppShareableLink: 'Shareable Link',
   mAppShareableLinkDesc: "This app is unpublished in Quire App Directory but anyone with this link can still install the app.",
   mAppDistribution: 'Public Distribution',
   mAppDistributionDesc:
-    'If you set your app as public distribution so that other users can integrate their Quire accounts with your app. '
+    'If you set your app as public distribution, other users can integrate the app with their Quire accounts. '
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',

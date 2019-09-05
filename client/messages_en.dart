@@ -179,6 +179,7 @@ const enClient = const <String, String> {
   mRemove: "Remove",
   mSave: "Save",
   mSaved: "Saved",
+  mDiscard: "Discard",
   mSaveChanges: "Save Changes",
   mChange: "Change",
   mOK: "OK",
@@ -871,6 +872,8 @@ const enClient = const <String, String> {
     "This member will be unassigned from [=task] and [=count] other tasks in this project.",
   mReassignMemberToTasks: "Reassign the tasks to",
 
+  mDiscardDraftTitle: "Discard draft?",
+  mDiscardDraftContent: "Changes you made may not be saved.",
 
   mDeleteAppContent:
     "You are about to <strong>permanently delete</strong> the app [=name].",
@@ -1215,8 +1218,10 @@ const enClient = const <String, String> {
   mAppIcon: 'App Icon',
   mAppIconDesc: 'Icon should be at least 512x512px.',
   mAppCategories: 'App Directory Categories',
-  mAppCompany: 'Company Name',
+  mAppOwner: 'App Owner',
+  mAppOwnerDesc: 'Let users know about the brilliant mind behind this app.',
   mAppContactEmail: 'Contact Email',
+  mAppContactEmailDesc: 'Users will contact this email if there is any problem or concern with this app.',
   mAppOrganization: 'Development Organization',
 
   mAppOrganizationDesc: 
@@ -1255,7 +1260,8 @@ const enClient = const <String, String> {
 
   mAppDelete: 'Delete App',
   mAppDeleteDesc: 
-    'If your app is listed in Quire App Directory, you should inform your users if you have any plans to deprecate the app.',
+    'If your app is listed in Quire App Directory, '
+    'you should inform your users if you have any plans to deprecate the app.',
   mAppMenuItemDelete: 'Delete App',
 
   mAppShareableLink: 'Shareable Link',
@@ -1264,7 +1270,7 @@ const enClient = const <String, String> {
   
   mAppDistribution: 'Public Distribution',
   mAppDistributionDesc: 
-    'If you set your app as public distribution so that other users can integrate their Quire accounts with your app. '
+    'If you set your app as public distribution, other users can integrate the app with their Quire accounts. '
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',

@@ -823,7 +823,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:
     'Build an app that make Quire an even better experience for you and your team!</br>'
-    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's guide</a> to get started on your integration.",
+    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's documentation</a> to get started on your integration.",
   mAppListLastUpdate: 'Last Update',
   mAppDistributeListDate: 'Submission Date',
   mAppDistributeListStatus: 'App Status',

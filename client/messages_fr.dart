@@ -139,6 +139,7 @@ const frClient = const <String, String> {
   mRemove: "Supprimer",
   mSave: "Enregistrer",
   mSaved: "Enregistré",
+  mDiscard: "Discard",
   mSaveChanges: "Enregistrer les modifications",
   mChange: "Modifier",
   mOK: "OK",
@@ -693,6 +694,8 @@ const frClient = const <String, String> {
   mRemoveProjectMemberContent: "[=task] ne sera plus attribuée à ce membre dans ce projet.",
   mRemoveProjectMemberContentPlural: "[=task] et [=count] autres tâches de ce projet ne seront plus attribuées à ce membre.",
   mReassignMemberToTasks: "Réattribuer les tâches à",
+  mDiscardDraftTitle: "Discard draft?",
+  mDiscardDraftContent: "Changes you made may not be saved.",
   mDeleteAppContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'application [=name].",
   mDeleteOrganizationContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'organisation [=name:full].",
   mDeleteProjectLotContent: "Vous êtes sur le point de <strong>supprimer</strong> le dossier intelligent [=name:full].",
@@ -943,8 +946,10 @@ const frClient = const <String, String> {
   mAppIcon: 'Icône de l\'application',
   mAppIconDesc: 'Le format de l\'icône doit au moins être de 512x512px.',
   mAppCategories: 'Catégories de la liste des applications',
-  mAppCompany: 'Nom de l\'entreprise',
+  mAppOwner: 'App Owner',
+  mAppOwnerDesc: 'Let users know about the brilliant mind behind this app.',
   mAppContactEmail: 'Email de contact',
+  mAppContactEmailDesc: 'Users will contact this email if there is any problem or concern with this app.',
   mAppOrganization: 'Organisation liée au développement',
   mAppOrganizationDesc: 'Your app belongs to this organization - you will not have permission to edit this app if you leave the organization. This cannot be undone.',
   mAppRedirectURL: 'URL de redirection',
@@ -975,13 +980,15 @@ const frClient = const <String, String> {
   mAppOptionPrivateDesc: "Disponible uniquement aux membres de votre organisation",
   mAppOptionPublicDesc: "Disponible pour tous les utilisateurs de Quire",
   mAppDelete: 'Supprimer l\'application',
-  mAppDeleteDesc: 'If your app is listed in Quire App Directory, you should inform your users if you have any plans to deprecate the app.',
+  mAppDeleteDesc:
+    'If your app is listed in Quire App Directory, '
+    'you should inform your users if you have any plans to deprecate the app.',
   mAppMenuItemDelete: 'Supprimer l\'application',
   mAppShareableLink: 'Shareable Link',
   mAppShareableLinkDesc: "This app is unpublished in Quire App Directory but anyone with this link can still install the app.",
   mAppDistribution: 'Distribution publique',
   mAppDistributionDesc:
-    'If you set your app as public distribution so that other users can integrate their Quire accounts with your app. '
+    'If you set your app as public distribution, other users can integrate the app with their Quire accounts. '
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',

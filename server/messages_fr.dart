@@ -807,8 +807,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mDeveloperConsoleTitle: "Applications",
   mDeveloperConsoleIntro:
-    'Développez une application qui rendra Quire encore plus pratique pour vous et votre équipe !</br>'
-    "Si vous ne savez pas par où commencer, allez voir <a href='/doc/api/'>le guide de développement</a> pour commencer à développer votre intégration.",
+    'Build an app that make Quire an even better experience for you and your team!</br>'
+    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's documentation</a> to get started on your integration.",
   mAppListLastUpdate: 'Dernière mise à jour',
   mAppDistributeListDate: 'Submission Date',
   mAppDistributeListStatus: 'App Status',
