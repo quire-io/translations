@@ -1274,6 +1274,9 @@ const enClient = const <String, String> {
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',
+
+  mAppDistributionWarning:
+    'You cannot leave the following field(s) empty in <a href="[=link]">Display Info</a> for public distribution.',
   
   mUnpublishAppTitle: 'Remove from App Directory',
   mUnpublishAppContent: 

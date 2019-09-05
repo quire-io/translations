@@ -992,6 +992,7 @@ const frClient = const <String, String> {
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
+  mAppDistributionWarning: 'You cannot leave the following field(s) empty in <a href="[=link]">Display Info</a> for public distribution.',
   mUnpublishAppTitle: 'Retirer de la liste des applications',
   mUnpublishAppContent:
     'Your app and its related information will be removed from Quire App Directory. '
