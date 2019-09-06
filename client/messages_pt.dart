@@ -956,7 +956,7 @@ const ptClient = const <String, String> {
   mAppContactEmail: 'Contact Email',
   mAppContactEmailDesc: 'Users will contact this email if there is any problem or concern with this app.',
   mAppOrganization: 'Development Organization',
-  mAppOrganizationDesc: 'Your app belongs to this organization - you will not have permission to edit this app if you leave the organization. This cannot be undone.',
+  mAppOrganizationDesc: 'Your app belongs to this organization - only the organization admins can edit this app. This cannot be undone.',
   mAppRedirectURL: 'Redirect URL',
   mAppRedirectURLDesc: 'When authorization request is granted, you will be redirected to the redirect URL configured in your app setting.',
   mAppWebhookURL: 'Webhooks',
@@ -971,10 +971,10 @@ const ptClient = const <String, String> {
   mAppClientSecretDesc:
     "Client secret is a secret known only to the application and Quire server. "
     "You need the client secret when you make oauth.access request.",
+  mRegenerateClientSecretTitle: 'Regenerate Client Secret',
   mRegenerateClientSecretContent:
-    "Are you sure you'd like to regenerate the client secret of the published copy? "
-    "Make sure to copy the new generated secret to your production app. "
-    "Otherwise, it can cease to function.",
+    "Are you sure to generate the new client secret for published copy? "
+    "Make sure to copy the new generated client secret to your production server.",
   mAppPermission: 'Permission Scopes',
   mAppPermissionRead: 'Read Only',
   mAppPermissionReadDesc: 'Read all of your authorized organizations and projects',

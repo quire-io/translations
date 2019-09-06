@@ -807,7 +807,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mDeveloperConsoleTitle: "Applications",
   mDeveloperConsoleIntro:
-    'Build an app that make Quire an even better experience for you and your team!</br>'
+    'Build an app that makes Quire an even better experience for you and your team!</br>'
     "If you're not sure how to start, check out the <a href='/doc/api/'>developer's documentation</a> to get started on your integration.",
   mAppListLastUpdate: 'Dernière mise à jour',
   mAppDistributeListDate: 'Submission Date',
@@ -823,7 +823,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppUpdateAt: 'Dernière mise à jour : [=when]',
   mAppVisitWebsite: "Aller sur le site du développeur",
   mAppContactDeveloper: 'Contacter le développeur de l\'application',
-  mAppInstallButtom: 'Ajouter l\'application',
+  mAppInstallButtom: 'Use App',
   mAppAuthDesc: 'Avec votre autorisation, [=app] aura l\'autorisation de :',
   mAppAuthTarget: '[=app] aura accès à :',
   mAppAuthSpecifyTarget: 'Une organisation ou un projet spécifique',
