@@ -959,11 +959,17 @@ const frClient = const <String, String> {
   mAppUrl: 'URL de l\'application',
   mAppUrlDesc: 'Ce lien sera affiché dans la liste des applications.',
   mAppWebsiteDesc: "Nous redirigerons les utilisateurs de Quire vers cette URL s'ils ont besoin de plus d'informations à propos de votre application.",
-  mAppClientID: 'ID Client',
-  mAppClientSecret: 'Secret Client',
+  mAppDevelopmentClientID: 'Development Client ID',
+  mAppDevelopmentClientSecret: 'Development Client Secret',
+  mAppProductionClientID: 'Production Client ID',
+  mAppProductionClientSecret: 'Production Client Secret',
   mAppClientSecretDesc:
     "Client secret is a secret known only to the application and Quire server. "
     "You need the client secret when you make oauth.access request.",
+  mRegenerateClientSecretContent:
+    "Are you sure you'd like to regenerate the client secret of the published copy? "
+    "Make sure to copy the new generated secret to your production app. "
+    "Otherwise, it can cease to function.",
   mAppPermission: 'Étendue des autorisations',
   mAppPermissionRead: 'Lecture Seule',
   mAppPermissionReadDesc: 'Lecture de toutes les organisations et de tous les projets dont vous avez la permission',
@@ -990,6 +996,7 @@ const frClient = const <String, String> {
   mAppDistributionDesc:
     'If you set your app as public distribution, other users can integrate the app with their Quire accounts. '
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
+  mAppDistributionCredentialsDesc: 'You will need to use these credentials for public app.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
   mAppDistributionWarning: 'You cannot leave the following field(s) empty in <a href="[=link]">Display Info</a> for public distribution.',

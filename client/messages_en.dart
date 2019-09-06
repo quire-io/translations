@@ -1234,11 +1234,18 @@ const enClient = const <String, String> {
   mAppUrlDesc: 'This URL link will display in the app directory.',
   mAppWebsiteDesc: "We'll refer Quire users to this URL if they require more information about your app.",
 
-  mAppClientID: 'Client ID',
-  mAppClientSecret: 'Client Secret',
+  mAppDevelopmentClientID: 'Development Client ID',
+  mAppDevelopmentClientSecret: 'Development Client Secret',
+  mAppProductionClientID: 'Production Client ID',
+  mAppProductionClientSecret: 'Production Client Secret',
   mAppClientSecretDesc: 
     "Client secret is a secret known only to the application and Quire server. "
     "You need the client secret when you make oauth.access request.",
+
+  mRegenerateClientSecretContent: 
+    "Are you sure you'd like to regenerate the client secret of the published copy? "
+    "Make sure to copy the new generated secret to your production app. "
+    "Otherwise, it can cease to function.",
 
   mAppPermission: 'Permission Scopes',
   mAppPermissionRead: 'Read Only',
@@ -1272,6 +1279,7 @@ const enClient = const <String, String> {
   mAppDistributionDesc: 
     'If you set your app as public distribution, other users can integrate the app with their Quire accounts. '
     'Your app will be shown in <a href="/apps" target="_blank">Quire App Directory</a>.',
+  mAppDistributionCredentialsDesc: 'You will need to use these credentials for public app.',
   mAppDistributionButton: 'Activate Public Distribution',
   mAppDistributionNewButton: 'Submit new version',
 
