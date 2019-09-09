@@ -824,6 +824,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppVisitWebsite: "Aller sur le site du développeur",
   mAppContactDeveloper: 'Contacter le développeur de l\'application',
   mAppInstallButtom: 'Use App',
+  mAppInstallLabel: 'Installed',
   mAppAuthDesc: 'Avec votre autorisation, [=app] aura l\'autorisation de :',
   mAppAuthTarget: '[=app] aura accès à :',
   mAppAuthSpecifyTarget: 'Une organisation ou un projet spécifique',
