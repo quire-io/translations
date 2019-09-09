@@ -807,10 +807,8 @@ const esClient = const <String, String> {
   mSyncHtmlCalendarContentNote:
     'solo se mostrarán las tareas incompletas con fecha de vencimiento. '
     'Puede pasar hasta un día para que Google Calendar sincronice.',
-  mSyncPlainTextCalendarContent:
-    'Copia la URL de arriba y ve a tu aplicación de calendario para suscribirte.',
-  mSyncPlainTextCalendarContentNote:
-    'solo se mostrarán las tareas incompletas con fecha de vencimiento.',
+  mSyncPlainTextCalendarContent: 'Copia la URL de arriba y ve a tu aplicación de calendario para suscribirte.',
+  mSyncPlainTextCalendarContentNote: 'solo se mostrarán las tareas incompletas con fecha de vencimiento.',
   mSyncCalendarScopeLabel: 'Sincronizar',
   mSyncCalendarToLabel: 'Con',
   mSyncCalendarProjectTask: 'Todas las tareas en este proyecto',

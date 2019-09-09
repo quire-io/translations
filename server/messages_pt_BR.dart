@@ -745,6 +745,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mOauthSlackErrorViewDesc:
     'Ocorreu um erro ao vincular sua conta, por favor, tente novamente. '
     'Se o erro persistir, sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato</a>.',
+  mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
+  mCalendarSyncSetting: "[=tasks] in [=where]",
   mBoardIntroduce: 'Você pode gerenciar suas tarefas visualmente em um quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">aqui</a> para mais informação.',
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",

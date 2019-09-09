@@ -812,10 +812,8 @@ const ptClient = const <String, String> {
   mSyncHtmlCalendarContentNote:
     'Apenas tarefas incompletas com prazos serão mostradas. '
     'Pode demorar um dia para sincronizar o Calendário Google.',
-  mSyncPlainTextCalendarContent:
-    'Copie o URL acima e aceda à sua aplicação de calendário para subscrever.',
-  mSyncPlainTextCalendarContentNote:
-    'Apenas as tarefas incompletas com prazos limite serão mostradas.',
+  mSyncPlainTextCalendarContent: 'Copie o URL acima e aceda à sua aplicação de calendário para subscrever.',
+  mSyncPlainTextCalendarContentNote: 'Apenas as tarefas incompletas com prazos limite serão mostradas.',
   mSyncCalendarScopeLabel: 'Sincronizar',
   mSyncCalendarToLabel: 'Para',
   mSyncCalendarProjectTask: 'Todas as tarefas neste projeto',

@@ -803,10 +803,8 @@ const deClient = const <String, String> {
   mSyncHtmlCalendarContentNote:
     'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.'
     'Es kann bis zu 12 Stunden dauern, bis die Änderungen in Ihrem Google Kalender zu sehen sind.',
-  mSyncPlainTextCalendarContent:
-    'Kopieren Sie obige URL und fügen Sie diese Ihrem Kalender hinzu.',
-  mSyncPlainTextCalendarContentNote:
-    'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.',
+  mSyncPlainTextCalendarContent: 'Kopieren Sie obige URL und fügen Sie diese Ihrem Kalender hinzu.',
+  mSyncPlainTextCalendarContentNote: 'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.',
   mSyncCalendarScopeLabel: 'Synchronisieren',
   mSyncCalendarToLabel: 'Nach',
   mSyncCalendarProjectTask: 'Alle Aufgaben in diesem Projekt',

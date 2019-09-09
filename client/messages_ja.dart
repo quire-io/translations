@@ -807,10 +807,8 @@ const jaClient = const <String, String> {
   mSyncHtmlCalendarContentNote:
     'Only incomplete tasks with due dates will be shown. '
     'It may take a day for Google Calendar to be in sync.',
-  mSyncPlainTextCalendarContent:
-    'Copy the URL above and go to your calendar app to subscribe.',
-  mSyncPlainTextCalendarContentNote:
-    'Only incomplete tasks with due dates will be shown.',
+  mSyncPlainTextCalendarContent: 'Copy the URL above and go to your calendar app to subscribe.',
+  mSyncPlainTextCalendarContentNote: 'Only incomplete tasks with due dates will be shown.',
   mSyncCalendarScopeLabel: 'Sync',
   mSyncCalendarToLabel: 'To',
   mSyncCalendarProjectTask: 'All tasks in this project',

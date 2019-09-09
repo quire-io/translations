@@ -807,10 +807,8 @@ const frClient = const <String, String> {
   mSyncHtmlCalendarContentNote:
     'Seules les tâches non terminées avec des dates d\'échéance seront affichées. '
     'La synchronisation avec Google Agenda peut prendre un jour.',
-  mSyncPlainTextCalendarContent:
-    'Copiez l\'adresse ci-dessus et rendez-vous dans votre application d\'agenda pour vous abonner.',
-  mSyncPlainTextCalendarContentNote:
-    'Seules les tâches non terminées avec des dates d\'échéance seront terminées.',
+  mSyncPlainTextCalendarContent: 'Copiez l\'adresse ci-dessus et rendez-vous dans votre application d\'agenda pour vous abonner.',
+  mSyncPlainTextCalendarContentNote: 'Seules les tâches non terminées avec des dates d\'échéance seront terminées.',
   mSyncCalendarScopeLabel: 'Synchroniser',
   mSyncCalendarToLabel: 'À',
   mSyncCalendarProjectTask: 'Toutes les tâches de ce projet',
