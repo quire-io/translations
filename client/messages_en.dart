@@ -227,6 +227,7 @@ const enClient = const <String, String> {
   mDefault: "Default",
   mOptional: "optional",
   mSearch: "Search",
+  mNote: "Note",
 
   mSelect: "Select",
   mSelectAll: "Select all",
@@ -1021,12 +1022,14 @@ const enClient = const <String, String> {
     '<li>Go to Google Calendar and find "Other calendars" in the bottom left.</li>'
     '<li>Select "Add by URL" from the drop down menu.</li>'
     '<li>Paste the URL in the dialogue and click on "Add Calendar."</li>'
-    '</ol>'
-    '<p>Note: Only incomplete tasks with due dates will be shown. '
-    'It may take a day for Google Calendar to be in sync.</p>',
+    '</ol>',
+  mSyncHtmlCalendarContentNote:
+    'Only incomplete tasks with due dates will be shown. '
+    'It may take a day for Google Calendar to be in sync.',
   mSyncPlainTextCalendarContent: 
-    'Copy the URL above and go to your calendar app to subscribe.<br>'
-    '<p>Note: Only incomplete tasks with due dates will be shown.</p>',
+    'Copy the URL above and go to your calendar app to subscribe.',
+  mSyncPlainTextCalendarContentNote:
+    'Only incomplete tasks with due dates will be shown.',
   mSyncCalendarScopeLabel: 'Sync',
   mSyncCalendarToLabel: 'To',
   mSyncCalendarProjectTask: 'All tasks in this project',
@@ -1294,6 +1297,8 @@ const enClient = const <String, String> {
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
+  mAppInstallAllProject: 'All projects',
+  mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:',

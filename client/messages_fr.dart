@@ -187,6 +187,7 @@ const frClient = const <String, String> {
   mDefault: "Par défaut",
   mOptional: "optional",
   mSearch: "Rechercher",
+  mNote: "Remarque ",
   mSelect: "Sélectionner",
   mSelectAll: "Tout sélectionner",
   mUnselect: "Déselctionner",
@@ -802,12 +803,14 @@ const frClient = const <String, String> {
     '<li>Allez dans Google Agenda et cherchez "Autres agendas" en bas à gauche.</li>'
     '<li>Sélectionnez "À partir de l\'URL" dans le menu déroulant.</li>'
     '<li>Collez l\'adresse dans la fenêtre et cliquez sur "Ajouter un agenda."</li>'
-    '</ol>'
-    '<p>Remarque : Seules les tâches non terminées avec des dates d\'échéance seront affichées. '
-    'La synchronisation avec Google Agenda peut prendre un jour.</p>',
+    '</ol>',
+  mSyncHtmlCalendarContentNote:
+    'Seules les tâches non terminées avec des dates d\'échéance seront affichées. '
+    'La synchronisation avec Google Agenda peut prendre un jour.',
   mSyncPlainTextCalendarContent:
-    'Copiez l\'adresse ci-dessus et rendez-vous dans votre application d\'agenda pour vous abonner.<br>'
-    '<p>Remarque : Seules les tâches non terminées avec des dates d\'échéance seront terminées.</p>',
+    'Copiez l\'adresse ci-dessus et rendez-vous dans votre application d\'agenda pour vous abonner.',
+  mSyncPlainTextCalendarContentNote:
+    'Seules les tâches non terminées avec des dates d\'échéance seront terminées.',
   mSyncCalendarScopeLabel: 'Synchroniser',
   mSyncCalendarToLabel: 'À',
   mSyncCalendarProjectTask: 'Toutes les tâches de ce projet',
@@ -1007,6 +1010,8 @@ const frClient = const <String, String> {
   mAddNewApp: "Ajouter une nouvelle application",
   mAppAuthWhen: 'Autorisée le [=when]',
   mAppAuthTargetAll: 'Tous les projets et organisations',
+  mAppInstallAllProject: 'All projects',
+  mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Autorisation de :',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'Pas l\'autorisation de :'

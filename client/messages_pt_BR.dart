@@ -192,6 +192,7 @@ const ptBrClient = const <String, String> {
   mDefault: "Padrão",
   mOptional: "optional",
   mSearch: "Pesquisar",
+  mNote: "Nota",
   mSelect: "Selecionar",
   mSelectAll: "Selecionar tudo",
   mUnselect: "Desmarcar",
@@ -807,12 +808,14 @@ const ptBrClient = const <String, String> {
     '<li>Acesse a Agenda Google e encontre "Outros Calendários" no canto inferior esquerdo.</li>'
     '<li>Selecione "Adicionar por URL" do menu suspenso.</li>'
     '<li>Cole o URL no diálogo e clique em "Adicionar Calendário."</li>'
-    '</ol>'
-    '<p>Nota: Apenas tarefas incompletas com datas de conclusão serão mostradas. '
-    'Pode demorar um dia para sincronizar o Calendário Google.</p>',
+    '</ol>',
+  mSyncHtmlCalendarContentNote:
+    'Apenas tarefas incompletas com datas de conclusão serão mostradas. '
+    'Pode demorar um dia para sincronizar o Calendário Google.',
   mSyncPlainTextCalendarContent:
-    'Copie o URL acima e acesse o seu aplicativo de calendário para se inscrever.<br>'
-    '<p>Nota: Somente tarefas incompletas com datas de conclusão serão exibidas.</p>',
+    'Copie o URL acima e acesse o seu aplicativo de calendário para se inscrever.',
+  mSyncPlainTextCalendarContentNote:
+    'Somente tarefas incompletas com datas de conclusão serão exibidas.',
   mSyncCalendarScopeLabel: 'Sincronizar',
   mSyncCalendarToLabel: 'Para',
   mSyncCalendarProjectTask: 'Todas as tarefas neste projeto',
@@ -1012,6 +1015,8 @@ const ptBrClient = const <String, String> {
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
+  mAppInstallAllProject: 'All projects',
+  mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:'

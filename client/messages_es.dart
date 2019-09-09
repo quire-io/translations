@@ -187,6 +187,7 @@ const esClient = const <String, String> {
   mDefault: "Por defecto",
   mOptional: "optional",
   mSearch: "Buscar",
+  mNote: "Nota",
   mSelect: "Seleccionar",
   mSelectAll: "Seleccionar todo",
   mUnselect: "Anular selección",
@@ -802,12 +803,14 @@ const esClient = const <String, String> {
     '<li>Ve a Google Calendar y localiza "Otros calendarios" abajo a la izquierda.</li>'
     '<li>Selecciona "Añadir por URL" del menú desplegable.</li>'
     '<li>Pega la URL en el diálogo y haz clic en "Añadir Calendario."</li>'
-    '</ol>'
-    '<p>Nota: solo se mostrarán las tareas incompletas con fecha de vencimiento. '
-    'Puede pasar hasta un día para que Google Calendar sincronice.</p>',
+    '</ol>',
+  mSyncHtmlCalendarContentNote:
+    'solo se mostrarán las tareas incompletas con fecha de vencimiento. '
+    'Puede pasar hasta un día para que Google Calendar sincronice.',
   mSyncPlainTextCalendarContent:
-    'Copia la URL de arriba y ve a tu aplicación de calendario para suscribirte.<br>'
-    '<p>Nota: solo se mostrarán las tareas incompletas con fecha de vencimiento.</p>',
+    'Copia la URL de arriba y ve a tu aplicación de calendario para suscribirte.',
+  mSyncPlainTextCalendarContentNote:
+    'solo se mostrarán las tareas incompletas con fecha de vencimiento.',
   mSyncCalendarScopeLabel: 'Sincronizar',
   mSyncCalendarToLabel: 'Con',
   mSyncCalendarProjectTask: 'Todas las tareas en este proyecto',
@@ -1007,6 +1010,8 @@ const esClient = const <String, String> {
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
+  mAppInstallAllProject: 'All projects',
+  mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:'

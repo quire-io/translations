@@ -181,6 +181,7 @@ const deClient = const <String, String> {
   mDefault: "Standard",
   mOptional: "optional",
   mSearch: "Suche",
+  mNote: "Hinweis",
   mSelect: "Auswählen",
   mSelectAll: "Alle auswählen",
   mUnselect: "Abwählen",
@@ -798,12 +799,14 @@ const deClient = const <String, String> {
     '<li>Wählen Sie Per URL hinzufügen aus.</li>'
     '<li>Geben Sie in dem dafür vorgesehenen Feld die Adresse des Kalenders ein.</li>'
     '<li>Klicken Sie auf Kalender hinzufügen. Der Kalender wird daraufhin auf der linken Seite unter "Weitere Kalender" angezeigt.</li>'
-    '</ol>'
-    '<p>Hinweis: Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.'
-    'Es kann bis zu 12 Stunden dauern, bis die Änderungen in Ihrem Google Kalender zu sehen sind.</p>',
+    '</ol>',
+  mSyncHtmlCalendarContentNote:
+    'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.'
+    'Es kann bis zu 12 Stunden dauern, bis die Änderungen in Ihrem Google Kalender zu sehen sind.',
   mSyncPlainTextCalendarContent:
-    'Kopieren Sie obige URL und fügen Sie diese Ihrem Kalender hinzu.<br>'
-    '<p>Hinweis: Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.</p>',
+    'Kopieren Sie obige URL und fügen Sie diese Ihrem Kalender hinzu.',
+  mSyncPlainTextCalendarContentNote:
+    'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.',
   mSyncCalendarScopeLabel: 'Synchronisieren',
   mSyncCalendarToLabel: 'Nach',
   mSyncCalendarProjectTask: 'Alle Aufgaben in diesem Projekt',
@@ -1003,6 +1006,8 @@ const deClient = const <String, String> {
   mAddNewApp: "Add new app",
   mAppAuthWhen: 'Authorized on [=when]',
   mAppAuthTargetAll: 'All organizations and projects',
+  mAppInstallAllProject: 'All projects',
+  mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:'
