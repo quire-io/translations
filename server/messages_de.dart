@@ -840,7 +840,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit Developer Website",
   mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButtom: 'Use App',
+  mAppInstallButtom: 'Install',
   mAppInstallLabel: 'Installed',
   mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
   mAppAuthTarget: '[=app] will have access to:',
@@ -1122,6 +1122,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileShare: "Teilen",
   mMobileSkip: "Skip",
   mMobileNext: "Next",
+  mMobileGreen: "Green",
+  mMobileBlue: "Blue",
   mMobileNewBoard: "Neues Board",
   mMobileArchivedBoard: "Archivierte Boards",
   mMobileProfileCamera: "Foto machen",
@@ -1259,5 +1261,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSelfAssign: "Mir zuweisen",
   mMobileAddDue: "Fälligkeitsdatum hinzufügen",
   mMobileSelectATask: "Aufgabe auswählen",
-  mMobileTutorialVideos: "Tutorial-Videos"
+  mMobileTutorialVideos: "Tutorial-Videos",
+  mMobileAltHint: "Advanced mode on. You can shake again to toggle off."
 };
