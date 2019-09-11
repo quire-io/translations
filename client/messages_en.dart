@@ -319,6 +319,7 @@ const enClient = const <String, String> {
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
   mMenuItemSortByAssignee: "Sort by assignee",
+  mMenuItemSortByTag: "Sort by tag",
   
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 

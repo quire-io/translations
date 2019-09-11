@@ -259,6 +259,7 @@ const esClient = const <String, String> {
   mMenuItemSortByStates: "Ordenar por estado",
   mMenuItemSortByPriority: "Ordenar por prioridad",
   mMenuItemSortByAssignee: "Ordenar por asignado",
+  mMenuItemSortByTag: "Sort by tag",
   mSearchSectionLabel: "Organizaciones,Carpetas Inteligentes,Proyectos,Miembros,Filtros guardados",
   mBaseFilterLabel: "Todo,Activas,Completadas,Por hacer,En progreso,Peekaboo",
   mExtFilterLabel: "Siguiendo,Asignada por,Creada por,Asignada a,Etiquetas,Prioridad,Favoritos,Mis Tareas,Tableros,Sin leer",

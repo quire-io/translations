@@ -253,6 +253,7 @@ const deClient = const <String, String> {
   mMenuItemSortByStates: "Nach Status sortieren",
   mMenuItemSortByPriority: "Nach Priorität sortieren",
   mMenuItemSortByAssignee: "Nach Person sortieren",
+  mMenuItemSortByTag: "Sort by tag",
   mSearchSectionLabel: "Organisationen,Smarte Ordner,Projekte,Mitglieder,Gespeicherte Filter",
   mBaseFilterLabel: "Alle,Aktiv,Abgeschlossen,Ausstehend,In Bearbeitung,Peekaboo",
   mExtFilterLabel: "Abonniert,Zugewiesen von,Erstellt von,Zugewiesen an,Tags,Priorität,Favorisiert,Meine Aufgaben,Boards,Ungelesen",

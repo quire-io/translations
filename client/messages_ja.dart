@@ -259,6 +259,7 @@ const jaClient = const <String, String> {
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
   mMenuItemSortByAssignee: "Sort by assignee",
+  mMenuItemSortByTag: "Sort by tag",
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
   mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",

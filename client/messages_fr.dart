@@ -259,6 +259,7 @@ const frClient = const <String, String> {
   mMenuItemSortByStates: "Trier par statut",
   mMenuItemSortByPriority: "Trier par priorité",
   mMenuItemSortByAssignee: "Trier par attribution",
+  mMenuItemSortByTag: "Sort by tag",
   mSearchSectionLabel: "Organisations,Dossiers Intelligents,Projets,Membres,Filtres enregistrés",
   mBaseFilterLabel: "Tout,Actif,Terminé,À faire,En cours,Peekaboo",
   mExtFilterLabel: "Suivi,Attribué par,Créé par,Attribué à,Étiquettes,Priorité,Favori,Mes Tâches,Tableaux,Non lu",

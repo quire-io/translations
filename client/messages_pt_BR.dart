@@ -264,6 +264,7 @@ const ptBrClient = const <String, String> {
   mMenuItemSortByStates: "Classificar por estado",
   mMenuItemSortByPriority: "Classificar por prioridade",
   mMenuItemSortByAssignee: "Classificar por responsável",
+  mMenuItemSortByTag: "Sort by tag",
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Usuários,Filtros guardados",
   mBaseFilterLabel: "Todas, Ativas, Concluídas, Por Fazer, Em Progresso, Peekaboo",
   mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas,Boards,Unread",
