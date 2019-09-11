@@ -1107,10 +1107,10 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSyncing: "Synchronisation",
   mMobileMySelf: "Moi-même",
   mMobileShare: "Partager",
-  mMobileSkip: "Skip",
-  mMobileNext: "Next",
-  mMobileGreen: "Green",
-  mMobileBlue: "Blue",
+  mMobileSkip: "Passer",
+  mMobileNext: "Suivant",
+  mMobileGreen: "Vert",
+  mMobileBlue: "Bleu",
   mMobileNewBoard: "Nouveau Tableau",
   mMobileArchivedBoard: "Tableaux archivés",
   mMobileProfileCamera: "Prendre une photo",
@@ -1249,5 +1249,5 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileAddDue: "Ajouter une date d'échéance",
   mMobileSelectATask: "Sélectionnez une tâche",
   mMobileTutorialVideos: "Vidéos du tutoriel",
-  mMobileAltHint: "Advanced mode on. You can shake again to toggle off."
+  mMobileAltHint: "Mode Avancé activé. Secouez de nouveau pour le désactiver."
 };
