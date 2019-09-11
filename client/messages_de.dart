@@ -895,6 +895,7 @@ const deClient = const <String, String> {
   mGroupDropRemoveTag: "Drop tasks here to remove tag",
   mDragTooltipState: "Drag & Drop, um Status festzulegen",
   mDragTooltipPriority: "Drag & Drop, um Priorität festzulegen",
+  mDragTooltipTag: "Drag and drop to set tag",
   mDragTooltipAssignee: "Drag & Drop, um Personen hinzuzufügen oder zu entfernen",
   mDragTooltipDueDate: "Drag & Drop, um Fälligkeitsdaten festzulegen",
   mDragTooltipDuePer: "Drag & Drop, um Fälligkeitsdaten festzulegen oder zu entfernen",

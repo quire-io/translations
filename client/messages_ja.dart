@@ -899,6 +899,7 @@ const jaClient = const <String, String> {
   mGroupDropRemoveTag: "Drop tasks here to remove tag",
   mDragTooltipState: "Drag and drop to set status",
   mDragTooltipPriority: "Drag and drop to set priority",
+  mDragTooltipTag: "Drag and drop to set tag",
   mDragTooltipAssignee: "Drag and drop to set or remove assignees",
   mDragTooltipDueDate: "Drag and drop to set due dates",
   mDragTooltipDuePer: "Drag and drop to set or remove due dates",
