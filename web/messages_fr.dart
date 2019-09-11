@@ -26,7 +26,7 @@ const frWeb = const <String, String> {
     "« Il n'y avait pas de route devant moi, <br> "
     "et un chemin sera tracé derrière moi. » <br>"
     "- Takamura Kotaro",
-  mHomeSectionStartSmallTitle: "Pensez Large, Commencez Petit",
+  mHomeSectionStartSmallTitle: "Voyez Grand, Commencez Petit",
   mHomeSectionStartSmallDesc:
     "Nous résolvons naturellement un problème en le fragmentant en tâches réalisables. <br>"
     "Quire vous permet de détailler vos idées, et de les aborder pas à pas.",
@@ -34,10 +34,10 @@ const frWeb = const <String, String> {
   mHomeSectionVisuallyDesc:
     "Faites avancer votre travail visuellement. Organisez, hiérarchisez, "
     "et concentrez-vous chaque jour sur ce qui est le plus important sur le tableau. Avec tout le monde à bord.",
-  mHomeSectionProgressTitle: "Regardez et Dépassez Vos Progrès",
+  mHomeSectionProgressTitle: "Analysez et Dépassez Vos Progrès",
   mHomeSectionProgressDesc:
-    "Soyez attentifs aux impulsions de vos rêves. Comprenez les hauts et les bas de vos tâches, "
-    "vos projets, et votre équipe, actuels et à venir. Et célébrez le succès",
+    "Soyez attentifs aux besoins de vos rêves. Prenez en compte les hauts et les bas de vos tâches, "
+    "de vos projets, et de votre équipe, actuels et à venir. Et célébrez le succès.",
   mHomeSectionSignupMidDesc:
     "Tout ce dont vous avez besoin pour passer des idées à l'action. <br>"
     "Inscrivez-vous maintenant. C'est gratuit !",
@@ -47,16 +47,16 @@ const frWeb = const <String, String> {
   mHomeSection7Title: "Partout. À tout moment.",
   mFeaturesSection1Title: "Tout ce dont vous avez besoin. [=linebreak]Ni plus, ni moins.",
   mFeaturesSection1Desc:
-    "Perdez moins de temps à vous demander comment fonctionnent les choses. <br>"
-    "Les puissantes fonctionnalités et le design intuitif de Quire vous offrent une gestion de projet harmonieuse.",
+    "Ne perdez plus de temps à vous demander comment fonctionnent les choses. <br>"
+    "Les fonctionnalités puissantes et le design intuitif de Quire vous permettent de gérer les projets en harmonie.",
   mFeaturesSectionSignupBottomDesc:
     "Tout ce que vous voulez et tout ce dont vous avez besoin pour faire avancer les choses. <br>"
     "Voyez par vous-même, inscrivez-vous maintenant.",
   mFeaturesMigrationSectionTitle: "En recherche de quelque chose de mieux ?",
   mFeaturesMigrationSectionDesc: "3 étapes simples pour une migration vers Quire sans douleur !",
   mFeaturesMigrationAsanaButton: "Migrer depuis Asana",
-  mFeaturesMigrationTrelloButton: "Migrate from Trello",
-  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
+  mFeaturesMigrationTrelloButton: "Migrer depuis Trello",
+  mFeaturesMigrationWunderlistButton: "Migrer depuis Wunderlist",
   mFeaturesMigrationOthersButton: "Migrer depuis d'autres plateformes",
   mFeatureHierarchyTitle: "Liste de Tâches Imbriquées",
   mFeatureHierarchyDesc: "Abordez les grands projets en les décomposant en petites étapes, plus gérables.",
