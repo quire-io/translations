@@ -900,6 +900,8 @@ const ptClient = const <String, String> {
   mGroupDropDueDays: "Solte tarefas aqui para definir um prazo",
   mGroupDropStartDays: "Solte tarefas aqui para definir uma data de início",
   mGroupDropRemoveStart: "Solte tarefas aqui para remover datas de início",
+  mGroupDropTag: "Drop tasks here to set this tag",
+  mGroupDropRemoveTag: "Drop tasks here to remove tag",
   mDragTooltipState: "Arraste e solte para definir o estado",
   mDragTooltipPriority: "Arraste e solte para definir a prioridade",
   mDragTooltipAssignee: "Arraste e solte para definir ou remover colaboradores",

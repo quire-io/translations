@@ -1149,6 +1149,8 @@ const enClient = const <String, String> {
   mGroupDropDueDays: "Drop tasks here to set a due date",
   mGroupDropStartDays: "Drop tasks here to set a start date",
   mGroupDropRemoveStart: "Drop tasks here to remove start dates",
+  mGroupDropTag: "Drop tasks here to set this tag",
+  mGroupDropRemoveTag: "Drop tasks here to remove tag",
 
   mDragTooltipState: "Drag and drop to set status",
   mDragTooltipPriority: "Drag and drop to set priority",

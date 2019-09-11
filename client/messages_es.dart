@@ -895,6 +895,8 @@ const esClient = const <String, String> {
   mGroupDropDueDays: "Soltar tareas aquí para establecer una fecha de vencimiento",
   mGroupDropStartDays: "Soltar tareas aquí para establecer fecha de inicio",
   mGroupDropRemoveStart: "Soltar tareas aquí para quitar fecha de inicio",
+  mGroupDropTag: "Drop tasks here to set this tag",
+  mGroupDropRemoveTag: "Drop tasks here to remove tag",
   mDragTooltipState: "Arrastrar y soltar para establecer el estado",
   mDragTooltipPriority: "Arrastrar y soltar para establecer la prioridad",
   mDragTooltipAssignee: "Arrastrar y soltar para establecer o quitar asignados",
