@@ -263,7 +263,7 @@ const frClient = const <String, String> {
   mSearchSectionLabel: "Organisations,Dossiers Intelligents,Projets,Membres,Filtres enregistrés",
   mBaseFilterLabel: "Tout,Actif,Terminé,À faire,En cours,Peekaboo",
   mExtFilterLabel: "Suivi,Attribué par,Créé par,Attribué à,Étiquettes,Priorité,Favori,Mes Tâches,Tableaux,Non lu",
-  mGrouperLabel: "Attribution,Date,Priorité,Dues par Jour,Dues par Semaine,Terminées par Semaine,Créées par Semaine,Commencées par Semaine,Modifiées par Semaine,Statut,Nom",
+  mGrouperLabel: "Attribution,Date,Priorité,Dues par Jour,Dues par Semaine,Terminées par Semaine,Créées par Semaine,Commencées par Semaine,Modifiées par Semaine,Statut,Nom,Étiquette",
   mFilterRecentHistory: "Historique récent",
   mCusFilterSortLabel: "Trier",
   mCusFilterLabel: "Filtrer",

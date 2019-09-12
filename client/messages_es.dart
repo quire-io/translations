@@ -263,7 +263,7 @@ const esClient = const <String, String> {
   mSearchSectionLabel: "Organizaciones,Carpetas Inteligentes,Proyectos,Miembros,Filtros guardados",
   mBaseFilterLabel: "Todo,Activas,Completadas,Por hacer,En progreso,Peekaboo",
   mExtFilterLabel: "Siguiendo,Asignada por,Creada por,Asignada a,Etiquetas,Prioridad,Favoritos,Mis Tareas,Tableros,Sin leer",
-  mGrouperLabel: "Asignadas,Fecha,Prioridad,Vencimiento por día,Vencimiento por semana,Completadas por semana,Creadas por Semana,Comenzadas por Semana,Actualizadas por Semana,Estado,Nombre",
+  mGrouperLabel: "Asignadas,Fecha,Prioridad,Vencimiento por día,Vencimiento por semana,Completadas por semana,Creadas por Semana,Comenzadas por Semana,Actualizadas por Semana,Estado,Nombre,Etiqueta",
   mFilterRecentHistory: "Historial reciente",
   mCusFilterSortLabel: "Ordenar",
   mCusFilterLabel: "Filtrar",

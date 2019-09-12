@@ -268,7 +268,7 @@ const ptClient = const <String, String> {
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Membros,Filtros guardados",
   mBaseFilterLabel: "Todas, Ativas, Concluídas, Por Fazer, Em Andamento, Peekaboo",
   mExtFilterLabel: "A Seguir,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,As Minhas Tarefas,Boards,Unread",
-  mGrouperLabel: "Colaborador,Data,Prioridade,Agendado Por Dia, Agendado Por Semana, Concluído Por Semana,Criar Por Semana, Iniciar Por Semana, Atualizar Por Semana, Estado, Nome",
+  mGrouperLabel: "Colaborador,Data,Prioridade,Agendado Por Dia, Agendado Por Semana, Concluído Por Semana,Criar Por Semana, Iniciar Por Semana, Atualizar Por Semana, Estado, Nome,Tag",
   mFilterRecentHistory: "Histórico recente",
   mCusFilterSortLabel: "Ordenar",
   mCusFilterLabel: "Filtrar",

@@ -83,6 +83,7 @@ const enServer = const <String, String> {
   mTourU: "TOUR",
   mTutorialU: "TUTORIAL",
   mFeedbackU: "FEEDBACK",
+  mDocumentationU: "DOCUMENTATION",
 
   mPost: "Post",
   mGotIt: "Got it!",
@@ -92,6 +93,7 @@ const enServer = const <String, String> {
 
   mGettingStarted: "Getting Started",
   mTutorial: "Tutorial",
+  mDocumentation: "Documentation",
 
   mSignupQuire: "Sign up to Quire",
   mSignupFree: "SIGN UP FOR FREE",
@@ -103,7 +105,7 @@ const enServer = const <String, String> {
   mLoginAccountDesc: "Don't have an account yet?",
   mLoginAccountCreate: "Create a Quire account",
   mSigninGoogle: "Sign in with Google",
-  mHomeGotoWSButtom: "GO TO YOUR PROJECT",
+  mHomeGotoWSButton: "GO TO YOUR PROJECT",
 
   mDownloadAPK: "DOWNLOAD APK",
   mAPKVersion: 'Version [=version]',
@@ -1104,13 +1106,21 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectoryBackApps: 'Browse Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
 
+  mAppDeveloperHeader: "Developers",
+  mAppDeveloperTitle: "Build great things with Quire!",
+  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that make Quire an even better experience for you and your team!',
+  mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
+  mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
+
+  mAppDeveloperStartButton: 'Start building',
+
   mAppCreatedBy: 'by [=company]',
   mAppInstalledDesc: 
     'You have already installed this app, for more information please visit your [=setting].',
   mAppUpdateAt: 'Last updated: [=when]',
   mAppVisitWebsite: "Visit Developer Website",
   mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButtom: 'Install',
+  mAppInstallButton: 'Install',
   mAppInstallLabel: 'Installed',
 
   mAppAuthDesc: 'With your authorization, [=app] will have permission to:',

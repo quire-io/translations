@@ -263,7 +263,7 @@ const jaClient = const <String, String> {
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
   mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",
-  mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name",
+  mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag",
   mFilterRecentHistory: "Recent history",
   mCusFilterSortLabel: "Sort",
   mCusFilterLabel: "Filter",
