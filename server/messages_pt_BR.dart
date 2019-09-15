@@ -28,8 +28,8 @@ const ptBrServer = const <String, String> {
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
   mSidebarMembers: "MEMBROS",
-  mAppCategoriesU: 'CATEGORIES',
-  mAppCategory: 'Category',
+  mAppCategoriesU: 'CATEGORIAS',
+  mAppCategory: 'Categoria',
   mSidebarMyTasksSortDate: "Ordenar por data",
   mSidebarMyTasksSortProject: "Ordenar por projeto",
   mSidebarResetOrder: "Redefinir para a ordem padrão",
@@ -96,8 +96,8 @@ const ptBrServer = const <String, String> {
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Entrar com o Google",
   mHomeGotoWSButton: "IR PARA O SEU PROJETO",
-  mDownloadAPK: "DOWNLOAD APK",
-  mAPKVersion: 'Version [=version]',
+  mDownloadAPK: "BAIXAR APK",
+  mAPKVersion: 'Versão [=version]',
   mDownloadMobileAppToStart: 'Baixe o Quire para começar trabalhando em seus projetos',
   mDownloadMobileAppToStartWith:
     '[=who] convidou você a colaborar em seu projeto.<br/>'
@@ -205,7 +205,7 @@ const ptBrServer = const <String, String> {
   mMarkAllRead: "Marcar Tudo como Lido",
   mEmptyNotificationMessage: "Você não tem nenhuma notificação.",
   mShowMoreActivities: "Mostrar atividades anteriores",
-  mShowMoreTasks: "Show more tasks",
+  mShowMoreTasks: "Mostrar mais tarefas",
   mShowMoreComments: "Mostrar comentários anteriores",
   mEmptyComments: "Sem comentários",
   mEmptyCommentsDesc: "Seja o primeiro a <a>adicionar um comentário <a>",
@@ -217,8 +217,8 @@ const ptBrServer = const <String, String> {
   mTaskRemovedTitle: "Esta tarefa foi excluída.",
   mTaskRemovedDesc: "Tente pesquisar por outra coisa.",
   mAppBanned:
-    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
-    "You aren't allowed to publish the app again until [=when].",
+    'Este aplicativo foi banido por violar nossos <a href="/terms" target="_blank">Termos de Serviço</a>. '
+    "Você não tem permissão para publicar o aplicativo novamente até [=when].",
   mMyTasksEmptyMessage: "Oba~ nenhuma tarefa em atraso!",
   mSignupOrganization: "Organização de [=user]",
   mSignupProject: "Projeto de [=user]",
@@ -318,15 +318,15 @@ organizar uma ligação com você.</p>
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Você está a um clique de distância!</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>Para começar a usar o Quire, verifique seu endereço de email clicando no botão abaixo.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Se você não reconhecer este email, ignore-o.</p>
 
 [=footer]
 ''',
@@ -344,12 +344,12 @@ organizar uma ligação com você.</p>
   mEmailInviteContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Você foi convidad@ por [=invitor] para participar em [=hostType]: [=host].</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>Para aceitar o convite, visite o botão abaixo.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Aceitar convite</a>
 </p>
 
 [=footer]
@@ -358,13 +358,13 @@ organizar uma ligação com você.</p>
   mEmailInviteFriendsContent: '''
 [=header]
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) convidou você para se registrar no <a href="https://quire.io">Quire</a>;
+uma solução de gerenciamento de projetos de que está gostando bastante.</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>Para aceitar o convite, clique no botão abaixo. É grátis!</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Aceitar convite</a>
 </p>
 
 [=footer]
@@ -401,15 +401,15 @@ a project management solution he is enjoying.</p>
   mEmailEmailChangeContent: '''
 [=header]
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Você atualizou recentemente um novo endereço de email para sua conta Quire.</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Clique no botão abaixo nas próximas 12 horas para verificar seu novo endereço de email.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Se você não reconhece este email, por favor ignore</p>
 
 [=footer]
 ''',
@@ -433,13 +433,13 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Clique no botão abaixo nas próximas 12 horas para verificar seu novo endereço de email.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verificar</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Se você não reconhece este email, por favor ignore.</p>
 
 [=footer]
 ''',
@@ -447,12 +447,12 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
   mEmailForgotPasswordContent: '''
 [=header]
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Você está recebendo este email porque perdeu sua senha do Quire.</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>Clique no botão abaixo nas próximas 2 horas para redefinir sua senha.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">Redefinir senha</a>
 </p>
 
 [=footer]
@@ -505,24 +505,24 @@ incluindo notificações relacionadas com sua conta e atividades de tarefas.</p>
 
 [=footer]
 ''',
-  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedSubject: "[=app] foi rejeitado",
   mEmailAppRejectedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been rejected since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+<p>Estamos escrevendo para informar que seu aplicativo, [=app], foi rejeitado porque 
+violou nossos <a href="https://quire.io/terms" target="_blank">Termos de Serviço</a>.
 
 [=reason]
 
 [=footer]
 ''',
-  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedSubject: "[=app] foi banido por [=days] dias",
   mEmailAppBannedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been banned since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
-You won't be allowed to publish the app again until [=days] days later.</p>
+<p>Estamos escrevendo para informar que seu aplicativo, [=app], foi banido porque 
+violou nossos <a href="https://quire.io/terms" target="_blank">Termos de Serviço</a>.
+Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
 
 [=reason]
 
@@ -570,7 +570,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atSetBoard": "[=who] adicionou [=what] a [=value]",
   "AT$atUnsetBoard": "[=who] removeu [=what] de [=value]",
   "AT$atArchiveTask": "[=who] peekaboo [=what]",
-  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
+  "AT$atUnarchiveTask": "[=who] voltou a mostrar [=what]",
   "AT$atAddProject": "[=who] criou [=what]",
   "AT$atRemoveProject": "[=who] removeu o projeto [=value]",
   "AT$atEditProject": "[=who] editou [=what]",
@@ -654,7 +654,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyCreateSubtask: 'Adicionar nova subtarefa',
   mKeyDeleteTask: 'Excluir tarefas selecionadas',
   mKeyCollapseTask: 'Reduzir ou expandir tarefas por nível',
-  mKeySwitchViews: 'Switch views',
+  mKeySwitchViews: 'Alternar vistas',
   mKeyBlinkSearch: 'Pesquisa rápida de projetos, usuários, etc.',
   mKeySearchTask: 'Pesquisar tarefas e comentários',
   mKeyCompleteTask: 'Concluir tarefas selecionadas',
@@ -728,15 +728,15 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingSlackDesc: "Vincule essa organização a uma equipe do Slack para colaborar em projetos de dentro do Slack.",
   mSettingSlackBtnTitle: "Adicionar ao Slack",
   mSettingSlackTeamsDesc: "Esta organização está vinculada às seguintes equipes do Slack:",
-  mSettingAppInfo: 'Display Info',
-  mSettingAppOption: 'Settings',
-  mSettingAppDistribution: 'Distribution',
-  mSettingAppSec: "Apps",
-  mSettingAppAuthSec: "Authorized Apps",
+  mSettingAppInfo: 'Exibir Informações',
+  mSettingAppOption: 'Configurações',
+  mSettingAppDistribution: 'Distribuição',
+  mSettingAppSec: "Aplicativos",
+  mSettingAppAuthSec: "Aplicativos Autorizados",
   mSettingAppAuthSecDesc:
-    'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
-  mAppListAuthTarget: 'Access to',
+    'Você autorizou os seguintes aplicativos com o Quire. Para mais integrações, '
+    'visite <a href="/apps" target="_blank">Diretório de Aplicativos do Quire</a>.',
+  mAppListAuthTarget: 'Acesso a',
   mOauthViewTitle: "Conceder Permissões",
   mOauthViewDesc: "[=name] poderá:",
   mOauthSlackSuccessViewTitle: "Está tudo pronto!",
@@ -747,8 +747,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mOauthSlackErrorViewDesc:
     'Ocorreu um erro ao vincular sua conta, por favor, tente novamente. '
     'Se o erro persistir, sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato</a>.',
-  mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
+  mCalendarSyncDesc: "Selecione que tipo de tarefas você deseja sincronizar.",
+  mCalendarSyncSetting: "[=tasks] em [=where]",
   mBoardIntroduce: 'Você pode gerenciar suas tarefas visualmente em um quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">aqui</a> para mais informação.',
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",
@@ -759,9 +759,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAddNewLink: "Criar novo link",
   mViewMember: "Ver todos os membros",
   mDeleteMYAccount: "Excluir conta",
-  mSettingOptionLeaveOrganization: "Leave organization",
-  mSettingOptionDeleteOrganization: "Delete organization",
-  mSettingOptionManageDeveloperApps: "Manage Developer Apps",
+  mSettingOptionLeaveOrganization: "Sair da organização",
+  mSettingOptionDeleteOrganization: "Excluir organização,
+  mSettingOptionManageDeveloperApps: "Gerenciar Aplicativos do Desenvolvedor",
   mChangeProfileVisibility: "Alterar visibilidade do perfil",
   mProfileVisibilityAll: "Usuários não-membros só podem ver suas informações básicas excluindo o email.",
   mProfileVisibilityMember: "Usuários não-membros não podem acessar à sua página de perfil.",
@@ -826,41 +826,41 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mCollapseAllSubtaskByDefault: 'Reduzir todas as subtarefas por padrão',
   mShowFavoritedMyTasks: 'Mostrar tarefas favoritas em Minhas Tarefas',
   mAutoAssignToMe: 'Atribuir automaticamente novas tarefas para mim',
-  mDeveloperConsoleTitle: "Apps",
+  mDeveloperConsoleTitle: "Aplicativos",
   mDeveloperConsoleIntro:
-    'Build an app that makes Quire an even better experience for you and your team!</br>'
-    "If you're not sure how to start, check out the <a href='/doc/api/'>developer's documentation</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submission Date',
-  mAppDistributeListStatus: 'App Status',
-  mAppDirectoryHeader: "App Directory",
-  mAppDirectoryTitle: "Quire & Beyond",
-  mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
-  mAppSearchPlaceholder: "Search Apps",
-  mAppDirectoryBackApps: 'Browse Apps',
-  mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
+    'Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!</br>'
+    "Se você não tiver certeza de como começar, confira a <a href='/doc/api/'>documentação do desenvolvedor</a> para começar sua integração.",
+  mAppListLastUpdate: 'Última Atualização',
+  mAppDistributeListDate: 'Data de Envio',
+  mAppDistributeListStatus: 'Status do Aplicativo',
+  mAppDirectoryHeader: "Diretório de Aplicativos",
+  mAppDirectoryTitle: "Quire & Mais Além",
+  mAppDirectoryTitleIntro: 'Confira essas ótimas integrações para tornar o gerenciamento de projetos um trabalho fácil e feliz.',
+  mAppSearchPlaceholder: "Pesquisar Aplicativos",
+  mAppDirectoryBackApps: 'Dar uma olhada nos Aplicativos',
+  mAppDirectorySidebarItems: 'popular=Popular;new=Novo;quire=Feito pelo Quire;=Todos os Aplicativos',
   mAppDeveloperHeader: "Developers",
   mAppDeveloperTitle: "Build great things with Quire!",
   mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that make Quire an even better experience for you and your team!',
   mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
   mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
   mAppDeveloperStartButton: 'Start building',
-  mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
-  mAppUpdateAt: 'Last updated: [=when]',
-  mAppVisitWebsite: "Visit Developer Website",
-  mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButton: 'Install',
-  mAppInstallLabel: 'Installed',
-  mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
-  mAppAuthTarget: '[=app] will have access to:',
-  mAppAuthSpecifyTarget: 'A specific organization or project',
-  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
-  mAppAuthSpecifyOrganization: 'Specify an organization',
-  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
-  mAppAuthSpecifyProject: 'Specify a project',
-  mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: "Allow app to access my team members' email addresses",
+  mAppCreatedBy: 'por [=company]',
+  mAppInstalledDesc: 'Você já instalou este aplicativo. Para obter mais informações, visite [=setting].',
+  mAppUpdateAt: 'Última Atualização em: [=when]',
+  mAppVisitWebsite: "Visite o Site do Desenvolvedor",
+  mAppContactDeveloper: 'Contate o Desenvolvedor do Aplicativo',
+  mAppInstallButton: 'Instal',
+  mAppInstallLabel: 'Instalado',
+  mAppAuthDesc: 'Com sua autorização, [=app] terá permissão para:',
+  mAppAuthTarget: '[=app] poderá acessar a:',
+  mAppAuthSpecifyTarget: 'Uma organização ou projeto específico',
+  mAppAuthSpecifyTargetDesc: 'Selecione uma organização ou projeto',
+  mAppAuthSpecifyOrganization: 'Especifique uma organização',
+  mAppAuthSpecifyOrganizationDesc: 'Selecione uma organização',
+  mAppAuthSpecifyProject: 'Especifique um projeto',
+  mAppAuthSpecifyProjectDesc: 'Selecione um projeto',
+  mAppAuthContact: "Permitir que o aplicativo acesse os endereços de email dos membros da minha equipe",
   mAlreadySignedUP: "[=email] já se registrou",
   mNotSignedUPAndRedirect:
     "Você ainda não confirmou seu registro.<br>"
@@ -1068,7 +1068,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSlackFollowProjectOK: '[=who] tem esse canal para seguir [=projects].',
   mSlackUnfollowProjectOK: '[=who] tem esse canal para deixar de seguir [=projects].',
   mSlackFailProjectNotFound: 'Projeto [=project]: não encontrado.',
-  mSlackNoLinkedProject: 'This channel is not linked to any project.',
+  mSlackNoLinkedProject: 'Este canal não está vinculado a nenhum projeto.',
   mSlackFailUserNotFound: 'Por favor, confirme se [=name] se vinculou à sua conta do Quire.',
   mSlackFailMemberNotFound: 'Erro: [=name] não é membro do seu projeto',
   mSlackFailPropertiesNotFound: '[=text] não encontrado',
@@ -1130,12 +1130,12 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileTasksSelected: "[=amount] Selecionadas",
   mMobileFiles: "Arquivos",
   mMobileSyncing: "Sincronizando",
-  mMobileMySelf: "Myself",
+  mMobileMySelf: "Eu mesm@",
   mMobileShare: "Compartilhar",
-  mMobileSkip: "Skip",
-  mMobileNext: "Next",
-  mMobileGreen: "Green",
-  mMobileBlue: "Blue",
+  mMobileSkip: "Ignorar",
+  mMobileNext: "Próximo",
+  mMobileGreen: "Verde",
+  mMobileBlue: "Azul",
   mMobileNewBoard: "Novo Quadro",
   mMobileArchivedBoard: "Quadros arquivados",
   mMobileProfileCamera: "Tirar Foto",
@@ -1184,14 +1184,14 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileAssigneeCreator: "Criador",
   mMobileFollowerEdit: "Editar Seguidores",
   mMobileMemberAddTitle: "Adicionar Membros",
-  mMobileRemoveMember: "Remove Member",
-  mMobileUserName: "User name",
+  mMobileRemoveMember: "Remover Membro",
+  mMobileUserName: "Nome de usuário",
   mMobileAttachmentAdd: "Adicionar anexo",
   mMobileCommentPost: "Postar um comentário",
   mMobileFeedbackFieldRequired: "O Assunto e Comentários são obrigatórios",
   mMobileFeedbackTitle: "Você tem alguma pergunta ou sugestão para nós?\nSomos todos ouvidos!",
   mMobileNewProject: "Novo Projeto",
-  mMobileNewProjectLot: "New Smart Folder",
+  mMobileNewProjectLot: "Nova Pasta Inteligente",
   mMobileNewOrganization: "Nova Organização",
   mMobileOrganizationCreatedOn: "Criada em  [=createdAt]",
   mMobileYourNewPassword: "Sua nova senha.",
@@ -1272,7 +1272,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileEXLogin: "Por favor, primeiro faça login no Quire",
   mMobileSelfAssign: "Atribuir para mim",
   mMobileAddDue: "Adicionar data de conclusão",
-  mMobileSelectATask: "Select a task",
-  mMobileTutorialVideos: "Tutorial videos",
-  mMobileAltHint: "Advanced mode on. You can shake again to toggle off."
+  mMobileSelectATask: "Selecionar uma tarefa",
+  mMobileTutorialVideos: "Vídeos de Tutorial",
+  mMobileAltHint: "Modo avançado ativado. Você pode agitar novamente para desativar.."
 };
