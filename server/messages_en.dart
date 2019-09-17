@@ -1073,7 +1073,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   m3dayBefore: "3 days before",
   mStartOFDay: "At start of the day",
   mStartOFWeek: "At start of the week",
-  mRemindTime: "Remind Upcoming Tasks with Due Time",
+  mRemindTime: "Remind Upcoming Tasks with Time",
   m0MinutesBefore: "At the time",
   m15MinutesBefore: "15 mins before",
   m30MinutesBefore: "30 mins before",

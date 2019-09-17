@@ -812,7 +812,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   m3dayBefore: "3 dias antes",
   mStartOFDay: "No começo do dia",
   mStartOFWeek: "No começo da semana",
-  mRemindTime: "Lembrar Tarefas Futuras com Datas de Conclusão",
+  mRemindTime: "Remind Upcoming Tasks with Time",
   m0MinutesBefore: "Na hora",
   m15MinutesBefore: "15 mins antes",
   m30MinutesBefore: "30 mins antes",

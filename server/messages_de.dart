@@ -810,7 +810,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   m3dayBefore: "3 Tage davor",
   mStartOFDay: "Zu Tagesbeginn",
   mStartOFWeek: "Zu Wochenbeginn",
-  mRemindTime: "An bevorstehende Aufgaben mit Fälligkeitszeit erinnern",
+  mRemindTime: "Remind Upcoming Tasks with Time",
   m0MinutesBefore: "Früher",
   m15MinutesBefore: "15 Minuten vorher",
   m30MinutesBefore: "30 Minuten vorher",
