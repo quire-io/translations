@@ -829,7 +829,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mDeveloperConsoleTitle: "Aplicativos",
   mDeveloperConsoleIntro:
     'Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!</br>'
-    "Se você não tiver certeza de como começar, confira a <a href='/doc/api/'>documentação do desenvolvedor</a> para começar sua integração.",
+    "Se você não tiver certeza de como começar, confira a <a href='/dev/api/'>documentação do desenvolvedor</a> para começar sua integração.",
   mAppListLastUpdate: 'Última Atualização',
   mAppDistributeListDate: 'Data de Envio',
   mAppDistributeListStatus: 'Status do Aplicativo',

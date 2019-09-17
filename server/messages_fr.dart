@@ -812,7 +812,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mDeveloperConsoleTitle: "Applications",
   mDeveloperConsoleIntro:
     'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !</br>'
-    "Si vous ne savez pas par où débuter, allez voir la <a href='/doc/api/'>documentation développeurs</a> pour commencer votre application.",
+    "Si vous ne savez pas par où débuter, allez voir la <a href='/dev/api/'>documentation développeurs</a> pour commencer votre application.",
   mAppListLastUpdate: 'Dernière mise à jour',
   mAppDistributeListDate: 'Date d\'envoi',
   mAppDistributeListStatus: 'Statut de l\'application',
