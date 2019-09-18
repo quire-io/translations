@@ -841,7 +841,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAppDirectorySidebarItems: 'popular=Popular;new=Novo;quire=Feito pelo Quire;=Todos os Aplicativos',
   mAppDeveloperHeader: "Developers",
   mAppDeveloperTitle: "Build great things with Quire!",
-  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that make Quire an even better experience for you and your team!',
+  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
   mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
   mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
   mAppDeveloperStartButton: 'Start building',
