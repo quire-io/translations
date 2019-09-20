@@ -935,7 +935,7 @@ const frClient = const <String, String> {
   mStatsWeeklyAssignedToUserLabel: "Attribuées à [=user]",
   mStatsMyTasksSec: "Mes Tâches",
   mStatsUserTasksSec: "Tâches de ",
-  mDeveloperConsoleHeader: "Console de Développement des Applications",
+  mDeveloperConsoleHeader: "Console Développeur",
   mCreateNewApp: "Créer une nouvelle application",
   mCreateNewAppTitle: "Créer une nouvelle application",
   mCreateNewAppTermDesc: 'En créant une application avec l\'API Web, vous acceptez les Termes et Conditions de l\'API Quire.',
@@ -949,14 +949,14 @@ const frClient = const <String, String> {
   mAppFullDesc: 'Description totale',
   mAppFullDescDesc: "Vous pouvez raconter pourquoi vous avez créé cette application et comment elle peut améliorer le travail de chacun.",
   mAppIcon: 'Icône de l\'application',
-  mAppIconDesc: 'Le format de l\'icône doit au moins être de 512x512px.',
+  mAppIconDesc: 'Le format de l\'icône doit être d\'au moins 512x512px.',
   mAppCategories: 'Catégories de la liste des applications',
   mAppOwner: 'Propriétaire de l\'application',
-  mAppOwnerDesc: 'Faites savoir aux utilisateurs quel cerveau génial a pu créer cette application.',
+  mAppOwnerDesc: 'Indiquez aux utilisateurs à qui appartient le cerveau génial qui a pu créer cette application.',
   mAppContactEmail: 'Email de contact',
   mAppContactEmailDesc: 'Les utilisateurs vous contacteront à cette adresse s\'ils ont des problèmes ou des questions à propos de votre application.',
-  mAppOrganization: 'Organisation liée au développement',
-  mAppOrganizationDesc: 'Votre application appartient à cette organisation - seuls les administrateurs de cette organisation peuvent modifier cette application. Cette opération est irréversible.',
+  mAppOrganization: 'Organisation des développeurs',
+  mAppOrganizationDesc: 'Votre application appartient à cette organisation - seuls les administrateurs de cette organisation peuvent modifier cette application. Vous ne pourrez pas modifier ce choix plus tard.',
   mAppRedirectURL: 'URL de redirection',
   mAppRedirectURLDesc: 'Quand votre demande de permission sera accordée, vous serez redirigé(e) vers l\'URL de redirection définie dans les paramètres de votre application.',
   mAppWebhookURL: 'Webhooks',
@@ -975,7 +975,7 @@ const frClient = const <String, String> {
   mRegenerateClientSecretContent:
     "Êtes-vous sûr de vouloir générer le nouveau Secret Client pour l'exemplaire publié ? "
     "Assurez-vous de copier le nouveau Secret Client généré dans votre serveur de production.",
-  mAppPermission: 'Étendue des autorisations',
+  mAppPermission: 'Étendue des permissions',
   mAppPermissionRead: 'Lecture Seule',
   mAppPermissionReadDesc: 'Lecture de toutes les organisations et de tous les projets dont vous avez la permission',
   mAppPermissionCreateTasks: 'Création de tâches',
@@ -988,23 +988,23 @@ const frClient = const <String, String> {
   mAppPermissionManageTagsDesc: 'Ajout, modification et suppression d\'étiquettes',
   mAppPermissionManageBoards: 'Gestion des tableaux',
   mAppPermissionManageBoardsDesc: 'Ajout, modification, et suppression des tableaux, gestion des colonnes comprise',
-  mAppOptionPrivateDesc: "Disponible uniquement aux membres de votre organisation",
+  mAppOptionPrivateDesc: "Disponible uniquement pour les membres de votre organisation",
   mAppOptionPublicDesc: "Disponible pour tous les utilisateurs de Quire",
   mAppDelete: 'Supprimer l\'application',
   mAppDeleteDesc:
     'Si votre application est présente dans la Liste des Applications de Quire, '
-    'vous devriez informer vos utilisateurs de vos plans pour la rendre obsolète.',
+    'vous devriez informer vos utilisateurs de vos intentions de la supprimer.',
   mAppMenuItemDelete: 'Supprimer l\'application',
   mAppShareableLink: 'Lien de partage',
   mAppShareableLinkDesc: "Cette application n'est pas publiée dans la Liste des Applications de Quire mais toute personne ayant ce lien peut quand même l'installer.",
   mAppDistribution: 'Distribution publique',
   mAppDistributionDesc:
-    'Si vous définissez la distribution de votre application comme publique, d\'autres utilisateurs pourront intégrer cette application avec leur compte Quire. '
+    'Si vous définissez la distribution de votre application comme publique, d\'autres utilisateurs pourront ajouter cette application à leur compte Quire. '
     'Votre application sera affichée dans la <a href="/apps" target="_blank">Liste des Applications de Quire</a>.',
   mAppDistributionCredentialsDesc: 'Vous devrez utiliser ces informations pour une application publique.',
   mAppDistributionButton: 'Activer la distribution publique',
   mAppDistributionNewButton: 'Envoyer une nouvelle version',
-  mAppDistributionWarning: 'Vous ne pouvez pas laisser vide(s) le(s) champ(s) suivant dans les <a href="[=link]">Informations d\'affichage</a> pour une distribution publique.',
+  mAppDistributionWarning: 'Vous ne pouvez pas laisser vide(s) le(s) champ(s) suivant dans les <a href="[=link]">Informations publiques</a> pour une distribution publique.',
   mUnpublishAppTitle: 'Retirer de la liste des applications',
   mUnpublishAppContent:
     'Votre application et les données correspondantes seront retirées de la Liste des Applications de Quire. '
