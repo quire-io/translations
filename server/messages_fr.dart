@@ -795,7 +795,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   m3dayBefore: "3 jours avant",
   mStartOFDay: "En début de journée",
   mStartOFWeek: "En début de semaine",
-  mRemindTime: "Rappeler les tâches avec date à venir",
+  mRemindTime: "Remind Upcoming Tasks with Time",
   m0MinutesBefore: "Au moment même",
   m15MinutesBefore: "15 min avant",
   m30MinutesBefore: "30 min avant",

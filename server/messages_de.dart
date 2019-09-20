@@ -28,8 +28,8 @@ const deServer = const <String, String> {
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
   mSidebarMembers: "MITGLIEDER",
-  mAppCategoriesU: 'CATEGORIES',
-  mAppCategory: 'Category',
+  mAppCategoriesU: 'KATEGORIEN',
+  mAppCategory: 'Kategorie',
   mSidebarMyTasksSortDate: "Nach Datum sortieren",
   mSidebarMyTasksSortProject: "Nach Projekt sortieren",
   mSidebarResetOrder: "Auf Standardsortierung zurücksetzen",
@@ -218,8 +218,8 @@ const deServer = const <String, String> {
   mTaskRemovedTitle: "Diese Aufgabe wurde entfernt.",
   mTaskRemovedDesc: "",
   mAppBanned:
-    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
-    "You aren't allowed to publish the app again until [=when].",
+    'Diese App wurde wegen Verstoßes gegen unsere <a href="/terms" target="_blank">Nutzungsbedingungen</a> gesperrt. '
+    "Sie dürfen die App erst wieder ab dem [=when] veröffentlichen.",
   mMyTasksEmptyMessage: "Entspannen Sie sich!<br>Es gibt nichts zu tun für Sie!",
   mSignupOrganization: "[=user]'s Organisation",
   mSignupProject: "[=user]'s Projekt",
@@ -503,24 +503,24 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
 
 [=footer]
 ''',
-  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedSubject: "[=app] wurde abgelehnt",
   mEmailAppRejectedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been rejected since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+<p>Wir möchten Sie darüber informieren, dass Ihre App, [=app], abgelehnt wurde,
+weil diese gegen unsere <a href="https://quire.io/terms" target="_blank">Nutzungsbedingungen</a> verstoßen hat.
 
 [=reason]
 
 [=footer]
 ''',
-  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedSubject: "[=app] wurde für [=days] Tage gesperrt",
   mEmailAppBannedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been banned since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
-You won't be allowed to publish the app again until [=days] days later.</p>
+<p>Wir möchten Sie darüber informieren, dass Ihre App, [=app], gesperrt wurde,
+weil diese gegen unsere <a href="https://quire.io/terms" target="_blank">Nutzungsbedingungen</a> verstoßen hat.
+Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
 
 [=reason]
 
@@ -608,8 +608,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atAddOApp": "[=who] hat die Anwendung [=value] zu [=what] hinzugefügt",
   "AT$atRemoveOApp": "[=who] hat die Anwendung [=value] von [=what] entfernt",
   "AT$atEditOApp": "[=who] hat [=what] bearbeitet",
-  "AT$atPublishOApp": "[=who] published [=value]",
-  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
+  "AT$atPublishOApp": "[=who] hat [=value] veröffentlicht",
+  "AT$atUnpublishOApp": "[=who] hat die Veröffentlich von [=value] aufgehoben",
   "AT$atAddShare": "[=who] hat den Link [=value] zum Teilen von [=what] erstellt",
   "AT$atRemoveShare": "[=who] hat den Link [=value] zum Teilen von [=what] entfernt",
   "AT$atAddBoard": "[=who] hat das Board [=value] zu [=what] hinzugefügt",
@@ -726,15 +726,15 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingSlackDesc: "Verknüpfen Sie diese Organisation mit einem Slack-Team, um aus Slack heraus an Projekten mitzuarbeiten.",
   mSettingSlackBtnTitle: "Zu Slack hinzufügen",
   mSettingSlackTeamsDesc: "Diese Organisation ist mit den folgenden Slack-Teams verbunden:",
-  mSettingAppInfo: 'Display Info',
-  mSettingAppOption: 'Settings',
+  mSettingAppInfo: 'Info anzeigen',
+  mSettingAppOption: 'Einstellungen',
   mSettingAppDistribution: 'Distribution',
   mSettingAppSec: "Apps",
-  mSettingAppAuthSec: "Authorized Apps",
+  mSettingAppAuthSec: "Autorisierte Apps",
   mSettingAppAuthSecDesc:
-    'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
-  mAppListAuthTarget: 'Access to',
+    'Sie haben die folgenden Anwendungen mit Quire autorisiert. Weitere Integrationen '
+    'finden Sie im <a href="/apps" target="_blank">Quire App Directory</a>.',
+  mAppListAuthTarget: 'Zugriff auf',
   mOauthViewTitle: "Berechtigungen erteilen",
   mOauthViewDesc: "[=name] kann Folgendes tun:",
   mOauthSlackSuccessViewTitle: "Fertig!",
@@ -759,7 +759,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mDeleteMYAccount: "Meinen Account löschen",
   mSettingOptionLeaveOrganization: "Organisation verlassen",
   mSettingOptionDeleteOrganization: "Organisation löschen",
-  mSettingOptionManageDeveloperApps: "Manage Developer Apps",
+  mSettingOptionManageDeveloperApps: "Entwickler-Apps verwalten",
   mChangeProfileVisibility: "Profilsichtbarkeit ändern",
   mProfileVisibilityAll: "Nichtmitglieder sehen nur Ihre allgemeinen Profilangaben, ausschließlich Ihrer E-Mail Adresse.",
   mProfileVisibilityMember: "Nichtmitglieder können nicht auf ihre Profilseite zugreifen.",
@@ -826,39 +826,39 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:
-    'Build an app that makes Quire an even better experience for you and your team!</br>'
-    "If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submission Date',
+    'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!</br>'
+    "Erste Schritte zu Integrationen finden Sie in unserer <a href='/dev/api/'>Entwicklerdokumentation</a>.",
+  mAppListLastUpdate: 'Letztes Update',
+  mAppDistributeListDate: 'Abgabedatum',
   mAppDistributeListStatus: 'App Status',
   mAppDirectoryHeader: "App Directory",
   mAppDirectoryTitle: "Quire & Beyond",
-  mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
-  mAppSearchPlaceholder: "Search Apps",
-  mAppDirectoryBackApps: 'Browse Apps',
+  mAppDirectoryTitleIntro: 'Nützliche Integrationen machen Quire noch besser und Projektmanagement noch einfacher.',
+  mAppSearchPlaceholder: "Apps suchen",
+  mAppDirectoryBackApps: 'Apps durchsuchen',
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
-  mAppDeveloperHeader: "Developers",
-  mAppDeveloperTitle: "Build great things with Quire!",
-  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
-  mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
-  mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
-  mAppDeveloperStartButton: 'Start building',
-  mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
-  mAppUpdateAt: 'Last updated: [=when]',
-  mAppVisitWebsite: "Visit Developer Website",
-  mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButton: 'Install',
-  mAppInstallLabel: 'Installed',
-  mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
-  mAppAuthTarget: '[=app] will have access to:',
-  mAppAuthSpecifyTarget: 'A specific organization or project',
-  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
-  mAppAuthSpecifyOrganization: 'Specify an organization',
-  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
-  mAppAuthSpecifyProject: 'Specify a project',
-  mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: "Allow app to access my team members' email addresses",
+  mAppDeveloperHeader: "Entwickler",
+  mAppDeveloperTitle: "Quire einfach selbst erweitern und verbessern",
+  mAppDeveloperTitleIntro: 'Schließen Sie sich der Entwickler-Community von Quire an, um eine App zu erstellen, die Quire für Sie und Ihr Team noch besser macht!',
+  mAppDeveloperDocDesc: 'Die Entwicklerdokumentation enthält alle Informationen, die Sie für die Quire-API benötigen',
+  mAppDeveloperTutorialDesc: 'Das Entwicklertutorial erklärt die Erstellung einer App mit der Quire-API',
+  mAppDeveloperStartButton: 'Los geht’s',
+  mAppCreatedBy: 'von [=company]',
+  mAppInstalledDesc: 'Sie haben diese App bereits installiert, für weitere Informationen besuchen Sie bitte Ihre [=setting].',
+  mAppUpdateAt: 'Zuletzt aktualisiert: [=when]',
+  mAppVisitWebsite: "Entwickler-Website besuchen",
+  mAppContactDeveloper: 'App-Entwickler kontaktieren',
+  mAppInstallButton: 'Installieren',
+  mAppInstallLabel: 'Installiert',
+  mAppAuthDesc: 'Mit ihrer Zustimmung geben Sie [=app] folgende Berechtigungen:',
+  mAppAuthTarget: '[=app] hat Zugriff auf:',
+  mAppAuthSpecifyTarget: 'Eine bestimmte Organisation oder ein bestimmtes Projekt',
+  mAppAuthSpecifyTargetDesc: 'Wählen Sie eine Organisation oder ein Projekt aus',
+  mAppAuthSpecifyOrganization: 'Geben Sie eine Organisation an',
+  mAppAuthSpecifyOrganizationDesc: 'Wählen Sie eine Organisation aus',
+  mAppAuthSpecifyProject: 'Geben Sie ein Projekt an',
+  mAppAuthSpecifyProjectDesc: 'Wählen Sie ein Projekt aus',
+  mAppAuthContact: "Der App erlauben, auf die E-Mail-Adressen meiner Teammitglieder zuzugreifen",
   mAlreadySignedUP: "[=email] ist bereits registriert",
   mNotSignedUPAndRedirect:
     "Sie haben ihre Registrierung noch nicht bestätigt.<br/>"
@@ -953,11 +953,11 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "Es kann keine neue Aufgabe hinzugefügt werden. Die maximale Aufgabenanzahl ist zurzeit auf ([=size]) begrenzt. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, falls Sie mehr Aufgaben erstellen möchten.',
   mAppAccessInHourLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Sie können nicht öfters als <b>[=size]</b> mal pro Stunde auf die Quire API zugreifen. "
+    'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für weitere Informationen.',
   mAppAccessInMinuteLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Sie können nicht öfters als <b>[=size]</b> mal pro Minute auf die Quire API zugreifen. "
+    'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für weitere Informationen.',
   mDenyLeaveDueToOnlyAdmin: "Sorry, Sie können das Projekt nicht verlassen, weil Sie der einzig verbleibende Administrator sind.",
   mSlackError:
     'Entschuldigung, wir haben einen unerwarteten Fehler festgestellt. '
