@@ -977,7 +977,7 @@ const esClient = const <String, String> {
     "Asegúrese de copiar el nuevo cliente anónimo generado en su servidor de producción.",
   mAppPermission: 'Ámbito de Permiso',
   mAppPermissionRead: 'Solo lectura',
-  mAppPermissionReadDesc: 'Lee todos sus organizaciones y proyectos autorizados',
+  mAppPermissionReadDesc: 'Lee todas tus organizaciones y proyectos autorizados',
   mAppPermissionCreateTasks: 'Crear tareas',
   mAppPermissionCreateTasksDesc: 'Añadir nuevas tareas',
   mAppPermissionManageTasks: 'Gestionar tareas',
