@@ -167,7 +167,7 @@ const esServer = const <String, String> {
     'Hemos enviado un email de confirmación a<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, [=hrefStart]comprueba tu bandeja de entrada[=hrefEnd] o tu bandeja de spam y confírmalo.',
-  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
+  mSignupAgreePolicyDesc: 'Al registrarme, acepto la política de privacidad y términos y condiciones de Quire <a href="https://quire.io/privacy"/a> and <a href="https://quire.io//a>.',
   mSignupAccountDesc: "¿Ya tienes una cuenta?",
   mSignupAccountLogin: "Inicia sesión aquí",
   mDeleteAccountNotEmpty:
