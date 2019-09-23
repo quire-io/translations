@@ -985,7 +985,7 @@ const esClient = const <String, String> {
   mAppPermissionRemoveTasks: 'Eliminar tareas',
   mAppPermissionRemoveTasksDesc: 'Eliminar tareas',
   mAppPermissionManageTags: 'Gestionar etiquetas',
-  mAppPermissionManageTagsDes	c: 'Añadir, editar, y eliminar etiquetas',
+  mAppPermissionManageTagsDesc: 'Añadir, editar, y eliminar etiquetas',
   mAppPermissionManageBoards: 'Administrar tablas',
   mAppPermissionManageBoardsDesc: 'Añadir, editar, y eliminar tablas, incluir gestión de columnas',
   mAppOptionPrivateDesc: "Disponible sólo para los miembros de su organización",
