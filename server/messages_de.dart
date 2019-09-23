@@ -751,6 +751,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingPictureLabel: "Foto",
   mOrganizationProfile: "Organisationsprofil",
   mMYProfile: "Mein Profil",
+  mMyQuireApps: "My Apps",
   mUserProfile: "Nutzerprofil",
   mAccountSettings: "Account-Einstellungen",
   mRecommendQuire: "Quire weiterempfehlen",

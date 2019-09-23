@@ -753,6 +753,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",
   mMYProfile: "Meu Perfil",
+  mMyQuireApps: "My Apps",
   mUserProfile: "Perfil do Usuário",
   mAccountSettings: "Configurações da Conta",
   mRecommendQuire: "Recomendar Quire",

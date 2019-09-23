@@ -994,6 +994,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mOrganizationProfile: "Organization Profile",
   mMYProfile: "My Profile",
+  mMyQuireApps: "My Apps",
   mUserProfile: "User Profile",
   mAccountSettings: "Account Settings",
   mRecommendQuire: "Recommend Quire",

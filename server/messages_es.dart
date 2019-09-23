@@ -754,6 +754,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingPictureLabel: "Imagen",
   mOrganizationProfile: "Perfil de la Organización",
   mMYProfile: "Mi Perfil",
+  mMyQuireApps: "My Apps",
   mUserProfile: "Perfil de Usuario",
   mAccountSettings: "Configuración de la Cuenta",
   mRecommendQuire: "Recomendar Quire",
