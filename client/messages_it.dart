@@ -938,7 +938,7 @@ const itClient = const <String, String> {
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Create new app",
   mCreateNewAppTitle: "Create a new app",
-  mCreateNewAppTermDesc: 'By creating a Web API Application, you agree to the Quire API terms and conditions.',
+  mCreateNewAppTermDesc: 'By creating a Web API Application, you agree to the Quire API <a href="/terms" target="_blank">terms and conditions</a>.',
   mAppVisitDirectory: "Visit app directory",
   mAppUpdateBy: '[=when], by [=who]',
   mAppBackApps: 'Back to Apps',

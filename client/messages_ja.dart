@@ -938,7 +938,7 @@ const jaClient = const <String, String> {
   mDeveloperConsoleHeader: "開発者アプリコンソール",
   mCreateNewApp: "新しいアプリを作成",
   mCreateNewAppTitle: "新しいアプリを作成",
-  mCreateNewAppTermDesc: 'ウェブAPIアプリケーションを作成することで、QuireのAPI利用規約に同意します。',
+  mCreateNewAppTermDesc: 'ウェブAPIアプリケーションを作成することで、QuireのAPI<a href="/terms" target="_blank">利用規約</a>に同意します。',
   mAppVisitDirectory: "アプリディレクトリをチェック",
   mAppUpdateBy: '[=when]　[=who]',
   mAppBackApps: 'アプリに戻る',

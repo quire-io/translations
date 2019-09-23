@@ -943,7 +943,7 @@ const ptClient = const <String, String> {
   mDeveloperConsoleHeader: " Console de Aplicações do Desenvolvedor",
   mCreateNewApp: "Criar nova aplicação",
   mCreateNewAppTitle: "Criar uma nova aplicação",
-  mCreateNewAppTermDesc: 'Ao criar uma Aplicação Web API, concorda com os termos e condições da API do Quire.',
+  mCreateNewAppTermDesc: 'Ao criar uma Aplicação Web API, concorda com os <a href="/terms" target="_blank">termos e condições</a> da API do Quire.',
   mAppVisitDirectory: "Visitar o diretório de aplicações",
   mAppUpdateBy: '[=when], por [=who]',
   mAppBackApps: 'Voltar para Aplicações',
