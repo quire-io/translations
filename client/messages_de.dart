@@ -934,7 +934,7 @@ const deClient = const <String, String> {
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Neue App erstellen",
   mCreateNewAppTitle: "Eine neue App erstellen",
-  mCreateNewAppTermDesc: 'Durch das Erstellen einer Web-API-Anwendung stimmen Sie den <a href="/terms" target="_blank">Nutzungsbedingungen</a> für die Quire-API zu.',
+  mCreateNewAppTermDesc: 'Durch das Erstellen einer Web-API-Anwendung stimmen Sie den <a href="/terms#api" target="_blank">Nutzungsbedingungen</a> für die Quire-API zu.',
   mAppVisitDirectory: "App-Verzeichnis besuchen",
   mAppUpdateBy: '[=when], von [=who]',
   mAppBackApps: 'Zurück zu Apps',

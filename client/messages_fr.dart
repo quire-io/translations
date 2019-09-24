@@ -938,7 +938,7 @@ const frClient = const <String, String> {
   mDeveloperConsoleHeader: "Console Développeur",
   mCreateNewApp: "Créer une nouvelle application",
   mCreateNewAppTitle: "Créer une nouvelle application",
-  mCreateNewAppTermDesc: 'En créant une application avec l\'API Web, vous acceptez les <a href="/terms" target="_blank">Termes et Conditions</a> de l\'API Quire.',
+  mCreateNewAppTermDesc: 'En créant une application avec l\'API Web, vous acceptez les <a href="/terms#api" target="_blank">Termes et Conditions</a> de l\'API Quire.',
   mAppVisitDirectory: "Voir la liste des applications",
   mAppUpdateBy: '[=when], par [=who]',
   mAppBackApps: 'Retour aux Applications',

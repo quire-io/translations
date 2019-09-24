@@ -938,7 +938,7 @@ const esClient = const <String, String> {
   mDeveloperConsoleHeader: "Consola para desarrolladores de App",
   mCreateNewApp: "Crear nueva app",
   mCreateNewAppTitle: "Crear una nueva app",
-  mCreateNewAppTermDesc: 'Creando una aplicación Web API, acepta los <a href="/terms" target="_blank">términos y condiciones</a> de Quire API.',
+  mCreateNewAppTermDesc: 'Creando una aplicación Web API, acepta los <a href="/terms#api" target="_blank">términos y condiciones</a> de Quire API.',
   mAppVisitDirectory: "Visitar el directorio de la app",
   mAppUpdateBy: '[=when], por [=who]',
   mAppBackApps: 'Volver a Apps',

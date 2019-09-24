@@ -943,7 +943,7 @@ const ptBrClient = const <String, String> {
   mDeveloperConsoleHeader: "Console de Aplicativos do Desenvolvedor",
   mCreateNewApp: "Criar novo aplicativo",
   mCreateNewAppTitle: "Criar um novo aplicativo",
-  mCreateNewAppTermDesc: 'Ao criar um Aplicativo Web API, você concorda com os <a href="/terms" target="_blank">termos e condições</a> da API do Quire.',
+  mCreateNewAppTermDesc: 'Ao criar um Aplicativo Web API, você concorda com os <a href="/terms#api" target="_blank">termos e condições</a> da API do Quire.',
   mAppVisitDirectory: "Visitar o diretório de aplicativos",
   mAppUpdateBy: '[=when], por [=who]',
   mAppBackApps: 'Voltar para Aplicativos',
