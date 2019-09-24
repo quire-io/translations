@@ -736,7 +736,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingPictureLabel: "Image",
   mOrganizationProfile: "Profil de l'Organisation",
   mMYProfile: "Mon Profil",
-  mMyQuireApps: "My Apps",
+  mMyQuireApps: "Mes Applications",
   mUserProfile: "Profil Utilisateur",
   mAccountSettings: "Paramètres du Compte",
   mRecommendQuire: "Recommander Quire",
