@@ -123,7 +123,7 @@ const frClient = const <String, String> {
   mUnscheduled: "Non planifiées",
   mMinutesAgo: "Il y a [=n] minutes",
   mOneHourAgo: "Il y a une heure",
-  mHoursAgo: "Il y a [=n] heure",
+  mHoursAgo: "Il y a [=n] heures",
   mOneDayAgo: "Il y a un jour",
   mDaysAgo: "Il y a [=n] jours",
   mWeeksAgo: "Il y a [=n] semaines",
