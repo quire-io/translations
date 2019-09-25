@@ -96,7 +96,7 @@ const esServer = const <String, String> {
   mLoginAccountCreate: "Crear cuenta de Quire",
   mSigninGoogle: "Iniciar sesión con Google",
   mHomeGotoWSButton: "IR A TU PROYECTO",
-  mDownloadAPK: "DESCARGAR APP",
+  mDownloadAPK: "DESCARGAR APK",
   mAPKVersion: 'Versión [=version]',
   mDownloadMobileAppToStart: 'Descarga Quire para empezar a trabajar en tus proyectos.',
   mDownloadMobileAppToStartWith:
