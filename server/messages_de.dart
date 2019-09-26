@@ -17,6 +17,9 @@ Welcome to [=systemName] version [=systemVersion]"
 const deServer = const <String, String> {
   mSubmit: "Senden",
   mClear: "Löschen",
+  mSystemBusy:
+    "Sorry, the system is busy. Please try again. "
+    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
   mProjectLC: "Projekt",
   mOrganizationLC: "Organisation",
   mSidebarTitleMyTasks: "MEINE AUFGABEN",

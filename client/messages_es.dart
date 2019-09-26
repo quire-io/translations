@@ -905,6 +905,8 @@ const esClient = const <String, String> {
   mDragTooltipDuePer: "Arrastrar y soltar para establecer o eliminar fechas de vencimiento",
   mDragTooltipStartPer: "Arrastrar y soltar para eliminar o establecer fechas de inicio",
   mDragTooltipReprder: "Arrastrar para ordenar",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "Puedes hacer clic para añadir descripción, publicar comentarios, adjuntar archivos, etc.",
   mTipPinDetail: "Puedes hacer clic para fijar el panel de detalles.",
   mTipFilterForCompleted: "Puedes hacer clic en Todas las Tareas para ver las tareas que has completado.",

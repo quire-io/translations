@@ -905,6 +905,8 @@ const jaClient = const <String, String> {
   mDragTooltipDuePer: "ドラッグ＆ドロップして、期限日を設定または消去",
   mDragTooltipStartPer: "ドラッグ＆ドロップして、開始日を設定または消去",
   mDragTooltipReprder: "ドラッグして整理",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "説明の追加、コメントの投稿、ファイルの添付などを行うにはクリックします。",
   mTipPinDetail: "詳細パネルを固定表示するにはクリックします。",
   mTipFilterForCompleted: "完了したばかりのタスクを確認するには、「すべてのタスク」をクリックします。",

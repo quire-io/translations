@@ -905,6 +905,8 @@ const itClient = const <String, String> {
   mDragTooltipDuePer: "Drag and drop to set or remove due dates",
   mDragTooltipStartPer: "Drag and drop to set or remove start dates",
   mDragTooltipReprder: "Drag to reorder",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "You can click to add description, post comments, attach files, etc.",
   mTipPinDetail: "You can click to make the detail panel sticky.",
   mTipFilterForCompleted: "You can click All Tasks to see tasks you just completed.",

@@ -17,6 +17,9 @@ Welcome to [=systemName] version [=systemVersion]"
 const jaServer = const <String, String> {
   mSubmit: "Submit",
   mClear: "Clear",
+  mSystemBusy:
+    "Sorry, the system is busy. Please try again. "
+    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
   mProjectLC: "project",
   mOrganizationLC: "organization",
   mSidebarTitleMyTasks: "MY TASKS",

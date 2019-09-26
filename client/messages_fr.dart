@@ -905,6 +905,8 @@ const frClient = const <String, String> {
   mDragTooltipDuePer: "Glissez-déposez pour définir ou retirer les dates d'échéance",
   mDragTooltipStartPer: "Glissez-déposez pour définir ou retirer les dates de début",
   mDragTooltipReprder: "Faites glisser pour réorganiser",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "Vous pouvez cliquer pour ajouter une description, poster des commentaires, joindre des fichiers, etc.",
   mTipPinDetail: "Vous pouvez cliquer pour épingler le panneau des détails.",
   mTipFilterForCompleted: "Vous pouvez cliquer Toutes les Tâches pour voir des tâches que vous venez de terminer.",

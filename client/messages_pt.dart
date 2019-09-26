@@ -910,6 +910,8 @@ const ptClient = const <String, String> {
   mDragTooltipDuePer: "Arraste e solte para definir ou remover prazos",
   mDragTooltipStartPer: "Arraste e solte para definir ou remover datas de início",
   mDragTooltipReprder: "Arraste para reordenar",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "Pode clicar para adicionar descrição, postar comentários, anexar ficheiros, etc.",
   mTipPinDetail: "Pode clicar para tornar o painel de detalhes fixo.",
   mTipFilterForCompleted: "Pode clicar Todas as Tarefas para ver tarefas que acabou de concluir.",

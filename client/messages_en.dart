@@ -1161,6 +1161,9 @@ const enClient = const <String, String> {
   mDragTooltipStartPer: "Drag and drop to set or remove start dates",
   mDragTooltipReprder: "Drag to reorder",
 
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
+
   // bubble tips
   mTipOpenDetail:
     "You can click to add description, post comments, attach files, etc.",

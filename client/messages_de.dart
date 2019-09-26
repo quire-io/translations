@@ -901,6 +901,8 @@ const deClient = const <String, String> {
   mDragTooltipDuePer: "Drag & Drop, um Fälligkeitsdaten festzulegen oder zu entfernen",
   mDragTooltipStartPer: "Drag & Drop, um Startdatum zu setzen oder zu entfernen",
   mDragTooltipReprder: "Drag & Drop, zum Neuanordnen",
+  mDragTooltipHoldShiftTransfer: "Hold <code>shift</code> to transfer immediately",
+  mDragTooltipTransferOptions: "Transfer options",
   mTipOpenDetail: "Klicken Sie hier, um eine Beschreibung hinzuzufügen, Kommentare zu posten, Dateien anzuhängen usw.",
   mTipPinDetail: "Klicken Sie hier, um die Detailansicht anzuheften.",
   mTipFilterForCompleted: "Klicken Sie hier, um Aufgaben zu sehen, die Sie gerade in Alle Aufgaben erledigt haben.",

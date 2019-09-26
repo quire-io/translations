@@ -17,6 +17,9 @@ Welcome to [=systemName] version [=systemVersion]"
 const ptServer = const <String, String> {
   mSubmit: "Submeter",
   mClear: "Clear",
+  mSystemBusy:
+    "Sorry, the system is busy. Please try again. "
+    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
   mProjectLC: "projeto",
   mOrganizationLC: "organização",
   mSidebarTitleMyTasks: "AS MINHAS TAREFAS",
