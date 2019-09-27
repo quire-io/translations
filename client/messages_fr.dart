@@ -408,7 +408,7 @@ const frClient = const <String, String> {
   mInviteMembers: "Inviter des membres",
   mInvite: "Inviter",
   mREInvite: "Réinviter",
-  mNotSignedUP: "Pas encore incrit",
+  mNotSignedUP: "Pas encore inscrit(e)",
   mAddMemberMultiplePlaceholder: "Ajouter des membres avec leurs adresses email",
   mAddMemberHint: "Vous pouvez entrez plusieurs adresses email à la fois en les séparant avec des virgules.",
   mAddMemberInvalidEmail: 'Vous avez entré une adresse email invalide.',
