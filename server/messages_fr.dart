@@ -18,8 +18,8 @@ const frServer = const <String, String> {
   mSubmit: "Envoyer",
   mClear: "Supprimer",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
+    "Désolé, le système est surchargé. Veuillez réessayer. "
+    'Si le problème persiste, veuillez <a href="/feedback">nous contacter</a>. Merci !',
   mProjectLC: "projet",
   mOrganizationLC: "organisation",
   mSidebarTitleMyTasks: "MES TÂCHES",
