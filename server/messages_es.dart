@@ -18,8 +18,8 @@ const esServer = const <String, String> {
   mSubmit: "Enviar",
   mClear: "Limpiar",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
+    "Lo siento, el sistema está ocupado. Por favor, inténtalo de nuevo. "
+    'Si el problema persiste, por favor <a href="/feedback">contacta con nosotros</a>. ¡Muchas gracias!',
   mProjectLC: "proyecto",
   mOrganizationLC: "organización",
   mSidebarTitleMyTasks: "MIS TAREAS",
@@ -839,7 +839,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppDistributeListDate: 'Fecha de Entrega',
   mAppDistributeListStatus: 'Estado de la App',
   mAppDirectoryHeader: "Directorio de la App",
-  mAppDirectoryTitle: "Quire & Beyond",
+  mAppDirectoryTitle: "Quire & Más allá",
   mAppDirectoryTitleIntro: 'Comprueba estas buenas integraciones para que la gestión del proyecto sea un trabajo ameno y sensillo.',
   mAppSearchPlaceholder: "Buscar Apps",
   mAppDirectoryBackApps: 'Examinar Apps',
