@@ -728,7 +728,7 @@ const jaClient = const <String, String> {
     'まずご自身の組織を作成してください。',
   mArchiveProjectContent:
     "このプロジェクトをアーカイブします。"
-    "アーカイブされたプロジェクトは、サイドバーの「アーカイブ」に移動されます。",
+    "アーカイブしたプロジェクトは、サイドバーの「アーカイブ」に移動されます。",
   mDuplicateTaskTitle:"タスクを複製",
   mDuplicateTaskContent:"[=name]を複製します。",
   mDuplicateTaskContentPlural:"[=name]とその他[=count]件のタスクを複製します。",
@@ -844,7 +844,7 @@ const jaClient = const <String, String> {
   mEditShareLinkTitle:'共有リンクを編集',
   mEditShareLinkContent:'共有リンクは期限日を更新して締め切りを新しく設定できます。',
   mArchiveBoardContent:
-    "このボードをアーカイブします。アーカイブされたボードは、"
+    "このボードをアーカイブします。アーカイブしたボードは、"
     "ドロップダウンメニューの「アーカイブ」に移動されます。",
   mArchiveBoardOptionMigrate:'その他のタスクを新しいボードに移動',
   mArchiveBoardOptionLeaveTasks:'その他のタスクを現在のボードに残す',
@@ -940,7 +940,7 @@ const jaClient = const <String, String> {
   mDeveloperConsoleHeader:"開発者アプリコンソール",
   mCreateNewApp:"新しいアプリを作成",
   mCreateNewAppTitle:"新しいアプリを作成",
-  mCreateNewAppTermDesc:'Web APIアプリケーションを作成することで、QuireのAPI利用規約に同意します。',
+  mCreateNewAppTermDesc:'Quire API利用規約に同意して、Web APIアプリケーションを作成します。',
   mAppVisitDirectory:"アプリディレクトリをチェック",
   mAppUpdateBy: '[=when]　[=who]',
   mAppBackApps:'アプリに戻る',
