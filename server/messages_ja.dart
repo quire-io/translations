@@ -1,5 +1,5 @@
-//Copyright (C) 2013 Potix Corporation. All Rights Reserved.
-//History: Fri, Aug 23, 2013  7:31:11 PM
+//Copyright (C) 2013 Potix Corporation.All Rights Reserved.
+//History:Fri, Aug 23, 2013  7:31:11 PM
 // Author: tomyeh
 
 part of server.intl.messages_all;
@@ -15,369 +15,369 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const jaServer = const <String, String> {
-  mSubmit: "Submit",
-  mClear: "Clear",
+  mSubmit:"送信",
+  mClear:"クリア",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
-  mProjectLC: "project",
-  mOrganizationLC: "organization",
-  mSidebarTitleMyTasks: "MY TASKS",
-  mSidebarMyTasksFav: "FAVORITES",
-  mSidebarMyTasksArchived: "ARCHIVED",
-  mSidebarCrossProjects: "SMART FOLDERS",
-  mSidebarProjects: "PROJECTS",
-  mSidebarFav: "BOOKMARKS",
-  mSidebarRec: "RECENT",
-  mSidebarArchive: "Archived",
-  mSidebarMembers: "MEMBERS",
-  mAppCategoriesU: 'CATEGORIES',
-  mAppCategory: 'Category',
-  mSidebarMyTasksSortDate: "Sort by date",
-  mSidebarMyTasksSortProject: "Sort by project",
-  mSidebarResetOrder: "Reset to default order",
-  mSignup: "Sign up",
-  mLogin: "Log in",
-  mLogout: "Log out",
-  mEmail: "Email",
-  mLanguage: "Language",
-  mLanguageAuto: "(auto)",
-  mFirstDayOfWeek: 'First day of week',
-  m24hourTime: 'Time',
-  m24hourTimeDesc: 'Enable 24-Hour time',
-  mAllow: "Allow",
-  mDeny: "Deny",
-  mConfirmPassword: "Confirm your password",
-  mNewPassword: "New",
-  mConfirmSignupPassword: "New Password",
-  mCurrentPassword: "Current",
-  mChangePassword: "Change password",
-  mRememberME: "Remember Me",
-  mConfirm: "Confirm",
-  mLoginFailed: "Please enter a valid email and password, or <a href='/signup'>sign&nbsp;up</a> first.",
-  mNotYet: "Not yet",
-  mNotComfirmedYet: "Not confirmed yet",
-  mGOWS: "Continue to my project",
-  mReturnWS: "Return to my project",
-  mTryAgain: "Try again",
-  mSignupAt: "Joined",
-  mCreatedAt: "Created",
-  mTour: "Tour",
-  mFeatures: "Features",
-  mBlog: "Blog",
-  mAbout: "About",
-  mAboutQuire: "About Quire",
-  mGetStarted: "GET STARTED",
-  mSignupForFree: "GET STARTED - It's FREE!",
-  mTerms: "Terms",
-  mTermsOFService: "Terms of Service",
-  mFaq: "FAQ",
-  mPricing: "Pricing",
-  mGetIphone: "Get iPhone App",
-  mGetAndroid: "Get Android App",
-  mGetChromeExtension: "Get Chrome Extension",
-  mLoginU: "LOG IN",
-  mTourU: "TOUR",
-  mTutorialU: "TUTORIAL",
-  mFeedbackU: "FEEDBACK",
-  mDocumentationU: "DOCUMENTATION",
-  mPost: "Post",
-  mGotIt: "Got it!",
-  mReadOnly: "Read Only",
-  mReadMore: "Read more",
-  mGettingStarted: "Getting Started",
-  mTutorial: "Tutorial",
-  mDocumentation: "Documentation",
-  mSignupQuire: "Sign up to Quire",
-  mSignupFree: "SIGN UP FOR FREE",
-  mSignupFreeShort: "SIGN UP",
-  mSignupToPostAComment: "SIGN UP TO POST A COMMENT",
-  mLoginQuire: "Log in to Quire",
-  mLoginQuireDesc: "Welcome Back!",
-  mStayLogin: "Stay signed in",
-  mLoginAccountDesc: "Don't have an account yet?",
-  mLoginAccountCreate: "Create a Quire account",
-  mSigninGoogle: "Sign in with Google",
-  mHomeGotoWSButton: "GO TO YOUR PROJECT",
-  mDownloadAPK: "DOWNLOAD APK",
-  mAPKVersion: 'Version [=version]',
-  mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
+    "申し訳ありません。システムがビジー状態です。再度お試しください。"
+    '問題が解消しない場合は、私たちまで<a href="/feedback">お問い合わせ</a>ください。',
+  mProjectLC: "プロジェクト",
+  mOrganizationLC: "組織",
+  mSidebarTitleMyTasks:"自分のタスク",
+  mSidebarMyTasksFav:"お気に入り",
+  mSidebarMyTasksArchived:"アーカイブ",
+  mSidebarCrossProjects:"スマートフォルダー",
+  mSidebarProjects:"プロジェクト",
+  mSidebarFav:"ブックマーク",
+  mSidebarRec:"閲覧履歴",
+  mSidebarArchive:"アーカイブ",
+  mSidebarMembers:"メンバー",
+  mAppCategoriesU:'分類',
+  mAppCategory:'分類',
+  mSidebarMyTasksSortDate:"日付で並び替え",
+  mSidebarMyTasksSortProject:"プロジェクトで並び替え",
+  mSidebarResetOrder:"デフォルトの順番に戻す",
+  mSignup:"登録",
+  mLogin:"ログイン",
+  mLogout:"ログアウト",
+  mEmail:"メールアドレス",
+  mLanguage:"言語",
+  mLanguageAuto: "（自動）",
+  mFirstDayOfWeek:'週の始まりの曜日',
+  m24hourTime:'時刻',
+  m24hourTimeDesc:'24時間表示',
+  mAllow:"許可",
+  mDeny:"不許可",
+  mConfirmPassword:"パスワードを再入力",
+  mNewPassword:"新しいパスワード",
+  mConfirmSignupPassword:"新しいパスワード",
+  mCurrentPassword:"現在のパスワード",
+  mChangePassword:"パスワードを変更",
+  mRememberME:"記憶する",
+  mConfirm:"確認",
+  mLoginFailed:"有効なメールアドレスとパスワードを入力するか、<a href='/signup'>登&nbsp;録</a>してください。",
+  mNotYet:"未確定",
+  mNotComfirmedYet:"未確定",
+  mGOWS:"プロジェクトを続行",
+  mReturnWS:"プロジェクトに戻る",
+  mTryAgain:"再度お試しください",
+  mSignupAt:"参加しました",
+  mCreatedAt:"作成しました",
+  mTour:"ツアー",
+  mFeatures:"特徴",
+  mBlog:"ブログ",
+  mAbout:"Quireについて",
+  mAboutQuire:"Quireについて",
+  mGetStarted:"始めましょう",
+  mSignupForFree:"今すぐ無料で使ってみましょう！",
+  mTerms:"規約",
+  mTermsOFService:"利用規約",
+  mFaq:"よくあるご質問",
+  mPricing:"料金",
+  mGetIphone:"iPhoneアプリ",
+  mGetAndroid:"Androidアプリ",
+  mGetChromeExtension:"Chromeの拡張機能",
+  mLoginU:"ログイン",
+  mTourU:"ツアー",
+  mTutorialU:"チュートリアル",
+  mFeedbackU:"ご意見",
+  mDocumentationU:"ドキュメント",
+  mPost:"投稿",
+  mGotIt:"同意",
+  mReadOnly:"読み取り専用",
+  mReadMore:"もっと詳しく",
+  mGettingStarted:"始めましょう",
+  mTutorial:"チュートリアル",
+  mDocumentation:"ドキュメント",
+  mSignupQuire:"Quireに登録",
+  mSignupFree:"無料で登録",
+  mSignupFreeShort:"登録",
+  mSignupToPostAComment:"登録してコメントを投稿",
+  mLoginQuire:"Quireにログイン",
+  mLoginQuireDesc:"お帰りなさい！",
+  mStayLogin:"ログイン状態を保持",
+  mLoginAccountDesc:"アカウントをお持ちでしょうか？",
+  mLoginAccountCreate:"Quireアカウントを作成",
+  mSigninGoogle:"Googleアカウントでログイン",
+  mHomeGotoWSButton:"プロジェクトに移動",
+  mDownloadAPK:"APKファイルをダウンロード",
+  mAPKVersion:'バージョン[=version]',
+  mDownloadMobileAppToStart:Quireをダウンロードして、プロジェクトに着手',
   mDownloadMobileAppToStartWith:
-    '[=who] has invited you to collaborate on their project.<br/>'
-    'Download Quire to get started!',
-  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>.',
-  mBrowserNotSupported: "Sorry, your browser is out of date. Please upgrade it to the latest version.",
+    '[=who]さんからプロジェクトに招待されました。<br/>'
+    'Quireをダウンロードして、参加しましょう！',
+  mCompleteSingupWithApp:'Quireアプリで登録を完了、<br>または<a href="[=url]"Quireアプリをダウンロード</a>します。',
+  mBrowserNotSupported:"申し訳ありません。ご利用のブラウザのバージョンが対応していません。最新バージョンに更新してください。",
   mMobileBrowserNotSupported:
-    'We no longer support mobile browser with small display screen. '
-    'Please download our native app instead.',
-  m403Title: "Oops!",
+    '画面の小さいモバイルブラウザでのサポートは終了しました。'
+    'ネイティブアプリをダウンロードしてください。',
+  m403Title:"残念！",
   m403Desc:
-    "You do not have permission to access this page.<br/>"
-    'Please contact your Admin.',
-  m404PageTitle: '404: Page Not Found',
-  m404Title: "Oops!",
+    "このページにアクセスする権限がありません。<br/>"
+    '管理者にお問い合わせください。',
+  m404PageTitle:'404:ページが見つかりません',
+  m404Title:"残念！",
   m404Desc:
-    "We cannot find what you are looking for. It could be deleted by you or your Admin.<br/>"
-    'If you need assistance, please <a href="mailto:support@quire.io">contact us.</a>',
-  m404ProjectList: "Here is a list of projects you can access:",
-  mBackToHome: "Back to Home",
-  m500PageTitle: 'Error',
-  m500Title: 'Looks like something went wrong!',
+    "お探しの情報が見つかりません。ご自身または管理者が削除した可能性があります。<br/>"
+    'サポートが必要な場合は、<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
+  m404ProjectList:"アクセスできるプロジェクトは次の通りです。",
+  mBackToHome:"トップページに戻る",
+  m500PageTitle:'エラー',
+  m500Title:'問題が発生したようです。',
   m500Desc:
-    'We track these errors automatically, but if the problem persists, '
-    'feel free to <a href="mailto:support@quire.io">contact us.</a> '
-    'In the meantime, please try to <a href="javascript:reloadPage()">refresh</a>.',
-  mNewVersionApp: 'A new version is now available <a href="[=link]">for download</a>!',
-  mObsoleteVersionApp: 'This old version you are using will expire on [=when]. Please <a href="[=link]">download the latest version</a>!',
+    'エラーは自動的に送信されていますが、問題が解消しない場合は、'
+    'お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。'
+    'また、<a href="javascript:reloadPage()">リロード（再読み込み）</a>をお試しください。',
+  mNewVersionApp:'最新バージョンを<a href="[=link]">ダウンロード</a>できます。',
+  mObsoleteVersionApp:'旧バージョンは[=when]から使えなくなります。<a href="[=link]">最新バージョンをダウンロード</a>してください。',
   mNewVersionBrowser:
-    'A new version is available. '
-    'Please <a href="javascript:reloadPage(false)">reload to get the latest version</a>.',
-  mRequired: 'Required',
-  mDuplicatedId: 'This ID is already taken',
-  mForgotPassword: 'Forgot?',
-  mResetPassword: 'Reset password',
-  mForgotYourPassword: 'Forgot your password?',
+    '最新バージョンがあります。'
+    '<a href="javascript:reloadPage(false)">リロード（再読み込み）して入手</a>してください。',
+  mRequired:'必須',
+  mDuplicatedId:'このIDはすでに使われています',
+  mForgotPassword:'忘れましたか？',
+  mResetPassword:'パスワードを再設定',
+  mForgotYourPassword:'パスワードを忘れましたか？',
   mForgotYourPasswordDesc:
-    'No problem, enter the email address you registered with '
-    'and we will send you a reset password link.',
-  mResetMYPassword: 'Reset My Password',
-  mEmailSentCheckInbox: '<h3>Email Sent to [=email]!</h3>Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.',
+    '登録したメールアドレスを入力してください。'
+    '再設定用のリンクをお送りします。',
+  mResetMYPassword:'パスワードを再設定',
+  mEmailSentCheckInbox: '<h3>[=email]にメールを送りました。</h3>[=hrefStart]受信箱[=hrefEnd]または迷惑メールフォルダーを確認してください。',
   mYourNewPasswordDesc:
-    'Please enter a new password '
-    'for your account <strong>[=email]</strong>',
-  mPasswordReseted: 'You just changed your password.',
-  mConfirmSignupExpired: "Signup Confirmation Expired",
-  mConfirmPasswordExpired: "Reset Password Confirmation Expired",
-  mConfirmEmailExpired: "Email Confirmation Expired",
-  mConfirmExpired: 'Sorry, the confirmation has been expired.',
-  mConfirmedEmail: "Hi, [=email]",
-  mConfirmedEmailDesc: "Let's get your account ready now!",
-  mDoneConfirmSignupButtton: "I'm done, let's go!",
-  mNameISPublicVisible: "Your name is publicly visible",
-  mCantFindEmail: "Can't find that email.",
-  mDuplicatedEmail: 'This email is already taken.',
-  mEmailChangedCancel: '(cancel)',
-  mEmailChangedTitle: "Email Changed",
-  mEmailChanged: 'Thanks. Your primary email has been changed to<br>[=email].',
-  mEmailChangeFailedTitle: "Unable to Change Email",
-  mEmailChangeFailed: "Sorry, we cannot change your email to [=email]: [=message]",
-  mEmailAddedTitle: "New Email Added",
-  mEmailAdded: 'Thanks. Your new email, [=email], has been added.',
-  mEmailAddFailedTitle: "Unable to Add New Email",
-  mEmailAddFailed: "Sorry, we cannot add your new email, [=email]: [=message]",
-  mSignupMailSentTitle: 'Awesome!',
+    'アカウント<strong>[=email]</strong>用の'
+    '新しいパスワードを入力してください',
+  mPasswordReseted:'パスワードを変更しました。',
+  mConfirmSignupExpired:"登録用リンクの有効期限切れ",
+  mConfirmPasswordExpired:"パスワード再設定用リンクの有効期限切れ",
+  mConfirmEmailExpired:"メールアドレス確認用リンクの有効期限切れ",
+  mConfirmExpired:'申し訳ありません。確認用リンクの有効期限切れです。',
+  mConfirmedEmail:"こんにちは、[=email]さん！",
+  mConfirmedEmailDesc:"アカウントを設定しましょう！",
+  mDoneConfirmSignupButtton:"これでOKです。開始します。",
+  mNameISPublicVisible:"お名前が公開されています",
+  mCantFindEmail:"お探しのメールアドレスが見つかりません。",
+  mDuplicatedEmail:'このメールアドレスははすでに使われています。',
+  mEmailChangedCancel: '（取り消し）',
+  mEmailChangedTitle:"メールアドレスを変更しました",
+  mEmailChanged:'ありがとうございます。優先メールアドレスを<br>[=email]に変更しました。',
+  mEmailChangeFailedTitle:"メールアドレスを変更できません",
+  mEmailChangeFailed:"申し訳ありません。メールアドレスを[=email]に変更できません。[=message]",
+  mEmailAddedTitle:"新しいメールアドレスを追加しました",
+  mEmailAdded:'ありがとうございます。新しいメールアドレス[=email]を追加しました。',
+  mEmailAddFailedTitle:"新しいメールアドレスを追加できません",
+  mEmailAddFailed:"申し訳ありません。新しいメールアドレス[=email]を追加できません。[=message]",
+  mSignupMailSentTitle:'成功しました',
   mSignupMailSentDesc:
-    'We sent you a confirmation email to<br>'
-    '<strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder and confirm it.',
-  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
-  mSignupAccountDesc: "Already have an account?",
-  mSignupAccountLogin: "Log in here",
+    '確認用メールを<br>'
+    '<strong>[=email]</strong>に送信しました。<br>'
+    '[=hrefStart]受信箱[=hrefEnd]または迷惑メールフォルダーを確認してください。',
+  mSignupAgreePolicyDesc:'Quire<a href="https://quire.io/privacy">プライバシーポリシー</a>と<a href="https://quire.io/terms">規約</a>に同意して登録します。',
+  mSignupAccountDesc:"アカウントをすでにお持ちですか？",
+  mSignupAccountLogin:"ここからログイン",
   mDeleteAccountNotEmpty:
-    'You must have your membership removed from [=granted], or delete them '
-    'before you can delete your account.',
-  mAlreadySignupMailTitle: 'Hi there!',
+    'アカウントを削除するには、メンバー設定が'
+    '[=granted]から消去または削除される必要があります。',
+  mAlreadySignupMailTitle:'こんにちは！',
   mAlreadySignupMailDesc:
-    'It seems like you have already signed up with<br>'
-    '<strong>[=email]</strong>.<br>'
-    'Please <a href="/login">log in here</a>.',
-  mInviteFriends: "Invite Friends",
-  mInviteFriendsTitle: "Invite your friends on board",
-  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily accomplish their dreams too!",
-  mInviteFriendsSuccessTitle: "Thank You!",
-  mInviteFriendsSuccess: 'An invitation was sent to <ul class="list-unstyled"></ul> We really appreciate your support!',
-  mInviteOthersFriends: "Invite other friends",
-  mInviteNewMembers: "Invite new members",
-  mContactUs: "Contact Us",
-  mFeedback: "Feedback",
-  mFeedbackSubject: "Subject",
-  mFeedbackContent: "Tell us how we can help",
-  mSend: "Send",
-  mPostFeedbackPublic: "Allow other Quire users to see",
-  mFeedbackDesc: "Have a question or suggestion for us?<br>Thanks! We're all ears!",
-  mCheckCommunity: "Check out all feedback",
-  mUndoListTitle: "My Operations",
-  mUndoDeleteListTitle: "Deleted",
-  mUndoCompleteListTitle: "Completed",
-  mUndoEmptyTitle: "Nothing to undo.",
-  mUndoEmptyDesc: "You haven't moved, completed or deleted tasks yet.",
-  mUndoRemoveTaskEmptyDesc: "No task has been deleted recently.",
-  mUndoCompleteTaskEmptyDesc: "No task has been completed recently.",
-  mSearchPartialResult: "Only partial results are shown",
-  mSearchOtherProjects: "Search other projects",
-  mBackSearch: "Back to search",
-  mMarkAllRead: "Mark All as Read",
-  mEmptyNotificationMessage: "You don't have any notifications.",
-  mShowMoreActivities: "Show earlier activities",
-  mShowMoreTasks: "Show more tasks",
-  mShowMoreComments: "Show earlier comments",
-  mEmptyComments: "No comments",
-  mEmptyCommentsDesc: "Be the first to <a>add comment</a>",
-  mNewComments: "New comments",
-  mNewNotifications: "New notifications",
-  mScrollToBottom: "Scroll to bottom",
-  mSubtaskStatusAsgdTitle: "Tasks per assignee",
-  mSubtaskStatusDueTitle: "Task due dates",
-  mTaskRemovedTitle: "This task has been deleted.",
-  mTaskRemovedDesc: "Try searching for something else.",
+    '<strong>[=email]</strong>は<br>'
+    'すでに登録されているようです。<br>'
+    '<a href="/login">ここからログイン</a>してください。',
+  mInviteFriends:"友人を招待",
+  mInviteFriendsTitle:"友人を招待",
+  mInviteFriendsDesc:"Quireは気に入っていただけましたか？<br/>ご友人にも、夢の実現は難しくないことを、どうぞお伝えください。",
+  mInviteFriendsSuccessTitle:"ありがとうございます",
+  mInviteFriendsSuccess:'次の方に招待状が送られました。<ul class="list-unstyled"></ul>ご紹介をありがとうございます！',
+  mInviteOthersFriends:"別の友人を招待",
+  mInviteNewMembers:"新メンバーを招待",
+  mContactUs:"お問い合わせ",
+  mFeedback:"ご意見",
+  mFeedbackSubject:"件名",
+  mFeedbackContent:"ご意見・ご質問をご記入ください",
+  mSend:"送信",
+  mPostFeedbackPublic:"他のQuireユーザーの閲覧を許可",
+  mFeedbackDesc:"ご意見やご質問がありましたら、<br>いつでもお知らせください。",
+  mCheckCommunity:"すべての意見を閲覧",
+  mUndoListTitle:"自分の操作",
+  mUndoDeleteListTitle:"削除しました",
+  mUndoCompleteListTitle:"完了しました",
+  mUndoEmptyTitle:"これ以上元に戻せません。",
+  mUndoEmptyDesc:"まだ移動や完了、削除したタスクがありません。",
+  mUndoRemoveTaskEmptyDesc:"最近削除したタスクはありません。",
+  mUndoCompleteTaskEmptyDesc:"最近完了したタスクはありません。",
+  mSearchPartialResult:"結果の一部のみ表示しています",
+  mSearchOtherProjects:"他のプロジェクトを検索",
+  mBackSearch:"検索に戻る",
+  mMarkAllRead:"既読にする",
+  mEmptyNotificationMessage:"通知がありません。",
+  mShowMoreActivities:"アクティビティーをもっと表示",
+  mShowMoreTasks:"タスクをもっと表示",
+  mShowMoreComments:"コメントをもっと表示",
+  mEmptyComments:"コメントなし",
+  mEmptyCommentsDesc:"最初の<a>コメントを追加</a>",
+  mNewComments:"新しいコメント",
+  mNewNotifications:"新しい通知",
+  mScrollToBottom:"一番下までスクロール",
+  mSubtaskStatusAsgdTitle:"担当者ごとのタスク",
+  mSubtaskStatusDueTitle:"タスクの期限日",
+  mTaskRemovedTitle:"このタスクは削除されました。",
+  mTaskRemovedDesc:"他の条件で検索してください。",
   mAppBanned:
-    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
-    "You aren't allowed to publish the app again until [=when].",
-  mMyTasksEmptyMessage: "Hurray~ no task is due!",
-  mSignupOrganization: "[=user]'s Organization",
-  mSignupProject: "[=user]'s Project",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+    'このアプリは<a href="/terms" target="_blank">利用規約</a>に違反したため、非公開となりました。'
+    "[=when]まで再公開できません。",
+  mMyTasksEmptyMessage:"期限のタスクはありません。",
+  mSignupOrganization: "[=user]さんの組織",
+  mSignupProject: "[=user]さんのプロジェクト",
+  mEmailWelcomeSubject:"Quireの使用感はいかがですか。",
   mEmailWelcomeContent: '''
 [=header]
 
-<p>We’re super excited to have you on board!</p>
+<p>ご利用くださり、ありがとうございます！</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>ご意見やご質問がありましたら、ぜひお知らせください。お待ちしています！</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>始め方が分からないときは、基本を丁寧に説明したチュートリアルをご覧ください。</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">チュートリアルを閲覧</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>それから<a href="https://quire.io/blog/">ブログ</a>もご用意しています。 
+Quireをフルにご活用いただけるよう、使いこなしのヒントや、他のユーザーの利用の仕方をご紹介しています。ぜひご覧ください。</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>Quireは目標の達成と夢の実現をお手伝いします。</p>
 
-<p>Have a great day!</p>
+<p>楽しんでいただけますように！</p>
 
-<p>Best Regards,</p>
+<p>これからもよろしくお願いいたします。</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>こうしたメールの受け取りを希望しない場合は、<a href="[=unsubscribe]">ここから配信を停止</a>してください。</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject:"Quireのご紹介",
   mEmailValueProposalContent: '''
 [=header]
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Quireを始めたばかりで、まだお気づきでないかもしれませんが、 
+Quireが選ばれる理由を、ぜひ知ってください。</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>複雑な作業をかんたんに</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>タスクは、完了するのに最適な数のステップに
+細分化できます。目標がどんなに大きく困難に見えても、
+Quireと一緒なら達成も難しくありません。</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>一歩先を考える</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>シンプルで直感的なデザインも、Quireの魅力です。
+雑多なやるべきことのリストも、すっきりと整理できます。</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>誰とでもコラボレーション</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>同僚やビジネスパートナー、友人、家族の誰にでも
+タスクを設定して、共同作業ができます。リアルタイムのコミュニケーションとコラボレーションで、
+究極のチームワークを可能にします。</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>今すぐ<a href="https://quire.io/w">Quireで、目標の達成に向けて踏み出しましょう！</a></p>”
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>Quireのご利用中に困ったことがあれば、もちろんいつでもお手伝いします。</p>
 
-<p>Best regards,</p>
+<p>これからもよろしくお願いいたします。</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>こうしたメールの受け取りを希望しない場合は、<a href="[=unsubscribe]">ここから配信を停止</a>してください。</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject:"しばらくQuireでお目にかかっていません",
   mEmailLeavingContent: '''
-<p>Hello [=name],</p>
+<p>こんにちは、[=name]さん。</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Quireをご利用いただき、ありがとうございます。</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>目標の達成に向けて、Quireがお役に立っているでしょうか。 
+Quireは使いやすさを追求して、<a href="https://twitter.com/quire_io">機能をさらに充実</a>
+しています。より負担の少ないプロジェクト管理を目指す
+Quireに、どうぞご期待ください。</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Quireが作業に適さないとお考えの場合は、同じ考えのユーザーに
+Quireがお応えできるよう、どうぞご意見をお聞かせください。</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>口頭でご連絡いただける場合は、
+電話をご用意します。</p>
 
-<p>We would love to hear from you,</p>
+<p>どんな方法でも、ご連絡をお待ちしています。</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>こうしたメールの受け取りを希望しない場合は、<a href="[=unsubscribe]">ここから配信を停止</a>してください。</p>
 ''',
-  mEmailSignupSubject: 'Complete your Quire sign up',
+  mEmailSignupSubject:'Quireへの登録を完了してください',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>あとワンクリックです。</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>Quireを始めるには、下のボタンをクリックしてメールアドレスを確定してください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">確定</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>このメールにお心当たりがない場合は、破棄してください。</p>
 
 [=footer]
 ''',
-  mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
+  mEmailProfileChangeSubject:'Quire：プロフィールを更新しました',
   mEmailProfileChangeContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed [=fields] in your profile.</p>
+<p>ご自身のプロフィールの[=fields]を変更しました。</p>
 
-<p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>お心当たりがない場合は、今すぐ<a href="mailto:support@quire.io">私たちまでご連絡</a>ください。</p>
 
 [=footer]
 ''',
-  mEmailInviteSubject: "Quire: You are invited to join [=host]",
+  mEmailInviteSubject:"Quire：[=host]に招待されました",
   mEmailInviteContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>[=invitor]さんから[=hostType]の[=host]に招待されました。</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>受けて参加するには、下のボタンをクリックしてください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">招待を受ける</a>
 </p>
 
 [=footer]
 ''',
-  mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
+  mEmailInviteFriendsSubject: "[=name]さんからQuireに招待されました",
   mEmailInviteFriendsContent: '''
 [=header]
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor]さん([=email])から、お気に入りのプロジェクト管理ソリューション
+<a href="https://quire.io">Quire</a>に招待されました。</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>受けて参加するには、下のボタンをクリックしてください。参加は無料です。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">招待を受ける</a>
 </p>
 
 [=footer]
 ''',
-  mEmailPerUpdateSubject: "Quire: [=summary]",
+  mEmailPerUpdateSubject:"Quire：[=summary]",
   mEmailPerUpdateContent: '''
 [=header]
 
-<p>We are writing to let you know:</p>
+<p>次の通り、お知らせします。</p>
 
 [=digest]
 
@@ -385,13 +385,13 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you are following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>このメールは、[=source]をフォローしている方にお送りしています。配信を停止するには、<a href="[=unsubscribe]">ここをクリック</a>してください。</p>
 ''',
-  mEmailDigestSubject: "Quire: A total [=count] notifications for you",
+  mEmailDigestSubject:"Quire：通知[=count]件",
   mEmailDigestContent: '''
 [=header]
 
-<p>There are a total of [=count] notifications for you:</p>
+<p>合計[=count]件のお知らせがあります。</p>
 
 [=digest]
 
@@ -399,78 +399,78 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
+<p>このメールは、アクティビティーのお知らせを希望した方にお送りしています。通知の頻度を変更するには、<a href="https://quire.io/r/setting?tab=options#email">ここをクリック</a>してください。配信を停止するには、<a href="[=unsubscribe]">ここをクリック</a>してください。</p>
 ''',
-  mEmailEmailChangeSubject: "Quire: Please verify your new email address",
+  mEmailEmailChangeSubject:"Quire：メールアドレスを確定してください",
   mEmailEmailChangeContent: '''
 [=header]
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Quireアカウントのメールアドレスを更新しました。</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>12時間以内に下のボタンをクリックして、新しいメールアドレスを確定してください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">確定</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>このメールにお心当たりがない場合は、破棄してください。</p>
 
 [=footer]
 ''',
-  mEmailEmailChangeNotificationSubject: "Quire: Your primary email address has been changed",
+  mEmailEmailChangeNotificationSubject:"Quire：優先メールアドレスを変更しました",
   mEmailEmailChangeNotificationContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed your primary
-email address to <b>[=newEmail]</b>.
+<p>優先メールアドレスを
+<b>[=newEmail]</b>に変更しました。
 
-<p>All notifications related to you will be sent to your new
-primary email address,
-including account-related notifications and task activities.</p>
+<p>今後、アカウントに関するお知らせやタスクに関する
+アクティビティーなど、すべての通知は
+新しい優先メールアドレスに送られます。</p>
 
-<p>If you did not make the change, please
-<a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>この変更にお心当たりがない場合は、
+今すぐ<a href="mailto:support@quire.io">私たちまでご連絡</a>ください。</p>
 
 [=footer]
 ''',
-  mEmailAddEmailSubject: "Quire: Please verify your new email address",
+  mEmailAddEmailSubject:"Quire：メールアドレスを確定してください",
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>12時間以内に下のボタンをクリックして、新しいメールアドレスを確定してください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">確定</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>このメールにお心当たりがない場合は、破棄してください。</p>
 
 [=footer]
 ''',
-  mEmailForgotPasswordSubject: "Quire: Please reset your password",
+  mEmailForgotPasswordSubject:"Quire：パスワードを再設定してください",
   mEmailForgotPasswordContent: '''
 [=header]
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>このメールは、Quireのパスワードを忘れた方にお送りしています。</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>2時間以内に下のボタンをクリックして、パスワードを再設定してください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">パスワードを再設定</a>
 </p>
 
 [=footer]
 ''',
-  mEmailInviteConfirmedSubject: "[=inviteeName] has accepted your invitation to Quire",
+  mEmailInviteConfirmedSubject: "[=inviteeName]さんが、Quireへの招待を受けました",
   mEmailInviteConfirmedContent: '''
 [=header]
 
-<p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
+<p>[=invitee]さん([=inviteeEmail])が招待を受けて、Quireに参加しました。</p>
 
 [=footer]
 ''',
-  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
-  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">こんにちは。</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">こんにちは、[=name]さん。</p>',
   mEmailSubscriberContent: '''
 [=header]
 
@@ -480,804 +480,804 @@ including account-related notifications and task activities.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>このメールは、メールでのお知らせを希望した方にお送りしています。配信を停止するには、<a href="[=unsubscribe]">ここをクリック</a>してください。</p>
 ''',
   mEmailContentFooter:
-    '<p class="end-row-1">Thanks,</p>'
-    '<p class="end-row-2">The Quire Team</p>',
-  mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
+    '<p class="end-row-1">これからもよろしくお願いいたします。</p>'
+    '<p class="end-row-2">Quireチーム</p>',
+  mEmailLeaveMemberSubject:"Quire：[=member]さんが[=target]を退出しました",
   mEmailLeaveMemberContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
+<p>[=member]さん([=memberEmail])が[=target]を退出しました。</p>
 
 [=footer]
 ''',
-  mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
+  mEmailNewProjectSubject:"Quire：[=member]さんが[=project]を作成しました",
   mEmailNewProjectContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
+<p>[=member]さん([=memberEmail])が[=project]を作成しました。</p>
 
 [=footer]
 ''',
-  mEmailDeleteProjectSubject: "Quire: [=member] has deleted [=project]",
+  mEmailDeleteProjectSubject:"Quire：[=member]さんが[=project]を削除しました",
   mEmailDeleteProjectContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=project]".</p>
+<p>[=member]さん([=memberEmail])が「[=project]」を削除しました。</p>
 
 [=footer]
 ''',
-  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedSubject: "[=app]が不承認となりました",
   mEmailAppRejectedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been rejected since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+<p>作成したアプリ[=app]は、
+<a href="https://quire.io/terms" target="_blank">利用規約</a>に違反したため、不承認となりました。
 
 [=reason]
 
 [=footer]
 ''',
-  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedSubject: "[=app]は、[=days]日間非公開となりました",
   mEmailAppBannedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been banned since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
-You won't be allowed to publish the app again until [=days] days later.</p>
+<p>作成したアプリ[=app]は、
+<a href="https://quire.io/terms" target="_blank">利用規約</a>に違反したため、不承認となりました。
+[=days]日間は再公開できません。</p>
 
 [=reason]
 
 [=footer]
 ''',
-  mSummaryUnknown: "Activity Update",
+  mSummaryUnknown:"アクティビティーのお知らせ",
   mExtraValue: " as [=value]",
-  mSaying: ", saying [=value]",
-  mViewOnQuire: "view on Quire",
-  mUnfollow: "unfollow",
-  mThisTask: "this task",
-  "AT$atAddTask": "[=who] added [=what][=value]",
-  "AT$atRemoveTask": "[=who] deleted [=what][=value]",
-  "AT$atEditTask": "[=who] edited [=what][=value]",
-  "AT$atMoveTask": "[=who] moved [=what] to [=value]",
-  "AT$atComplete": "[=who] completed [=what]",
-  "AT$atUncomplete": "[=who] reopened [=what]",
-  "AT$atAssign": "[=who] assigned [=what] to [=value]",
-  "AT$atUnassign": "[=who] unassigned [=value] from [=what]",
-  "AT$atSetDue": "[=who] set the due date of [=what] to [=value:due]",
-  "AT$atUnsetDue": "[=who] unset the due date of [=what]",
-  "AT$atSetState": "[=who] set the status of [=what] to [=value]",
-  "AT$atSetStart": "[=who] set the start date of [=what] to [=value:due]",
-  "AT$atUnsetStart": "[=who] unset the start date of [=what]",
-  "AT$atAddTaskComment": "[=who] commented [=what][=value]",
-  "AT$atUndoComplete": "[=who] undid the completion of [=what]",
-  "AT$atUndoRemoveTask": "[=who] undid the removal of [=what]",
-  "AT$atUndoArchiveTask": "[=who] reshow [=what]",
-  "AT$atAddTaskAttachment": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskAttachment": "[=who] removed [=value] from [=what]",
-  "AT$atSetPartner": "[=who] shared [=what] to the external team [=value]",
-  "AT$atUnsetPartner": "[=who] cleared the external team from [=what]",
-  "AT$atEditTaskComment": "[=who] edited a comment in [=what][=value]",
-  "AT$atRemoveTaskComment": "[=who] removed a comment in [=what]",
-  "AT$atTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atUntag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atTransferTask": "[=who] transferred [=what] to [=value]",
-  "AT$atDuplicateTask": "[=who] duplicated [=what] from [=value]",
-  "AT$atTaskMention": "[=who] has mentioned you in [=what][=value]",
-  "AT$atDuplicateRecurring": "[=who] duplicated [=what] from recurring task [=value]",
-  "AT$atSetPriority": "[=who] set the priority of [=what] to [=value]",
-  "AT$atSetTaskType": "[=who] set the type of [=what] to [=value]",
-  "AT$atStartTask": "[=who] started working on [=what]",
-  "AT$atPauseTask": "[=who] deferred [=what]",
-  "AT$atSetBoard": "[=who] added [=what] to [=value]",
-  "AT$atUnsetBoard": "[=who] removed [=what] from [=value]",
-  "AT$atArchiveTask": "[=who] peekaboo [=what]",
-  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
-  "AT$atAddProject": "[=who] created [=what]",
-  "AT$atRemoveProject": "[=who] removed the project [=value]",
-  "AT$atEditProject": "[=who] edited [=what]",
-  "AT$atAddProjectMember": "[=who] added [=value] to [=what]",
-  "AT$atRemoveProjectMember": "[=who] removed [=value] from [=what]",
-  "AT$atAddPartnerMember": "[=who] added an external team member [=value] to [=what]",
-  "AT$atRemovePartnerMember": "[=who] removed an external team member [=value] from [=what]",
-  "AT$atTransferProject": "[=who] transferred [=what] to [=value]",
-  "AT$atExportProject": "[=who] exported [=what]",
-  "AT$atImportProject": "[=who] imported [=what] to [=value]",
-  "AT$atAddProjectComment": "[=who] commented [=what][=value]",
-  "AT$atAddProjectAttachment": "[=who] added [=value] to [=what]",
-  "AT$atRemoveProjectAttachment": "[=who] removed [=value] from [=what]",
-  "AT$atEditProjectComment": "[=who] edited a comment in [=what][=value]",
-  "AT$atRemoveProjectComment": "[=who] removed a comment in [=what]",
-  "AT$atAddTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atRemoveTag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atAddPartner": "[=who] added an external team [=value] to [=what]",
-  "AT$atRemovePartner": "[=who] removed an external team [=value] from [=what]",
-  "AT$atDuplicateProject": "[=who] created [=what] by copying from [=value]",
-  "AT$atSetPublic": "[=who] set [=what] as public",
-  "AT$atUnsetPublic": "[=who] set [=what] as private",
-  "AT$atProjectMention": "[=who] has mentioned you in [=what][=value]",
-  "AT$atGithubConfig": "[=who] connected [=what] to Github: [=value]",
-  "AT$atGithubUnconfig": "[=who] disconnected [=what] from Github: [=value]",
-  "AT$atAuthorizeProject": "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
-  "AT$atAuthorizePartner": "[=who] assigned [=extra] roles to [=value] in the external team [=extra2] of [=what]",
-  "AT$atArchiveProject": "[=who] archived [=what]",
-  "AT$atUnarchiveProject": "[=who] unarchived [=what]",
-  "AT$atAddOrganization": "[=who] created [=what]",
-  "AT$atRemoveOrganization": "[=who] removed the organization [=value]",
-  "AT$atEditOrganization": "[=who] edited [=what]",
-  "AT$atAddOrganizationMember": "[=who] added [=value] to [=what]",
-  "AT$atRemoveOrganizationMember": "[=who] removed [=value] from [=what]",
-  "AT$atAddGlobalTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atRemoveGlobalTag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atAddOApp": "[=who] added an application, [=value], to [=what]",
-  "AT$atRemoveOApp": "[=who] removed an application, [=value], from [=what]",
-  "AT$atEditOApp": "[=who] edited [=value]",
-  "AT$atPublishOApp": "[=who] published [=value]",
-  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
-  "AT$atAddShare": "[=who] created a share link, [=value], of [=what]",
-  "AT$atRemoveShare": "[=who] removed a shared link, [=value], of [=what]",
-  "AT$atAddBoard": "[=who] added a board [=value] to [=what]",
-  "AT$atRemoveBoard": "[=who] removed a board [=value] from [=what]",
-  "AT$atEditBoard": "[=who] edited the board [=value]",
-  "AT$atAddTaskState": "[=who] added [=extra] to the board [=value] in [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=extra] from the board [=value] in [=what]",
-  "AT$atSlackInstall": "[=who] connected [=what] to Slack's [=value]",
-  "AT$atSlackUninstall": "[=who] disconnected [=what] from Slack's [=value]",
-  "AT$atExportOrganization": "[=who] exported [=what]",
-  "AT$atAuthorizeOrganization": "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
-  "AT$atxInviteExisting": "[=who] invited you to join [=what]",
-  "AT$atxInviteConfirm": "[=who] accepted your invitation to join [=what]",
-  "AT$atxRemindStart": "Remember to start [=what] on [=value:due]",
-  "AT$atxRemindDue": "Remember to complete [=what] by [=value:due]",
-  "AT$atxRemindOverdue": "You missed the deadline [=value:due] of [=what]",
+  mSaying: "。コメント：[=value]",
+  mViewOnQuire: "Quireで閲覧",
+  mUnfollow: "フォローを解除",
+  mThisTask: "このタスク",
+  "AT$atAddTask": "[=who]さんが[=what][=value]を追加しました",
+  "AT$atRemoveTask": "[=who]さんが[=what][=value]を削除しました",
+  "AT$atEditTask": "[=who]さんが[=what][=value]を編集しました",
+  "AT$atMoveTask": "[=who]さんが[=what]を[=value]に移動しました",
+  "AT$atComplete": "[=who]さんが[=what]を完了しました",
+  "AT$atUncomplete": "[=who]さんが[=what]を再開しました",
+  "AT$atAssign": "[=who]さんが[=what]を[=value]に設定しました",
+  "AT$atUnassign": "[=who]さんが[=what]から[=value]の設定を解除しました",
+  "AT$atSetDue": "[=who]さんが[=what]の期限日を[=value:due]に設定しました",
+  "AT$atUnsetDue": "[=who]さんが[=what]の期限日を解除しました",
+  "AT$atSetState": "[=who]さんが[=what]の状態を[=value]に設定しました",
+  "AT$atSetStart": "[=who]さんが[=what]の開始日を[=value:due]に設定しました",
+  "AT$atUnsetStart": "[=who]さんが[=what]の開始日を解除しました",
+  "AT$atAddTaskComment": "[=who]さんが[=what][=value]にコメントしました",
+  "AT$atUndoComplete": "[=who]さんが[=what]の完了を元に戻しました",
+  "AT$atUndoRemoveTask": "[=who]さんが[=what]の消去を元に戻しました",
+  "AT$atUndoArchiveTask": "[=who]さんが[=what]を再表示しました",
+  "AT$atAddTaskAttachment": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atRemoveTaskAttachment": "[=who]さんが[=what]から[=value]を消去しました",
+  "AT$atSetPartner": "[=who]さんが[=what]を外部チーム[=value]と共有しました",
+  "AT$atUnsetPartner": "[=who]さんが[=what]から外部チームをクリアしました",
+  "AT$atEditTaskComment": "[=who]さんが[=what][=value]のコメントを編集しました",
+  "AT$atRemoveTaskComment": "[=who]さんが[=what]のコメントを消去しました",
+  "AT$atTag": "[=who]さんが[=what]にタグ[=value]を追加しました",
+  "AT$atUntag": "[=who]さんが[=what]からタグ[=value]を消去しました",
+  "AT$atTransferTask": "[=who]さんが[=what]を[=value]に移動しました",
+  "AT$atDuplicateTask": "[=who]さんが[=value]から[=what]を複製しました",
+  "AT$atTaskMention": "[=who]さんの[=what][=value]に、お名前が挙がりました",
+  "AT$atDuplicateRecurring": "[=who]さんが繰り返しのタスク[=value]から[=what]を複製しました",
+  "AT$atSetPriority": "[=who]さんが[=what]の優先度を[=value]に設定しました",
+  "AT$atSetTaskType": "[=who]さんが[=what]の種類を[=value]に設定しました",
+  "AT$atStartTask": "[=who]さんが[=what]の作業を開始しました",
+  "AT$atPauseTask": "[=who]さんが[=what]を延期しました",
+  "AT$atSetBoard": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atUnsetBoard": "[=who]さんが[=value]から[=what]を消去しました",
+  "AT$atArchiveTask": "[=who]さんが[=what]を「あとで表示」しました",
+  "AT$atUnarchiveTask": "[=who]さんが[=what]を再表示しました",
+  "AT$atAddProject": "[=who]さんが[=what]を作成しました",
+  "AT$atRemoveProject": "[=who]さんがプロジェクト[=value]を消去しました",
+  "AT$atEditProject": "[=who]さんが[=what]を編集しました",
+  "AT$atAddProjectMember": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atRemoveProjectMember": "[=who]さんが[=what]から[=value]を消去しました",
+  "AT$atAddPartnerMember": "[=who]さんが[=what]に外部チームのメンバー[=value]さんを追加しました",
+  "AT$atRemovePartnerMember": "[=who]さんが[=what]から外部チームのメンバー[=value]さんを消去しました",
+  "AT$atTransferProject": "[=who]さんが[=what]を[=value]に移動しました",
+  "AT$atExportProject": "[=who]さんが[=what]をエクスポートしました",
+  "AT$atImportProject": "[=who]さんが[=value]に[=what]をインポートしました",
+  "AT$atAddProjectComment": "[=who]さんが[=what][=value]にコメントしました",
+  "AT$atAddProjectAttachment": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atRemoveProjectAttachment": "[=who]さんが[=what]から[=value]を消去しました",
+  "AT$atEditProjectComment": "[=who]さんが[=what][=value]のコメントを編集しました",
+  "AT$atRemoveProjectComment": "[=who]さんが[=what]のコメントを消去しました",
+  "AT$atAddTag": "[=who]さんが[=what]にタグ[=value]を追加しました",
+  "AT$atRemoveTag": "[=who]さんが[=what]からタグ[=value]を消去しました",
+  "AT$atAddPartner": "[=who]さんが[=what]に外部チーム[=value]を追加しました",
+  "AT$atRemovePartner": "[=who]さんが[=what]から外部チーム[=value]を消去しました",
+  "AT$atDuplicateProject": "[=who]さんが[=value]からコピーして[=what]を作成しました",
+  "AT$atSetPublic": "[=who]さんが[=what]を公開に設定しました",
+  "AT$atUnsetPublic": "[=who]さんが[=what]をプライベートに設定しました",
+  "AT$atProjectMention": "[=who]さんの[=what][=value]に、お名前が挙がりました",
+  "AT$atGithubConfig": "[=who]さんが[=what]をGithub：[=value]に連携しました",
+  "AT$atGithubUnconfig": "[=who]さんがGithub：[=value]から[=what]の連携を解除しました",
+  "AT$atAuthorizeProject": "[=who]さんが[=value]に[=what]へアクセスするための役割[=extra]を設定しました",
+  "AT$atAuthorizePartner": "[=who]さんが[=what]の外部チーム[=extra2]の[=value]さんに役割[=extra]を設定しました",
+  "AT$atArchiveProject": "[=who]さんが[=what]をアーカイブしました",
+  "AT$atUnarchiveProject": "[=who]さんが[=what]のアーカイブを解除しました",
+  "AT$atAddOrganization": "[=who]さんが[=what]を作成しました",
+  "AT$atRemoveOrganization": "[=who]さんが組織[=value]を消去しました",
+  "AT$atEditOrganization": "[=who]さんが[=what]を編集しました",
+  "AT$atAddOrganizationMember": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atRemoveOrganizationMember": "[=who]さんが[=what]から[=value]を消去しました",
+  "AT$atAddGlobalTag": "[=who]さんが[=what]にタグ[=value]を追加しました",
+  "AT$atRemoveGlobalTag": "[=who]さんが[=what]からタグ[=value]を消去しました",
+  "AT$atAddOApp": "[=who]さんが[=what]にアプリケーション[=value]を追加しました",
+  "AT$atRemoveOApp": "[=who]さんが[=what]からアプリケーション[=value]を消去しました",
+  "AT$atEditOApp": "[=who]さんが[=value]を編集しました",
+  "AT$atPublishOApp": "[=who]さんが[=value]を公開しました",
+  "AT$atUnpublishOApp": "[=who]さんが[=value]の公開を解除しました",
+  "AT$atAddShare": "[=who]さんが[=what]の共有リンク[=value]を作成しました",
+  "AT$atRemoveShare": "[=who]さんが[=what]の共有リンク[=value]を消去しました",
+  "AT$atAddBoard": "[=who]さんが[=what]にボード[=value]を追加しました",
+  "AT$atRemoveBoard": "[=who]さんが[=what]からボード[=value]を消去しました",
+  "AT$atEditBoard": "[=who]さんがボード[=value]を編集しました",
+  "AT$atAddTaskState": "[=who]さんが[=extra]を[=what]のボード[=value]に追加しました",
+  "AT$atRemoveTaskState": "[=who]さんが[=extra]を[=what]のボード[=value]から消去しました",
+  "AT$atSlackInstall": "[=who]さんが[=what]をSlackの[=value]に連携しました",
+  "AT$atSlackUninstall": "[=who]さんがSlackの[=value]から[=what]の連携を解除しました",
+  "AT$atExportOrganization": "[=who]さんが[=what]をエクスポートしました",
+  "AT$atAuthorizeOrganization": "[=who]さんが[=value]さんに[=what]へアクセスするための役割[=extra]を設定しました",
+  "AT$atxInviteExisting": "[=who]さんから[=what]に招待されました",
+  "AT$atxInviteConfirm": "[=who]さんが招待を受けて[=what]に参加しました",
+  "AT$atxRemindStart":"必ず[=value:due]に[=what]を開始しましょう",
+  "AT$atxRemindDue":"必ず[=value:due]までに[=what]を完了しましょう",
+  "AT$atxRemindOverdue":"[=what]の期限[=value:due]を過ぎました",
   "AT$atxGithubError":
-    "We cannot access [=value] due to [=extra]. "
-    "Please check your Github configuration for [=what].",
-  mUnsubscribe: "Unsubscription",
-  mUnsubscribeSuccess: "You have unsubscribed [=target] successfully.",
+    "[=extra]のため、[=value]にアクセスできません。"
+    "[=what]について、Githubの設定を確認してください。",
+  mUnsubscribe:"配信を停止",
+  mUnsubscribeSuccess:"[=target]への配信を停止しました。",
   mUnsubscribeTargetFailed:
-    'Oops... failed to unsubscribe <code>[=target]</code>. It might be removed. '
-    'Please <a href="/w">browse your tasks here</a>.',
+    '<code>[=target]</code>への配信停止に失敗しました。消去された可能性があります。'
+    '<a href="/w">ここからタスクを確認</a>してください。',
   mUnsubscribeFailed:
-    'Sorry, the unsubscription link has been expired. '
-    'Please update <a href="/r/setting">your preferences here</a>.',
-  mUnsubscribeAutoSuccess: "You ([=email]) have unsubscribed [=target] successfully.",
-  mUnsubscribeAll: "You ([=email]) have unsubscribed notifications and messages from Quire successfully.",
-  mKeyShortcuts: 'Keyboard Shortcuts (F1)',
-  mKeyShortcutsTitle: 'Keyboard Shortcuts',
-  mKeyNavigate: 'Navigate different task or function',
-  mKeyMoveTask: 'Move tasks vertically or horizontally',
-  mKeyMultipleSelect: 'Select multiple tasks',
-  mKeyF1: 'Keyboard shortcuts',
-  mKeyEditTask: 'Edit task name',
-  mKeyEditTaskDesc: 'Edit task description',
-  mKeyCreateRootTask: 'Add new task at first level',
-  mKeyCreateTask: 'Add new task',
-  mKeyCreateSubtask: 'Add new subtask',
-  mKeyDeleteTask: 'Delete selected tasks',
-  mKeyCollapseTask: 'Collapse or expand tasks by level',
-  mKeySwitchViews: 'Switch views',
-  mKeyBlinkSearch: 'Blink search projects, members, etc.',
-  mKeySearchTask: 'Search tasks and comments',
-  mKeyCompleteTask: 'Complete selected tasks',
-  mKeyAssign: 'Assign..',
-  mKeyDueDate: 'Set due date',
-  mKeyAddTag: 'Add tag',
-  mKeyAddComment: 'Add comment',
-  mKeyOpenUndoList: 'Open undo operation list',
-  mKeyPrint: 'Print tasks',
-  mKeyDrillDown: 'Zoom in or out selected task',
-  mKeyQuote: 'Quote selected text in your reply',
-  mKeyComment: 'Comment selected task',
-  mKeySelfAssign: 'Self-assign selected task',
-  mKeyAssignTask: 'Administer selected task',
-  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board',
-  mKeyIndent: 'Indent task in edit mode',
-  mKeyToggleHint: 'Show task ID and more',
-  mKeyCopyHint: "Copy selected task",
-  mKeyCutHint: "Cut selected task",
-  mKeyPasteHint: "Paste what you cut or copied as tasks",
-  mKeyToggleDetail: "Open or hide detail panel",
+    '申し訳ありません。配信停止用リンクの有効期限切れです。'
+    '<a href="/r/setting">ここから個人設定</a>を更新してください。',
+  mUnsubscribeAutoSuccess:"([=email])への[=target]の配信を停止しました。",
+  mUnsubscribeAll:"([=email])へのQuireからの通知やメッセージの配信を停止しました。",
+  mKeyShortcuts:'キーボードショートカット (F1)',
+  mKeyShortcutsTitle:'キーボードショートカット',
+  mKeyNavigate:'タスク間や機能間で焦点を移動',
+  mKeyMoveTask:'タスクを横や上下に移動',
+  mKeyMultipleSelect:'複数のタスクを選択',
+  mKeyF1:'キーボードショートカット,
+  mKeyEditTask:'タスク名を編集',
+  mKeyEditTaskDesc:'タスクの説明を編集',
+  mKeyCreateRootTask:'レベル1に新しいタスクを追加',
+  mKeyCreateTask:'新しいタスクを追加',
+  mKeyCreateSubtask:'新しい子タスクを追加',
+  mKeyDeleteTask:'選択したタスクを削除',
+  mKeyCollapseTask:'タスクをレベルごとに折りたたみまたは展開',
+  mKeySwitchViews:'表示の切り替え',
+  mKeyBlinkSearch:'プロジェクトやメンバーをサクサク検索',
+  mKeySearchTask:'タスクとコメントを検索',
+  mKeyCompleteTask:'選択したタスクを完了',
+  mKeyAssign:'担当を設定..',
+  mKeyDueDate:'期限日を設定',
+  mKeyAddTag:'タグを追加',
+  mKeyAddComment:'コメントを追加',
+  mKeyOpenUndoList:'元に戻す操作を一覧',
+  mKeyPrint:'タスクを印刷',
+  mKeyDrillDown:'選択したタスクをズームインまたはズームアウト',
+  mKeyQuote:'選択した文章を返信に引用',
+  mKeyComment:'選択したタスクにコメント',
+  mKeySelfAssign:'選択したタスクを自分の担当に設定',
+  mKeyAssignTask:'選択したタスクを管理',
+  mKeyAssignTaskProperties: '担当に設定、状態、タグ、期限、優先度、ボード',
+  mKeyIndent:'編集モードでタスクのレベルを変更',
+  mKeyToggleHint:'タスクIDなどを表示',
+  mKeyCopyHint:"選択したタスクをコピー",
+  mKeyCutHint:"選択したタスクをカット",
+  mKeyPasteHint:"カットまたはコピーしたタスクをペースト",
+  mKeyToggleDetail:"詳細パネルを表示または非表示",
   mKeyLearnMore:
-    'Learn more about how to use Quire with keyboard only '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
-  mMarkdownIntro: 'Markdown',
-  mMDHeader3: 'Headers',
-  mMDItalic: 'Italic',
-  mMDBold: 'Bold',
-  mMDUnderline: 'Underline',
-  mMDColoring: 'Coloring',
-  mMDOrderedList: 'Numbered List',
-  mMDUnorderedList: 'Bulleted List',
-  mMDCheckList: 'Checklist',
-  mMDLink: 'Link',
+    'キーボードだけでQuireを操作する方法について、詳しくは'
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">ここ</a>をクリックしてください。',
+  mMarkdownIntro:'マークダウン記法',
+  mMDHeader3:'見出し',
+  mMDItalic:'斜体字',
+  mMDBold:'太字',
+  mMDUnderline:'下線',
+  mMDColoring:'色付け',
+  mMDOrderedList:'番号付きリスト',
+  mMDUnorderedList:'記号付きリスト',
+  mMDCheckList:'チェックリスト',
+  mMDLink:'リンク',
   mMDMention:
-    'You can also use <b><i>@user_name</i></b> '
-    'and <b><i>#task_name</i></b> for mention and reference.',
+    '名前を挙げるまたは参照するには、<b><i>@user_name</i></b>や'
+    '<b><i>#task_name</i></b>も使えます。',
   mMDAbout:
-    'More about <a target="_blank" href="'
+    '<a target="_blank" href="'
     '/blog/p/Our-Very-Own-Markdown.html">'
-    'Quire flavored Markdown</a>',
-  mStatsHealthSec: "Progress Stats",
-  mStatsProgressChartSec: "Progress Stats",
-  mStatsProjectSummarySec: "Project Summary",
-  mStatsWeeklySummarySec: "Weekly Summary",
-  mArchivedProjects: "Archived projects",
-  mStatsWeeklyTodosLabel: "To-dos",
-  mSettingProfileSec: "Profile",
-  mSettingBasicsSec: "Basics",
-  mSettingApplicationsSec: "Applications",
-  mSettingAdditionalSec: "Advanced",
-  mSettingMemberSec: "Members",
-  mSettingMemberCountSec: "Member count",
-  mSettingExternalTeamsSec: "External Teams",
-  mSettingShareLinksSec: "Shared Links",
-  mSettingShareLinksDesc: "Share a link of your project with your clients so they can access it without signup.",
-  mSettingProjectSec: "Projects",
-  mSettingTagSec: "Tags",
-  mSettingFeatureSec: "Features",
-  mSettingIntegrationSec: "Integrations",
-  mSettingReminderSec: "Reminders",
-  mSettingEmailSec: "Email Notifications",
-  mSettingProjectPrefSec: "Project Preferences",
-  mSettingCalTitle: "Calendar",
-  mSettingCalDesc: "Sync incomplete tasks with due dates to Google Calendar, iCal or others.",
-  mSettingCalBtnTitle: "Sync",
-  mSettingGithubTitle: "GitHub",
-  mSettingGithubDesc: "Link GitHub commits to your tasks.",
-  mSettingGithubBtnTitle: "Integrate",
-  mSettingSlackTitle: "Slack",
-  mSettingSlackDesc: "Link this organization to a Slack team to collaborate on projects from within Slack.",
-  mSettingSlackBtnTitle: "Add to Slack",
-  mSettingSlackTeamsDesc: "This organization is linked to the following Slack teams:",
-  mSettingAppInfo: 'Display Info',
-  mSettingAppOption: 'Settings',
-  mSettingAppDistribution: 'Distribution',
-  mSettingAppSec: "Apps",
-  mSettingAppAuthSec: "Authorized Apps",
+    'Quire式マークダウン記法</a>の詳しい説明',
+  mStatsHealthSec:"進捗チャート",
+  mStatsProgressChartSec:"進捗チャート",
+  mStatsProjectSummarySec:"プロジェクトの概況",
+  mStatsWeeklySummarySec:"週間概況",
+  mArchivedProjects:"アーカイブのプロジェクト",
+  mStatsWeeklyTodosLabel:"開始前",
+  mSettingProfileSec:"プロフィール",
+  mSettingBasicsSec:"基本設定",
+  mSettingApplicationsSec:"アプリケーション",
+  mSettingAdditionalSec:"詳細設定",
+  mSettingMemberSec:"メンバー",
+  mSettingMemberCountSec:"メンバー数",
+  mSettingExternalTeamsSec:"外部チーム",
+  mSettingShareLinksSec:"共有リンク",
+  mSettingShareLinksDesc:"プロジェクトのリンクを共有して、顧客が登録不要でアクセスできるようにしましょう。",
+  mSettingProjectSec:"プロジェクト",
+  mSettingTagSec:"タグ",
+  mSettingFeatureSec:"特徴",
+  mSettingIntegrationSec:"連携",
+  mSettingReminderSec:"通知",
+  mSettingEmailSec:"メールで通知,
+  mSettingProjectPrefSec:"プロジェクトの設定",
+  mSettingCalTitle:"カレンダー",
+  mSettingCalDesc:"期限日がある未完了のタスクを、GoogleカレンダーやiCalと同期します。",
+  mSettingCalBtnTitle:"同期",
+  mSettingGithubTitle:"GitHub",
+  mSettingGithubDesc:"GitHubのcommitをタスクにリンクします。",
+  mSettingGithubBtnTitle:"連携",
+  mSettingSlackTitle:"Slack",
+  mSettingSlackDesc:"この組織をSlackチームにリンクし、Slackで共同してプロジェクトを進めます。",
+  mSettingSlackBtnTitle:"Slackに追加",
+  mSettingSlackTeamsDesc:"この組織は、次のSlackチームにリンクされています。",
+  mSettingAppInfo:'表示情報',
+  mSettingAppOption:'設定',
+  mSettingAppDistribution:'配布',
+  mSettingAppSec:"アプリ",
+  mSettingAppAuthSec:"認証済みのアプリ",
   mSettingAppAuthSecDesc:
-    'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
-  mAppListAuthTarget: 'Access to',
-  mOauthViewTitle: "Grant Permissions",
-  mOauthViewDesc: "[=name] will be able to:",
-  mOauthSlackSuccessViewTitle: "You are all set!",
+    '次のアプリをQuireで認証しました。連携について、詳しくは'
+    '<a href="/apps" target="_blank">Quireアプリディレクトリ</a>をチェックしてください。',
+  mAppListAuthTarget:'アクセス',
+  mOauthViewTitle:"許可する",
+  mOauthViewDesc: "[=name]さんは、次のことが許可されます。",
+  mOauthSlackSuccessViewTitle:"準備できました",
   mOauthSlackSuccessViewDesc:
-    'Slack has succesfully authenticated with Quire.<br>'
-    'Type <b>/quire</b> in Slack to get started.',
-  mOauthSlackErrorViewTitle: "Uh oh!",
+    'SlackでQuireが認証されました。<br>'
+    'Slackに<b>/quire</b>と入力して、開始します。',
+  mOauthSlackErrorViewTitle:"残念！",
   mOauthSlackErrorViewDesc:
-    'There was an error linking your account, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
-  mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
-  mBoardIntroduce: 'You can manage your tasks visually in one or more boards. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
-  mSettingPictureLabel: "Picture",
-  mOrganizationProfile: "Organization Profile",
-  mMYProfile: "My Profile",
-  mMyQuireApps: "My Apps",
-  mUserProfile: "User Profile",
-  mAccountSettings: "Account Settings",
-  mRecommendQuire: "Recommend Quire",
-  mAddNewLink: "Create new link",
-  mViewMember: "View all members",
-  mDeleteMYAccount: "Delete account",
-  mSettingOptionLeaveOrganization: "Leave organization",
-  mSettingOptionDeleteOrganization: "Delete organization",
-  mSettingOptionManageDeveloperApps: "Manage Developer Apps",
-  mChangeProfileVisibility: "Change profile visibility",
-  mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
-  mProfileVisibilityMember: "Non-member users cannot access your profile page.",
-  mBasicInformation: "Basic Information",
-  mTasks: "Tasks",
-  mProjects: "Projects",
-  mOrganizations: "Organizations",
-  mOrganizationsAndProjects: "Organizations and Projects",
-  mOrganizationsPicture: "Organization Picture",
-  mMembers: "Members",
-  mRecentActivities: "Recent Activities",
-  mUpdateFromQuire: "Updates from Quire",
-  mMembersSecDesc: "Members in an organization have access to any project belonging to it.",
+    'アカウントのリンク中に、エラーが発生しました。再度お試しください。'
+    'エラーが解消しない場合は、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
+  mCalendarSyncDesc:"同期するタスクを選んでください。",
+  mCalendarSyncSetting: "[=where]の[=tasks]",
+  mBoardIntroduce:'ボードでタスクを可視化して管理できます。詳しくは<a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">ここをクリック</a>してください。',
+  mSettingPictureLabel:"画像",
+  mOrganizationProfile:"組織のプロフィール",
+  mMYProfile:"自分のプロフィール",
+  mMyQuireApps:"自分のアプリ",
+  mUserProfile:"ユーザーのプロフィール",
+  mAccountSettings:"アカウントの設定",
+  mRecommendQuire:"Quireをおすすめする",
+  mAddNewLink:"新しいリンクを作成",
+  mViewMember:"すべてのメンバーを表示",
+  mDeleteMYAccount:"アカウントを削除",
+  mSettingOptionLeaveOrganization:"組織を退出",
+  mSettingOptionDeleteOrganization:"組織を削除",
+  mSettingOptionManageDeveloperApps:"開発者アプリを管理",
+  mChangeProfileVisibility:"プロフィールの公開範囲を変更",
+  mProfileVisibilityAll:"メンバー以外のユーザーは、メールアドレスを除いて、あなたの基本情報を閲覧できます。",
+  mProfileVisibilityMember:"メンバー以外のユーザーは、あなたのプロフィールにアクセスできません。",
+  mBasicInformation:"基本情報",
+  mTasks:"タスク",
+  mProjects:"プロジェクト",
+  mOrganizations:"組織",
+  mOrganizationsAndProjects:"組織とプロジェクト",
+  mOrganizationsPicture:"組織の画像",
+  mMembers:"メンバー",
+  mRecentActivities:"アクティビティー履歴",
+  mUpdateFromQuire:"Quireからのお知らせ",
+  mMembersSecDesc:"組織のメンバーは、所属組織のプロジェクトにアクセスできます。",
   mIntegraGithubDesc:
-    "Select one or more repositories you want to connect to. "
-    "You can uncheck those you have selected.",
-  mIntegraGithubRepo: "Repositories",
-  mIntegraGithubErrorTitle: "Authentication Failed",
-  mIntegraGithubErrorDesc: "Oops...there seems to be a connection problem. Please try again.",
-  mIntegraSlackErrorTitle: "Uh oh!",
+    "連携するリポジトリを選択してください。"
+    "選択後にチェックをはずすことができます。",
+  mIntegraGithubRepo:"リポジトリ",
+  mIntegraGithubErrorTitle:"認証に失敗",
+  mIntegraGithubErrorDesc:"接続に問題が発生したようです。再度お試しください。",
+  mIntegraSlackErrorTitle:"残念！",
   mIntegraSlackErrorDesc:
-    'There was an error linking your organization, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
-  mGeneral: "General",
-  mOrganizationUrl: "Org URL",
-  mCrossProjectUrl: "Smart folder URL",
-  mProfileUrl: "Profile URL",
-  mCompany: "Company",
-  mActive: "Incomplete",
-  mEmailNotifications: "Email Notifications",
-  mPerUpdate: "Per Update",
-  mHourly: "Hourly",
-  mDaily: "Daily",
-  mWeekly: "Weekly",
-  mStartedAt: "Started",
-  mCompletedAt: "Completed",
-  mSendActivityNotification: "Send Activity Notifications",
-  mActivityNotice: "Activity Notifications",
-  mReceiveBlogPosts: "New blog posts",
-  mReceivePolicyUpdates: "Updates about Quire membership and policy",
-  mReceiveFeatureUpdates: "Updates about product and feature release",
-  mReceiveSurvey: "Receive Quire research survey",
-  mReminders: "Task Reminders",
-  mRemindAdvance: "Remind Upcoming Tasks",
-  m12hrBefore: "12 hrs before",
-  m1dayBefore: "1 day before",
-  m2dayBefore: "2 days before",
-  m3dayBefore: "3 days before",
-  mStartOFDay: "At start of the day",
-  mStartOFWeek: "At start of the week",
-  mRemindTime: "Remind Upcoming Tasks with Time",
-  m0MinutesBefore: "At the time",
-  m15MinutesBefore: "15 mins before",
-  m30MinutesBefore: "30 mins before",
-  m1hrBefore: "1 hr before",
-  m2hrBefore: "2 hrs before",
-  mRemindOverdue: "Remind Overdue Tasks",
-  mNextDay: "Next day",
-  m2dayLater: "2 days later",
-  mStartOFNextWeek: "At start of next week",
-  mRemindDefaultTime: "Reminder Time",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
-  mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
-  mAutoAssignToMe: 'Automatically assign new tasks to myself',
-  mDeveloperConsoleTitle: "Apps",
+    '組織のリンク中に、エラーが発生しました。再度お試しください。'
+    'エラーが解消しない場合は、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
+  mGeneral:"基本設定",
+  mOrganizationUrl:"組織のURL",
+  mCrossProjectUrl:"スマートフォルダーのURL",
+  mProfileUrl:"プロフィールのURL",
+  mCompany:"会社",
+  mActive:"未完了",
+  mEmailNotifications:"メール通知",
+  mPerUpdate:"更新ごと",
+  mHourly:"毎時間",
+  mDaily:"毎日",
+  mWeekly:"毎週",
+  mStartedAt:"開始",
+  mCompletedAt:"完了",
+  mSendActivityNotification:"アクティビティーの通知を送信",
+  mActivityNotice:"アクティビティーの通知",
+  mReceiveBlogPosts:"ブログの最新記事",
+  mReceivePolicyUpdates:"Quire会員登録とポリシーについてのお知らせ",
+  mReceiveFeatureUpdates:"新製品や新機能についてのお知らせ",
+  mReceiveSurvey:"Quireのアンケートを受信",
+  mReminders:"タスクに関する予定の通知",
+  mRemindAdvance:"もうすぐ開始のタスクを通知",
+  m12hrBefore:"12時間前",
+  m1dayBefore:"1日前",
+  m2dayBefore:"2日前",
+  m3dayBefore:"3日前",
+  mStartOFDay:"1日の初め",
+  mStartOFWeek:"週の初め",
+  mRemindTime:"もうすぐ開始のタスクを通知（時間で設定）",
+  m0MinutesBefore:"開始時",
+  m15MinutesBefore:"15分前",
+  m30MinutesBefore:"30分前",
+  m1hrBefore:"1時間前",
+  m2hrBefore:"2時間前",
+  mRemindOverdue:"期限日超過のタスクを通知",
+  mNextDay:"翌日",
+  m2dayLater:"2日後",
+  mStartOFNextWeek:"翌週の初め",
+  mRemindDefaultTime:"通知時間",
+  mCollapseAllSubtaskByDefault:'デフォルトでは子タスクを折りたたむ',
+  mShowFavoritedMyTasks:'「自分のタスク」にお気に入りのタスクを表示',
+  mAutoAssignToMe:'新しいタスクを自動的に自分に設定',
+  mDeveloperConsoleTitle:"アプリ",
   mDeveloperConsoleIntro:
-    'Build an app that makes Quire an even better experience for you and your team!</br>'
-    "If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submission Date',
-  mAppDistributeListStatus: 'App Status',
-  mAppDirectoryHeader: "App Directory",
-  mAppDirectoryTitle: "Quire & Beyond",
-  mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
-  mAppSearchPlaceholder: "Search Apps",
-  mAppDirectoryBackApps: 'Browse Apps',
-  mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
-  mAppDeveloperHeader: "Developers",
-  mAppDeveloperTitle: "Build great things with Quire!",
-  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
-  mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
-  mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
-  mAppDeveloperStartButton: 'Start building',
-  mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
-  mAppUpdateAt: 'Last updated: [=when]',
-  mAppVisitWebsite: "Visit Developer Website",
-  mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButton: 'Install',
-  mAppInstallLabel: 'Installed',
-  mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
-  mAppAuthTarget: '[=app] will have access to:',
-  mAppAuthSpecifyTarget: 'A specific organization or project',
-  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
-  mAppAuthSpecifyOrganization: 'Specify an organization',
-  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
-  mAppAuthSpecifyProject: 'Specify a project',
-  mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: "Allow app to access my team members' email addresses",
-  mAlreadySignedUP: "[=email] already signed up",
+    'ご自身やチームがQuireをもっと楽しめるようなアプリを開発しませんか。</br>'
+    "始め方が分からないときは、連携のための<a href='/doc/api/'>開発者ドキュメント</a>を参照してください。",
+  mAppListLastUpdate:'最新の更新',
+  mAppDistributeListDate:'提出日',
+  mAppDistributeListStatus:'アプリの状態',
+  mAppDirectoryHeader:"アプリディレクトリ",
+  mAppDirectoryTitle:"もっとQuire",
+  mAppDirectoryTitleIntro:'プロジェクト管理をより楽しくかんたんにする、おすすめの連携アプリです。',
+  mAppSearchPlaceholder:"検索アプリ",
+  mAppDirectoryBackApps:'閲覧アプリ',
+  mAppDirectorySidebarItems: 'popular＝人気;new＝最新;quire＝Quire作成;=すべて',
+  mAppDeveloperHeader:"開発者",
+  mAppDeveloperTitle:"Quireと一緒に、すごいものを作りましょう！",
+  mAppDeveloperTitleIntro:'Quireの開発者たちと一緒に、ご自身やチームがQuireをもっと楽しむためのアプリを開発しませんか。',
+  mAppDeveloperDocDesc:'Quire APIについては、開発者ドキュメントで詳しく説明しています',
+  mAppDeveloperTutorialDesc:'Quire APIでのアプリ作成は、開発者チュートリアルで学ぶことができます',
+  mAppDeveloperStartButton:'作成を開始',
+  mAppCreatedBy: '開発者：[=company]',
+  mAppInstalledDesc:'このアプリはすでにインストールされています。詳しくは[=setting]をご確認ください。',
+  mAppUpdateAt:'最新の更新：[=when]',
+  mAppVisitWebsite:"開発者サイトを訪問",
+  mAppContactDeveloper:'アプリ開発者に連絡',
+  mAppInstallButton:'インストール',
+  mAppInstallLabel:'インストール済み',
+  mAppAuthDesc:'[=app]は認証されると、次の動作ができます。',
+  mAppAuthTarget: '[=app]は次のデータにアクセスできます。',
+  mAppAuthSpecifyTarget:'指定の組織やプロジェクト',
+  mAppAuthSpecifyTargetDesc:'組織またはプロジェクトを選択',
+  mAppAuthSpecifyOrganization:'組織を指定',
+  mAppAuthSpecifyOrganizationDesc:'組織を選択',
+  mAppAuthSpecifyProject:'プロジェクトを指定',
+  mAppAuthSpecifyProjectDesc:'プロジェクトを選択',
+  mAppAuthContact:"チームメンバーのメールアドレスにアプリがアクセスすることを許可",
+  mAlreadySignedUP: "[=email]はすでに登録されています",
   mNotSignedUPAndRedirect:
-    "You have not confirmed your signup yet.<br>"
-    "Please check your inbox or spam folder for the confirmation email, "
-    'or <a href="/signup?email=[=email]">sign up again</a>.',
-  mGplusAuthorizeErrorTitle: "Google authorization failed",
-  mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
-  mTransferProjectToSameOrganization: "This project is already in the organization you specified.",
-  mTransferTaskToSameProject: "This task is already in the project you specified.",
-  mTransferTargetNotExist: "The target no longer exists.",
-  mTaskNotExist: "This task has been deleted.",
-  mProjectNotExist: "This project has been deleted.",
-  mReloadData: "Data inconsistency detected. Synchronized with the server.",
-  mThanksFeedback: "Thank You! Your feedback is most valuable to us.<br>We'll get back to you ASAP!",
+    "登録が確認されていません。<br>"
+    "確認用メールが受信箱または迷惑メールフォルダーに届いているか確かめるか、"
+    '<a href="/signup?email=[=email]">再度登録</a>してください。',
+  mGplusAuthorizeErrorTitle:"Google認証に失敗しました",
+  mGplusAuthorizeError:"Google認証に失敗しました。再度お試しください。",
+  mTransferProjectToSameOrganization:"このプロジェクトは、すでに指定した組織にあります。",
+  mTransferTaskToSameProject:"このタスクは、すでに指定したプロジェクトにあります。",
+  mTransferTargetNotExist:"ターゲットが見つかりません。",
+  mTaskNotExist:"このタスクは削除されました。",
+  mProjectNotExist:"このプロジェクトは削除されました。",
+  mReloadData:"データに不整合が発生しました。サーバーと同期してください。", 
+  mThanksFeedback:"貴重なご意見をありがとうございます！<br>できるだけ迅速に対応します。",
   mThanksFeedbackTask:
-    "Thank You! Your feedback is most valuable to us.<br>We created a task for it. "
-    'You can <a href="[=url]">follow it here</a>.',
-  mTipF1: "Tip: Press F1 to see keyboard shortcuts",
-  mTipSelectMultiple: "Tip: Select multiple tasks by <code>[=ctrlCommand]+Click</code> or <code>Shift+Click</code>",
-  mTipMention: 'Tip: Enter <b><i>@user_name</i></b> in descriptions or comments to mention someone',
-  mTipReference: 'Tip: Enter <b><i>#task_name</i></b> in descriptions or comments to reference a task',
-  mTipDrillDown: 'Tip: Zoom in a task by <code>[=ctrlCommand]+I</code> to only see its subtasks',
+    "貴重なご意見をありがとうございます！<br>対応のためにタスクを作成しました。"
+    '<a href="[=url]">ここをクリック</a>して、フォローできます。',
+  mTipF1:"ヒント：「F1」キーを押して、キーボードショートカットを表示",
+  mTipSelectMultiple:"ヒント：<code>[=ctrlCommand]+クリック</code>または<code>Shift+クリック</code>で、複数のタスクを選択",
+  mTipMention:'ヒント：説明またはコメントに「<b><i>@user_name</i>」と</b>入力して、名前を挙げる',
+  mTipReference:'ヒント：説明またはコメントに<b><i>#task_name</i>と</b>入力して、タスクを参照',
+  mTipDrillDown:'ヒント：<code>[=ctrlCommand]+I</code>でタスクにズームインし、子タスクのみを表示',
   mTipTwitter:
-    'Tip: Follow us on <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'for recent updates',
+    'ヒント：<a href="https://twitter.com/quire_io" target="_blank">Twitter</a>でフォローして'
+    'お知らせを確認',
   mTipMarkdown:
-    'Tip: Write descriptions and comments in '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> for better style',
+    'ヒント：'<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">マークダウン記法</a>で書式を設定して'
+    説明またはコメントを記入',
   mTipMoveTask:
-    'Tip: Move a task by <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> and '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Tip: Indent your task while in edit mode! Press <code>Tab</code> or <code>Shift+Tab</code>',
+    'ヒント：<code>[=ctrlAlt]+↑</code>'
+    '<code>[=ctrlAlt]+↓</i></code>'
+    '<code>[=ctrlAlt]+←</i></code>'
+    '<code>[=ctrlAlt]+→</code>で、タスクを移動',
+  mTipTabMove:'ヒント：編集モードでタスクのレベルを変更するには、<code>Tab</code>または<code>Shift+Tab</code>キーを押します',
   mTipInvite:
-    'Enjoying Quire? <a href="/invite">Invite your friends</a>, '
-    'or <a href="/feedback">share with us</a> on how we can be better!',
+    'Quireを気に入っていただけたら、<a href="/invite">ご友人をご招待</a>'
+    'または改善点を<a href="/feedback">お知らせ</a>ください！',
   mTipPrint:
-    'Tip: Keep a hard copy of your tasks! <a href="javascript:window.print()">Print</a> '
-    'them via <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
+    'ヒント：<code>[=ctrlCommand]+P</code>で、タスクを'
+    '<a href="javascript:window.print()">印刷</a>して保存',
+  mTipTaskId:'ヒント：<code>[=ctrlAlt]</code>キーを押して、タスクIDとパンくずリストを表示',
   mTipAssignInTaskName:
-    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> and <code>^</code> when naming your task for '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',
+    'ヒント：<code>@</code>、<code>#</code>、<code>!</code>、<code>&lt;</code>、<code>^</code>を入力して'
+    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">かんたんに追加</a>',
   mTipChromeExtension:
-    'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
-    'to quickly access Quire and get notified',
+    'ヒント：<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chromeの拡張機能</a>を追加して、'
+    'かんたんにQuireにアクセスし、通知を受け取る',
   mTipRightClick:
-    'Tip: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Right click</a> '
-    'on tasks to easily set assignees, priority and more!',
+    'ヒント：タスクを<a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">右クリック</a>して、'
+    '担当者や優先度をかんたんに設定',
   mTipShiftLR:
-    'Tip: Press <code>Shift+←</code> or '
-    '<code>Shift+→</code> to collapse or expand all tasks level by level',
+    'ヒント：<code>Shift+←</code>または'
+    '<code>Shift+→</code>キーを押して、タスクをレベルごとに折りたたみまたは展開',
   mTipPaste:
-    'Tip: Press <code>[=ctrlCommand]+V</code> to <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">paste</a> '
-    'what you copied as tasks directly',
-  mTipCrossProject: 'Tip: Add a smart folder to view all tasks across different projects',
-  mTipBlinkSearch: 'Tip: Blink search (<code>[=ctrlCommand]+B</code>) is an easy way to find almost anything in your workspace',
-  mTipDarkTheme: 'Tip: <a href="/r/setting?tab=options">Select the dark theme</a> when your eyes grow weary at night',
-  mTipSwipe: 'Tip: Swipe to complete, add or delete tasks(s)',
-  mIntegraInvalidOptions: "The configuration is incorrect",
+    'ヒント：<code>[=ctrlCommand]+V</code>キーを押して、コピーしたデータを'
+    'タスクとして<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">ペースト</a>',
+  mTipCrossProject:'ヒント：スマートフォルダーを追加して、すべてのプロジェクトで担当しているタスクを閲覧',
+  mTipBlinkSearch:'ヒント：サクサク検索(<code>[=ctrlCommand]+B</code>)は、ワークスペースの検索に便利な機能です',
+  mTipDarkTheme:'ヒント：夜の作業で目が疲れたら、<a href="/r/setting?tab=options">黒基調のテーマを選択</a>',
+  mTipSwipe:'ヒント：スワイプしてタスクを完了、追加、または削除',
+  mIntegraInvalidOptions:"設定が正しくありません。",
   mTooManyNewOrgagnizations:
-    "You have added too many organizations in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "一定の時間内に追加できる組織数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTooManyNewProjects:
-    "You have added too many projects in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "一定の時間内に追加できるプロジェクト数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTooManyNewTasks:
-    "You have added too many tasks in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "一定の時間内に追加できるタスク数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTooManyInvites:
-    "You have invited too many members in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "一定の時間内に招待できるメンバー数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTooManyFriendInvites:
-    "You have invited too many friends in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "一定の時間内に招待できる友人数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTooManyRequests:
-    "You have made the same request too many times in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for help.',
+    "一定の時間内に送信できる同じリクエストの件数の上限を超えました。"
+    '数時間後に再度試すか、<a href="mailto:support@quire.io">私たちまでお問い合わせ</a>ください。',
   mBlocked:
-    'Sorry, you have violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>. '
-    'Please wait for [=hours] hours, or <a href="mailto:support@quire.io">contact us</a> for support.',
+    '申し訳ありません。<a href="https://quire.io/terms" target="_blank">利用規約</a>に違反しました。'
+    '[=hours]時間後に再度試すか、私たちまで<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
   mOrganizationLimit:
-    "Unable to add a new organization. Currently, the maximum number of organizations allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "新しい組織を追加できません。追加できる組織数の上限は([=size])組です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mProjectLimit:
-    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "新しいプロジェクトを[=organization]に追加できません。追加できるプロジェクト数の上限は([=size])件です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mMemberLimit:
-    "Unable to add a new member to [=organization]. "
-    "Currently, the maximum number of members allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "新しいメンバーを[=organization]に追加できません。"
+    "追加できるメンバー数の上限は<b>[=size]</b>人です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTaskLimit:
-    "Unable to add a new task. Currently, the maximum number of tasks allowed is ([=size]). "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "新しいタスクを追加できません。追加できるタスク数の上限は([=size])件です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mAppAccessInHourLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Quire APIにアクセスできる回数の上限は、1時間につき<b>[=size]</b>回です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mAppAccessInMinuteLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
-  mDenyLeaveDueToOnlyAdmin: "Sorry, you cannot leave because you are the only admin left.",
+    "Quire APIにアクセスできる回数の上限は、1分につき<b>[=size]</b>回です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
+  mDenyLeaveDueToOnlyAdmin:"申し訳ありません。他に管理者がいないので、退出できません。",
   mSlackError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <https://quire.io/feedback|contact us>.',
-  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
-  mSlackNeedLinkQuireAccount: 'Hello! We need you to link to your Quire account first. It only takes a few seconds, and you will be ready to go.',
-  mSlackNeedLinkQuireAccountBtn: '<[=url]|Link Quire Account>',
-  mSlackLinkQuireAccountOK: 'You have successfully linked to your Quire account.',
-  mSlackSimpleHelpTitle: 'Here are some commands to get you started.',
-  mSlackSimpleHelpAdd: 'Add a task, and assign it to team members',
+    '申し訳ありません。予期しないエラーが発生しました。'
+    "問題の解決に努めていますが、"
+    'お気軽に<https://quire.io/feedback|お問い合わせ>ください。',
+  mSlackNotAllowed:'このアクションを実行する権限がありません。管理者にお問い合わせください。',
+  mSlackNeedLinkQuireAccount:'こんにちは！まずQuireのアカウントにリンクしてください。数秒ですぐにご利用を開始できます。',
+  mSlackNeedLinkQuireAccountBtn: '<[=url]|Quireのアカウントにリンク>',
+  mSlackLinkQuireAccountOK:'Quireのアカウントにリンクしました。',
+  mSlackSimpleHelpTitle:'基本的なコマンドをご紹介します。',
+  mSlackSimpleHelpAdd:'タスクを追加してチームメンバーに設定',
   mSlackSimpleHelpAddExample:
-    '`/quire add [task name] [@team member name] [@team member name]`\n'
-    'Example: `/quire add Design new logo @eric @jess`',
-  mSlackSimpleHelpComment: 'Add a comment to a task',
+    '`/quire add [タスク名] [@チームメンバー名] [@チームメンバー名]`\n'
+    '例：`/quire add Design new logo @eric @jess`',
+  mSlackSimpleHelpComment:'タスクにコメントを追加',
   mSlackSimpleHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackSimpleHelpFollow: 'Follow a task or project',
+    '`/quire comment [タスクID] comment`\n'
+    '例：`/quire comment 123 This looks awesome!`',
+  mSlackSimpleHelpFollow:'タスクまたはプロジェクトをフォロー',
   mSlackSimpleHelpFollowExample:
-    '`/quire follow [task ID or project ID]`\n'
-    'Example: `/quire follow 123`\n'
-    'Example: `/quire follow Development_Project`',
-  mSlackSimpleHelpMore: 'More commands are available here `/quire help`.',
-  mSlackHelpAdd: 'Add a task',
+    '`/quire follow [タスクIDまたはプロジェクトID]`\n'
+    '例：`/quire follow 123`\n'
+    '例：`/quire follow Development_Project`',
+  mSlackSimpleHelpMore:'コマンドについて、詳しくは`/quire help`をご覧ください。',
+  mSlackHelpAdd:'タスクを追加',
   mSlackHelpAddExample:
-    '`/quire add [task name]`\n'
-    '`/quire add [under or after] [parent or sibling id] [task name]`\n'
-    'Example: `/quire add Design new logo @eric @jess\n'
-    'Example: `/quire add under 10 Logo',
-  mSlackHelpLink: 'Link a Quire project to this Slack channel',
+    '`/quire add [タスク名]`\n'
+    '`/quire add [子レベルまたは同レベル] [親または同レベルのid] [タスク名]`\n'
+    '例：`/quire add Design new logo @eric @jess\n'
+    '例：`/quire add under 10 Logo',
+  mSlackHelpLink:'QuireのプロジェクトをこのSlackチャンネルにリンク',
   mSlackHelpLinkExample:
-    '`/quire link [project ID or project URL]`\n'
-    'Example: `/quire link Development_Project`\n'
-    'Example: `/quire link https://quire.io/w/development_project`',
-  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
+    '`/quire link [プロジェクトIDまたはプロジェクトURL]`\n'
+    '例：`/quire link Development_Project`\n'
+    '例：`/quire link https://quire.io/w/development_project`',
+  mSlackHelpUnLink:'このSlackチャンネルからQuireのプロジェクトのリンクを解除',
   mSlackHelpUnLinkExample: '`/quire unlink`',
-  mSlackHelpListProject: 'List all projects',
+  mSlackHelpListProject:'プロジェクトを一覧',
   mSlackHelpListProjectExample: '`/quire list project`',
-  mSlackHelpSearchProject: 'Search projects',
+  mSlackHelpSearchProject:'プロジェクトを検索',
   mSlackHelpSearchProjectExample:
-    '`/quire list project [keyword 1] [keyword 2]`\n'
-    'Example: `/quire list project Development Marketing`',
-  mSlackHelpListTask: 'List recent tasks',
+    '`/quire list project [キーワード1] [キーワード2]`\n'
+    '例：`/quire list project Development Marketing`',
+  mSlackHelpListTask:'最近のタスク一覧',
   mSlackHelpListTaskExample: '`/quire list`',
-  mSlackHelpSearchTask: 'Search tasks',
-  mSlackHelpSearchTaskExample: '`/quire list [keyword 1] [keyword 2]`',
-  mSlackHelpViewTask: 'View specific tasks',
+  mSlackHelpSearchTask:'タスクを検索',
+  mSlackHelpSearchTaskExample: '`/quire list [キーワード1] [キーワード2]`',
+  mSlackHelpViewTask:'指定のタスクを閲覧',
   mSlackHelpViewTaskExample:
-    '`/quire list [task ID 1] [task ID 2]`\n'
-    'Example: `/quire list 123 456`',
-  mSlackHelpListTag: 'List tags',
+    '`/quire list [タスクID 1] [タスクID 2]`\n'
+    '例：`/quire list 123 456`',
+  mSlackHelpListTag:'タグを一覧',
   mSlackHelpListTagExample: '`/quire list tag`',
-  mSlackHelpListMember: 'List members',
+  mSlackHelpListMember:'メンバーを一覧',
   mSlackHelpListMemberExample: '`/quire list member`',
-  mSlackHelpEdit: 'Edit a task',
+  mSlackHelpEdit:'タスクを編集',
   mSlackHelpEditExample:
-    '`/quire edit [task ID] name`\n'
-    'Example: `/quire edit 123 Design new logo !1 @david`',
-  mSlackHelpAssign: 'Assign a task',
+    '`/quire edit [タスクID] name`\n'
+    '例：`/quire edit 123 Design new logo !1 @david`',
+  mSlackHelpAssign:'タスクの担当に設定',
   mSlackHelpAssignExample:
-    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
-    'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
-    'Example: `/quire assign 123 +@david -@jess +#marketing`',
-  mSlackHelpComment: 'Comment a task',
+    '`/quire assign [タスクID] [@チームメンバー名] [!優先度] [#タグ] [<開始;期限>] [^ボード]`\n'
+    '例：`/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
+    '例：`/quire assign 123 +@david -@jess +#marketing`',
+  mSlackHelpComment:'タスクにコメント',
   mSlackHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackHelpComplete: 'Complete tasks',
+    '`/quire comment [タスクID] comment`\n'
+    '例：`/quire comment 123 This looks awesome!`',
+  mSlackHelpComplete:'タスクを完了',
   mSlackHelpCompleteExample:
-    '`/quire complete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire complete 123 456`',
-  mSlackHelpDelete: 'Delete tasks',
+    '`/quire complete [タスクID 1] [タスクID 2]`\n'
+    '例：`/quire complete 123 456`',
+  mSlackHelpDelete:'タスクを削除',
   mSlackHelpDeleteExample:
-    '`/quire delete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire delete 123 456`',
-  mSlackHelpFollowTask: 'Follow or unfollow tasks',
+    '`/quire delete [タスクID 1] [タスクID 2]`\n'
+    '例：`/quire delete 123 456`',
+  mSlackHelpFollowTask:'タスクをフォローまたはタスクのフォローを解除',
   mSlackHelpFollowTaskExample:
-    '`/quire [follow or unfollow] [task ID 1] [task ID 2]`\n'
-    'Example: `/quire follow 123 456`',
-  mSlackHelpFollowProject: 'Follow or unfollow projects',
+    '`/quire [フォローまたはフォローを解除] [タスクID 1] [タスクID 2]`\n'
+    '例：`/quire follow 123 456`',
+  mSlackHelpFollowProject:'プロジェクトをフォローまたはプロジェクトのフォローを解除',
   mSlackHelpFollowProjectExample:
-    '`/quire [follow or unfollow] project [project ID 1] [project ID 2]`\n'
-    'Example: `/quire follow project Development_Project Marketing_Project`',
-  mSlackNeedLinkProject: 'You need to link to a Quire project first.',
-  mSlackCurrentLinkProject: 'This channel is already linked to [=project].',
-  mSlackCurrentLinkProjectSimpleHelp: 'This channel is linked to [=project].',
-  mSlackCurrentLinkProjectMarker: '(currently linked)',
-  mSlackLinkProjectOK: '[=who] has linked this channel to [=project].',
-  mSlackUnLinkProjectOK: '[=who] has unlinked this channel from [=project].',
-  mSlackAddTaskOK: '[=who] has successfully added [=task]',
-  mSlackAddTaskUnderOK: '[=who] has successfully added subtask [=task] under [=parent].',
-  mSlackAddTaskAfterOK: '[=who] has successfully added task [=task] after [=sibling].',
-  mSlackCompleteTaskOK: 'You have successfully completed [=tasks].',
-  mSlackDeleteTaskOK: 'You have successfully deleted [=tasks].',
-  mSlackAssignAssigneesTaskOK: 'You have successfully edited the assignees of [=tasks].',
-  mSlackAssignPriorityTaskOK: 'You have successfully edited the priority of [=tasks].',
-  mSlackAssignDateTaskOK: 'You have successfully edited the dates of [=tasks].',
-  mSlackAssignTagsTaskOK: 'You have successfully edited the tags of [=tasks].',
-  mSlackEditNameTaskOK: 'You have successfully renamed [=task].',
-  mSlackCommentTaskOK: '[=who] has successfully commented [=task].',
-  mSlackFollowTaskOK: '[=who] has got this channel to follow [=tasks].',
-  mSlackUnfollowTaskOK: '[=who] has got this channel to unfollow [=tasks].',
-  mSlackFollowProjectOK: '[=who] has got this channel to follow [=projects].',
-  mSlackUnfollowProjectOK: '[=who] has got this channel to unfollow [=projects].',
-  mSlackFailProjectNotFound: 'Project [=project]: not found.',
-  mSlackNoLinkedProject: 'This channel is not linked to any project.',
-  mSlackFailUserNotFound: 'Please check if [=name] has linked to his or her Quire account.',
-  mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
-  mSlackFailPropertiesNotFound: '[=text] not found',
-  mSlackFailTaskNotFound: 'Task [=task]: not found.',
-  mSlackFailTaskNotAllow: 'Task [=task]: not allowed.',
+    '`/quire [フォローまたはフォローを解除] project [プロジェクトID 1] [プロジェクトID 2]`\n'
+    '例：`/quire follow project Development_Project Marketing_Project`',
+  mSlackNeedLinkProject:'Quireのプロジェクトにリンクしてください。',
+  mSlackCurrentLinkProject:'このチャンネルはすでに[=project]にリンクされています。',
+  mSlackCurrentLinkProjectSimpleHelp:'このチャンネルは[=project]にリンクされています。',
+  mSlackCurrentLinkProjectMarker: '（リンク済み）',
+  mSlackLinkProjectOK: '[=who]さんがこのチャンネルを[=project]にリンクしました。',
+  mSlackUnLinkProjectOK: '[=who]さんが[=project]からこのチャンネルのリンクを解除しました。',
+  mSlackAddTaskOK: '[=who]さんが[=task]を追加しました',
+  mSlackAddTaskUnderOK: '[=who]さんが[=parent]に子タスク[=task]を追加しました。',
+  mSlackAddTaskAfterOK: '[=who]さんが[=sibling]と同レベルにタスク[=task]を追加しました。',
+  mSlackCompleteTaskOK:'[=tasks]を完了しました。',
+  mSlackDeleteTaskOK:'[=tasks]を削除しました。',
+  mSlackAssignAssigneesTaskOK:'[=tasks]の担当者を編集しました。',
+  mSlackAssignPriorityTaskOK:'[=tasks]の優先度を編集しました。',
+  mSlackAssignDateTaskOK:'[=tasks]の日付を編集しました。',
+  mSlackAssignTagsTaskOK:'[=tasks]のタグを編集しました。',
+  mSlackEditNameTaskOK:'[=task]の名前を変更しました。',
+  mSlackCommentTaskOK: '[=who]さんが[=task]にコメントしました。',
+  mSlackFollowTaskOK: '[=who]さんがこのチャンネルに、[=tasks]のフォローを設定しました。',
+  mSlackUnfollowTaskOK: '[=who]さんがこのチャンネルから、[=tasks]のフォローを解除しました。',
+  mSlackFollowProjectOK: '[=who]さんがこのチャンネルに、[=projects]のフォローを設定しました。',
+  mSlackUnfollowProjectOK: '[=who]さんがこのチャンネルから、[=projects]のフォローを解除しました。',
+  mSlackFailProjectNotFound:'プロジェクト[=project]：見つかりません。',
+  mSlackNoLinkedProject:'このチャンネルはプロジェクトにリンクされていません。',
+  mSlackFailUserNotFound:'[=name]さんがQuireアカウントとリンクされているか、ご確認ください。',
+  mSlackFailMemberNotFound:'エラー：[=name]さんは、あなたのプロジェクトのメンバーではありません。',
+  mSlackFailPropertiesNotFound: '[=text]が見つかりません',
+  mSlackFailTaskNotFound:'タスク[=task]：見つかりません。',
+  mSlackFailTaskNotAllow:'タスク[=task]：権限がありません。',
   mSlackFailListNotFound:
-    'Nothing found in the linked project. '
-    'You can go to [=project] to add them first.',
-  mAddMemberPlaceholder: "Add member by email",
-  mMobileUndo: "Undo",
-  mMobileTaskTreeAddTask: "Add Task",
-  mMobileCamera: "Camera",
-  mMobilePhotos: "Photos",
-  mMobilePhoto: "Photo",
-  mMobileComment: "Comment",
-  mMobileTaskName: "Task name",
-  mMobileTaskDesc: "Task description",
-  mMobileSaveToPhoto: "Saved to Photos",
-  mMobileEditPriority: "Edit Priority",
-  mMobileOffline: "Offline",
-  mMobileHide: "Hide",
-  mMobileAccount: "Account",
-  mMobileMyFeedback: "My Feedback",
-  mMobileSendFeedback: "Send Feedback",
-  mMobileRateQuire: "Rate Quire",
-  mMobileAddTags: "Add Tags",
-  mMobileSettings: "Settings",
-  mMobileSearch: "Search",
-  mMobileDueDay: "Due Date",
-  mMobileDueTime: "Due Time",
-  mMobileStartDay: "Start Date",
-  mMobileStartTime: "Start Time",
-  mMobileRepeateTask: "Repeat Task",
-  mMobileApply: "Apply",
-  mMobileStatus: "Status",
-  mMobileSort: "Sort",
-  mMobileNew: "New",
-  mMobileRetry: "Retry",
-  mMobileRefresh: "Refresh",
-  mMobileNextWeek: "Next week",
-  mMobilePickDate: "Pick date",
-  mMobileJustRefresh: "Just Refreshed",
-  mMobileDrill: "Zoom in",
-  mMobileUndrill: "Zoom out",
-  mMobileFavorite: "Favorite",
-  mMobileFavorited: "Favorited",
-  mMobileView: "VIEW",
-  mMobileCopiedTo: "Copied to",
-  mMobileTransferedTo: "Transferred to",
-  mMobileNewTask: "New Task",
-  mMobileBack: "Back",
-  mMobileMyTasks: "My Tasks",
-  mMobileIgnore: "ignore",
-  mMobileReload: "reload",
-  mMobileTime: "Time",
-  mMobileEditRole: "Edit role",
-  mMobileMenuArchive: "Archive",
-  mMobileMenuUnarchive: "Unarchive",
-  mMobileTasksSelected: "[=amount] Selected",
-  mMobileFiles: "Files",
-  mMobileSyncing: "Syncing",
-  mMobileMySelf: "Myself",
-  mMobileShare: "Share",
-  mMobileSkip: "Skip",
-  mMobileNext: "Next",
-  mMobileGreen: "Green",
-  mMobileBlue: "Blue",
-  mMobileNewBoard: "New Board",
-  mMobileArchivedBoard: "Archived boards",
-  mMobileProfileCamera: "Take Photo",
-  mMobileProfilePhoto: "Choose Existing Photo",
-  mMobileProfileIconColor: "Change Icon Color",
-  mMobileProfileEditColor: "Edit color",
-  mMobileEditPicture: "Edit Picture",
-  mMobileEditIcon: "Edit Icon",
-  mMobileEditName: "Edit Name",
-  mMobileEditDesc: "Edit Description",
-  mMobileEditCompany: "Edit Company",
-  mMobileEditWebsite: "Edit Website",
-  mMobileEditAttachments: "Edit Attachments",
-  mMobileEditDate: "Edit Date",
-  mMobileForgotPasswordTitle: "Forgot Password",
-  mMobileForgotResetErrorTitle: "Reset error",
-  mMobileSignupErrorTitle: "Signup error",
-  mMobileProjectTreeSearchOffline: "You cannot add project or organization when offline.",
-  mMobileDisconnected: "Connection lost. Please check your internet connection.",
-  mMobileTaskDeleted: "Sorry, this task has been deleted.",
-  mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
-  mMobileDetailSubtaskProgress: "Subtasks Progress",
-  mMobileDetailFollow: "Follow",
-  mMobileDetailFollowing: "Following",
-  mMobileDetailProjectInfo: "Project Info",
-  mMobileDetailProjectLotInfo: "Smart Folder Info",
-  mMobileDetailProjectTag: "Project Tags",
-  mMobileDetailTaskBeenDeletedTitle: "Oops!",
-  mMobileDetailTaskBeenDeletedDesc: "This task has been deleted.",
-  mMobileDetailTaskDescEdit: "Edit Task Info",
-  mMobileDetailProjectDescEdit: "Edit Project Info",
-  mMobileDetailTasksStatus: "Tasks Status",
-  mMobileDetailActivityLog: "Activity Log",
-  mMobileDetailReferralLog: "Referral Log",
-  mMobileShareTaskLink: "Share Link",
-  mMobileDueInvalidTitle: "Invalid Date",
-  mMobileDueInvalidDesc: "Your start date must be earlier than due date.",
-  mMobileDueAddTime: "Add Time",
-  mMobileAssigneeEditTitle: "Edit Assignee",
-  mMobileAssigneePartnerWarn: "This task is assigned to an external team, but you can assign it to your team member.",
-  mMobileAssigneeExternalTeamCantAssign: "Sorry, external team cannot be reassigned yet",
-  mMobileAssigneeHasAdded: "This member has already been added",
-  mMobileAssigneeInvite: "Invite a new member by email address",
-  mMobileAssigneeAssignee: "Asgnee",
-  mMobileAssigneeAssigner: "Asgner",
-  mMobileAssigneeCreator: "Creator",
-  mMobileFollowerEdit: "Edit Followers",
-  mMobileMemberAddTitle: "Add Members",
-  mMobileRemoveMember: "Remove Member",
-  mMobileUserName: "User name",
-  mMobileAttachmentAdd: "Add attachment",
-  mMobileCommentPost: "Post a comment",
-  mMobileFeedbackFieldRequired: "Subject and Comments are required",
-  mMobileFeedbackTitle: "Have a question or suggestion for us?\nWe're all ears!",
-  mMobileNewProject: "New Project",
-  mMobileNewProjectLot: "New Smart Folder",
-  mMobileNewOrganization: "New Organization",
-  mMobileOrganizationCreatedOn: "Created on [=createdAt]",
-  mMobileYourNewPassword: "Your new password.",
-  mMobileMoveProjectUp: "Move project up",
-  mMobileMoveProjectDown: "Move project down",
-  mMobileSearchProject: "Search Project",
-  mMobileSmartFolderExceedMaximum: "You have reached the maximum number of projects allowed in a Smart Folder.",
-  mMobileMenuManageTags: "Manage tags",
-  mMobileMenuManageMember: "Manage members",
-  mMobileAssignedByShort: "Asgd by",
-  mMobileCreatedByShort: "Crtd by",
-  mMobileAssignedToShort: "Asgd to",
-  mMobileSearchOptionsTitle: "Search results in...",
-  mMobileSearchRecent: "Recent searches",
-  mMobileSearchMoreChars: "Search by 3 or more characters",
-  mMobileSearchTaskHint: "Search for Tasks",
-  mMobileRateTitle: "Love Quire?",
-  mMobileRateDesc: "Cheer us on with a 5-star rating!",
-  mMobileRateNow: "Rate now",
-  mMobileRateFeedback: "Give us feedback",
-  mMobileRateNOThanks: "No, thanks",
-  mMobileTransferTaskToPrj: "To project:",
-  mMobileTransferTaskIncTag: "Keep the tags of the task",
-  mMobileTransferTaskIncUser: "Keep the people associated with the task",
-  mMobileTransferTaskCPTaskFinish: "Keep a copy of the task in this project",
-  mMobileSettingSupport: "Sorry, you cannot edit your profile yet. Please use the web browser for now.",
-  mMobileConfirmEmailExpired: "Oops!",
-  mMobileConfirmExpired: "Sorry, the email conformation link has expired.",
-  mMobileConfirmExpiredSubmit: "Try again",
-  mMobileSignupMailSentTitle: "You're almost there!",
+    'リンク先のプロジェクトは空です。'
+    'まず[=project]に追加してください。',
+  mAddMemberPlaceholder:"メンバーをメールアドレスで追加",
+  mMobileUndo:"元に戻す",
+  mMobileTaskTreeAddTask:"タスクを追加",
+  mMobileCamera:"カメラ",
+  mMobilePhotos:"写真",
+  mMobilePhoto:"写真",
+  mMobileComment:"コメント",
+  mMobileTaskName:"タスク名",
+  mMobileTaskDesc:"タスクの説明",
+  mMobileSaveToPhoto:"「写真」に保存されました",
+  mMobileEditPriority:"優先度を編集",
+  mMobileOffline:"オフライン",
+  mMobileHide:"非表示",
+  mMobileAccount:"アカウント",
+  mMobileMyFeedback:"意見",
+  mMobileSendFeedback:"意見を送信",
+  mMobileRateQuire:"Quireを評価",
+  mMobileAddTags:"タグを追加",
+  mMobileSettings:"設定",
+  mMobileSearch:"検索",
+  mMobileDueDay:"期限日",
+  mMobileDueTime:"期限時刻",
+  mMobileStartDay:"開始日",
+  mMobileStartTime:"開始時刻",
+  mMobileRepeateTask:"繰り返しのタスク",
+  mMobileApply:"適用",
+  mMobileStatus:"状態",
+  mMobileSort:"並べ替え",
+  mMobileNew:"新規",
+  mMobileRetry:"再試行",
+  mMobileRefresh:"リロード（再読み込み）",
+  mMobileNextWeek:"次週",
+  mMobilePickDate:"日付を選択",
+  mMobileJustRefresh:"リロード（再読み込み）しました",
+  mMobileDrill:"ズームイン",
+  mMobileUndrill:"ズームアウト",
+  mMobileFavorite:"お気に入り",
+  mMobileFavorited:"お気に入り",
+  mMobileView:"表示",
+  mMobileCopiedTo:"コピー先",
+  mMobileTransferedTo:"移動先",
+  mMobileNewTask:"新しいタスク",
+  mMobileBack:"戻る",
+  mMobileMyTasks:"自分のタスク",
+  mMobileIgnore: "無視",
+  mMobileReload: "リロード（再読み込み）",
+  mMobileTime:"時刻",
+  mMobileEditRole:"役割を編集",
+  mMobileMenuArchive:"アーカイブ",
+  mMobileMenuUnarchive:"アーカイブを解除",
+  mMobileTasksSelected: "[=amount]件を選択しました",
+  mMobileFiles:"ファイル",
+  mMobileSyncing:"同期しています",
+  mMobileMySelf:"自分",
+  mMobileShare:"共有",
+  mMobileSkip:"Skip",
+  mMobileNext:"次",
+  mMobileGreen:"緑",
+  mMobileBlue:"青",
+  mMobileNewBoard:"新しいボード",
+  mMobileArchivedBoard:"アーカイブ済みのボード",
+  mMobileProfileCamera:"撮影",
+  mMobileProfilePhoto:"既存の写真を選択",
+  mMobileProfileIconColor:"アイコンの色を変更",
+  mMobileProfileEditColor:"色を編集",
+  mMobileEditPicture:"画像を編集",
+  mMobileEditIcon:"アイコンを編集",
+  mMobileEditName:"名前を編集",
+  mMobileEditDesc:"説明を編集",
+  mMobileEditCompany:"会社を編集",
+  mMobileEditWebsite:"ウェブサイトを編集",
+  mMobileEditAttachments:"添付ファイルを編集",
+  mMobileEditDate:"日付を編集",
+  mMobileForgotPasswordTitle:"パスワードを忘れました",
+  mMobileForgotResetErrorTitle:"再設定エラー",
+  mMobileSignupErrorTitle:"登録エラー",
+  mMobileProjectTreeSearchOffline:"オフラインではプロジェクトや組織を追加できません。",
+  mMobileDisconnected:"接続が中断されました。インターネット接続を確認してください。",
+  mMobileTaskDeleted:"申し訳ありません。このタスクは削除されました。",
+  mMobileUnableUploadAttachment:"ファイルをアップロードできません。再度お試しください。",
+  mMobileDetailSubtaskProgress:"子タスクの進度",
+  mMobileDetailFollow:"フォロー",
+  mMobileDetailFollowing:"フォロー中",
+  mMobileDetailProjectInfo:"プロジェクトの情報",
+  mMobileDetailProjectLotInfo:"スマートフォルダーの情報",
+  mMobileDetailProjectTag:"プロジェクトのタグ",
+  mMobileDetailTaskBeenDeletedTitle:"残念！",
+  mMobileDetailTaskBeenDeletedDesc:"このタスクは削除されました。",
+  mMobileDetailTaskDescEdit:"タスクの情報を編集",
+  mMobileDetailProjectDescEdit:"プロジェクトの情報を編集",
+  mMobileDetailTasksStatus:"タスクの状態",
+  mMobileDetailActivityLog:"アクティビティーログ",
+  mMobileDetailReferralLog:"参照ログ",
+  mMobileShareTaskLink:"共有リンク",
+  mMobileDueInvalidTitle:"無効な日付",
+  mMobileDueInvalidDesc:"開始日は期限日よりも前に設定してください。",
+  mMobileDueAddTime:"時間を追加",
+  mMobileAssigneeEditTitle:"担当者を編集",
+  mMobileAssigneePartnerWarn:"このタスクは外部チームに設定されていますが、自分のチームメンバーに設定できます。",
+  mMobileAssigneeExternalTeamCantAssign:"申し訳ありません。外部チームはまだ再度設定できません",
+  mMobileAssigneeHasAdded:"このメンバーは、すでに追加されています",
+  mMobileAssigneeInvite:"新メンバーをメールアドレスで招待",
+  mMobileAssigneeAssignee:"担当者",
+  mMobileAssigneeAssigner:"設定者",
+  mMobileAssigneeCreator:"作成者",
+  mMobileFollowerEdit:"フォロワーを編集",
+  mMobileMemberAddTitle:"メンバーを追加",
+  mMobileRemoveMember:"メンバーを消去",
+  mMobileUserName:"ユーザー名",
+  mMobileAttachmentAdd:"ファイルを添付",
+  mMobileCommentPost:"コメントを投稿",
+  mMobileFeedbackFieldRequired:"件名とコメントは必須です",
+  mMobileFeedbackTitle:"ご意見やご質問がありましたら、\nいつでもお知らせください。",
+  mMobileNewProject:"新しいプロジェクト",
+  mMobileNewProjectLot:"新しいスマートフォルダー",
+  mMobileNewOrganization:"新しい組織",
+  mMobileOrganizationCreatedOn:"[=createdAt]に作成",
+  mMobileYourNewPassword:"新しいパスワードです。",
+  mMobileMoveProjectUp:"プロジェクトを上に移動",
+  mMobileMoveProjectDown:"プロジェクトを下に移動",
+  mMobileSearchProject:"プロジェクトを検索",
+  mMobileSmartFolderExceedMaximum:"スマートフォルダーに保存できるプロジェクト数の上限に達しました。",
+  mMobileMenuManageTags:"タグを管理",
+  mMobileMenuManageMember:"メンバーを管理",
+  mMobileAssignedByShort:"設定者",
+  mMobileCreatedByShort:"作成者",
+  mMobileAssignedToShort:"担当者",
+  mMobileSearchOptionsTitle:"絞り込み検索...",
+  mMobileSearchRecent:"検索履歴",
+  mMobileSearchMoreChars:"半角英数字または半角記号を3つ以上入力して検索",
+  mMobileSearchTaskHint:"タスクを検索",
+  mMobileRateTitle:"Quireは気に入っていただけましたか？",
+  mMobileRateDesc:"どうぞ5つ星評価をお願いします！",
+  mMobileRateNow:"今すぐ評価",
+  mMobileRateFeedback:"意見を送信",
+  mMobileRateNOThanks:"今はしない",
+  mMobileTransferTaskToPrj:"移動先のプロジェクト：",
+  mMobileTransferTaskIncTag:"タスクのタグを保持",
+  mMobileTransferTaskIncUser:"関係者をタスクに保持",
+  mMobileTransferTaskCPTaskFinish:"タスクのコピーをこのプロジェクトに保持",
+  mMobileSettingSupport:"申し訳ありません。まだプロフィールを編集できません。ウェブブラウザをご利用ください。",
+  mMobileConfirmEmailExpired:"残念！",
+  mMobileConfirmExpired:"申し訳ありません。確認用リンクの有効期限切れです。",
+  mMobileConfirmExpiredSubmit:"再度お試しください",
+  mMobileSignupMailSentTitle:"もう少しです！",
   mMobileSignupMailSentDesc:
-    'We have sent a confirmation email to <strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder to complete registration.',
-  mMobileLoginErrorTitle: "Error",
-  mMobileLoginErrorDesc: "Incorrect email or password",
-  mMobileForgotPasswordDesc: "Don't worry! Enter your email address and we will send you a link to reset your password.",
-  mMobileEmailSentCheckTitle: "Help's on the way!",
-  mMobileEmailSentCheckDesc: "Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.",
-  mMobileEmptyBackgroundTitle: "Ready?",
-  mMobileEmptyBackgroundDesc: "Add some ideas to kick start your dream!",
-  mMobileNOFilterBackgroundDesc: "Hurray~ no task is due!",
-  mMobileNODrillBackgroundDesc: "There is no subtask to show.",
-  mMobileFilterBackgroundDesc1: "No tasks found. You can try to ",
-  mMobileFilterBackgroundDesc2: "reset filter",
-  mMobileFilterBackgroundDesc3: ".",
-  mMobile404BackgroundTitle: "Ouch.",
-  mMobile404BackgroundDesc: "The thing you're looking for is gone.",
-  mMobileNOConnectionBackgroundTitle: "Bummer.",
-  mMobileNOConnectionBackgroundDesc: "Looks like you lost connection.",
-  mMobileInitNOConnectionTitle: "Oops!",
-  mMobileInitNOConnectionDesc: "We seem to lost you. Please try connecting again.",
-  mMobileNOProjectTitle: "Nothing Here",
-  mMobileNOProjectDesc: "You can create a project or refresh to see if you already have one.",
-  mMobileNOPermissionToFunction: "You don't have permission to use this function.",
-  mMobileFeedbackPublic: "Allow other Quire users to see",
-  mMobileFeedbackSuccessTitle: "Thank You!",
-  mMobileFeedbackSuccessDesc: "Your feedback is important to us. We’ll get back to you ASAP!",
-  mMobileFeedbackSuccessUrl: "Check out my feedback",
-  mMobileFeedbackSuccessOK: "OK",
+    '<strong>[=email]</strong>に確認用メールを送りました。<br>'
+    '[=hrefStart]受信箱[=hrefEnd]または迷惑メールフォルダーを確認して、登録を完了してください。',
+  mMobileLoginErrorTitle:"エラー",
+  mMobileLoginErrorDesc:"メールアドレスかパスワードが正しくありません",
+  mMobileForgotPasswordDesc:"メールアドレスを入力してください。パスワード再設定用のリンクをお送りします。",
+  mMobileEmailSentCheckTitle:"今お助けします！",
+  mMobileEmailSentCheckDesc:'[=hrefStart]受信箱[=hrefEnd]または迷惑メールフォルダーを確認してください。',
+  mMobileEmptyBackgroundTitle:"準備はできましたか？",
+  mMobileEmptyBackgroundDesc:"アイデアを追加して、夢に向けて踏み出しましょう！",
+  mMobileNOFilterBackgroundDesc:"期限のタスクはありません。",
+  mMobileNODrillBackgroundDesc:"表示できる子タスクがありません。",
+  mMobileFilterBackgroundDesc1:"タスクが見つかりません。",
+  mMobileFilterBackgroundDesc2: "フィルターの再設定をお試しください",
+  mMobileFilterBackgroundDesc3: "。",
+  mMobile404BackgroundTitle:"残念です。",
+  mMobile404BackgroundDesc:"お探しのデータがありません。",
+  mMobileNOConnectionBackgroundTitle:"残念です。",
+  mMobileNOConnectionBackgroundDesc:"接続が失われたようです。",
+  mMobileInitNOConnectionTitle:"残念！",
+  mMobileInitNOConnectionDesc:"接続が失われたようです。再度接続してください。",
+  mMobileNOProjectTitle:"空です",
+  mMobileNOProjectDesc:"プロジェクトを作成するか、リロード（再読み込み）して既成のプロジェクトの有無を確認してください。",
+  mMobileNOPermissionToFunction:"この機能を使う権限がありません。",
+  mMobileFeedbackPublic:"他のQuireユーザーの閲覧を許可",
+  mMobileFeedbackSuccessTitle:"ありがとうございます",
+  mMobileFeedbackSuccessDesc:"ぜひご意見をお寄せください。できるだけ迅速に対応します。", 
+  mMobileFeedbackSuccessUrl:"意見を確認",
+  mMobileFeedbackSuccessOK:"OK",
   mMobileArchiveProjectContent:
-    "You're about to archive this project. "
-    "An archived project will be moved to the Archived in the menu sidebar.",
-  mMobileSidebarSearchForPrj: "Search for Projects",
-  mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
-  mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
-  mMobileCrashRefreshTitle: "Oops!",
-  mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
-  mMobileBatchNOSelectedDesc: "You need to select at least one task.",
-  mMobileExcludeCompletedTask: "Exclude completed task",
-  mMobilePressBackAgainToExit: "Press again to EXIT",
-  mMobileRefreshForLanguageChange: "We will reload for your language settings to take effect.",
-  mMobileAddEmail: "Add Email",
-  mMobileEditEmail: "Edit Email",
-  mMobileEXServerError: "Sorry, we encountered an unexpected error. Please try again later.",
-  mMobileEXTaskCreated: "Your task has been added",
-  mMobileEXTaskCreatedImgMaxDeny1: "Please choose",
-  mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
-  mMobileEXLogin: "Please log in Quire first",
-  mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date",
-  mMobileSelectATask: "Select a task",
-  mMobileTutorialVideos: "Tutorial videos",
-  mMobileAltHint: "Advanced mode on. You can shake again to toggle off."
+    "このプロジェクトをアーカイブします。"
+    "アーカイブしたプロジェクトは、サイドバーの「アーカイブ」に移動されます。",
+  mMobileSidebarSearchForPrj:"プロジェクトを検索",
+  mMobileReadOnlyProfileDesc:"読み取り専用で閲覧しています。最新のお知らせを受け取るには、Quireをフォローしてください。",
+  mMobilePermissionDenyCamera:"カメラの設定でQuireのアクセスを許可してください。",
+  mMobileCrashRefreshTitle:"残念！",
+  mMobileCrashRefreshDesc:"問題が発生したようです。エラーは自動的に送信されていますが、まずリロード（再読み込み）をお試しください。",
+  mMobileBatchNOSelectedDesc:"タスク1件以上を選択してください。",
+  mMobileExcludeCompletedTask:"完了したタスク以外",
+  mMobilePressBackAgainToExit:"再度押して終了",
+  mMobileRefreshForLanguageChange:"言語設定を有効にするため、リロード（再読み込み）します。",
+  mMobileAddEmail:"メールアドレスを追加",
+  mMobileEditEmail:"メールアドレスを編集",
+  mMobileEXServerError:"申し訳ありません。予期しないエラーが発生しました。しばらくしてから再度お試しください。",
+  mMobileEXTaskCreated:"自分のタスクを追加しました",
+  mMobileEXTaskCreatedImgMaxDeny1:"選択してください",
+  mMobileEXTaskCreatedImgMaxDeny2: "枚以下",
+  mMobileEXLogin:"Quireにログインしてください",
+  mMobileSelfAssign:"自分に設定",
+  mMobileAddDue:"期限日を追加",
+  mMobileSelectATask:"タスクを選択",
+  mMobileTutorialVideos:"チュートリアルの動画",
+  mMobileAltHint:"詳細モードがオンです。再度振って、オフにできます。"
 };
