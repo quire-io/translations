@@ -41,15 +41,15 @@ const jaClient = const <String, String> {
     '接続が中断されました。変更内容をローカルに保存するには<a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">ローカルストレージ</a>
     'を有効にしてください。',
   mReloadNewPartJS:
-    '申し訳ありません。Quireの最新版を入手できませんでした。<br/><br/>'
+    '申し訳ありません。Quireの最新バージョンを入手できませんでした。<br/><br/>'
     '[=clearCache]<br/><br/>'
     '詳細を確認するには<a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">ここ</a>をクリックしてください。',
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'ブラウザにキャッシュされた画像やファイルをクリアし、ページをリロード（再読み込み）するには、<code>[=ctrlCommand]+Shift+DELまたは[=ctrlCommand]+Shift+Backspace</code>キーを'
-    '押します。',
+    '<code>[=ctrlCommand]+Shift+DELまたは[=ctrlCommand]+Shift+Backspace</code>キーを押して'
+    'ブラウザにキャッシュされた画像やファイルをクリアし、ページをリロード（再読み込み）してみてください。',
   mDeleteBrowserCacheSafari:
-    'ブラウザのキャッシュを削除し、ページをリロード（再読み込み）するには、<code>Option+Command+E</code>キーを'
-    '押します。',
+    '<code>Option+Command+E</code>キーを押してブラウザのキャッシュを削除し、'
+    'ページをリロード（再読み込み）してみてください。',
   mDeleteBrowserCacheEtc:
     '<a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">ブラウザのキャッシュファイルをクリア</a>し、'
     'ページをリロード（再読み込み）してみてください。',
@@ -66,8 +66,8 @@ const jaClient = const <String, String> {
   mCantSetThisState:"[=task]はこの状態に設定できません。",
   mCantDeleteTask:"[=task]を削除する権限がありません。",
   mCantSetAssignee:"[=task]に担当者を設定する権限がありません。",
-  mCantSetAssigneeCross:"[=assignee]さんは同じプロジェクト内にない[=task]の担当者に設定できません。",
-  mCantSetAssigneeCrossPlural:"[=assignee]さんは同じプロジェクト内にない[=task]とその他[=count]件のタスクの担当者に設定できません。",
+  mCantSetAssigneeCross:"[=assignee]さんは、同じプロジェクト内にない[=task]の担当者に設定できません。",
+  mCantSetAssigneeCrossPlural:"[=assignee]さんは、同じプロジェクト内にない[=task]とその他[=count]件のタスクの担当者に設定できません。",
   mCantSetPartner:
     "[=task]はすでに外部チームに委託されているため、"
     "別の外部チームに設定できません。",
@@ -153,7 +153,7 @@ const jaClient = const <String, String> {
   mActivate:"有効にする",
   mPublished:"公開しました",
   mUnpublished:"公開を解除しました",
-  mRejected:"拒否されました",
+  mRejected:"不承認",
   mLink:"リンク",
   mUnlink:"リンクを解除",
   mGrantNew:"アクセスを許可",
@@ -222,7 +222,7 @@ const jaClient = const <String, String> {
   mInvitationSentTo:"[=email]に招待状を送りました",
   mViewMemberDesc:"この組織とそのプロジェクトのメンバーは合計[=number]人です",
   mViewMemberCount:"全メンバーの一覧",
-  mShowMemberCount:"全メンバーを一覧",
+  mShowMemberCount:"すべてのメンバーを一覧",
   mInvitationSent:"招待状を送りました",
   mNone:"なし",
   mNA:"該当なし",
@@ -294,8 +294,8 @@ const jaClient = const <String, String> {
   mTreeMenuUnfollow:"フォローを解除",
   mTreeMenuOpenNewTab:"新しいタブで開く",
   mTreeMenuDuplicate:"複製",
-  mTreeMenuTransfer:"移動",
-  mTreeMenuMerge:"統合",
+  mTreeMenuTransfer:"移動先",
+  mTreeMenuMerge:"統合先",
   mTreeMenuPaste:"ペースト",
   mTreeMenuDelete:"削除 ([=ctrlCommand]+DEL)",
   mTreeMenuCutTask:"カット ([=ctrlCommand]+X)",
@@ -907,7 +907,7 @@ const jaClient = const <String, String> {
   mDragTooltipReprder:"ドラッグして整理",
   mDragTooltipHoldAltTransfer: "<code>alt</code>キーを押したままですぐに移動",
   mDragTooltipTransferOptions: "移動のオプション",
-    mTipOpenDetail:"説明の追加、コメントの投稿、ファイルの添付などを行うにはクリックします。",
+  mTipOpenDetail:"説明の追加、コメントの投稿、ファイルの添付などを行うにはクリックします。",
   mTipPinDetail:"詳細パネルを固定表示するにはクリックします。",
   mTipFilterForCompleted:"完了したばかりのタスクを確認するには、「すべてのタスク」をクリックします。",
   mTipEnterToAddTask:"新しいタスクを追加するには、「Enter」キーを押します。",
@@ -1005,7 +1005,7 @@ const jaClient = const <String, String> {
     'アプリが<a href="/apps" target="_blank">Quireアプリディレクトリ</a>に表示されます。',
   mAppDistributionCredentialsDesc:'公開するアプリには、次の認証情報の設定が必要です。',
   mAppDistributionButton:'配布を有効にする',
-  mAppDistributionNewButton:'最新版を提出',
+  mAppDistributionNewButton:'最新バージョンを提出',
   mAppDistributionWarning:'公開して配布するには、<a href="[=link]">表示情報</a>のうち、次の必須項目に記入してください。',
   mUnpublishAppTitle:'アプリディレクトリから消去',
   mUnpublishAppContent:
