@@ -86,7 +86,7 @@ const jaWeb = const <String, String> {
   mFeatureGroupDesc: "担当者や優先度で、タスクを並び替えできます。",
   mFeatureFilterTitle: "タスクをフィルター",
   mFeatureFilterDesc: "重要なタスクに絞って表示できます。",
-  mFeatureBlinkSearchTitle: "サクッと検索",
+  mFeatureBlinkSearchTitle: "サクサク検索",
   mFeatureBlinkSearchDesc: "プロジェクトや組織、メンバーを瞬時に見つけることができます。",
   mFeatureThemesTitle: "テーマ",
   mFeatureThemesDesc: "目にやさしく、白基調と黒基調のテーマを切り換えることができます。",
@@ -101,7 +101,7 @@ const jaWeb = const <String, String> {
   mFeatureNotificationTitle: "通知",
   mFeatureNotificationDesc: "タスクが更新されたとき、選んだタイミングで通知を受け取ることができます。",
   mFeatureFavoriteTitle: "お気に入り",
-  mFeatureFavoriteDesc: "タスクや大切なことに高評価や賛成、❤をあげて共感を示しましょう。",
+  mFeatureFavoriteDesc: "タスクや大切なことに高評価や賛成、または自分だけの❤をあげて、共感を示しましょう。",
   mFeatureFollowersTitle: "フォロワー",
   mFeatureFollowersDesc: "タスクをフォローすると、変更があったときに自動で通知を受け取ることができます。",
   mFeatureMobileAppTitle: "iOSアプリ",
@@ -112,10 +112,10 @@ const jaWeb = const <String, String> {
   mFeatureAndroidDesc: "Androidスマホで、やりかけの仕事をオフラインでも続けることができます。",
   mFeatureGoogleCalendarTitle: "Googleカレンダーと同期",
   mFeatureGoogleCalendarDesc: "GoogleやiCal、Outlookカレンダーと同期してタスクを確認し、通知を受け取りましょう。",
-  mFeatureSlackTitle: "Slackを統合",
+  mFeatureSlackTitle: "Slackと連携",
   mFeatureSlackDesc: "Slackチャンネルでプロジェクトの更新を確認できます。",
-  mFeatureIntegraGithubTitle: "GitHubを統合",
-  mFeatureIntegraGithubDesc: "コミットをタスクと連携させて、チームメンバーにコードの変更を知らせましょう。",
+  mFeatureIntegraGithubTitle: "GitHubと連携",
+  mFeatureIntegraGithubDesc: "コミットをタスクとリンクして、チームメンバーにコードの変更を知らせましょう。",
   mFeatureChromeExtensionTitle: "Chromeの拡張機能",
   mFeatureChromeExtensionDesc: "ChromeでかんたんにQuireにアクセスし、通知を表示しましょう。",
   mFeatureNameStyleTitle: "タスクの色とスタイル",
@@ -125,7 +125,7 @@ const jaWeb = const <String, String> {
   mFeatureSmartAddTitle: "スマートに追加",
   mFeatureSmartAddDesc: "マウスを使わずオートコンプリートで、タスクにメンバーやタグ、優先度を素早く設定できます。",
   mFeatureBatchOPTitle: "まとめて操作",
-  mFeatureBatchOPDesc: "メンバーやタグの追加などの変更を、選択したタスクに一括で反映させましょう。",
+  mFeatureBatchOPDesc: "メンバーやタグの追加などの変更を、選択したタスクに一括で反映させることができます。",
   mFeatureTemplateTitle: "プロジェクトのテンプレート",
   mFeatureTemplateDesc: "プロジェクトやタスクをのひな形を保存し、効率化しましょう。",
   mFeatureImportTitle: "インポート",
@@ -157,12 +157,12 @@ const jaWeb = const <String, String> {
   mSecurityStorageDesc:
     '個人のデータはアマゾン ウェブ サービス（AWS）を使って米国に保管されており、'
     '常にバックアップが作成されています。作成された復旧用のデータは、遠隔地に保管されます。'
-    'AWSは、インフラストラクチャーに「SSAE 16」認証を取得した物理的セキュリティプログラムを用い、非常に高いレベルのセキュリティを実現しています。'
+    'AWSは、インフラストラクチャーに「SSAE 16」認証を取得した物理的セキュリティプログラムを用い、高レベルのセキュリティを実現しています。'
     '詳しくは<a href="https://aws.amazon.com/security">AWS クラウドセキュリティ</a>にアクセスしてください。',
   mSecurityBackupTitle: 'データのバックアップ',
   mSecurityBackupDesc:
     'Quireプラットフォーム内の個人データは、アクセスや移動、エクスポート、削除に関して、完全にユーザーご自身の管理下にあります。'
-    'ご自身のデータはいつでもバックアップを作成し、ローカルドライブに保存していただけます。'
+    'ご自身のデータはいつでもバックアップを作成し、ローカルドライブに保存いただけます。'
     'Quireのご利用を停止してアカウントを削除した場合、'
     'すべてのデータがQuireプラットフォームから完全に消去されます。ユーザーの許可なくコピーが残されることはありません。'
     '書面による許可なくデータにアクセスすることは、誰にも許されません。それも、顧客に関する問題が生じたときでなければ、私たちからお願いすることはありません。',
