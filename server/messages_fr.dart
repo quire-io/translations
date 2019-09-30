@@ -95,8 +95,8 @@ const frServer = const <String, String> {
   mLoginQuire: "Connexion à Quire",
   mLoginQuireDesc: "Re-bonjour !",
   mStayLogin: "Rester connecté",
-  mLoginAccountDesc: "Vous n'avez encore de compte ?",
-  mLoginAccountCreate: "Créez un compte pour Quire",
+  mLoginAccountDesc: "Vous n'avez pas encore de compte ?",
+  mLoginAccountCreate: "Créez un compte Quire",
   mSigninGoogle: "Connectez-vous avec Google",
   mHomeGotoWSButton: "ALLER À VOTRE PROJET",
   mDownloadAPK: "TÉLÉCHARGER L'APK",
@@ -427,13 +427,13 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Veuillez cliquer sur le bouton ci-dessous dans les 12 prochaines heures pour confirmer votre nouvelle adresse email.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Confirmer</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si vous ne reconnaissez pas cet email, veuillez l'ignorer.</p>
 
 [=footer]
 ''',
