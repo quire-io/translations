@@ -892,8 +892,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     'ヒント：<a href="https://twitter.com/quire_io" target="_blank">Twitter</a>でフォローして'
     'お知らせを確認',
   mTipMarkdown:
-    'ヒント：'<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">マークダウン記法</a>で書式を設定して'
-    説明またはコメントを記入',
+    'ヒント：<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">マークダウン記法</a>で書式を設定して'
+    '説明またはコメントを記入',
   mTipMoveTask:
     'ヒント：<code>[=ctrlAlt]+↑</code>'
     '<code>[=ctrlAlt]+↓</i></code>'
