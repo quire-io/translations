@@ -144,6 +144,7 @@ const ptBrClient = const <String, String> {
   mRemove: "Remover",
   mSave: "Salvar",
   mSaved: "Salvo",
+  mSaveAs: "Save as",
   mDiscard: "Discard",
   mSaveChanges: "Salvar Alterações",
   mChange: "Change",

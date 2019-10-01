@@ -179,6 +179,7 @@ const enClient = const <String, String> {
   mRemove: "Remove",
   mSave: "Save",
   mSaved: "Saved",
+  mSaveAs: "Save as",
   mDiscard: "Discard",
   mSaveChanges: "Save Changes",
   mChange: "Change",

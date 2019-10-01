@@ -139,6 +139,7 @@ const frClient = const <String, String> {
   mRemove: "Supprimer",
   mSave: "Enregistrer",
   mSaved: "Enregistré",
+  mSaveAs: "Save as",
   mDiscard: "Discard",
   mSaveChanges: "Enregistrer les modifications",
   mChange: "Modifier",

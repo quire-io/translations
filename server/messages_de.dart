@@ -18,8 +18,8 @@ const deServer = const <String, String> {
   mSubmit: "Senden",
   mClear: "Löschen",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
+    "Sorry, das System ist ausgelastet. Bitte versuchen Sie es erneut. "
+    'Wenn das Problem weiterhin besteht, <a href="/feedback">kontaktieren Sie uns</a> bitte. Danke!',
   mProjectLC: "Projekt",
   mOrganizationLC: "Organisation",
   mSidebarTitleMyTasks: "MEINE AUFGABEN",
@@ -748,13 +748,13 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mOauthSlackErrorViewDesc:
     'Beim Verknüpfen Ihres Kontos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. '
     'Wenn der Fehler weiterhin auftritt, <a href="mailto:support@quire.io">kontaktieren Sie uns bitte</a>.',
-  mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
+  mCalendarSyncDesc: "Wählen Sie aus, welche Art Aufgaben Sie synchronisieren möchten.",
   mCalendarSyncSetting: "[=tasks] in [=where]",
   mBoardIntroduce: 'Sie können Ihre Aufgaben visuell in einem Board verwalten. Mehr dazu <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">hier</a>.',
   mSettingPictureLabel: "Foto",
   mOrganizationProfile: "Organisationsprofil",
   mMYProfile: "Mein Profil",
-  mMyQuireApps: "My Apps",
+  mMyQuireApps: "Meine Apps",
   mUserProfile: "Nutzerprofil",
   mAccountSettings: "Account-Einstellungen",
   mRecommendQuire: "Quire weiterempfehlen",
