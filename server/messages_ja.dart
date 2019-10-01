@@ -101,7 +101,7 @@ const jaServer = const <String, String> {
   mHomeGotoWSButton:"プロジェクトに移動",
   mDownloadAPK:"APKファイルをダウンロード",
   mAPKVersion:'バージョン[=version]',
-  mDownloadMobileAppToStart:Quireをダウンロードして、プロジェクトに着手',
+  mDownloadMobileAppToStart:'Quireをダウンロードして、プロジェクトに着手',
   mDownloadMobileAppToStartWith:
     '[=who]さんからプロジェクトに招待されました。<br/>'
     'Quireをダウンロードして、参加しましょう！',
