@@ -136,6 +136,10 @@ const itWeb = const <String, String> {
   mFeaturePasteDesc: "Copy your contents from other apps like Word, Excel and Email and paste as tasks in Quire.",
   mFeatureGoogleDriveTitle: "File Sharing",
   mFeatureGoogleDriveDesc: "Easily upload a file or attach a file from Google Drive to your tasks.",
+  mFeatureOpenAPITitle: "Quire API",
+  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
+  mFeatureAppDirectoryTitle: "Quire & Beyond",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"
     "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"

@@ -186,6 +186,12 @@ const enWeb = const <String, String> {
   mFeatureGoogleDriveTitle: "File Sharing",
   mFeatureGoogleDriveDesc: "Easily upload a file or attach a file from Google Drive to your tasks.",
 
+  mFeatureOpenAPITitle: "Quire API",
+  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
+
+  mFeatureAppDirectoryTitle: "Quire & Beyond",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
+
 
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"

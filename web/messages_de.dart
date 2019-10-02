@@ -132,6 +132,10 @@ const deWeb = const <String, String> {
   mFeaturePasteDesc: "Kopieren Sie Inhalte aus Anwendungen wie Word, Excel, E-Mail und Notizen und fügen Sie diese als Aufgaben in Quire ein.",
   mFeatureGoogleDriveTitle: "Dateien einbinden",
   mFeatureGoogleDriveDesc: "Binden Sie Dateien in Aufgaben und Projekte ein.",
+  mFeatureOpenAPITitle: "Quire API",
+  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
+  mFeatureAppDirectoryTitle: "Quire & Beyond",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
   mPricingPageDesc:
     "<p>Viele Leute fragen uns nach dem Preismodell.</p>"
     "<p>Aber es gibt noch so viele aufregende Ideen, die es zu entdecken gilt! Wir konzentrieren uns lieber darauf, Quire noch besser zu machen, als herauszufinden, welche Funktion zu welchem Paket gehört.</p>"
