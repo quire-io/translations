@@ -190,7 +190,7 @@ const enWeb = const <String, String> {
   mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
 
   mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
 
 
   mPricingPageDesc:

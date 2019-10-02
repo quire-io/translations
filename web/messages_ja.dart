@@ -139,7 +139,7 @@ const jaWeb = const <String, String> {
   mFeatureOpenAPITitle: "Quire API",
   mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
   mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
   mPricingPageDesc:
     "<p>料金について、よく質問されます。</p>"
     "<p>でも今は、試したいアイデアでいっぱい。私たちは料金プランを考えるよりも、まずQuireを充実させたいと考えています。</p>"

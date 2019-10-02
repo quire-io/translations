@@ -139,7 +139,7 @@ const ptWeb = const <String, String> {
   mFeatureOpenAPITitle: "Quire API",
   mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
   mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
   mPricingPageDesc:
     "<p>Muitas pessoas nos estão a perguntar sobre os preços.</p>"
     "<p>Mas, ainda existem tantas ideias entusiasmantes a explorar! Preferimos focar-nos em tornar o Quire ainda mais espetacular, do que decidir que recurso pertence a um determinado plano.</p>"

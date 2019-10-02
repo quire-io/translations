@@ -139,7 +139,7 @@ const itWeb = const <String, String> {
   mFeatureOpenAPITitle: "Quire API",
   mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
   mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations, developed by Quire and contributors.",
+  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
   mPricingPageDesc:
     "<p>Many people are asking us about pricing.</p>"
     "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
