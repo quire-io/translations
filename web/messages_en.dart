@@ -1,5 +1,5 @@
-//Copyright (C) 2016 Potix Corporation. All Rights Reserved.
-//History: Mon Feb  6 11:56:15 CST 2017
+//Copyright (C) 2016 Potix Corporation.All Rights Reserved.
+//History:Mon Feb  6 11:56:15 CST 2017
 // Author: tomyeh
 part of server.intl.messages_all;
 
@@ -15,230 +15,230 @@ part of server.intl.messages_all;
  */
 
 const enWeb = const <String, String> {
-  mSlogan: 'Unfold Your Ideas',
-  mSloganSentence: 'Unfold your ideas',
+  mSlogan:"アイデアを、広げよう。",
+  mSloganSentence:"アイデアを、広げよう。",
   mSloganSubtitle:
-    'A visual collaborative platform for your next, great projects.',
+    'プロジェクトの成功へ 、ビジュアル重視のコラボレーション・プラットフォーム。',
   mQuireDescription:
-    'The best collaborative project management software for breaking down goals in hierarchical lists.',
+    '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
 
-  mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
+  mHomeSectionDreamsTitle:"夢を、かたちに",
   mHomeSectionDreamsDesc:
-    "“There’s no path before me, <br> "
-    "and a track will be created behind me.” <br>"
-    "- Takamura Kotaro",
+    "「僕の前に道はない<br> "
+    "僕の後ろに道は出来る」<br>"
+    "高村光太郎『道程』より"
 
-  mHomeSectionStartSmallTitle: "Think Big, Start Small",
+  mHomeSectionStartSmallTitle:"大きな夢は、小さな一歩から",
   mHomeSectionStartSmallDesc:
-    "We face a challenge by breaking it down. That is how our minds naturally work. <br>"
-    "Quire lets you map out your thoughts, and tackle them with small steps.",
+    "ヒトの思考はもともと、大きな仕事の細分化には向きません。 どんな人でも、作業の細分化はひと仕事。 <br>"
+    "Quireは、実行可能な計画を立てるために、小さなステップを設定するお手伝いをします。",
 
-  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
+  mHomeSectionVisuallyTitle:"効率化へ、 やるべき作業をひと目で把握",
   mHomeSectionVisuallyDesc:
-    "Visualize your workflow. Arrange, prioritize, "
-    "and focus on what matters the most with Kanban board. Get everyone on the same page.",
+    "作業の流れを一目瞭然に。" 
+    "かんばんボードで整理して、最重要事項に集中しましょう。チーム全員が同じ画面で作業を進めることができます。",
 
-  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+  mHomeSectionProgressTitle:"進捗を把握し、その先の一歩へ",
   mHomeSectionProgressDesc:
-    "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
-    "your projects, and your team now and ahead. And celebrate success.",
+    "プロジェクトの進捗をチャートにして、達成率をひと目で把握。" 
+    "お互いの作業状況を確認し、協力しながらプロジェクトを成功に導きましょう。", 
 
   mHomeSectionSignupMidDesc:
-    "Everything you need to go from ideas to action. <br>"
-    "Sign up now. It's free!",
+    "アイデアからアクションまで、一括サポート。<br>"
+    "今すぐ無料登録", 
   mHomeSectionSignupBottomDesc:
-    "Quire is here to walk your dreams home. <br>"
-    "So go for it. And have fun!",
+    "Quireは夢の実現をサポートするために生まれました。<br>"
+    "ぜひ試して楽しんでください。", 
 
-  mHomeSection7Title: "Anytime. Anywhere.",
+  mHomeSection7Title:"いつでも、どこでも。",
 
-  mFeaturesSection1Title: "All you need. [=linebreak]No more, no less.",
+  mFeaturesSection1Title:"使いやすく充実した[=linebreak]オールインワン機能。",
   mFeaturesSection1Desc:
-    "Spend less time figuring out how things work. <br>"
-    "Quire’s powerful features and intuitive design allow for project management harmony.",
+    "直感的なデザインで、操作もかんたん。<br>"
+    "Quireの強力な機能で、バランスの取れたプロジェクト管理を。",
 
   mFeaturesSectionSignupBottomDesc: 
-    "Everything you want and all you need to get things done. <br>"
-    "See for yourself, sign up now.",
+    "目標の達成まで、必要な機能をすべて備えました。<br>"
+    "今すぐ登録して、お試しください。",
 
-  mFeaturesMigrationSectionTitle: "Looking for something better?",
-  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
+  mFeaturesMigrationSectionTitle:"よりよいツールをお探しの方に。",
+  mFeaturesMigrationSectionDesc:"乗り換えもかんたんに、3ステップで。",
 
-  mFeaturesMigrationAsanaButton: "Migrate from Asana",
-  mFeaturesMigrationTrelloButton: "Migrate from Trello",
-  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
-  mFeaturesMigrationOthersButton: "Migrate from Others",
+  mFeaturesMigrationAsanaButton:"Asanaから移行",
+  mFeaturesMigrationTrelloButton:"Trelloから移行",
+  mFeaturesMigrationWunderlistButton:"ワンダーリストから移行",
+  mFeaturesMigrationOthersButton:"他ツールから移行",
 
-  mFeatureHierarchyTitle: "Nested Task List",
-  mFeatureHierarchyDesc: "Tackle big projects by breaking them down into small, manageable steps.",
+  mFeatureHierarchyTitle:"階層タスクリスト",
+  mFeatureHierarchyDesc:"大きなプロジェクトを、小さく管理しやすいステップに細分化しましょう。",
 
-  mFeatureBoardTitle: "Kanban Board",
-  mFeatureBoardDesc: "Visualize your workflow to better manage and focus on your tasks.",
+  mFeatureBoardTitle:"かんばんボード",
+  mFeatureBoardDesc:"作業の流れを可視化して、効率化しましょう。",
 
-  mFeatureMytasksTitle: "My Tasks at a Glance",
-  mFeatureMytasksDesc: "Stay on top of tasks assigned to you across all projects.",
+  mFeatureMytasksTitle:"タスク一覧",
+  mFeatureMytasksDesc:"自分が複数のプロジェクトで受け持っているタスクすべてを一覧できます。",
 
-  mFeatureSmartFolderTitle: "Smart Folders",
-  mFeatureSmartFolderDesc: "View, and organize tasks from different projects you chose in one place.",
+  mFeatureSmartFolderTitle:"スマートフォルダー",
+  mFeatureSmartFolderDesc:"手持ちのタスクをプロジェクト別に確認して整理できます。",
 
-  mFeatureExternalTeamTitle: "Outsource to External Team",
-  mFeatureExternalTeamDesc: "Focus on your core tasks and assign those that are non-core to third parties easily and safely.",
+  mFeatureExternalTeamTitle:"外部チームに委託",
+  mFeatureExternalTeamDesc:"プロジェクトの一部を安全でかんたんに外部委託して、重要なタスクに集中しましょう。",
 
-  mFeatureTeamTitle: "Teamwork in Realtime",
-  mFeatureTeamDesc: "Share and delegate tasks to your friends and colleagues. See their modifications on your screen instantly.",
+  mFeatureTeamTitle:"リアルタイムチームワーク",
+  mFeatureTeamDesc:"タスクを友人と共有し、同僚に委任しましょう。タスクに関する変更は、すぐに画面で確認できます。", 
 
-  mFeatureMessageTitle: "Instant Messaging",
-  mFeatureMessageDesc: "See who said what about your tasks instantly.",
+  mFeatureMessageTitle:"インスタントメッセージ",
+  mFeatureMessageDesc:"コメントをリアルタイムで確認しましょう。",
 
-  mFeatureMultipleAssignee: "Multiple Assignees",
-  mFeatureMultipleAssigneeDesc: "Assign a task to the people responsible for it.",
+  mFeatureMultipleAssignee:"複数の担当者",
+  mFeatureMultipleAssigneeDesc:"タスクを複数人に設定できます。",
 
-  mFeatureRoleTitle: "Roles & Permissions",
-  mFeatureRoleDesc: "Grant different authorities to different members of your projects.",
+  mFeatureRoleTitle:"権限管理",
+  mFeatureRoleDesc:"各メンバーに適切な権限を設定できます。",
 
-  mFeatureShareLinkTitle: "Share Your Project with Clients",
-  mFeatureShareLinkDesc: "Send an invitation link to your clients so they can access your project without signup.",
+  mFeatureShareLinkTitle:"顧客と共有",
+  mFeatureShareLinkDesc:"招待リンクを送り、登録不要でプロジェクトを共有しましょう。"
 
-  mFeatureShareTitle: "Share Your Project with Anyone",
-  mFeatureShareDesc: "Make your project public so anyone with that URL can see your project.",
+  mFeatureShareTitle:"限定公開",
+  mFeatureShareDesc:"URLを知っていれば誰でもプロジェクトを閲覧できます。",
 
-  mFeatureDrilldownTitle: "Zoom In",
-  mFeatureDrilldownDesc: "Focus on a task and see all its subtasks while filtering out everything else.",
+  mFeatureDrilldownTitle:"ズームイン",
+  mFeatureDrilldownDesc:"ひとつの親タスクとその子タスクに絞って表示できます。",
 
-  mFeatureGroupTitle: "Sort Tasks",
-  mFeatureGroupDesc: "Sort your tasks to see those with the same assignee, priority, etc., together.",
+  mFeatureGroupTitle:"タスクの並べ替え",
+  mFeatureGroupDesc:"担当者や優先度で、タスクを並び替えできます。",
 
-  mFeatureFilterTitle: "Filter tasks",
-  mFeatureFilterDesc: "Filter your tasks to focus on a few crucial tasks and leave out the rest.",
+  mFeatureFilterTitle:"タスクをフィルター",
+  mFeatureFilterDesc:"重要なタスクに絞って表示できます。",
 
-  mFeatureBlinkSearchTitle: "Blink Search",
-  mFeatureBlinkSearchDesc: "Find any project, organization or member you want in an instant.",
+  mFeatureBlinkSearchTitle:"サクサク検索",
+  mFeatureBlinkSearchDesc:"プロジェクトや組織、メンバーを瞬時に見つけることができます。",
 
-  mFeatureThemesTitle: "Themes",
-  mFeatureThemesDesc: "Switch to a light, or dark theme for the comfort of your eyes.",
+  mFeatureThemesTitle:"テーマ",
+  mFeatureThemesDesc:"目にやさしく、白基調と黒基調のテーマを切り換えることができます。",
 
-  mFeatureHealthStatsTitle: "Health Stats",
-  mFeatureHealthStatsDesc: "A visual overview of how well each of your projects and members is performing.",
+  mFeatureHealthStatsTitle:"ヘルスモニター",
+  mFeatureHealthStatsDesc:"プロジェクト全体や各メンバーの進捗を可視化して、ひと目で把握できます。",
 
-  mFeatureRecurringTitle: "Recurring Tasks",
-  mFeatureRecurringDesc: "Get your routines in your task tree once and for all.",
+  mFeatureRecurringTitle:"繰り返しタスク",
+  mFeatureRecurringDesc:"いつもの作業を、予定日に自動で表示しましょう。",
 
-  mFeatureTimeTitle: "Time and Duration",
-  mFeatureTimeDesc: "Set start and due dates to see a Gantt chart-like view in your calendar.",
+  mFeatureTimeTitle:"期間の設定",
+  mFeatureTimeDesc:"開始日と期限日を設定して、ガントチャートで確認しましょう。",
 
-  mFeatureRemindersTitle: "Reminders",
-  mFeatureRemindersDesc: "Get reminded of upcoming tasks before start or due whenever you want across devices.",
+  mFeatureRemindersTitle:"予定の通知",
+  mFeatureRemindersDesc:"タスクの開始日や期限日を忘れないよう、手持ちのデバイスに通知を送りましょう。",
 
-  mFeatureNotificationTitle: "Notifications",
-  mFeatureNotificationDesc: "Get notified of updates on what you care about and when.",
+  mFeatureNotificationTitle:"通知",
+  mFeatureNotificationDesc:"タスクが更新されたとき、選んだタイミングで通知を受け取ることができます。",
 
-  mFeatureFavoriteTitle: "Favorites",
-  mFeatureFavoriteDesc: "Give a thumbs up, vote for a task, or focus on those that matter to you personally. With ❤.",
+  mFeatureFavoriteTitle:"お気に入り",
+  mFeatureFavoriteDesc:"タスクや大切なことに高評価や賛成、または自分だけの❤をあげて、共感を示しましょう。", 
 
-  mFeatureFollowersTitle: "Followers",
-  mFeatureFollowersDesc: "Follow tasks to get notified of any changes made to them automatically.",
+  mFeatureFollowersTitle:"フォロワー",
+  mFeatureFollowersDesc:"タスクをフォローすると、変更があったときに自動で通知を受け取ることができます。",
 
-  mFeatureMobileAppTitle: "iOS App",
-  mFeatureMobileAppDesc: "Work seamlessly on your iPhone and iPad whenever, wherever.",
+  mFeatureMobileAppTitle: "iOSアプリ",
+  mFeatureMobileAppDesc:"iPhoneやiPadでいつでもどこでも、シームレスに仕事を進めましょう。",
 
-  mFeatureSiriTitle: "Siri for Tasks",
-  mFeatureSiriDesc: "Your smart assistant that helps you manage tasks using just your voice.",
+  mFeatureSiriTitle:"タスクのためのSiri",
+  mFeatureSiriDesc:"声をかけるだけでスマートにタスクを管理できます。",
 
-  mFeatureAndroidTitle: "Android App",
-  mFeatureAndroidDesc: "Pick up where you left off on your Android phone. Even offline.",
+  mFeatureAndroidTitle:"Androidアプリ",
+  mFeatureAndroidDesc:"Androidスマホで、やりかけの仕事をオフラインでも続けることができます。",
 
-  mFeatureGoogleCalendarTitle: "Sync to Google Calendar",
-  mFeatureGoogleCalendarDesc: "See your tasks as events on Google, iCal or Outlook Calendar and get notified.",
+  mFeatureGoogleCalendarTitle:"Googleカレンダーと同期",
+  mFeatureGoogleCalendarDesc:"GoogleやiCal、Outlookカレンダーと同期してタスクを確認し、通知を受け取りましょう。",
 
-  mFeatureSlackTitle: "Slack integration",
-  mFeatureSlackDesc: "Get updates about your projects in a Slack channel and more.",
+  mFeatureSlackTitle:"Slackと連携",
+  mFeatureSlackDesc:"Slackチャンネルでプロジェクトの更新を確認できます。",
 
-  mFeatureIntegraGithubTitle: "GitHub integration",
-  mFeatureIntegraGithubDesc: "Keep everyone on your team up to date with the code changes by linking commits to your tasks.",
+  mFeatureIntegraGithubTitle:"GitHubと連携",
+  mFeatureIntegraGithubDesc:"コミットをタスクとリンクして、チームメンバーにコードの変更を知らせましょう。",
 
-  mFeatureChromeExtensionTitle: "Chrome Extension",
-  mFeatureChromeExtensionDesc: "Quickly access Quire and get notified from any web page in Chrome.",
+  mFeatureChromeExtensionTitle:"Chromeの拡張機能",
+  mFeatureChromeExtensionDesc:"ChromeでかんたんにQuireにアクセスし、通知を表示しましょう。",
 
-  mFeatureNameStyleTitle: "Color & Styles for Tasks",
-  mFeatureNameStyleDesc: "Highlight your tasks and projects by adding color, bold and more.",
+  mFeatureNameStyleTitle:"タスクの色とスタイル",
+  mFeatureNameStyleDesc:"色の変更や文字の太字表示で、タスクやプロジェクトを強調しましょう。",
 
-  mFeatureShortcutsTitle: "Keyboard Shortcuts",
-  mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
+  mFeatureShortcutsTitle:"キーボードショートカット",
+  mFeatureShortcutsDesc:"マウスを使わずキーボードだけで素早く操作できます。",
 
-  mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
+  mFeatureSmartAddTitle:"スマートに追加",
+  mFeatureSmartAddDesc:"マウスを使わずオートコンプリートで、タスクにメンバーやタグ、優先度を素早く設定できます。",
 
-  mFeatureBatchOPTitle: "Batch Operations",
-  mFeatureBatchOPDesc: "Make changes, such as assigning a member and tag, to all your selected tasks at once.",  
+  mFeatureBatchOPTitle:"まとめて操作",
+  mFeatureBatchOPDesc:"メンバーやタグの設定などの変更を、選択したタスクに一括で反映させることができます。",  
 
-  mFeatureTemplateTitle: "Project Template",
-  mFeatureTemplateDesc: "Save time - duplicate a project or task to use as a template.",
+  mFeatureTemplateTitle:"プロジェクトのテンプレート",
+  mFeatureTemplateDesc:"プロジェクトやタスクをのひな形を保存し、効率化しましょう。",
 
-  mFeatureImportTitle: "Import",
-  mFeatureImportDesc: "Pain-free moving from your current project management software to Quire.",
+  mFeatureImportTitle:"インポート",
+  mFeatureImportDesc:"他のプロジェクト管理ソフトからスムーズに乗り換えができます。",
 
-  mFeatureExportTitle: "Export",
-  mFeatureExportDesc: "Convert your project data into CSV to edit it in Excel, or into JSON for further processing and back up.",
+  mFeatureExportTitle:"エクスポート",
+  mFeatureExportDesc:"プロジェクトのデータをCSV形式に変換してエクセルで編集したり、JSON形式に変換していろいろな処理を施したりバックアップを取ったりできます。",
 
-  mFeaturePasteTitle: "Copy & Paste",
-  mFeaturePasteDesc: "Copy your contents from other apps like Word, Excel and Email and paste as tasks in Quire.",
+  mFeaturePasteTitle:"コピー&ペースト",
+  mFeaturePasteDesc:"ワードやエクセル、電子メールなどアプリから内容をコピーして、Quireのタスクとして貼り付けることができます。",
 
-  mFeatureGoogleDriveTitle: "File Sharing",
-  mFeatureGoogleDriveDesc: "Easily upload a file or attach a file from Google Drive to your tasks.",
+  mFeatureGoogleDriveTitle:"ファイルの共有",
+  mFeatureGoogleDriveDesc:"ファイルをかんたんにアップロードしたり、Googleドライブのファイルをタスクに添付したりできます。",
 
-  mFeatureOpenAPITitle: "Quire API",
-  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
+  mFeatureOpenAPITitle:"Quire API",
+  mFeatureOpenAPIDesc:"スクリプトを作成し、お気に入りのアプリとQuireを連携できます。",
 
-  mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
+  mFeatureAppDirectoryTitle:"Quireと、その先へ",
+  mFeatureAppDirectoryDesc:"すぐれた連携機能で、効率を高めましょう。",
 
 
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the first half of 2020.</p>"
-    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
+    "<p>料金について、よく質問されます。</p>"
+    "<p>でも今は、試したいアイデアでいっぱい。私たちは料金プランを考えるよりも、まずQuireを充実させたいと考えています。</p>"
+    "<p>少なくとも2020年の前半までは、ご利用無料の予定です。</p>"
+    "<p>その間は、1アカウントにつき35グループ、プロジェクト80件、メンバー30人まで追加できます。</p>"
+    "<p>しかもそれまでに追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
+    '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
 
-  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
+  mCookieGDPRDesc:"当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
 
-  mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageTitle:'Quireのセキュリティ対策',
   mSecurityPageDesc: 
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
+    "Quireに携わる私たちは、個人のデータを安全で確実に保護するために最善を尽くしています。<br>"
+    "私たちがタスクやプロジェクト、個人情報をどのように安全に管理しているかを、ぜひ知ってください。",
+  mSecurityEncryptionTitle:'データの暗号化',
   mSecurityEncryptionDesc: 
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/privacy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
+    "Quireに携わる私たちは、個人データの保護に真剣に取り組んでいます。"
+    "個人データは細心の注意をもって扱われ、厳正に管理されています。"
+    '私たちの<a href="/privacy">方針ページ</a>をご確認ください。Quireは、安全な通信に最も効果的で信頼されているプロトコルであるSSL／TLSを全面導入しています。',
+  mSecurityStorageTitle:'保管中のデータのセキュリティについて',
   mSecurityStorageDesc: 
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
+    '個人のデータはアマゾン ウェブ サービス（AWS）を使って米国に保管されており、'
+    '常にバックアップが作成されています。作成された復旧用のデータは、遠隔地に保管されます。'
+    'AWSは、インフラストラクチャーにSSAE 16認証を取得した物理的セキュリティプログラムを用い、非常に高いセキュリティを実現しています。'
+    '詳しくは<a href="https://aws.amazon.com/security">AWS クラウドセキュリティ</a>にアクセスしてください。',
+  mSecurityBackupTitle:'データのバックアップ',
   mSecurityBackupDesc: 
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
+    'Quireプラットフォーム内の個人データは、アクセスや移動、エクスポート、削除について、完全にユーザーご自身の管理下にあります。'
+    'ご自身のデータはいつでもバックアップを作成し、ローカルドライブに保存いただけます。'
+    'Quireのご利用を停止してアカウントを削除した場合、'
+    'すべてのデータがQuireプラットフォームから完全に消去されます。ユーザーの許可なくコピーが残されることはありません。'
+    '書面による許可なくデータにアクセスすることは、誰にも許されません。それも、顧客に関する問題が生じたときでなければ、私たちからお願いすることはありません。',
+  mSecurityPriorityTitle:'私たちはプライバシーを尊重します',
   mSecurityPriorityDesc: 
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+    '私たちは常にユーザーに対し、ご自身の個人データの管理について理解してもらえるよう努めています。'
+    '特定の個人を識別できる情報を、私たちが第三者に開示することはありません。'
+    'Quireは<a href="/privacy">個人データ</a>の取り扱いについて、隠すことなく透明かつ率直であることをモットーにしています。',
 
-  mMobileWelcomeP1Title1: "Welcome to ",
-  mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "From start to finish",
-  mMobileWelcomeP3Title: "Streamline your workflow",
-  mMobileWelcomeP4Title: "Get into action",
-  mMobileWelcomeP1Desc: "Unfold your ideas.",
-  mMobileWelcomeP2Desc: "Swipe left or right to complete, delete or add a task.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project.",
+  mMobileWelcomeP1Title1:"ようこそ",
+  mMobileWelcomeP1Title2:"Quireへ",
+  mMobileWelcomeP2Title:"スタートから完成まで",
+  mMobileWelcomeP3Title:"もっと効率的に",
+  mMobileWelcomeP4Title:"行動に移そう",
+  mMobileWelcomeP1Desc:"アイデアを、広げよう。",
+  mMobileWelcomeP2Desc:"左右にスワイプして、タスクを完成、削除、追加できます。",
+  mMobileWelcomeP3Desc:"かんばんボードで、選んだタスクに集中しましょう。",
+  mMobileWelcomeP4Desc:"担当者やタグ、期限日を決めて、プロジェクトを開始しましょう。",
 
 };
