@@ -136,10 +136,10 @@ const ptBrWeb = const <String, String> {
   mFeaturePasteDesc: "Copie seu conteúdo de outros aplicativos como Word, Excel e Email e cole como tarefas no Quire.",
   mFeatureGoogleDriveTitle: "Compartilhamento de Arquivos",
   mFeatureGoogleDriveDesc: "Carregue facilmente um arquivo ou anexe um arquivo do Google Drive às suas tarefas.",
-  mFeatureOpenAPITitle: "Quire API",
-  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
-  mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
+  mFeatureOpenAPITitle: "API Quire",
+  mFeatureOpenAPIDesc: "Permite criar scripts e integrar seus aplicativos favoritos ao Quire.",
+  mFeatureAppDirectoryTitle: "Quire e Mais Além",
+  mFeatureAppDirectoryDesc: "Aumente sua produtividade com algumas integrações de alto nível.",
   mPricingPageDesc:
     "<p>Muitas pessoas nos estão perguntando sobre preços.</p>"
     "<p>Mas, tem ainda tantas ideias interessantes a serem exploradas! Nós preferimos manter nosso foco em tornar o Quire ainda mais incrível, do que decidir qual recurso pertence a qual plano.</p>"
@@ -148,33 +148,33 @@ const ptBrWeb = const <String, String> {
     "<p>E a boa noticia é que, o que você já estiver usando até lá, continuará sendo gratuito.</p>"
     '<p>Você tem alguma pergunta? Sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato conosco.</a></p>',
   mCookieGDPRDesc: "Nós usamos cookies para garantir que você tenha a melhor experiência em nosso website.",
-  mSecurityPageTitle: 'Security at Quire',
+  mSecurityPageTitle: 'Segurança no Quire',
   mSecurityPageDesc:
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
+    "No Quire, trabalhamos duro para garantir que seus dados estejam seguros, protegidos e privados. <br>"
+    "Suas tarefas, projetos e informações pessoais estão seguras conosco e queremos que você saiba como estamos fazendo isso.",
+  mSecurityEncryptionTitle: 'Criptografia de Dados',
   mSecurityEncryptionDesc:
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/privacy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
+    "No Quire, levamos a proteção de dados pessoais muito a sério. "
+    "Queremos que você tenha certeza de que seus dados pessoais serão cuidadosamente tratados e protegidos com o Quire. "
+    'Você pode conferir nossa <a href="/privacy">página de políticas</a>. Todo o tráfego no Quire é executado em SSL/TLS, o protocolo mais poderoso e confiável para comunicações seguras.',
+  mSecurityStorageTitle: 'Segurança de Armazenamento de Dados',
   mSecurityStorageDesc:
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
+    'Seus dados são armazenados nos Estados Unidos pela Amazon Web Services (AWS), '
+    'e são copiados continuamente com cópias armazenadas em um local externo para recuperação de desastres. '
+    'Essa infraestrutura altamente segura da AWS implementa um programa de segurança física com a certificação SSAE 16. '
+    'Para obter mais informações, visite <a href="https://aws.amazon.com/security">Segurança na Nuvem AWS</a>.',
+  mSecurityBackupTitle: 'Backup de Dados',
   mSecurityBackupDesc:
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
+    'Você estará totalmente no controle de seus dados na plataforma Quire (para acessar, transferir, exportar e excluir os dados). '
+    'Você pode fazer backup dos seus dados no seu driver local a qualquer momento. '
+    'Quando um usuário decide sair do Quire e excluir sua conta, '
+    'todos os dados serão completamente removidos da plataforma Quire sem ter nenhuma outra cópia oculta sem a permissão do usuário. '
+    'Ninguém tem permissão para acessar os dados sem permissão por escrito, e apenas pedimos caso seja realmente necessário para resolver problemas relacionados ao cliente.',
+  mSecurityPriorityTitle: 'Privacidade é nossa Prioridade',
   mSecurityPriorityDesc:
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
+    'Nós sempre garantimos que nossos usuários estejam cientes de seu controle sobre seus dados pessoais. '
+    'Nós não compartilhamos informações de identificação pessoal com terceiros. '
+    'O Quire se compromete a ser transparente e direto, sem intenções ocultas sobre o uso de <a href="/privacy">dados pessoais</a> dos usuários.',
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",

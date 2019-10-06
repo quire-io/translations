@@ -18,8 +18,8 @@ const ptServer = const <String, String> {
   mSubmit: "Submeter",
   mClear: "Clear",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
+    "Desculpe, o sistema está ocupado. Por favor, tente novamente. "
+    'Se o problema persistir, por favor <a href="/feedback">entre em contato conosco</a>. Obrigado!',
   mProjectLC: "projeto",
   mOrganizationLC: "organização",
   mSidebarTitleMyTasks: "AS MINHAS TAREFAS",
@@ -758,7 +758,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",
   mMYProfile: "O Meu Perfil",
-  mMyQuireApps: "My Apps",
+  mMyQuireApps: "As Minhas Apps",
   mUserProfile: "Perfil do Utilizador",
   mAccountSettings: "Definições da Conta",
   mRecommendQuire: "Recomendar Quire",
@@ -818,7 +818,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   m3dayBefore: "3 dias antes",
   mStartOFDay: "Ao início do dia",
   mStartOFWeek: "Ao início da semana",
-  mRemindTime: "Remind Upcoming Tasks with Time",
+  mRemindTime: "Lembrar Próximas Tarefas com Tempo",
   m0MinutesBefore: "Na hora",
   m15MinutesBefore: "15 mins antes",
   m30MinutesBefore: "30 mins antes",
