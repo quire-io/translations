@@ -85,7 +85,7 @@ const frServer = const <String, String> {
   mGotIt: "D'accord !",
   mReadOnly: "Lecture Seule",
   mReadMore: "En savoir plus",
-  mGettingStarted: "Commencer",
+  mGettingStarted: "Guide de démarrage",
   mTutorial: "Tutoriel",
   mDocumentation: "Documentation",
   mSignupQuire: "S'inscrire à Quire",
