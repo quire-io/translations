@@ -101,7 +101,7 @@ const jaServer = const <String, String> {
   mHomeGotoWSButton:"プロジェクトに移動",
   mDownloadAPK:"APKファイルをダウンロード",
   mAPKVersion:'バージョン[=version]',
-  mDownloadMobileAppToStart:Quireをダウンロードして、プロジェクトに着手',
+  mDownloadMobileAppToStart: 'Quireをダウンロードして、プロジェクトに着手',
   mDownloadMobileAppToStartWith:
     '[=who]さんからプロジェクトに招待されました。<br/>'
     'Quireをダウンロードして、参加しましょう！',
@@ -650,7 +650,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mKeyNavigate:'タスク間や機能間で焦点を移動',
   mKeyMoveTask:'タスクを横や上下に移動',
   mKeyMultipleSelect:'複数のタスクを選択',
-  mKeyF1:'キーボードショートカット,
+  mKeyF1:'キーボードショートカット',
   mKeyEditTask:'タスク名を編集',
   mKeyEditTaskDesc:'タスクの説明を編集',
   mKeyCreateRootTask:'レベル1に新しいタスクを追加',
@@ -720,7 +720,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingFeatureSec:"特徴",
   mSettingIntegrationSec:"連携機能",
   mSettingReminderSec:"通知",
-  mSettingEmailSec:"メールで通知,
+  mSettingEmailSec:"メールで通知",
   mSettingProjectPrefSec:"プロジェクトの設定",
   mSettingCalTitle:"カレンダー",
   mSettingCalDesc:"期限日がある未完了のタスクを、GoogleカレンダーやiCalと同期します。",
