@@ -328,6 +328,8 @@ const enClient = const <String, String> {
   mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag",
 
+  mFilterOperatorLabels: '+=And;|=Or;-=Not',
+
   mFilterRecentHistory: "Recent history",
   mCusFilterSortLabel: "Sort",
   mCusFilterLabel: "Filter",
@@ -480,6 +482,8 @@ const enClient = const <String, String> {
   mFollowerPickerPlaceholder: "Add follower by name or email",
   mReadonlyTagPickerPlaceholder: "Select tags below",
   mReadonlyTagPickerPlaceholderEmpty: "No tags available",
+  mSingleTagPickerPlaceholder: "Select a tag",
+  
 
   mUserPickerHint: "Or invite a new member by email address",
   mUserPickerInviteHint: "Press ENTER to send an invitation",
@@ -957,7 +961,7 @@ const enClient = const <String, String> {
   mRemoveTaskBoardFinishPlural: "[=name] and [=count] other tasks have been removed from board.",
 
 
-  mTransferTaskCPTask: "Transfer a copy and keep the tasks in the current project",
+  mTransferTaskCPTask: "Transfer a copy without comments from original tasks",
   mTransferTaskIncUser:
     "Add people associated with the tasks to that project",
   mTransferTaskIncTag:
