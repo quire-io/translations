@@ -30,7 +30,7 @@ const frServer = const <String, String> {
   mSidebarFav: "SIGNETS",
   mSidebarRec: "RÉCENT",
   mSidebarArchive: "Archivé",
-  mSidebarRecycleBin: 'Trash',
+  mSidebarRecycleBin: 'Corbeille',
   mSidebarMembers: "MEMBRES",
   mAppCategoriesU: 'CATÉGORIES',
   mAppCategory: 'Catégorie',
