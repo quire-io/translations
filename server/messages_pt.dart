@@ -30,6 +30,7 @@ const ptServer = const <String, String> {
   mSidebarFav: "FAVORITOS",
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
+  mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MEMBROS",
   mAppCategoriesU: 'CATEGORIAS',
   mAppCategory: 'Categoria',

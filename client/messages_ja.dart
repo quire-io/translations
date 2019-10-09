@@ -140,6 +140,7 @@ const jaClient = const <String, String> {
   mSave: "保存",
   mSaved: "保存済み",
   mSaveAs: "名前を付けて保存",
+  mRestore: "Restore",
   mDiscard: "破棄",
   mSaveChanges: "変更を保存",
   mChange: "変更",

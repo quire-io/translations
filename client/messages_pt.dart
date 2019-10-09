@@ -145,6 +145,7 @@ const ptClient = const <String, String> {
   mSave: "Guardar",
   mSaved: "Guardado",
   mSaveAs: "Guardar como",
+  mRestore: "Restore",
   mDiscard: "Discard",
   mSaveChanges: "Guardar Alterações",
   mChange: "Change",

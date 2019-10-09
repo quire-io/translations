@@ -30,6 +30,7 @@ const esServer = const <String, String> {
   mSidebarFav: "MARCADORES",
   mSidebarRec: "RECIENTES",
   mSidebarArchive: "Archivados",
+  mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MIEMBROS",
   mAppCategoriesU: 'CATEGORIES',
   mAppCategory: 'Category',

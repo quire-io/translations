@@ -140,6 +140,7 @@ const esClient = const <String, String> {
   mSave: "Guardar",
   mSaved: "Guardado",
   mSaveAs: "Save as",
+  mRestore: "Restore",
   mDiscard: "Descartar",
   mSaveChanges: "Guardar cambios",
   mChange: "Cambiar",

@@ -134,6 +134,7 @@ const deClient = const <String, String> {
   mSave: "Speichern",
   mSaved: "Gespeichert",
   mSaveAs: "Save as",
+  mRestore: "Restore",
   mDiscard: "Discard",
   mSaveChanges: "Änderungen speichern",
   mChange: "Ändern",

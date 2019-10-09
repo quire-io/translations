@@ -30,6 +30,7 @@ const deServer = const <String, String> {
   mSidebarFav: "FAVORITEN",
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
+  mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MITGLIEDER",
   mAppCategoriesU: 'KATEGORIEN',
   mAppCategory: 'Kategorie',

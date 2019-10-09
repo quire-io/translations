@@ -180,6 +180,7 @@ const enClient = const <String, String> {
   mSave: "Save",
   mSaved: "Saved",
   mSaveAs: "Save as",
+  mRestore: "Restore",
   mDiscard: "Discard",
   mSaveChanges: "Save Changes",
   mChange: "Change",

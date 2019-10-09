@@ -30,6 +30,7 @@ const itServer = const <String, String> {
   mSidebarFav: "BOOKMARKS",
   mSidebarRec: "RECENT",
   mSidebarArchive: "Archived",
+  mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MEMBERS",
   mAppCategoriesU: 'CATEGORIES',
   mAppCategory: 'Category',
