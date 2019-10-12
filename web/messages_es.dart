@@ -136,10 +136,10 @@ const esWeb = const <String, String> {
   mFeaturePasteDesc: "Copia tus contenidos de otras aplicaciones como Word, Excel y Email y pégalos como tareas en Quire.",
   mFeatureGoogleDriveTitle: "Compartir Archivos",
   mFeatureGoogleDriveDesc: "Sube fácilmente un fichero o adjunta un archivo de Google Drive a tus tareas.",
-  mFeatureOpenAPITitle: "Quire API",
-  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
-  mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
+  mFeatureOpenAPITitle: "API de Quire",
+  mFeatureOpenAPIDesc: "Te permite crear scripts e integrar tus aplicaciones favoritas con Quire.",
+  mFeatureAppDirectoryTitle: "Quire... y más allá",
+  mFeatureAppDirectoryDesc: "Aumenta tu productividad con algunas integraciones de primer nivel.",
   mPricingPageDesc:
     "<p>Bastantes personas nos preguntan por el precio.</p>"
     "<p>Pero ¡hay muchas ideas emocionantes que explorar! Preferimos centrarnos en hacer que Quire sea más impresionante, que en averiguar qué característica pertenece a cada tarifa.</p>"
