@@ -719,6 +719,7 @@ const jaClient = const <String, String> {
     "<strong>永久に削除</strong>します。",
   mDeleteAccountConfirm: "この操作が<strong>元に戻せない</strong>ことを理解しています。",
   mDeleteAccount: "自分のアカウントを削除",
+  mRestoreDeletedEntityContent: 'Are you sure you want to restore the deleted [=host]?',
   mLeaveOrganizationTitle: "組織を退出",
   mLeaveOrganizationDesc: "今後この組織にアクセスできなくなります。退出しますか？",
   mLeaveProjectTitle: "プロジェクトを退出",
