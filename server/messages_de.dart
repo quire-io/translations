@@ -30,7 +30,7 @@ const deServer = const <String, String> {
   mSidebarFav: "FAVORITEN",
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
-  mSidebarRecycleBin: 'Trash',
+  mSidebarRecycleBin: 'Papierkorb',
   mSidebarMembers: "MITGLIEDER",
   mAppCategoriesU: 'KATEGORIEN',
   mAppCategory: 'Kategorie',
@@ -499,11 +499,11 @@ Diese beinhalten account-spezifische Benachrichtigungen und Aufgabenaktivitäten
 
 [=footer]
 ''',
-  mEmailDeleteProjectSubject: "Quire: [=member] hat [=project] gelöscht",
-  mEmailDeleteProjectContent: '''
+  mEmailDeleteHostSubject: "Quire: [=member] hat [=host] gelöscht",
+  mEmailDeleteHostContent: '''
 [=header]
 
-<p>Wir möchten Sie darüber informieren, dass [=member] ([=memberEmail]) "[=project]" gelöscht hat.</p>
+<p>Wir möchten Sie darüber informieren, dass [=member] ([=memberEmail]) "[=host]" gelöscht hat.</p>
 
 [=footer]
 ''',
@@ -574,7 +574,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   "AT$atArchiveTask": "[=who] peekaboo [=what]",
   "AT$atUnarchiveTask": "[=who] reshowed [=what]",
   "AT$atAddProject": "[=who] hat [=what] erstellt",
-  "AT$atRemoveProject": "[=who] hat das Projekt [=value] entfernt",
+  "AT$atRemoveProject": "[=who] hat das Projekt [=what] entfernt",
+  "AT$atUndoRemoveProject": "[=who] hat das Entfernen von [=what] rückgängig gemacht",
   "AT$atEditProject": "[=who] hat [=what] bearbeitet",
   "AT$atAddProjectMember": "[=who] hat [=value] zu [=what] hinzugefügt",
   "AT$atRemoveProjectMember": "[=who] hat [=value] von [=what] entfernt",
@@ -603,7 +604,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   "AT$atArchiveProject": "[=who] hat [=what] archiviert",
   "AT$atUnarchiveProject": "[=who] hat [=what] aus dem Archiv geholt",
   "AT$atAddOrganization": "[=who] hat [=what] erstellt",
-  "AT$atRemoveOrganization": "[=who] hat die Organisation [=value] entfernt",
+  "AT$atRemoveOrganization": "[=who] hat die Organisation [=what] entfernt",
+  "AT$atUndoRemoveOrganization": "[=who] hat das Entfernen von [=what] rückgängig gemacht",
   "AT$atEditOrganization": "[=who] hat [=what] bearbeitet",
   "AT$atAddOrganizationMember": "[=who] hat [=value] zu [=what] hinzugefügt",
   "AT$atRemoveOrganizationMember": "[=who] hat [=value] aus [=what] entfernt",

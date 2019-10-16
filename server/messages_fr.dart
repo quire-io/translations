@@ -486,10 +486,12 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
 <p>Nous vous écrivons pour vous informer que [=member] ([=memberEmail]) a créé [=project].</p>
 [=footer]
 ''',
-  mEmailDeleteProjectSubject: "Quire : [=member] a supprimé [=project]",
-  mEmailDeleteProjectContent: '''
+  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostContent: '''
 [=header]
-<p>Nous vous écrivons pour vous informer que [=member] ([=memberEmail]) a supprimé "[=project]".</p>
+
+<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+
 [=footer]
 ''',
   mEmailAppRejectedSubject: "[=app] a été rejetée",
@@ -560,6 +562,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   "AT$atUnarchiveTask": "[=who] a réaffiché [=what]",
   "AT$atAddProject": "[=who] a créé [=what]",
   "AT$atRemoveProject": "[=who] a supprimé le projet [=value]",
+  "AT$atUndoRemoveProject": "[=who] undid the removal of [=what]",
   "AT$atEditProject": "[=who] a modifié [=what]",
   "AT$atAddProjectMember": "[=who] a ajouté [=value] à [=what]",
   "AT$atRemoveProjectMember": "[=who] a supprimé [=value] de [=what]",
@@ -589,6 +592,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   "AT$atUnarchiveProject": "[=who] a désarchivé [=what]",
   "AT$atAddOrganization": "[=who] a créé [=what]",
   "AT$atRemoveOrganization": "[=who] a supprimé l'organisation [=value]",
+  "AT$atUndoRemoveOrganization": "[=who] undid the removal of [=what]",
   "AT$atEditOrganization": "[=who] a modifié [=what]",
   "AT$atAddOrganizationMember": "[=who] a ajouté [=value] à [=what]",
   "AT$atRemoveOrganizationMember": "[=who] a retiré [=value] de [=what]",

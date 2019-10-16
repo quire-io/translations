@@ -502,11 +502,11 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 
 [=footer]
 ''',
-  mEmailDeleteProjectSubject: "Quire：[=member]さんが[=project]を削除しました",
-  mEmailDeleteProjectContent: '''
+  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostContent: '''
 [=header]
 
-<p>[=member]さん([=memberEmail])が「[=project]」を削除しました。</p>
+<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
 
 [=footer]
 ''',
@@ -578,6 +578,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   "AT$atUnarchiveTask": "[=who]さんが[=what]を再表示しました",
   "AT$atAddProject": "[=who]さんが[=what]を作成しました",
   "AT$atRemoveProject": "[=who]さんがプロジェクト[=value]を消去しました",
+  "AT$atUndoRemoveProject": "[=who] undid the removal of [=what]",
   "AT$atEditProject": "[=who]さんが[=what]を編集しました",
   "AT$atAddProjectMember": "[=who]さんが[=what]に[=value]を追加しました",
   "AT$atRemoveProjectMember": "[=who]さんが[=what]から[=value]を消去しました",
@@ -607,6 +608,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   "AT$atUnarchiveProject": "[=who]さんが[=what]のアーカイブを解除しました",
   "AT$atAddOrganization": "[=who]さんが[=what]を作成しました",
   "AT$atRemoveOrganization": "[=who]さんが組織[=value]を消去しました",
+  "AT$atUndoRemoveOrganization": "[=who] undid the removal of [=what]",
   "AT$atEditOrganization": "[=who]さんが[=what]を編集しました",
   "AT$atAddOrganizationMember": "[=who]さんが[=what]に[=value]を追加しました",
   "AT$atRemoveOrganizationMember": "[=who]さんが[=what]から[=value]を消去しました",

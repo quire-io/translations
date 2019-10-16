@@ -217,8 +217,8 @@ const enServer = const <String, String> {
   mSignupAccountLogin: "Log in here",
 
   mDeleteAccountNotEmpty:
-    'You must have your membership removed from [=granted], or delete them '
-    'before you can delete your account.',
+    'Sorry, you cannot delete your account because you are the only admin in [=granted] '
+    'Please add another admin, or delete the organization(s) first.',
 
   mAlreadySignupMailTitle: 'Hi there!',
   mAlreadySignupMailDesc: 
@@ -599,12 +599,12 @@ including account-related notifications and task activities.</p>
 [=footer]
 ''',
 
-  mEmailDeleteProjectSubject: "Quire: [=member] has deleted [=project]",
-  mEmailDeleteProjectContent: 
+  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostContent: 
 '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=project]".</p>
+<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
 
 [=footer]
 ''',
@@ -725,7 +725,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atAddProject":
     "[=who] created [=what]",
   "AT$atRemoveProject":
-    "[=who] removed the project [=value]",
+    "[=who] removed the project [=what]",
+  "AT$atUndoRemoveProject":
+    "[=who] undid the removal of [=what]",
   "AT$atEditProject":
     "[=who] edited [=what]",
   "AT$atAddProjectMember":
@@ -785,7 +787,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atAddOrganization":
     "[=who] created [=what]",
   "AT$atRemoveOrganization":
-    "[=who] removed the organization [=value]",
+    "[=who] removed the organization [=what]",
+  "AT$atUndoRemoveOrganization":
+    "[=who] undid the removal of [=what]",
   "AT$atEditOrganization":
     "[=who] edited [=what]",
   "AT$atAddOrganizationMember":

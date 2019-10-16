@@ -502,11 +502,11 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
 
 [=footer]
 ''',
-  mEmailDeleteProjectSubject: "Quire: [=member] eliminou [=project]",
-  mEmailDeleteProjectContent: '''
+  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostContent: '''
 [=header]
 
-<p>Estamos a escrever-lhe para informar que [=member] ([=memberEmail]) eliminou "[=project]".</p>
+<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
 
 [=footer]
 ''',
@@ -578,6 +578,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   "AT$atUnarchiveTask": "[=who] voltou a mostrar [=what]",
   "AT$atAddProject": "[=who] criou [=what]",
   "AT$atRemoveProject": "[=who] removeu o projeto [=value]",
+  "AT$atUndoRemoveProject": "[=who] undid the removal of [=what]",
   "AT$atEditProject": "[=who] editou [=what]",
   "AT$atAddProjectMember": "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveProjectMember": "[=who] removeu [=value] de [=what]",
@@ -607,6 +608,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   "AT$atUnarchiveProject": "[=who] desarquivou [=what]",
   "AT$atAddOrganization": "[=who] criou [=what]",
   "AT$atRemoveOrganization": "[=who] removeu a organização [=value]",
+  "AT$atUndoRemoveOrganization": "[=who] undid the removal of [=what]",
   "AT$atEditOrganization": "[=who] editou [=what]",
   "AT$atAddOrganizationMember": "[=who] adicionou [=value] a [=what]",
   "AT$atRemoveOrganizationMember": "[=who] removeu [=value] de [=what]",
