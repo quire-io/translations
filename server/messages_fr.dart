@@ -486,11 +486,11 @@ y compris les notifications à propos de votre compte et de l'activité des tâc
 <p>Nous vous écrivons pour vous informer que [=member] ([=memberEmail]) a créé [=project].</p>
 [=footer]
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire : [=member] a supprimé [=host]",
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>Nous vous écrivons pour vous informer que [=member] ([=memberEmail]) a supprimé "[=host]".</p>
 
 [=footer]
 ''',
