@@ -677,10 +677,10 @@ const jaClient = const <String, String> {
   mSettingOptionManageTags: "タグを管理",
   mSettingOptionSyncCalendar: "カレンダーと同期",
   mSettingOptionIntegra: "[=name]と連携",
-  mStandardThemes: "明るい白基調、落ち着いた黒基調",
+  mStandardThemes: "明るい白基調,落ち着いた黒基調",
   mQuireAppCategories:
-    "bot＝ボット;com＝コミュニケーション;crm＝顧客サポート;dev＝開発;"
-    "file＝ファイル管理;mkt＝マーケティング;fin＝財務;rptrpt＝報告;sale＝販売;time＝時間管理",
+    "bot=ボット;com=コミュニケーション;crm=顧客サポート;dev=開発;"
+    "file=ファイル管理;mkt=マーケティング;fin=財務;rpt=報告;sale=販売;time=時間管理",
   mDeleteOrganization: "この組織を削除",
   mDeleteProjectLotTitle: "スマートフォルダーを削除",
   mDeleteProjectTitle: "プロジェクトを削除",
@@ -1020,7 +1020,7 @@ const jaClient = const <String, String> {
   mAppAuthWhen: '[=when]に認証されました',
   mAppAuthTargetAll: 'すべての組織とプロジェクト',
   mAppInstallAllProject: 'すべてのプロジェクト',
-  mAppTaskTarget: 'my＝自分のタスク;all＝すべてのタスク',
+  mAppTaskTarget: 'my=自分のタスク;all=すべてのタスク',
   mAppAuthAllowTo: '許可：',
   mAppAuthShowNotAllowTo: 'このアプリにアクセスを許可しない項目を表示',
   mAppAuthNotAllowTo: '不許可：'

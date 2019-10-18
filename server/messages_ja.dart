@@ -846,7 +846,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAppDirectoryTitleIntro: 'プロジェクト管理をより楽しくかんたんにする、おすすめの連携サービスです。',
   mAppSearchPlaceholder: "検索アプリ",
   mAppDirectoryBackApps: '閲覧アプリ',
-  mAppDirectorySidebarItems: 'popular＝人気;new＝最新;quire＝Quire作成;=すべて',
+  mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
   mAppDeveloperHeader: "開発者",
   mAppDeveloperTitle: "Quireと一緒に、すごいものを作りましょう！",
   mAppDeveloperTitleIntro: 'Quireに関わる開発者たちと一緒に、ご自身やチームがQuireをもっと便利に楽しむためのアプリを開発しませんか。',
