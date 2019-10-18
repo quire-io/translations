@@ -719,7 +719,7 @@ const frClient = const <String, String> {
     "<b>[=email]</b>, et toutes les données associées.",
   mDeleteAccountConfirm: "Je suis conscient que je <strong>ne pourrai pas annuler</strong> ceci.",
   mDeleteAccount: "Supprimer Mon Compte",
-  mRestoreDeletedEntityContent: 'Are you sure you want to restore the deleted [=host]?',
+  mRestoreDeletedEntityContent: 'Êtes-vous sûr(e) de vouloir restaurer [=host] ?',
   mLeaveOrganizationTitle: "Quitter l'organisation",
   mLeaveOrganizationDesc: "Vous n'aurez plus accès à cette organisation. Êtes-vous sûr(e) de vouloir quitter ?",
   mLeaveProjectTitle: "Quitter le projet",
