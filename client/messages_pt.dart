@@ -269,7 +269,7 @@ const ptClient = const <String, String> {
   mMenuItemSortByTag: "Ordenar por tag",
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Membros,Filtros guardados",
   mBaseFilterLabel: "Todas, Ativas, Concluídas, Por Fazer, Em Andamento, Peekaboo",
-  mExtFilterLabel: "A Seguir,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,As Minhas Tarefas,Boards,Unread",
+  mExtFilterLabel: "A Seguir,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,As Minhas Tarefas,Boards,Unread,Projetos",
   mGrouperLabel: "Colaborador,Data,Prioridade,Agendado Por Dia,Agendado Por Semana,Concluído Por Semana,Criar Por Semana,Iniciar Por Semana,Atualizar Por Semana,Estado,Nome,Tag,Projeto",
   mFilterOperatorLabels: '+=And;|=Or;-=Not',
   mFilterRecentHistory: "Histórico recente",
