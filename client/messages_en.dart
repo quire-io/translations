@@ -327,7 +327,7 @@ const enClient = const <String, String> {
 
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
   mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread",
-  mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag",
+  mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag,Project",
 
   mFilterOperatorLabels: '+=And;|=Or;-=Not',
 

@@ -265,7 +265,7 @@ const jaClient = const <String, String> {
   mSearchSectionLabel: "組織,スマートフォルダー,プロジェクト,メンバー,保存したフィルター",
   mBaseFilterLabel: "すべて,有効,完了,開始前,進行中,あとで表示",
   mExtFilterLabel: "フォロー中,設定者,作成者,担当者,タグ,優先度,お気に入り,自分のタスク,ボード,未読",
-  mGrouperLabel: "担当者,日付,優先度,期限日,期限の週,完了の週,作成の週,開始の週,更新の週,状態,名前,タグ",
+  mGrouperLabel: "担当者,日付,優先度,期限日,期限の週,完了の週,作成の週,開始の週,更新の週,状態,名前,タグ,プロジェクト",
   mFilterOperatorLabels: '+=And;|=Or;-=Not',
   mFilterRecentHistory: "閲覧履歴",
   mCusFilterSortLabel: "並べ替え",
