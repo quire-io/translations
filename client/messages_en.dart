@@ -562,7 +562,7 @@ const enClient = const <String, String> {
   mTaskRecurringLabelEveryWeeks: "weeks",
   mTaskRecurringLabelEveryMonths: "months",
 
-  mTaskRecurringOptionLabelSinceCompleted: "Since my last completed day",
+  mTaskRecurringOptionLabelSinceCompleted: "Since latest completion",
   mTaskRecurringOptionLabelUntilEnds: "Ends",
 
   mTaskRecurringOptionNever: "never",

@@ -90,6 +90,20 @@ const enServer = const <String, String> {
   mFeedbackU: "FEEDBACK",
   mDocumentationU: "DOCUMENTATION",
 
+
+  mFooterLinkCategoryQuire: "Quire",
+  mFooterLinkHome: "Home",
+  mFooterLinkFeature: "Feature",
+  mFooterLinkDownloadiOS: "Download iOS App",
+  mFooterLinkDownloadAndroid: "Download Andriod App",
+  mFooterLinkSecurity: "Security",
+
+  mFooterLinkCategorySupport: "Support & Resources",
+  mFooterLinkUserGuide: "User Guide",
+  mFooterLinkDevelopers: "Developers & API",
+
+  mFooterLinkCategoryCompany: "Company",
+
   mPost: "Post",
   mGotIt: "Got it!",
 
