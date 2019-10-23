@@ -94,7 +94,7 @@ const enServer = const <String, String> {
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
   mFooterLinkDownloadiOS: "Download iOS App",
-  mFooterLinkDownloadAndroid: "Download Andriod App",
+  mFooterLinkDownloadAndroid: "Download Android App",
   mFooterLinkSecurity: "Security",
 
   mFooterLinkCategorySupport: "Support & Resources",
