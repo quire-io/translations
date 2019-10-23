@@ -84,7 +84,6 @@ const esServer = const <String, String> {
   mDocumentationU: "DOCUMENTACIÓN",
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
-  mFooterLinkFeature: "Feature",
   mFooterLinkDownloadiOS: "Download iOS App",
   mFooterLinkDownloadAndroid: "Download Andriod App",
   mFooterLinkSecurity: "Security",

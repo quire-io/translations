@@ -84,7 +84,6 @@ const jaServer = const <String, String> {
   mDocumentationU: "ドキュメント",
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
-  mFooterLinkFeature: "Feature",
   mFooterLinkDownloadiOS: "Download iOS App",
   mFooterLinkDownloadAndroid: "Download Andriod App",
   mFooterLinkSecurity: "Security",
