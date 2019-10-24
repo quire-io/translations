@@ -902,6 +902,7 @@ const jaClient = const <String, String> {
   mGroupDropRemoveStart: "ここにドロップして、タスクから開始日を消去",
   mGroupDropTag: "ここにドロップして、タスクにこのタグを設定",
   mGroupDropRemoveTag: "ここにドロップして、タスクからタグを消去",
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "ドラッグ＆ドロップして、状態を設定",
   mDragTooltipPriority: "ドラッグ＆ドロップして、優先度を設定",
   mDragTooltipTag: "ドラッグ＆ドロップして、タグを設定",

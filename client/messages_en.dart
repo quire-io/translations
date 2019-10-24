@@ -1160,6 +1160,7 @@ const enClient = const <String, String> {
   mGroupDropTag: "Drop tasks here to set this tag",
   mGroupDropRemoveTag: "Drop tasks here to remove tag",
 
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "Drag and drop to set status",
   mDragTooltipPriority: "Drag and drop to set priority",
   mDragTooltipTag: "Drag and drop to set tag",

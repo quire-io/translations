@@ -907,6 +907,7 @@ const ptBrClient = const <String, String> {
   mGroupDropRemoveStart: "Solte as tarefas aqui para remover datas de início",
   mGroupDropTag: "Solte as tarefas aqui para definir essa tag",
   mGroupDropRemoveTag: "Solte as tarefas aqui para remover a tag",
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "Arraste e solte para definir o estado",
   mDragTooltipPriority: "Arraste e solte para definir a prioridade",
   mDragTooltipTag: "Arraste e solte para definir a tag",

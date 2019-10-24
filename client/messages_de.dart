@@ -898,6 +898,7 @@ const deClient = const <String, String> {
   mGroupDropRemoveStart: "Aufgaben hier ablegen, um Startdaten zu entfernen",
   mGroupDropTag: "Legen Sie Aufgaben hier ab, um dieses Label zu setzen",
   mGroupDropRemoveTag: "Legen Sie Aufgaben hier ab, um das Label zu entfernen",
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "Drag & Drop, um Status festzulegen",
   mDragTooltipPriority: "Drag & Drop, um Priorität festzulegen",
   mDragTooltipTag: "Drag & Drop, um Label zu setzen",

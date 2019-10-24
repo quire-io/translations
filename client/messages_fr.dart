@@ -902,6 +902,7 @@ const frClient = const <String, String> {
   mGroupDropRemoveStart: "Déposez les tâches ici pour retirer les dates de début",
   mGroupDropTag: "Déposez les tâches ici pour utiliser cette étiquette",
   mGroupDropRemoveTag: "Déposez les tâches ici pour supprimer l'étiquette",
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "Glissez-déposez pour définir le statut",
   mDragTooltipPriority: "Glissez-déposez pour définir la priorité",
   mDragTooltipTag: "Glissez-déposez pour définir une étiquette",

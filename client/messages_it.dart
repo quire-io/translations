@@ -902,6 +902,7 @@ const itClient = const <String, String> {
   mGroupDropRemoveStart: "Drop tasks here to remove start dates",
   mGroupDropTag: "Drop tasks here to set this tag",
   mGroupDropRemoveTag: "Drop tasks here to remove tag",
+  mDragTooltipProject: "Drag and drop to set project",
   mDragTooltipState: "Drag and drop to set status",
   mDragTooltipPriority: "Drag and drop to set priority",
   mDragTooltipTag: "Drag and drop to set tag",
