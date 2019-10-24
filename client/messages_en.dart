@@ -293,6 +293,7 @@ const enClient = const <String, String> {
     //more likely being attacked (so need to describe details)
 
   mMenuAddTask: "Add task (t)",
+  mMenuAddToMyTask: "Add to My Tasks (m)",
   mAddTask: "Add task (&#8629;)",
   mAddSubTask: "Add subtask (Shift+&#8629;)",
   mAddBoardTask: "Add tasks",
@@ -1202,6 +1203,7 @@ const enClient = const <String, String> {
   mProfileViewTooltip: "Overview",
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "My Tasks",
+  mUserTaskViewTooltip: "Tasks",
   mBoardViewTooltip: "Board",
 
   // profile
@@ -1216,10 +1218,7 @@ const enClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
   mStatsWeeklyAssignedToMeLabel: "Assigned to me",
   mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
-
-  mStatsMyTasksSec: "My Tasks",
-  mStatsUserTasksSec: "'s Tasks",
-
+  
   // App/API
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Create new app",
