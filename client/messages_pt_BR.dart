@@ -897,6 +897,7 @@ const ptBrClient = const <String, String> {
   mGroupDropStateToComplete: "Solte as tarefas aqui para concluir",
   mGroupDropStateToStart: "Solte as tarefas aqui para iniciar",
   mGroupDropStateToPostpone: "Solte as tarefas aqui para adiar",
+  mGroupDropProject: "Drop tasks here to set this project",
   mGroupDropPriority: "Solte as tarefas aqui para definir essa prioridade",
   mGroupDropAssignee: "Solte as tarefas aqui para definir esse responsável",
   mGroupDropUnassign: "Solte as tarefas aqui para remover responsáveis",

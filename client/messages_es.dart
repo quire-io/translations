@@ -892,6 +892,7 @@ const esClient = const <String, String> {
   mGroupDropStateToComplete: "Soltar la tarea aquí para completar",
   mGroupDropStateToStart: "Soltar las tareas aquí para empezar",
   mGroupDropStateToPostpone: "Soltar las tareas aquí para posponer",
+  mGroupDropProject: "Drop tasks here to set this project",
   mGroupDropPriority: "Soltar tareas aquí para establecer su prioridad",
   mGroupDropAssignee: "Soltar tareas aquí para establecer su asignación",
   mGroupDropUnassign: "Soltar tareas aquí para quitar su asignación",

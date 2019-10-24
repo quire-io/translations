@@ -892,6 +892,7 @@ const jaClient = const <String, String> {
   mGroupDropStateToComplete: "ここにドロップしてタスクを完了",
   mGroupDropStateToStart: "ここにドロップしてタスクを開始",
   mGroupDropStateToPostpone: "ここにドロップしてタスクを延期",
+  mGroupDropProject: "Drop tasks here to set this project",
   mGroupDropPriority: "ここにドロップして、タスクにこの優先度を設定",
   mGroupDropAssignee: "ここにドロップして、タスクにこの担当者を設定",
   mGroupDropUnassign: "ここにドロップして、タスクから担当者を消去",

@@ -892,6 +892,7 @@ const itClient = const <String, String> {
   mGroupDropStateToComplete: "Drop tasks here to complete",
   mGroupDropStateToStart: "Drop tasks here to start",
   mGroupDropStateToPostpone: "Drop tasks here to postpone",
+  mGroupDropProject: "Drop tasks here to set this project",
   mGroupDropPriority: "Drop tasks here to set this priority",
   mGroupDropAssignee: "Drop tasks here to set this assignee",
   mGroupDropUnassign: "Drop tasks here to remove assignees",

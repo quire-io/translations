@@ -888,6 +888,7 @@ const deClient = const <String, String> {
   mGroupDropStateToComplete: "Aufgaben zum Erledigen hier ablegen",
   mGroupDropStateToStart: "Aufgaben zum Starten hier ablegen",
   mGroupDropStateToPostpone: "Aufgaben zum Aufschieben hier ablegen",
+  mGroupDropProject: "Drop tasks here to set this project",
   mGroupDropPriority: "Aufgaben hier ablegen, um diese Priorität festzulegen",
   mGroupDropAssignee: "Aufgaben hier ablegen, um diese Person zuzuweisen",
   mGroupDropUnassign: "Aufgaben hier ablegen, um diese Personen zu entfernen",
