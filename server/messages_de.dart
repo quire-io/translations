@@ -777,6 +777,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingOptionLeaveOrganization: "Organisation verlassen",
   mSettingOptionDeleteOrganization: "Organisation löschen",
   mSettingOptionManageDeveloperApps: "Entwickler-Apps verwalten",
+  mChangeDisplayMode: "Change display mode",
   mChangeProfileVisibility: "Profilsichtbarkeit ändern",
   mProfileVisibilityAll: "Nichtmitglieder sehen nur Ihre allgemeinen Profilangaben, ausschließlich Ihrer E-Mail Adresse.",
   mProfileVisibilityMember: "Nichtmitglieder können nicht auf ihre Profilseite zugreifen.",
@@ -790,6 +791,9 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mRecentActivities: "Aktivitäten",
   mUpdateFromQuire: "Ich möchte E-Mails erhalten...",
   mMembersSecDesc: "Mitglieder einer Organisation haben Zugriff auf alle zugehörigen Projekte.",
+  mAutoMode: "(auto)",
+  mBasicMode: "Basic",
+  mAdvancedMode: "Advanced",
   mIntegraGithubDesc:
     "Wählen sie ein oder mehrere Repositories die Sie verbinden möchten. "
     "Sie können bereits ausgewählte Repositories wieder abwählen.",

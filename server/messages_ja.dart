@@ -780,6 +780,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingOptionLeaveOrganization: "組織を退出",
   mSettingOptionDeleteOrganization: "組織を削除",
   mSettingOptionManageDeveloperApps: "開発者アプリを管理",
+  mChangeDisplayMode: "Change display mode",
   mChangeProfileVisibility: "プロフィールの公開範囲を変更",
   mProfileVisibilityAll: "メンバー以外のユーザーは、メールアドレスを除いて、あなたの基本情報を閲覧できます。",
   mProfileVisibilityMember: "メンバー以外のユーザーは、あなたのプロフィールにアクセスできません。",
@@ -793,6 +794,9 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mRecentActivities: "アクティビティー履歴",
   mUpdateFromQuire: "Quireからのお知らせ",
   mMembersSecDesc: "組織のメンバーは、所属組織のプロジェクトにアクセスできます。",
+  mAutoMode: "(auto)",
+  mBasicMode: "Basic",
+  mAdvancedMode: "Advanced",
   mIntegraGithubDesc:
     "連携するリポジトリを選択してください。"
     "選択後にチェックをはずすことができます。",

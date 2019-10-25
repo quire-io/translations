@@ -781,6 +781,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mSettingOptionLeaveOrganization: "Sair da organização",
   mSettingOptionDeleteOrganization: "Eliminar organização",
   mSettingOptionManageDeveloperApps: "Gerir Aplicações do Desenvolvedor",
+  mChangeDisplayMode: "Change display mode",
   mChangeProfileVisibility: "Alterar visibilidade do perfil",
   mProfileVisibilityAll: "Utilizadores não-membros só podem ver as suas informações básicas excluindo o email.",
   mProfileVisibilityMember: "Utilizadores não-membros não podem aceder à sua página de perfil.",
@@ -794,6 +795,9 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mRecentActivities: "Atividades Recentes",
   mUpdateFromQuire: "Atualizações do Quire",
   mMembersSecDesc: "Os membros de uma organização têm acesso a qualquer projeto que pertença à mesma.",
+  mAutoMode: "(auto)",
+  mBasicMode: "Basic",
+  mAdvancedMode: "Advanced",
   mIntegraGithubDesc:
     "Selecione um ou mais repositórios aos quais deseja conectar-se. "
     "Pode desmarcar aqueles que selecionou.",

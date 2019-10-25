@@ -780,6 +780,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingOptionLeaveOrganization: "Leave organization",
   mSettingOptionDeleteOrganization: "Delete organization",
   mSettingOptionManageDeveloperApps: "Manage Developer Apps",
+  mChangeDisplayMode: "Change display mode",
   mChangeProfileVisibility: "Change profile visibility",
   mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
   mProfileVisibilityMember: "Non-member users cannot access your profile page.",
@@ -793,6 +794,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mRecentActivities: "Recent Activities",
   mUpdateFromQuire: "Updates from Quire",
   mMembersSecDesc: "Members in an organization have access to any project belonging to it.",
+  mAutoMode: "(auto)",
+  mBasicMode: "Basic",
+  mAdvancedMode: "Advanced",
   mIntegraGithubDesc:
     "Select one or more repositories you want to connect to. "
     "You can uncheck those you have selected.",

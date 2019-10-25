@@ -764,6 +764,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingOptionLeaveOrganization: "Quitter l'organisation",
   mSettingOptionDeleteOrganization: "Supprimer l'organisation",
   mSettingOptionManageDeveloperApps: "Gérer les applications développées",
+  mChangeDisplayMode: "Change display mode",
   mChangeProfileVisibility: "Modifier la visiblité du profil",
   mProfileVisibilityAll: "Les utilisateurs non membres peuvent seulement voir vos informations de base, sans l'adresse email.",
   mProfileVisibilityMember: "Les utilisateurs non membres ne peuvent pas accéder à votre page de profil.",
@@ -777,6 +778,9 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mRecentActivities: "Activités Récentes",
   mUpdateFromQuire: "Informations de Quire",
   mMembersSecDesc: "Les membres d'une organisation ont accès à tous les projets qui en font partie.",
+  mAutoMode: "(auto)",
+  mBasicMode: "Basic",
+  mAdvancedMode: "Advanced",
   mIntegraGithubDesc:
     "Sélectionnez un ou plusieurs dépôts que vous voulez connecter. "
     "Vous pouvez annuler ce que vous avez sélectionné.",
