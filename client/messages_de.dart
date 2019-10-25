@@ -526,6 +526,7 @@ const deClient = const <String, String> {
   mBoardListTooltip: "Board-Liste",
   mCommentsRemoved: "Dieser Kommentar wurde entfernt.",
   mReloadAltModeHint: "Drücken Sie [=ctrlAlt] nochmal, um Aufgaben ID und weiteres auszublenden.",
+  mNewMyTaskNameHint: "Type #, !, < and ^ to set tags, priority and due date",
   mNewTaskNameHint1: "Tippen Sie @, #, <, ! und ^ um Beauftragte, Tags...",
   mNewTaskNameHint2: "Drücken Sie Tab und Shift+Tab, um Aufgaben horizontal zu verschieben",
   mNewTaskNameHint3: "Drücken Sie Esc oder Enter, um das Hinzufügen von Aufgaben zu beenden",

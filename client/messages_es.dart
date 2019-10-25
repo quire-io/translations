@@ -532,6 +532,7 @@ const esClient = const <String, String> {
   mBoardListTooltip: "Lista de tableros",
   mCommentsRemoved: "Este comentario ha sido eliminado.",
   mReloadAltModeHint: "Pulsa [=ctrlAlt] de nuevo para desactivar la visualización de la ID de tarea, y más.",
+  mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Pulsa @, #, <, ! y ^ para establecer los asignados, etiquetas...",
   mNewTaskNameHint2: "Pulsa Tab y Mayus+Tab para mover la tarea horizontalmente",
   mNewTaskNameHint3: "Presiona Esc o Entrar para dejar de añadir tareas",

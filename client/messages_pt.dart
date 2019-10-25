@@ -537,6 +537,7 @@ const ptClient = const <String, String> {
   mBoardListTooltip: "Lista de Quadro",
   mCommentsRemoved: "Este comentário foi removido.",
   mReloadAltModeHint: "Pressione [=ctrlAlt] novamente para desligar a exibição da ID da tarefa e mais.",
+  mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Digite @, #, <, ! e ^ para definir colaboradores, tags...",
   mNewTaskNameHint2: "Pressione Tab e Shift+Tab para mover a tarefa horizontalmente",
   mNewTaskNameHint3: "Pressione Esc para parar de adicionar tarefas",

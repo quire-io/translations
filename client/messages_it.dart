@@ -532,6 +532,7 @@ const itClient = const <String, String> {
   mBoardListTooltip: "Board list",
   mCommentsRemoved: "This comment has been removed.",
   mReloadAltModeHint: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
+  mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Type @, #, <, ! and ^ to set assignees, tags...",
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
   mNewTaskNameHint3: "Press Esc or Enter to stop adding tasks",

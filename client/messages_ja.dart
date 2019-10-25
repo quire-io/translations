@@ -532,6 +532,7 @@ const jaClient = const <String, String> {
   mBoardListTooltip: "ボード一覧",
   mCommentsRemoved: "このコメントは消去されました。",
   mReloadAltModeHint: "タスクIDなどを非表示にするには、再度「[=ctrlAlt]」キーを押します。",
+  mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "担当者やタグを設定するには、「@」「#」「<」「!」「^」などを入力します。",
   mNewTaskNameHint2: "タスクを横に移動するには、「Tab」や「Shift+Tab」キーを押します。",
   mNewTaskNameHint3: "タスクの追加を中止するには、「Esc」または「Enter」キーを押します。",

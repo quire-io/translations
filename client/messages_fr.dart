@@ -532,6 +532,7 @@ const frClient = const <String, String> {
   mBoardListTooltip: "Liste des tableaux",
   mCommentsRemoved: "Ce commentaire a été supprimé.",
   mReloadAltModeHint: "Tapez de nouveau [=ctrlAlt] pour désactiver entre autres l'affichage de l'ID des tâches.",
+  mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Tapez @, #, <, ! et ^ pour définir les attributions, les étiquettes...",
   mNewTaskNameHint2: "Tapez Tab et Maj+Tab pour déplacer une tâche horizontalement",
   mNewTaskNameHint3: "Tapez Esc ou Entrer pour arrêter d'ajouter des tâches",
