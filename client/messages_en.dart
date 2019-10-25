@@ -1189,9 +1189,9 @@ const enClient = const <String, String> {
   mTipSelectDarkTheme:
     'You can <a href="/r/setting?tab=options">switch to dark theme</a> in your Account Settings.',
   mTipExcluded:
-    "Tasks completed long ago are excluded.",
+    "Tasks that are completed long time ago are excluded.",
   mTipExcludedOption:
-    "Tasks completed long ago are excluded. "
+    "Tasks that are completed long time ago are excluded. "
     "You can click here to see more.",
   mTipCheckTutorial:
     "Not sure how to get started? "
