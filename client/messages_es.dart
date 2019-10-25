@@ -858,6 +858,7 @@ const esClient = const <String, String> {
   mAddTaskToBoardTitle: 'Añadir Tareas Existentes',
   mAddTaskToBoardContent: 'Puedes seleccionar tareas existentes para añadir a este tablero.',
   mAddedInBoardTooltip: 'Añadido a <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: 'Cambio de Estado',
   mConfirmAddTaskToBoardContent:
     "La tarea que has seleccionado [=task] tiene un estado diferente. "

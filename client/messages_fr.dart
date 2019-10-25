@@ -858,6 +858,7 @@ const frClient = const <String, String> {
   mAddTaskToBoardTitle: 'Ajouter des tâches existantes',
   mAddTaskToBoardContent: 'Vous pouvez sélectionner des tâches existantes à ajouter à ce tableau.',
   mAddedInBoardTooltip: 'Ajouté dans <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: 'Modification du statut',
   mConfirmAddTaskToBoardContent:
     "La tâche [=task] que vous avez sélectionnée a un statut différent. "

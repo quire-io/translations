@@ -863,6 +863,7 @@ const ptClient = const <String, String> {
   mAddTaskToBoardTitle: 'Adicionar Tarefas Existentes',
   mAddTaskToBoardContent: 'Pode selecionar tarefas existentes para adicionar a este quadro.',
   mAddedInBoardTooltip: 'Adicionado a <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: 'Alteração de Estado',
   mConfirmAddTaskToBoardContent:
     "A tarefa que selecionou [=task] tem um estado diferente. "

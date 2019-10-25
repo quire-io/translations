@@ -858,6 +858,7 @@ const jaClient = const <String, String> {
   mAddTaskToBoardTitle: '既存のタスクを追加',
   mAddTaskToBoardContent: '既存のタスクを選択してこのボードに追加できます。',
   mAddedInBoardTooltip: '<i>[=board]</i>に追加しました',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: '状態を変更',
   mConfirmAddTaskToBoardContent:
     "選択したタスク[=task]は状態が異なります。"

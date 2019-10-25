@@ -1099,6 +1099,7 @@ const enClient = const <String, String> {
   mAddTaskToBoardContent: 
     'You can select existing tasks to add to this board.',
   mAddedInBoardTooltip: 'Added in <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
 
   mConfirmAddTaskToBoardTitle: 'Status Change',
   mConfirmAddTaskToBoardContent:

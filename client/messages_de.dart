@@ -854,6 +854,7 @@ const deClient = const <String, String> {
   mAddTaskToBoardTitle: 'Vorhandene Aufgaben hinzufügen',
   mAddTaskToBoardContent: 'Sie können vorhandene Aufgaben auswählen und zu diesem Board hinzufügen.',
   mAddedInBoardTooltip: 'Hinzugefügt zu <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: 'Statusänderung',
   mConfirmAddTaskToBoardContent:
     "Die von Ihnen ausgewählte Aufgabe [=task] hat einen anderen Status. "

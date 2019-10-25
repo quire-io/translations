@@ -858,6 +858,7 @@ const itClient = const <String, String> {
   mAddTaskToBoardTitle: 'Add Existing Tasks',
   mAddTaskToBoardContent: 'You can select existing tasks to add to this board.',
   mAddedInBoardTooltip: 'Added in <i>[=board]</i>',
+  mAddedMyTaskMessage: 'Added [=task]',
   mConfirmAddTaskToBoardTitle: 'Status Change',
   mConfirmAddTaskToBoardContent:
     "The task you selected [=task] has a different status. "
