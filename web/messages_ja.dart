@@ -17,8 +17,8 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const jaWeb = const <String, String> {
-  mSlogan: "アイデアを、広げよう。",
-  mSloganSentence: "アイデアを、広げよう。",
+  mSlogan: "アイデアを広げよう。",
+  mSloganSentence: "アイデアを広げよう。",
   mSloganSubtitle: 'プロジェクトの成功へ 、ビジュアル重視のコラボレーション・プラットフォーム。',
   mQuireDescription: '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
   mHomeSectionDreamsTitle: "夢を、かたちに",
@@ -90,7 +90,7 @@ const jaWeb = const <String, String> {
   mFeatureBlinkSearchDesc: "プロジェクトや組織、メンバーを瞬時に見つけることができます。",
   mFeatureThemesTitle: "テーマ",
   mFeatureThemesDesc: "目にやさしく、白基調と黒基調のテーマを切り換えることができます。",
-  mFeatureHealthStatsTitle: "ヘルスモニター",
+  mFeatureHealthStatsTitle: "進捗チャート",
   mFeatureHealthStatsDesc: "プロジェクト全体や各メンバーの進捗を可視化して、ひと目で把握できます。",
   mFeatureRecurringTitle: "繰り返しタスク",
   mFeatureRecurringDesc: "いつもの作業を、予定日に自動で表示しましょう。",
@@ -109,7 +109,7 @@ const jaWeb = const <String, String> {
   mFeatureSiriTitle: "タスクのためのSiri",
   mFeatureSiriDesc: "声をかけるだけでスマートにタスクを管理できます。",
   mFeatureAndroidTitle: "Androidアプリ",
-  mFeatureAndroidDesc: "Androidスマホで、やりかけの仕事をオフラインでも続けることができます。",
+  mFeatureAndroidDesc: "Androidスマートフォンで、やりかけの仕事をオフラインでも続けることができます。",
   mFeatureGoogleCalendarTitle: "Googleカレンダーと同期",
   mFeatureGoogleCalendarDesc: "GoogleやiCal、Outlookカレンダーと同期してタスクを確認し、通知を受け取りましょう。",
   mFeatureSlackTitle: "Slackと連携",
@@ -119,7 +119,7 @@ const jaWeb = const <String, String> {
   mFeatureChromeExtensionTitle: "Chromeの拡張機能",
   mFeatureChromeExtensionDesc: "ChromeでかんたんにQuireにアクセスし、通知を表示しましょう。",
   mFeatureNameStyleTitle: "タスクの色とスタイル",
-  mFeatureNameStyleDesc: "色の変更や文字の太字表示で、タスクやプロジェクトを強調しましょう。",
+  mFeatureNameStyleDesc: "色の変更や文字の太字表示で、自分のタスクやプロジェクトを強調しましょう。",
   mFeatureShortcutsTitle: "キーボードショートカット",
   mFeatureShortcutsDesc: "マウスを使わずキーボードだけで素早く操作できます。",
   mFeatureSmartAddTitle: "スマートに追加",
@@ -143,7 +143,7 @@ const jaWeb = const <String, String> {
   mPricingPageDesc:
     "<p>料金について、よく質問されます。</p>"
     "<p>でも今は、試したいアイデアでいっぱい。私たちは料金プランを考えるよりも、まずQuireを充実させたいと考えています。</p>"
-    "<p>少なくとも2020年の前半までは、ご利用無料の予定です。</p>"
+    "<p>少なくとも2020年前半までは、ご利用無料の予定です。</p>"
     "<p>その間は、1アカウントにつき35グループ、プロジェクト80件、メンバー30人まで追加できます。</p>"
     "<p>しかもそれまでに追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
     '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
@@ -180,7 +180,7 @@ const jaWeb = const <String, String> {
   mMobileWelcomeP2Title: "スタートから完成まで",
   mMobileWelcomeP3Title: "もっと効率的に",
   mMobileWelcomeP4Title: "行動に移そう",
-  mMobileWelcomeP1Desc: "アイデアを、広げよう。",
+  mMobileWelcomeP1Desc: "アイデアを広げよう。",
   mMobileWelcomeP2Desc: "左右にスワイプして、タスクを完成、削除、追加できます。",
   mMobileWelcomeP3Desc: "かんばんボードで、選んだタスクに集中しましょう。",
   mMobileWelcomeP4Desc: "担当者やタグ、期限日を決めて、プロジェクトを開始しましょう。"
