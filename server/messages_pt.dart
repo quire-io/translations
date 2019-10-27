@@ -30,7 +30,7 @@ const ptServer = const <String, String> {
   mSidebarFav: "FAVORITOS",
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
-  mSidebarRecycleBin: 'Trash',
+  mSidebarRecycleBin: 'Lixo',
   mSidebarMembers: "MEMBROS",
   mAppCategoriesU: 'CATEGORIAS',
   mAppCategory: 'Categoria',
@@ -83,15 +83,15 @@ const ptServer = const <String, String> {
   mFeedbackU: "FEEDBACK",
   mDocumentationU: "DOCUMENTATION",
   mFooterLinkCategoryQuire: "Quire",
-  mFooterLinkHome: "Home",
-  mFooterLinkDownloadiOS: "Download iOS App",
-  mFooterLinkDownloadAndroid: "Download Android App",
+  mFooterLinkHome: "Página Inicial",
+  mFooterLinkDownloadiOS: "Descarregar App iOS",
+  mFooterLinkDownloadAndroid: "Descarregar App Android",
   mFooterLinkDownloadAndroidAPK: "Download Android APK",
-  mFooterLinkSecurity: "Security",
-  mFooterLinkCategorySupport: "Support & Resources",
-  mFooterLinkUserGuide: "User Guide",
-  mFooterLinkDevelopers: "Developers & API",
-  mFooterLinkCategoryCompany: "Company",
+  mFooterLinkSecurity: "Segurança",
+  mFooterLinkCategorySupport: "Suporte e Recursos",
+  mFooterLinkUserGuide: "Manual do Utilizador",
+  mFooterLinkDevelopers: "Desenvolvedores e API",
+  mFooterLinkCategoryCompany: "Companhia",
   mPost: "Publicar",
   mGotIt: "Entendi!",
   mReadOnly: "Somente Leitura",
@@ -512,11 +512,11 @@ incluindo notificações relacionadas com a sua conta e atividades de tarefas.</
 
 [=footer]
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire: [=member] eliminou [=host]",
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>Estamos a escrever-lhe para informar que [=member] ([=memberEmail]) eliminou "[=host]".</p>
 
 [=footer]
 ''',
@@ -781,7 +781,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mSettingOptionLeaveOrganization: "Sair da organização",
   mSettingOptionDeleteOrganization: "Eliminar organização",
   mSettingOptionManageDeveloperApps: "Gerir Aplicações do Desenvolvedor",
-  mChangeDisplayMode: "Change display mode",
+  mChangeDisplayMode: "Alterar modo de exibição",
   mChangeProfileVisibility: "Alterar visibilidade do perfil",
   mProfileVisibilityAll: "Utilizadores não-membros só podem ver as suas informações básicas excluindo o email.",
   mProfileVisibilityMember: "Utilizadores não-membros não podem aceder à sua página de perfil.",
@@ -796,8 +796,8 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mUpdateFromQuire: "Atualizações do Quire",
   mMembersSecDesc: "Os membros de uma organização têm acesso a qualquer projeto que pertença à mesma.",
   mAutoMode: "(auto)",
-  mBasicMode: "Basic",
-  mAdvancedMode: "Advanced",
+  mBasicMode: "Básico",
+  mAdvancedMode: "Avançado",
   mIntegraGithubDesc:
     "Selecione um ou mais repositórios aos quais deseja conectar-se. "
     "Pode desmarcar aqueles que selecionou.",
