@@ -53,9 +53,9 @@ const jaClient = const <String, String> {
   mDeleteBrowserCacheEtc:
     '<a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">ブラウザのキャッシュファイルをクリア</a>し、'
     'ページをリロード（再読み込み）してみてください。',
-  mCtrl: "「Ctrl」キー",
-  mShift: "「Shift」キー",
-  mAlt: "「Alt」キー",
+  mCtrl: "Ctrl",
+  mShift: "Shift",
+  mAlt: "Alt",
   mQuireCannotReach: "Quireにアクセスできません。",
   mQuireCannotReachDesc: "インターネット接続を確認してください。",
   mCantMoveInCurrentMode: "並び替えまたはフィルターモードでは、タスクを移動できません。",
@@ -456,7 +456,7 @@ const jaClient = const <String, String> {
     "1日;2日;3日;4日;5日;6日;7日;8日;9日;10日;"
     "11日;12日;13日;14日;15日;16日;17日;18日;19日;20日;"
     "21日;22日;23日;24日;25日;26日;27日;28日;29日;30日;31日",
-  mTaskRecurringOptionNWeeks: "1週;2週;3週;4週;5週",
+  mTaskRecurringOptionNWeeks: "第1週;第2週;第3週;第4週;第5週",
   mTaskRecurringOptionDayLast: "最終週",
   mTaskRecurringOptionDateLast: "最終日",
   mDatepickerSwitchTooltip: "開始／期限",
