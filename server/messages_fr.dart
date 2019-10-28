@@ -764,7 +764,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingOptionLeaveOrganization: "Quitter l'organisation",
   mSettingOptionDeleteOrganization: "Supprimer l'organisation",
   mSettingOptionManageDeveloperApps: "Gérer les applications développées",
-  mChangeDisplayMode: "Change display mode",
+  mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Modifier la visiblité du profil",
   mProfileVisibilityAll: "Les utilisateurs non membres peuvent seulement voir vos informations de base, sans l'adresse email.",
   mProfileVisibilityMember: "Les utilisateurs non membres ne peuvent pas accéder à votre page de profil.",

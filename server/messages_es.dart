@@ -780,7 +780,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mSettingOptionLeaveOrganization: "Salir de la organización",
   mSettingOptionDeleteOrganization: "Borrar la organización",
   mSettingOptionManageDeveloperApps: "Administrar las Apps para Desarrolladores",
-  mChangeDisplayMode: "Change display mode",
+  mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Cambiar visibilidad del perfil",
   mProfileVisibilityAll: "Los usuarios No-miembros users solo pueden ver tu información básica, excluyendo el email.",
   mProfileVisibilityMember: "Los usuarios No-miembros no pueden acceder a tu página de perfil.",

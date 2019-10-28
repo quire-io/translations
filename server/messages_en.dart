@@ -1033,7 +1033,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingOptionManageDeveloperApps: "Manage Developer Apps",
 
 
-  mChangeDisplayMode: "Change display mode",
+  mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Change profile visibility",
   mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
   mProfileVisibilityMember: "Non-member users cannot access your profile page.",
