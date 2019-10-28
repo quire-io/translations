@@ -851,7 +851,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mDeveloperConsoleTitle: "アプリ",
   mDeveloperConsoleIntro:
     'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。</br>'
-    "始め方が分からないときは、連携のための<a href='/doc/api/'>開発者ドキュメント</a>を参照してください。",
+    "始め方が分からないときは、連携のための<a href='/dev/api/'>開発者ドキュメント</a>を参照してください。",
   mAppListLastUpdate: '最新の更新',
   mAppDistributeListDate: '提出日',
   mAppDistributeListStatus: 'アプリの状態',
