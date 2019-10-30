@@ -779,8 +779,10 @@ const jaClient = const <String, String> {
   mPasteTaskSecondMessage:
     'タスクのインポート方法を選択してプレビューできます。'
     '<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">コピー＆ペースト</a>の詳しい説明。',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "タスク1件",
   mPasteTaskAsOption2: "複数のタスク",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "ルートタスク",
   mPasteTaskToOption1: "親タスクのレベル",
   mPasteTaskToOption2: "子タスクとして次レベル",

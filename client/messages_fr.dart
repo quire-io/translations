@@ -779,8 +779,10 @@ const frClient = const <String, String> {
   mPasteTaskSecondMessage:
     'Vous pouvez choisir comment les tâches sont importées et les prévisualiser ci-dessous. '
     'En savoir plus à propos du <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copier-coller.</a>',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "tâche unique",
   mPasteTaskAsOption2: "tâches multiples",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "tâches à la racine",
   mPasteTaskToOption1: "même niveau comme tâches",
   mPasteTaskToOption2: "niveau inférieur comme sous-tâches",

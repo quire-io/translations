@@ -784,8 +784,10 @@ const ptBrClient = const <String, String> {
   mPasteTaskSecondMessage:
     'Você pode escolher como as tarefas são importadas e visualizá-las abaixo. '
     'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "tarefa única",
   mPasteTaskAsOption2: "várias tarefas",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "tarefas raiz",
   mPasteTaskToOption1: "mesmo nível das tarefas",
   mPasteTaskToOption2: "nível inferior como subtarefas",

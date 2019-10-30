@@ -779,8 +779,10 @@ const itClient = const <String, String> {
   mPasteTaskSecondMessage:
     'You can choose how tasks are imported and preview them below. '
     'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "single task",
   mPasteTaskAsOption2: "multiple tasks",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "root tasks",
   mPasteTaskToOption1: "same level as tasks",
   mPasteTaskToOption2: "lower level as subtasks",

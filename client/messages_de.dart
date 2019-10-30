@@ -773,8 +773,10 @@ const deClient = const <String, String> {
   mPasteTaskSecondMessage:
     'Sie können wählen, wie Aufgaben importiert werden und weiter unten eine Vorschau sehen. '
     'Mehr zu <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">Kopieren und Einfügen</a>.',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "eine Aufgabe",
   mPasteTaskAsOption2: "mehrere Aufgaben",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "root tasks",
   mPasteTaskToOption1: "gleiche Ebene wie Aufgabe",
   mPasteTaskToOption2: "eine Ebene darunter als Unteraufgabe",

@@ -779,8 +779,10 @@ const esClient = const <String, String> {
   mPasteTaskSecondMessage:
     'Puedes elegir cómo se importan las tareas y previsualizarlas a continuación. '
     'Más información sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar y pegar.</a>',
+  mPasteTaskAsLabel: 'As',
   mPasteTaskAsOption1: "tarea única",
   mPasteTaskAsOption2: "múltiples tareas",
+  mPasteTaskToLabel: 'To',
   mPasteTaskToOptionRoot: "Tareas iniciales",
   mPasteTaskToOption1: "mismo nivel que las tareas",
   mPasteTaskToOption2: "de menor nivel que las subtareas",
