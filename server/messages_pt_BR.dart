@@ -843,7 +843,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mNextDay: "No Dia Seguinte",
   m2dayLater: "2 dias depois",
   mStartOFNextWeek: "No começo da semana seguinte",
-  mRemindDefaultTime: "Hora do Lembrete",
+  mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Reduzir todas as subtarefas por padrão',
   mShowFavoritedMyTasks: 'Mostrar tarefas favoritas em Minhas Tarefas',
   mAutoAssignToMe: 'Atribuir automaticamente novas tarefas para mim',

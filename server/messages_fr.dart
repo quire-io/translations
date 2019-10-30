@@ -828,7 +828,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mNextDay: "Le lendemain",
   m2dayLater: "2 jours après",
   mStartOFNextWeek: "En début de semaine suivante",
-  mRemindDefaultTime: "Heure de rappel",
+  mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
   mShowFavoritedMyTasks: 'Afficher les Tâches Favorites dans Mes Tâches',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',

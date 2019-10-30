@@ -844,7 +844,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mNextDay: "翌日",
   m2dayLater: "2日後",
   mStartOFNextWeek: "翌週の初め",
-  mRemindDefaultTime: "通知時間",
+  mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'デフォルトでは子タスクを折りたたむ',
   mShowFavoritedMyTasks: '「自分のタスク」にお気に入りのタスクを表示',
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',

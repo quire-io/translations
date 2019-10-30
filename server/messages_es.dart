@@ -844,7 +844,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mNextDay: "Al día siguiente",
   m2dayLater: "2 días después",
   mStartOFNextWeek: "Al comienzo de la siguiente semana",
-  mRemindDefaultTime: "Hora de Recordatorio",
+  mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Ocultar todas las subtareas de forma predeterminada',
   mShowFavoritedMyTasks: 'Mostrar las tareas favoritas en Mis Tareas',
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',

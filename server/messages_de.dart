@@ -841,7 +841,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mNextDay: "Am nächsten Tag",
   m2dayLater: "Zwei Tage später",
   mStartOFNextWeek: "Anfang nächster Woche",
-  mRemindDefaultTime: "Erinnerungszeit",
+  mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
   mShowFavoritedMyTasks: 'Lieblingsaufgaben in Meine Aufgaben anzeigen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',

@@ -1112,7 +1112,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mNextDay: "Next day",
   m2dayLater: "2 days later",
   mStartOFNextWeek: "At start of next week",
-  mRemindDefaultTime: "Reminder Time",
+  mRemindTimeAt: "at",
 
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
