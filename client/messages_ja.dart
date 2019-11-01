@@ -395,6 +395,7 @@ const jaClient = const <String, String> {
   mUserPickerInviteHint: "「ENTER」キーを押して招待状を送付",
   mUserPickerHintNOInvite: "または既存のメンバーを選択",
   mUserPickerInviteHintNOInvite: "新メンバーを追加する<a href=\"[=link]\" target=\"_blank\">権限</a>がありません",
+  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
   mAddAssignee: "担当者を追加",
   mAddDate: "日付を追加",
   mAddToFollower: "フォロワーに追加",

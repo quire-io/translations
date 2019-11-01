@@ -1272,6 +1272,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     "Sie möchten dieses Projekt archivieren. "
     "Ein archiviertes Projekt wird in den Bereich Archiviert in der linken Seitenleiste verschoben.",
   mMobileSidebarSearchForPrj: "Nach Projekten suchen",
+  mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "Für diese Ansicht gibt es aktuell nur Lesezugriff. Für Neuigkeiten diesbezüglich, folgen Sie uns auf",
   mMobilePermissionDenyCamera: "Quire benötigt die Berechtigung, um auf Ihre Kamera zuzugreifen. Erteilen Sie diese in den Einstellungen.",
   mMobileCrashRefreshTitle: "Oh nein!",

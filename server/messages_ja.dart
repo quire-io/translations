@@ -1277,6 +1277,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     "このプロジェクトをアーカイブします。"
     "アーカイブしたプロジェクトは、サイドバーの「アーカイブ」に移動されます。",
   mMobileSidebarSearchForPrj: "プロジェクトを検索",
+  mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "読み取り専用で閲覧しています。最新のお知らせを受け取るには、Quireをフォローしてください。",
   mMobilePermissionDenyCamera: "カメラの設定でQuireのアクセスを許可してください。",
   mMobileCrashRefreshTitle: "残念！",

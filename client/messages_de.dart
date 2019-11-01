@@ -389,6 +389,7 @@ const deClient = const <String, String> {
   mUserPickerInviteHint: "ENTER um die Einladung zu senden",
   mUserPickerHintNOInvite: "Oder wählen Sie ein Mitglied aus der Liste aus",
   mUserPickerInviteHintNOInvite: "Sie haben keine <a href=\"[=link]\" target=\"_blank\">Berechtigung</a>, um ein neues Mitglied hinzuzufügen",
+  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
   mAddAssignee: "Person hinzufügen",
   mAddDate: "Datum hinzufügen",
   mAddToFollower: "Zu Abonnent(en) hinzufügen",

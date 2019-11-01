@@ -395,6 +395,7 @@ const esClient = const <String, String> {
   mUserPickerInviteHint: "Pulsa Entrar para enviar una invitación",
   mUserPickerHintNOInvite: "O selecciona un miembro de la lista de abajo",
   mUserPickerInviteHintNOInvite: "No tienes <a href=\"[=link]\" target=\"_blank\">permiso</a> para añadir a un nuevo miembro",
+  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
   mAddAssignee: "Añadir asignado",
   mAddDate: "Añadir fecha",
   mAddToFollower: "Añadir a seguidores",

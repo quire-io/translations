@@ -1276,6 +1276,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     "Você está prestes a arquivar este projeto. "
     "Um projeto arquivado será movido para Arquivado na barra lateral do menu.",
   mMobileSidebarSearchForPrj: "Pesquisar por Projetos",
+  mMobileMenuAddToMyTask: "Adicionar a Minhas Tarefas",
   mMobileReadOnlyProfileDesc: "Por enquanto é uma visualização somente de leitura. Para atualizações e notícias, siga-nos em",
   mMobilePermissionDenyCamera: "Você precisa ir para Configurações e dar permissão para o Quire acessar sua Câmera.",
   mMobileCrashRefreshTitle: "Opa!",

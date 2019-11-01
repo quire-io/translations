@@ -1648,6 +1648,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "You're about to archive this project. "
     "An archived project will be moved to the Archived in the menu sidebar.",
   mMobileSidebarSearchForPrj: "Search for Projects",
+  mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
   mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
   mMobileCrashRefreshTitle: "Oops!",

@@ -492,6 +492,7 @@ const enClient = const <String, String> {
   mUserPickerHintNOInvite: "Or select a member from the list below",
   mUserPickerInviteHintNOInvite: 
     "You do not have <a href=\"[=link]\" target=\"_blank\">permission</a> to add a new member",
+  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
 
   mAddAssignee: "Add assignee",
   mAddDate: "Add date",

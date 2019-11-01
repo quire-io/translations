@@ -1277,6 +1277,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     "Estás a punto de archivar este proyecto. "
     "Un proyecto archivado será movido a Archivado en el menú lateral.",
   mMobileSidebarSearchForPrj: "Buscar Proyectos",
+  mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "De momento es una vista de solo-lectura. Para recibir actualizaciones y noticias, síguenos en",
   mMobilePermissionDenyCamera: "Necesitas ir a Ajustes y dar permisos de acceso a tu Cámara a Quire.",
   mMobileCrashRefreshTitle: "¡Vaya!",

@@ -1261,6 +1261,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     "Vous êtes sur le point d'archiver ce projet. "
     "Un projet archivé sera déplacé vers les Archivés dans le menu latéral.",
   mMobileSidebarSearchForPrj: "Chercher des Projets",
+  mMobileMenuAddToMyTask: "Ajouter à Mes Tâches",
   mMobileReadOnlyProfileDesc: "C'est en mode lecture seule pour l'instant. Pour les mises à jour et les actualités, suivez-nous sur",
   mMobilePermissionDenyCamera: "Vous devez allez dans les Paramètres et donner l'autorisation à Quire d'accéder à votre appareil photo.",
   mMobileCrashRefreshTitle: "Oups !",

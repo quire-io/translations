@@ -400,6 +400,7 @@ const ptBrClient = const <String, String> {
   mUserPickerInviteHint: "Pressione ENTER para enviar um convite",
   mUserPickerHintNOInvite: "Ou selecione um usuário da lista abaixo",
   mUserPickerInviteHintNOInvite: "Você não tem <a href=\"[=link]\" target=\"_blank\">permissão</a> para adicionar um novo membro",
+  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
   mAddAssignee: "Adicionar responsável",
   mAddDate: "Adicionar data",
   mAddToFollower: "Adicionar aos seguidores",
