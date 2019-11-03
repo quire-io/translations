@@ -17,8 +17,8 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const jaWeb = const <String, String> {
-  mSlogan: "アイデアを広げよう。",
-  mSloganSentence: "アイデアを広げよう。",
+  mSlogan: "アイデアを、広げよう。",
+  mSloganSentence: "アイデアを、広げよう。",
   mSloganSubtitle: 'プロジェクトの成功へ 、ビジュアル重視のコラボレーション・プラットフォーム。',
   mQuireDescription: '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
   mHomeSectionDreamsTitle: "夢を、かたちに",
@@ -180,7 +180,7 @@ const jaWeb = const <String, String> {
   mMobileWelcomeP2Title: "スタートから完成まで",
   mMobileWelcomeP3Title: "もっと効率的に",
   mMobileWelcomeP4Title: "行動に移そう",
-  mMobileWelcomeP1Desc: "アイデアを広げよう。",
+  mMobileWelcomeP1Desc: "アイデアを、広げよう。",
   mMobileWelcomeP2Desc: "左右にスワイプして、タスクを完成、削除、追加できます。",
   mMobileWelcomeP3Desc: "かんばんボードで、選んだタスクに集中しましょう。",
   mMobileWelcomeP4Desc: "担当者やタグ、期限日を決めて、プロジェクトを開始しましょう。"
