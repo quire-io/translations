@@ -395,7 +395,7 @@ const frClient = const <String, String> {
   mUserPickerInviteHint: "Tapez ENTRER pour envoyer une invitation",
   mUserPickerHintNOInvite: "Ou sélectionnez un membre dans la liste ci-dessous",
   mUserPickerInviteHintNOInvite: "Vous n'avez pas <a href=\"[=link]\" target=\"_blank\">l'autorisation</a> d'ajouter un nouveau membre",
-  mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
+  mUserPickerInviteHintNOInviteMyTasks: "Vous ne pouvez pas inviter un nouveau membre pour les tâches personnelles.",
   mAddAssignee: "Ajouter une attribution",
   mAddDate: "Ajouter une date",
   mAddToFollower: "Ajouter aux followers",
