@@ -78,6 +78,8 @@ const enClient = const <String, String> {
     "You cannot move [=task].",
   mCantMoveTaskTo:
     "You cannot move [=task] here.",
+  mCantMoveTaskToPersonalChild:
+    "You cannot move this task to personal tasks sub-level.",
 
 
   mCantCompleteTask:
@@ -339,6 +341,9 @@ const enClient = const <String, String> {
   mSaveFilter: "Save this filter",
   mAddFilter: "Add filter",
   mRemoveFilter: "Remove filter",
+  mAddGrouper: "Add sort option",
+  mRemoveGrouper: "Remove sort option",
+  mMultipleGrouperSepLabel: "Then",
 
   mExcludeCompletedTaskIn: "Exclude completed task in",
   mExcludeCompletedTaskOverNDays: "Over [=n] days",
@@ -485,6 +490,7 @@ const enClient = const <String, String> {
   mReadonlyTagPickerPlaceholder: "Select tags below",
   mReadonlyTagPickerPlaceholderEmpty: "No tags available",
   mSingleTagPickerPlaceholder: "Select a tag",
+  mSingleGroupPickerPlaceholder: "Select a group",
   
 
   mUserPickerHint: "Or invite a new member by email address",
