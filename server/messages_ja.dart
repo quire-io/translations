@@ -857,7 +857,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAppDistributeListStatus: 'アプリの状態',
   mAppDirectoryHeader: "アプリディレクトリ",
   mAppDirectoryTitle: "Quireと、その先へ",
-  mAppDirectoryTitleIntro: 'プロジェクト管理をより楽しくかんたんにする、おすすめの連携サービスです。',
+  mAppDirectoryTitleIntro: 'プロジェクト管理をより楽しくかんたんにする、<br>おすすめの連携サービスです。',
   mAppSearchPlaceholder: "検索アプリ",
   mAppDirectoryBackApps: '閲覧アプリ',
   mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
