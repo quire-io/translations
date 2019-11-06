@@ -30,10 +30,10 @@ const esServer = const <String, String> {
   mSidebarFav: "MARCADORES",
   mSidebarRec: "RECIENTES",
   mSidebarArchive: "Archivados",
-  mSidebarRecycleBin: 'Trash',
+  mSidebarRecycleBin: 'Papelera de reciclaje',
   mSidebarMembers: "MIEMBROS",
   mAppCategoriesU: 'CATEGORIES',
-  mAppCategory: 'Category',
+  mAppCategory: 'Categoría',
   mSidebarMyTasksSortDate: "Ordenar por fecha",
   mSidebarMyTasksSortProject: "Ordenar por proyecto",
   mSidebarResetOrder: "Restablecer orden por defecto",
@@ -83,15 +83,15 @@ const esServer = const <String, String> {
   mFeedbackU: "RETROALIMENTACIÓN",
   mDocumentationU: "DOCUMENTACIÓN",
   mFooterLinkCategoryQuire: "Quire",
-  mFooterLinkHome: "Home",
-  mFooterLinkDownloadiOS: "Download iOS App",
-  mFooterLinkDownloadAndroid: "Download Android App",
-  mFooterLinkDownloadAndroidAPK: "Download Android APK",
-  mFooterLinkSecurity: "Security",
-  mFooterLinkCategorySupport: "Support & Resources",
-  mFooterLinkUserGuide: "User Guide",
-  mFooterLinkDevelopers: "Developers & API",
-  mFooterLinkCategoryCompany: "Company",
+  mFooterLinkHome: "Página de inicio",
+  mFooterLinkDownloadiOS: "Descargar la aplicación iOS",
+  mFooterLinkDownloadAndroid: "Descargar la aplicación Android",
+  mFooterLinkDownloadAndroidAPK: "Descargar Android APK",
+  mFooterLinkSecurity: "Seguridad",
+  mFooterLinkCategorySupport: "Soporte y Recursos",
+  mFooterLinkUserGuide: "Guía de usuario",
+  mFooterLinkDevelopers: "Desarrolladores y API",
+  mFooterLinkCategoryCompany: "Empresa",
   mPost: "Publicar",
   mGotIt: "¡Lo tengo!",
   mReadOnly: "Solo Lectura",
@@ -512,11 +512,11 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
 
 [=footer]
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire: [=member] ha eliminado [=host]",
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>We are writing to let you know [=member] ([=memberEmail]) ha eliminado "[=host]".</p>
 
 [=footer]
 ''',
@@ -780,7 +780,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mSettingOptionLeaveOrganization: "Salir de la organización",
   mSettingOptionDeleteOrganization: "Borrar la organización",
   mSettingOptionManageDeveloperApps: "Administrar las Apps para Desarrolladores",
-  mChangeDisplayMode: "Display mode",
+  mChangeDisplayMode: "Modo de visualizaión",
   mChangeProfileVisibility: "Cambiar visibilidad del perfil",
   mProfileVisibilityAll: "Los usuarios No-miembros users solo pueden ver tu información básica, excluyendo el email.",
   mProfileVisibilityMember: "Los usuarios No-miembros no pueden acceder a tu página de perfil.",
@@ -794,9 +794,9 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mRecentActivities: "Actividad Reciente",
   mUpdateFromQuire: "Actualizaciones de Quire",
   mMembersSecDesc: "Los miembros de una organización tienen acceso a cualquier proyecto que pertenezca a la misma.",
-  mAutoMode: "(auto)",
-  mBasicMode: "Basic",
-  mAdvancedMode: "Advanced",
+  mAutoMode: "(automático)",
+  mBasicMode: "Básico",
+  mAdvancedMode: "Avanzado",
   mIntegraGithubDesc:
     "Selecciona uno o más repositorios a los que quieras conectar. "
     "Puedes desmarcar los que hayas seleccionado.",
@@ -844,7 +844,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mNextDay: "Al día siguiente",
   m2dayLater: "2 días después",
   mStartOFNextWeek: "Al comienzo de la siguiente semana",
-  mRemindTimeAt: "at",
+  mRemindTimeAt: "en",
   mCollapseAllSubtaskByDefault: 'Ocultar todas las subtareas de forma predeterminada',
   mShowFavoritedMyTasks: 'Mostrar las tareas favoritas en Mis Tareas',
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',
