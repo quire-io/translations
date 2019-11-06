@@ -849,7 +849,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAutoAssignToMe: 'Atribuir automaticamente novas tarefas para mim',
   mDeveloperConsoleTitle: "Aplicativos",
   mDeveloperConsoleIntro:
-    'Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!</br>'
+    'Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!<br>'
     "Se você não tiver certeza de como começar, confira a <a href='/dev/api/'>documentação do desenvolvedor</a> para começar sua integração.",
   mAppListLastUpdate: 'Última Atualização',
   mAppDistributeListDate: 'Data de Envio',

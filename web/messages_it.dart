@@ -123,7 +123,7 @@ const itWeb = const <String, String> {
   mFeatureShortcutsTitle: "Keyboard Shortcuts",
   mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
   mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quick assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
   mFeatureBatchOPTitle: "Batch Operations",
   mFeatureBatchOPDesc: "Make changes, such as assign a member and tag, to all your selected tasks at once.",
   mFeatureTemplateTitle: "Project Template",

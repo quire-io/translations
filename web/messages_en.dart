@@ -166,7 +166,7 @@ const enWeb = const <String, String> {
   mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
 
   mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task mouselessly with auto-complete.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts.",
 
   mFeatureBatchOPTitle: "Batch Operations",
   mFeatureBatchOPDesc: "Make changes, such as assigning a member and tag, to all your selected tasks at once.",  

@@ -851,7 +851,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mAutoAssignToMe: 'Atribuir-me automaticamente novas tarefas',
   mDeveloperConsoleTitle: "Aplicações",
   mDeveloperConsoleIntro:
-    'Crie uma aplicação que torne o Quire uma experiência ainda melhor para si e para a sua equipa!</br>'
+    'Crie uma aplicação que torne o Quire uma experiência ainda melhor para si e para a sua equipa!<br>'
     "Se não sabe como começar, verifique a <a href='/dev/api/'>documentação do desenvolvedor</a> para iniciar a sua integração.",
   mAppListLastUpdate: 'Última Atualização',
   mAppDistributeListDate: 'Data de Submissão',

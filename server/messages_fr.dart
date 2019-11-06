@@ -834,7 +834,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mDeveloperConsoleTitle: "Applications",
   mDeveloperConsoleIntro:
-    'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !</br>'
+    'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !<br>'
     "Si vous ne savez pas par où débuter, allez voir la <a href='/dev/api/'>documentation pour les développeurs</a> pour commencer votre application.",
   mAppListLastUpdate: 'Dernière mise à jour',
   mAppDistributeListDate: 'Date d\'envoi',

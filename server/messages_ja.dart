@@ -850,7 +850,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',
   mDeveloperConsoleTitle: "アプリ",
   mDeveloperConsoleIntro:
-    'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。</br>'
+    'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。<br>'
     "始め方が分からないときは、連携のための<a href='/dev/api/'>開発者ドキュメント</a>を参照してください。",
   mAppListLastUpdate: '最新の更新',
   mAppDistributeListDate: '提出日',

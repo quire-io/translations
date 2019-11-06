@@ -123,7 +123,7 @@ const esWeb = const <String, String> {
   mFeatureShortcutsTitle: "Atajos de Teclado",
   mFeatureShortcutsDesc: "Gran número de atajos para los adictos a los atajos sin tocar el ratón.",
   mFeatureSmartAddTitle: "Añadir inteligentemente",
-  mFeatureSmartAddDesc: "Asigna rápidamente un miembro, etiqueta, prioridad, etc., a una tarea sin necesidad de utilizar el ratón con la función de autocompletar.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
   mFeatureBatchOPTitle: "Acciones por Lote",
   mFeatureBatchOPDesc: "Realiza cambios, como asignar un miembro o una etiqueta, a todas las tareas seleccionadas a la vez.",
   mFeatureTemplateTitle: "Plantilla de Proyecto",

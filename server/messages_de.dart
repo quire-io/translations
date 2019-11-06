@@ -847,7 +847,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:
-    'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!</br>'
+    'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!<br>'
     "Erste Schritte zu Integrationen finden Sie in unserer <a href='/dev/api/'>Entwicklerdokumentation</a>.",
   mAppListLastUpdate: 'Letztes Update',
   mAppDistributeListDate: 'Abgabedatum',

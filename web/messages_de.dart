@@ -119,7 +119,7 @@ const deWeb = const <String, String> {
   mFeatureShortcutsTitle: "Tastatürkürzel",
   mFeatureShortcutsDesc: "Jede Menge nützliche Kürzel für Tastaturhelden.",
   mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Fügen Sie mit Hilfe von automatischer Vervollständigung ganz einfach Teammitglieder, Tags, Prioritäten usw. einer Aufgabe hinzu.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
   mFeatureBatchOPTitle: "Massenänderung",
   mFeatureBatchOPDesc: "Wählen Sie mehrere Aufgaben auf und ändern Sie diese in einem Rutsch.",
   mFeatureTemplateTitle: "Projekte und Aufgaben duplizieren",

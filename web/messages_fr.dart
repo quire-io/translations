@@ -123,7 +123,7 @@ const frWeb = const <String, String> {
   mFeatureShortcutsTitle: "Raccourcis Clavier",
   mFeatureShortcutsDesc: "Des tas de raccourcis sans la souris, pour les accros au clavier.",
   mFeatureSmartAddTitle: "Ajout Intelligent",
-  mFeatureSmartAddDesc: "Attribuez rapidement un membre, une étiquette, une priorité… à une tâche sans la souris grâce à l'autocomplétion.",
+  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
   mFeatureBatchOPTitle: "Actions par Lots",
   mFeatureBatchOPDesc: "Effectuez des changements, comme attribuer un membre ou une étiquette, à toutes les tâches sélectionnées en une fois.",
   mFeatureTemplateTitle: "Modèle de Projet",
