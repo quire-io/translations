@@ -123,7 +123,7 @@ const jaWeb = const <String, String> {
   mFeatureShortcutsTitle: "キーボードショートカット",
   mFeatureShortcutsDesc: "マウスを使わずキーボードだけで素早く操作できます。",
   mFeatureSmartAddTitle: "スマートに追加",
-  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
+  mFeatureSmartAddDesc: "マウスを使わずキーボードだけで、タスクにメンバーやタグ、優先度を素早く設定できます。 ",
   mFeatureBatchOPTitle: "まとめて操作",
   mFeatureBatchOPDesc: "メンバーやタグの設定などの変更を、選択したタスクに一括で反映させることができます。",
   mFeatureTemplateTitle: "プロジェクトのテンプレート",
