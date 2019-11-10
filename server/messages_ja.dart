@@ -783,7 +783,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "プロフィールの公開範囲を変更",
   mProfileVisibilityAll: "メンバー以外のユーザーは、メールアドレスを除くあなたの基本情報を閲覧できます。",
-  mProfileVisibilityMember: "メンバー以外のユーザーは、あなたのプロフィールにアクセスできません。",
+  mProfileVisibilityMember: "メンバー以外のユーザーは、あなたのプロフィールを閲覧できません。",
   mBasicInformation: "基本情報",
   mTasks: "タスク",
   mProjects: "プロジェクト",
