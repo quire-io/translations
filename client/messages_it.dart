@@ -255,6 +255,7 @@ const itClient = const <String, String> {
   mAssignedToME: "Assigned to me",
   mSortByAssignee: "Sort by assignee",
   mSortByDate: "Sort by date",
+  mSortByProject: "Sort by project",
   mPriority: "Priority",
   mPriorityLabel: "Low,Medium,High,Urgent",
   mStateLabel: "To-Do,In Progress,Completed",

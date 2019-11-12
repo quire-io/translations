@@ -255,6 +255,7 @@ const esClient = const <String, String> {
   mAssignedToME: "Asignado a mí",
   mSortByAssignee: "Ordenar por asignado",
   mSortByDate: "Ordenar por fecha",
+  mSortByProject: "Sort by project",
   mPriority: "Prioridad",
   mPriorityLabel: "Bajo,Medio,Alto,Urgente",
   mStateLabel: "Por hacer,En progreso,Completada",

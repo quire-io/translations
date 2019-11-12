@@ -315,6 +315,7 @@ const enClient = const <String, String> {
   mAssignedToME: "Assigned to me",//cus filter
   mSortByAssignee: "Sort by assignee",//cus filter
   mSortByDate: "Sort by date",//cus filter
+  mSortByProject: "Sort by project",//cus filter
   mPriority: "Priority",
   mPriorityLabel: "Low,Medium,High,Urgent",
   mStateLabel: "To-Do,In Progress,Completed",

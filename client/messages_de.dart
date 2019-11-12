@@ -249,6 +249,7 @@ const deClient = const <String, String> {
   mAssignedToME: "Mir zugewiesen",
   mSortByAssignee: "Nach Beauftragtem sortieren",
   mSortByDate: "Nach Datum sortieren",
+  mSortByProject: "Sort by project",
   mPriority: "Priorität",
   mPriorityLabel: "Niedrig,Normal,Hoch,Dringend",
   mStateLabel: "To-Do,In Bearbeitung,Erledigt",

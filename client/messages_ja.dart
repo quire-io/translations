@@ -255,6 +255,7 @@ const jaClient = const <String, String> {
   mAssignedToME: "自分が担当",
   mSortByAssignee: "担当者で並び替え",
   mSortByDate: "日付で並び替え",
+  mSortByProject: "Sort by project",
   mPriority: "優先度",
   mPriorityLabel: "低,中,高,緊急",
   mStateLabel: "開始前,進行中,完了",

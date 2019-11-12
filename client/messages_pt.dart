@@ -260,6 +260,7 @@ const ptClient = const <String, String> {
   mAssignedToME: "Atribuído a mim",
   mSortByAssignee: "Ordenar por colaborador",
   mSortByDate: "Ordenar por data",
+  mSortByProject: "Sort by project",
   mPriority: "Prioridade",
   mPriorityLabel: "Baixa,Média,Alta,Urgente",
   mStateLabel: "Por Fazer, Em andamento, Concluída",
