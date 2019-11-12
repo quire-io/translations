@@ -736,7 +736,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingAppAuthSec: "Applications autorisées",
   mSettingAppAuthSecDesc:
     'Vous avez autorisé les applications suivantes sur Quire. Pour plus d\'applications, '
-    'rendez-vous dans la <a href="/apps" target="_blank">Liste des Applications</a>.',
+    'rendez-vous dans la <a href="/apps" target="quire_app">Liste des Applications</a>.',
   mAppListAuthTarget: 'Accès à',
   mOauthViewTitle: "Accorder les Autorisations",
   mOauthViewDesc: "[=name] pourra :",

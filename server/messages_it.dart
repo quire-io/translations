@@ -752,7 +752,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingAppAuthSec: "Authorized Apps",
   mSettingAppAuthSecDesc:
     'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="_blank">Quire App Directory</a>.',
+    'visit <a href="/apps" target="quire_app">Quire App Directory</a>.',
   mAppListAuthTarget: 'Access to',
   mOauthViewTitle: "Grant Permissions",
   mOauthViewDesc: "[=name] will be able to:",

@@ -753,7 +753,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mSettingAppAuthSec: "Aplicações Autorizadas",
   mSettingAppAuthSecDesc:
     'Autorizou as seguintes aplicações com o Quire. Para mais integrações, '
-    'visite <a href="/apps" target="_blank">Diretório de Aplicações do Quire</a>.',
+    'visite <a href="/apps" target="quire_app">Diretório de Aplicações do Quire</a>.',
   mAppListAuthTarget: 'Acesso a',
   mOauthViewTitle: "Conceder Permissões",
   mOauthViewDesc: "[=name] poderá:",

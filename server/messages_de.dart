@@ -749,7 +749,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingAppAuthSec: "Autorisierte Apps",
   mSettingAppAuthSecDesc:
     'Sie haben die folgenden Anwendungen mit Quire autorisiert. Weitere Integrationen '
-    'finden Sie im <a href="/apps" target="_blank">Quire App Directory</a>.',
+    'finden Sie im <a href="/apps" target="quire_app">Quire App Directory</a>.',
   mAppListAuthTarget: 'Zugriff auf',
   mOauthViewTitle: "Berechtigungen erteilen",
   mOauthViewDesc: "[=name] kann Folgendes tun:",

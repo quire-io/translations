@@ -752,7 +752,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingAppAuthSec: "認証済みのアプリ",
   mSettingAppAuthSecDesc:
     '次のアプリをQuireで認証しました。連携サービスについて、詳しくは'
-    '<a href="/apps" target="_blank">Quireアプリディレクトリ</a>をチェックしてください。',
+    '<a href="/apps" target="quire_app">Quireアプリディレクトリ</a>をチェックしてください。',
   mAppListAuthTarget: 'アクセス',
   mOauthViewTitle: "許可する",
   mOauthViewDesc: "[=name]さんは、次のことが許可されます。",
