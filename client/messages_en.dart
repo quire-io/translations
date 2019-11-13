@@ -80,6 +80,12 @@ const enClient = const <String, String> {
     "You cannot move [=task] here.",
   mCantMoveTaskToPersonalChild:
     "You cannot move this task to personal tasks sub-level.",
+  mCantMoveExternalTeamRootTask:
+    "You cannot move External Team root tasks.",
+  mCantMoveToExternalTeamRootTask:
+    "You cannot place this task to an External Team root task.",
+  mCantMoveToExternalTeamRootTaskP:
+    "You cannot place these tasks to an External Team root task.",
 
 
   mCantCompleteTask:
