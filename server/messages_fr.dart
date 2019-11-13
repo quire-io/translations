@@ -234,7 +234,7 @@ const frServer = const <String, String> {
   mAppBanned:
     'Cette application a été bannie pour violation de nos <a href="/terms" target="_blank">Conditions d\'Utilisation</a>. '
     "Vous ne pourrez pas republier cette application jusqu'au [=when].",
-  mMyTasksEmptyMessage: "Hourra~ aucune tâche n'est due !",
+  mMyTasksEmptyMessage: "Super ~ vous n'avez rien à faire !",
   mSignupOrganization: "Organisation de [=user]",
   mSignupProject: "Projet de [=user]",
   mEmailWelcomeSubject: "Comment trouvez-vous Quire pour l'instant ?",
@@ -1238,7 +1238,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileEmailSentCheckDesc: "Veuillez [=hrefStart]regarder dans votre boîte de réception[=hrefEnd] ou dans le dossier des spams.",
   mMobileEmptyBackgroundTitle: "Prêt ?",
   mMobileEmptyBackgroundDesc: "Ajoutez des idées pour commencer votre projet",
-  mMobileNOFilterBackgroundDesc: "Hourra~ aucune tâche n'est due !",
+  mMobileNOFilterBackgroundDesc: "Super ~ vous n'avez rien à faire !",
   mMobileNODrillBackgroundDesc: "Il n'y a aucune sous-tâche à afficher.",
   mMobileFilterBackgroundDesc1: "Aucune tâche trouvée. Vous pouvez essayer de ",
   mMobileFilterBackgroundDesc2: "réinitialiser les filtres",
