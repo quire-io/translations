@@ -70,8 +70,8 @@ const esClient = const <String, String> {
   mCantSetThisState: "No puedes establecer este estado en [=task].",
   mCantDeleteTask: "No tienes permiso para eliminar [=task].",
   mCantSetAssignee: "No tienes permiso para configurar las asignaciones de [=task].",
-  mCantSetAssigneeCross: "No puedes asignar [=assignee] a [=task] en el mismo proyecto.",
-  mCantSetAssigneeCrossPlural: "No puedes asignar [=assignee] a [=task] y otras [=count] tareas que no están en el mismo proyecto.",
+  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "No puedes asignarla a otro equipo externo, "
     "ya que [=task] ya está asignada a uno.",

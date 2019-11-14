@@ -64,8 +64,8 @@ const deClient = const <String, String> {
   mCantSetThisState: "You cannot set this status to [=task].",
   mCantDeleteTask: "Sie haben keine Berechtigung [=task] zu löschen.",
   mCantSetAssignee: "Sie haben keine Berechtigung [=task] jemandem zuzuweisen.",
-  mCantSetAssigneeCross: "[=assignee] kann [=task] nicht zugewiesen werden, weil die Aufgabe zu einem anderen Projekt gehört.",
-  mCantSetAssigneeCrossPlural: "[=assignee] kann [=task] und [=count] weiteren Aufgaben nicht zugewiesen werden, weil diese zu einem anderen Projekt gehören.",
+  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "Sie können kein anderes externes Team festlegen, "
     "da [=task] bereits einem Team zugewiesen wurde.",

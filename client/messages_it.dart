@@ -70,8 +70,8 @@ const itClient = const <String, String> {
   mCantSetThisState: "You cannot set this status to [=task].",
   mCantDeleteTask: "You do not have permission to delete [=task].",
   mCantSetAssignee: "You do not have permission to set assignee to [=task].",
-  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] not in the same project.",
-  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks not in the same project.",
+  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "You cannot set it to another external team, "
     "as [=task] is already assigned to one.",

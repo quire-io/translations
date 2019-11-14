@@ -70,8 +70,8 @@ const jaClient = const <String, String> {
   mCantSetThisState: "[=task]はこの状態に設定できません。",
   mCantDeleteTask: "[=task]を削除する権限がありません。",
   mCantSetAssignee: "[=task]に担当者を設定する権限がありません。",
-  mCantSetAssigneeCross: "[=assignee]さんは、同じプロジェクト内にない[=task]の担当者に設定できません。",
-  mCantSetAssigneeCrossPlural: "[=assignee]さんは、同じプロジェクト内にない[=task]とその他[=count]件のタスクの担当者に設定できません。",
+  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "[=task]はすでに外部チームに委託されているため、"
     "他の外部チームに設定できません。",

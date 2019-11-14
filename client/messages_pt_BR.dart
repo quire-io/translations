@@ -75,8 +75,8 @@ const ptBrClient = const <String, String> {
   mCantSetThisState: "Você não pode definir este estado para [=task].",
   mCantDeleteTask: "Você não tem permissão para excluir [=task].",
   mCantSetAssignee: "Você não tem permissão para definir o responsável para [=task].",
-  mCantSetAssigneeCross: "Você não pode atribuir [=assignee] a [=task] que não está no mesmo projeto.",
-  mCantSetAssigneeCrossPlural: "Você não pode atribuir [=assignee] a [=task] e [=count] outras tarefas que não estão no mesmo projeto.",
+  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "Você não pode defini-la a outra equipe externa, "
     "uma vez que [=task] já está atribuída a uma.",
