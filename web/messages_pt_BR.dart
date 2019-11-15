@@ -123,7 +123,7 @@ const ptBrWeb = const <String, String> {
   mFeatureShortcutsTitle: "Atalhos de Teclado",
   mFeatureShortcutsDesc: "Toneladas de atalhos bacanas para viciados em atalhos sem tocar no mouse.",
   mFeatureSmartAddTitle: "Adicão Inteligente",
-  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts. ",
+  mFeatureSmartAddDesc: "Atribua rapidamente um membro, tag, prioridade, etc., a uma tarefa com atalhos de teclado inteligentes. ",
   mFeatureBatchOPTitle: "Operações em Lote",
   mFeatureBatchOPDesc: "Faça alterações, como atribuir um usuário e uma tag, a todas as tarefas selecionadas de uma só vez.",
   mFeatureTemplateTitle: "Modelo de Projeto",
