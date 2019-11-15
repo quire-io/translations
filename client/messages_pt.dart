@@ -1044,5 +1044,6 @@ const ptClient = const <String, String> {
   mAppTaskTarget: 'my=Minhas tarefas;all=Todas as tarefas',
   mAppAuthAllowTo: 'Permissão para:',
   mAppAuthShowNotAllowTo: 'Mostrar a área à qual esta aplicação não tem permissão para aceder',
-  mAppAuthNotAllowTo: 'Não tem permissão para:'
+  mAppAuthNotAllowTo: 'Não tem permissão para:',
+  mRefreshList: 'Refresh list'
 };

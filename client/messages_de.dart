@@ -1035,5 +1035,6 @@ const deClient = const <String, String> {
   mAppTaskTarget: 'meine=Meine Aufgaben;alle=Alle Aufgaben',
   mAppAuthAllowTo: 'Erlaubnis für:',
   mAppAuthShowNotAllowTo: 'Anzeigen, auf welchen Bereich diese App keinen Zugriff hat',
-  mAppAuthNotAllowTo: 'Keine Erlaubnis für:'
+  mAppAuthNotAllowTo: 'Keine Erlaubnis für:',
+  mRefreshList: 'Refresh list'
 };

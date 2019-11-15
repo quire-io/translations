@@ -1039,5 +1039,6 @@ const esClient = const <String, String> {
   mAppTaskTarget: 'my=Mis Tareas;all=Todas las Tareas',
   mAppAuthAllowTo: 'Permiso para:',
   mAppAuthShowNotAllowTo: 'Muestra qué área de esta app no tiene permiso de acceso',
-  mAppAuthNotAllowTo: 'Sin permiso para:'
+  mAppAuthNotAllowTo: 'Sin permiso para:',
+  mRefreshList: 'Refresh list'
 };

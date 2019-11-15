@@ -1039,5 +1039,6 @@ const jaClient = const <String, String> {
   mAppTaskTarget: 'my=自分のタスク;all=すべてのタスク',
   mAppAuthAllowTo: '許可：',
   mAppAuthShowNotAllowTo: 'このアプリにアクセスを許可しない項目を表示',
-  mAppAuthNotAllowTo: '不許可：'
+  mAppAuthNotAllowTo: '不許可：',
+  mRefreshList: 'Refresh list'
 };

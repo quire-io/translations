@@ -1039,5 +1039,6 @@ const frClient = const <String, String> {
   mAppTaskTarget: 'my=Mes tâches;all=Toutes les tâches',
   mAppAuthAllowTo: 'Autorisation de :',
   mAppAuthShowNotAllowTo: 'Afficher les zones auxquelles cette application n\'a pas accès',
-  mAppAuthNotAllowTo: 'Pas l\'autorisation de :'
+  mAppAuthNotAllowTo: 'Pas l\'autorisation de :',
+  mRefreshList: 'Refresh list'
 };

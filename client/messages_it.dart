@@ -1039,5 +1039,6 @@ const itClient = const <String, String> {
   mAppTaskTarget: 'my=My tasks;all=All tasks',
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
-  mAppAuthNotAllowTo: 'No permission to:'
+  mAppAuthNotAllowTo: 'No permission to:',
+  mRefreshList: 'Refresh list'
 };

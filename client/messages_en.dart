@@ -1336,4 +1336,5 @@ const enClient = const <String, String> {
   mAppAuthAllowTo: 'Permission to:',
   mAppAuthShowNotAllowTo: 'Show which area this app has no permission to access',
   mAppAuthNotAllowTo: 'No permission to:',
+  mRefreshList: 'Refresh list',
 };
