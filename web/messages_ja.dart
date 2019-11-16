@@ -42,7 +42,7 @@ const jaWeb = const <String, String> {
     "アイデアからアクションまで、一括サポート。<br>"
     "今すぐ無料登録",
   mHomeSectionSignupBottomDesc:
-    "Quireは夢の実現をサポートするために生まれました。<br>"
+    "Quireは夢の実現をサポートするために<br>生まれました。<br>"
     "ぜひ試して楽しんでください。",
   mHomeSection7Title: "いつでも、どこでも。",
   mFeaturesSection1Title: "使いやすく充実した[=linebreak]オールインワン機能。",
