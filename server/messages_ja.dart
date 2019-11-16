@@ -83,15 +83,15 @@ const jaServer = const <String, String> {
   mFeedbackU: "ご意見",
   mDocumentationU: "ドキュメント",
   mFooterLinkCategoryQuire: "Quire",
-  mFooterLinkHome: "Home",
-  mFooterLinkDownloadiOS: "Download iOS App",
-  mFooterLinkDownloadAndroid: "Download Android App",
+  mFooterLinkHome: "トップ",
+  mFooterLinkDownloadiOS: "iOSアプリをダウンロード",
+  mFooterLinkDownloadAndroid: "Androidアプリをダウンロード",
   mFooterLinkDownloadAndroidAPK: "Download Android APK",
-  mFooterLinkSecurity: "Security",
-  mFooterLinkCategorySupport: "Support & Resources",
-  mFooterLinkUserGuide: "User Guide",
-  mFooterLinkDevelopers: "Developers & API",
-  mFooterLinkCategoryCompany: "Company",
+  mFooterLinkSecurity: "セキュリティ",
+  mFooterLinkCategorySupport: "サポート＆ヘルプ",
+  mFooterLinkUserGuide: "ユーザーガイド",
+  mFooterLinkDevelopers: "開発者＆API",
+  mFooterLinkCategoryCompany: "会社",
   mPost: "投稿",
   mGotIt: "同意",
   mReadOnly: "読み取り専用",
@@ -512,11 +512,11 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 
 [=footer]
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire：[=member]さんが[=host]を削除しました",
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>>[=member]さん([=memberEmail])が「[=host]」を削除しました。</p>
 
 [=footer]
 ''',
@@ -780,7 +780,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingOptionLeaveOrganization: "組織を退出",
   mSettingOptionDeleteOrganization: "組織を削除",
   mSettingOptionManageDeveloperApps: "開発者アプリを管理",
-  mChangeDisplayMode: "Display mode",
+  mChangeDisplayMode: "表示モード",
   mChangeProfileVisibility: "プロフィールの公開範囲を変更",
   mProfileVisibilityAll: "メンバー以外のユーザーは、メールアドレスを除くあなたの基本情報を閲覧できます。",
   mProfileVisibilityMember: "メンバー以外のユーザーは、あなたのプロフィールを閲覧できません。",
@@ -794,9 +794,9 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mRecentActivities: "アクティビティー履歴",
   mUpdateFromQuire: "Quireからのお知らせ",
   mMembersSecDesc: "組織のメンバーは、所属組織のプロジェクトにアクセスできます。",
-  mAutoMode: "(auto)",
-  mBasicMode: "Basic",
-  mAdvancedMode: "Advanced",
+  mAutoMode: "（自動）",
+  mBasicMode: "基本",
+  mAdvancedMode: "詳細",
   mIntegraGithubDesc:
     "連携するリポジトリを選択してください。"
     "選択後にチェックをはずすことができます。",
@@ -844,7 +844,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mNextDay: "翌日",
   m2dayLater: "2日後",
   mStartOFNextWeek: "翌週の初め",
-  mRemindTimeAt: "at",
+  mRemindTimeAt: "の",
   mCollapseAllSubtaskByDefault: 'デフォルトでは子タスクを折りたたむ',
   mShowFavoritedMyTasks: '「自分のタスク」にお気に入りのタスクを表示',
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',
