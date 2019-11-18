@@ -667,6 +667,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mKeyCreateSubtask: '新しい子タスクを追加',
   mKeyDeleteTask: '選択したタスクを削除',
   mKeyCollapseTask: 'タスクをレベルごとに折りたたみまたは展開',
+  mKeySwitchMyTaskView: 'Open or hide My Tasks',
   mKeySwitchViews: '表示の切り替え',
   mKeyBlinkSearch: 'プロジェクトやメンバーをサクサク検索',
   mKeySearchTask: 'タスクとコメントを検索',
@@ -962,17 +963,20 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     '申し訳ありません。<a href="https://quire.io/terms" target="_blank">利用規約</a>に違反しました。'
     '[=hours]時間後に再度試すか、私たちまで<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
   mOrganizationLimit:
-    "新しい組織を追加できません。追加できる組織数の上限は([=size])組です。"
+    "新しい組織を追加できません。追加できる組織数の上限は<b>[=size]</b>組です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mProjectLimit:
-    "新しいプロジェクトを[=organization]に追加できません。追加できるプロジェクト数の上限は([=size])件です。"
+    "新しいプロジェクトを[=organization]に追加できません。追加できるプロジェクト数の上限は<b>[=size]</b>件です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mMemberLimit:
     "新しいメンバーを[=organization]に追加できません。"
     "追加できるメンバー数の上限は<b>[=size]</b>人です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mTaskLimit:
-    "新しいタスクを追加できません。追加できるタスク数の上限は([=size])件です。"
+    "新しいタスクを追加できません。追加できるタスク数の上限は<b>[=size]</b>件です。"
+    '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
+  mProjectInLotLimit:
+    "新しいプロジェクトを[=lot]に追加できません。追加できるプロジェクト数の上限は<b>[=size]</b>件です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mAppAccessInHourLimit:
     "Quire APIにアクセスできる回数の上限は、1時間につき<b>[=size]</b>回です。"

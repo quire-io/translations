@@ -667,6 +667,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyCreateSubtask: 'Add new subtask',
   mKeyDeleteTask: 'Delete selected tasks',
   mKeyCollapseTask: 'Collapse or expand tasks by level',
+  mKeySwitchMyTaskView: 'Open or hide My Tasks',
   mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',
@@ -962,17 +963,20 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'Sorry, you have violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>. '
     'Please wait for [=hours] hours, or <a href="mailto:support@quire.io">contact us</a> for support.',
   mOrganizationLimit:
-    "Unable to add a new organization. Currently, the maximum number of organizations allowed is ([=size]). "
+    "Unable to add a new organization. Currently, the maximum number of organizations allowed is <b>[=size]</b>. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mProjectLimit:
-    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is ([=size]). "
+    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mMemberLimit:
     "Unable to add a new member to [=organization]. "
     "Currently, the maximum number of members allowed is <b>[=size]</b>. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mTaskLimit:
-    "Unable to add a new task. Currently, the maximum number of tasks allowed is ([=size]). "
+    "Unable to add a new task. Currently, the maximum number of tasks allowed is <b>[=size]</b>. "
+    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+  mProjectInLotLimit:
+    "Unable to add a new project to [=lot]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mAppAccessInHourLimit:
     "You cannot access Quire API more than <b>[=size]</b> times in an hour. "

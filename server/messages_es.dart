@@ -667,6 +667,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mKeyCreateSubtask: 'Añade una subtarea nueva',
   mKeyDeleteTask: 'Elimina las tareas seleccionadas',
   mKeyCollapseTask: 'Contrae o expande las tareas por nivel',
+  mKeySwitchMyTaskView: 'Open or hide My Tasks',
   mKeySwitchViews: 'Cambiar vistas',
   mKeyBlinkSearch: 'Resalta la búsqueda de proyectos, miembros, etc.',
   mKeySearchTask: 'Busca tareas y comentarios',
@@ -962,17 +963,20 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     'Lo sentimos, has violado nuestros <a href="https://quire.io/terms" target="_blank">Términos de Servicio</a>. '
     'Por favor, espera [=hours] horas, o <a href="mailto:support@quire.io">contacta con nosotros</a> para recibir soporte.',
   mOrganizationLimit:
-    "No es posible añadir una nueva organización. Actualmente, el número máximo de organizaciones permitidas es ([=size]). "
+    "No es posible añadir una nueva organización. Actualmente, el número máximo de organizaciones permitidas es <b>[=size]</b>. "
     'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
   mProjectLimit:
-    "No es posible añadir un nuevo proyecto a [=organization]. Actualmente, el número máximo de proyectos permitidos es ([=size]). "
+    "No es posible añadir un nuevo proyecto a [=organization]. Actualmente, el número máximo de proyectos permitidos es <b>[=size]</b>. "
     'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
   mMemberLimit:
     "No es posible añadir un nuevo miembro a [=organization]. "
     "Actualmente, el número máximo de miembros permitidos es <b>[=size]</b>. "
     'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
   mTaskLimit:
-    "Imposible añadir una nueva tarea. Actualmente, el número máximo de tareas permitidas es ([=size]). "
+    "Imposible añadir una nueva tarea. Actualmente, el número máximo de tareas permitidas es <b>[=size]</b>. "
+    'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
+  mProjectInLotLimit:
+    "No es posible añadir un nuevo proyecto a [=lot]. Actualmente, el número máximo de proyectos permitidos es <b>[=size]</b>. "
     'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
   mAppAccessInHourLimit:
     "No puedes acceder a la API de Quire más de <b>[=size]</b> veces en una hora. "

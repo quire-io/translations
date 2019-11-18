@@ -664,6 +664,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyCreateSubtask: 'Neue Teilaufgabe hinzufügen',
   mKeyDeleteTask: 'Ausgewählte Aufgabe(n) löschen',
   mKeyCollapseTask: 'Alle Aufgaben ebenenabhängig ein- oder ausklappen',
+  mKeySwitchMyTaskView: 'Open or hide My Tasks',
   mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Suche nach Projekten, Mitglieder, etc.',
   mKeySearchTask: 'Aufgabe suchen',
@@ -957,18 +958,21 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'Sorry, Sie haben unsere <a href="https://quire.io/terms" target="_blank">Nutzungsbedingungen</a> verletzt. '
     'Bitte warten Sie [=hours] Stunden, oder <a href="mailto:support@quire.io">wenden Sie sich an unseren Support</a>.',
   mOrganizationLimit:
-    "Es kann keine weitere Organisation hinzugefügt werden. Aktuell ist die Zahl der Organisationen auf ([=size]) begrenzt. "
+    "Es kann keine weitere Organisation hinzugefügt werden. Aktuell ist die Zahl der Organisationen auf <b>[=size]</b> begrenzt. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für ein höheres Kontingent.',
   mProjectLimit:
-    "Es kann kein neues Projekt in [=organization] erstellt werden. Die maximale Projektanzahl ist zurzeit auf ([=size]) Projekte begrenzt. "
+    "Es kann kein neues Projekt in [=organization] erstellt werden. Die maximale Projektanzahl ist zurzeit auf <b>[=size]</b> Projekte begrenzt. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, falls Sie mehr Projekte erstellen möchten.',
   mMemberLimit:
     "Es kann kein neues Mitglied hinzugefügt werden aan [=organization]. "
     "Die maximale Mitgliederanzahl ist zurzeit auf <b>[=size]</b> begrenzt. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, falls Sie mehr Mitglieder hinzufügen möchten.',
   mTaskLimit:
-    "Es kann keine neue Aufgabe hinzugefügt werden. Die maximale Aufgabenanzahl ist zurzeit auf ([=size]) begrenzt. "
+    "Es kann keine neue Aufgabe hinzugefügt werden. Die maximale Aufgabenanzahl ist zurzeit auf <b>[=size]</b> begrenzt. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, falls Sie mehr Aufgaben erstellen möchten.',
+  mProjectInLotLimit:
+    "Es kann kein neues Projekt in [=lot] erstellt werden. Die maximale Projektanzahl ist zurzeit auf <b>[=size]</b> Projekte begrenzt. "
+    'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, falls Sie mehr Projekte erstellen möchten.',
   mAppAccessInHourLimit:
     "Sie können nicht öfters als <b>[=size]</b> mal pro Stunde auf die Quire API zugreifen. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für weitere Informationen.',
