@@ -210,6 +210,7 @@ const deClient = const <String, String> {
   mReferredTaskAmount: '[=n] Aufgaben verweisen auf diese Aufgabe',
   mReferrers: 'Verweise',
   mSubtaskStatus: '[=active] offene und [=completed] erledigte Unteraufgaben',
+  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Andere",
   mSubtaskStatisticUnasgd: "Nicht zugewiesen",
   mSubtaskStatisticFirstLevel: "First-level subtasks",

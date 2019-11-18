@@ -216,6 +216,7 @@ const jaClient = const <String, String> {
   mReferredTaskAmount: 'このタスクは[=n]件のタスクが参照',
   mReferrers: '参照元',
   mSubtaskStatus: '子タスクは未完了[=active]件、完了[=completed]件',
+  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "その他",
   mSubtaskStatisticUnasgd: "担当者を未設定",
   mSubtaskStatisticFirstLevel: "レベル1の子タスク",

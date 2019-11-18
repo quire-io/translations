@@ -216,6 +216,7 @@ const frClient = const <String, String> {
   mReferredTaskAmount: '[=n] tâches font référence à cette tâche',
   mReferrers: 'Référents',
   mSubtaskStatus: '[=active] sous-tâches incomplètes et [=completed] sous-tâches terminées',
+  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Autres",
   mSubtaskStatisticUnasgd: "Non attribuées",
   mSubtaskStatisticFirstLevel: "Sous-tâches de premier niveau",

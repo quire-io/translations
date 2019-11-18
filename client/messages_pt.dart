@@ -221,6 +221,7 @@ const ptClient = const <String, String> {
   mReferredTaskAmount: '[=n] tasks referred to this task',
   mReferrers: 'Recomendadores',
   mSubtaskStatus: '[=active] sub-tarefas incompletas e [=completed] concluídas',
+  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Outras",
   mSubtaskStatisticUnasgd: "Por atribuir",
   mSubtaskStatisticFirstLevel: "First-level subtasks",
