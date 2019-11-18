@@ -23,8 +23,6 @@ const enServer = const <String, String> {
   mOrganizationLC: "organization",
 
   mSidebarTitleMyTasks: "MY TASKS",//for mobile
-  mSidebarMyTasksFav: "FAVORITES",
-  mSidebarMyTasksArchived: "ARCHIVED",
   mSidebarCrossProjects: "SMART FOLDERS",
   mSidebarProjects: "PROJECTS",
   mSidebarFav: "BOOKMARKS",
@@ -35,8 +33,6 @@ const enServer = const <String, String> {
   mAppCategoriesU: 'CATEGORIES',
   mAppCategory: 'Category',
 
-  mSidebarMyTasksSortDate: "Sort by date",
-  mSidebarMyTasksSortProject: "Sort by project",
   mSidebarResetOrder: "Reset to default order",
 
   mSignup: "Sign up",

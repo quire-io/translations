@@ -269,8 +269,6 @@ const enClient = const <String, String> {
 
   mSubtaskStatus: 
     '[=active] incomplete and [=completed] completed subtasks',
-  mSubtaskStatusShort: 
-    '[=active] incomplete and [=completed] completed subtasks',
   mSubtaskStatisticOthers: "Others",
   mSubtaskStatisticUnasgd: "Unasgd",
   mSubtaskStatisticFirstLevel: "First-level subtasks",
@@ -430,8 +428,6 @@ const enClient = const <String, String> {
 
   mHelp: "Help",
   mDownload: "Download",
-
-  mInbox: "Inbox",
 
   mOptions: "Options",
   mFilter: "Filter",
