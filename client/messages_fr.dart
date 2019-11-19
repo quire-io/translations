@@ -70,8 +70,8 @@ const frClient = const <String, String> {
   mCantSetThisState: "Vous ne pouvez pas donner ce statut à [=task].",
   mCantDeleteTask: "Vous n'avez pas l'autorisation de supprimer [=task].",
   mCantSetAssignee: "Vous n'avez pas l'autorisation d'attribuer [=task].",
-  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
-  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
+  mCantSetAssigneeCross: "Vous ne pouvez pas attribuer [=task] à [=assignee] car [=assignee] n'est pas dans le même projet.",
+  mCantSetAssigneeCrossPlural: "Vous ne pouvez pas attribuer [=task] et [=count] autres tâches à [=assignee] car [=assignee] n'est pas dans le même projet.",
   mCantSetPartner:
     "Vous ne pouvez pas l'attribuer à une autre équipe externe, "
     "car [=task] est déjà attribuée à l'une d'elles.",
@@ -1039,5 +1039,5 @@ const frClient = const <String, String> {
   mAppAuthAllowTo: 'Autorisation de :',
   mAppAuthShowNotAllowTo: 'Afficher les zones auxquelles cette application n\'a pas accès',
   mAppAuthNotAllowTo: 'Pas l\'autorisation de :',
-  mRefreshList: 'Refresh list'
+  mRefreshList: 'Rafraîchir la liste'
 };
