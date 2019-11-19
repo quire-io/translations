@@ -63,15 +63,15 @@ const esClient = const <String, String> {
   mCantMoveTask: "No puedes mover [=task].",
   mCantMoveTaskTo: "No puedes mover [=task] aquí.",
   mCantMoveTaskToPersonalChild: "No puedes mover esta tarea al subnivel de tareas personales.",
-  mCantMoveExternalTeamRootTask: "You cannot move External Team root tasks.",
-  mCantMoveToExternalTeamRootTask: "You cannot place this task to an External Team root task.",
-  mCantMoveToExternalTeamRootTaskP: "You cannot place these tasks to an External Team root task.",
+  mCantMoveExternalTeamRootTask: "No puedes mover las tareas raíz del Equipo Externo.",
+  mCantMoveToExternalTeamRootTask: "No puedes poner esta tarea en una tarea raíz de Equipo externo.",
+  mCantMoveToExternalTeamRootTaskP: "No puedes poner estas tareas en una tarea raíz de Equipo externo.",
   mCantCompleteTask: "No tienes permiso para completar [=task]",
   mCantSetThisState: "No puedes establecer este estado en [=task].",
   mCantDeleteTask: "No tienes permiso para eliminar [=task].",
   mCantSetAssignee: "No tienes permiso para configurar las asignaciones de [=task].",
-  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
-  mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
+  mCantSetAssigneeCross: "No puedes asignar a [=assignee] a [=task] porque [=assignee] no está en el mismo proyecto.",
+  mCantSetAssigneeCrossPlural: "No puedes asignar a [=assignee] a [=task] y a otras [=count] tareas porque [=assignee] no está en el mismo proyecto.",
   mCantSetPartner:
     "No puedes asignarla a otro equipo externo, "
     "ya que [=task] ya está asignada a uno.",
@@ -258,7 +258,7 @@ const esClient = const <String, String> {
   mAssignedToME: "Asignado a mí",
   mSortByAssignee: "Ordenar por asignado",
   mSortByDate: "Ordenar por fecha",
-  mSortByProject: "Sort by project",
+  mSortByProject: "Ordenar por proyecto",
   mPriority: "Prioridad",
   mPriorityLabel: "Bajo,Medio,Alto,Urgente",
   mStateLabel: "Por hacer,En progreso,Completada",
@@ -317,7 +317,7 @@ const esClient = const <String, String> {
   mTreeMenuUnarchive: "Volver a mostrar",
   mTaskArchiveNeverOption: "No volver a mostrar",
   mTaskArchiveDayOption: "Volver a mostrar [=n] días más tarde",
-  mTreeMenuArchiveTip: "<a href='[=link]' target='_blank'>Peekaboo</a> tasks will be tucked away until you're ready to handle them.",
+  mTreeMenuArchiveTip: "Las tareas <a href='[=link]' target='_blank'>Peekaboo</a> serán guardadas hasta que estés listo para ponerte con ellas.",
   mTreeBatchCompleteTooltip: "Completar",
   mTreeBatchAssigneeTooltip: "Asignar",
   mTreeBatchDateTooltip: "Fecha de vencimiento",
@@ -1039,5 +1039,5 @@ const esClient = const <String, String> {
   mAppAuthAllowTo: 'Permiso para:',
   mAppAuthShowNotAllowTo: 'Muestra qué área de esta app no tiene permiso de acceso',
   mAppAuthNotAllowTo: 'Sin permiso para:',
-  mRefreshList: 'Refresh list'
+  mRefreshList: 'Refrescar lista'
 };
