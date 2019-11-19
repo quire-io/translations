@@ -667,7 +667,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mKeyCreateSubtask: '新しい子タスクを追加',
   mKeyDeleteTask: '選択したタスクを削除',
   mKeyCollapseTask: 'タスクをレベルごとに折りたたみまたは展開',
-  mKeySwitchMyTaskView: 'Open or hide My Tasks',
+  mKeySwitchMyTaskView: 'Launch or close My Tasks',
   mKeySwitchViews: '表示の切り替え',
   mKeyBlinkSearch: 'プロジェクトやメンバーをサクサク検索',
   mKeySearchTask: 'タスクとコメントを検索',

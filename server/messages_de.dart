@@ -664,7 +664,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyCreateSubtask: 'Neue Teilaufgabe hinzufügen',
   mKeyDeleteTask: 'Ausgewählte Aufgabe(n) löschen',
   mKeyCollapseTask: 'Alle Aufgaben ebenenabhängig ein- oder ausklappen',
-  mKeySwitchMyTaskView: 'Open or hide My Tasks',
+  mKeySwitchMyTaskView: 'Launch or close My Tasks',
   mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Suche nach Projekten, Mitglieder, etc.',
   mKeySearchTask: 'Aufgabe suchen',

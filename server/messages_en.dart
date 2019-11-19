@@ -893,7 +893,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyDeleteTask: 'Delete selected tasks',
   mKeyCollapseTask: 'Collapse or expand tasks by level',
 
-  mKeySwitchMyTaskView: 'Open or hide My Tasks',
+  mKeySwitchMyTaskView: 'Launch or close My Tasks',
   mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',

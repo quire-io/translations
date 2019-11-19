@@ -667,7 +667,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mKeyCreateSubtask: 'Adicionar nova sub-tarefa',
   mKeyDeleteTask: 'Eliminar tarefas selecionadas',
   mKeyCollapseTask: 'Recolher ou expandir tarefas por nível',
-  mKeySwitchMyTaskView: 'Open or hide My Tasks',
+  mKeySwitchMyTaskView: 'Launch or close My Tasks',
   mKeySwitchViews: 'Mudar vistas',
   mKeyBlinkSearch: 'Pesquisa rápida de projetos, membros, etc.',
   mKeySearchTask: 'Pesquisar tarefas e comentários',
