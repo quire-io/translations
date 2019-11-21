@@ -844,7 +844,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mStartOFNextWeek: "Ao início da semana seguinte",
   mRemindTimeAt: "às",
   mCollapseAllSubtaskByDefault: 'Recolher todas as subtarefas por defeito',
-  mShowFavoritedMyTasks: 'Mostrar tarefas favoritas nas Minhas Tarefas',
   mAutoAssignToMe: 'Atribuir-me automaticamente novas tarefas',
   mDeveloperConsoleTitle: "Aplicações",
   mDeveloperConsoleIntro:

@@ -843,7 +843,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mStartOFNextWeek: "Al comienzo de la siguiente semana",
   mRemindTimeAt: "en",
   mCollapseAllSubtaskByDefault: 'Ocultar todas las subtareas de forma predeterminada',
-  mShowFavoritedMyTasks: 'Mostrar las tareas favoritas en Mis Tareas',
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:

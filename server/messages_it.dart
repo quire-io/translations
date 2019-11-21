@@ -843,7 +843,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mStartOFNextWeek: "At start of next week",
   mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
-  mShowFavoritedMyTasks: 'Show favorite tasks in My Tasks',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:

@@ -840,7 +840,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mStartOFNextWeek: "Anfang nächster Woche",
   mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
-  mShowFavoritedMyTasks: 'Lieblingsaufgaben in Meine Aufgaben anzeigen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mDeveloperConsoleTitle: "Apps",
   mDeveloperConsoleIntro:

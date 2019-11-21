@@ -827,7 +827,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mStartOFNextWeek: "En début de semaine suivante",
   mRemindTimeAt: "à",
   mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
-  mShowFavoritedMyTasks: 'Afficher les Tâches Favorites dans Mes Tâches',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mDeveloperConsoleTitle: "Applications",
   mDeveloperConsoleIntro:
