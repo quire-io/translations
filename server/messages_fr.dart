@@ -651,7 +651,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mKeyCreateSubtask: 'Ajouter une nouvelle sous-tâche',
   mKeyDeleteTask: 'Supprimer les tâches sélectionnées',
   mKeyCollapseTask: 'Réduire ou développer les tâches par niveau',
-  mKeySwitchMyTaskView: 'Launch or close My Tasks',
+  mKeySwitchMyTaskView: 'Ouvrir ou fermer Mes Tâches',
   mKeySwitchViews: 'Naviguer entre les affichages',
   mKeyBlinkSearch: 'Recherche rapide de projets, de membres, etc.',
   mKeySearchTask: 'Rechercher des tâches et des commentaires',
