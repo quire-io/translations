@@ -904,6 +904,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'Astuce : Gardez une copie papier de vos tâches ! <a href="javascript:window.print()">Imprimez-les</a> '
     'avec <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Astuce : Tapez <code>[=ctrlAlt]</code> pour montrer l\'ID des tâches et leur fil d\'Ariane',
+  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'Astuce : Tapez <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> et <code>^</code> lorsque vous nommez vos tâches pour '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">l\'ajout rapide</a>',

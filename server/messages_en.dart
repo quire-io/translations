@@ -1221,6 +1221,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'them via <code>[=ctrlCommand]+P</code>',
   mTipTaskId:
     'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
+  mTipMyTasksShortcut:
+    "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'Tip: Type <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> and <code>^</code> when naming your task for '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',

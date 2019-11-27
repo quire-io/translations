@@ -269,7 +269,6 @@ const enClient = const <String, String> {
 
   mSubtaskStatus: 
     '[=active] incomplete and [=completed] completed subtasks',
-  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Others",
   mSubtaskStatisticUnasgd: "Unasgd",
   mSubtaskStatisticFirstLevel: "First-level subtasks",

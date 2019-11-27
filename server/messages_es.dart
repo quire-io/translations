@@ -920,6 +920,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     'Consejo: ¡Conserva una copia de tus tareas! <a href="javascript:window.print()">Imprímelas</a> '
     'usando <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Consejo: Pulsa <code>[=ctrlAlt]</code> para mostrar la ID de las tareas y las breadcrumbs',
+  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'Consejo: Escribe <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> y <code>^</code> cuando nombres una tarea para '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">añadirla rápidamente</a>',

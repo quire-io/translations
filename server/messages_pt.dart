@@ -921,6 +921,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
     'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:window.print()">Imprima-as</a> '
     'através de <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
+  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> e <code>^</code> quando nomeia a sua tarefa para '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">adicionar rapidamente</a>',

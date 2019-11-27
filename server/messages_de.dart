@@ -915,6 +915,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'oder <a href="/feedback">helfen Sie uns</a> Quire weiter zu verbessern!',
   mTipPrint: '<a href="javascript:window.print()">Drucken</a> Sie Ihre Aufgaben mit <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tipp: Drücken Sie <code>[=ctrlAlt]</code>, um Aufgaben ID und Pfad anzuzeigen',
+  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'Verwenden Sie <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> und <code>^</code>, wenn Sie eine Aufgabe erstellen, um '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">Tags etc. schnell hinzuzufügen</a>',

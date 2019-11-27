@@ -920,6 +920,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     'ヒント：<code>[=ctrlCommand]+P</code>で、タスクを'
     '<a href="javascript:window.print()">印刷</a>して保存',
   mTipTaskId: 'ヒント：<code>[=ctrlAlt]</code>キーを押して、タスクIDとパンくずリストを表示',
+  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:
     'ヒント：<code>@</code>、<code>#</code>、<code>!</code>、<code>&lt;</code>、<code>^</code>を入力して'
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">かんたんに追加</a>',

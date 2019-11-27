@@ -216,7 +216,6 @@ const itClient = const <String, String> {
   mReferredTaskAmount: '[=n] tasks referred to this task',
   mReferrers: 'Referrers',
   mSubtaskStatus: '[=active] incomplete and [=completed] completed subtasks',
-  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Others",
   mSubtaskStatisticUnasgd: "Unasgd",
   mSubtaskStatisticFirstLevel: "First-level subtasks",

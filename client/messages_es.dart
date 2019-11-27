@@ -216,7 +216,6 @@ const esClient = const <String, String> {
   mReferredTaskAmount: '[=n] tareas referidas a esta tarea',
   mReferrers: 'Referentes',
   mSubtaskStatus: '[=active] incompletas y [=completed] subtareas completadas',
-  mSubtaskAmountStatus: '[=count] subtask(s)',
   mSubtaskStatisticOthers: "Otras",
   mSubtaskStatisticUnasgd: "Sin asignar",
   mSubtaskStatisticFirstLevel: "Subtareas de primer nivel",
