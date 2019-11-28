@@ -57,7 +57,7 @@ const frServer = const <String, String> {
   mGOWS: "Poursuivre vers mon projet",
   mReturnWS: "Retourner à mon projet",
   mTryAgain: "Réessayez",
-  mSignupAt: "Rejoint",
+  mSignupAt: "A rejoint",
   mCreatedAt: "Créé",
   mTour: "Visite guidée",
   mFeatures: "Fonctionnalités",
@@ -887,7 +887,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mTipDrillDown: 'Astuce : Zoomez sur une tâche avec <code>[=ctrlCommand]+I</code> pour voir seulement ses sous-tâches',
   mTipTwitter:
     'Astuce : Suivez-nous sur <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'pour les dernières mises à jour',
+    'pour être au courant des dernières mises à jour',
   mTipMarkdown:
     'Astuce : Écrivez les descriptions et les commentaires en '
     '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> pour une meilleure apparence',
@@ -904,7 +904,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'Astuce : Gardez une copie papier de vos tâches ! <a href="javascript:window.print()">Imprimez-les</a> '
     'avec <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Astuce : Tapez <code>[=ctrlAlt]</code> pour montrer l\'ID des tâches et leur fil d\'Ariane',
-  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
+  mTipMyTasksShortcut: "Astuce : Tapez <code>&gt;</code> pour ouvrir Mes Tâches",
   mTipAssignInTaskName:
     'Astuce : Tapez <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> et <code>^</code> lorsque vous nommez vos tâches pour '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">l\'ajout rapide</a>',
