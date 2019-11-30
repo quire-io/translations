@@ -667,7 +667,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mKeyCreateSubtask: '新しい子タスクを追加',
   mKeyDeleteTask: '選択したタスクを削除',
   mKeyCollapseTask: 'タスクをレベルごとに折りたたみまたは展開',
-  mKeySwitchMyTaskView: 'Launch or close My Tasks',
+  mKeySwitchMyTaskView: '自分のタスクを立ち上げまたは終了',
   mKeySwitchViews: '表示の切り替え',
   mKeyBlinkSearch: 'プロジェクトやメンバーをサクサク検索',
   mKeySearchTask: 'タスクとコメントを検索',
@@ -920,7 +920,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     'ヒント：<code>[=ctrlCommand]+P</code>で、タスクを'
     '<a href="javascript:window.print()">印刷</a>して保存',
   mTipTaskId: 'ヒント：<code>[=ctrlAlt]</code>キーを押して、タスクIDとパンくずリストを表示',
-  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
+  mTipMyTasksShortcut: "ヒント： <code>&gt;</code>キーを押して自分のタスクを立ち上げ",
   mTipAssignInTaskName:
     'ヒント：<code>@</code>、<code>#</code>、<code>!</code>、<code>&lt;</code>、<code>^</code>を入力して'
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">かんたんに追加</a>',
@@ -1011,7 +1011,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSlackHelpAdd: 'タスクを追加',
   mSlackHelpAddExample:
     '`/quire add [タスク名]`\n'
-    '`/quire add [子レベルまたは同レベル] [親または同レベルのid] [タスク名]`\n'
+    '`/quire add [同レベルまたは子レベル] [同レベルまたは親レベルタスクのid] [タスク名]`\n'
     '例：`/quire add Design new logo @eric @jess\n'
     '例：`/quire add under 10 Logo',
   mSlackHelpLink: 'QuireのプロジェクトをこのSlackチャンネルにリンク',
