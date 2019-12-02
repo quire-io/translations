@@ -905,7 +905,7 @@ const frClient = const <String, String> {
   mGroupDropStateToComplete: "Déposez les tâches ici pour les terminer",
   mGroupDropStateToStart: "Déposez les tâches ici pour les commencer",
   mGroupDropStateToPostpone: "Déposez les tâches ici pour les remettre à plus tard",
-  mGroupDropProject: "Déposez les tâches ici pour définir ce projet",
+  mGroupDropProject: "Drop tasks here to transfer to this project",
   mGroupDropPriority: "Déposez les tâches ici pour définir cette priorité",
   mGroupDropAssignee: "Déposez les tâches ici pour définir cette attribution",
   mGroupDropUnassign: "Déposez les tâches ici pour supprimer les attributions",

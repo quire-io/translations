@@ -1164,7 +1164,7 @@ const enClient = const <String, String> {
   mGroupDropStateToStart: "Drop tasks here to start",
   mGroupDropStateToPostpone: "Drop tasks here to postpone",
   
-  mGroupDropProject: "Drop tasks here to set this project",
+  mGroupDropProject: "Drop tasks here to transfer to this project",
   mGroupDropPriority: "Drop tasks here to set this priority",
   mGroupDropAssignee: "Drop tasks here to set this assignee",
   mGroupDropUnassign: "Drop tasks here to remove assignees",
