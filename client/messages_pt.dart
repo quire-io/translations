@@ -102,6 +102,7 @@ const ptClient = const <String, String> {
   mBlankProject: "(Projeto em Branco)",
   mBlankBoard: "(Padrão em branco)",
   mGotoSubject: "Ir para [=subject]",
+  mGotoOtherProjects: "Go to other projects",
   mArchivedTask: 'Tarefa Peekaboo',
   mId: "ID",
   mParent: "Classe Pai",

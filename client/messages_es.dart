@@ -97,6 +97,7 @@ const esClient = const <String, String> {
   mBlankProject: "(Proyecto en blanco)",
   mBlankBoard: "(Espacio en blanco por defecto)",
   mGotoSubject: "Ir a [=subject]",
+  mGotoOtherProjects: "Go to other projects",
   mArchivedTask: 'Tarea Peekaboo',
   mId: "ID",
   mParent: "Apellidos",

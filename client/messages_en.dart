@@ -140,6 +140,7 @@ const enClient = const <String, String> {
   mBlankProject: "(Blank Project)",
   mBlankBoard: "(Default blank)",
   mGotoSubject: "Go to [=subject]",
+  mGotoOtherProjects: "Go to other projects",
   mArchivedTask: 'Peekaboo task',
 
   mId: "ID",

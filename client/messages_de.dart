@@ -91,6 +91,7 @@ const deClient = const <String, String> {
   mBlankProject: "(leeres Projekt)",
   mBlankBoard: "(Default blank)",
   mGotoSubject: "Gehe zu [=subject]",
+  mGotoOtherProjects: "Go to other projects",
   mArchivedTask: 'Peekaboo task',
   mId: "ID",
   mParent: "Elternteil",
