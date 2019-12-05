@@ -96,7 +96,7 @@ const jaClient = const <String, String> {
   mRemovedContent: "（消去）",
   mBlankProject: "（空のプロジェクト）",
   mBlankBoard: "（デフォルトの空）",
-  mGotoOrg: "[=org]に移動",
+  mGotoSubject: "[=subject]に移動",
   mArchivedTask: 'タスクをあとで表示',
   mId: "ID",
   mParent: "親",

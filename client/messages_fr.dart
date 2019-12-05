@@ -96,7 +96,7 @@ const frClient = const <String, String> {
   mRemovedContent: "(supprimé)",
   mBlankProject: "(Projet Vide)",
   mBlankBoard: "(Vide par défaut)",
-  mGotoOrg: "Aller à [=org]",
+  mGotoSubject: "Aller à [=subject]",
   mArchivedTask: 'Peekaboo la tâche',
   mId: "ID",
   mParent: "Parent",

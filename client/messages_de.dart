@@ -90,7 +90,7 @@ const deClient = const <String, String> {
   mRemovedContent: "(entfernt)",
   mBlankProject: "(leeres Projekt)",
   mBlankBoard: "(Default blank)",
-  mGotoOrg: "Gehe zu [=org]",
+  mGotoSubject: "Gehe zu [=subject]",
   mArchivedTask: 'Peekaboo task',
   mId: "ID",
   mParent: "Elternteil",

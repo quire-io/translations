@@ -96,7 +96,7 @@ const esClient = const <String, String> {
   mRemovedContent: "(eliminado)",
   mBlankProject: "(Proyecto en blanco)",
   mBlankBoard: "(Espacio en blanco por defecto)",
-  mGotoOrg: "Ir a [=org]",
+  mGotoSubject: "Ir a [=subject]",
   mArchivedTask: 'Tarea Peekaboo',
   mId: "ID",
   mParent: "Apellidos",
