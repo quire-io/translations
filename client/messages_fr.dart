@@ -97,7 +97,7 @@ const frClient = const <String, String> {
   mBlankProject: "(Projet Vide)",
   mBlankBoard: "(Vide par défaut)",
   mGotoSubject: "Aller à [=subject]",
-  mGotoOtherProjects: "Go to other projects",
+  mGotoOtherProjects: "Aller dans un autre projet",
   mArchivedTask: 'Peekaboo la tâche',
   mId: "ID",
   mParent: "Parent",
@@ -840,10 +840,9 @@ const frClient = const <String, String> {
     'À propos des modifications de code, vous pouvez aussi faire référence aux tâches utilisées en tant que problèmes dans Quire.<br><br>'
     'En savoir plus à propos de <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">l\'intégration GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Échec de la sauvegarde",
-  mIntegraGithubRepoErrorContent:
-    'Oups...on dirait que nous avons rencontré un problème. '
-    'Nous allons l\'examiner, mais en attendant, veuillez réessayer.<br>'
-    'Si le problème persiste, veuillez <a href="/feedback">nous contacter</a>.',
+  mIntegraGithubRepoErrorContent:      
+    'Oups… On dirait que nous avons eu un problème. '
+    'Veuillez vérifier que votre compte GitHub dispose des permissions nécessaires à la configuration.',
   mIntegraGithubRepoSuccessTitle: "Sauvegarde réussie",
   mIntegraGithubRepoSuccessContent: 'Vous allez être redirigé(e) vers votre projet dans 5 secondes.',
   mIntegrationUnlinklSlackTitle: 'Dissocier',
