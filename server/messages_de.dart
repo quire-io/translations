@@ -1169,6 +1169,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileEditAttachments: "Anhänge bearbeiten",
   mMobileEditDate: "Datum bearbeiten",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
   mMobileForgotPasswordTitle: "Passwort vergessen",
   mMobileForgotResetErrorTitle: "Resetfehler",
   mMobileSignupErrorTitle: "Anmeldefehler",

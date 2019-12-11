@@ -1175,6 +1175,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileEditAttachments: "Editar Anexos",
   mMobileEditDate: "Editar Data",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
   mMobileForgotPasswordTitle: "Esqueci-me da Palavra-passe",
   mMobileForgotResetErrorTitle: "Erro de Redefinição",
   mMobileSignupErrorTitle: "Erro de registo",

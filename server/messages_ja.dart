@@ -1174,6 +1174,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileEditAttachments: "添付ファイルを編集",
   mMobileEditDate: "日付を編集",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
   mMobileForgotPasswordTitle: "パスワードを忘れました",
   mMobileForgotResetErrorTitle: "再設定エラー",
   mMobileSignupErrorTitle: "登録エラー",

@@ -1158,6 +1158,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileEditAttachments: "Modifier les Pièces Jointes",
   mMobileEditDate: "Modifier la Date",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
   mMobileForgotPasswordTitle: "Mot de Passe oublié",
   mMobileForgotResetErrorTitle: "Erreur lors de la réinitialisation",
   mMobileSignupErrorTitle: "Erreur lors de la connexion",

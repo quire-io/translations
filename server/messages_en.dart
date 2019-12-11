@@ -1530,6 +1530,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileEditAttachments: "Edit Attachments",
   mMobileEditDate: "Edit Date",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
 
   mMobileForgotPasswordTitle: "Forgot Password",
   mMobileForgotResetErrorTitle: "Reset error",

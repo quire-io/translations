@@ -1174,6 +1174,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileEditAttachments: "Editar Adjuntos",
   mMobileEditDate: "Editar Fecha",
   mMobileNoFileFound: "No files found",
+  mMobileFileModifiedDate: "Modified [=date]",
   mMobileForgotPasswordTitle: "Contraseña Olvidada",
   mMobileForgotResetErrorTitle: "Error de restablecimiento",
   mMobileSignupErrorTitle: "Error de registro",
