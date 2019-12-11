@@ -1512,6 +1512,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileNext: "Next",
   mMobileGreen: "Green",
   mMobileBlue: "Blue",
+  mMobileGoogleDrive: "Google Drive",
 
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",
@@ -1528,6 +1529,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileEditWebsite: "Edit Website",
   mMobileEditAttachments: "Edit Attachments",
   mMobileEditDate: "Edit Date",
+  mMobileNoFileFound: "No files found",
 
   mMobileForgotPasswordTitle: "Forgot Password",
   mMobileForgotResetErrorTitle: "Reset error",

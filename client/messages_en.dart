@@ -1069,8 +1069,7 @@ const enClient = const <String, String> {
   mIntegraGithubRepoErrorTitle: "Saving Failed",
   mIntegraGithubRepoErrorContent: 
     'Oops...it seems we have encountered an error. '
-    'We will look into it, and meanwhile, please try again.<br>'
-    'If the error persists, please <a href="/feedback">contact us</a>.',
+    'Please make sure your Github account has the correct permission to configure.',
   mIntegraGithubRepoSuccessTitle: "Saved Successfully",
   mIntegraGithubRepoSuccessContent: 
     'You will be redirected to your project in 5 seconds.',
