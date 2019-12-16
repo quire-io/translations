@@ -542,6 +542,7 @@ const esClient = const <String, String> {
   mBoardListTooltip: "Lista de tableros",
   mCommentsRemoved: "Este comentario ha sido eliminado.",
   mReloadAltModeHint: "Pulsa [=ctrlAlt] de nuevo para desactivar la visualización de la ID de tarea, y más.",
+  mEmptyTaskNameHint: "You must type in a task name to create the task.",
   mNewMyTaskNameHint: "Pulsa #, ! and < para establecer etiquetas, prioridad y fecha de vencimiento",
   mNewTaskNameHint1: "Pulsa @, #, <, ! y ^ para establecer los asignados, etiquetas...",
   mNewTaskNameHint2: "Pulsa Tab y Mayus+Tab para mover la tarea horizontalmente",

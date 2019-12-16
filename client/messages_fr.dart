@@ -542,6 +542,7 @@ const frClient = const <String, String> {
   mBoardListTooltip: "Liste des tableaux",
   mCommentsRemoved: "Ce commentaire a été supprimé.",
   mReloadAltModeHint: "Tapez de nouveau [=ctrlAlt] pour désactiver entre autres l'affichage de l'ID des tâches.",
+  mEmptyTaskNameHint: "You must type in a task name to create the task.",
   mNewMyTaskNameHint: "Tapez #, ! et < pour définir les étiquettes, la priorité et la date d'échéance",
   mNewTaskNameHint1: "Tapez @, #, <, ! et ^ pour définir les attributions, les étiquettes...",
   mNewTaskNameHint2: "Tapez Tab et Maj+Tab pour déplacer une tâche horizontalement",
@@ -840,7 +841,7 @@ const frClient = const <String, String> {
     'À propos des modifications de code, vous pouvez aussi faire référence aux tâches utilisées en tant que problèmes dans Quire.<br><br>'
     'En savoir plus à propos de <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">l\'intégration GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Échec de la sauvegarde",
-  mIntegraGithubRepoErrorContent:      
+  mIntegraGithubRepoErrorContent:
     'Oups… On dirait que nous avons eu un problème. '
     'Veuillez vérifier que votre compte GitHub dispose des permissions nécessaires à la configuration.',
   mIntegraGithubRepoSuccessTitle: "Sauvegarde réussie",

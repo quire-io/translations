@@ -18,49 +18,38 @@ Welcome to [=system.name] version [=systemVersion]"
 
 const itClient = const <String, String> {
   mInternalError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <a href="/feedback">contact us</a>. '
-    'Meanwhile, you may try <a href="javascript:reloadPage()">reloading this page</a>.',
-  mNetworkError:
-    "Unable to reach Quire. Please check your internet connection.",
-
+    'Ci dispiace, abbiamo rilevato un arrore inatteso. '
+    "Stiamo indagando sull'accaduto, ma "
+    'se lo ritieni opportuno <a href="/feedback">Contattaci</a>. '
+    'Nel frattempo, prova a <a href="javascript:reloadPage()">ricaricare la pagina</a>.',
+  mNetworkError: "Impossibile raggiungere Quire. Per favore controlla la tua connessione ad internet.",
   mNotAllowed:
-    "You do not have permission to perform this action.<br/>"
-    'Please contact your Admin.',
-  mNotFound:
-    "Sorry, we cannot find what you are looking for.",
-  mTooLarge:
-    "Sorry, your request is too large. Please try again with less content.",
-  mSessionTimeout:
-    "Sorry, your session has timed out. Please try logging in again.",
-  mAddProjectWithoutOrg:
-    "You cannot add project without adding an organization first.",
-  mCantAddRootTaskInCurrentMode:
-    "You cannot add root tasks in this mode.",
-  mNotAllowedAddRootTask:
-    "You do not have permission to add root tasks.",
-
+    "Purtroppo non hai i permessi per eseguire questa azione.<br/>"
+    'Per favore contatta il tuo amministratore.',
+  mNotFound: "Siamo spiacenti, non riusciamo a trovare quello che stiamo cercando.",
+  mTooLarge: "Ci dispiace, la tua richiesta ha troppi contenuti. Prova con meno.",
+  mSessionTimeout: "Siamo spiacenti, la sessione è scaduta. Per favore effettua di nuovo l'accesso.",
+  mAddProjectWithoutOrg: "Non puoi aggiungere progetti senza prima aggiungere una organizzazione.",
+  mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
+  mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
   mMaintenance:
-    "Sorry, we are down for maintenance. We will be back shortly. "
-    "Not to worry, your updates will be saved locally.",
-  mConnected: "Connection is back. Everything is in sync.",
-  mDisconnected: "Connection lost. Not to worry, your updates will be saved locally.",
+    "Ci dispiace, siamo momentanemante offline per manutenzione. Torneremo al più presto. "
+    "Non preoccuparti, i tuoi aggiornamenti verranno salvati localmente.",
+  mConnected: "La connessione è stata ristabilita. Tutto si è sincronizzato.",
+  mDisconnected: "Connessione persa. Non preoccuparti, i tuoi aggiornamenti verranno salvati localmente.",
   mDisconnectedUnsafe:
-    'Connection lost. Please enable <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">local storage</a> '
-    'to save your updates locally.',
-
-  mReloadNewPartJS: 
-    'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
+    'Connessiona persa. Per favore abilita <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">il salvataggio locale</a> '
+    'per salvare i tuoi updates localmente.',
+  mReloadNewPartJS:
+    'Siamo spiacenti. Non riusciamo a verificare l\'ultima versione di Quire.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
-
+    'Per maggiori dettagli, per favore controlla <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">qui</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'You can try to press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
-    'to clear browser\'s cached images and files, and reload this page.',
+    'Puoi provare premendo <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
+    'per pulire le immagini ed i file nella cache del browser e ricaricare la pagina.',
   mDeleteBrowserCacheSafari:
-    'You can try to press <code>Option+Command+E</code> to empty browser\'s cache, '
-    'and reload this page.',
+    'Prova a premere <code>Option+Command+E</code> per svuotare la cache del browser, '
+    'e ricaricare la pagina.',
   mDeleteBrowserCacheEtc:
     'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
     'and reload this page.',
@@ -553,6 +542,7 @@ const itClient = const <String, String> {
   mBoardListTooltip: "Board list",
   mCommentsRemoved: "This comment has been removed.",
   mReloadAltModeHint: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
+  mEmptyTaskNameHint: "You must type in a task name to create the task.",
   mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Type @, #, <, ! and ^ to set assignees, tags...",
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",

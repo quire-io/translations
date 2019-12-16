@@ -676,6 +676,7 @@ const enClient = const <String, String> {
 
   mReloadAltModeHint: "Press [=ctrlAlt] again to turn off the display of task ID and more.",
 
+  mEmptyTaskNameHint: "You must type in a task name to create the task.",
   mNewMyTaskNameHint: "Type #, ! and < to set tags, priority and due date",
   mNewTaskNameHint1: "Type @, #, <, ! and ^ to set assignees, tags...",
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
