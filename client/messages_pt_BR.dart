@@ -102,7 +102,7 @@ const ptBrClient = const <String, String> {
   mBlankProject: "(Projeto em Branco)",
   mBlankBoard: "(Padrão em branco)",
   mGotoSubject: "Ir para [=subject]",
-  mGotoOtherProjects: "Go to other projects",
+  mGotoOtherProjects: "Ir para outros projetos",
   mArchivedTask: 'Tarefa Peekaboo',
   mId: "ID",
   mParent: "Classe Pai",
@@ -277,7 +277,7 @@ const ptBrClient = const <String, String> {
   mBaseFilterLabel: "Todas, Ativas, Concluídas, Por Fazer, Em Progresso, Peekaboo",
   mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas,Boards,Unread,Projetos",
   mGrouperLabel: "Responsável,Data,Prioridade,Agendado Por Dia,Agendado Por Semana,Concluído Por Semana,Criar Por Semana,Iniciar Por Semana,Atualizar Por Semana,Estado,Nome,Tag,Projeto",
-  mFilterOperatorContains: 'Contains',
+  mFilterOperatorContains: 'Contém',
   mFilterOperatorLabels: '+=E;|=Ou;-=Não',
   mFilterRecentHistory: "Histórico recente",
   mCusFilterSortLabel: "Classificar",
@@ -547,7 +547,7 @@ const ptBrClient = const <String, String> {
   mBoardListTooltip: "Lista de Quadro",
   mCommentsRemoved: "Este comentário foi removido.",
   mReloadAltModeHint: "Pressione [=ctrlAlt] de novo para desligar a exibição da ID da tarefa e mais.",
-  mEmptyTaskNameHint: "You must type in a task name to create the task.",
+  mEmptyTaskNameHint: "Você deve digitar um nome de tarefa para criar a tarefa.",
   mNewMyTaskNameHint: "Digite #, ! e < para definir tags, prioridade e data de conclusão",
   mNewTaskNameHint1: "Digite @, #, <, ! e ^ para definir responsáveis, tags...",
   mNewTaskNameHint2: "Pressione Tab e Shift+Tab para mover a tarefa horizontalmente",
@@ -846,10 +846,9 @@ const ptBrClient = const <String, String> {
     'Olhando para as alterações de código, você também pode consultar as tarefas relevantes usadas como problemas no Quire.<br><br>'
     'Mais sobre <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integração do GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Salvar Falhou",
-  mIntegraGithubRepoErrorContent:
+  mIntegraGithubRepoErrorContent: 
     'Opa...parece que encontramos um erro. '
-    'Vamos investigar, enquanto isso, por favor, tente novamente.<br>'
-    'Se o erro persistir, por favor, <a href="/feedback">entre em contato</a>.',
+    'Verifique se a sua conta do Github tem a permissão correta para configurar.',
   mIntegraGithubRepoSuccessTitle: "Salvo com Sucesso",
   mIntegraGithubRepoSuccessContent: 'Você será redirecionado para o seu projeto em 5 segundos.',
   mIntegrationUnlinklSlackTitle: 'Desvincular',
@@ -913,7 +912,7 @@ const ptBrClient = const <String, String> {
   mGroupDropStateToComplete: "Solte as tarefas aqui para concluir",
   mGroupDropStateToStart: "Solte as tarefas aqui para iniciar",
   mGroupDropStateToPostpone: "Solte as tarefas aqui para adiar",
-  mGroupDropProject: "Drop tasks here to transfer to this project",
+  mGroupDropProject: "Solte as tarefas aqui para transferir para esse projeto",
   mGroupDropPriority: "Solte as tarefas aqui para definir essa prioridade",
   mGroupDropAssignee: "Solte as tarefas aqui para definir esse responsável",
   mGroupDropUnassign: "Solte as tarefas aqui para remover responsáveis",
@@ -1046,5 +1045,5 @@ const ptBrClient = const <String, String> {
   mAppAuthAllowTo: 'Permissão para:',
   mAppAuthShowNotAllowTo: 'Mostrar qual área este aplicativo não tem permissão para acessar',
   mAppAuthNotAllowTo: 'Sem permissão para:',
-  mRefreshList: 'Refresh list'
+  mRefreshList: 'Atualizar lista'
 };
