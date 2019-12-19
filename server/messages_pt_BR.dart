@@ -666,7 +666,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mKeyCreateSubtask: 'Adicionar nova subtarefa',
   mKeyDeleteTask: 'Excluir tarefas selecionadas',
   mKeyCollapseTask: 'Reduzir ou expandir tarefas por nível',
-  mKeySwitchMyTaskView: 'Launch or close My Tasks',
+  mKeySwitchMyTaskView: 'Iniciar ou fechar Minhas Tarefas',
   mKeySwitchViews: 'Alternar vistas',
   mKeyBlinkSearch: 'Pesquisa rápida de projetos, usuários, etc.',
   mKeySearchTask: 'Pesquisar tarefas e comentários',
@@ -919,7 +919,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:window.print()">Imprima-as</a> '
     'através de <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
-  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
+  mTipMyTasksShortcut: "Dica: Pressione <code>&gt;</code> para iniciar Minhas Tarefas",
   mTipAssignInTaskName:
     'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> e <code>^</code> quando nomeia sua tarefa para '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">adicionar rapidamente</a>',
@@ -1172,8 +1172,8 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mMobileEditWebsite: "Editar Website",
   mMobileEditAttachments: "Editar Anexos",
   mMobileEditDate: "Editar Data",
-  mMobileNoFileFound: "No files found",
-  mMobileFileModifiedDate: "Modified [=date]",
+  mMobileNoFileFound: "Nenhum arquivo encontrado",
+  mMobileFileModifiedDate: "Modificado em [=date]",
   mMobileForgotPasswordTitle: "Esqueci minha senha",
   mMobileForgotResetErrorTitle: "Erro de Redefinição",
   mMobileSignupErrorTitle: "Erro de registro",
