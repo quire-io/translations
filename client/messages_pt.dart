@@ -846,7 +846,7 @@ const ptClient = const <String, String> {
     'Ao ver as alterações de código, também pode consultar as tarefas relevantes usadas como problemas no Quire.<br><br>'
     'Mais sobre <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integração com o GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Guardar Falhou",
-  mIntegraGithubRepoErrorContent: 
+  mIntegraGithubRepoErrorContent:
     'Ups...parece que encontrámos um erro. '
     'Por favor, confirme se a sua conta do Github tem a permissão correta para configurar.',
   mIntegraGithubRepoSuccessTitle: "Guardado com Sucesso",

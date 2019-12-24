@@ -846,7 +846,7 @@ const ptBrClient = const <String, String> {
     'Olhando para as alterações de código, você também pode consultar as tarefas relevantes usadas como problemas no Quire.<br><br>'
     'Mais sobre <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integração do GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Salvar Falhou",
-  mIntegraGithubRepoErrorContent: 
+  mIntegraGithubRepoErrorContent:
     'Opa...parece que encontramos um erro. '
     'Verifique se a sua conta do Github tem a permissão correta para configurar.',
   mIntegraGithubRepoSuccessTitle: "Salvo com Sucesso",
