@@ -231,6 +231,265 @@ const enWeb = const <String, String> {
     'We do not share personally identifiable information with third parties. '
     'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
 
+
+  mTutorialTitle: "Quire Tutorial",
+  mTutorialDesc: 
+    "Welcome on board!<br>Excited to kick off your projects? "
+    "Here are a few quick steps to help you get started in Quire.",
+
+  mTutorialAddProjectTitle: "Name your great project",
+  mTutorialAddProjectContent: 
+    "<p>Your awesome project deserves a name. If it already has one, you can skip this step.</p>"
+    "<p>Let’s say you want to organize a charity run to fight children starvation across the world. "
+    "You can call it: </span><strong>Children’s Run for Charity 2018</strong>.</p>"
+    '<p>To add a project, click on the "+" icon in the upper-right of your workspace.</p>',
+
+  mTutorialAddTaskTitle: "Add your stuff to it",
+  mTutorialAddTaskContent: 
+    "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
+    "<ul>"
+      '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
+      'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
+      "<li><strong>To add subtasks</strong> &mdash; Press Tab to make task a subtask.</li>"
+      "<li><strong>To stop adding</strong> &mdash; Press Esc.</li>"
+    "</ul>"
+    "<p>Just like how you would in a Word processor!</p>",
+
+  mTutorialSetDueTitle: "Deadline is important too",
+  mTutorialSetDueContent: 
+    "<p>A task without a deadline tends to slip through your fingers.</p>"
+    "<p>To add a due date, click on the “date” icon of a task in the task list.</p>",
+
+  mTutorialAssigneeTitle: "Delegate tasks to people responsible",
+  mTutorialAssigneeContent: 
+    "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
+    "<p>To assign a task to someone, click on the “assignee” icon of the task, and enter his or her email.</p>"
+    '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
+    "<p>[=img]</p>"
+    '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
+    'and clicking on the “+” on the right of each name.</span></p>',
+
+  mTutorialTagTitle: "Label them with context",
+  mTutorialTagContent: 
+    "<p>You can give tasks additional context or group them.</p>"
+    "<p>For example, you can add tags called Sponsors, Venue and Promotion "
+    "in colors red, green and blue to related tasks.</p>"
+    "<p>To add tags, click on the “tag” icon of a task, and enter the tag name.</p>",
+  mTutorialTagTip: 
+    "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
+
+  mTutorialAutocompleteTitle: "Quick add, while you type",
+  mTutorialAutocompleteContent: 
+    "<p>What if you can add and assign everything, all at once?</p>"
+    "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
+    "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
+    "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
+    "Like this: “Come up with a list of promotional items &lt;Friday&gt; @David #Promotion”.</p>",
+
+  mTutorialDetailPanelTitle: "Give them some details",
+  mTutorialDetailPanelContent: 
+    "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
+    "<p>You can add details &mdash; including description and attachments &mdash; to the task "
+    "after clicking on “&lt;&lt;”in the upper right corner. You can also discuss, chat "
+    "and interact with members in comments there in the detail panel.</p>"
+    '<p>To add styles to your description or comment (eg., make it bold), check out '
+    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
+  mTutorialDetailPanelTip: 
+    "Tip: You can click on the “pin” icon to keep the detail panel open.",
+
+  mTutorialDragTaskTitle: "Organize what you have dumped",
+  mTutorialDragTaskContent: 
+    "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
+    "<p>In Quire, you can drag & drop them to where they rightfully belong. "
+    "For example, move giveaways like T-shirts, bumper stickers and "
+    "water bottles to under task “Promotional Items.”</p>",
+
+  mTutorialShortcutTitle: "A few handy shortcuts",
+  mTutorialShortcutContent: 
+    "<h3>Add & Edit</h3>"
+    "<ul>"
+      "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
+      "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "</ul>"
+    "<h3>Navigation</h3>"
+    "<ul>"
+      "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
+      "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
+      "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "</ul>"
+    "<h3>Multi-Selection</h3>"
+    "<ul>"
+      "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
+      "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "</ul>"
+    "<h3>Move</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
+      "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka a level up or down.</li>"
+    "</ul>"
+    "<h3>Task Action</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
+      "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
+      "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "</ul>"
+    "<h3>Copy & Paste</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
+      "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
+      "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "</ul>",
+
+  mTutorialQuickAssignTitle: "Quick Assign",
+  mTutorialQuickAssignContent: 
+    '<p>To quickly set assignee, tag, etc. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
+    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    "<ul>"
+      "<li><kbd>@</kbd> &mdash; Add assignee</li>"
+      "<li><kbd>#</kbd> &mdash; Add tag</li>"
+      "<li><kbd><</kbd> &mdash; Add due date</li>"
+      "<li><kbd>!</kbd> &mdash; Set priority</li>"
+      "<li><kbd>^</kbd> &mdash; Add task to board</li>"
+      "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "</ul>",
+
+  mTutorialContextmenuTitle: "Right-Click Context Menu",
+  mTutorialContextmenuContent: 
+    "<p>You can right-click on a task, to bring up the context menu "
+    "to set due date, assignee, tag, and more.</p>"
+    "<p>[=img]</p>"
+    "<p>[=tip]]</p>"
+    "<p>Now that you know your way around, you can kickstart your project!</p>",
+  mTutorialContextmenuTip: 
+    "Tip: You can press F1 to see a complete list of keyboard shortcuts.",
+
+  mNextTutorial: "Next Tutorial",
+  mBoardTutorialLinkTitle: 
+    "Visualize your workflow with Quire Kanban Board",
+  mSignupToday: "Let's get started in Quire today!",
+
+
+  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+  mBoardTutorialDesc: 
+    "After dumping and organizing all your ideas in the nested task list view, "
+    "it’s time to work on your project!<br>"
+    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
+    "on selected tasks and visualize your workflow with the Kanban board.",
+
+  mBoardTutorialAddBoardTitle: "Name Your Board",
+  mBoardTutorialAddBoardContent: 
+    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
+    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
+    '<p>To add a board, click on the "Add board" button, type in your board name.</p>',
+  mBoardTutorialAddBoardTip: 
+    "Tip: You could create multiple boards for different stages of your project.",
+
+  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+  mBoardTutorialAssignBoardContent: 
+    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
+    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>[=img]</p>"
+    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
+    "you can create new tasks in the board view.</p>"
+    '<p>Choose "Create new tasks" instead.</p>',
+  mBoardTutorialAssignBoardTip: 
+    '<p><span class="note">Note: The newly created tasks in Board view will be added '
+    "in the Task list view as well.</span></p>"
+    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
+    "by that you will know which subtask belongs to which parent task.</span></p>",
+
+  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+  mBoardTutorialAssignOthersContent: 
+    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
+    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+  mBoardTutorialAssignOthersTip: 
+    "Tip: By pressing the Spacebar, the "
+    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
+    "for you to add descriptions, attach files, leave comments, etc.",
+
+  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+  mBoardTutorialOrganizeProgressContent: 
+    "<p>You can reposition tasks in the column for higher priority. Also, "
+    "you can drag and drop tasks to different columns for progress tracking.</p>"
+    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>[=img]</p>"
+    "<p>Feeling like all the tasks are squished into one column and "
+    "it's getting harder to get a hold of the workload "
+    "and status of each team member?</p>"
+    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
+    "For example: grouped by assignees to see each members' responsible tasks.</p>",
+
+  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+  mBoardTutorialShortcutContent: 
+    "<h3>Add & Edit</h3>"
+    "<ul>"
+      "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
+      "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "</ul>"
+    "<h3>Navigation</h3>"
+    "<ul>"
+      "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
+      "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
+      "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "</ul>"
+   "<h3>Multi-Selection</h3>"
+    "<ul>"
+      "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
+      "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "</ul>"
+    "<h3>Move</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
+      "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "</ul>"
+    '<p><span class="note">Note: When the board is sorted by date, '
+    "you would not be able to move tasks from one swimlane to another.</span></p>"
+    "<h3>Task Action</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
+      "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
+      "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "</ul>"
+    "<h3>Copy & Paste</h3>"
+    "<ul>"
+      "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
+      "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
+      "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "</ul>",
+
+  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignContent: 
+    "<p>To quickly set assignee, tag, etc.  "
+      '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
+      "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "</p>"
+    "<ul>"
+      "<li><kbd>@</kbd> &mdash; Add assignee</li>"
+      "<li><kbd>#</kbd> &mdash; Add tag</li>"
+      "<li><kbd><</kbd> &mdash; Add due date</li>"
+      "<li><kbd>!</kbd> &mdash; Set priority</li>"
+      "<li><kbd>^</kbd> &mdash; Add task to board</li>"
+      "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "</ul>",
+
+  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
+  mBoardTutorialContextmenuContent: 
+    "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
+  mBoardTutorialContextmenuTip: 
+    "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
+
+  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
+  mBoardTutorialYourBoardContent: 
+    "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
+
+  mLearnMoreDoc: "Learn More",
+  mGettingStartedLinkTitle: 
+    "Features in our Getting Started Guide",
+  mBlogLinkTitle: 
+    "News, tips and inspirations in our Blog",
+
+
   mMobileWelcomeP1Title1: "Welcome to ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "From start to finish",
