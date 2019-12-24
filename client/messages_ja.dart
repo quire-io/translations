@@ -451,7 +451,7 @@ const jaClient = const <String, String> {
   mTaskRecurringLabelMonthlyBy: "",
   mTaskRecurringOptionMonthlyByWeekday: "週を選択",
   mTaskRecurringOptionMonthlyByDate: "日付を選択",
-  mTaskRecurringLabelOnWhen: "日付",
+  mTaskRecurringLabelOnWhen: "",
   mTaskRecurringLabelOnTheDay: "",
   mTaskRecurringLabelDayOfMonth: "",
   mTaskRecurringLabelEvery: "毎",
