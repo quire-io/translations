@@ -18,35 +18,34 @@ Welcome to [=system.name] version [=systemVersion]"
 
 const trClient = const <String, String> {
   mInternalError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <a href="/feedback">contact us</a>. '
-    'Meanwhile, you may try <a href="javascript:reloadPage()">reloading this page</a>.',
-  mNetworkError: "Unable to reach Quire. Please check your internet connection.",
+    'Üzgünüz, beklenmedik bir hatayla karşılaştık. '
+    "Buna bakacağız, ancak "
+    '<a href="/feedback">bize ulaşmaktan</a> çekinmeyin. '
+    'Bu arada, <a href="javascript:reloadPage()">bu sayfayı yeniden yüklemeyi</a> deneyebilirsiniz.',
+  mNetworkError: "Quire'a erişilemiyor. Lütfen internet bağlantınızı kontrol ediniz.",
   mNotAllowed:
-    "You do not have permission to perform this action.<br/>"
-    'Please contact your Admin.',
-  mNotFound: "Sorry, we cannot find what you are looking for.",
-  mTooLarge: "Sorry, your request is too large. Please try again with less content.",
-  mSessionTimeout: "Sorry, your session has timed out. Please try logging in again.",
-  mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
-  mCantAddRootTaskInCurrentMode: "You cannot add root tasks in this mode.",
-  mNotAllowedAddRootTask: "You do not have permission to add root tasks.",
+    "Bu eylemi gerçekleştirmeye izniniz yok.<br/>"
+    'Lütfen Yöneticinize başvurun.',
+  mNotFound: "Üzgünüz, aradığınızı bulamıyoruz.",
+  mTooLarge: "Üzgünüz, isteğiniz çok büyük. Lütfen daha az içerikle tekrar deneyin.",
+  mSessionTimeout: "Üzgünüz, oturumunuz zaman aşımına uğradı. Lütfen tekrar giriş yapmayı deneyin.",
+  mAddProjectWithoutOrg: "Bir organizasyon eklemeden proje ekleyemezsiniz.",
+  mCantAddRootTaskInCurrentMode: "Bu modda kök görev ekleyemezsiniz.",
+  mNotAllowedAddRootTask: "Görev görev ekleme yetkiniz yok.",
   mMaintenance:
-    "Sorry, we are down for maintenance. We will be back shortly. "
-    "Not to worry, your updates will be saved locally.",
-  mConnected: "Connection is back. Everything is in sync.",
-  mDisconnected: "Connection lost. Not to worry, your updates will be saved locally.",
+    "Üzgünüz, şu an bakımdayız. Kısa zamanda döneceğiz. "
+    "Endişelenmeyin, güncellemeleriniz yerelde kaydedilecektir.",
+  mConnected: "Bağlantı geri geldi. Şu an herşey senkronize.",
+  mDisconnected: "Bağlantı koptu. Endişelenmeyin, güncellemeleriniz yerelde kaydedilecektir.",
   mDisconnectedUnsafe:
-    'Connection lost. Please enable <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">local storage</a> '
-    'to save your updates locally.',
+    'Bağlantı koptu. Güncellemelerinizi yerelde kaydetmek için lütfen <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">yerel depolamayı</a> etkinleştir.',
+    
   mReloadNewPartJS:
-    'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
+    'Üzgünüz, Quire\'ın en son sürümünü yükleyemiyoruz.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
+    'Daha fazla detay için, lütfen <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">burayı</a> kontrol edin.',
   mDeleteBrowserCacheChromeFirefoxEdge:
-    'You can try to press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
-    'to clear browser\'s cached images and files, and reload this page.',
+    'Tarayıcının önbelleğe alınmış resimlerini ve dosyalarını silmek ve bu sayfayı yeniden yüklemek için <code> [= ctrlCommand] + Shift + DEL veya [= ctrlCommand] + Shift + Geri </code> tuşlarına tıklayabilirsiniz.',
   mDeleteBrowserCacheSafari:
     'You can try to press <code>Option+Command+E</code> to empty browser\'s cache, '
     'and reload this page.',
