@@ -47,29 +47,28 @@ const trClient = const <String, String> {
   mDeleteBrowserCacheChromeFirefoxEdge:
     'Tarayıcının önbelleğe alınmış resimlerini ve dosyalarını silmek ve bu sayfayı yeniden yüklemek için <code> [= ctrlCommand] + Shift + DEL veya [= ctrlCommand] + Shift + Geri </code> tuşlarına tıklayabilirsiniz.',
   mDeleteBrowserCacheSafari:
-    'You can try to press <code>Option+Command+E</code> to empty browser\'s cache, '
-    'and reload this page.',
+    'Tarayıcının önbelleğini boşaltmak ve bu sayfayı yeniden başlatmak için <code>Option+Command+E</code> tuşlayabilirsiniz.',
   mDeleteBrowserCacheEtc:
-    'You can try <a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">clear browser\'s cached files</a>, '
-    'and reload this page.',
+    '<a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">Tarayıcının ön belleğe alınmış dosyalarını temizlemeyi</a> deneyebilir, '
+    've bu sayfayı yeniden yükleyebilirsiniz.',
   mCtrl: "Ctrl",
   mShift: "Shift",
   mAlt: "Alt",
-  mQuireCannotReach: "Unable to reach Quire.",
-  mQuireCannotReachDesc: "Please check your internet connection.",
-  mCantMoveInCurrentMode: "You cannot move tasks while in sorted and filtered modes.",
-  mCantMoveRoot: "You cannot move the root task.",
-  mCantMoveTask: "You cannot move [=task].",
-  mCantMoveTaskTo: "You cannot move [=task] here.",
-  mCantMoveTaskToPersonalChild: "You cannot move this task to personal tasks sub-level.",
-  mCantMoveExternalTeamRootTask: "You cannot move External Team root tasks.",
-  mCantMoveToExternalTeamRootTask: "You cannot place this task to an External Team root task.",
-  mCantMoveToExternalTeamRootTaskP: "You cannot place these tasks to an External Team root task.",
-  mCantCompleteTask: "You do not have permission to complete [=task]",
-  mCantSetThisState: "You cannot set this status to [=task].",
-  mCantDeleteTask: "You do not have permission to delete [=task].",
-  mCantSetAssignee: "You do not have permission to set assignee to [=task].",
-  mCantSetAssigneeCross: "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
+  mQuireCannotReach: "Quire'a ulaşılamıyor.",
+  mQuireCannotReachDesc: "Lütfen internet bağlantınızı kontrol edin.",
+  mCantMoveInCurrentMode: "Sıralanmış ve filtrelenmiş moddayken görevleri taşıyamazsınız.",
+  mCantMoveRoot: "Kök görevi taşıyamazsınız.",
+  mCantMoveTask: "[=task] görevini taşıyamazsınız.",
+  mCantMoveTaskTo: "[=task] görevini buraya taşıyamazsınız.",
+  mCantMoveTaskToPersonalChild: "Bu görevi kişisel görevler alt-düzeyine taşıyamazsınız.",
+  mCantMoveExternalTeamRootTask: "Dış Ekip kök görevlerini taşıyamazsınız.",
+  mCantMoveToExternalTeamRootTask: "Bu görevi Dış Ekip kök görevine yerleştiremezsiniz.",
+  mCantMoveToExternalTeamRootTaskP: "Bu görevleri Dış Ekip kök görevine yerleştiremezsiniz.",
+  mCantCompleteTask: "[=task] görevini tamamlamaya yetkiniz yok.",
+  mCantSetThisState: "[=task] görevine bu durumu atayamazsınız.",
+  mCantDeleteTask: "[=task] görevini silmeye yetkiniz yok.",
+  mCantSetAssignee: "[=task] görevine sorumlu atama yetkiniz yok.",
+  mCantSetAssigneeCross: "[=task] görevine [=assignee] kişisini atayamazsınız çünkü [=assignee] aynı projede değil.",
   mCantSetAssigneeCrossPlural: "You cannot assign [=assignee] to [=task] and [=count] other tasks because [=assignee] is not in the same project.",
   mCantSetPartner:
     "You cannot set it to another external team, "
