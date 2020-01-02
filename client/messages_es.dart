@@ -30,7 +30,6 @@ const esClient = const <String, String> {
   mTooLarge: "Lo sentimos, tu petición es muy larga. Por favor inténtalo de nuevo con menos contenido.",
   mSessionTimeout: "Lo sentimos, tu sesión ha expirado. Por favor, intenta iniciar sesión de nuevo.",
   mAddProjectWithoutOrg: "No puedes añadir un proyecto sin añadir primero una organización.",
-  mCantAddRootTaskInCurrentMode: "No puedes añadir tareas principales en este modo.",
   mNotAllowedAddRootTask: "No tienes permiso para añadir tareas principales.",
   mMaintenance:
     "Lo sentimos, estamos fuera de servicio por mantenimiento. Volveremos muy pronto. "

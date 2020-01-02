@@ -34,8 +34,6 @@ const enClient = const <String, String> {
     "Sorry, your session has timed out. Please try logging in again.",
   mAddProjectWithoutOrg:
     "You cannot add project without adding an organization first.",
-  mCantAddRootTaskInCurrentMode:
-    "You cannot add root tasks in this mode.",
   mNotAllowedAddRootTask:
     "You do not have permission to add root tasks.",
 

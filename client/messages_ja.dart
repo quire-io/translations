@@ -30,7 +30,6 @@ const jaClient = const <String, String> {
   mTooLarge: "申し訳ありません。リクエストのサイズが大きすぎます。サイズを小さくして再度お試しください。",
   mSessionTimeout: "申し訳ありません。セッションがタイムアウトしました。再度ログインしてください。",
   mAddProjectWithoutOrg: "プロジェクトを追加するには、組織名を入力してください。",
-  mCantAddRootTaskInCurrentMode: "このモードではレベル1のタスクを追加できません。",
   mNotAllowedAddRootTask: "レベル1のタスクを追加する権限がありません。",
   mMaintenance:
     "申し訳ありません。メンテナンスのため、しばらくの間ご利用いただけません。"

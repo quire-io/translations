@@ -30,7 +30,6 @@ const ptClient = const <String, String> {
   mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Desculpe, a sua sessão expirou. Por favor, tente iniciar sessão novamente.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
-  mCantAddRootTaskInCurrentMode: "Não pode adicionar tarefas raiz neste modo.",
   mNotAllowedAddRootTask: "Não tem permissão para adicionar tarefas raiz.",
   mMaintenance:
     "Desculpe, estamos em manutenção. Voltaremos brevemente. "

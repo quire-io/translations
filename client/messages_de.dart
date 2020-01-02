@@ -30,7 +30,6 @@ const deClient = const <String, String> {
   mTooLarge: "Sorry, Ihre Anfrage ist zu groß. Bitte versuchen Sie es mit weniger Inhalt erneut.",
   mSessionTimeout: "Sorry, Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.",
   mAddProjectWithoutOrg: "Sie können kein Projekt hinzufügen, ohne zuvor eine Organisation hinzugefügt zu haben.",
-  mCantAddRootTaskInCurrentMode: "In diesem Modus können Sie keine Hauptaufgabe hinzufügen.",
   mNotAllowedAddRootTask: "Sie haben keine Berechtigung zum Hinzufügen von Hauptaufgaben.",
   mMaintenance:
     "Sorry, wir nehmen gerade kleine Verbesserungen an Quire vor. Wir sind gleich wieder für Sie da. "

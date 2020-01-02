@@ -30,7 +30,6 @@ const itClient = const <String, String> {
   mTooLarge: "Ci dispiace, la tua richiesta ha troppi contenuti. Prova con meno.",
   mSessionTimeout: "Siamo spiacenti, la sessione è scaduta. Per favore effettua di nuovo l\' accesso.",
   mAddProjectWithoutOrg: "Non puoi aggiungere progetti senza prima aggiungere una organizzazione.",
-  mCantAddRootTaskInCurrentMode: "Non puoi aggiungere attività principali in questa modalità.",
   mNotAllowedAddRootTask: "Non hai i permessi per aggiungere attività principali.",
   mMaintenance:
     "Ci dispiace, siamo momentanemante offline per manutenzione. Torneremo al più presto. "

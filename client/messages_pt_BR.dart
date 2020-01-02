@@ -30,7 +30,6 @@ const ptBrClient = const <String, String> {
   mTooLarge: "Sorry, your request is too large. Please try again with less content.",
   mSessionTimeout: "Desculpe, sua sessão expirou. Por favor, tente fazer o login novamente.",
   mAddProjectWithoutOrg: "You cannot add project without adding an organization first.",
-  mCantAddRootTaskInCurrentMode: "Você não pode adicionar tarefas raiz neste modo.",
   mNotAllowedAddRootTask: "Você não tem permissão para adicionar tarefas raiz.",
   mMaintenance:
     "Desculpe, estamos em manutenção. Estaremos de volta em breve. "

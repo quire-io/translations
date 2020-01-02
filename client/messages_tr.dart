@@ -30,7 +30,6 @@ const trClient = const <String, String> {
   mTooLarge: "Üzgünüz, isteğiniz çok büyük. Lütfen daha az içerikle tekrar deneyin.",
   mSessionTimeout: "Üzgünüz, oturumunuz zaman aşımına uğradı. Lütfen tekrar giriş yapmayı deneyin.",
   mAddProjectWithoutOrg: "Bir organizasyon eklemeden proje ekleyemezsiniz.",
-  mCantAddRootTaskInCurrentMode: "Bu modda kök görev ekleyemezsiniz.",
   mNotAllowedAddRootTask: "Görev görev ekleme yetkiniz yok.",
   mMaintenance:
     "Üzgünüz, şu an bakımdayız. Kısa zamanda döneceğiz. "

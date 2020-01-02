@@ -30,7 +30,6 @@ const frClient = const <String, String> {
   mTooLarge: "Désolé, votre requête est trop grande. Veuillez réessayer avec moins de contenu.",
   mSessionTimeout: "Désolé, votre session a expiré. Veuillez essayer de vous reconnecter.",
   mAddProjectWithoutOrg: "Vous ne pouvez pas ajouter de projets sans avoir d'abord ajouté une organisation.",
-  mCantAddRootTaskInCurrentMode: "Vous ne pouvez pas ajouter de tâches à la racine dans ce mode.",
   mNotAllowedAddRootTask: "Vous n'avez pas l'autorisation d'ajouter des tâches à la racine.",
   mMaintenance:
     "Désolé, nous sommes en maintenance. Nous revenons bientôt. "
