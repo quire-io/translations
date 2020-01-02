@@ -194,7 +194,7 @@ const frWeb = const <String, String> {
     "<li><strong>Pour ajouter des sous-tâches</strong> &mdash; Tapez Tab pour transformer la tâche en sous-tâche.</li>"
     "<li><strong>Pour arrêter d'ajouter des tâches</strong> &mdash; Tapez Echap.</li>"
     "</ul>"
-    "<p>Just like how you would in a Word processor!</p>",
+    "<p>Comme dans un logiciel de traitement de texte !</p>",
   mTutorialSetDueTitle: "Les dates limites sont aussi importantes",
   mTutorialSetDueContent:
     "<p>Une tâche sans date limite a tendance à vous échapper.</p>"
@@ -303,101 +303,101 @@ const frWeb = const <String, String> {
     "sur certaines tâches et visualisez votre travail avec le tableau Kanban.",
   mBoardTutorialAddBoardTitle: "Donnez un nom à votre tableau",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "Add board" button, type in your board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>Après avoir fait une liste des centaines de tâches pour la Course de charité pour les enfants, "
+    "vous voudriez maintenant vous consacrer aux tâches les plus importantes à l'état initial du projet. Pour cela, créez un tableau.</p>"
+    '<p>Pour ajouter un tableau, cliquez sur le bouton "Ajouter un tableau", et entrez le nom de votre tableau.</p>',
+  mBoardTutorialAddBoardTip: "Astuce : Vous pourriez créer plusieurs tableaux pour chaque étape de votre projet.",
+  mBoardTutorialAssignBoardTitle: "Ajoutez des tâches au tableau",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Commencez par ajouter des tâches existantes dans la liste, sur lesquelles vous souhaitez vous concentrer à cette étape.</p>"
+    '<p>Cliquez sur le signe "+" en haut à droite d\'une colonne, et sélectionnez "Ajouter des tâches existantes".</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Bien sûr, si vous n'avez pas trouvé de tâches à ajouter parmi celles qui existent, "
+    "vous pouvez en créer de nouvelles en mode Tableau.</p>"
+    '<p>Dans ce cas, sélectionnez "Créer de nouvelles tâches".</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Remarque : Les tâches nouvellement créées en mode Tableau seront également ajoutées '
+    "à la liste des tâches.</span></p>"
+    '<p><span class="note">Astuce : Appuyer sur Ctrl (ou Alt sur Mac) affichera le chemin de la tâche, '
+    "vous permettant de savoir quelle sous-tâche appartient à quelle tâche.</span></p>",
+  mBoardTutorialAssignOthersTitle: "N'oubliez pas les détails",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Vous pouvez ajouter des informations détaillées en définissant une date de début/fin, des attributions et des étiquettes.</p>"
+    '<p>Cliquez sur les icônes "date", "attribution", "étiquette" pour ajouter des informations détaillées.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Astuce : En appuyant sur la barre Espace, le "
+    '<a href="/w/Getting_Started_with_Quire/45/">panneau des détails</a> s\'affichera '
+    "pour que vous puissiez ajouter une description, joindre des fichiers, laisser des commentaires...",
+  mBoardTutorialOrganizeProgressTitle: "Suivez et organisez votre progression",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Vous pouvez repositionner les tâches dans les colonnes pour les priorités élevées. "
+    "Vous pouvez également glisser-déposer les tâches vers les autres colonnes pour suivre votre avancée.</p>"
+    "<p>Ainsi, vous verrez la progression de votre projet en clin d'œil.</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>Vous avez l'impression que les tâches sont entassées dans une colonne "
+    "et que cela devient de plus en plus difficile d'analyser le travail à faire "
+    "et sa prise en charge par les membres de l'équipe ?</p>"
+    "<p>Vous pouvez utiliser les fonctionnalités de filtre/tri pour grouper les tâches selon leurs propriétés. "
+    "Par exemple : groupées par attribution pour voir de quelles tâches chaque membre est responsable.</p>",
+  mBoardTutorialShortcutTitle: "Raccourcis clavier utiles",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Ajout et Modification</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Entrer</kbd> &mdash; Pour ajouter une nouvelle tâche.</li>"
+    "<li><kbd>F2</kbd> &mdash; Pour modifier le nom de la tâche.</li>"
     "</ul>"
     "<h3>Navigation</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Pour aller à la tâche au-dessus.</li>"
+    "<li><kbd>↓</kbd> &mdash; Pour aller à la tâche en-dessous.</li>"
+    "<li><kbd>Espace</kbd> &mdash; Pour ouvrir le panneau des détails.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Sélection multiple</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Maj + ↑/↓</kbd> &mdash; Pour sélectionner plusieurs tâches.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Pour sélectionner toutes les tâches.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Déplacement</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Pour déplacer les tâches vers le haut ou vers le bas.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Pour déplacer les tâches vers la droite ou vers la gauche, c'est-à-dire les changer de colonne.</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    '<p><span class="note">Remarque : Quand le tableau est trié par date, '
+    "vous ne pouvez pas déplacer les tâches entre les colonnes.</span></p>"
+    "<h3>Action sur les tâches</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Pour vous attribuer la (les) tâche(s) sélectionnée(s).</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Pour marquer la (les) tâche(s) sélectionnée(s) comme terminée(s).</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Pour afficher la fenêtre des annulations.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Copier-coller</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Pour copier la (les) tâche(s) sélectionnée(s).</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Pour coller la (les) tâche(s) sélectionnée(s).</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Pour couper la (les) tâche(s) sélectionnée(s).</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignTitle: "Attribution rapide",
   mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "<p>Pour définir rapidement les attributions, les étiquettes, etc.  "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sans la souris</a>, '
+    "tapez @, #, <, !, ^, / sur votre clavier quand une (des) tâche(s) est (sont) sélectionnée(s)."
     "</p>"
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Ajouter une attribution</li>"
+    "<li><kbd>#</kbd> &mdash; Ajouter une étiquette</li>"
+    "<li><kbd><</kbd> &mdash; Ajouter une date d'échéance</li>"
+    "<li><kbd>!</kbd> &mdash; Définir la priorité</li>"
+    "<li><kbd>^</kbd> &mdash; Ajouter à un tableau</li>"
+    "<li><kbd>/</kbd> &mdash; Définir le statut</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
+  mBoardTutorialContextmenuTitle: "Clic-droit",
+  mBoardTutorialContextmenuContent: "Vous pouvez faire un clic-droit sur une tâche pour afficher le menu contextuel et définir une date d'échéance, une attribution, une étiquette...",
+  mBoardTutorialContextmenuTip: "Astuce : Vous pouvez passer du mode Tableau au mode Liste pour voir l'étendue de votre projet.",
+  mBoardTutorialYourBoardTitle: "Créez votre propre tableau dès maintenant !",
+  mBoardTutorialYourBoardContent: "C'est tout ce que nous avions à dire sur le tableau Kanban pour l'instant. Lancez-vous librement !",
+  mLearnMoreDoc: "En savoir plus",
+  mGettingStartedLinkTitle: "Fonctionnalités dans notre guide pour bien démarrer",
+  mBlogLinkTitle: "Nouveautés, astuces et inspiration dans notre blog",
   mMobileWelcomeP1Title1: "Bienvenue sur ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "De A à Z",
