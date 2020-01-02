@@ -37,17 +37,13 @@ const trClient = const <String, String> {
     "Endişelenmeyin, güncellemeleriniz yerelde kaydedilecektir.",
   mConnected: "Bağlantı geri geldi. Şu an herşey senkronize.",
   mDisconnected: "Bağlantı koptu. Endişelenmeyin, güncellemeleriniz yerelde kaydedilecektir.",
-  mDisconnectedUnsafe:
-    'Bağlantı koptu. Güncellemelerinizi yerelde kaydetmek için lütfen <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">yerel depolamayı</a> etkinleştir.',
-    
+  mDisconnectedUnsafe: 'Bağlantı koptu. Güncellemelerinizi yerelde kaydetmek için lütfen <a href="https://en.wikipedia.org/wiki/Web_storage#Web_Storage_Management" target="_blank">yerel depolamayı</a> etkinleştir.',
   mReloadNewPartJS:
     'Üzgünüz, Quire\'ın en son sürümünü yükleyemiyoruz.<br/><br/>'
     '[=clearCache]<br/><br/>'
     'Daha fazla detay için, lütfen <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">burayı</a> kontrol edin.',
-  mDeleteBrowserCacheChromeFirefoxEdge:
-    'Tarayıcının önbelleğe alınmış resimlerini ve dosyalarını silmek ve bu sayfayı yeniden yüklemek için <code> [= ctrlCommand] + Shift + DEL veya [= ctrlCommand] + Shift + Geri </code> tuşlarına tıklayabilirsiniz.',
-  mDeleteBrowserCacheSafari:
-    'Tarayıcının önbelleğini boşaltmak ve bu sayfayı yeniden başlatmak için <code>Option+Command+E</code> tuşlayabilirsiniz.',
+  mDeleteBrowserCacheChromeFirefoxEdge: 'Tarayıcının önbelleğe alınmış resimlerini ve dosyalarını silmek ve bu sayfayı yeniden yüklemek için <code> [= ctrlCommand] + Shift + DEL veya [= ctrlCommand] + Shift + Geri </code> tuşlarına tıklayabilirsiniz.',
+  mDeleteBrowserCacheSafari: 'Tarayıcının önbelleğini boşaltmak ve bu sayfayı yeniden başlatmak için <code>Option+Command+E</code> tuşlayabilirsiniz.',
   mDeleteBrowserCacheEtc:
     '<a href="https://www.lifewire.com/how-to-clear-cache-2617980" target="_blank">Tarayıcının ön belleğe alınmış dosyalarını temizlemeyi</a> deneyebilir, '
     've bu sayfayı yeniden yükleyebilirsiniz.',
