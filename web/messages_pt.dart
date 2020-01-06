@@ -175,229 +175,229 @@ const ptWeb = const <String, String> {
     'Asseguramos sempre que os nossos utilizadores tenham conhecimento do seu controlo sobre os seus dados pessoais. '
     'Não partilhamos informações de identificação pessoal com terceiros. '
     'O Quire compromete-se a ser transparente e direto, sem intenções omissas sobre o uso dos <a href="/privacy">dados pessoais</a> dos utilizadores.',
-  mTutorialTitle: "Quire Tutorial",
+  mTutorialTitle: "Tutorial Quire",
   mTutorialDesc:
-    "Welcome on board!<br>Excited to kick off your projects? "
-    "Here are a few quick steps to help you get started in Quire.",
-  mTutorialAddProjectTitle: "Name your great project",
+    "Bem-vind@ a bordo!<br>Está pront@ para iniciar os seus projetos? "
+    "Aqui estão alguns passos rápidos para @ ajudar a começar a usar o Quire.",
+  mTutorialAddProjectTitle: "Dê um nome ao seu projeto espetacular",
   mTutorialAddProjectContent:
-    "<p>Your awesome project deserves a name. If it already has one, you can skip this step.</p>"
-    "<p>Let’s say you want to organize a charity run to fight children starvation across the world. "
-    "You can call it: </span><strong>Children’s Run for Charity 2018</strong>.</p>"
-    '<p>To add a project, click on the "+" icon in the upper-right of your workspace.</p>',
-  mTutorialAddTaskTitle: "Add your stuff to it",
+    "<p>O seu projeto fantástico merece um nome. Se já tiver um, pode saltar este passo.</p>"
+    "<p>Vamos imaginar que quer organizar uma corrida de solidariedade para combater a fome infantil em todo o mundo. "
+    "Pode chamar o seu projeto: </span><strong>Corrida pela Solidariedade Infantil 2020</strong>.</p>"
+    '<p>Para adicionar um projeto, clique no ícone "+" no canto superior direito da sua área de trabalho.</p>',
+  mTutorialAddTaskTitle: "Adicione as suas coisas",
   mTutorialAddTaskContent:
-    "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
+    "<p>Sejam ideias, notas ou tarefas a fazer, pode largá-las todas como tarefas ou sub-tarefas.</p>"
     "<ul>"
-    '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
-    'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
-    "<li><strong>To add subtasks</strong> &mdash; Press Tab to make task a subtask.</li>"
-    "<li><strong>To stop adding</strong> &mdash; Press Esc.</li>"
+    '<li><strong>Para adicionar tarefas</strong> &mdash; Clique no ícone "+" na parte superior, '
+    'ou simplesmente pressione o atalho ‘t’. Pressione Enter e continue a pressioná-lo para adicionar mais.</li>'
+    "<li><strong>Para adicionar sub-tarefas</strong> &mdash; Pressione Tab para transformar a tarefa numa sub-tarefa.</li>"
+    "<li><strong>Para parar de adicionar</strong> &mdash; Pressione Esc.</li>"
     "</ul>"
-    "<p>Just like how you would in a Word processor!</p>",
-  mTutorialSetDueTitle: "Deadline is important too",
+    "<p>Exatamente como faria num processador de texto Word!</p>",
+  mTutorialSetDueTitle: "O prazo também é importante",
   mTutorialSetDueContent:
-    "<p>A task without a deadline tends to slip through your fingers.</p>"
-    "<p>To add a due date, click on the “date” icon of a task in the task list.</p>",
-  mTutorialAssigneeTitle: "Delegate tasks to people responsible",
+    "<p>Uma tarefa sem prazo tende a escapar-nos pelos dedos.</p>"
+    "<p>Para adicionar uma data de conclusão, clique no ícone “data” de uma tarefa na lista de tarefas.</p>",
+  mTutorialAssigneeTitle: "Delegar tarefas às pessoas responsáveis",
   mTutorialAssigneeContent:
-    "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
-    "<p>To assign a task to someone, click on the “assignee” icon of the task, and enter his or her email.</p>"
-    '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
+    "<p>Tem uma tarefa chamada Patrocinadores. Mas quem é responsável por encontrá-los?</p>"
+    "<p>Para atribuir uma tarefa a alguém, clique no ícone "colaborador" da tarefa e insira o seu e-mail.</p>"
+    '<p><span class="note">Nota: Essa pessoa receberá um convite na sua caixa de entrada de e-mail.</span></p>'
     "<p>[=img]</p>"
-    '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
-    'and clicking on the “+” on the right of each name.</span></p>',
-  mTutorialTagTitle: "Label them with context",
+    '<p><span class="note">Dica: Pode atribuir uma tarefa a várias pessoas passando o cursor sobre o nome delas '
+    'e clicando no “+” à direita de cada nome.</span></p>',
+  mTutorialTagTitle: "Classifique-as com contexto",
   mTutorialTagContent:
-    "<p>You can give tasks additional context or group them.</p>"
-    "<p>For example, you can add tags called Sponsors, Venue and Promotion "
-    "in colors red, green and blue to related tasks.</p>"
-    "<p>To add tags, click on the “tag” icon of a task, and enter the tag name.</p>",
-  mTutorialTagTip: "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
-  mTutorialAutocompleteTitle: "Quick add, while you type",
+    "<p>Pode dar contexto adicional às tarefas ou agrupá-las.</p>"
+    "<p>Por exemplo, pode adicionar tags chamadas Patrocinadores, Local ou Promoção "
+    "nas cores vermelho, verde e azul às tarefas relacionadas.</p>"
+    "<p>Para adicionar tags, clique no ícone “tag” da tarefa, e insira o nome da tag.</p>",
+  mTutorialTagTip: "Dica: Pode filtrar tarefas por tag(s) para ver apenas o grupo de tarefas com essa(s) tag(s).",
+  mTutorialAutocompleteTitle: "Adição rápida, enquanto escreve",
   mTutorialAutocompleteContent:
-    "<p>What if you can add and assign everything, all at once?</p>"
-    "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
-    "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
-    "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
-    "Like this: “Come up with a list of promotional items &lt;Friday&gt; @David #Promotion”.</p>",
-  mTutorialDetailPanelTitle: "Give them some details",
+    "<p>E se puder adicionar e atribuir tudo, de uma só vez?</p>"
+    "<p>Quando adiciona uma tarefa, pode escrever <strong>&lt;&gt;</strong> para adicionar "
+    "<strong>prazo</strong>, <strong>@</strong> para adicionar um <strong>colaborador</strong>, "
+    "e <strong>#</strong> para adicionar uma <strong>tag</strong>, etc. "
+    "Assim: “Criar uma lista de itens promocionais &lt;Sexta-feira&gt; @David #Promoção”.</p>",
+  mTutorialDetailPanelTitle: "Dê-lhes alguns detalhes",
   mTutorialDetailPanelContent:
-    "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
-    "<p>You can add details &mdash; including description and attachments &mdash; to the task "
-    "after clicking on “&lt;&lt;”in the upper right corner. You can also discuss, chat "
-    "and interact with members in comments there in the detail panel.</p>"
-    '<p>To add styles to your description or comment (eg., make it bold), check out '
+    "<p>Muitas vezes, uma tarefa precisa de um pouco mais de informações para ser executada sem dificuldades</p>"
+    "<p>Pode adicionar detalhes &mdash; incluindo descrição e anexos &mdash; à tarefa "
+    "depois de clicar em “&lt;&lt;” no canto superior direito. Também pode discutir, conversar "
+    "e interagir com os membros nos comentários no painel de detalhes.</p>"
+    '<p>Para adicionar estilos à sua descrição ou comentário (p.e. negrito), dê uma vista de olhos no '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Tip: You can click on the “pin” icon to keep the detail panel open.",
-  mTutorialDragTaskTitle: "Organize what you have dumped",
+  mTutorialDetailPanelTip: "Dica: Pode clicar no ícone “alfinete” para manter o painel de detalhes aberto.",
+  mTutorialDragTaskTitle: "Organize o que largou",
   mTutorialDragTaskContent:
-    "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
-    "<p>In Quire, you can drag & drop them to where they rightfully belong. "
-    "For example, move giveaways like T-shirts, bumper stickers and "
-    "water bottles to under task “Promotional Items.”</p>",
-  mTutorialShortcutTitle: "A few handy shortcuts",
+    "<p>O que acontece se tiver tarefas que caíram no sítio errado?</p>"
+    "<p>No Quire, pode arrastá-las e largá-las onde elas realmente pertencem. "
+    "Por exemplo, mova brindes como T-shirts, autocolantes para carros e "
+    "garrafas de água para a tarefa “Itens Promocionais.”</p>",
+  mTutorialShortcutTitle: "Alguns atalhos úteis",
   mTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Adicionar & Editar</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Para adicionar uma nova tarefa.</li>"
+    "<li><kbd>F2</kbd> &mdash; Para editar o nome da tarefa.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Navegação</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Para ir para a tarefa acima.</li>"
+    "<li><kbd>↓</kbd> &mdash; Para ir para a tarefa abaixo.</li>"
+    "<li><kbd>Espaço</kbd> &mdash; Para abrir o painel de detalhes direito.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Seleção Múltipla</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Para selecionar várias tarefas.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Para selecionar todas as tarefas.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Mover</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka a level up or down.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Para mover tarefas para cima ou para baixo.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Para mover tarefas para a esquerda ou direita, também conhecido como um nível para cima ou para baixo.</li>"
     "</ul>"
-    "<h3>Task Action</h3>"
+    "<h3>Ação na Tarefa</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Para atribuir uma ou mais tarefas selecionada(s) a si mesmo.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Para concluir a(s) tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Para mostrar a janela Desfazer.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Copiar & Colar</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Para copiar tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Para colar tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Para cortar tarefa(s) selecionada(s).</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "Quick Assign",
+  mTutorialQuickAssignTitle: "Atribução Rápida",
   mTutorialQuickAssignContent:
-    '<p>To quickly set assignee, tag, etc. '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    '<p>Para definir rapidamente o colaborador, tag, etc. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sem o rato</a>, '
+    'pressione @, #, <, !, ^, / no teclado quando a(s) tarefa(s) esteja(m) selecionada(s).</p>'
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Adicionar colaborador</li>"
+    "<li><kbd>#</kbd> &mdash; Adicionar tag</li>"
+    "<li><kbd><</kbd> &mdash; Adicionar data limite</li>"
+    "<li><kbd>!</kbd> &mdash; Definir prioridade</li>"
+    "<li><kbd>^</kbd> &mdash; Adicionar tarefa ao quadro</li>"
+    "<li><kbd>/</kbd> &mdash; Definir estado</li>"
     "</ul>",
-  mTutorialContextmenuTitle: "Right-Click Context Menu",
+  mTutorialContextmenuTitle: "Menu de Contexto do Botão Direito",
   mTutorialContextmenuContent:
-    "<p>You can right-click on a task, to bring up the context menu "
-    "to set due date, assignee, tag, and more.</p>"
+    "<p>Pode clicar com o botão direito do rato numa tarefa, para abrir o menu de contexto "
+    "para definir a data limite, o colaborador, tag, e mais..</p>"
     "<p>[=img]</p>"
     "<p>[=tip]]</p>"
-    "<p>Now that you know your way around, you can kickstart your project!</p>",
-  mTutorialContextmenuTip: "Tip: You can press F1 to see a complete list of keyboard shortcuts.",
-  mNextTutorial: "Next Tutorial",
-  mBoardTutorialLinkTitle: "Visualize your workflow with Quire Kanban Board",
-  mSignupToday: "Let's get started in Quire today!",
-  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+    "<p>Agora que já conhece os cantos da casa, pode iniciar o seu projeto!</p>",
+  mTutorialContextmenuTip: "Dica: Pode pressionar F1 para ver a lista completa de atalhos do teclado.",
+  mNextTutorial: "Próximo Tutorial",
+  mBoardTutorialLinkTitle: "Visualize o seu fluxo de trabalho com o Quadro Kanban do Quire",
+  mSignupToday: "Vamos começar no Quire hoje!",
+  mBoardTutorialTitle: "Tutorial Quire - Quadro Kanban",
   mBoardTutorialDesc:
-    "After dumping and organizing all your ideas in the nested task list view, "
-    "it’s time to work on your project!<br>"
-    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
-    "on selected tasks and visualize your workflow with the Kanban board.",
-  mBoardTutorialAddBoardTitle: "Name Your Board",
+    "Depois de largar e organizar todas as suas ideias na vista de lista de tarefas alinhadas, "
+    "chegou a hora de trabalhar no seu projeto!<br>"
+    'Mantenha-se <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focado</a> '
+    "nas tarefas selecionadas e visualize o seu fluxo de trabalho com o quadro Kanban.",
+  mBoardTutorialAddBoardTitle: "Dê um Nome ao Seu Quadro",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "Add board" button, type in your board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>Depois de listar as suas centenas de tarefas para o evento Corrida pela Solidariedade Infantil, "
+    "agora gostaria de se concentrar em algumas tarefas cruciais na fase inicial. Basta criar um quadro.</p>"
+    '<p>Para adicionar um quadro, clique no botão "Adicionar quadro", escreva o nome do seu quadro.</p>',
+  mBoardTutorialAddBoardTip: "Dica: Pode criar vários quadros para diferentes fases do seu projeto.",
+  mBoardTutorialAssignBoardTitle: "Comece a Adicionar Tarefas ao Quadro",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Comece por adicionar tarefas existentes da lista de tarefas sobre as quais deseja focar-se nesta fase.</p>"
+    '<p>Clique no sinal "+" no canto superior direito de uma coluna, escolha "Adicionar tarefas existentes".</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Naturalmente, se não encontrou o que deseja adicionar nas tarefas existentes, "
+    "pode criar novas tarefas na exibição do quadro.</p>"
+    '<p>Escolha "Criar novas tarefas" em alternativa.</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Nota: As tarefas recém-criadas no modo de exibição Quadro serão adicionadas '
+    "igualmente no modo de exibição lista de Tarefas.</span></p>"
+    '<p><span class="note">Dica: Pressionar Ctrl (ou Alt no Mac) mostrará as categorias de navegação, '
+    "e com isso saberá qual sub-tarefa pertence a qual tarefa principal.</span></p>",
+  mBoardTutorialAssignOthersTitle: "Não se Esqueça dos Detalhes",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Pode adicionar informações mais detalhadas ao definir datas de início/conclusão, colaboradores e tags.</p>"
+    '<p>Clique nos ícones "data", "colaborador", "tag" para definir informações adicionais.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Dica: Ao pressionar a Barra de Espaço, o "
+    '<a href="/w/Getting_Started_with_Quire/45/">painel de detalhes</a> irá aparecer '
+    "para que possa adicionar descrições, anexar ficheiros, deixar comentários, etc.",
+  mBoardTutorialOrganizeProgressTitle: "Acompanhe e Organize o Progresso",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Pode reposicionar tarefas na coluna para uma maior prioridade. Além disso, "
+    "Pode arrastar e largar tarefas em diferentes colunas para acompanhar o progresso.</p>"
+    "<p>Agora, poderá ver rapidamente o status dinâmico do seu projeto</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>Está a sentir que todas as tarefas estão concentradas numa coluna e "
+    "está a ficar mais difícil controlar o volume de trabalho "
+    "e o status de cada membro da equipa?</p>"
+    "<p>Pode usar o recurso filtrar/ordenar para agrupar as suas tarefas pelos seus atributos preferidos. "
+    "Por exemplo, agrupado por colaboradores para ver as tarefas de cada membro colaborador.</p>",
+  mBoardTutorialShortcutTitle: "Atalhos Úteis",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Adicionar & Editar</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Para adicionar uma nova tarefa.</li>"
+    "<li><kbd>F2</kbd> &mdash; Para editar o nome da tarefa.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Navegação</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Para ir para a tarefa acima.</li>"
+    "<li><kbd>↓</kbd> &mdash; Para ir para a tarefa abaixo.</li>"
+    "<li><kbd>Espaço</kbd> &mdash; Para abrir o painel de detalhes direito.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Seleção Múltipla</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Para selecionar várias tarefas.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Para selecionar todas as tarefas.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Mover</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Para mover tarefas para cima ou para baixo.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Para mover tarefas para a esquerda ou direita, também conhecido como coluna para coluna.</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    '<p><span class="note">Nota: Quando o quadro está ordenado por data, '
+    "não conseguirá mover tarefas de uma raia para outra.</span></p>"
+    "<h3>Ação na Tarefa</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Para atribuir uma ou mais tarefas selecionada(s) a si mesmo.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Para concluir a(s) tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Para mostrar a janela Desfazer.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Copiar & Colar</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Para copiar tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Para colar tarefa(s) selecionada(s).</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Para cortar tarefa(s) selecionada(s).</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignTitle: "Atribução Rápida",
   mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "<p>Para definir rapidamente o colaborador, tag, etc.  "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sem o rato</a>, '
+    "pressione @, #, <, !, ^, / no teclado quando a(s) tarefa(s) esteja(m) selecionada(s)."
     "</p>"
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Adicionar colaborador</li>"
+    "<li><kbd>#</kbd> &mdash; Adicionar tag</li>"
+    "<li><kbd><</kbd> &mdash; Adicionar data limite</li>"
+    "<li><kbd>!</kbd> &mdash; Definir prioridade</li>"
+    "<li><kbd>^</kbd> &mdash; Adicionar tarefa ao quadro</li>"
+    "<li><kbd>/</kbd> &mdash; Definir estado</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
+  mBoardTutorialContextmenuTitle: "Menu de Contexto do Botão Direito",
+  mBoardTutorialContextmenuContent: "Pode clicar com o botão direito do rato numa tarefa, para abrir o menu de contexto e definir a data limite, o colaborador, tag, e mais.",
+  mBoardTutorialContextmenuTip: "Dica: Pode alternar entre a exibição do Quadro e a exibição da lista de Tarefas para obter uma visão geral de todo o projeto",
+  mBoardTutorialYourBoardTitle: "Crie o Seu Próprio Quadro Agora!",
+  mBoardTutorialYourBoardContent: "Por enquanto, é tudo o que temos para contar sobre o quadro Kanban. Siga em frente e divirta-se!",
+  mLearnMoreDoc: "Saber Mais",
+  mGettingStartedLinkTitle: "Recursos no nosso Manual de Introdução",
+  mBlogLinkTitle: "Notícias, dicas e inspirações no nosso Blog",
   mMobileWelcomeP1Title1: "Bem-vind@ ao ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Capture tudo",
