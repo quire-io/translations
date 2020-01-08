@@ -202,7 +202,7 @@ const ptBrWeb = const <String, String> {
   mTutorialAssigneeTitle: "Delegar tarefas a pessoas responsáveis",
   mTutorialAssigneeContent:
     "<p>Você tem uma tarefa chamada Patrocinadores. Mas quem é responsável por encontrá-los?</p>"
-    "<p>Para atribuir uma tarefa a alguém, clique no ícone "responsável" da tarefa e insira seu e-mail.</p>"
+    '<p>Para atribuir uma tarefa a alguém, clique no ícone "responsável" da tarefa e insira seu e-mail.</p>'
     '<p><span class="note">Nota: Essa pessoa receberá um convite em sua caixa de entrada de e-mail.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Dica: Você pode atribuir uma tarefa a várias pessoas passando o cursor sobre o nome delas '
@@ -212,7 +212,7 @@ const ptBrWeb = const <String, String> {
     "<p>Você pode dar contexto adicional às tarefas ou agrupá-las.</p>"
     "<p>Por exemplo, você pode adicionar tags chamadas Patrocinadores, Local ou Promoção "
     "nas cores vermelho, verde e azul às tarefas relacionadas.</p>"
-    "<p>Para adicionar tags, clique no ícone "tag" de uma tarefa e digite o nome da tag.</p>",
+    '<p>Para adicionar tags, clique no ícone "tag" de uma tarefa e digite o nome da tag.</p>',
   mTutorialTagTip: "Dica: você pode filtrar tarefas por tag(s) para ver apenas um grupo de tarefas com essa(s) tag(s).",
   mTutorialAutocompleteTitle: "Adição rápida, enquanto você digita",
   mTutorialAutocompleteContent:
@@ -229,7 +229,7 @@ const ptBrWeb = const <String, String> {
     "e interagir com os membros nos comentários no painel de detalhes.</p>"
     '<p>Para adicionar estilos à sua descrição ou comentário (por exemplo, colocar em negrito), confira o '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Dica: Você pode clicar no ícone "alfinete" para manter o painel de detalhes aberto.",
+  mTutorialDetailPanelTip: 'Dica: Você pode clicar no ícone "alfinete" para manter o painel de detalhes aberto.',
   mTutorialDragTaskTitle: "Organize o que você despejou",
   mTutorialDragTaskContent:
     "<p>O que acontece se você tiver tarefas que caíram no lugar errado?</p>"

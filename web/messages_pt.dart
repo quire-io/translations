@@ -202,7 +202,7 @@ const ptWeb = const <String, String> {
   mTutorialAssigneeTitle: "Delegar tarefas às pessoas responsáveis",
   mTutorialAssigneeContent:
     "<p>Tem uma tarefa chamada Patrocinadores. Mas quem é responsável por encontrá-los?</p>"
-    "<p>Para atribuir uma tarefa a alguém, clique no ícone "colaborador" da tarefa e insira o seu e-mail.</p>"
+    '<p>Para atribuir uma tarefa a alguém, clique no ícone "colaborador" da tarefa e insira o seu e-mail.</p>'
     '<p><span class="note">Nota: Essa pessoa receberá um convite na sua caixa de entrada de e-mail.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Dica: Pode atribuir uma tarefa a várias pessoas passando o cursor sobre o nome delas '

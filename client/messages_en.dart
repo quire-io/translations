@@ -471,6 +471,7 @@ const enClient = const <String, String> {
   mAddStatus: "Add column",
   mEditStatus: "Edit column",
   mAddSublist: "Add sublist",
+  mEditSublist: "Edit Sublist",
 
   mAddTabTip: "Add board and more",
   mAddBoardTip: "You can manage your tasks visually in one or more boards.",

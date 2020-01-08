@@ -379,6 +379,7 @@ const jaClient = const <String, String> {
   mAddStatus: "欄を追加",
   mEditStatus: "欄を編集",
   mAddSublist: "Add sublist",
+  mEditSublist: "Edit Sublist",
   mAddTabTip: "Add board and more",
   mAddBoardTip: "You can manage your tasks visually in one or more boards.",
   mAddSublistTip: "You can manage your tasks visually in one or more sublist.",

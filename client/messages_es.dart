@@ -379,6 +379,7 @@ const esClient = const <String, String> {
   mAddStatus: "Añadir columna",
   mEditStatus: "Editar columna",
   mAddSublist: "Add sublist",
+  mEditSublist: "Edit Sublist",
   mAddTabTip: "Add board and more",
   mAddBoardTip: "You can manage your tasks visually in one or more boards.",
   mAddSublistTip: "You can manage your tasks visually in one or more sublist.",
