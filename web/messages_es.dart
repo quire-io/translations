@@ -175,7 +175,7 @@ const esWeb = const <String, String> {
     'Siempre nos aseguramos de que nuestros usuarios tengan claro su control sobre sus datos personales. '
     'No compartimos información personal con terceros. '
     'Quire se compromete a ser transparente y directo, sin otros usos ocultos de los <a href="/privacy">datos personales</a> de los usuarios.',
-  mTutorialTitle: "Quire Tutorial",
+  mTutorialTitle: "Tutorial de Quire",
   mTutorialDesc:
     "Welcome on board!<br>Excited to kick off your projects? "
     "Here are a few quick steps to help you get started in Quire.",
