@@ -177,14 +177,14 @@ const esWeb = const <String, String> {
     'Quire se compromete a ser transparente y directo, sin otros usos ocultos de los <a href="/privacy">datos personales</a> de los usuarios.',
   mTutorialTitle: "Tutorial de Quire",
   mTutorialDesc:
-    "Welcome on board!<br>Excited to kick off your projects? "
-    "Here are a few quick steps to help you get started in Quire.",
-  mTutorialAddProjectTitle: "Name your great project",
+    "Bienvenido a bordo!<br>¿Emocionado por empezar tus proyectos?"
+    "Aquí tienes algunos pasos rápidos para ayudarte a comenzar en Quire.",
+  mTutorialAddProjectTitle: "Nombra tu gran proyecto",
   mTutorialAddProjectContent:
-    "<p>Your awesome project deserves a name. If it already has one, you can skip this step.</p>"
-    "<p>Let’s say you want to organize a charity run to fight children starvation across the world. "
-    "You can call it: </span><strong>Children’s Run for Charity 2018</strong>.</p>"
-    '<p>To add a project, click on the "+" icon in the upper-right of your workspace.</p>',
+    "<p>Tu gran proyecto merece un nombre. Si ya tiene uno, puedes saltarte este paso.</p>"
+    "<p>Supongamos que quieres organizar una carrera benéfica para luchar contra el hambre infantil en todo el mundo. "
+    "Puedes llamarlo: </span><strong>Carrera benéfica contra el hambre infantil 2018</strong>.</p>"
+    '<p>Para añadir un proyecto, haz clic en el icono "+" en la parte superior derecha de tu área de trabajo.</p>',
   mTutorialAddTaskTitle: "Add your stuff to it",
   mTutorialAddTaskContent:
     "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
