@@ -890,6 +890,7 @@ const enClient = const <String, String> {
   mArchiveBoard: "Archive Board",
   mArchiveBoardFolder: "Archived boards",
   mDeletePartnerTitle: "Delete External Team",
+  mDeleteSublistTitle: "Delete Sublist",
   mDeleteBoardTitle: "Delete Board",
   mDeleteStatusTitle: "Remove Status",
   
@@ -919,6 +920,8 @@ const enClient = const <String, String> {
     "You are about to <strong>permanently delete</strong> the project [=name:full].",
   mDeletePartnerContent:
     "You are about to <strong>permanently delete</strong> the external team [=name].",
+  mDeleteSublistContent:
+    "You are about to <strong>permanently delete</strong> the sublist [=name].",
   mDeleteBoardContent:
     "You are about to <strong>permanently delete</strong> the board [=name].",
   mDeleteStatusContent:
