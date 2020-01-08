@@ -185,58 +185,58 @@ const esWeb = const <String, String> {
     "<p>Supongamos que quieres organizar una carrera benéfica para luchar contra el hambre infantil en todo el mundo. "
     "Puedes llamarlo: </span><strong>Carrera benéfica contra el hambre infantil 2018</strong>.</p>"
     '<p>Para añadir un proyecto, haz clic en el icono "+" en la parte superior derecha de tu área de trabajo.</p>',
-  mTutorialAddTaskTitle: "Add your stuff to it",
+  mTutorialAddTaskTitle: "Añade tus tareas al proyecto",
   mTutorialAddTaskContent:
-    "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
+    "<p>Ya sean ideas, notas o tareas pendientes, puedes volcarlas todas como tareas o subtareas.</p>"
     "<ul>"
-    '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
-    'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
-    "<li><strong>To add subtasks</strong> &mdash; Press Tab to make task a subtask.</li>"
-    "<li><strong>To stop adding</strong> &mdash; Press Esc.</li>"
+    '<li><strong>Para añadir tareas</strong> &mdash; Haz clic en el icono "+" en la parte superior, '
+    'o simplemente presiona el atajo ‘t’. Presiona Enter y continua presionando para añadir más.</li>'
+    "<li><strong>Para añadir subtareas</strong> &mdash; Presiona Tab para convertir la tarea en subtarea.</li>"
+    "<li><strong>Para dejar de añadir</strong> &mdash; Presiona Esc.</li>"
     "</ul>"
-    "<p>Just like how you would in a Word processor!</p>",
-  mTutorialSetDueTitle: "Deadline is important too",
+    "<p>¡Como lo harías en un procesador de textos!</p>",
+  mTutorialSetDueTitle: "La fecha límite también es importante",
   mTutorialSetDueContent:
-    "<p>A task without a deadline tends to slip through your fingers.</p>"
-    "<p>To add a due date, click on the “date” icon of a task in the task list.</p>",
-  mTutorialAssigneeTitle: "Delegate tasks to people responsible",
+    "<p>Una tarea sin fecha límite tiende a alargarse.</p>"
+    "<p>Para agregar una fecha de vencimiento, haz clic en el icono "fecha" de una tarea en la lista de tareas.</p>",
+  mTutorialAssigneeTitle: "Delegar tareas a los responsables",
   mTutorialAssigneeContent:
-    "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
-    "<p>To assign a task to someone, click on the “assignee” icon of the task, and enter his or her email.</p>"
-    '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
+    "<p>Tu tienes una tarea llamada Patrocinadores. ¿Pero quién es responsable de encontrarlos?</p>"
+    "<p>Para asignar una tarea a alguien, haz clic en el icono “asignado” de la tarea, e introduzca su correo electrónico.</p>"
+    '<p><span class="note">Nota: Esa persona recibirá una invitación en su buzón de correo electrónico.</span></p>'
     "<p>[=img]</p>"
-    '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
-    'and clicking on the “+” on the right of each name.</span></p>',
-  mTutorialTagTitle: "Label them with context",
+    '<p><span class="note">Tip: Puedes asignar una tarea a varias personas pasando el cursor sobre sus nombres '
+    'y haciendo clic en el “+” a la derecha de cada nombre.</span></p>',
+  mTutorialTagTitle: "Etiquétarlos con el contexto",
   mTutorialTagContent:
-    "<p>You can give tasks additional context or group them.</p>"
-    "<p>For example, you can add tags called Sponsors, Venue and Promotion "
-    "in colors red, green and blue to related tasks.</p>"
-    "<p>To add tags, click on the “tag” icon of a task, and enter the tag name.</p>",
-  mTutorialTagTip: "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
-  mTutorialAutocompleteTitle: "Quick add, while you type",
+    "<p>Puedes dar contexto adicional a las tareas o agruparlas.</p>"
+    "<p>Por ejemplo, puedes añadir etiquetas llamadas Patrocinadores, Lugar, Promoción "
+    "en colores rojo, verde y azul a las tareas relacionadas.</p>"
+    "<p>Para añadir etiquetas, haz clic en el icono "etiqueta" de una tarea, e introduce el nombre de la etiqueta.</p>",
+  mTutorialTagTip: "Consejo: Puedes filtrar las tareas por etiqueta(s) para ver sólo un grupo de tareas con esa(s) etiqueta(s).",
+  mTutorialAutocompleteTitle: "Agrega rápidamente, mientras escribes",
   mTutorialAutocompleteContent:
-    "<p>What if you can add and assign everything, all at once?</p>"
-    "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
-    "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
-    "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
-    "Like this: “Come up with a list of promotional items &lt;Friday&gt; @David #Promotion”.</p>",
-  mTutorialDetailPanelTitle: "Give them some details",
+    "<p>¿Qué pasa si puedes agregar y asignar todo, todo a la vez?</p>"
+    "<p>Al añadir una tarea, puedes escribir <strong>&lt;&gt;</strong> para añadir una "
+    "<strong>fecha límite</strong>, <strong>@</strong> para añadir un <strong>asignado</strong>, "
+    "y <strong>#</strong> para añadir una <strong>etiqueta</strong>, etc. "
+    "Así: “Inventa una lista de artículos promocionales &lt;Viernes&gt; @David #Promoción”.</p>",
+  mTutorialDetailPanelTitle: "Dar algunos detalles",
   mTutorialDetailPanelContent:
-    "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
-    "<p>You can add details &mdash; including description and attachments &mdash; to the task "
-    "after clicking on “&lt;&lt;”in the upper right corner. You can also discuss, chat "
-    "and interact with members in comments there in the detail panel.</p>"
-    '<p>To add styles to your description or comment (eg., make it bold), check out '
+    "<p>Muchas veces, una tarea necesita un poco más de información para llevarse a cabo sin problemas.</p>"
+    "<p>Tu puedes añadir detalles &mdash; incluyendo la descripción y los archivos adjuntos &mdash; a la tarea "
+    "después de hacer clic en “&lt;&lt;”en la esquina superior derecha. También puedes discutir, chatear "
+    "e interactuar con los miembros en los comentarios del panel de detalles.</p>"
+    '<p>Para añadir estilos a su descripción o comentario (eg., make it bold), comprueba '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Tip: You can click on the “pin” icon to keep the detail panel open.",
-  mTutorialDragTaskTitle: "Organize what you have dumped",
+  mTutorialDetailPanelTip: "Consejo: Puedes hacer clic en el icono “pin” para mantener abierto el panel de detalles.",
+  mTutorialDragTaskTitle: "Organiza lo que has dejado",
   mTutorialDragTaskContent:
-    "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
-    "<p>In Quire, you can drag & drop them to where they rightfully belong. "
-    "For example, move giveaways like T-shirts, bumper stickers and "
-    "water bottles to under task “Promotional Items.”</p>",
-  mTutorialShortcutTitle: "A few handy shortcuts",
+    "<p>¿Qué pasa si tienes tareas que se han asignado en el lugar equivocado?</p>"
+    "<p>En Quire, puedes arrastrarlos y soltarlos en el lugar adecuado. "
+    "Por ejemplo, mueve los regalos como camisetas, calcomanías y  "
+    "botellas de agua a la tarea “Artículos promocionales.”</p>",
+  mTutorialShortcutTitle: "Algunos atajos prácticos",
   mTutorialShortcutContent:
     "<h3>Add & Edit</h3>"
     "<ul>"
