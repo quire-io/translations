@@ -363,6 +363,8 @@ const enClient = const <String, String> {
   mMergeTask: "Merge this task",
   mZoomInTask: "Zoom in (z)",
   mZoomOutTask: "Zoom out (a)",
+  mPinViewTab: "Pin in bar",
+  mUnpinViewTab: "Unpin from bar",
   
   mTreeTagTooltip: "Tag",
 
@@ -468,6 +470,13 @@ const enClient = const <String, String> {
   mEditBoard: "Edit Board",
   mAddStatus: "Add column",
   mEditStatus: "Edit column",
+  mAddSublist: "Add sublist",
+
+  mAddTabTip: "Add board and more",
+  mAddBoardTip: "You can manage your tasks visually in one or more boards.",
+  mAddSublistTip: "You can manage your tasks visually in one or more sublist.",
+
+
 
   mAddDesc: "Add description",
   mEditDesc: "Edit",
@@ -795,6 +804,7 @@ const enClient = const <String, String> {
   mDuplicateProject: "Duplicate project",
   mDialogTitleProjectSettings: "Project Settings",
   mCreateBoard: "Create a board",
+  mCreateSublist: "Create sublist view",
 
   mOrganizationName: "Organization name",
   mProjectName: "Project name",
@@ -803,9 +813,10 @@ const enClient = const <String, String> {
   mProjectUrl: "Project URL",
   mBoardName: "Board name",
   mBoardUrl: "Board URL",
-  mBoardShareWith: "Share with",
-  mBoardShareProjectMember: "Project Members",
-  mBoardShareWithWho: "This board is shared with [=who].",
+  mSublistUrl: "Sublist URL",
+  mSubviewShareWith: "Share with",
+  mSubviewShareProjectMember: "Project Members",
+  mSubviewSharePersonal: "Only me",
 
   mSettingLabelTask: "Task",
   mSettingLabelShowIcon: "Icon",
@@ -876,6 +887,7 @@ const enClient = const <String, String> {
 
   mTransferTaskTitle: "Transfer Tasks",
   mArchiveBoard: "Archive Board",
+  mArchiveBoardFolder: "Archived boards",
   mDeletePartnerTitle: "Delete External Team",
   mDeleteBoardTitle: "Delete Board",
   mDeleteStatusTitle: "Remove Status",
@@ -985,6 +997,10 @@ const enClient = const <String, String> {
   mTransferTaskUndoArchive: "Undo all peekaboo tasks",
   mLoadProjectsFailed: "You do not have the permission to transfer tasks to another project.",
   
+  mPickTasksTitle: "Tasks",
+  mPickTasksDesc:
+    "Select existing tasks to add to the list.",
+
   mMergeTaskTitle: "Merge Task",
   mMergeTaskDesc:
     "You are about to merge [=name] to another task.<br><br>"
