@@ -363,8 +363,8 @@ const enClient = const <String, String> {
   mMergeTask: "Merge this task",
   mZoomInTask: "Zoom in (z)",
   mZoomOutTask: "Zoom out (a)",
-  mPinViewTab: "Pin in bar",
-  mUnpinViewTab: "Unpin from bar",
+  mPinViewTab: "Pin",
+  mUnpinViewTab: "Unpin",
   
   mTreeTagTooltip: "Tag",
 
@@ -474,8 +474,8 @@ const enClient = const <String, String> {
   mEditSublist: "Edit Sublist",
 
   mAddTabTip: "Add board and more",
-  mAddBoardTip: "You can manage your tasks visually in one or more boards.",
-  mAddSublistTip: "You can manage your tasks visually in one or more sublist.",
+  mAddBoardTip: "You can visualize your tasks in one or more boards.",
+  mAddSublistTip: "You can focus on important tasks and view them in one or more sublists.",
 
 
 
@@ -790,7 +790,7 @@ const enClient = const <String, String> {
   mSettingGeneralTab: "General",
 
   //Dialogs
-  mCreateNewCrossProject: "Create new smart folder",
+  mCreateNewCrossProject: "Create a smart folder",
   mCrossProjectName: "Smart folder name",
   mSelectAProject: "Select a project",
   mSelectAnotherProject: "Select another project",
@@ -805,7 +805,7 @@ const enClient = const <String, String> {
   mDuplicateProject: "Duplicate project",
   mDialogTitleProjectSettings: "Project Settings",
   mCreateBoard: "Create a board",
-  mCreateSublist: "Create sublist view",
+  mCreateSublist: "Create a sublist",
 
   mOrganizationName: "Organization name",
   mProjectName: "Project name",
@@ -1000,7 +1000,7 @@ const enClient = const <String, String> {
   
   mPickTasksTitle: "Tasks",
   mPickTasksDesc:
-    "Select existing tasks to add to the list.",
+    "Select existing tasks to add to the sublist.",
 
   mMergeTaskTitle: "Merge Task",
   mMergeTaskDesc:
