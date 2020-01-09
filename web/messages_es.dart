@@ -198,7 +198,7 @@ const esWeb = const <String, String> {
   mTutorialSetDueTitle: "La fecha límite también es importante",
   mTutorialSetDueContent:
     "<p>Una tarea sin fecha límite tiende a alargarse.</p>"
-    "<p>Para agregar una fecha de vencimiento, haz clic en el icono "fecha" de una tarea en la lista de tareas.</p>",
+    '<p>Para agregar una fecha de vencimiento, haz clic en el icono "fecha" de una tarea en la lista de tareas.</p>',
   mTutorialAssigneeTitle: "Delegar tareas a los responsables",
   mTutorialAssigneeContent:
     "<p>Tu tienes una tarea llamada Patrocinadores. ¿Pero quién es responsable de encontrarlos?</p>"
@@ -212,7 +212,7 @@ const esWeb = const <String, String> {
     "<p>Puedes dar contexto adicional a las tareas o agruparlas.</p>"
     "<p>Por ejemplo, puedes añadir etiquetas llamadas Patrocinadores, Lugar, Promoción "
     "en colores rojo, verde y azul a las tareas relacionadas.</p>"
-    "<p>Para añadir etiquetas, haz clic en el icono "etiqueta" de una tarea, e introduce el nombre de la etiqueta.</p>",
+    '<p>Para añadir etiquetas, haz clic en el icono "etiqueta" de una tarea, e introduce el nombre de la etiqueta.</p>',
   mTutorialTagTip: "Consejo: Puedes filtrar las tareas por etiqueta(s) para ver sólo un grupo de tareas con esa(s) etiqueta(s).",
   mTutorialAutocompleteTitle: "Agrega rápidamente, mientras escribes",
   mTutorialAutocompleteContent:

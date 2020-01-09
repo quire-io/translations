@@ -99,7 +99,6 @@ const ptClient = const <String, String> {
   mEmptyContent: "(vazio)",
   mRemovedContent: "(removido)",
   mBlankProject: "(Projeto em Branco)",
-  mBlankBoard: "(Padrão em branco)",
   mGotoSubject: "Ir para [=subject]",
   mGotoOtherProjects: "Ir para outros projetos",
   mArchivedTask: 'Tarefa Peekaboo',

@@ -94,7 +94,6 @@ const itClient = const <String, String> {
   mEmptyContent: "(vuoto)",
   mRemovedContent: "(rimosso)",
   mBlankProject: "(Progetto Vuoto)",
-  mBlankBoard: "(Vuoto per impostazione predefinita)",
   mGotoSubject: "Vai a [=subject]",
   mGotoOtherProjects: "Vai ad altri progetti",
   mArchivedTask: 'Peekaboo attività',
