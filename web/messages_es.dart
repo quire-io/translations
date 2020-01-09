@@ -240,62 +240,62 @@ const esWeb = const <String, String> {
   mTutorialShortcutContent:
     "<h3>Add & Edit</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Para añadir una nueva tarea.</li>"
+    "<li><kbd>F2</kbd> &mdash; Para editar el nombre de la tarea.</li>"
     "</ul>"
     "<h3>Navigation</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Para ir a la tarea anterior.</li>"
+    "<li><kbd>↓</kbd> &mdash; Para ir a la tarea siguiente.</li>"
+    "<li><kbd>Space</kbd> &mdash; Para abrir el papel de detalles de la derecha.</li>"
     "</ul>"
     "<h3>Multi-Selection</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Para seleccionar varias tareas.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Para seleccionar todas las tareas.</li>"
     "</ul>"
     "<h3>Move</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka a level up or down.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Para mover las tareas hacia arriba o hacia abajo.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Para mover las tareas hacia la izquierda o hacia la derecha.</li>"
     "</ul>"
     "<h3>Task Action</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Para asignar una o varias tareas seleccionadas.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Para completar las tarea(s) seleccionada(s).</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Para deshacer.</li>"
     "</ul>"
     "<h3>Copy & Paste</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Para copiar las tarea(s) seleccinada(s).</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Para pegar las tarea(s) seleccinada(s).</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Para cortar las tarea(s) seleccinada(s).</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "Quick Assign",
+  mTutorialQuickAssignTitle: "Asignacion rápida",
   mTutorialQuickAssignContent:
-    '<p>To quickly set assignee, tag, etc. '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    '<p>Para configurar rápidamente el asignatario, la etiqueta, etc. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sin el ratón</a>, '
+    'pulsa @, #, <, !, ^, / en el teclado cuando se selecione la(s) tarea(s).</p>'
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Añadir asignatario</li>"
+    "<li><kbd>#</kbd> &mdash; Añadir etiqueta</li>"
+    "<li><kbd><</kbd> &mdash; Añadir la fecha límite</li>"
+    "<li><kbd>!</kbd> &mdash; Fijar la prioridad</li>"
+    "<li><kbd>^</kbd> &mdash; Añadir tarea al tablero</li>"
+    "<li><kbd>/</kbd> &mdash; Fijar status</li>"
     "</ul>",
-  mTutorialContextmenuTitle: "Right-Click Context Menu",
+  mTutorialContextmenuTitle: "Menú contextual haciendo clic en el botón derecho del ratón",
   mTutorialContextmenuContent:
-    "<p>You can right-click on a task, to bring up the context menu "
-    "to set due date, assignee, tag, and more.</p>"
+    "<p>Puedes hacer clic en el botón derecho del ratón en una tarea para que aparezca el menú contextual "
+    "para establecer la fecha límite, la persona asignada, la etiqueta, etc.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]]</p>"
-    "<p>Now that you know your way around, you can kickstart your project!</p>",
-  mTutorialContextmenuTip: "Tip: You can press F1 to see a complete list of keyboard shortcuts.",
-  mNextTutorial: "Next Tutorial",
-  mBoardTutorialLinkTitle: "Visualize your workflow with Quire Kanban Board",
-  mSignupToday: "Let's get started in Quire today!",
-  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+    "<p>Ahora que ya sabes cómo funciona, ¡Puedes poner en marcha tu proyecto!</p>",
+  mTutorialContextmenuTip: "Consejo: Puedes pulsar F1 para ver una lista completa de los atajos del teclado.",
+  mNextTutorial: "Siguiente Tutorial",
+  mBoardTutorialLinkTitle: "Visualiza tu flujo de trabajo con Quire Kanban Board",
+  mSignupToday: "¡Empezemos hoy en Quire!",
+  mBoardTutorialTitle: "Turorial de Quire - Kanban Board",
   mBoardTutorialDesc:
     "After dumping and organizing all your ideas in the nested task list view, "
     "it’s time to work on your project!<br>"
@@ -390,14 +390,14 @@ const esWeb = const <String, String> {
     "<li><kbd>^</kbd> &mdash; Add task to board</li>"
     "<li><kbd>/</kbd> &mdash; Set status</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
+  mBoardTutorialContextmenuTitle: "Menú contextual haciendo clic en el botón derecho del ratón",
+  mBoardTutorialContextmenuContent: "Puedes hacer clic en el botón derecho del ratón en una tarea para que aparezca el menú contextual para establecer la fecha límite, la persona asignada, la etiqueta, etc.",
+  mBoardTutorialContextmenuTip: "Consejo: Puedes cambiar de la vista tablero a la vista lista para obtener un panorama general de todo tu proyecto.",
+  mBoardTutorialYourBoardTitle: "¡Crea tu propio tablero ahora!",
+  mBoardTutorialYourBoardContent: "Esto es todo lo que tenemos que hablar hasta ahora sobreo Kanban board. ¡Anímate y diviértete",
+  mLearnMoreDoc: "Más información",
+  mGettingStartedLinkTitle: "En nuestra Guía de Inicio",
+  mBlogLinkTitle: "Noticias, consejos e inspiraciones en nuestro Blog",
   mMobileWelcomeP1Title1: "Bienvenido a ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "De principio a fin",
