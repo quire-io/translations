@@ -969,6 +969,51 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingEmailSec: "Email Notifications",
   mSettingProjectPrefSec: "Project Preferences",
 
+  mSettingLabelTask: "Task",
+  mSettingLabelShowIcon: "Icon",
+  mSettingLabelShowIconDesc: "Highlight this project by displaying its icon in the sidebar",
+  mSettingLabelVisibility: "Visibility",
+
+  mSettingOptionAddToTop: "Add to top",
+  mSettingOptionAddToBottom: "Add to bottom",
+  mSettingOptionFavorite: "Favorites",
+  mSettingOptionFavoriteDesc: "Enable to ♥ a task and focus on those that matter to you personally",
+  mSettingOptionComment: "Comment",
+  mSettingOptionCommentNewAtTop: "Newest at top",
+  mSettingOptionCommentOldAtTop: "Oldest at top",
+
+  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
+  mSettingOptionUnarchiveTaskDesc:
+  "Peekaboo tasks that are not completed will be shown again automatically on the list after the selected time.",
+  mSettingOptionUnarchiveTaskNever: "Never",
+  mSettingOptionUnarchiveTaskNDays: "[=days] days later",
+
+  mSettingOptionStart: "Start date",
+  mSettingOptionStartDesc: "Always show start date when you set date",
+  mSettingOptionTime: "Time",
+  mSettingOptionTimeDesc: "Always show time when you set date",
+  mSettingOptionAssignee: "Multiple assignees",
+  mSettingOptionAssigneeDesc: "Always add to assignees when you click on member's names",
+  mSettingOptionStatus: "Status",
+  mSettingOptionStatusDesc: "Always show status options when you click on the complete icon",
+  mSettingOptionPrivate: "Private",
+  mSettingOptionPrivateDesc: "Available only to your project and organization members",
+  mSettingOptionPublic: "Public",
+  mSettingOptionPublicDesc: "Available to any user including anonymous users",
+  mSettingOptionPublicAllowAddDesc: "Allow users to add tasks at the first level",
+
+  mSettingOptionExportCsv: "Export to CSV",
+  mSettingOptionExportJson: "Export to JSON",
+  mSettingOptionDuplicateProject: "Duplicate project", //shall be "Duplicate this project", but keep it short
+  mSettingOptionTransferProject: "Transfer project", //shall be "Transfer this project", but keep it short
+  mSettingOptionMakeArchive: "Archive project",
+  mSettingOptionMakeUnarchive: "Unarchive project",
+  mSettingOptionLeaveProject: "Leave project",
+  mSettingOptionDeleteProject: "Delete project",//shall be "Delete this project", but keep it short
+
+  mSettingOptionDeleteProjectLot: "Delete smart folder",
+
+
   mSettingCalTitle: "Calendar",
   mSettingCalDesc: "Sync incomplete tasks with due dates to Google Calendar, iCal or others.",
   mSettingCalBtnTitle: "Sync",
