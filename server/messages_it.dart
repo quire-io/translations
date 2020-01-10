@@ -743,7 +743,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingOptionComment: "Commenta",
   mSettingOptionCommentNewAtTop: "Più nuovi all\'inizio",
   mSettingOptionCommentOldAtTop: "Più vecchi all\'inizio",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
   mSettingOptionUnarchiveTask: "Rimostra attività peekaboo",
   mSettingOptionUnarchiveTaskDesc: "Attività Peekaboo che non sono state completate verranno mostrate nuovamente automaticamente nella lista dopo il tempo selezionato.",
   mSettingOptionUnarchiveTaskNever: "Mai",

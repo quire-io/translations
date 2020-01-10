@@ -743,7 +743,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingOptionComment: "コメント",
   mSettingOptionCommentNewAtTop: "新着順",
   mSettingOptionCommentOldAtTop: "投稿日順",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
   mSettingOptionUnarchiveTask: "「あとで表示」のタスクを再表示",
   mSettingOptionUnarchiveTaskDesc: "「あとで表示」の未完了タスクは、設定した時間の経過後、自動的に再表示されます。",
   mSettingOptionUnarchiveTaskNever: "なし",

@@ -740,7 +740,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingOptionComment: "Kommentar",
   mSettingOptionCommentNewAtTop: "Neuste zuerst",
   mSettingOptionCommentOldAtTop: "Älteste zuerst",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
   mSettingOptionUnarchiveTask: "Peekaboo-Aufgaben wieder anzeigen",
   mSettingOptionUnarchiveTaskDesc: "Nicht erledigte Peekaboo-Aufgaben werden nach der ausgewählten Zeit automatisch wieder in der Liste angezeigt.",
   mSettingOptionUnarchiveTaskNever: "Nie",

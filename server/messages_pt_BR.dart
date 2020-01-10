@@ -742,7 +742,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mSettingOptionComment: "Comentar",
   mSettingOptionCommentNewAtTop: "Mais recentes no topo",
   mSettingOptionCommentOldAtTop: "Mais antigas no topo",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
   mSettingOptionUnarchiveTask: "Apresentar de novo tarefas peekaboo",
   mSettingOptionUnarchiveTaskDesc: "Tarefas Peekaboo que não estão concluídas serão apresentadas de novo na lista automaticamente depois do tempo selecionado.",
   mSettingOptionUnarchiveTaskNever: "Nunca",

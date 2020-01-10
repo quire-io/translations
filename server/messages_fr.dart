@@ -727,7 +727,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingOptionComment: "Commentaires",
   mSettingOptionCommentNewAtTop: "Récents en haut",
   mSettingOptionCommentOldAtTop: "Anciens en haut",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
   mSettingOptionUnarchiveTask: "Réaffichage des tâches peekaboo",
   mSettingOptionUnarchiveTaskDesc: "Les tâches peekaboo non terminées seront réaffichées automatiquement dans la liste après la durée sélectionnée.",
   mSettingOptionUnarchiveTaskNever: "Jamais",
