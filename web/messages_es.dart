@@ -306,39 +306,39 @@ const esWeb = const <String, String> {
     "<p>Después de enumerar todas las tareas para la carrera benéfica contra el hambre infantil, "
     "ahora te gustaría centrarte en algunas tareas en la etapa inicial. Simplemente crea un tablero.</p>"
     '<p>Para agregar un tablero, haz clic en el botón "Añadir tablero" y escribe el nombre de tu tablero.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+  mBoardTutorialAddBoardTip: "Consejo: Puedes crear varios tableros para las diferentes etapas de tu proyecto.",
+  mBoardTutorialAssignBoardTitle: "Comienza a añadir tareas al tablero",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Comienza añadiendo las tareas existentes del plan de tareas que deseas enforcar en esta etapa.</p>"
+    '<p>Haz clic en el signo "+" en la esquina superior derecha de la columna, elige "Añadir tareas existentes".</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Por supuesto, si no has encontrato nada que quieras añadir de las tareas existentes, "
+    "tu puedes crear nuevas tareas en la vista del tablero.</p>"
+    '<p>En este caso, elige "Crear nuevas tareas".</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Nota: Las tareas recién creadas en la vista de tablero '
+    "se añadirán también en la vista de lista de tareas.</span></p>"
+    '<p><span class="note">Consejo: Pulsado Ctrl (or Alt on Mac) se mostrarán todas las tareas, '
+    "con lo que podrás saber que subtareas pertenecen a la tarea principal.</span></p>",
+  mBoardTutorialAssignOthersTitle: "No olvides los detalles",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Puedes añadir informacíon más detallada estableciendo fechas de inicio/vencimiento, asignatarios y etiquetas.</p>"
+    '<p>Haz clic en los iconos "fecha", "asignatario", "etiqueta" para establecer información adicional.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Consejo: Al presionar la barra espaciadora, "
+    '<a href="/w/Getting_Started_with_Quire/45/"></a> se mostrará el panel de detalles '
+    "para que puedas añadir descripciones, adjuntar archivos, dejar comentarios, etc.",
+  mBoardTutorialOrganizeProgressTitle: "Seguimiento y Organización del Progreso",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Puedes reposicionar tareas en la columna para mayor prioridad. También, "
+    "puedes arrastrar y soltar tareas a diferentes columnas para el seguimiento del progreso.</p>"
+    "<p>Ahora, puedes ver el estado dinámico de tu proyecto de un vistazo.</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
+    "<p>¿Crees que todas las tareas están apretadas en una sola columna y "
+    "que cada vez es más complicado conocer la carga de trabajo "
+    "y el status de cada miembro del equipo?</p>"
+    "<p>Puedes utilizar la función filtrato/clasificación para agrupar tus tareas por los atributos prefreridos. "
+    "Por ejemplo: agrupados por asignatarios para ver las tareas responsables de cada miembro.</p>",
   mBoardTutorialShortcutTitle: "Atajos útiles",
   mBoardTutorialShortcutContent:
     "<h3>Añadir y editar</h3>"
