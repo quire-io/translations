@@ -198,6 +198,7 @@ const deClient = const <String, String> {
   mPreview: "Vorschau",
   mDatePrep: "am",
   mEditedAt: "Bearbeitet[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Erstellt von [=who], [=when]",
   mCompletedByAt: "Erledigt von [=who], [=when]",
   mReopenedByAt: "Wieder geöffnet von [=who], [=when]",

@@ -204,6 +204,7 @@ const jaClient = const <String, String> {
   mPreview: "プレビュー",
   mDatePrep: "",
   mEditedAt: "編集しました（[=when]）",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "[=who]さんが作成（[=when]）",
   mCompletedByAt: "[=who]さんが完了（[=when]）",
   mReopenedByAt: "[=who]さんが再開（[=when]）",

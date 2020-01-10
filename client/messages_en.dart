@@ -251,6 +251,7 @@ const enClient = const <String, String> {
 
   mDatePrep: " on",
   mEditedAt: "Edited[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
 
   mCreatedByAt: "Created by [=who], [=when]",
   mCompletedByAt: "Completed by [=who], [=when]",

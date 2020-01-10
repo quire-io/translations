@@ -198,6 +198,7 @@ const trClient = const <String, String> {
   mPreview: "Önizleme",
   mDatePrep: " bitiş",
   mEditedAt: "Edited[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Created by [=who], [=when]",
   mCompletedByAt: "Completed by [=who], [=when]",
   mReopenedByAt: "Reopened by [=who], [=when]",

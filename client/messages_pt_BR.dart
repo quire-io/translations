@@ -209,6 +209,7 @@ const ptBrClient = const <String, String> {
   mPreview: "Vista prévia",
   mDatePrep: " em",
   mEditedAt: "Editado[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Criado por [=who], [=when]",
   mCompletedByAt: "Concluído por [=who], [=when]",
   mReopenedByAt: "Reaberto por [=who], [=when]",

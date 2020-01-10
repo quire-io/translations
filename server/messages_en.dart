@@ -981,6 +981,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingOptionComment: "Comment",
   mSettingOptionCommentNewAtTop: "Newest at top",
   mSettingOptionCommentOldAtTop: "Oldest at top",
+  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members.",
 
   mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
   mSettingOptionUnarchiveTaskDesc:
@@ -988,9 +989,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingOptionUnarchiveTaskNever: "Never",
   mSettingOptionUnarchiveTaskNDays: "[=days] days later",
 
-  mSettingOptionStart: "Start date",
+  mSettingOptionDateAndTime: "Date & time",
   mSettingOptionStartDesc: "Always show start date when you set date",
-  mSettingOptionTime: "Time",
   mSettingOptionTimeDesc: "Always show time when you set date",
   mSettingOptionAssignee: "Multiple assignees",
   mSettingOptionAssigneeDesc: "Always add to assignees when you click on member's names",

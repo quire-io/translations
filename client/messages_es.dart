@@ -204,6 +204,7 @@ const esClient = const <String, String> {
   mPreview: "Vista previa",
   mDatePrep: " el",
   mEditedAt: "Editada[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Creada por [=who], [=when]",
   mCompletedByAt: "Completada por [=who], [=when]",
   mReopenedByAt: "Reabierta por [=who], [=when]",

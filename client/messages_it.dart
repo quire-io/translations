@@ -204,6 +204,7 @@ const itClient = const <String, String> {
   mPreview: "Anteprima",
   mDatePrep: " il",
   mEditedAt: "Modificato[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Creato da [=who], [=when]",
   mCompletedByAt: "Completato da [=who], [=when]",
   mReopenedByAt: "Riaperto da [=who], [=when]",

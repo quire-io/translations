@@ -204,6 +204,7 @@ const frClient = const <String, String> {
   mPreview: "Aperçu",
   mDatePrep: " le",
   mEditedAt: "Édité[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Créé par [=who], [=when]",
   mCompletedByAt: "Terminé par [=who], [=when]",
   mReopenedByAt: "Rouvert par [=who], [=when]",

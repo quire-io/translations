@@ -209,6 +209,7 @@ const ptClient = const <String, String> {
   mPreview: "Pré-visualizar",
   mDatePrep: " em",
   mEditedAt: "Editado[=on] [=when]",
+  mEditedByAt: "Edited by [=who], [=when]",
   mCreatedByAt: "Criado por [=who], [=when]",
   mCompletedByAt: "Concluído por [=who], [=when]",
   mReopenedByAt: "Reaberto por [=who], [=when]",
