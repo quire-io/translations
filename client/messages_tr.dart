@@ -1,6 +1,6 @@
 //Copyright (C) 2013 Potix Corporation. All Rights Reserved.
 //History: Fri, Aug 23, 2013  7:31:11 PM
-// Author: Enis Hemedoglu
+// Author: tomyeh
 
 part of server.intl.messages_all;
 
@@ -139,6 +139,7 @@ const trClient = const <String, String> {
   mSaveAs: "Farklı Kaydet",
   mRestore: "Tekrar yükle",
   mDiscard: "Discard",
+  mContinueEditing: "Continue Editing",
   mSaveChanges: "Değişiklikleri Kaydet",
   mChange: "Değiştir",
   mOK: "OK",
@@ -674,6 +675,7 @@ const trClient = const <String, String> {
   mReassignMemberToTasks: "Reassign the tasks to",
   mDiscardDraftTitle: "Discard draft?",
   mDiscardDraftContent: "Changes you made may not be saved.",
+  mDiscardChangesTitle: "Discard changes?",
   mDeleteAppContent: "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent: "You are about to <strong>permanently delete</strong> the organization [=name:full].",
   mDeleteProjectLotContent: "You are about to <strong>delete</strong> the smart folder [=name:full].",

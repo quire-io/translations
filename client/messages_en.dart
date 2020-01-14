@@ -188,6 +188,7 @@ const enClient = const <String, String> {
   mSaveAs: "Save as",
   mRestore: "Restore",
   mDiscard: "Discard",
+  mContinueEditing: "Continue Editing",
   mSaveChanges: "Save Changes",
   mChange: "Change",
   mOK: "OK",
@@ -856,6 +857,8 @@ const enClient = const <String, String> {
 
   mDiscardDraftTitle: "Discard draft?",
   mDiscardDraftContent: "Changes you made may not be saved.",
+
+  mDiscardChangesTitle: "Discard changes?",
 
   mDeleteAppContent:
     "You are about to <strong>permanently delete</strong> the app [=name].",
