@@ -829,9 +829,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] removed a shared link, [=value], of [=what]",
 
   "AT$atAddBoard":
-    "[=who] added a board [=value] to [=what]",
+    "[=who] added the board [=value] to [=what]",
   "AT$atRemoveBoard":
-    "[=who] removed a board [=value] from [=what]",
+    "[=who] removed the board [=value] from [=what]",
   "AT$atEditBoard":
     "[=who] edited the board [=value]",
 
@@ -841,9 +841,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] removed [=extra] from the board [=value] in [=what]",
 
   "AT$atAddSublist":
-    "[=who] added a sublist [=value] to [=what]",
+    "[=who] added the sublist [=value] to [=what]",
   "AT$atRemoveSublist":
-    "[=who] removed a sublist [=value] from [=what]",
+    "[=who] removed the sublist [=value] from [=what]",
 
   "AT$atSlackInstall":
     "[=who] connected [=what] to Slack's [=value]",
