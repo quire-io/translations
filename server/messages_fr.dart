@@ -616,6 +616,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   "AT$atEditBoard": "[=who] a modifié le tableau [=value]",
   "AT$atAddTaskState": "[=who] a ajouté [=extra] au tableau [=value] dans [=what]",
   "AT$atRemoveTaskState": "[=who] a retiré [=extra] du tableau [=value] dans [=what]",
+  "AT$atAddSublist": "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist": "[=who] removed a sublist [=value] from [=what]",
   "AT$atSlackInstall": "[=who] a connecté [=what] à [=value] dans Slack",
   "AT$atSlackUninstall": "[=who] a déconnecté [=what] de [=value] dans Slack",
   "AT$atExportOrganization": "[=who] a exporté [=what]",

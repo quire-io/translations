@@ -631,6 +631,8 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   "AT$atEditBoard": "[=who] editou um quadro [=value]",
   "AT$atAddTaskState": "[=who] adicionou [=extra] ao quadro [=value] em [=what]",
   "AT$atRemoveTaskState": "[=who] removeu [=extra] do quadro [=value] em [=what]",
+  "AT$atAddSublist": "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist": "[=who] removed a sublist [=value] from [=what]",
   "AT$atSlackInstall": "[=who] conectou [=what] ao [=value] do Slack",
   "AT$atSlackUninstall": "[=who] desconectou [=what] do [=value] do Slack",
   "AT$atExportOrganization": "[=who] exportou [=what]",

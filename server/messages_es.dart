@@ -632,6 +632,8 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   "AT$atEditBoard": "[=who] editó el tablero [=value]",
   "AT$atAddTaskState": "[=who] añadió [=extra] al tablero [=value] en [=what]",
   "AT$atRemoveTaskState": "[=who] eliminó [=extra] del tablero [=value] en [=what]",
+  "AT$atAddSublist": "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist": "[=who] removed a sublist [=value] from [=what]",
   "AT$atSlackInstall": "[=who] conectó [=what] al Slack de [=value]",
   "AT$atSlackUninstall": "[=who] desconectó [=what] del Slack de [=value]",
   "AT$atExportOrganization": "[=who] exportó [=what]",

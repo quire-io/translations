@@ -629,6 +629,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   "AT$atEditBoard": "[=who] hat das Board[=value] bearbeitet",
   "AT$atAddTaskState": "[=who] hat [=extra] zu dem Board [=value] in [=what] hinzugefügt",
   "AT$atRemoveTaskState": "[=who] hat [=extra] von dem Board [=value] in [=what] entfernt",
+  "AT$atAddSublist": "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist": "[=who] removed a sublist [=value] from [=what]",
   "AT$atSlackInstall": "[=who] hat [=what] an Slack's [=value] angebunden",
   "AT$atSlackUninstall": "[=who] hat [=what] von Slack's [=value] entfernt",
   "AT$atExportOrganization": "[=who] hat [=what] exportiert",

@@ -632,6 +632,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   "AT$atEditBoard": "[=who]さんがボード[=value]を編集しました",
   "AT$atAddTaskState": "[=who]さんが[=extra]を[=what]のボード[=value]に追加しました",
   "AT$atRemoveTaskState": "[=who]さんが[=extra]を[=what]のボード[=value]から消去しました",
+  "AT$atAddSublist": "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist": "[=who] removed a sublist [=value] from [=what]",
   "AT$atSlackInstall": "[=who]さんが[=what]をSlackの[=value]に連携しました",
   "AT$atSlackUninstall": "[=who]さんがSlackの[=value]から[=what]の連携を解除しました",
   "AT$atExportOrganization": "[=who]さんが[=what]をエクスポートしました",

@@ -840,6 +840,11 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atRemoveTaskState":
     "[=who] removed [=extra] from the board [=value] in [=what]",
 
+  "AT$atAddSublist":
+    "[=who] added a sublist [=value] to [=what]",
+  "AT$atRemoveSublist":
+    "[=who] removed a sublist [=value] from [=what]",
+
   "AT$atSlackInstall":
     "[=who] connected [=what] to Slack's [=value]",
   "AT$atSlackUninstall":
