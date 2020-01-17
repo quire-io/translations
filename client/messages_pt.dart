@@ -700,6 +700,7 @@ const ptClient = const <String, String> {
   mDeleteOrganizationConfirm: "Por favor, insira o nome da organização para confirmar.",
   mDeleteProjectLotConfirm: "Os projetos nesta pasta inteligente <b>não</b> serão eliminados.",
   mDeleteProjectConfirm: "Por favor, insira o nome do projeto para confirmar.",
+  mDeleteSublistConfirm: "Tasks in this sublist will <b>not</b> be deleted.",
   mDeleteAccountContent:
     "Está prestes a <strong>eliminar permanentemente</strong> a sua conta de utilizador, "
     "<b>[=email]</b>, e todos os dados associados.",

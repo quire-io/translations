@@ -689,6 +689,7 @@ const trClient = const <String, String> {
   mDeleteOrganizationConfirm: "Please type in the name of the organization to confirm.",
   mDeleteProjectLotConfirm: "Projects in this smart folder will <b>not</b> be deleted.",
   mDeleteProjectConfirm: "Please type in the name of the project to confirm.",
+  mDeleteSublistConfirm: "Tasks in this sublist will <b>not</b> be deleted.",
   mDeleteAccountContent:
     "You are about to <strong>permanently delete</strong> your user account, "
     "<b>[=email]</b>, and all associated data.",

@@ -695,6 +695,7 @@ const esClient = const <String, String> {
   mDeleteOrganizationConfirm: "Por favor, escribe el nombre de la organización para confimar.",
   mDeleteProjectLotConfirm: "Los proyectos en esta carpeta inteligente <b>no</b> serán eliminados.",
   mDeleteProjectConfirm: "Por favor, escribe el nombre del proyecto para confirmar.",
+  mDeleteSublistConfirm: "Tasks in this sublist will <b>not</b> be deleted.",
   mDeleteAccountContent:
     "Estás a punto de <strong>eliminar definitivamente</strong> tu cuenta de usuario, "
     "<b>[=email]</b>, y todos los datos asociados.",

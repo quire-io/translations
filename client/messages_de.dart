@@ -689,6 +689,7 @@ const deClient = const <String, String> {
   mDeleteOrganizationConfirm: "Bitte geben Sie zur Bestätigung den Namen der Organisation ein.",
   mDeleteProjectLotConfirm: "Bitte geben Sie zur Bestätigung den Namen des Smart Ordners ein.",
   mDeleteProjectConfirm: "Bitte geben Sie zur Bestätigung den Namen des Projekts ein.",
+  mDeleteSublistConfirm: "Tasks in this sublist will <b>not</b> be deleted.",
   mDeleteAccountContent:
     "Sie möchten Ihr Quire Benutzerkonto, <b>[=email]</b>, "
     "und alle damit verbundenen Daten <strong>unwiderruflich löschen</strong>.",

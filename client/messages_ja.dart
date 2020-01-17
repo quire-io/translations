@@ -695,6 +695,7 @@ const jaClient = const <String, String> {
   mDeleteOrganizationConfirm: "確認のため、組織名を入力してください。",
   mDeleteProjectLotConfirm: "このスマートフォルダー内のプロジェクトは削除<b>されません</b>。",
   mDeleteProjectConfirm: "確認のため、プロジェクト名を入力してください。",
+  mDeleteSublistConfirm: "Tasks in this sublist will <b>not</b> be deleted.",
   mDeleteAccountContent:
     "ユーザーアカウント<b>[=email]</b>と関連データを"
     "<strong>永久に削除</strong>します。",
