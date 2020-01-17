@@ -1,6 +1,6 @@
 //Copyright (C) 2013 Potix Corporation. All Rights Reserved.
-//History: Fri, Jan 23, 2020  7:31:11 PM
-// Author: enishemedoglu
+//History: Fri, Aug 23, 2013  7:31:11 PM
+// Author: tomyeh
 
 part of server.intl.messages_all;
 
