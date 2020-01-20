@@ -497,7 +497,6 @@ const enClient = const <String, String> {
 
   mDueDate: "Due date",
   mDueDateGroupComing: "Upcoming",
-  mDueDateGroupComingShort: "In 5d",
 
   mAssigneePickerPlaceholder: "Set assignee by name or email",
   mFollowerPickerPlaceholder: "Add follower by name or email",
@@ -1078,6 +1077,12 @@ const enClient = const <String, String> {
   mArchiveBoardOptionMigrate: 'Move remaining tasks to a new board',
   mArchiveBoardOptionLeaveTasks: 'Leave remaining tasks in the current board',
   mArchiveBoardOptionMigrateButton: 'Archive & Create New Board',
+
+  mChangeBoardTitle: 'Change Board',
+  mChangeBoardContent: 
+    'Move tasks from [=board] to this board?',
+  mChangeBoardContentPlural: 
+    'Move tasks from [=board] and [=count] others to this board?',
 
 
   mAddTaskToBoardTitle: 'Add Existing Tasks',
