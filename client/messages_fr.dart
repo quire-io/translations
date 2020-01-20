@@ -838,7 +838,7 @@ const frClient = const <String, String> {
   mArchiveBoardOptionMigrate: 'Déplacer les tâches restantes vers un nouveau tableau',
   mArchiveBoardOptionLeaveTasks: 'Laisser les tâches restantes dans ce tableau',
   mArchiveBoardOptionMigrateButton: 'Archiver et Créer un nouveau tableau',
-  mChangeBoardTitle: 'Change Board',
+  mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 'Move tasks from [=board] and [=count] others to this board?',
   mAddTaskToBoardTitle: 'Ajouter des tâches existantes',

@@ -843,7 +843,7 @@ const ptClient = const <String, String> {
   mArchiveBoardOptionMigrate: 'Mover as tarefas restantes para um novo quadro',
   mArchiveBoardOptionLeaveTasks: 'Deixar as tarefas restantes no quadro atual',
   mArchiveBoardOptionMigrateButton: 'Arquivar e Criar Novo Quadro',
-  mChangeBoardTitle: 'Change Board',
+  mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 'Move tasks from [=board] and [=count] others to this board?',
   mAddTaskToBoardTitle: 'Adicionar Tarefas Existentes',

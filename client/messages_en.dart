@@ -1078,7 +1078,7 @@ const enClient = const <String, String> {
   mArchiveBoardOptionLeaveTasks: 'Leave remaining tasks in the current board',
   mArchiveBoardOptionMigrateButton: 'Archive & Create New Board',
 
-  mChangeBoardTitle: 'Change Board',
+  mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 
     'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 

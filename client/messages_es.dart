@@ -839,7 +839,7 @@ const esClient = const <String, String> {
   mArchiveBoardOptionMigrate: 'Mover tareas restantes a un nuevo tablero',
   mArchiveBoardOptionLeaveTasks: 'Dejar tareas restantes en el tablero actual',
   mArchiveBoardOptionMigrateButton: 'Archivar y Crear nuevo tablero',
-  mChangeBoardTitle: 'Change Board',
+  mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 'Move tasks from [=board] and [=count] others to this board?',
   mAddTaskToBoardTitle: 'Añadir Tareas Existentes',

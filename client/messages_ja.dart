@@ -839,7 +839,7 @@ const jaClient = const <String, String> {
   mArchiveBoardOptionMigrate: 'その他のタスクを新しいボードに移動',
   mArchiveBoardOptionLeaveTasks: 'その他のタスクを現在のボードに残す',
   mArchiveBoardOptionMigrateButton: 'ボードをアーカイブ＆新規作成',
-  mChangeBoardTitle: 'Change Board',
+  mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 'Move tasks from [=board] and [=count] others to this board?',
   mAddTaskToBoardTitle: '既存のタスクを追加',
