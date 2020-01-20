@@ -449,7 +449,7 @@ const jaWeb = const <String, String> {
     "<li><kbd>Ctrl + X (⌘ + X for MacOS)</kbd> &mdash; To cut selected task(s)</li>"
     "<li><kbd>Ctrl + C (⌘ + C for MacOS)</kbd> &mdash; To copy selected task(s)</li>"
     "<li><kbd>Ctrl + V (⌘ + V for MacOS)</kbd> &mdash; To paste selected task(s)</li>"
-    "<li><kbd>Shift + ( or )</kbd> &mdash; To switch views</li>"
+    "<li><kbd>( or )</kbd> &mdash; To switch views</li>"
     "</ul>"
     "<p>Sublist behaves as a mirror of the main list, so whatever the change you make for one of your sublists, it will affect your main list.</p>"
     "<p>You can even drag and drop the tasks to move them to another sublist for better organization.</p>",
