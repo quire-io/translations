@@ -172,6 +172,7 @@ const trClient = const <String, String> {
   mOR: "veya",
   mDone: "Yapıldı",
   mRename: "Yeni isim ver",
+  mMove: "Move",
   mCopy: "Kopyala",
   mCopied: "Kopyalandı",
   mCopyLink: "Baplantıyı kopyala",

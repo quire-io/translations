@@ -172,6 +172,7 @@ const deClient = const <String, String> {
   mOR: "oder",
   mDone: "Fertig",
   mRename: "Umbenennen",
+  mMove: "Move",
   mCopy: "Kopieren",
   mCopied: "Kopiert",
   mCopyLink: "Link kopieren",

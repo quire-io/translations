@@ -178,6 +178,7 @@ const jaClient = const <String, String> {
   mOR: "または",
   mDone: "完了",
   mRename: "名前を変更",
+  mMove: "Move",
   mCopy: "コピー",
   mCopied: "コピーしました",
   mCopyLink: "リンクをコピー",

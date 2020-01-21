@@ -221,6 +221,7 @@ const enClient = const <String, String> {
   mOR: "or",
   mDone: "Done",
   mRename: "Rename",
+  mMove: "Move",
   mCopy: "Copy",
   mCopied: "Copied",
   mCopyLink: "Copy link",

@@ -178,6 +178,7 @@ const itClient = const <String, String> {
   mOR: "o",
   mDone: "Fatto",
   mRename: "Rinomina",
+  mMove: "Move",
   mCopy: "Copia",
   mCopied: "Copiato",
   mCopyLink: "Copia collegamento",

@@ -183,6 +183,7 @@ const ptBrClient = const <String, String> {
   mOR: "ou",
   mDone: "Concluído",
   mRename: "Renomear",
+  mMove: "Move",
   mCopy: "Copiar",
   mCopied: "Copied",
   mCopyLink: "Copiar link",
