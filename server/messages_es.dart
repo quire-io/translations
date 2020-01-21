@@ -30,7 +30,7 @@ const esServer = const <String, String> {
   mSidebarArchive: "Archivados",
   mSidebarRecycleBin: 'Papelera de reciclaje',
   mSidebarMembers: "MIEMBROS",
-  mAppCategoriesU: 'CATEGORIES',
+  mAppCategoriesU: 'CATEGORÍAS',
   mAppCategory: 'Categoría',
   mSidebarResetOrder: "Restablecer orden por defecto",
   mSignup: "Registro",
@@ -512,7 +512,7 @@ incluyendo notificaciones de cuenta y actividades de tareas.</p>
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) ha eliminado "[=host]".</p>
+<p>Te escribimos para hacerte saber que [=member] ([=memberEmail]) ha eliminado "[=host]".</p>
 
 [=footer]
 ''',
@@ -627,13 +627,13 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   "AT$atUnpublishOApp": "[=who] sin publicar [=value]",
   "AT$atAddShare": "[=who] creó un enlace compartido, [=value], de [=what]",
   "AT$atRemoveShare": "[=who] eliminó un enlace compartido, [=value], de [=what]",
-  "AT$atAddBoard": "[=who] added the board [=value] to [=what]",
+  "AT$atAddBoard": "[=who] añadió el tablero [=value] a [=what]",
   "AT$atRemoveBoard": "[=who] removed the board [=value] from [=what]",
   "AT$atEditBoard": "[=who] editó el tablero [=value]",
   "AT$atAddTaskState": "[=who] añadió [=extra] al tablero [=value] en [=what]",
   "AT$atRemoveTaskState": "[=who] eliminó [=extra] del tablero [=value] en [=what]",
-  "AT$atAddSublist": "[=who] added the sublist [=value] to [=what]",
-  "AT$atRemoveSublist": "[=who] removed the sublist [=value] from [=what]",
+  "AT$atAddSublist": "[=who] añadió el sublistado [=value] a [=what]",
+  "AT$atRemoveSublist": "[=who] eliminó el sublistado [=value] de [=what]",
   "AT$atSlackInstall": "[=who] conectó [=what] al Slack de [=value]",
   "AT$atSlackUninstall": "[=who] desconectó [=what] del Slack de [=value]",
   "AT$atExportOrganization": "[=who] exportó [=what]",
@@ -745,12 +745,12 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mSettingOptionComment: "Comentar",
   mSettingOptionCommentNewAtTop: "Los más nuevos al principio",
   mSettingOptionCommentOldAtTop: "Los más antiguos al principio",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
+  mSettingOptionCommentEditByMember: "Permite editar comentarios publicados por otros miembros del proyecto",
   mSettingOptionUnarchiveTask: "Volver a mostrar tareas peekaboo",
   mSettingOptionUnarchiveTaskDesc: "Las tareas peekaboo no completadas se mostrarán de nuevo en la lista automáticamente tras el tiempo seleccionado.",
   mSettingOptionUnarchiveTaskNever: "Nunca",
   mSettingOptionUnarchiveTaskNDays: "[=days] días después",
-  mSettingOptionDateAndTime: "Date & time",
+  mSettingOptionDateAndTime: "Fecha y hora",
   mSettingOptionStartDesc: "Mostrar siempre la fecha de inicio cuando se establece la fecha",
   mSettingOptionTimeDesc: "Mostrar siempre la hora cuando se establece la fecha",
   mSettingOptionAssignee: "Múltiples asignados",
