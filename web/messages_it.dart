@@ -306,7 +306,7 @@ const itWeb = const <String, String> {
     "su attività selezionate e visualizzare il flusso di lavoro con la bacheca Kanban.",
   mBoardTutorialAddBoardTitle: "Assegna un nome alla tua bacheca",
   mBoardTutorialAddBoardContent:
-    "<p>Dopo aver elencato le centinaia di attività per l'evento \"Corsa di beneficenza per bambini"\", "
+    "<p>Dopo aver elencato le centinaia di attività per l'evento \"Corsa di beneficenza per bambini\", "
     "ora vorresti concentrarti su alcune attività cruciali nella fase iniziale. Basta creare una bacheca.</p>"
     '<p>Per aggiungere una bacheca, fai clic sul pulsante "Aggiungi Bacheca", e digita il nome della bacheca.</p>',
   mBoardTutorialAddBoardTip: "Suggerimento: è possibile creare più bacheche per le diverse fasi del progetto.",
