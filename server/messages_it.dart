@@ -1034,77 +1034,77 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mSlackLinkQuireAccountOK: 'Hai correttamente collegato il tuo Account Quire.',
   mSlackSimpleHelpTitle: 'Di seguito alcuni comandi per iniziare.',
   mSlackSimpleHelpAdd: 'Aggiungi un\' attività, e assegnala a membri della squadra',
-  mSlackSimpleHelpAddEsempio:
+  mSlackSimpleHelpAddExample:
     '`/quire add [nome attività] [@nome membro della squadra] [@nome membro della squadra]`\n'
     'Esempio: `/quire add Design nuovo logo @mario @chiara`',
   mSlackSimpleHelpComment: 'Aggiungi un commento all\' attività',
-  mSlackSimpleHelpCommentEsempio:
+  mSlackSimpleHelpCommentExample:
     '`/quire comment [ID attività] commento`\n'
     'Esempio: `/quire comment 123 Questo è fantastico!`',
   mSlackSimpleHelpFollow: 'Segui un\' attività o progetto',
-  mSlackSimpleHelpFollowEsempio:
+  mSlackSimpleHelpFollowExample:
     '`/quire follow [ID attività o ID progetto]`\n'
     'Esempio: `/quire follow 123`\n'
     'Esempio: `/quire follow Progetto_di_Sviluppo`',
   mSlackSimpleHelpMore: 'Altri comando sono disponibili qui `/quire help`.',
   mSlackHelpAdd: 'Aggiungi un\' attività',
-  mSlackHelpAddEsempio:
+  mSlackHelpAddExample:
     '`/quire add [nome attività]`\n'
     '`/quire add [under o after] [ID padre o fratello] [nome attività]`\n'
     'Esempio: `/quire add Design nuovo logo @mario @chiara\n'
     'Esempio: `/quire add under 10 Logo',
   mSlackHelpLink: 'Collega un progetto di Quire a questo canale di Slack',
-  mSlackHelpLinkEsempio:
+  mSlackHelpLinkExample:
     '`/quire link [ID progetto o URL progetto]`\n'
     'Esempio: `/quire link Development_Project`\n'
     'Esempio: `/quire link https://quire.io/w/development_project`',
   mSlackHelpUnLink: 'Scollega un progetto di Quire da questo canale di Slack',
-  mSlackHelpUnLinkEsempio: '`/quire unlink`',
+  mSlackHelpUnLinkExample: '`/quire unlink`',
   mSlackHelpListProject: 'Lista di tutti i progetti',
-  mSlackHelpListProjectEsempio: '`/quire list project`',
+  mSlackHelpListProjectExample: '`/quire list project`',
   mSlackHelpSearchProject: 'cerca progetti',
-  mSlackHelpSearchProjectEsempio:
+  mSlackHelpSearchProjectExample:
     '`/quire list project [chiave di ricerca 1] [chiave di ricerca 2]`\n'
     'Esempio: `/quire list project Development Marketing`',
   mSlackHelpListTask: 'Mostra attività recenti',
-  mSlackHelpListTaskEsempio: '`/quire list`',
+  mSlackHelpListTaskExample: '`/quire list`',
   mSlackHelpSearchTask: 'Ricerca attività',
-  mSlackHelpSearchTaskEsempio: '`/quire list [chiave di ricerca 1] [chiave di ricerca 2]`',
+  mSlackHelpSearchTaskExample: '`/quire list [chiave di ricerca 1] [chiave di ricerca 2]`',
   mSlackHelpViewTask: 'View specific tasks',
-  mSlackHelpViewTaskEsempio:
+  mSlackHelpViewTaskExample:
     '`/quire list [ID attività 1] [ID attività 2]`\n'
     'Esempio: `/quire list 123 456`',
   mSlackHelpListTag: 'Lista etichette',
-  mSlackHelpListTagEsempio: '`/quire list tag`',
+  mSlackHelpListTagExample: '`/quire list tag`',
   mSlackHelpListMember: 'Lista membri',
-  mSlackHelpListMemberEsempio: '`/quire list member`',
+  mSlackHelpListMemberExample: '`/quire list member`',
   mSlackHelpEdit: 'Modifica un\' attività',
-  mSlackHelpEditEsempio:
+  mSlackHelpEditExample:
     '`/quire edit [ID attività] nome`\n'
     'Esempio: `/quire edit 123 Design nuovo logo !1 @david`',
   mSlackHelpAssign: 'Assegna un\' attività',
-  mSlackHelpAssignEsempio:
+  mSlackHelpAssignExample:
     '`/quire assign [ID attività] [@nome membro della squadra] [!priorità] [#etichetta] [<inizio; scadenza>] [^bacheca]`\n'
     'Esempio: `/quire assign 123 @mario @chiara #design !1 <Oct 25>`\n'
     'Esempio: `/quire assign 123 +@david -@jess +#marketing`',
   mSlackHelpComment: 'Commenta un\' attività',
-  mSlackHelpCommentEsempio:
+  mSlackHelpCommentExample:
     '`/quire comment [ID attività] commento`\n'
     'Esempio: `/quire comment 123 Questa cosa è fantastica!`',
   mSlackHelpComplete: 'Completa attività',
-  mSlackHelpCompleteEsempio:
+  mSlackHelpCompleteExample:
     '`/quire complete [ID attività 1] [ID attività 2]`\n'
     'Esempio: `/quire complete 123 456`',
   mSlackHelpDelete: 'Elimina attività',
-  mSlackHelpDeleteEsempio:
+  mSlackHelpDeleteExample:
     '`/quire delete [ID attività 1] [ID attività 2]`\n'
     'Esempio: `/quire delete 123 456`',
   mSlackHelpFollowTask: 'Segui o smetti di seguire attività',
-  mSlackHelpFollowTaskEsempio:
+  mSlackHelpFollowTaskExample:
     '`/quire [follow o unfollow] [ID attività 1] [ID attività 2]`\n'
     'Esempio: `/quire follow 123 456`',
   mSlackHelpFollowProject: 'Segui o smetti di seguire progetti',
-  mSlackHelpFollowProjectEsempio:
+  mSlackHelpFollowProjectExample:
     '`/quire [follow o unfollow] project [ID progetto 1] [ID progetto 2]`\n'
     'Esempio: `/quire follow project Development_Project Marketing_Project`',
   mSlackNeedLinkProject: 'Devi collegare un progetti di Quire prima di proseguire.',
