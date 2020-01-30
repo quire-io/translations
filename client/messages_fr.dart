@@ -61,6 +61,7 @@ const frClient = const <String, String> {
   mCantMoveRoot: "Vous ne pouvez pas déplacer la tâche racine.",
   mCantMoveTask: "Vous ne pouvez pas déplacer [=task].",
   mCantMoveTaskTo: "Vous ne pouvez pas déplacer [=task] ici.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "Vous ne pouvez pas déplacer cette tâche au niveau des tâches personnelles.",
   mCantMoveExternalTeamRootTask: "Vous ne pouvez pas déplacer les tâches à la racine de l'équipe externe.",
   mCantMoveToExternalTeamRootTask: "Vous ne pouvez pas mettre cette tâche à la racine de l'équipe externe.",

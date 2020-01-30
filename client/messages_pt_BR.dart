@@ -66,6 +66,7 @@ const ptBrClient = const <String, String> {
   mCantMoveRoot: "Você não pode mover a tarefa raiz.",
   mCantMoveTask: "Você não pode mover [=task].",
   mCantMoveTaskTo: "Você não pode mover [=task] para aqui.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "Você não pode mover essa tarefa para o subnível de tarefas pessoais..",
   mCantMoveExternalTeamRootTask: "Você não pode mover tarefas raiz de Equipes Externas.",
   mCantMoveToExternalTeamRootTask: "Você não pode colocar essa tarefa em uma tarefa raiz da Equipe Externa.",

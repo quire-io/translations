@@ -55,6 +55,7 @@ const trClient = const <String, String> {
   mCantMoveRoot: "Kök görevi taşıyamazsınız.",
   mCantMoveTask: "[=task] görevini taşıyamazsınız.",
   mCantMoveTaskTo: "[=task] görevini buraya taşıyamazsınız.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "Bu görevi kişisel görevler alt-düzeyine taşıyamazsınız.",
   mCantMoveExternalTeamRootTask: "Dış Ekip kök görevlerini taşıyamazsınız.",
   mCantMoveToExternalTeamRootTask: "Bu görevi Dış Ekip kök görevine yerleştiremezsiniz.",

@@ -144,11 +144,11 @@ const itWeb = const <String, String> {
   mFeatureAppDirectoryDesc: "Aumenta la tua produttività con alcune integrazioni di alta qualità.",
   mPricingPageDesc:
     "<p>Molte persone ci chiedono informazioni sui prezzi.</p>"
-    "<p>Ma ci sono così tante idee interessanti ancora da esplorare! Vorremmo piuttosto concentrarci sul rendere Quire più fantastico, piuttosto che capire quale caratteristica appartiene a quale pacchetto.</p>"
-    "<p>Almeno fino alla prima metà del 2020.</p>"
-    "<p>In altre parole, per il momento, puoi goderti un account Quire gratuito con un massimo di 35 organizzazioni, 80 progetti e 30 membri.</p>"
-    "<p>E la buona notizia è, qualunque cosa tu stia già utilizzando fino ad allora, continuerà ad essere gratuito.</p>"
-    '<p>Hai qualche domanda? Sentiti libero di <a href="mailto:support@quire.io">contattarci.</a></p> ',
+    "<p>Ma ci sono così tante idee interessanti ancora da esplorare! Vorremmo piuttosto concentrarci sul rendere Quire più fantastico, piuttosto che capire quale caratteristica appartiene a quale pacchetto.</p>"
+    "<p>Almeno fino alla prima metà del 2020.</p>"
+    "<p>In altre parole, per il momento, puoi goderti un account Quire gratuito con un massimo di 35 organizzazioni, 80 progetti e 30 membri.</p>"
+    "<p>E la buona notizia è, qualunque cosa tu stia già utilizzando fino ad allora, continuerà ad essere gratuito.</p>"
+    '<p>Hai qualche domanda? Sentiti libero di <a href="mailto:support@quire.io">contattarci.</a></p> ',
   mCookieGDPRDesc: "Utilizziamo i cookie per assicurarti la migliore esperienza sul nostro sito Web. ",
   mSecurityPageTitle: 'Sicurezza in Quire',
   mSecurityPageDesc:
@@ -226,18 +226,18 @@ const itWeb = const <String, String> {
   mTutorialDetailPanelTitle: "Dagli alcuni dettagli",
   mTutorialDetailPanelContent:
     "<p>Molte volte, un'attività ha bisogno di un po' più di informazioni per essere eseguita senza problemi.</p>"
-    "<p>Puoi aggiungere dettagli &mdash; inclusa descrizione e allegati &mdash; all'attività "
-    "dopo aver fatto clic su “&lt;&lt;” nell'angolo in alto a destra. Puoi anche discutere, chattare "
-    "e interagire con i membri nei commenti lì nel riquadro dei dettagli.</p>"
-    '<p>Per aggiungere stili alla descrizione o al commento (es. renderlo in grassetto), controlla '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
+    "<p>Puoi aggiungere dettagli &mdash; inclusa descrizione e allegati &mdash; all'attività "
+    "dopo aver fatto clic su “&lt;&lt;” nell'angolo in alto a destra. Puoi anche discutere, chattare "
+    "e interagire con i membri nei commenti lì nel riquadro dei dettagli.</p>"
+    '<p>Per aggiungere stili alla descrizione o al commento (es. renderlo in grassetto), controlla '
+    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
   mTutorialDetailPanelTip: "Suggerimento: è possibile fare clic sull'icona “pin” per mantenere aperto il pannello dei dettagli.",
   mTutorialDragTaskTitle: "Organizza ciò che hai scaricato",
   mTutorialDragTaskContent:
     "<p>Cosa succede se hai compiti che sono nel posto sbagliato?</p>"
-    "<p>In Quire, puoi trascinarli nel punto corretto. "
-    "Ad esempio, sposta 'magliette, adesivi per paraurti e"
-    "bottiglie d'acqua gratuite' sotto il compito “Articoli promozionali”.</p>",
+    "<p>In Quire, puoi trascinarli nel punto corretto. "
+    "Ad esempio, sposta 'magliette, adesivi per paraurti e"
+    "bottiglie d'acqua gratuite' sotto il compito “Articoli promozionali”.</p>",
   mTutorialShortcutTitle: "Alcune scorciatoie utili",
   mTutorialShortcutContent:
     "<h3>Aggiungi & modifica</h3>"

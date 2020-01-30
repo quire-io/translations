@@ -55,6 +55,7 @@ const deClient = const <String, String> {
   mCantMoveRoot: "Die Hauptaufgabe kann nicht verschoben werden.",
   mCantMoveTask: "[=task] kann nicht verschoben werden.",
   mCantMoveTaskTo: "[=task] kann nicht nach hier verschoben werden.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "You cannot move this task to personal tasks sub-level.",
   mCantMoveExternalTeamRootTask: "You cannot move External Team root tasks.",
   mCantMoveToExternalTeamRootTask: "You cannot place this task to an External Team root task.",

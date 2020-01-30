@@ -61,6 +61,7 @@ const esClient = const <String, String> {
   mCantMoveRoot: "No puedes mover la tarea inicial.",
   mCantMoveTask: "No puedes mover [=task].",
   mCantMoveTaskTo: "No puedes mover [=task] aquí.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "No puedes mover esta tarea al subnivel de tareas personales.",
   mCantMoveExternalTeamRootTask: "No puedes mover las tareas raíz del Equipo Externo.",
   mCantMoveToExternalTeamRootTask: "No puedes poner esta tarea en una tarea raíz de Equipo externo.",

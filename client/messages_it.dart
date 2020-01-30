@@ -61,6 +61,7 @@ const itClient = const <String, String> {
   mCantMoveRoot: "Non puoi spostare l\' attività principale.",
   mCantMoveTask: "Non puoi muovere [=task].",
   mCantMoveTaskTo: "Non puoi muovere [=task] qui.",
+  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "Non puoi muovere questa attività al sotto livello attività personale.",
   mCantMoveExternalTeamRootTask: "Non puoi spostare attività principali delle Squadre Esterne.",
   mCantMoveToExternalTeamRootTask: "Non puoi mettere questa attività nell\' attività principale delle Squadre Esterne.",
