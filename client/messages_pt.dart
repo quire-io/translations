@@ -66,7 +66,6 @@ const ptClient = const <String, String> {
   mCantMoveRoot: "Não pode mover a tarefa base.",
   mCantMoveTask: "Não pode mover [=task].",
   mCantMoveTaskTo: "Não pode mover [=task] para aqui.",
-  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "Não pode mover esta tarefa para o sub-nível de tarefas pessoais.",
   mCantMoveExternalTeamRootTask: "Não pode mover tarefas raiz de Equipas Externas.",
   mCantMoveToExternalTeamRootTask: "Não pode colocar esta tarefa na tarefa raiz de uma Equipa Externa.",

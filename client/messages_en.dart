@@ -76,8 +76,6 @@ const enClient = const <String, String> {
     "You cannot move [=task].",
   mCantMoveTaskTo:
     "You cannot move [=task] here.",
-  mCantCutTaskToDifferentProject:
-    "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild:
     "You cannot move this task to personal tasks sub-level.",
   mCantMoveExternalTeamRootTask:

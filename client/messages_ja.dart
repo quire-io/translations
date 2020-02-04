@@ -61,7 +61,6 @@ const jaClient = const <String, String> {
   mCantMoveRoot: "レベル1のタスクを移動できません。",
   mCantMoveTask: "[=task]を移動できません。",
   mCantMoveTaskTo: "[=task]はここに移動できません。",
-  mCantCutTaskToDifferentProject: "You cannot cut and paste tasks from different project.",
   mCantMoveTaskToPersonalChild: "このタスクは個人タスクの子タスクに設定できません。",
   mCantMoveExternalTeamRootTask: "外部チームのレベル1のタスクは移動できません。",
   mCantMoveToExternalTeamRootTask: "このタスクは外部チームのレベル1のタスクに設定できません。",
