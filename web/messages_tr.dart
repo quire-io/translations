@@ -421,7 +421,7 @@ const trWeb = const <String, String> {
     'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
     "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list. You cannot select the root task only.</p>"
+    "added to the list.</p>"
     "<p>However, you can choose to select the subtasks separately from the root task "
     "and add to the newly created sublist.</p>"
     "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "

@@ -412,20 +412,20 @@ const esWeb = const <String, String> {
   mSublistTutorialAddSublistTip: "Consejo: Puedes crear tantas sublistas como quieras para un proyecto.",
   mSublistTutorialPickTaskTitle: "Select las Tareas Correctas y Añádelas a una Sublista",
   mSublistTutorialPickTaskContent:
-    '<p>Pongamos que estás trabajando en un proyecto de "Carrera Benéfica Infantil" '
-    'que incluye cientos de tareas. Hay al menos 10 personas que colaboran en él. '
-    'No puedes estar creando distintas etiquetas para organizar las tareas de las que estás a cargo. '
-    'No puedes hacer Peekaboo para ocultar las tareas irrelevantes porque otros miembros del equipo necesitan seguir viéndolas.</p>'
-    '<p>Respira hondo y crea tu primera sublista para resolver el problema. Simplemente selecciona las tareas importantes '
-    'que quieras agrupar y trasladar una lista separada. Ahora ya tienes tu propia lista de tareas en la que centrarte, '
-    'sin mayores distracciones.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Cuando seleccionas la tarea raíz y la agregas a la sublista, sus subtareas serán automáticamente "
-    "añadidas a la lista. No puedes seleccionar sólo la tarea raíz.</p>"
-    "<p>Sin embargo, puedes elegir seleccionar las subtareas de la tarea raíz por separado "
-    "y añadirlas a la recién creada sublista.</p>"
-    "<p>Para diferenciar la sublista recién creada de la lista principal, puede agregar algunos iconos divertidos "
-    "y cambiar el color del icono de la sublista.</p>",
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Comparte la Sublista con la Gente Adecuada",
   mSublistTutorialShareContent:
     "<p>Tras elegir las tareas y agregarlas a una sublista, también podrás "
