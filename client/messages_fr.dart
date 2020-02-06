@@ -382,7 +382,7 @@ const frClient = const <String, String> {
   mEditStatus: "Modifier la colonne",
   mAddSublist: "Ajouter une sous-liste",
   mEditSublist: "Modifier la sous-liste",
-  mAddTabTip: "Autres affichages",
+  mAddTabTip: "Ajouter d'autres vues",
   mAddBoardTip: "Vous pouvez visualiser vos tâches dans un ou plusieurs tableaux.",
   mAddSublistTip: "Vous pouvez vous concentrer sur les tâches importantes et les voir dans une ou plusieurs sous-listes.",
   mAddDesc: "Ajouter une description",
