@@ -222,7 +222,7 @@ const itWeb = const <String, String> {
     "<p>Quando aggiungi un'attività, puoi digitare <strong>&lt;&gt;</strong> per aggiungere"
     "<strong>scadenz</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>,"
     "e <strong>#</strong> per aggiungere un\' <strong>etichetta</strong>, ecc."
-    "In questo modo: “Crea un elenco di articoli promozionali &lt;Friday&gt; @Davide #Promozione”.</p>",
+    "In questo modo: “Crea un elenco di articoli promozionali &lt;Venerdì&gt; @Davide #Promozione”.</p>",
   mTutorialDetailPanelTitle: "Dagli alcuni dettagli",
   mTutorialDetailPanelContent:
     "<p>Molte volte, un'attività ha bisogno di un po' più di informazioni per essere eseguita senza problemi.</p>"
@@ -236,7 +236,7 @@ const itWeb = const <String, String> {
   mTutorialDragTaskContent:
     "<p>Cosa succede se hai compiti che sono nel posto sbagliato?</p>"
     "<p>In Quire, puoi trascinarli nel punto corretto. "
-    "Ad esempio, sposta 'magliette, adesivi per paraurti e"
+    "Ad esempio, sposta 'magliette, adesivi per paraurti e "
     "bottiglie d'acqua gratuite' sotto il compito “Articoli promozionali”.</p>",
   mTutorialShortcutTitle: "Alcune scorciatoie utili",
   mTutorialShortcutContent:
@@ -401,7 +401,7 @@ const itWeb = const <String, String> {
   mSublistTutorialTitle: "Quire Tutorial - Sottoliste",
   mSublistTutorialDesc:
     "Gestire un elenco di attività condivise sempre crescente tra i membri del team non è mai stato così facile con le Sottoliste di Quire!<br>"
-    'Seleziona diverse attività importanti ed aggiungile a <a href="/blog/p/Quire-sublist.html">Sottoliste Personalizzata</a> '
+    'Seleziona diverse attività importanti ed aggiungile a <a href="/blog/p/Quire-sublist.html">Sottoliste Personalizzate</a> '
     'così puoi concentrarti sulle attività giuste al momento giusto, senza distrazioni.',
   mSublistTutorialAddSublistTitle: "Dai un nome alla tua Sottolista",
   mSublistTutorialAddSublistContent:

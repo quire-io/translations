@@ -24,7 +24,7 @@ const itServer = const <String, String> {
   mOrganizationLC: "organizzazione",
   mSidebarTitleMyTasks: "LE MIE ATTIVITA'",
   mSidebarCrossProjects: "CARTELLE INTELLIGENTI",
-  mSidebarProjects: "PROJECTS",
+  mSidebarProjects: "PROGETTI",
   mSidebarFav: "PREFERITI",
   mSidebarRec: "RECENTI",
   mSidebarArchive: "Archiviati",
@@ -69,7 +69,7 @@ const itServer = const <String, String> {
   mTerms: "Termini",
   mTermsOFService: "Termini di Servizio",
   mFaq: "FAQ",
-  mPricing: "PRezzo",
+  mPricing: "Prezzo",
   mGetIphone: "Scarica la App per iPhone",
   mGetAndroid: "Scarica la App per Android",
   mGetChromeExtension: "Installa l\' estenzione per Chrome",
@@ -197,7 +197,7 @@ const itServer = const <String, String> {
   mInviteNewMembers: "Invita nuovi membri",
   mContactUs: "Contattaci",
   mFeedback: "Feedback",
-  mFeedbackSubject: "Soggetto",
+  mFeedbackSubject: "Oggetto",
   mFeedbackContent: "Dicci come possiamo aiutarti",
   mSend: "Invia",
   mPostFeedbackPublic: "Abilita altri la visualizzazione da altri utenti di Quire",
@@ -231,8 +231,8 @@ const itServer = const <String, String> {
     'Questa applicazione è stata vietata per aver violato i nostri <a href="/terms" target="_blank">Termini di Servizio</a>. '
     "Non puoi pubblicare l'app fino a [=when].",
   mMyTasksEmptyMessage: "Urrà~ nessuna attività in scadenza!",
-  mSignupOrganization: "Organizzazioen dell'[=user]",
-  mSignupProject: "Progetto dell'[=user]",
+  mSignupOrganization: "Organizzazione di [=user]",
+  mSignupProject: "Progetto di [=user]",
   mEmailWelcomeSubject: "Come ti trovi con Quire fino ad ora?",
   mEmailWelcomeContent: '''
 [=header]
@@ -262,7 +262,7 @@ per condividerti i nostri consigli per utilizzare Quire al meglio e per racconta
 
 <hr class="end"/>
 
-<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">disiscriviti</a>.</p>
+<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">cancella l\'iscrizione</a>.</p>
 ''',
   mEmailValueProposalSubject: "Potresti perderti funzionalità di Quire",
   mEmailValueProposalContent: '''
@@ -298,7 +298,7 @@ in tempo reale.</p>
 
 <hr class="end"/>
 
-<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">disiscriviti</a>.</p>
+<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">cancella l\'iscrizione</a>.</p>
 ''',
   mEmailLeavingSubject: "Non ti vediamo da un pò su Quire",
   mEmailLeavingContent: '''
@@ -323,7 +323,7 @@ una telefonata con te.</p>
 
 <hr class="end"/>
 
-<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">disiscriviti</a>.</p>
+<p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">cancella l\'iscrizione</a>.</p>
 ''',
   mEmailSignupSubject: 'Completa la tua registrazione a Quire',
   mEmailSignupContent: '''
@@ -384,7 +384,7 @@ una soluzione di gestione progetti che gli piace.</p>
   mEmailPerUpdateContent: '''
 [=header]
 
-<p>Ti scriviamo per farti sapere:</p>
+<p>Ti scriviamo per farti sapere che:</p>
 
 [=digest]
 
@@ -392,7 +392,7 @@ una soluzione di gestione progetti che gli piace.</p>
 
 <hr class="end"/>
 
-<p>Stai ricevento questa email perchè stai seguendo [=source]. Per disiscriverti, <a href="[=unsubscribe]">Clicca qui</a>.</p>
+<p>Stai ricevento questa email perchè stai seguendo [=source]. Per cancellare l\'iscrizione, <a href="[=unsubscribe]">Clicca qui</a>.</p>
 ''',
   mEmailDigestSubject: "Quire: Un totale di [=count] notifiche per te",
   mEmailDigestContent: '''
@@ -406,7 +406,7 @@ una soluzione di gestione progetti che gli piace.</p>
 
 <hr class="end"/>
 
-<p>Stai ricevento questa email perchè hai richiestao di ricevere aggiornamenti per le attività. Per modificare ogni quanto vuoi riceverle, <a href="https://quire.io/r/setting?tab=options#email">clicca qui</a>. Per disiscriverti, <a href="[=unsubscribe]">clicca qui</a>.</p>
+<p>Stai ricevento questa email perchè hai richiestao di ricevere aggiornamenti per le attività. Per modificare ogni quanto vuoi riceverle, <a href="https://quire.io/r/setting?tab=options#email">clicca qui</a>. Per cancellare l\'iscrizione, <a href="[=unsubscribe]">clicca qui</a>.</p>
 ''',
   mEmailEmailChangeSubject: "Quire: Si prega di verificare il nuovo indirizzo email",
   mEmailEmailChangeContent: '''
@@ -487,7 +487,7 @@ incluse notifiche relative all\' account e alle attività.</p>
 
 <hr class="end"/>
 
-<p>Stai ricevendo questa email perchè hai richiesto di ricevere aggionamenti via email. Per disiscriversi, si prega di <a href="[=unsubscribe]">cliccare qui</a>.</p>
+<p>Stai ricevendo questa email perchè hai richiesto di ricevere aggionamenti via email. Per cancellare l\'iscrizione, si prega di <a href="[=unsubscribe]">cliccare qui</a>.</p>
 ''',
   mEmailContentFooter:
     '<p class="end-row-1">Grazie,</p>'
@@ -646,27 +646,27 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   "AT$atxGithubError":
     "Non possiamo accedere [=value] a causa di [=extra]. "
     "Si prega di controllare le configurazioni di Github per [=what].",
-  mUnsubscribe: "Disiscrizione",
-  mUnsubscribeSuccess: "Hai disiscritto [=target] correttamente.",
+  mUnsubscribe: "Cancellare Iscrizione",
+  mUnsubscribeSuccess: "Hai cancellare l\'iscrizione [=target] correttamente.",
   mUnsubscribeTargetFailed:
-    'Oops... fallita disiscrizione <code>[=target]</code>. Potrebbe essere stata rimossa. '
+    'Oops... fallita cancellazione dell\'iscrizione <code>[=target]</code>. Potrebbe essere stata rimossa. '
     'Si prega di <a href="/w">sfogliare le tue attività qui</a>.',
   mUnsubscribeFailed:
-    'Ci dispiace, il link di disiscrizione è scaduto. '
+    'Ci dispiace, il link di cancellazione dell\'iscrizione è scaduto. '
     'Si prega di aggiornare <a href="/r/setting">le tue preferenze qui</a>.',
-  mUnsubscribeAutoSuccess: "([=email]) hai disiscritto [=target] correttamente.",
-  mUnsubscribeAll: "([=email]) hai disiscritto notifiche e messaggi da Quire con successo.",
+  mUnsubscribeAutoSuccess: "([=email]) hai cancellare l\'iscrizione [=target] correttamente.",
+  mUnsubscribeAll: "([=email]) hai cancellare l\'iscrizione a notifiche e messaggi da Quire con successo.",
   mKeyShortcuts: 'Scorciatoie da tastiera (F1)',
   mKeyShortcutsTitle: 'Scorciatoie da tastiera',
   mKeyNavigate: 'Naviga attività e funzioni diverse',
-  mKeyMoveTask: 'Muove attività verticalmente e orizzontalmente',
+  mKeyMoveTask: 'Muovi attività verticalmente e orizzontalmente',
   mKeyMultipleSelect: 'Seleziona più attività',
   mKeyF1: 'Scorciatoie da tastiera',
   mKeyEditTask: 'Modifica nome attività',
   mKeyEditTaskDesc: 'Modifica descrizione attività',
-  mKeyCreateRootTask: 'Aggiunge una nuova attività al primo livello',
-  mKeyCreateTask: 'Aggiunge una nuova attività',
-  mKeyCreateSubtask: 'Aggiunge una nuova sottoattività',
+  mKeyCreateRootTask: 'Aggiungi una nuova attività al primo livello',
+  mKeyCreateTask: 'Aggiungi una nuova attività',
+  mKeyCreateSubtask: 'Aggiungi una nuova sottoattività',
   mKeyDeleteTask: 'Elimina le attività selezionate',
   mKeyCollapseTask: 'Comprime o espande le attività per livello',
   mKeySwitchMyTaskView: 'Lancia o chiudi Le Mie Attività',
@@ -684,9 +684,9 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mKeyQuote: 'Quota il testo selezionato nella tua risposta',
   mKeyComment: 'Commenta l\' attività selezionata',
   mKeySelfAssign: 'Assegnati l\' attività selezionata',
-  mKeyAssignTask: 'Amministra l\' attività selezionata',
+  mKeyAssignTask: 'Assegna l\' attività selezionata',
   mKeyAssignTaskProperties: 'assenga,stato,etichetta,scadenza,priorità,bacheca',
-  mKeyIndent: 'Rientra attività in modifica',
+  mKeyIndent: 'Indenta attività in modifica',
   mKeyToggleHint: 'Mostra ID attività e altro',
   mKeyCopyHint: "Copia attività selezionata",
   mKeyCutHint: "Taglia attività selezionata",
@@ -850,7 +850,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mCompany: "Azienda",
   mActive: "Incompleta",
   mEmailNotifications: "Notifiche Email",
-  mPerUpdate: "Per Update",
+  mPerUpdate: "Per Aggiornamento",
   mHourly: "Ogni Ora",
   mDaily: "Ogni Giorno",
   mWeekly: "Settimanalmente",
@@ -1252,7 +1252,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileUserName: "Nome utente",
   mMobileAttachmentAdd: "Aggiungi allegato",
   mMobileCommentPost: "Invia commento",
-  mMobileFeedbackFieldRequired: "Soggetto e Commento sono richiesti",
+  mMobileFeedbackFieldRequired: "Oggetto e Commento sono richiesti",
   mMobileFeedbackTitle: "Hai una domanda per noi?\nSiamo tutti orecchie!",
   mMobileNewProject: "Nuovo Progetto",
   mMobileNewProjectLot: "Nuova Cartella Intelligente",
