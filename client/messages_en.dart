@@ -219,6 +219,7 @@ const enClient = const <String, String> {
   mMerge: "Merge",
   mArchive: "Archive",
   mArchived: "Archived",
+  mUnarchive: "Unarchive",
   mOR: "or",
   mDone: "Done",
   mRename: "Rename",
@@ -764,11 +765,6 @@ const enClient = const <String, String> {
 
   mMenuMore: "More",
 
-  mMenuDuplicate: "Duplicate...",
-  mMenuTransfer: "Transfer...",
-  mMenuArchive: "Archive...",
-  mMenuUnarchive: "Unarchive",
-  mMenuDelete: "Delete...",
   mMenuAddProject: "Add project...",
   mMenuProfile: "Profile",
   mMenuAccount: "Account Settings",
