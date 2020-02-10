@@ -444,12 +444,10 @@ const jaWeb = const <String, String> {
   mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
   mSublistTutorialOrganizeContent:
     "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Here are some useful shortcuts for you to quickly rearrange your sublists.</p>"
-    "<ul>"
-    "<li><kbd>( or )</kbd> &mdash; To switch views</li>"
-    "</ul>"
-    "<p>Sublist behaves as a mirror of the main list, so whatever the change you make for one of your sublists, it will affect your main list.</p>"
-    "<p>You can even drag and drop the tasks to move them to another sublist for better organization.</p>",
+    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>[=img]</p>"
+    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
+    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
   mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
   mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
   mSublistTutorialTodoContent:

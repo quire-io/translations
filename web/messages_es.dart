@@ -443,13 +443,11 @@ const esWeb = const <String, String> {
   mSublistTutorialSmartNavigationTip: "Consejo: siempre puedes mover las pestañas de la sublista para organizar sus posiciones.",
   mSublistTutorialOrganizeTitle: "Organiza las Tareas entre Distintas Sublistas",
   mSublistTutorialOrganizeContent:
-    "<p>¿Qué ocurre si quieres reorganizar las tareas entre distintas sublistas?</p>"
-    "<p>He aquí algunos atajos útiles para reorganizar rápidamente tus sublistas.</p>"
-    "<ul>"
-    "<li><kbd>( o )</kbd> &mdash; Para cambiar vistas</li>"
-    "</ul>"
-    "<p>La sublista se comporta como un reflejo de la lista principal, por lo que sea cual sea el cambio que realices en una de sus sublistas, afectará a tu lista principal.</p>"
-    "<p>Incluso puedes arrastrar y soltar las tareas para moverlas a otra sublista, para una mejor organización.</p>",
+    "<p>What if you want to arrange the tasks between several sublists?</p>"
+    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>[=img]</p>"
+    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
+    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
   mSublistTutorialOrganizeTip: "Consejo: ¡Siempre puedes volver a la lista principal para ver el panorama general de tu proyecto!",
   mSublistTutorialTodoTitle: "Enfréntate a una abrumadora lista de tareas pendientes de forma brillante",
   mSublistTutorialTodoContent:
