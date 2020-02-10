@@ -172,6 +172,7 @@ const frClient = const <String, String> {
   mCopyOF: "Copie de [=name]",
   mTransfer: "Transférer",
   mDuplicate: "Dupliquer",
+  mShare: "Share",
   mMerge: "Fusionner",
   mArchive: "Archiver",
   mArchived: "Archivé",

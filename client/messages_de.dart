@@ -166,6 +166,7 @@ const deClient = const <String, String> {
   mCopyOF: "Kopie von [=name]",
   mTransfer: "Übertragen",
   mDuplicate: "Duplizieren",
+  mShare: "Share",
   mMerge: "Zusammenführen",
   mArchive: "Archivieren",
   mArchived: "Archiviert",

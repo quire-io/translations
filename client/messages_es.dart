@@ -172,6 +172,7 @@ const esClient = const <String, String> {
   mCopyOF: "Copia de [=name]",
   mTransfer: "Transferir",
   mDuplicate: "Duplicar",
+  mShare: "Share",
   mMerge: "Fusionar",
   mArchive: "Archivo",
   mArchived: "Archivado",

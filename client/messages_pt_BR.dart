@@ -177,6 +177,7 @@ const ptBrClient = const <String, String> {
   mCopyOF: "Cópia de [=name]",
   mTransfer: "Transferir",
   mDuplicate: "Duplicar",
+  mShare: "Share",
   mMerge: "Juntar",
   mArchive: "Arquivar",
   mArchived: "Arquivado",

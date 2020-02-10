@@ -172,6 +172,7 @@ const jaClient = const <String, String> {
   mCopyOF: "[=name]のコピー",
   mTransfer: "移動",
   mDuplicate: "複製",
+  mShare: "Share",
   mMerge: "統合",
   mArchive: "アーカイブ",
   mArchived: "アーカイブされました",

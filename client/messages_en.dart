@@ -215,6 +215,7 @@ const enClient = const <String, String> {
   mCopyOF: "Copy of [=name]",
   mTransfer: "Transfer",
   mDuplicate: "Duplicate",
+  mShare: "Share",
   mMerge: "Merge",
   mArchive: "Archive",
   mArchived: "Archived",

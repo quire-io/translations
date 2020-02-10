@@ -177,6 +177,7 @@ const ptClient = const <String, String> {
   mCopyOF: "Cópia de [=name]",
   mTransfer: "Transferir",
   mDuplicate: "Duplicar",
+  mShare: "Share",
   mMerge: "Fundir",
   mArchive: "Arquivar",
   mArchived: "Arquivado",

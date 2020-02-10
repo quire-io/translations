@@ -166,6 +166,7 @@ const trClient = const <String, String> {
   mCopyOF: "[=name] kopyası",
   mTransfer: "Aktar",
   mDuplicate: "Kopyasını oluştur",
+  mShare: "Share",
   mMerge: "Birleştir",
   mArchive: "Arşivle",
   mArchived: "Arşivlendi",
