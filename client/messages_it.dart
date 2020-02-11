@@ -172,7 +172,7 @@ const itClient = const <String, String> {
   mCopyOF: "Copia di [=name]",
   mTransfer: "Trasferisci",
   mDuplicate: "Duplica",
-  mShare: "Share",
+  mShare: "Condividi",
   mMerge: "Unisci",
   mArchive: "Archivia",
   mArchived: "Archiviato",

@@ -857,14 +857,14 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mStartedAt: "Iniziata",
   mCompletedAt: "Completata",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "New tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mUpdateNotifications: "All updates",
-  mSettingManageReminder: "Manage reminder settings",
+    "Puoi scegliere quali notifiche desideri ricevere selezionando le seguenti opzioni. "
+    "Questa impostazione si applica solo al tuo account anziché a tutti i membri di questo progetto.",
+  mAssignNotifications: "Nuove attività assegnate a me",
+  mCommentNotifications: "Nuovi commenti",
+  mUpdateNotifications: "Tutti gli aggiornamenti",
+  mSettingManageReminder: "Gestisci le impostazioni dei promemoria",
   mSendActivityNotification: "Invia Notifiche attività",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
+  mSendActivityNotificationDesc: "È possibile personalizzare le notifiche che si desidera ricevere dalla sezione delle impostazioni del progetto.",
   mActivityNotice: "Notifiche Attività",
   mReceiveBlogPosts: "Nuovi blog posts",
   mReceivePolicyUpdates: "Aggiornamenti riguardo abbonamenti e politiche di Quire",

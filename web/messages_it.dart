@@ -308,7 +308,7 @@ const itWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Dopo aver elencato le centinaia di attività per l'evento \"Corsa di beneficenza per bambini\", "
     "ora vorresti concentrarti su alcune attività cruciali nella fase iniziale. Basta creare una bacheca.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
+    '<p>Per aggiungere una bacheca, clicca sul bottone "+", seleziona Aggiungi Bacheca e digita il nome della bacheca.</p>',
   mBoardTutorialAddBoardTip: "Suggerimento: è possibile creare più bacheche per le diverse fasi del progetto.",
   mBoardTutorialAssignBoardTitle: "Inizia ad aggiungere attività alla bacheca",
   mBoardTutorialAssignBoardContent:
@@ -443,11 +443,11 @@ const itWeb = const <String, String> {
   mSublistTutorialSmartNavigationTip: "Suggerimento: puoi sempre spostare le schede delle sottoliste per riposizionarle.",
   mSublistTutorialOrganizeTitle: "Organizza le attività tra diverse sottoliste",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>Cosa fare se si vogliono organizzare le attività tra più sottoliste? </p>"
+    "<p>Basta trascinare e rilasciare le attività per spostarle in un\' altra sottolista per una migliore organizzazione. Quando si rilascia un blocco di attività in un altra sottolista, la struttura ad albero tra loro verrà mantenuta.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
+    "<p>Quando lavori sulla tua sottolista, dal momento che si comporta come uno specchio della lista principale, qualunque siano le modifiche apportate a una delle tue sottoliste, influirà sull'elenco principale.</p>"
+    '<p>Se desideri spostarti rapidamente tra le visualizzazioni, utilizza la scorciatoia "(" o ")"</p>',
   mSublistTutorialOrganizeTip: "Suggerimento: puoi sempre tornare all'elenco principale per visualizzare il quadro generale del tuo progetto!",
   mSublistTutorialTodoTitle: "Affronta una schiacciante lista di attività come un vincente",
   mSublistTutorialTodoContent:
