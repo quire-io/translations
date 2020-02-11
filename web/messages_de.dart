@@ -196,21 +196,21 @@ const deWeb = const <String, String> {
   mTutorialSetDueTitle: "Deadline is important too",
   mTutorialSetDueContent:
     "<p>A task without a deadline tends to slip through your fingers.</p>"
-    "<p>To add a due date, click on the “date” icon of a task in the task list.</p>",
+    '<p>To add a due date, click on the "date" icon of a task in the task list.</p>',
   mTutorialAssigneeTitle: "Delegate tasks to people responsible",
   mTutorialAssigneeContent:
     "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
-    "<p>To assign a task to someone, click on the “assignee” icon of the task, and enter his or her email.</p>"
+    '<p>To assign a task to someone, click on the "assignee" icon of the task, and enter his or her email.</p>'
     '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
-    'and clicking on the “+” on the right of each name.</span></p>',
+    'and clicking on the "+" on the right of each name.</span></p>',
   mTutorialTagTitle: "Label them with context",
   mTutorialTagContent:
     "<p>You can give tasks additional context or group them.</p>"
     "<p>For example, you can add tags called Sponsors, Venue and Promotion "
     "in colors red, green and blue to related tasks.</p>"
-    "<p>To add tags, click on the “tag” icon of a task, and enter the tag name.</p>",
+    '<p>To add tags, click on the "tag" icon of a task, and enter the tag name.</p>',
   mTutorialTagTip: "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
   mTutorialAutocompleteTitle: "Quick add, while you type",
   mTutorialAutocompleteContent:
@@ -218,22 +218,22 @@ const deWeb = const <String, String> {
     "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
     "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
     "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
-    "Like this: “Come up with a list of promotional items &lt;Friday&gt; @David #Promotion”.</p>",
+    'Like this: "Come up with a list of promotional items &lt;Friday&gt; @David #Promotion".</p>',
   mTutorialDetailPanelTitle: "Give them some details",
   mTutorialDetailPanelContent:
     "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
     "<p>You can add details &mdash; including description and attachments &mdash; to the task "
-    "after clicking on “&lt;&lt;”in the upper right corner. You can also discuss, chat "
+    'after clicking on "&lt;&lt;"in the upper right corner. You can also discuss, chat '
     "and interact with members in comments there in the detail panel.</p>"
     '<p>To add styles to your description or comment (eg., make it bold), check out '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Tip: You can click on the “pin” icon to keep the detail panel open.",
+  mTutorialDetailPanelTip: 'Tip: You can click on the "pin" icon to keep the detail panel open.',
   mTutorialDragTaskTitle: "Organize what you have dumped",
   mTutorialDragTaskContent:
     "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
     "<p>In Quire, you can drag & drop them to where they rightfully belong. "
     "For example, move giveaways like T-shirts, bumper stickers and "
-    "water bottles to under task “Promotional Items.”</p>",
+    'water bottles to under task "Promotional Items."</p>',
   mTutorialShortcutTitle: "A few handy shortcuts",
   mTutorialShortcutContent:
     "<h3>Add & Edit</h3>"
@@ -304,7 +304,7 @@ const deWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
     "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "Add board" button, type in your board name.</p>',
+    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
   mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
   mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
   mBoardTutorialAssignBoardContent:
@@ -443,7 +443,7 @@ const deWeb = const <String, String> {
     "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
     "<p>[=img]</p>"
     "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
+    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
   mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
   mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
   mSublistTutorialTodoContent:

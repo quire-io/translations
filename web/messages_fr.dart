@@ -200,21 +200,21 @@ const frWeb = const <String, String> {
   mTutorialSetDueTitle: "Les dates limites sont aussi importantes",
   mTutorialSetDueContent:
     "<p>Une tâche sans date limite a tendance à vous échapper.</p>"
-    "<p>Pour ajouter une date limite, cliquez sur l'icône “date” d'une tâche dans la liste des tâches.</p>",
+    '<p>Pour ajouter une date limite, cliquez sur l\'icône "date" d\'une tâche dans la liste des tâches.</p>',
   mTutorialAssigneeTitle: "Attribuez les tâches aux personnes qui en sont responsables",
   mTutorialAssigneeContent:
     "<p>Vous avez une tâche nommée Sponsors. Mais qui s'occupe de les trouver ?</p>"
-    "<p>Pour attribuer une tâche à quelqu'un, cliquez sur l'icône “attribution” d'une tâche, et entrez son adresse mail.</p>"
+    '<p>Pour attribuer une tâche à quelqu\'un, cliquez sur l\'icône "attribution" d\'une tâche, et entrez son adresse mail.</p>'
     '<p><span class="note">Remarque : Cette personne recevra une invitation par mail.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Astuce : Vous pouvez attribuer une tâche à plusieurs personnes en survolant leurs noms '
-    'et en cliquant sur le “+” à la droite de chaque nom.</span></p>',
+    'et en cliquant sur le "+" à la droite de chaque nom.</span></p>',
   mTutorialTagTitle: "Étiquetez-les avec du contexte",
   mTutorialTagContent:
     "<p>Vous pouvez donner du contexte à vos tâches ou les regrouper.</p>"
     "<p>Par exemple, vous pouvez ajouter des étiquettes Sponsor, Emplacement et Publicité "
     "en rouge, vert et bleu aux tâches qui y sont reliées.</p>"
-    "<p>Pour ajouter des étiquettes, cliquez sur l'icône “étiquette” d'une tâche, et entrez le nom de l'étiquette.</p>",
+    "<p>Pour ajouter des étiquettes, cliquez sur l'icône \"étiquette\" d'une tâche, et entrez le nom de l'étiquette.</p>",
   mTutorialTagTip: "Astuce : Vous pouvez filtrer les tâches par étiquette(s) pour voir seulement un groupe de tâches avec cette (ces) étiquette(s).",
   mTutorialAutocompleteTitle: "Ajout rapide lorsque vous tapez",
   mTutorialAutocompleteContent:
@@ -222,22 +222,22 @@ const frWeb = const <String, String> {
     "<p>Quand vous ajoutez une tâche, vous pouvez taper <strong>&lt;&gt;</strong> pour ajouter une "
     "<strong>date limite</strong>, <strong>@</strong> pour <strong>attribuer la tâche</strong>, "
     "et <strong>#</strong> pour ajouter une <strong>étiquette</strong>, etc. "
-    "Comme ça : “Venir avec une liste des produits dérivés &lt;Vendredi&gt; @David #Publicité”.</p>",
+    'Comme ça : "Venir avec une liste des produits dérivés &lt;Vendredi&gt; @David #Publicité".</p>',
   mTutorialDetailPanelTitle: "Ajoutez-y des détails",
   mTutorialDetailPanelContent:
     "<p>Une tâche a souvent besoin d'un peu plus d'informations pour être réalisée sans problèmes.</p>"
     "<p>Vous pouvez ajouter des détails &mdash; y compris une description et des pièces jointes &mdash; à la tâche "
-    "après avoir cliqué sur “&lt;&lt;” en haut à droite. Vous pouvez aussi discuter "
+    'après avoir cliqué sur "&lt;&lt;" en haut à droite. Vous pouvez aussi discuter '
     "et interagir avec les autres membres dans les commentaires dans ce même panneau des détails.</p>"
     '<p>Pour modifier l\'apparence de votre description ou commentaire (comme le mettre en gras), utilisez '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">du Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Astuce : Vous pouvez cliquer sur l'icône “épingle” pour garder le panneau des détails ouvert.",
+  mTutorialDetailPanelTip: 'Astuce : Vous pouvez cliquer sur l\'icône "épingle" pour garder le panneau des détails ouvert.',
   mTutorialDragTaskTitle: "Organisez ce que vous avez ajouté",
   mTutorialDragTaskContent:
     "<p>Que se passe-t-il si vous avez des tâches au mauvais endroit ?</p>"
     "<p>Sur Quire, vous pouvez les glisser-déposer jusque là où elles devraient être. "
     "Par exemple, déplacez les cadeaux comme les T-shirts, les autocollants et "
-    "les bouteilles d'eau sous “Objets Publicitaires.”</p>",
+    'les bouteilles d\'eau sous "Objets Publicitaires."</p>',
   mTutorialShortcutTitle: "Quelques raccourcis clavier pratiques",
   mTutorialShortcutContent:
     "<h3>Ajout et modification</h3>"
@@ -308,7 +308,7 @@ const frWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Après avoir fait une liste des centaines de tâches pour la Course de charité pour les enfants, "
     "vous voudriez maintenant vous consacrer aux tâches les plus importantes à l'état initial du projet. Pour cela, créez un tableau.</p>"
-    '<p>Pour ajouter un tableau, cliquez sur le bouton "Ajouter un tableau", et entrez le nom de votre tableau.</p>',
+    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
   mBoardTutorialAddBoardTip: "Astuce : Vous pourriez créer plusieurs tableaux pour chaque étape de votre projet.",
   mBoardTutorialAssignBoardTitle: "Ajoutez des tâches au tableau",
   mBoardTutorialAssignBoardContent:
@@ -447,7 +447,7 @@ const frWeb = const <String, String> {
     "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
     "<p>[=img]</p>"
     "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
+    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
   mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
   mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
   mSublistTutorialTodoContent:

@@ -200,7 +200,7 @@ const ptBrWeb = const <String, String> {
   mTutorialSetDueTitle: "O prazo também é importante",
   mTutorialSetDueContent:
     "<p>Uma tarefa sem prazo tende a escorregar pelos dedos.</p>"
-    "<p>Para adicionar uma data de conclusão, clique no ícone “data” de uma tarefa na lista de tarefas.</p>",
+    '<p>Para adicionar uma data de conclusão, clique no ícone "data" de uma tarefa na lista de tarefas.</p>',
   mTutorialAssigneeTitle: "Delegar tarefas a pessoas responsáveis",
   mTutorialAssigneeContent:
     "<p>Você tem uma tarefa chamada Patrocinadores. Mas quem é responsável por encontrá-los?</p>"
@@ -208,7 +208,7 @@ const ptBrWeb = const <String, String> {
     '<p><span class="note">Nota: Essa pessoa receberá um convite em sua caixa de entrada de e-mail.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Dica: Você pode atribuir uma tarefa a várias pessoas passando o cursor sobre o nome delas '
-    'e clicando no “+” à direita de cada nome.</span></p>',
+    'e clicando no "+" à direita de cada nome.</span></p>',
   mTutorialTagTitle: "Rotule-as com contexto",
   mTutorialTagContent:
     "<p>Você pode dar contexto adicional às tarefas ou agrupá-las.</p>"
@@ -222,12 +222,12 @@ const ptBrWeb = const <String, String> {
     "<p>Ao adicionar uma tarefa, você pode digitar <strong>&lt;&gt;</strong> para adicionar "
     "<strong>prazo</strong>, <strong>@</strong> para adicionar um <strong>responsável</strong>, "
     "e <strong>#</strong> para adicionar uma <strong>tag</strong>, etc. "
-    "Assim: “Criar uma lista de itens promocionais &lt;Sexta-feira&gt; @David #Promoção”.</p>",
+    'Assim: "Criar uma lista de itens promocionais &lt;Sexta-feira&gt; @David #Promoção".</p>',
   mTutorialDetailPanelTitle: "Dê alguns detalhes",
   mTutorialDetailPanelContent:
     "<p>Muitas vezes, uma tarefa precisa de um pouco mais de informações para ser executada sem problema.</p>"
     "<p>Você pode adicionar detalhes &mdash; incluindo descrição e anexos &mdash; para a tarefa "
-    "depois de clicar em “&lt;&lt;” no canto superior direito. Você também pode discutir, conversar "
+    'depois de clicar em "&lt;&lt;" no canto superior direito. Você também pode discutir, conversar '
     "e interagir com os membros nos comentários no painel de detalhes.</p>"
     '<p>Para adicionar estilos à sua descrição ou comentário (por exemplo, colocar em negrito), confira o '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
@@ -237,7 +237,7 @@ const ptBrWeb = const <String, String> {
     "<p>O que acontece se você tiver tarefas que caíram no lugar errado?</p>"
     "<p>No Quire, você pode arrastá-las e soltá-las onde elas pertencem por direito. "
     "Por exemplo, mova brindes como camisetas, adesivos para carros e "
-    "garrafas de água para a tarefa “Itens Promocionais.”</p>",
+    'garrafas de água para a tarefa "Itens Promocionais."</p>',
   mTutorialShortcutTitle: "Alguns atalhos úteis",
   mTutorialShortcutContent:
     "<h3>Adicionar & Editar</h3>"
@@ -308,7 +308,7 @@ const ptBrWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Depois de listar suas centenas de tarefas para o evento Corrida Infantil para Caridade, "
     "agora você gostaria de se concentrar em algumas tarefas cruciais no estágio inicial. Basta criar um quadro.</p>"
-    '<p>Para adicionar um quadro, clique no botão "Adicionar quadro", digite o nome do seu quadro.</p>',
+    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
   mBoardTutorialAddBoardTip: "Dica: Você pode criar vários quadros para diferentes estágios do seu projeto.",
   mBoardTutorialAssignBoardTitle: "Comece a Adicionar Tarefas ao Quadro",
   mBoardTutorialAssignBoardContent:
@@ -447,7 +447,7 @@ const ptBrWeb = const <String, String> {
     "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
     "<p>[=img]</p>"
     "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
+    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
   mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
   mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
   mSublistTutorialTodoContent:

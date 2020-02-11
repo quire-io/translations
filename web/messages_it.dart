@@ -200,21 +200,21 @@ const itWeb = const <String, String> {
   mTutorialSetDueTitle: "Anche le scadenze sono importanti",
   mTutorialSetDueContent:
     "<p>Un\'attività senza scadenza tende a scivolare tra le dita.</p>"
-    "<p>Per aggiungere una data di scadenza, fare clic sull\'icona “data” di un'attività nell'elenco delle attività.</p>",
+    '<p>Per aggiungere una data di scadenza, fare clic sull\'icona "data" di un\'attività nell\'elenco delle attività.</p>',
   mTutorialAssigneeTitle: "Delegare attività ai responsabili",
   mTutorialAssigneeContent:
     "<p>Hai un\' attività chiamata Sponsor. Ma chi è responsabile di trovarli? </p>"
-    "<p>Per assegnare un\'attività a qualcuno, fai clic sull\'icona “assegnatario” dell\'attività e inserisci la sua e-mail.</p>"
+    '<p>Per assegnare un\'attività a qualcuno, fai clic sull\'icona "assegnatario" dell\'attività e inserisci la sua e-mail.</p>'
     '<p><span class="note">Nota: quella persona riceverà un invito nella sua casella di posta elettronica.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Suggerimento: puoi assegnare un\'attività a più persone sostando sui loro nomi '
-    'e facendo clic su “+” a destra di ciascun nome.</span></p>',
+    'e facendo clic su "+" a destra di ciascun nome.</span></p>',
   mTutorialTagTitle: "Etichettale con il contesto",
   mTutorialTagContent:
     "<p>Puoi assegnare alle attività un contesto aggiuntivo o raggrupparle.</p>"
     "<p>Ad esempio, puoi aggiungere etichette denominate sponsor, sede e promozione"
     "con i colori rosso, verde e blu per le attività correlate.</p>"
-    "<p>Per aggiungere etichette, fai clic sull'icona “etichetta” di un\'attività e inserisci il nome dell\'etichetta.</p>",
+    '<p>Per aggiungere etichette, fai clic sull\'icona "etichetta" di un\'attività e inserisci il nome dell\'etichetta.</p>',
   mTutorialTagTip: "Suggerimento: puoi filtrare le attività per etichetta\/e per vedere solo un gruppo di attività con quell\' etichetta\/e.",
   mTutorialAutocompleteTitle: "Aggiunta rapida durante la digitazione",
   mTutorialAutocompleteContent:
@@ -222,22 +222,22 @@ const itWeb = const <String, String> {
     "<p>Quando aggiungi un'attività, puoi digitare <strong>&lt;&gt;</strong> per aggiungere"
     "<strong>scadenz</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>,"
     "e <strong>#</strong> per aggiungere un\' <strong>etichetta</strong>, ecc."
-    "In questo modo: “Crea un elenco di articoli promozionali &lt;Venerdì&gt; @Davide #Promozione”.</p>",
+    'In questo modo: "Crea un elenco di articoli promozionali &lt;Venerdì&gt; @Davide #Promozione".</p>',
   mTutorialDetailPanelTitle: "Dagli alcuni dettagli",
   mTutorialDetailPanelContent:
     "<p>Molte volte, un'attività ha bisogno di un po' più di informazioni per essere eseguita senza problemi.</p>"
     "<p>Puoi aggiungere dettagli &mdash; inclusa descrizione e allegati &mdash; all'attività "
-    "dopo aver fatto clic su “&lt;&lt;” nell'angolo in alto a destra. Puoi anche discutere, chattare "
+    'dopo aver fatto clic su "&lt;&lt;" nell\'angolo in alto a destra. Puoi anche discutere, chattare '
     "e interagire con i membri nei commenti lì nel riquadro dei dettagli.</p>"
     '<p>Per aggiungere stili alla descrizione o al commento (es. renderlo in grassetto), controlla '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Suggerimento: è possibile fare clic sull'icona “pin” per mantenere aperto il pannello dei dettagli.",
+  mTutorialDetailPanelTip: 'Suggerimento: è possibile fare clic sull\'icona "pin" per mantenere aperto il pannello dei dettagli.',
   mTutorialDragTaskTitle: "Organizza ciò che hai scaricato",
   mTutorialDragTaskContent:
     "<p>Cosa succede se hai compiti che sono nel posto sbagliato?</p>"
     "<p>In Quire, puoi trascinarli nel punto corretto. "
     "Ad esempio, sposta 'magliette, adesivi per paraurti e "
-    "bottiglie d'acqua gratuite' sotto il compito “Articoli promozionali”.</p>",
+    'bottiglie d\'acqua gratuite\' sotto il compito "Articoli promozionali".</p>',
   mTutorialShortcutTitle: "Alcune scorciatoie utili",
   mTutorialShortcutContent:
     "<h3>Aggiungi & modifica</h3>"
@@ -308,7 +308,7 @@ const itWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Dopo aver elencato le centinaia di attività per l'evento \"Corsa di beneficenza per bambini\", "
     "ora vorresti concentrarti su alcune attività cruciali nella fase iniziale. Basta creare una bacheca.</p>"
-    '<p>Per aggiungere una bacheca, fai clic sul pulsante "Aggiungi Bacheca", e digita il nome della bacheca.</p>',
+    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
   mBoardTutorialAddBoardTip: "Suggerimento: è possibile creare più bacheche per le diverse fasi del progetto.",
   mBoardTutorialAssignBoardTitle: "Inizia ad aggiungere attività alla bacheca",
   mBoardTutorialAssignBoardContent:
@@ -447,7 +447,7 @@ const itWeb = const <String, String> {
     "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
     "<p>[=img]</p>"
     "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
+    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
   mSublistTutorialOrganizeTip: "Suggerimento: puoi sempre tornare all'elenco principale per visualizzare il quadro generale del tuo progetto!",
   mSublistTutorialTodoTitle: "Affronta una schiacciante lista di attività come un vincente",
   mSublistTutorialTodoContent:

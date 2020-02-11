@@ -204,11 +204,11 @@ const esWeb = const <String, String> {
   mTutorialAssigneeTitle: "Delegar tareas a los responsables",
   mTutorialAssigneeContent:
     "<p>Tu tienes una tarea llamada Patrocinadores. ¿Pero quién es responsable de encontrarlos?</p>"
-    "<p>Para asignar una tarea a alguien, haz clic en el icono “asignado” de la tarea, e introduzca su correo electrónico.</p>"
+    '<p>Para asignar una tarea a alguien, haz clic en el icono "asignado" de la tarea, e introduzca su correo electrónico.</p>'
     '<p><span class="note">Nota: Esa persona recibirá una invitación en su buzón de correo electrónico.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Tip: Puedes asignar una tarea a varias personas pasando el cursor sobre sus nombres '
-    'y haciendo clic en el “+” a la derecha de cada nombre.</span></p>',
+    'y haciendo clic en el "+" a la derecha de cada nombre.</span></p>',
   mTutorialTagTitle: "Etiquétarlos con el contexto",
   mTutorialTagContent:
     "<p>Puedes dar contexto adicional a las tareas o agruparlas.</p>"
@@ -222,22 +222,22 @@ const esWeb = const <String, String> {
     "<p>Al añadir una tarea, puedes escribir <strong>&lt;&gt;</strong> para añadir una "
     "<strong>fecha límite</strong>, <strong>@</strong> para añadir un <strong>asignado</strong>, "
     "y <strong>#</strong> para añadir una <strong>etiqueta</strong>, etc. "
-    "Así: “Inventa una lista de artículos promocionales &lt;Viernes&gt; @David #Promoción”.</p>",
+    'Así: "Inventa una lista de artículos promocionales &lt;Viernes&gt; @David #Promoción".</p>',
   mTutorialDetailPanelTitle: "Dar algunos detalles",
   mTutorialDetailPanelContent:
     "<p>Muchas veces, una tarea necesita un poco más de información para llevarse a cabo sin problemas.</p>"
     "<p>Tu puedes añadir detalles &mdash; incluyendo la descripción y los archivos adjuntos &mdash; a la tarea "
-    "después de hacer clic en “&lt;&lt;”en la esquina superior derecha. También puedes discutir, chatear "
+    'después de hacer clic en "&lt;&lt;"en la esquina superior derecha. También puedes discutir, chatear '
     "e interactuar con los miembros en los comentarios del panel de detalles.</p>"
     '<p>Para añadir estilos a su descripción o comentario (eg., make it bold), comprueba '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: "Consejo: Puedes hacer clic en el icono “pin” para mantener abierto el panel de detalles.",
+  mTutorialDetailPanelTip: 'Consejo: Puedes hacer clic en el icono "pin" para mantener abierto el panel de detalles.',
   mTutorialDragTaskTitle: "Organiza lo que has dejado",
   mTutorialDragTaskContent:
     "<p>¿Qué pasa si tienes tareas que se han asignado en el lugar equivocado?</p>"
     "<p>En Quire, puedes arrastrarlos y soltarlos en el lugar adecuado. "
     "Por ejemplo, mueve los regalos como camisetas, calcomanías y  "
-    "botellas de agua a la tarea “Artículos promocionales.”</p>",
+    'botellas de agua a la tarea "Artículos promocionales."</p>',
   mTutorialShortcutTitle: "Algunos atajos prácticos",
   mTutorialShortcutContent:
     "<h3>Add & Edit</h3>"
@@ -308,7 +308,7 @@ const esWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Después de enumerar todas las tareas para la carrera benéfica contra el hambre infantil, "
     "ahora te gustaría centrarte en algunas tareas en la etapa inicial. Simplemente crea un tablero.</p>"
-    '<p>Para agregar un tablero, haz clic en el botón "Añadir tablero" y escribe el nombre de tu tablero.</p>',
+    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
   mBoardTutorialAddBoardTip: "Consejo: Puedes crear varios tableros para las diferentes etapas de tu proyecto.",
   mBoardTutorialAssignBoardTitle: "Comienza a añadir tareas al tablero",
   mBoardTutorialAssignBoardContent:
@@ -447,7 +447,7 @@ const esWeb = const <String, String> {
     "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
     "<p>[=img]</p>"
     "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    "<p>If you want to navigate quickly between views, use the shortcut “(“ or “)”</p>",
+    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
   mSublistTutorialOrganizeTip: "Consejo: ¡Siempre puedes volver a la lista principal para ver el panorama general de tu proyecto!",
   mSublistTutorialTodoTitle: "Enfréntate a una abrumadora lista de tareas pendientes de forma brillante",
   mSublistTutorialTodoContent:
