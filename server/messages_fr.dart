@@ -841,14 +841,14 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mStartedAt: "Commencé",
   mCompletedAt: "Terminé",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "New tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mUpdateNotifications: "All updates",
-  mSettingManageReminder: "Manage reminder settings",
+    "Vous pouvez choisir les notifications que vous voulez recevoir en sélectionnant les options suivantes. "
+    "Cela ne s'appliquera qu'à votre compte, pas aux autres membres du projet.",
+  mAssignNotifications: "Nouvelles tâches qui me sont assignées",
+  mCommentNotifications: "Nouveaux commentaires",
+  mUpdateNotifications: "Toutes les modifications",
+  mSettingManageReminder: "Gérer les notifications de rappel",
   mSendActivityNotification: "Envoyer des notifications d'activité",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
+  mSendActivityNotificationDesc: "Vous pouvez personnaliser les notifications que vous voulez recevoir depuis les paramètres du projet.",
   mActivityNotice: "Notifications d'Activité",
   mReceiveBlogPosts: "Nouveaux posts de blog",
   mReceivePolicyUpdates: "Mises à jour à propos du compte Quire et des politiques",
