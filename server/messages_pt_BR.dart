@@ -855,7 +855,15 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mWeekly: "Semanalmente",
   mStartedAt: "Iniciado",
   mCompletedAt: "Concluído",
+  mSettingNotificationsDesc:
+    "You can choose which notifications that you want to receive by selecting these following options. "
+    "This setting will only apply to your account instead of every members in this project.",
+  mAssignNotifications: "New tasks assigned to me",
+  mCommentNotifications: "New comments",
+  mUpdateNotifications: "All updates",
+  mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Enviar Notificações de Atividade",
+  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
   mActivityNotice: "Notificações de Atividade",
   mReceiveBlogPosts: "Novas postagens de blog",
   mReceivePolicyUpdates: "Atualizações sobre associação e política do Quire",

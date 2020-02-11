@@ -856,7 +856,15 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mWeekly: "毎週",
   mStartedAt: "開始",
   mCompletedAt: "完了",
+  mSettingNotificationsDesc:
+    "You can choose which notifications that you want to receive by selecting these following options. "
+    "This setting will only apply to your account instead of every members in this project.",
+  mAssignNotifications: "New tasks assigned to me",
+  mCommentNotifications: "New comments",
+  mUpdateNotifications: "All updates",
+  mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "アクティビティーの通知を送信",
+  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
   mActivityNotice: "アクティビティーの通知",
   mReceiveBlogPosts: "ブログの最新記事",
   mReceivePolicyUpdates: "Quire会員登録とポリシーについて",

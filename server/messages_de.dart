@@ -853,7 +853,15 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mWeekly: "Wöchentlich",
   mStartedAt: "Gestartet",
   mCompletedAt: "Erledigt",
+  mSettingNotificationsDesc:
+    "You can choose which notifications that you want to receive by selecting these following options. "
+    "This setting will only apply to your account instead of every members in this project.",
+  mAssignNotifications: "New tasks assigned to me",
+  mCommentNotifications: "New comments",
+  mUpdateNotifications: "All updates",
+  mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Aktivitätsbenachrichtungen senden",
+  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
   mActivityNotice: "Benachrichtigungen",
   mReceiveBlogPosts: "Neue Blogbeiträge",
   mReceivePolicyUpdates: "Informationen zu Mitgliedschaft und Richtlinien von Quire",
