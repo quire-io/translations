@@ -296,7 +296,7 @@ const frWeb = const <String, String> {
   mTutorialContextmenuTip: "Astuce : Tapez F1 pour voir une liste complète des raccourcis clavier.",
   mNextTutorial: "Tutoriel suivant",
   mBoardTutorialLinkTitle: "Visualisez votre travail avec le tableau Kanban de Quire",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
+  mSublistTutorialLinkTitle: "Concentrez-vous sur les bonnes tâches avec les sous-listes personnalisées Quire",
   mSignupToday: "Commençons sur Quire aujourd'hui !",
   mBoardTutorialTitle: "Tutoriel de Quire - Tableau Kanban",
   mBoardTutorialDesc:
@@ -307,8 +307,8 @@ const frWeb = const <String, String> {
   mBoardTutorialAddBoardTitle: "Donnez un nom à votre tableau",
   mBoardTutorialAddBoardContent:
     "<p>Après avoir fait une liste des centaines de tâches pour la Course de charité pour les enfants, "
-    "vous voudriez maintenant vous consacrer aux tâches les plus importantes à l'état initial du projet. Pour cela, créez un tableau.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
+    "vous voudriez maintenant vous consacrer aux tâches les plus importantes à l'état initial du projet. Créez simplement un tableau.</p>"
+    '<p>Pour ajouter un tableau, cliquez sur le bouton "+", sélectionnez Ajouter un tableau en entrez le nom du tableau.</p>',
   mBoardTutorialAddBoardTip: "Astuce : Vous pourriez créer plusieurs tableaux pour chaque étape de votre projet.",
   mBoardTutorialAssignBoardTitle: "Ajoutez des tâches au tableau",
   mBoardTutorialAssignBoardContent:
@@ -443,11 +443,11 @@ const frWeb = const <String, String> {
   mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
   mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>Comment répartir les tâches en plusieurs sous-listes ?</p>"
+    "<p>Faites simplement glisser-déposer les tâches pour les déplacer vers une autre sous-liste pour une meilleure organisation. En déplaçant plusieurs tâches vers une sous-liste, la structure initiale sera conservée.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
+    "<p>Lorsque vous travaillez dans une sous-liste, étant donné qu'elle se comporte comme un miroir de la liste principale, quels que soient les changements que vous y ferez, votre liste principale sera également modifiée.</p>"
+    '<p>Si vous voulez naviguer rapidement entre les affichages, utilisez les raccourcis "(" ou ")"</p>',
   mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
   mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
   mSublistTutorialTodoContent:
