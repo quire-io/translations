@@ -221,7 +221,6 @@ const frClient = const <String, String> {
   mReferrers: 'Référents',
   mSubtaskStatus: '[=active] sous-tâches incomplètes et [=completed] sous-tâches terminées',
   mSubtaskStatisticOthers: "Autres",
-  mSubtaskStatisticUnasgd: "Non attribuées",
   mSubtaskStatisticFirstLevel: "Sous-tâches de premier niveau",
   mProjectMember: "Membres du Projet",
   mMemberAmount: "[=amount] membres",
@@ -820,7 +819,7 @@ const frClient = const <String, String> {
   mRevokeOAppTargetContent: 'Cette application n\'aura plus accès à votre [=target].',
   mRevokeOAppAllTargetContent: "Cette application n'aura plus accès à vos données dans Quire.",
   mCreateLinkTitle: 'Créer un lien de partage',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Partagez un lien vers votre projet avec vos clients pour qu'ils puissent y accéder sans se connecter.</p>"
     '<p>Sélectionnez quand le lien va expirer afin qu\'il ne soit plus acessible après.</p>',
   mLinkExpiresOn: 'Expire le',

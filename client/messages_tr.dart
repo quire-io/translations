@@ -215,7 +215,6 @@ const trClient = const <String, String> {
   mReferrers: 'Atıflar',
   mSubtaskStatus: '[=active] tamamlanmamış ve [=completed] tamamlanmış alt görev',
   mSubtaskStatisticOthers: "Diğerleri",
-  mSubtaskStatisticUnasgd: "Sorumlu belirlenmemiş",
   mSubtaskStatisticFirstLevel: "Birinci düzey alt görevler",
   mProjectMember: "Proje Üyeleri",
   mMemberAmount: "[=amount] üye",
@@ -814,7 +813,7 @@ const trClient = const <String, String> {
   mRevokeOAppTargetContent: 'This app will no longer have access to your [=target].',
   mRevokeOAppAllTargetContent: 'This app will no longer have access to all of your data in Quire.',
   mCreateLinkTitle: 'Create Share Link',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Share a link of your project with your clients so they can access it without signup.</p>"
     '<p>Select when the link will expire so after that it will no longer be accessible.</p>',
   mLinkExpiresOn: 'Expires on',

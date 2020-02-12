@@ -221,7 +221,6 @@ const itClient = const <String, String> {
   mReferrers: 'Refrenti',
   mSubtaskStatus: '[=active] incompleti e [=completed] subattività completate',
   mSubtaskStatisticOthers: "Altri",
-  mSubtaskStatisticUnasgd: "Non Assegnato",
   mSubtaskStatisticFirstLevel: "Subattività di primo livello",
   mProjectMember: "Membri del progetto",
   mMemberAmount: "[=amount] memberi",
@@ -821,7 +820,7 @@ const itClient = const <String, String> {
   mRevokeOAppTargetContent: 'Questa applicazione non avrà più accesso a  [=target].',
   mRevokeOAppAllTargetContent: 'Questa applicazione non avrà più accesso a tutti i tuoi dati su Quire.',
   mCreateLinkTitle: 'Crea un Link condiviso',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Condividi un link ai tuoi progetto con i tuoi clienti in modo che possano accedere senza registrarsi.</p>"
     '<p>Seleziona quando il link scadrà, in modo che non sia più accessibile successivamente.</p>',
   mLinkExpiresOn: 'Scade il',

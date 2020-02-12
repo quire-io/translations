@@ -215,7 +215,6 @@ const deClient = const <String, String> {
   mReferrers: 'Verweise',
   mSubtaskStatus: '[=active] offene und [=completed] erledigte Unteraufgaben',
   mSubtaskStatisticOthers: "Andere",
-  mSubtaskStatisticUnasgd: "Nicht zugewiesen",
   mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Projektmitglieder",
   mMemberAmount: "[=amount] Mitglieder",
@@ -817,7 +816,7 @@ const deClient = const <String, String> {
   mRevokeOAppTargetContent: 'Diese App hat keinen Zugriff mehr auf Ihr [=target].',
   mRevokeOAppAllTargetContent: 'Diese App wird nicht mehr auf Ihre Quire-Daten zugreifen können.',
   mCreateLinkTitle: 'Freigabe-Link erstellen',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Geben Sie Ihren Kunden einen Link zu Ihrem Projekt, auf den sie ohne Anmeldung zugreifen können.</p>"
     '<p>Wählen Sie aus, wann dieser Link abläuft und somit keine weiteren Zugriffe mehr möglich sein werden.</p>',
   mLinkExpiresOn: 'Läuft ab am',

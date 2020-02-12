@@ -226,7 +226,6 @@ const ptBrClient = const <String, String> {
   mReferrers: 'Referenciadores',
   mSubtaskStatus: '[=active] subtarefas incompletas e [=completed] concluídas',
   mSubtaskStatisticOthers: "Outras",
-  mSubtaskStatisticUnasgd: "Por atribuir",
   mSubtaskStatisticFirstLevel: "First-level subtasks",
   mProjectMember: "Membros do Projeto",
   mMemberAmount: "[=amount] membros",
@@ -825,7 +824,7 @@ const ptBrClient = const <String, String> {
   mRevokeOAppTargetContent: 'Este aplicativo não terá mais acesso ao seu [=target].',
   mRevokeOAppAllTargetContent: 'Esse aplicativo não terá mais acesso aos seus dados do Quire.',
   mCreateLinkTitle: 'Criar Link de Compartilhamento',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Compartilhe um link do seu projeto com seus clientes para que eles possam acessá-lo sem registro.</p>"
     '<p>Selecione quando o link expirará para não seja mais acessível.</p>',
   mLinkExpiresOn: 'Expira em',

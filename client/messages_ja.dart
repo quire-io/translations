@@ -221,7 +221,6 @@ const jaClient = const <String, String> {
   mReferrers: '参照元',
   mSubtaskStatus: '子タスクは未完了[=active]件、完了[=completed]件',
   mSubtaskStatisticOthers: "その他",
-  mSubtaskStatisticUnasgd: "担当者を未設定",
   mSubtaskStatisticFirstLevel: "レベル1の子タスク",
   mProjectMember: "プロジェクトのメンバー",
   mMemberAmount: "[=amount]人",
@@ -821,7 +820,7 @@ const jaClient = const <String, String> {
   mRevokeOAppTargetContent: 'このアプリは今後、あなたの[=target]にアクセスできなくなります。',
   mRevokeOAppAllTargetContent: 'このアプリは今後、あなたのQuireデータにアクセスできなくなります。',
   mCreateLinkTitle: '共有リンクを作成',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>プロジェクトのリンクを共有して、顧客が登録不要でアクセスできるようにしましょう。</p>"
     '<p>リンクの期限日を選択してください。期限日以降はリンクからアクセスできなくなります。</p>',
   mLinkExpiresOn: '期限日',

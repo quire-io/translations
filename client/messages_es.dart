@@ -221,7 +221,6 @@ const esClient = const <String, String> {
   mReferrers: 'Referentes',
   mSubtaskStatus: '[=active] incompletas y [=completed] subtareas completadas',
   mSubtaskStatisticOthers: "Otras",
-  mSubtaskStatisticUnasgd: "Sin asignar",
   mSubtaskStatisticFirstLevel: "Subtareas de primer nivel",
   mProjectMember: "Miembros del Proyecto",
   mMemberAmount: "[=amount] miembros",
@@ -821,7 +820,7 @@ const esClient = const <String, String> {
   mRevokeOAppTargetContent: 'Esta aplicación ya no tendrá acceso a tus [=target].',
   mRevokeOAppAllTargetContent: 'Esta aplicación ya no tendrá acceso a tus datos de Quire.',
   mCreateLinkTitle: 'Crear Enlace para compartir',
-  mCreateLinkContent: 
+  mCreateLinkContent:
     "<p>Comparte un enlace de tu proyecto con tus clientes y así podrán acceder sin registrarse.</p>"
     '<p>Selecciona la fecha de caducidad del enlace, tras la que ya no será accesible.</p>',
   mLinkExpiresOn: 'Caduca el',
