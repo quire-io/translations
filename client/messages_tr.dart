@@ -814,7 +814,9 @@ const trClient = const <String, String> {
   mRevokeOAppTargetContent: 'This app will no longer have access to your [=target].',
   mRevokeOAppAllTargetContent: 'This app will no longer have access to all of your data in Quire.',
   mCreateLinkTitle: 'Create Share Link',
-  mCreateLinkContent: 'Select when the link will expire so after that it will no longer be accessible.',
+  mCreateLinkContent: 
+    "<p>Share a link of your project with your clients so they can access it without signup.</p>"
+    '<p>Select when the link will expire so after that it will no longer be accessible.</p>',
   mLinkExpiresOn: 'Expires on',
   mLinkCreatedTitle: 'Share Link Created',
   mLinkCreatedContent:

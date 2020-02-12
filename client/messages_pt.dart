@@ -825,7 +825,9 @@ const ptClient = const <String, String> {
   mRevokeOAppTargetContent: 'Esta aplicação não terá mais acesso a [=target].',
   mRevokeOAppAllTargetContent: 'Esta aplicação não terá mais acesso aos seus dados do Quire.',
   mCreateLinkTitle: 'Criar Link de Partilha',
-  mCreateLinkContent: 'Selecione quando é que o link expirará para que depois da data não esteja mais acessível.',
+  mCreateLinkContent: 
+    "<p>Partilhe um link do seu projeto com os seus clientes para que eles possam aceder sem estarem registados.</p>"
+    '<p>Selecione quando é que o link expirará para que depois da data não esteja mais acessível.</p>',
   mLinkExpiresOn: 'Expira em',
   mLinkCreatedTitle: 'Partilhar Link Criado',
   mLinkCreatedContent:

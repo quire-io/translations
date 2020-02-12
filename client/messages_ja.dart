@@ -821,7 +821,9 @@ const jaClient = const <String, String> {
   mRevokeOAppTargetContent: 'このアプリは今後、あなたの[=target]にアクセスできなくなります。',
   mRevokeOAppAllTargetContent: 'このアプリは今後、あなたのQuireデータにアクセスできなくなります。',
   mCreateLinkTitle: '共有リンクを作成',
-  mCreateLinkContent: 'リンクの期限日を選択してください。期限日以降はリンクからアクセスできなくなります。',
+  mCreateLinkContent: 
+    "<p>プロジェクトのリンクを共有して、顧客が登録不要でアクセスできるようにしましょう。</p>"
+    '<p>リンクの期限日を選択してください。期限日以降はリンクからアクセスできなくなります。</p>',
   mLinkExpiresOn: '期限日',
   mLinkCreatedTitle: '作成したリンクを共有',
   mLinkCreatedContent:

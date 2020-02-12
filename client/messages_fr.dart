@@ -820,7 +820,9 @@ const frClient = const <String, String> {
   mRevokeOAppTargetContent: 'Cette application n\'aura plus accès à votre [=target].',
   mRevokeOAppAllTargetContent: "Cette application n'aura plus accès à vos données dans Quire.",
   mCreateLinkTitle: 'Créer un lien de partage',
-  mCreateLinkContent: 'Sélectionnez quand le lien va expirer afin qu\'il ne soit plus acessible après.',
+  mCreateLinkContent: 
+    "<p>Partagez un lien vers votre projet avec vos clients pour qu'ils puissent y accéder sans se connecter.</p>"
+    '<p>Sélectionnez quand le lien va expirer afin qu\'il ne soit plus acessible après.</p>',
   mLinkExpiresOn: 'Expire le',
   mLinkCreatedTitle: 'Lien de partage créé',
   mLinkCreatedContent:

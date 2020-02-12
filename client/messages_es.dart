@@ -821,7 +821,9 @@ const esClient = const <String, String> {
   mRevokeOAppTargetContent: 'Esta aplicación ya no tendrá acceso a tus [=target].',
   mRevokeOAppAllTargetContent: 'Esta aplicación ya no tendrá acceso a tus datos de Quire.',
   mCreateLinkTitle: 'Crear Enlace para compartir',
-  mCreateLinkContent: 'Selecciona la fecha de caducidad del enlace, tras la que ya no será accesible.',
+  mCreateLinkContent: 
+    "<p>Comparte un enlace de tu proyecto con tus clientes y así podrán acceder sin registrarse.</p>"
+    '<p>Selecciona la fecha de caducidad del enlace, tras la que ya no será accesible.</p>',
   mLinkExpiresOn: 'Caduca el',
   mLinkCreatedTitle: 'Compartir Enlace Creado',
   mLinkCreatedContent:
