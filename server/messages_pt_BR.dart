@@ -855,6 +855,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mWeekly: "Semanalmente",
   mStartedAt: "Iniciado",
   mCompletedAt: "Concluído",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",

@@ -840,6 +840,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mWeekly: "Chaque semaine",
   mStartedAt: "Commencé",
   mCompletedAt: "Terminé",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "Vous pouvez choisir les notifications que vous voulez recevoir en sélectionnant les options suivantes. "
     "Cela ne s'appliquera qu'à votre compte, pas aux autres membres du projet.",

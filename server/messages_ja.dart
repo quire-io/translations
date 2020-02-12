@@ -856,6 +856,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mWeekly: "毎週",
   mStartedAt: "開始",
   mCompletedAt: "完了",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",

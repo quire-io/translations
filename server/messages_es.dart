@@ -856,6 +856,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mWeekly: "Semanal",
   mStartedAt: "Comenzada",
   mCompletedAt: "Completada",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",

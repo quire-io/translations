@@ -856,6 +856,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mWeekly: "Settimanalmente",
   mStartedAt: "Iniziata",
   mCompletedAt: "Completata",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "Puoi scegliere quali notifiche desideri ricevere selezionando le seguenti opzioni. "
     "Questa impostazione si applica solo al tuo account anziché a tutti i membri di questo progetto.",

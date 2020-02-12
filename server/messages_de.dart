@@ -853,6 +853,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mWeekly: "Wöchentlich",
   mStartedAt: "Gestartet",
   mCompletedAt: "Erledigt",
+  mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",
