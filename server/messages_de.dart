@@ -859,6 +859,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     "This setting will only apply to your account instead of every members in this project.",
   mAssignNotifications: "New tasks assigned to me",
   mCommentNotifications: "New comments",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "All updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Aktivitätsbenachrichtungen senden",

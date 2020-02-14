@@ -862,6 +862,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     "This setting will only apply to your account instead of every members in this project.",
   mAssignNotifications: "New tasks assigned to me",
   mCommentNotifications: "New comments",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "All updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Enviar Notificaciones de Actividad",

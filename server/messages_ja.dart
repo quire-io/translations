@@ -862,6 +862,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     "This setting will only apply to your account instead of every members in this project.",
   mAssignNotifications: "New tasks assigned to me",
   mCommentNotifications: "New comments",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "All updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "アクティビティーの通知を送信",

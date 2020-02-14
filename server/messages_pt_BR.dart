@@ -861,6 +861,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     "This setting will only apply to your account instead of every members in this project.",
   mAssignNotifications: "New tasks assigned to me",
   mCommentNotifications: "New comments",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "All updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Enviar Notificações de Atividade",

@@ -846,6 +846,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     "Cela ne s'appliquera qu'à votre compte, pas aux autres membres du projet.",
   mAssignNotifications: "Nouvelles tâches qui me sont assignées",
   mCommentNotifications: "Nouveaux commentaires",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "Toutes les modifications",
   mSettingManageReminder: "Gérer les notifications de rappel",
   mSendActivityNotification: "Envoyer des notifications d'activité",

@@ -862,6 +862,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     "Questa impostazione si applica solo al tuo account anziché a tutti i membri di questo progetto.",
   mAssignNotifications: "Nuove attività assegnate a me",
   mCommentNotifications: "Nuovi commenti",
+  mCommentMeNotifications: "Mention me",
   mUpdateNotifications: "Tutti gli aggiornamenti",
   mSettingManageReminder: "Gestisci le impostazioni dei promemoria",
   mSendActivityNotification: "Invia Notifiche attività",
