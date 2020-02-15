@@ -810,8 +810,8 @@ const jaClient = const <String, String> {
   mIntegraGithubRepoErrorTitle: "保存に失敗しました",
   mIntegraGithubRepoErrorContent:
     'エラーが発生しました。'
-    '私たちが問題の解決に努めている間に、再度お試しください。<br>'
-    'エラーが解消しない場合は、私たちまで<a href="/feedback">お問い合わせ</a>ください。',
+    '
+    'Githubアカウントでアクセスが許可されているかご確認ください。',
   mIntegraGithubRepoSuccessTitle: "保存に成功しました",
   mIntegraGithubRepoSuccessContent: '5秒後にプロジェクトに移動します。',
   mIntegrationUnlinklSlackTitle: 'リンクを解除',
