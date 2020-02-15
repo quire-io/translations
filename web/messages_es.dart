@@ -62,10 +62,10 @@ const esWeb = const <String, String> {
   mFeatureHierarchyDesc: "Aborda grandes proyectos dividiéndolos en pasos más pequeños y manejables.",
   mFeatureBoardTitle: "Tablero Kanban",
   mFeatureBoardDesc: "Visualiza tu trabajo para enfocar y administrar mejor tus tareas.",
-  mFeatureSublistTitle: "Sublist",
-  mFeatureSublistDesc: "Create personalized sublists to get focused on the right tasks at the right time.",
+  mFeatureSublistTitle: "Sublista",
+  mFeatureSublistDesc: "Crea sublistas personalizadas para centrarte en las tareas correctas a su debido tiempo.",
   mFeatureMytasksTitle: "Mis Tareas de un Vistazo",
-  mFeatureMytasksDesc: "Stay on top of tasks related to you across all projects.",
+  mFeatureMytasksDesc: "Mantente al tanto de las tareas relacionadas contigo en todos los proyectos.",
   mFeatureSmartFolderTitle: "Dossiers Inteligentes",
   mFeatureSmartFolderDesc: "Organiza y consulta las tareas de los diferentes proyectos que elijas en un solo lugar.",
   mFeatureExternalTeamTitle: "Asignar a un Equipo Externo",
@@ -306,9 +306,9 @@ const esWeb = const <String, String> {
     "en las tareas seleccionadas y visualiza tu flujo de trabajo con el tablero Kanban.",
   mBoardTutorialAddBoardTitle: "Nombra tu tablero",
   mBoardTutorialAddBoardContent:
-    "<p>Después de enumerar todas las tareas para la carrera benéfica contra el hambre infantil, "
-    "ahora te gustaría centrarte en algunas tareas en la etapa inicial. Simplemente crea un tablero.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
+    "<p>Después de enumerar cientos de tareas para la carrera benéfica contra el hambre infantil, "
+    "ahora te gustaría centrarte en algunas tareas cruciales de la etapa inicial. Simplemente crea un tablero.</p>"
+    '<p>Para añadir un tablero, haz click en el botón "+", elige Añadir tablero, e introduce el nombre del Tablero.</p>',
   mBoardTutorialAddBoardTip: "Consejo: Puedes crear varios tableros para las diferentes etapas de tu proyecto.",
   mBoardTutorialAssignBoardTitle: "Comienza a añadir tareas al tablero",
   mBoardTutorialAssignBoardContent:
@@ -412,20 +412,20 @@ const esWeb = const <String, String> {
   mSublistTutorialAddSublistTip: "Consejo: Puedes crear tantas sublistas como quieras para un proyecto.",
   mSublistTutorialPickTaskTitle: "Select las Tareas Correctas y Añádelas a una Sublista",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>LPongamos que estás trabajando en un proyecto de "Carrera Benéfica Infantil" '
+    'que incluye cientos de tareas. Hay al menos 10 personas que colaboran en él. '
+    'No puedes estar creando diferentes etiquetas para organizar las tareas de las que estás a cargo. '
+    'No puede shacer Peekaboo para ocultar las tareas irrelevantes porque otros miembros del equipo todavía necesitan verlas.</p>'
+    '<p>Respira hondo y crea tu primera sublista para resolver el problema. Simplemente, selecciona las tareas importantes '
+    'que quieres ver agrupadas y muévelas a una lista distinta. AHora tienes tu propia lista de tareas en la que centrarte, '
+    'sin que te distraigan otras cosas.</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
+    "<p>Cuando selecciones la tarea raíz y la agregues a la sublista, sus subtareas serán automáticamente "
+    "añadidas a la lista.</p>"
+    "<p>Sin embargo, puede seleccionar las subtareas de la tarea raíz por separado  "
+    "y añadirlas a la recientemente creada sublista.</p>"
+    "<p>Para diferenciar la sublista recién creada de la lista maestra, puede utilizar algunos iconos divertidos "
+    "y cambiar el color del icono de tu sublista.</p>",
   mSublistTutorialShareTitle: "Comparte la Sublista con la Gente Adecuada",
   mSublistTutorialShareContent:
     "<p>Tras elegir las tareas y agregarlas a una sublista, también podrás "
@@ -443,11 +443,11 @@ const esWeb = const <String, String> {
   mSublistTutorialSmartNavigationTip: "Consejo: siempre puedes mover las pestañas de la sublista para organizar sus posiciones.",
   mSublistTutorialOrganizeTitle: "Organiza las Tareas entre Distintas Sublistas",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>¿Qué ocurre si quieres organizar las tareas entre varias sublistas?</p>"
+    "<p>Simplemente arrastra y suelta las tareas para moverlas a otra sublista, oeganizándolas así mejor. Cuando sueltas un bloque de tareas en otra sublista, la estructura de árbol entre ellas se mantendrá como la original.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
+    "<p>Cuando trabajes en tu sublista, dado que ésta se comporta como un reflejo de la lista principal, independientemente de los cambios que realices en una de tus sublistas, afectará a tu lista principal.</p>"
+    '<p>Si quieres navegar rápidamente entre vistas, utiliza el atajo "(" o ")"</p>',
   mSublistTutorialOrganizeTip: "Consejo: ¡Siempre puedes volver a la lista principal para ver el panorama general de tu proyecto!",
   mSublistTutorialTodoTitle: "Enfréntate a una abrumadora lista de tareas pendientes de forma brillante",
   mSublistTutorialTodoContent:
