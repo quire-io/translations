@@ -848,7 +848,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mCommentNotifications: "Nouveaux commentaires",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "Toutes les modifications",
+  mUpdateNotifications: "All other updates",
   mSettingManageReminder: "Gérer les notifications de rappel",
   mSendActivityNotification: "Envoyer des notifications d'activité",
   mSendActivityNotificationDesc: "Vous pouvez personnaliser les notifications que vous voulez recevoir depuis les paramètres du projet.",

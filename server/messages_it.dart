@@ -864,7 +864,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mCommentNotifications: "Nuovi commenti",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "Tutti gli aggiornamenti",
+  mUpdateNotifications: "All other updates",
   mSettingManageReminder: "Gestisci le impostazioni dei promemoria",
   mSendActivityNotification: "Invia Notifiche attività",
   mSendActivityNotificationDesc: "È possibile personalizzare le notifiche che si desidera ricevere dalla sezione delle impostazioni del progetto.",

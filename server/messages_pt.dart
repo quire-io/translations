@@ -865,7 +865,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mCommentNotifications: "New comments",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All updates",
+  mUpdateNotifications: "All other updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Enviar Notificações de Atividade",
   mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",

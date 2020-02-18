@@ -864,7 +864,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mCommentNotifications: "Nuevos comentarios",
   mCommentAllNotifications: "Todos los comentarios",
   mCommentMeNotifications: "Sólo los que me mencionan",
-  mUpdateNotifications: "Todas las actualizaciones",
+  mUpdateNotifications: "All other updates",
   mSettingManageReminder: "Administrar ajustes de recordatorios",
   mSendActivityNotification: "Enviar Notificaciones de Actividad",
   mSendActivityNotificationDesc: "Puedes personalizar qué notificaciones quieres recibir desde la sección de ajustes del proyecto.",

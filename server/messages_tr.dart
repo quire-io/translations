@@ -864,7 +864,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mCommentNotifications: "New comments",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All updates",
+  mUpdateNotifications: "All other updates",
   mSettingManageReminder: "Manage reminder settings",
   mSendActivityNotification: "Send Activity Notifications",
   mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
