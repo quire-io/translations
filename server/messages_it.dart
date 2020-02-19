@@ -677,7 +677,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mKeyAssign: 'Assegna...',
   mKeyDueDate: 'Assegna Data Scadenza',
   mKeyAddTag: 'Aggiungi Etichetta',
-  mKeyAddComment: 'Aggiunti commento',
+  mKeyAddComment: 'Aggiungi commento',
   mKeyOpenUndoList: 'Apri elenco delle operazioni di annullamento',
   mKeyPrint: 'Stampa attività',
   mKeyDrillDown: 'Zoom in o out l\' attività selezionata',

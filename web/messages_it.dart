@@ -280,7 +280,7 @@ const itWeb = const <String, String> {
     'Premi @, #, <, !, ^, / sulla tastiera quando sono selezionate le attività.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Aggiungi assegnatario</li>"
-    "<li><kbd>#</kbd> &mdash; Aggiunti etichetta</li>"
+    "<li><kbd>#</kbd> &mdash; Aggiungi etichetta</li>"
     "<li><kbd><</kbd> &mdash; Aggiungi data di scadenza</li>"
     "<li><kbd>!</kbd> &mdash; Imposta la priorità</li>"
     "<li><kbd>^</kbd> &mdash; Aggiungi attività alla bacheca</li>"
@@ -387,7 +387,7 @@ const itWeb = const <String, String> {
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Aggiungi assegnatario</li>"
-    "<li><kbd>#</kbd> &mdash; Aggiunti etichetta</li>"
+    "<li><kbd>#</kbd> &mdash; Aggiungi etichetta</li>"
     "<li><kbd><</kbd> &mdash; Aggiungi data di scadenza</li>"
     "<li><kbd>!</kbd> &mdash; Imposta la priorità</li>"
     "<li><kbd>^</kbd> &mdash; Aggiungi attività alla bacheca</li>"
