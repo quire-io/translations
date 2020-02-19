@@ -1328,6 +1328,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "Für diese Ansicht gibt es aktuell nur Lesezugriff. Für Neuigkeiten diesbezüglich, folgen Sie uns auf",
   mMobilePermissionDenyCamera: "Quire benötigt die Berechtigung, um auf Ihre Kamera zuzugreifen. Erteilen Sie diese in den Einstellungen.",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "Oh nein!",
   mMobileCrashRefreshDesc: "Da ging wohl etwas schief, aber wir haben das Problem auf dem Schirm. Sie können versuchen die Seite neu zu laden.",
   mMobileBatchNOSelectedDesc: "Sie müssen mindestens eine Aufgabe auswählen.",

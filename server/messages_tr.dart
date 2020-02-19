@@ -1333,6 +1333,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
   mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "Oops!",
   mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
   mMobileBatchNOSelectedDesc: "You need to select at least one task.",

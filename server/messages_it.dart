@@ -1333,6 +1333,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileMenuAddToMyTask: "Aggiungi alle mie attività",
   mMobileReadOnlyProfileDesc: "E\' una vista in sola lettura per il momento. Per aggiornamenti e notizie, seguici su ",
   mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "Oops!",
   mMobileCrashRefreshDesc: "sembra che qualche cosa sia andata storta! Tracciamo questi errori automaticamente. Nel frattempo, puoi provare a ricaricare.",
   mMobileBatchNOSelectedDesc: "Devi selezionare almeno un\'attività.",

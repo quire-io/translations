@@ -1333,6 +1333,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "読み取り専用で閲覧しています。最新のお知らせを受け取るには、Quireをフォローしてください。",
   mMobilePermissionDenyCamera: "カメラの設定でQuireのアクセスを許可してください。",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "残念！",
   mMobileCrashRefreshDesc: "問題が発生したようです。エラーは自動的に送信されていますが、まずリロード（再読み込み）をお試しください。",
   mMobileBatchNOSelectedDesc: "タスク1件以上を選択してください。",

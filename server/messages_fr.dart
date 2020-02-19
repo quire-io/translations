@@ -1317,6 +1317,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileMenuAddToMyTask: "Ajouter à Mes Tâches",
   mMobileReadOnlyProfileDesc: "C'est en mode lecture seule pour l'instant. Pour les mises à jour et les actualités, suivez-nous sur",
   mMobilePermissionDenyCamera: "Vous devez allez dans les Paramètres et donner l'autorisation à Quire d'accéder à votre appareil photo.",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "Oups !",
   mMobileCrashRefreshDesc: "On dirait qu'il y a eu un problème ! Nous traquons ces erreurs automatiquement. En attendant, vous pouvez esssayer de réactualiser.",
   mMobileBatchNOSelectedDesc: "Vous devez sélectionner au moins une tâche.",

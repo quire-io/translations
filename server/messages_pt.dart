@@ -1334,6 +1334,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileMenuAddToMyTask: "Adicionar às Minhas Tarefas",
   mMobileReadOnlyProfileDesc: "Por enquanto é uma visualização somente de leitura. Para atualizações e notícias, siga-nos em",
   mMobilePermissionDenyCamera: "Precisa de ir às Definições e dar permissão para que o Quire aceda à sua Câmara.",
+  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
   mMobileCrashRefreshTitle: "Ups!",
   mMobileCrashRefreshDesc: "Parece que algo correu mal! Nós monitoramos estes erros automaticamente. Entretanto, pode tentar recarregar a página.",
   mMobileBatchNOSelectedDesc: "Precisa de selecionar pelo menos uma tarefa.",
