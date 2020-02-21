@@ -625,7 +625,7 @@ const enClient = const <String, String> {
     'This tag will be removed from other projects in the same organization as well.',
 
   mSearchTagPlaceholder: "Search tags",
-
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] has been deleted",
   mTaskCompleted: "[=task] has been completed",
 

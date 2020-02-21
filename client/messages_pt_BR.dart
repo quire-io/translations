@@ -504,6 +504,7 @@ const ptBrClient = const <String, String> {
     'Você está prestes a <strong>excluir permanentemente</strong> a tag [=name].<br><br>'
     'Essa tag será também removida de outros projetos na mesma organização.',
   mSearchTagPlaceholder: "Pesquisar tags",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] foi excluída",
   mTaskCompleted: "[=task] foi concluída",
   mTaskNotFound: "A tarefa [=id] não foi encontrada.",

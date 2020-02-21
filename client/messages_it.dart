@@ -499,6 +499,7 @@ const itClient = const <String, String> {
     'Stai per <strong>eliminare permanentemente</strong> l\'etichetta [=name].<br><br>'
     'Questa etichetta sarà rimossa anche da altri progetti della stessa organizzazione.',
   mSearchTagPlaceholder: "Cerca etichette",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] è stata cancellata",
   mTaskCompleted: "[=task] è stata completata",
   mTaskNotFound: "Attività [=id] non trovata.",

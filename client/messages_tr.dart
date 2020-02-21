@@ -493,6 +493,7 @@ const trClient = const <String, String> {
     '[=name] etiketini <strong>kalıcı olarak silmek</strong> üzeresiniz.<br><br>'
     'Bu etiket aynı organizasyondaki diğer projelerden de kaldırılacak.',
   mSearchTagPlaceholder: "Etiketleri ara",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] görevi silindi",
   mTaskCompleted: "[=task] görevi tamamlandı",
   mTaskNotFound: "Görev [=id] bulunamadı.",

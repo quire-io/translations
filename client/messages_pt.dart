@@ -504,6 +504,7 @@ const ptClient = const <String, String> {
     'Está prestes a <strong>eliminar permanentemente</strong> a tag [=name].<br><br>'
     'Esta tag será também removida de outros projetos na mesma organização.',
   mSearchTagPlaceholder: "Pesquisar tags",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] foi eliminada",
   mTaskCompleted: "[=task] foi concluída",
   mTaskNotFound: "A tarefa [=id] não foi encontrada.",

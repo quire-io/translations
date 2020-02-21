@@ -499,6 +499,7 @@ const frClient = const <String, String> {
     'Vous êtes sur le point de <strong>supprimer définitivement</strong> l\'étiquette [=name].<br><br>'
     'Cette étiquette sera également retirée des autres projets de la même organisation.',
   mSearchTagPlaceholder: "Chercher des étiquettes",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] a été supprimée",
   mTaskCompleted: "[=task] a été terminée",
   mTaskNotFound: "Tâche [=id] introuvable.",

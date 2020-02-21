@@ -493,6 +493,7 @@ const deClient = const <String, String> {
     'Das Tag [=name] wird hiermit <strong>permanent gelöscht</strong>.<br><br>'
     'Dieses Tag wird auch von anderen Projekten in der selben Organisation entfernt.',
   mSearchTagPlaceholder: "Tags durchsuchen",
+  mBackToTask: "Continue on [=task]",
   mTaskRemoved: "[=task] wurde gelöscht",
   mTaskCompleted: "[=task] wurde erledigt",
   mTaskNotFound: "Aufgabe [=id] konnte nicht gefunden werden.",
