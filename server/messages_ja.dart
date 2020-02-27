@@ -1035,6 +1035,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     "Quire APIにアクセスできる回数の上限は、1分につき<b>[=size]</b>回です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mDenyLeaveDueToOnlyAdmin: "申し訳ありません。他に管理者がいないので、退出できません。",
+  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
   mSlackError:
     '申し訳ありません。予期しないエラーが発生しました。'
     "問題の解決に努めていますが、"

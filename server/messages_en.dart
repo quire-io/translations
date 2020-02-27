@@ -1362,6 +1362,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mDenyLeaveDueToOnlyAdmin:
     "Sorry, you cannot leave because you are the only admin left.",
+  mDenyLeaveDueToOrgRight:
+    "Sorry, you cannot leave this project because you're also the organization's member.",
 
   // FOLLOWING is used for Slack
   mSlackError:

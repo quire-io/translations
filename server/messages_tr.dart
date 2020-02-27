@@ -1035,6 +1035,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
     'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
   mDenyLeaveDueToOnlyAdmin: "Sorry, you cannot leave because you are the only admin left.",
+  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
   mSlackError:
     'Sorry, we encountered an unexpected error. '
     "We will look into it, but "

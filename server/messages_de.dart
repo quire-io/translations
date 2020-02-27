@@ -1030,6 +1030,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     "Sie können nicht öfters als <b>[=size]</b> mal pro Minute auf die Quire API zugreifen. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für weitere Informationen.',
   mDenyLeaveDueToOnlyAdmin: "Sorry, Sie können das Projekt nicht verlassen, weil Sie der einzig verbleibende Administrator sind.",
+  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
   mSlackError:
     'Entschuldigung, wir haben einen unerwarteten Fehler festgestellt. '
     "Wir werden uns darum kümmern, aber "

@@ -1034,6 +1034,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     "Você não pode acessar à API do Quire mais do que <b>[=size]</b> vezes em um minuto. "
     'Por favor, <a href="mailto:support@quire.io">entre em contato conosco</a> para obter uma cota maior.',
   mDenyLeaveDueToOnlyAdmin: "Desculpe, você não pode sair porque é o único administrador que resta.",
+  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
   mSlackError:
     'Desculpe, encontramos um erro inesperado. '
     "Vamos dar uma olhada, mas "
