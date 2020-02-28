@@ -62,10 +62,10 @@ const jaWeb = const <String, String> {
   mFeatureHierarchyDesc: "大きなプロジェクトを、小さく管理しやすいステップに細分化しましょう。",
   mFeatureBoardTitle: "かんばんボード",
   mFeatureBoardDesc: "作業の流れを可視化して、効率化しましょう。",
-  mFeatureSublistTitle: "Sublist",
-  mFeatureSublistDesc: "Create personalized sublists to get focused on the right tasks at the right time.",
+  mFeatureSublistTitle: "サブリスト",
+  mFeatureSublistDesc: "自分だけのサブリストを作成して、やるべきときにやるべき仕事に集中しましょう。",
   mFeatureMytasksTitle: "タスク一覧",
-  mFeatureMytasksDesc: "Stay on top of tasks related to you across all projects.",
+  mFeatureMytasksDesc: "複数のプロジェクトに渡って、大切なタスクすべてを一覧できます。",
   mFeatureSmartFolderTitle: "スマートフォルダー",
   mFeatureSmartFolderDesc: "手持ちのタスクをプロジェクト別に確認して整理できます。",
   mFeatureExternalTeamTitle: "外部チームに委託",
@@ -298,106 +298,106 @@ const jaWeb = const <String, String> {
   mBoardTutorialLinkTitle: "Quireかんばんボードで作業の流れを可視化",
   mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
   mSignupToday: "今日からQuireで始めましょう！",
-  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+  mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
-    "After dumping and organizing all your ideas in the nested task list view, "
-    "it’s time to work on your project!<br>"
-    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
-    "on selected tasks and visualize your workflow with the Kanban board.",
-  mBoardTutorialAddBoardTitle: "Name Your Board",
+    "階層タスクリストにアイデアを詰め込んだら、"
+    "プロジェクトの開始です。<br>"
+    'かんばんボードで作業の流れを可視化して、'
+    "選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中focused</a>しましょう。",
+  mBoardTutorialAddBoardTitle: "ボードに名前を付ける",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>「子どもたちのためのチャリティーラン2018」に何百ものタスクをリストアップしたら、"
+    "最初の段階のタスクに集中するためにボードを作成しましょう。</p>"
+    '<p>ボードを追加するには、「ボードを追加」ボタンを押して、ボード名を入力します。</p>',
+  mBoardTutorialAddBoardTip: "ヒント：プロジェクトの進捗に合わせて、必要な数だけボードを作成できます。",
+  mBoardTutorialAssignBoardTitle: "ボードにタスクを追加",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>まずタスクリストから今の段階で実行するタスクを選んで追加しましょう。</p>"
+    '<p>欄の右上の「+」アイコンをクリックして、「既存のタスクを追加」を選択します。</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>追加できるタスクがないときは、"
+    "ボード表示のままで新しいタスクを作成できます。</p>"
+    '<p>そのときは「新しいタスクを作成」を選択してください。</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">ご注意：ボード表示で作成したタスクは、'
+    "タスク一覧にも作成されます。</span></p>"
+    '<p><span class="note">ヒント：キーボードで「Ctrl」（Macは「Alt」）キーを押すと、パンくずリストが表示され、'
+    "子タスクの親をたどることができます。</span></p>",
+  mBoardTutorialAssignOthersTitle: "詳しく計画",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>開始日や期限日、担当者、タグなど詳しい情報も追加できます。</p>"
+    '<p>詳細を追加するには、「日にち」「担当者」「タグ」アイコンをクリックします。</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "ヒント：キーボードで「Space」キーを押すと、"
+    '<a href="/w/Getting_Started_with_Quire/45/">詳細パネル</a>が表示されます。'
+    "詳細パネルには説明や添付ファイル、コメントを追加できます。",
+  mBoardTutorialOrganizeProgressTitle: "進捗に合わせて整理",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>優先度に応じて欄の中でタスクの順序を入れ替えたり、"
+    "進捗に合わせてタスクを別の欄にドラッグ&ドロップしたりすることができます。</p>"
+    "<p>プロジェクトの動きがひと目で分かります。</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>欄にタスクがたまって"
+    "作業量やメンバーの進捗が"
+    "分かりにくくなってきた……。</p>"
+    "<p>そんなときはフィルターまたは並べ替え機能で、必要なタスクだけを表示しましょう。"
+    "例えば担当者でフィルターをかけ、特定のメンバーの担当タスクのみを表示することができます。</p>",
+  mBoardTutorialShortcutTitle: "便利なショートカットキー",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>追加と編集</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd>　タスクを新規作成</li>"
+    "<li><kbd>F2</kbd>　タスク名を編集</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>ナビゲーション</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd>　上のタスクに移動</li>"
+    "<li><kbd>↓</kbd>　下のタスクに移動</li>"
+    "<li><kbd>Space</kbd>　右の詳細パネルを表示</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>複数選択</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd>　複数のタスクを選択</li>"
+    "<li><kbd>Ctrl + A</kbd>　すべてのタスクを選択</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>移動</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd>　タスクを上下に移動</li>"
+    "<li><kbd>Ctrl + ←/→</kbd>　タスクを左右に移動して欄を変更</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    '<p><span class="note">ご注意：ボード表示で日付順に並べ替えたとき、'
+    "タスクを別のスイムレーンに移動することはできません。</span></p>"
+    "<h3>タスクのアクション</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd>　選択したタスクの担当者を自分に設定</li>"
+    "<li><kbd>Ctrl + /</kbd>　選択したタスクを完了</li>"
+    "<li><kbd>Ctrl + Z</kbd>　「元に戻す」ウィンドウを表示</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>コピー&ペースト</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd>　選択したタスクをコピー</li>"
+    "<li><kbd>Ctrl + V</kbd>　コピーまたはカットしたタスクをペースト</li>"
+    "<li><kbd>Ctrl + X</kbd>　選択したタスクをカット</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignTitle: "担当者をすばやく設定",
   mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>"
+    '担当者やタグをササッと設定するには、'
+    "タスクを選択して「@」や「#」「<」「!」「^」「/」を押します。"
     "</p>"
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd>　担当者を追加</li>"
+    "<li><kbd>#</kbd>　タグを追加</li>"
+    "<li><kbd><</kbd>　期限日を追加</li>"
+    "<li><kbd>!</kbd>　優先度を設定</li>"
+    "<li><kbd>^</kbd>　タスクをボードに追加</li>"
+    "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
+  mBoardTutorialContextmenuTitle: "右クリックで設定メニューを表示",
+  mBoardTutorialContextmenuContent: "タスクを右クリックして設定メニューを表示し、期限日や担当者、タグを設定できます。",
+  mBoardTutorialContextmenuTip: "ヒント：ボード表示とタスクリスト表示を切り替えて、いつでもプロジェクトの全体像を確認できます。",
+  mBoardTutorialYourBoardTitle: "ボードを使ってみよう！",
+  mBoardTutorialYourBoardContent: "かんばんボードについて、ご紹介はここまでです。あとは実際に使ってお楽しみください！",
   mSublistTutorialTitle: "Quire Tutorial - Sublist",
   mSublistTutorialDesc:
     "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
@@ -455,9 +455,9 @@ const jaWeb = const <String, String> {
     "and your team productivity! Productivity is all about getting focused on "
     "the right thing at the right time!</p>"
     "<p>Now go get things done and achieve your dreams!</p>",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
+  mLearnMoreDoc: "もっと詳しく",
+  mGettingStartedLinkTitle: "初めてガイドで機能を確認",
+  mBlogLinkTitle: "Quireブログでお知らせや使いこなしのヒントをチェック",
   mMobileWelcomeP1Title1: "ようこそ",
   mMobileWelcomeP1Title2: "Quireへ",
   mMobileWelcomeP2Title: "スタートから完成まで",
