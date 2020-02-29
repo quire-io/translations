@@ -788,7 +788,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mSettingAppAuthSec: "認証済みのアプリ",
   mSettingAppAuthSecDesc:
     '次のアプリをQuireで認証しました。連携サービスについて、詳しくは'
-    '<a href="/apps" target="quire_app">Quireアプリディレクトリ</a>をチェックしてください。',
+    '<a href="/apps" target="quire_app">Quireアプリディレクトリ</a>をご覧ください。',
   mAppListAuthTarget: 'アクセス',
   mOauthViewTitle: "許可する",
   mOauthViewDesc: "[=name]さんは、次のことが許可されます。",
@@ -858,16 +858,16 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mCompletedAt: "完了",
   mSettingNotificationsTitle: "Notify me about",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "New tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mCommentAllNotifications: "All comments",
+    "受け取る通知の種類は、以下のオプションから選択できます。"
+    "この設定はご自身のアカウントのみに適用され、このプロジェクトの他のメンバーについては適用されません。",
+  mAssignNotifications: "自分が担当の新規タスク",
+  mCommentNotifications: "新しいコメント",
+  mCommentAllNotifications: "すべてのコメント",
   mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All other updates",
-  mSettingManageReminder: "Manage reminder settings",
+  mUpdateNotifications: "その他のお知らせ",
+  mSettingManageReminder: "予定の通知を設定",
   mSendActivityNotification: "アクティビティーの通知を送信",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
+  mSendActivityNotificationDesc: "受け取る通知の種類は、プロジェクトの設定から変更できます。",
   mActivityNotice: "アクティビティーの通知",
   mReceiveBlogPosts: "ブログの最新記事",
   mReceivePolicyUpdates: "Quire会員登録とポリシーについて",
@@ -904,8 +904,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAppDirectoryHeader: "アプリディレクトリ",
   mAppDirectoryTitle: "Quireと、その先へ",
   mAppDirectoryTitleIntro: 'プロジェクト管理をより楽しくかんたんにする、<br>おすすめの連携サービスです。',
-  mAppSearchPlaceholder: "検索アプリ",
-  mAppDirectoryBackApps: '閲覧アプリ',
+  mAppSearchPlaceholder: "アプリ検索",
+  mAppDirectoryBackApps: 'アプリ一覧',
   mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
   mAppDeveloperHeader: "開発者",
   mAppDeveloperTitle: "Quireと一緒に、すごいものを作りましょう！",
@@ -920,7 +920,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAppContactDeveloper: 'アプリ開発者に連絡',
   mAppInstallButton: 'インストール',
   mAppInstallLabel: 'インストール済み',
-  mAppAuthDesc: '[=app]は認証されると、次の動作ができます。',
+  mAppAuthDesc: '[=app]は認証されると、次の動作が許可されます。',
   mAppAuthTarget: '[=app]は次のデータにアクセスできます。',
   mAppAuthSpecifyTarget: '指定の組織やプロジェクト',
   mAppAuthSpecifyTargetDesc: '組織またはプロジェクトを選択',
@@ -1035,7 +1035,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     "Quire APIにアクセスできる回数の上限は、1分につき<b>[=size]</b>回です。"
     '<a href="mailto:support@quire.io">私たちまで連絡</a>して割り当てを増やしてください。',
   mDenyLeaveDueToOnlyAdmin: "申し訳ありません。他に管理者がいないので、退出できません。",
-  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
+  mDenyLeaveDueToOrgRight: "申し訳ありません。組織のメンバーは、このプロジェクトから退出できません。",
   mSlackError:
     '申し訳ありません。予期しないエラーが発生しました。'
     "問題の解決に努めていますが、"
@@ -1333,8 +1333,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileSidebarSearchForPrj: "プロジェクトを検索",
   mMobileMenuAddToMyTask: "Add to My Tasks",
   mMobileReadOnlyProfileDesc: "読み取り専用で閲覧しています。最新のお知らせを受け取るには、Quireをフォローしてください。",
-  mMobilePermissionDenyCamera: "カメラの設定でQuireのアクセスを許可してください。",
-  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
+  mMobilePermissionDenyCamera: "設定から、カメラへのアクセスをQuireに許可してください。",
+  mMobilePermissionDenyPhotos: "「設定」から、写真へのアクセスをQuireに許可してください。",
   mMobileCrashRefreshTitle: "残念！",
   mMobileCrashRefreshDesc: "問題が発生したようです。エラーは自動的に送信されていますが、まずリロード（再読み込み）をお試しください。",
   mMobileBatchNOSelectedDesc: "タスク1件以上を選択してください。",
