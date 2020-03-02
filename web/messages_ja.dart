@@ -303,7 +303,7 @@ const jaWeb = const <String, String> {
     "階層タスクリストにアイデアを詰め込んだら、"
     "プロジェクトの開始です。<br>"
     'かんばんボードで作業の流れを可視化して、'
-    "選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中focused</a>しましょう。",
+    '選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中focused</a>しましょう。',
   mBoardTutorialAddBoardTitle: "ボードに名前を付ける",
   mBoardTutorialAddBoardContent:
     "<p>「子どもたちのためのチャリティーラン2018」に何百ものタスクをリストアップしたら、"
@@ -381,7 +381,7 @@ const jaWeb = const <String, String> {
     "</ul>",
   mBoardTutorialQuickAssignTitle: "担当者をすばやく設定",
   mBoardTutorialQuickAssignContent:
-    "<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>"
+    '<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>'
     '担当者やタグをササッと設定するには、'
     "タスクを選択して「@」や「#」「<」「!」「^」「/」を押します。"
     "</p>"

@@ -401,7 +401,7 @@ const enClient = const <String, String> {
   // batch
   mTreeBatchCompleteTooltip: "Complete",
   mTreeBatchAssigneeTooltip: "Assignee",
-  mTreeBatchDateTooltip: "Due date",
+  mTreeBatchDateTooltip: "Date",
   mTreeBatchPriorityTooltip: "Priority",
   mTreeBatchDeleteTooltip: "Delete",
   
@@ -497,7 +497,7 @@ const enClient = const <String, String> {
   mMoreInfo: "More info",
   mNOther: ", and there's [=count] more",
 
-  mDueDate: "Due date",
+  mDueDate: "Date",
   mDueDateGroupComing: "Upcoming",
 
   mAssigneePickerPlaceholder: "Set assignee by name or email",
@@ -603,7 +603,7 @@ const enClient = const <String, String> {
   mDatepickerSwitchTooltip: "Start/Due",
   mDatepickerTimeTooltip: "Add time",
 
-  mDatepickerTitle: "Due Date",
+  mDatepickerTitle: "Date",
 
   mTag: "Tag",
   mTags: "Tags",
