@@ -62,10 +62,10 @@ const ptBrWeb = const <String, String> {
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos gerenciáveis.",
   mFeatureBoardTitle: "Quadro Kanban",
   mFeatureBoardDesc: "Visualize seu fluxo de trabalho para gerenciar melhor e se concentrar em suas tarefas.",
-  mFeatureSublistTitle: "Sublist",
-  mFeatureSublistDesc: "Create personalized sublists to get focused on the right tasks at the right time.",
+  mFeatureSublistTitle: "Sublista",
+  mFeatureSublistDesc: "Crie sublistas personalizadas para se concentrar nas tarefas certas, na hora certa.",
   mFeatureMytasksTitle: "Minhas Tarefas Resumidas",
-  mFeatureMytasksDesc: "Stay on top of tasks related to you across all projects.",
+  mFeatureMytasksDesc: "Fique por dentro das tarefas relacionadas a você em todos os projetos.",
   mFeatureSmartFolderTitle: "Pastas Inteligentes",
   mFeatureSmartFolderDesc: "Visualize e organize tarefas de diferentes projetos que você escolheu em um só lugar.",
   mFeatureExternalTeamTitle: "Terceirize para uma Equipe Externa",
@@ -308,7 +308,7 @@ const ptBrWeb = const <String, String> {
   mBoardTutorialAddBoardContent:
     "<p>Depois de listar suas centenas de tarefas para o evento Corrida Infantil para Caridade, "
     "agora você gostaria de se concentrar em algumas tarefas cruciais no estágio inicial. Basta criar um quadro.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
+    '<p>Para adicionar um quadro, clique no botão "+", escolha Adicionar quadro e digite o nome do Quadro.</p>',
   mBoardTutorialAddBoardTip: "Dica: Você pode criar vários quadros para diferentes estágios do seu projeto.",
   mBoardTutorialAssignBoardTitle: "Comece a Adicionar Tarefas ao Quadro",
   mBoardTutorialAssignBoardContent:
@@ -398,63 +398,63 @@ const ptBrWeb = const <String, String> {
   mBoardTutorialContextmenuTip: "Dica: Você pode alternar entre a exibição do Quadro e a exibição da lista de Tarefas para obter uma visão geral de todo o projeto.",
   mBoardTutorialYourBoardTitle: "Crie Seu Próprio Quadro Agora!",
   mBoardTutorialYourBoardContent: "É tudo o que temos a falar sobre o quadro Kanban por enquanto. Vá em frente e divirta-se!",
-  mSublistTutorialTitle: "Quire Tutorial - Sublist",
+  mSublistTutorialTitle: "Tutorial Quire - Sublista",
   mSublistTutorialDesc:
-    "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
-    'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
-    'so you can focus on the right tasks at the right time, without any distraction.',
-  mSublistTutorialAddSublistTitle: "Name Your Sublist",
+    "Lidar com uma lista cada vez maior de tarefas compartilhadas entre os membros da equipe nunca foi tão fácil com a Sublista Quire!<br>"
+    'Selecione várias tarefas importantes e adicione-as a <a href="/blog/p/Quire-sublist.html">uma sublista personalizada</a> '
+    'para que você possa se concentrar nas tarefas certas, no momento certo, sem nenhuma distração.',
+  mSublistTutorialAddSublistTitle: "Nomeie Sua Sublista",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
-  mSublistTutorialAddSublistTip: "Tip: You can create as many sublists as you want for a project.",
-  mSublistTutorialPickTaskTitle: "Select the Right Tasks and Add to Sublist",
+    "<p>Cansad@ de olhar para uma lista sem fim à vista? Existem muitas tarefas "
+    "que não são relevantes para você, mas você não pode fazer Peekaboo para escondê-las "
+    "porque outros membros ainda estão trabalhando nessas tarefas. A sublista está aqui para resgatar você!</p>"
+    '<p>Para adicionar uma sublista, clique no botão "+" e escolha "Adicionar sublista".</p>',
+  mSublistTutorialAddSublistTip: "Dica: Você pode criar quantas sublistas quiser para um projeto.",
+  mSublistTutorialPickTaskTitle: "Selecione as Tarefas Certas e Adicione à Sublista",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Digamos que você esteja trabalhando em um projeto "Corrida Infantil para Caridade" '
+    'que envolve centenas de tarefas. Há pelo menos 10 pessoas que colaboram juntas. '
+    'Você não pode continuar criando tags diferentes para organizar as tarefas pelas quais é responsável. '
+    'Você não pode fazer Peekaboo para esconder as tarefas irrelevantes porque outros membros da equipe ainda precisam visualizá-las.</p>'
+    '<p>Respire fundo e crie sua primeira sublista para resolver seu problema. Basta selecionar as tarefas importantes '
+    'que você deseja visualizar juntas e passar para uma lista separada. Agora você tem sua própria lista de tarefas para se concentrar, '
+    'sem se distrair com tudo o resto.</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
-  mSublistTutorialShareTitle: "Share the Sublist with the Right People",
+    "<p>Quando você seleciona a tarefa raiz e a adiciona à sublista, suas subtarefas serão automaticamente "
+    "adicionadas à lista.</p>"
+    "<p>No entanto, você pode optar por selecionar as subtarefas separadamente da tarefa raiz "
+    "e adicionar à sublista recém-criada.</p>"
+    "<p>Para diferenciar a sublista recém-criada com a lista principal, você pode adicionar alguns ícones divertidos "
+    "e alterar a cor do ícone para sua sublista.</p>",
+  mSublistTutorialShareTitle: "Compartilhe a Sublista com as Pessoas Certas",
   mSublistTutorialShareContent:
-    "<p>After choosing the tasks and adding to a sublist, you can also "
-    "choose with whom you want to share the sublist with. There are three options "
-    "for you to choose from: share with an External Team, share with all of "
-    "the Project Members or keep the sublist private for yourself.</p>",
-  mSublistTutorialSmartNavigationTitle: "Smart Navigation for Better Organization",
+    "<p>Depois de escolher as tarefas e adicionar a uma sublista, você também pode "
+    "escolher com quem você deseja compartilhar a sublista. Existem três opções "
+    "para você escolher: compartilhar com uma Equipe Externa, compartilhar com todos "
+    "os Membros do Projeto ou manter a sublista privada para si.</p>",
+  mSublistTutorialSmartNavigationTitle: "Navegação Inteligente para uma Melhor Organização",
   mSublistTutorialSmartNavigationContent:
-    "<p>There’s no limitation for how many sublists that you can create for a project. "
-    "Each sublist serves as a customized list view for you to get focused and "
-    "organize your tasks.</p>"
-    "<p>When you are having too many sublists, you might want to pin the most used sublists "
-    "(and even boards!) for quick navigation between the main list and its subordinates "
-    "and coordinators.</p>",
-  mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
-  mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
+    "<p>Não há limitação para quantas sublistas você pode criar para um projeto. "
+    "Cada sublista serve como uma exibição em lista personalizada para você se concentrar e "
+    "organizar suas tarefas.</p>"
+    "<p>Quando você está tendo muitas sublistas, pode fixar as sublistas mais usadas "
+    "(e até quadros!) para uma navegação rápida entre a lista principal e suas subordinadas "
+    "e coordenadores.</p>",
+  mSublistTutorialSmartNavigationTip: "Dica: Você sempre pode mover as guias da sublista para organizar suas posições.",
+  mSublistTutorialOrganizeTitle: "Organize as Tarefas entre Diferentes Sublistas",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>E se você quiser organizar as tarefas entre várias sublistas?</p>"
+    "<p>Simplesmente arraste e solte as tarefas para movê-las para outra sublista para uma melhor organização. Quando você coloca um monte de tarefas em outra sublista, a estrutura da árvore entre elas será mantida como original.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
-  mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
-  mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
+    "<p>Quando você está trabalhando em sua sublista, uma vez que ela se comporta como um espelho da lista principal, quaisquer que sejam as alterações que você fizer em uma de suas sublistas, ela afetará sua lista principal.</p>"
+    '<p>Se você deseja navegar rapidamente entre as vistas, use o atalho "(" ou ")"</p>',
+  mSublistTutorialOrganizeTip: "Dica: Você sempre pode voltar para a lista principal para ver o panorama geral do seu projeto!",
+  mSublistTutorialTodoTitle: "Enfrente uma Lista de Tarefas Esmagadora como uma Equipe Vencedora",
   mSublistTutorialTodoContent:
-    "<p>Don’t let the stress of an ever-growing to-do list beat you "
-    "and your team productivity! Productivity is all about getting focused on "
-    "the right thing at the right time!</p>"
-    "<p>Now go get things done and achieve your dreams!</p>",
+    "<p>Não deixe o estresse de uma lista de tarefas sempre crescente vencer você "
+    "e a produtividade da sua equipe! A produtividade é focar-se na "
+    "coisa certa, na hora certa!</p>"
+    "<p>Agora, faça as coisas acontecerem e realize seus sonhos!</p>",
   mLearnMoreDoc: "Saber Mais",
   mGettingStartedLinkTitle: "Recursos em nosso Guia de Introdução",
   mBlogLinkTitle: "Notícias, dicas e inspirações em nosso Blog",
