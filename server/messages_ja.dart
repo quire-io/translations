@@ -572,7 +572,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   "AT$atUntag": "[=who]さんが[=what]からタグ[=value]を消去しました",
   "AT$atTransferTask": "[=who]さんが[=what]を[=value]に移動しました",
   "AT$atDuplicateTask": "[=who]さんが[=value]から[=what]を複製しました",
-  "AT$atTaskMention": "[=who]さんの[=what][=value]に、お名前が挙がりました",
+  "AT$atTaskMention": "[=who]さんの[=what][=value]でメンションされました",
   "AT$atDuplicateRecurring": "[=who]さんが繰り返しのタスク[=value]から[=what]を複製しました",
   "AT$atSetPriority": "[=who]さんが[=what]の優先度を[=value]に設定しました",
   "AT$atSetTaskType": "[=who]さんが[=what]の種類を[=value]に設定しました",
@@ -605,7 +605,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   "AT$atDuplicateProject": "[=who]さんが[=value]からコピーして[=what]を作成しました",
   "AT$atSetPublic": "[=who]さんが[=what]を公開に設定しました",
   "AT$atUnsetPublic": "[=who]さんが[=what]をプライベートに設定しました",
-  "AT$atProjectMention": "[=who]さんの[=what][=value]に、お名前が挙がりました",
+  "AT$atProjectMention": "[=who]さんの[=what][=value]でメンションされました",
   "AT$atGithubConfig": "[=who]さんが[=what]をGithub：[=value]に連携しました",
   "AT$atGithubUnconfig": "[=who]さんがGithub：[=value]から[=what]の連携を解除しました",
   "AT$atAuthorizeProject": "[=who]さんが[=value]に[=what]へアクセスするための役割[=extra]を設定しました",
@@ -706,7 +706,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMDCheckList: 'チェックリスト',
   mMDLink: 'リンク',
   mMDMention:
-    '名前を挙げるまたは参照するには、<b><i>@user_name</i></b>や'
+    'メンションするまたは参照するには、<b><i>@user_name</i></b>や'
     '<b><i>#task_name</i></b>も使えます。',
   mMDAbout:
     '<a target="_blank" href="'
@@ -856,14 +856,14 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mWeekly: "毎週",
   mStartedAt: "開始",
   mCompletedAt: "完了",
-  mSettingNotificationsTitle: "Notify me about",
+  mSettingNotificationsTitle: "受信する通知",
   mSettingNotificationsDesc:
     "受け取る通知の種類は、以下のオプションから選択できます。"
     "この設定はご自身のアカウントのみに適用され、このプロジェクトの他のメンバーについては適用されません。",
   mAssignNotifications: "自分が担当の新規タスク",
   mCommentNotifications: "新しいコメント",
   mCommentAllNotifications: "すべてのコメント",
-  mCommentMeNotifications: "Mention me only",
+  mCommentMeNotifications: "自分へのメンションのみ",
   mUpdateNotifications: "その他のお知らせ",
   mSettingManageReminder: "予定の通知を設定",
   mSendActivityNotification: "アクティビティーの通知を送信",
@@ -948,7 +948,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     '<a href="[=url]">ここをクリック</a>して、フォローできます。',
   mTipF1: "ヒント：「F1」キーを押して、キーボードショートカットを表示",
   mTipSelectMultiple: "ヒント：<code>[=ctrlCommand]+クリック</code>または<code>Shift+クリック</code>で、複数のタスクを選択",
-  mTipMention: 'ヒント：説明またはコメントに「<b><i>@user_name</i>」と</b>入力して、名前を挙げる',
+  mTipMention: 'ヒント：説明またはコメントに<b><i>@user_name</i>と</b>入力して、メンションする',
   mTipReference: 'ヒント：説明またはコメントに<b><i>#task_name</i>と</b>入力して、タスクを参照',
   mTipDrillDown: 'ヒント：<code>[=ctrlCommand]+I</code>でタスクにズームインし、子タスクのみを表示',
   mTipTwitter:
