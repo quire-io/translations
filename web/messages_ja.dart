@@ -19,7 +19,7 @@ Welcome to [=systemName] version [=systemVersion]"
 const jaWeb = const <String, String> {
   mSlogan: "アイデアを、広げよう。",
   mSloganSentence: "アイデアを、広げよう。",
-  mSloganSubtitle: 'プロジェクトの成功へ 、ビジュアル重視のコラボレーション・プラットフォーム。',
+  mSloganSubtitle: 'プロジェクトの成功へ、ビジュアル重視のコラボレーション・プラットフォーム。',
   mQuireDescription: '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
   mHomeSectionDreamsTitle: "夢を、かたちに",
   mHomeSectionDreamsDesc:
@@ -200,7 +200,7 @@ const jaWeb = const <String, String> {
   mTutorialSetDueTitle: "期限を設定",
   mTutorialSetDueContent:
     "<p>期限のないタスクは、つい後回しにしがちです。</p>"
-    '<p>期限を設定するには、リスト内のタスクの「日にち」アイコンをクリックします。</p>',
+    '<p>期限を設定するには、リスト内のタスクの「日付」アイコンをクリックします。</p>',
   mTutorialAssigneeTitle: "タスクに担当者を設定",
   mTutorialAssigneeContent:
     "<p>「スポンサー」という名前のタスクを作りましたが、誰がスポンサーを探すのでしょうか。</p>"
@@ -326,7 +326,7 @@ const jaWeb = const <String, String> {
   mBoardTutorialAssignOthersTitle: "詳しく計画",
   mBoardTutorialAssignOthersContent:
     "<p>開始日や期限日、担当者、タグなど詳しい情報も追加できます。</p>"
-    '<p>詳細を追加するには、「日にち」「担当者」「タグ」アイコンをクリックします。</p>',
+    '<p>詳細を追加するには、「日付」「担当者」「タグ」アイコンをクリックします。</p>',
   mBoardTutorialAssignOthersTip:
     "ヒント：キーボードで「Space」キーを押すと、"
     '<a href="/w/Getting_Started_with_Quire/45/">詳細パネル</a>が表示されます。'
