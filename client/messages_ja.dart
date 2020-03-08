@@ -499,7 +499,7 @@ const jaClient = const <String, String> {
     'タグ[=name]を<strong>永久に削除</strong>します。<br><br>'
     'このタグは同じ組織の他のプロジェクトからも消去されます',
   mSearchTagPlaceholder: "タグを検索",
-  mBackToTask: "[=task]に戻る",
+  mBackToTask: "[=task]を続行",
   mTaskRemoved: "[=task]は削除されました",
   mTaskCompleted: "[=task]は完了されました",
   mTaskNotFound: "タスク[=id]が見つかりません。",
