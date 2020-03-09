@@ -1070,7 +1070,7 @@ const enClient = const <String, String> {
 
   mArchiveBoardContent: 
     "You are about to archive this board. An archived board will be "
-    "moved to the Archived category in the dropdown.",
+    "moved to the Archived category in the dropdown menu.",
 
   mArchiveBoardOptionMigrate: 'Move remaining tasks to a new board',
   mArchiveBoardOptionLeaveTasks: 'Leave remaining tasks in the current board',
