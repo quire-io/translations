@@ -261,7 +261,7 @@ const jaWeb = const <String, String> {
     "<li><kbd>Ctrl + ↑/↓</kbd>　タスクを上下に移動</li>"
     "<li><kbd>Ctrl + ←/→</kbd>　タスクを左右に移動してレベルを変更</li>"
     "</ul>"
-    "<h3>タスクのアクション/h3>"
+    "<h3>タスクのアクション</h3>"
     "<ul>"
     "<li><kbd>Ctrl + M</kbd>　選択したタスクの担当者を自分に設定</li>"
     "<li><kbd>Ctrl + /</kbd>　選択したタスクを完了</li>"
