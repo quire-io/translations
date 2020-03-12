@@ -193,7 +193,7 @@ const jaWeb = const <String, String> {
     "<ul>"
     '<li><strong>タスクを追加</strong>　上方の「+」アイコンをクリック、'
     'またはキーボードで「t」キーを押します。「Enter」キーを押して確定し、再度押してさらにタスクを追加します。</li>'
-    "<li><strong>子タスクを追加/strong>　タスクを子タスクにするには、「Tab」キーを押します。</li>"
+    "<li><strong>子タスクを追加</strong>　タスクを子タスクにするには、「Tab」キーを押します。</li>"
     "<li><strong>追加を終了</strong>　「Esc」キーを押します。</li>"
     "</ul>"
     "<p>Word文書の使い方と同じですね。</p>",
