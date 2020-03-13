@@ -777,8 +777,6 @@ const deClient = const <String, String> {
   mPasswordChanged: 'Das Passwort wurde erfolgreich geändert',
   mShowPassword: 'Passwort anzeigen',
   mSyncCalendarTitle: "Mit Kalender synchronisieren",
-  mSyncHtmlCalendarOption: "Google Kalender (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook oder andere Kalender (Text)",
   mSyncHtmlCalendarContent:
     'Folgende Schritte befolgen:'
     '<ol>'
@@ -794,16 +792,6 @@ const deClient = const <String, String> {
     'Es kann bis zu 12 Stunden dauern, bis die Änderungen in Ihrem Google Kalender zu sehen sind.',
   mSyncPlainTextCalendarContent: 'Kopieren Sie obige URL und fügen Sie diese Ihrem Kalender hinzu.',
   mSyncPlainTextCalendarContentNote: 'Es werden nur aktive Aufgaben mit Fälligkeitsdaten angezeigt.',
-  mSyncCalendarScopeLabel: 'Synchronisieren',
-  mSyncCalendarToLabel: 'Nach',
-  mSyncCalendarProjectTask: 'Alle Aufgaben in diesem Projekt',
-  mSyncCalendarProjectMyTask: 'Meine Aufgaben in diesem Projekt',
-  mSyncCalendarMyTask: 'Meine Aufgaben in allen Projekten',
-  mIntegrationGithubTitle: 'GitHub Integration',
-  mIntegrationGithubContent:
-    'Sie können GitHub Commits mit Ihren Aufgaben verknüpfen. Dadurch kann jeder in Ihrem Team Veränderungen am Code mitverfolgen oder Aufgaben automatisch erledigen.<br><br>'
-    'Mit Blick auf die Veränderungen im Code können Sie sich auf die relevanten Aufgaben beziehen, die als Punkte in Quire aufgeführt werden.<br><br>'
-    'Mehr über <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">GitHub Integration</a>',
   mIntegraGithubRepoErrorTitle: "Speichern Fehlgeschlagen",
   mIntegraGithubRepoErrorContent:
     'Ups... es ist ein Fehler aufgetreten. '

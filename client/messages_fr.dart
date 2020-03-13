@@ -783,8 +783,6 @@ const frClient = const <String, String> {
   mPasswordChanged: 'Le mot de passe a été changé avec succès',
   mShowPassword: 'Afficher le mot de passe',
   mSyncCalendarTitle: "Synchroniser avec le calendrier",
-  mSyncHtmlCalendarOption: "Google Agenda (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook ou les autres calendriers (Texte Brut)",
   mSyncHtmlCalendarContent:
     'Suivez les étapes :'
     '<ol>'
@@ -798,16 +796,6 @@ const frClient = const <String, String> {
     'La synchronisation avec Google Agenda peut prendre un jour.',
   mSyncPlainTextCalendarContent: 'Copiez l\'adresse ci-dessus et rendez-vous dans votre application d\'agenda pour vous abonner.',
   mSyncPlainTextCalendarContentNote: 'Seules les tâches non terminées avec des dates d\'échéance seront terminées.',
-  mSyncCalendarScopeLabel: 'Synchroniser',
-  mSyncCalendarToLabel: 'À',
-  mSyncCalendarProjectTask: 'Toutes les tâches de ce projet',
-  mSyncCalendarProjectMyTask: 'Mes tâches dans ce projet',
-  mSyncCalendarMyTask: 'Mes tâches dans tous les projets',
-  mIntegrationGithubTitle: "Intégration GitHub",
-  mIntegrationGithubContent:
-    'Vous pouvez lier les commits GitHub à vos tâches pour que votre équipe puisse suivre les modifications de code, ou terminer automatiquement les tâches.<br><br>'
-    'À propos des modifications de code, vous pouvez aussi faire référence aux tâches utilisées en tant que problèmes dans Quire.<br><br>'
-    'En savoir plus à propos de <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">l\'intégration GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Échec de la sauvegarde",
   mIntegraGithubRepoErrorContent:
     'Oups… On dirait que nous avons eu un problème. '

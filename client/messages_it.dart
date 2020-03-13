@@ -783,8 +783,6 @@ const itClient = const <String, String> {
   mPasswordChanged: 'Password modificata correttamente',
   mShowPassword: 'Mostra password',
   mSyncCalendarTitle: "Sincornizza con il calendario",
-  mSyncHtmlCalendarOption: "Google Calendar (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook o Altri Calendari (Plain Text)",
   mSyncHtmlCalendarContent:
     'Segui i passi:'
     '<ol>'
@@ -798,16 +796,6 @@ const itClient = const <String, String> {
     'Potrebbe volerci un giorno per far si che Google Calendar sia sincronizzato.',
   mSyncPlainTextCalendarContent: 'Copia l\' URL qui sopra e apri la tua applicazione di calendario per aggiungere l\' iscrizione.',
   mSyncPlainTextCalendarContentNote: 'Solo attività incomplete con date di scadenza verranno mostrate.',
-  mSyncCalendarScopeLabel: 'Sincronizza',
-  mSyncCalendarToLabel: 'A',
-  mSyncCalendarProjectTask: 'Tutte le attività in questo progetto',
-  mSyncCalendarProjectMyTask: 'Le mie attività in questo progetto',
-  mSyncCalendarMyTask: 'Le mie attività in tutti i progetti',
-  mIntegrationGithubTitle: "Integrazione con GitHub",
-  mIntegrationGithubContent:
-    'Puoi collegare commit di GitHub alle attività in modot che chiunque nella tua squadra possa tener traccia delle modifiche al codice, o completare automaticamente le attività.<br><br>'
-    'Guardando le modifiche al codice, puoi anche riferirti a compiti rilevanti utilizzati come attività in Quire.<br><br>'
-    'Maggiori informazioni riguardo <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">l\' integrazione con GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Salvataggio fallito",
   mIntegraGithubRepoErrorContent:
     'Oops... sembra che ci sia stato un errore. '

@@ -783,8 +783,6 @@ const esClient = const <String, String> {
   mPasswordChanged: 'La contraseña ha sido cambiada satisfactoriamente',
   mShowPassword: 'Mostrar contraseña',
   mSyncCalendarTitle: "Sincronizar con el Calendario",
-  mSyncHtmlCalendarOption: "Google Calendar (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook u Otro Calendario (Texto plano)",
   mSyncHtmlCalendarContent:
     'Sigue estos pasos:'
     '<ol>'
@@ -798,16 +796,6 @@ const esClient = const <String, String> {
     'Puede pasar hasta un día para que Google Calendar sincronice.',
   mSyncPlainTextCalendarContent: 'Copia la URL de arriba y ve a tu aplicación de calendario para suscribirte.',
   mSyncPlainTextCalendarContentNote: 'solo se mostrarán las tareas incompletas con fecha de vencimiento.',
-  mSyncCalendarScopeLabel: 'Sincronizar',
-  mSyncCalendarToLabel: 'Con',
-  mSyncCalendarProjectTask: 'Todas las tareas en este proyecto',
-  mSyncCalendarProjectMyTask: 'Mis tareas en este proyecto',
-  mSyncCalendarMyTask: 'Mis tareas en todos los proyectos',
-  mIntegrationGithubTitle: "Integración con GitHub",
-  mIntegrationGithubContent:
-    'Puedes vincular commits de GitHub commits a tus tareas, de esta forma cualquiera en tu equipo podrá estar al tanto de los cambios en el código, o autocompletar tareas.<br><br>'
-    'Sobre los cambios, también puedes hacer referencia a las tareas relevantes a modo de incidencias en Quire.<br><br>'
-    'Más sobre la <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integración con GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Error al Guardar",
   mIntegraGithubRepoErrorContent:
     'Vaya... parece que hemos encontrado un error. '

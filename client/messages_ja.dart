@@ -783,8 +783,6 @@ const jaClient = const <String, String> {
   mPasswordChanged: 'パスワードの変更に成功しました',
   mShowPassword: 'パスワードを表示',
   mSyncCalendarTitle: "カレンダーと同期",
-  mSyncHtmlCalendarOption: "Googleカレンダー (HTML)",
-  mSyncPlainTextCalendarOption: "iCal、Outlook、またはその他のカレンダー（プレーンテキスト）",
   mSyncHtmlCalendarContent:
     '次の手順に従ってください。'
     '<ol>'
@@ -798,16 +796,6 @@ const jaClient = const <String, String> {
     'Googleカレンダーと同期されるまで、1日程度かかることがあります。',
   mSyncPlainTextCalendarContent: '上記URLをコピーし、お手持ちのカレンダーアプリに追加してください。',
   mSyncPlainTextCalendarContentNote: '期限日を設定した未完了のタスクのみが表示されます。',
-  mSyncCalendarScopeLabel: '同期',
-  mSyncCalendarToLabel: 'アプリ',
-  mSyncCalendarProjectTask: 'このプロジェクトのすべてのタスク',
-  mSyncCalendarProjectMyTask: 'このプロジェクトの自分のタスク',
-  mSyncCalendarMyTask: 'すべてのプロジェクトの自分のタスク',
-  mIntegrationGithubTitle: "GitHubと連携",
-  mIntegrationGithubContent:
-    'GtiHubのコミットをタスクとリンクさせて、チームメンバー全員がソースコードの変更を確認したり、タスクを自動的に完了したりできるようにしましょう。<br><br>'
-    'ソースコードの変更について、issueとQuireの関連するタスクをお互いに参照することもできます。<br><br>'
-    '<a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">GitHubとの連携</a>の詳しい説明',
   mIntegraGithubRepoErrorTitle: "保存に失敗しました",
   mIntegraGithubRepoErrorContent:
     'エラーが発生しました。'

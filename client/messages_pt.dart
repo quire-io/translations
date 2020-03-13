@@ -788,8 +788,6 @@ const ptClient = const <String, String> {
   mPasswordChanged: 'A palavra-passe foi alterada com sucesso',
   mShowPassword: 'Mostrar palavra-passe',
   mSyncCalendarTitle: "Sincronizar com Calendário",
-  mSyncHtmlCalendarOption: "Calendário Google (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook ou Outro Calendário (Texto Simples)",
   mSyncHtmlCalendarContent:
     'Siga os passos:'
     '<ol>'
@@ -803,16 +801,6 @@ const ptClient = const <String, String> {
     'Pode demorar um dia para sincronizar o Calendário Google.',
   mSyncPlainTextCalendarContent: 'Copie o URL acima e aceda à sua aplicação de calendário para subscrever.',
   mSyncPlainTextCalendarContentNote: 'Apenas as tarefas incompletas com prazos limite serão mostradas.',
-  mSyncCalendarScopeLabel: 'Sincronizar',
-  mSyncCalendarToLabel: 'Para',
-  mSyncCalendarProjectTask: 'Todas as tarefas neste projeto',
-  mSyncCalendarProjectMyTask: 'As Minhas Tarefas neste projeto',
-  mSyncCalendarMyTask: 'As Minhas Tarefas em todos os projetos',
-  mIntegrationGithubTitle: "Integração com o GitHub",
-  mIntegrationGithubContent:
-    'Pode vincular os commits do GitHub às suas tarefas para que todas as pessoas da sua equipa possam acompanhar as alterações no código ou as tarefas de preenchimento automático.<br><br>'
-    'Ao ver as alterações de código, também pode consultar as tarefas relevantes usadas como problemas no Quire.<br><br>'
-    'Mais sobre <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">Integração com o GitHub</a>',
   mIntegraGithubRepoErrorTitle: "Guardar Falhou",
   mIntegraGithubRepoErrorContent:
     'Ups...parece que encontrámos um erro. '

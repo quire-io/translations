@@ -1005,8 +1005,6 @@ const enClient = const <String, String> {
   mShowPassword: 'Show password',
 
   mSyncCalendarTitle: "Sync to Calendar",
-  mSyncHtmlCalendarOption: "Google Calendar (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook or Other Calendar (Plain Text)",
   mSyncHtmlCalendarContent: 
     'Follow the steps:'
     '<ol>'
@@ -1022,16 +1020,6 @@ const enClient = const <String, String> {
     'Copy the URL above and go to your calendar app to subscribe.',
   mSyncPlainTextCalendarContentNote:
     'Only incomplete tasks with due dates will be shown.',
-  mSyncCalendarScopeLabel: 'Sync',
-  mSyncCalendarToLabel: 'To',
-  mSyncCalendarProjectTask: 'All tasks in this project',
-  mSyncCalendarProjectMyTask: 'My tasks in this project',
-  mSyncCalendarMyTask: 'My tasks in all projects',
-
-  mIntegrationGithubTitle: "GitHub Integration",
-  mIntegrationGithubContent: 'You can link GitHub commits to your tasks so everyone on your team can keep track of the code changes, or autocomplete tasks.<br><br>'
-    'Looking at the code changes, you can also refer to the relevant tasks used as issues on Quire.<br><br>'
-    'More about <a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">GitHub Integration</a>',
 
   mIntegraGithubRepoErrorTitle: "Saving Failed",
   mIntegraGithubRepoErrorContent: 

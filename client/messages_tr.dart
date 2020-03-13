@@ -777,8 +777,6 @@ const trClient = const <String, String> {
   mPasswordChanged: 'Şifre başarıyla değiştirildi',
   mShowPassword: 'Şifreyi göster',
   mSyncCalendarTitle: "Takvime Senkronize Et",
-  mSyncHtmlCalendarOption: "Google Takvim (HTML)",
-  mSyncPlainTextCalendarOption: "iCal, Outlook veya Diğer Takvim (Düz Metin)",
   mSyncHtmlCalendarContent:
     'Adımları takip et:'
     '<ol>'
@@ -792,16 +790,6 @@ const trClient = const <String, String> {
     'Google Takvim\'in senkronize olması bir gün sürebilir.',
   mSyncPlainTextCalendarContent: 'Yukarıdaki URL\'yi kopyalayın ve abone olmak için takvim uygulamanıza gidin.',
   mSyncPlainTextCalendarContentNote: 'Yalnızca bitiş tarihleri olan tamamlanmamış görevler gösterilir.',
-  mSyncCalendarScopeLabel: 'Eşitle',
-  mSyncCalendarToLabel: 'To',
-  mSyncCalendarProjectTask: 'Bu projedeki tüm görevler',
-  mSyncCalendarProjectMyTask: 'Bu projedeki görevlerim',
-  mSyncCalendarMyTask: 'Tüm projelerdeki görevlerim',
-  mIntegrationGithubTitle: "GitHub Entegrasyonu",
-  mIntegrationGithubContent:
-    'GitHub görevlerini görevlerinize bağlayabilirsiniz, böylece ekibinizdeki herkes kod değişikliklerini veya görevleri otomatik olarak tamamlayabilir.<br><br>'
-    'Kod değişikliklerine bakarken, Quire\'daki ilgili görevlere de başvurabilirsiniz..<br><br>'
-    '<a target="_blank" href="/blog/p/Hello-GitHub-We-are-Quire.html">GitHub Entegrasyonu</a> hakkında daha fazla bilgi için tıklayın',
   mIntegraGithubRepoErrorTitle: "Kaydetme Başarısız",
   mIntegraGithubRepoErrorContent:
     'Hata! Görünüşe göre bir hatayla karşılaştık. '
