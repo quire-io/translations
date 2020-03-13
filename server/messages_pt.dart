@@ -66,6 +66,7 @@ const ptServer = const <String, String> {
   mAboutQuire: "Sobre o Quire",
   mGetStarted: "COMEÇAR",
   mSignupForFree: "EXPERIMENTE - É GRÁTIS!",
+  mPrivacyPolicy: "Privacy Policy",
   mTerms: "Termos",
   mTermsOFService: "Termos de Serviço",
   mFaq: "FAQ",

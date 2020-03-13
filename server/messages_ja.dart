@@ -66,6 +66,7 @@ const jaServer = const <String, String> {
   mAboutQuire: "Quireについて",
   mGetStarted: "始めましょう",
   mSignupForFree: "今すぐ無料で使ってみましょう！",
+  mPrivacyPolicy: "Privacy Policy",
   mTerms: "規約",
   mTermsOFService: "利用規約",
   mFaq: "よくあるご質問",

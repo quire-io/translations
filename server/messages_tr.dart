@@ -66,6 +66,7 @@ const trServer = const <String, String> {
   mAboutQuire: "About Quire",
   mGetStarted: "GET STARTED",
   mSignupForFree: "GET STARTED - It's FREE!",
+  mPrivacyPolicy: "Privacy Policy",
   mTerms: "Terms",
   mTermsOFService: "Terms of Service",
   mFaq: "FAQ",

@@ -66,6 +66,7 @@ const frServer = const <String, String> {
   mAboutQuire: "À propos de Quire",
   mGetStarted: "COMMENCER",
   mSignupForFree: "COMMENCER - C'est GRATUIT !",
+  mPrivacyPolicy: "Privacy Policy",
   mTerms: "Conditions",
   mTermsOFService: "Conditions d'Utilisation",
   mFaq: "FAQ",

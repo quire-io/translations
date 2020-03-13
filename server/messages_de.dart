@@ -66,6 +66,7 @@ const deServer = const <String, String> {
   mAboutQuire: "Über Quire",
   mGetStarted: "KOSTENLOS REGISTRIEREN",
   mSignupForFree: "Kostenlosen Account erstellen",
+  mPrivacyPolicy: "Privacy Policy",
   mTerms: "Nutzungsbedingungen",
   mTermsOFService: "Nutzungsbedingungen",
   mFaq: "FAQ",
