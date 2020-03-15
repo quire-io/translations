@@ -452,7 +452,7 @@ const jaWeb = const <String, String> {
   mSublistTutorialTodoTitle: "どんなに長いやることリストもチームで達成",
   mSublistTutorialTodoContent:
     "<p>やるべきことが山積しても、"
-    "チームの意欲をそぎません。生産性向上の鍵は、"
+    "チームのモチベーションを維持しましょう。生産性向上の鍵は、"
     "やるべきときにやるべきことを集中して行うことにあります。</p>"
     "<p>課題を1つずつ達成して、夢をかたちにしてください。</p>",
   mLearnMoreDoc: "もっと詳しく",
