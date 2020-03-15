@@ -134,7 +134,7 @@ const jaWeb = const <String, String> {
   mFeatureImportDesc: "他のプロジェクト管理ソフトからスムーズに乗り換えができます。",
   mFeatureExportTitle: "エクスポート",
   mFeatureExportDesc: "プロジェクトのデータをCSV形式に変換してエクセルで編集したり、JSON形式に変換していろいろな処理を施したりバックアップを取ったりできます。",
-  mFeaturePasteTitle: "コピー&ペースト",
+  mFeaturePasteTitle: "コピー＆ペースト",
   mFeaturePasteDesc: "ワードやエクセル、電子メールなどアプリから内容をコピーして、Quireのタスクとして貼り付けることができます。",
   mFeatureGoogleDriveTitle: "ファイルの共有",
   mFeatureGoogleDriveDesc: "ファイルをかんたんにアップロードしたり、Googleドライブのファイルをタスクに添付したりできます。",
@@ -219,23 +219,23 @@ const jaWeb = const <String, String> {
   mTutorialAutocompleteTitle: "入力しながらすばやく追加",
   mTutorialAutocompleteContent:
     "<p>タスクの追加と詳細の設定は、同時にできます。</p>"
-    "<p>タスクを追加しながら<strong>期限</strong>を設定するには<strong>&lt;&gt;</strong>を、"
-    "<strong>担当者</strong>を設定するには<strong>@</strong> を、"
-    "<strong>タグ</strong>を設定するには<strong>#</strong>を、入力します。"
+    "<p>タスクを追加しながら<strong>期限</strong>を設定するには「<strong>&lt;&gt;</strong>」を、"
+    "<strong>担当者</strong>を設定するには「<strong>@</strong>」を、"
+    "<strong>タグ</strong>を設定するには「<strong>#</strong>」を、入力します。"
     '例えば、「広報キットの作成&lt;金曜日&gt;@David#広報」。</p>',
   mTutorialDetailPanelTitle: "詳しく説明",
   mTutorialDetailPanelContent:
     "<p>作業をスムーズに進めるために、詳しい説明が必要なこともあります。</p>"
     "<p>タスクに説明や添付ファイルを追加するには、"
-    '右上の「&lt;&lt;」をクリックします。詳細パネルのコメント欄では、他のメンバーと'
+    '画面右上の「&lt;&lt;」をクリックします。詳細パネルのコメント欄では、他のメンバーと'
     "リアルタイムでやり取りができます。</p>"
     '<p>説明やコメントで太字など文字飾りを使いたいときは、'
-    '<a href="/blog/p/Our-Very-Own-Markdown.html">マークダウン記法</a>をチェックしてください。</p>',
+    '<a href="/blog/p/Our-Very-Own-Markdown.html">マークダウン記法</a>が使えます。</p>',
   mTutorialDetailPanelTip: 'ヒント：押しピンのアイコンをクリックすると、詳細パネルを固定できます。',
   mTutorialDragTaskTitle: "とにかくメモしてあとで整理",
   mTutorialDragTaskContent:
-    "<p>タスクを間違えた場所に作成したときは、どうしたらいいでしょうか。</p>"
-    "<p>Quireでは、ドラッグ&ドロップでかんたんに正しい場所に移動することができます。"
+    "<p>間違えた場所に作成したタスクは、どうしたらいいでしょうか。</p>"
+    "<p>Quireでは、ドラッグ＆ドロップでかんたんに正しい場所に移動することができます。"
     "例えばTシャツやバンパーステッカー、水筒などの景品は、"
     '「広報キット」タスクの下に移動しましょう。</p>',
   mTutorialShortcutTitle: "便利なショートカットキー",
@@ -267,17 +267,17 @@ const jaWeb = const <String, String> {
     "<li><kbd>Ctrl + /</kbd>　選択したタスクを完了</li>"
     "<li><kbd>Ctrl + Z</kbd>　「元に戻す」ウィンドウを表示</li>"
     "</ul>"
-    "<h3>コピー&ペースト</h3>"
+    "<h3>コピー＆ペースト</h3>"
     "<ul>"
     "<li><kbd>Ctrl + C</kbd>　選択したタスクをコピー</li>"
     "<li><kbd>Ctrl + V</kbd>　選択したタスクをペースト</li>"
     "<li><kbd>Ctrl + X</kbd>　選択したタスクをカット</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "担当者をササッと設定",
+  mTutorialQuickAssignTitle: "担当者をすばやく設定",
   mTutorialQuickAssignContent:
     '<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>'
     '担当者やタグをすばやく設定するには、'
-    'タスクを選択して「@」や「#」「<」「!」「^」「/」を押します。</p>'
+    'タスクを選択して「@」や「#」「<」「!」「^」「/」キーを押します。</p>'
     "<ul>"
     "<li><kbd>@</kbd>　担当者を追加</li>"
     "<li><kbd>#</kbd>　タグを追加</li>"
@@ -289,7 +289,7 @@ const jaWeb = const <String, String> {
   mTutorialContextmenuTitle: "右クリックで設定メニューを表示",
   mTutorialContextmenuContent:
     "<p>タスクを右クリックして設定メニューを表示し、"
-    "期限日や担当者、タグを設定できます。</p>"
+    "期限日や担当者、タグを設定することができます。</p>"
     "<p>[=img]</p>"
     "<p>[=tip]]</p>"
     "<p>使い方が分かったところで、さっそくプロジェクトを開始しましょう！</p>",
@@ -303,16 +303,16 @@ const jaWeb = const <String, String> {
     "階層タスクリストにアイデアを詰め込んだら、"
     "プロジェクトの開始です。<br>"
     'かんばんボードで作業の流れを可視化して、'
-    '選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中focused</a>しましょう。',
+    '選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中</a>しましょう。',
   mBoardTutorialAddBoardTitle: "ボードに名前を付ける",
   mBoardTutorialAddBoardContent:
     "<p>「子どもたちのためのチャリティーラン2018」に何百ものタスクをリストアップしたら、"
     "最初の段階のタスクに集中するためにボードを作成しましょう。</p>"
     '<p>ボードを追加するには、「ボードを追加」ボタンを押して、ボード名を入力します。</p>',
-  mBoardTutorialAddBoardTip: "ヒント：プロジェクトの進捗に合わせて、必要な数だけボードを作成できます。",
+  mBoardTutorialAddBoardTip: "ヒント：ボードはプロジェクトの進捗に合わせて必要な数だけ作成できます。",
   mBoardTutorialAssignBoardTitle: "ボードにタスクを追加",
   mBoardTutorialAssignBoardContent:
-    "<p>まずタスクリストから今の段階で実行するタスクを選んで追加しましょう。</p>"
+    "<p>まずタスクリストからこの段階で実行するタスクを選んで追加しましょう。</p>"
     '<p>欄の右上の「+」アイコンをクリックして、「既存のタスクを追加」を選択します。</p>'
     "<p>[=img]</p>"
     "<p>追加できるタスクがないときは、"
@@ -334,7 +334,7 @@ const jaWeb = const <String, String> {
   mBoardTutorialOrganizeProgressTitle: "進捗に合わせて整理",
   mBoardTutorialOrganizeProgressContent:
     "<p>優先度に応じて欄の中でタスクの順序を入れ替えたり、"
-    "進捗に合わせてタスクを別の欄にドラッグ&ドロップしたりすることができます。</p>"
+    "進捗に合わせてタスクを別の欄にドラッグ＆ドロップしたりすることができます。</p>"
     "<p>プロジェクトの動きがひと目で分かります。</p>"
     "<p>[=img]</p>"
     "<p>欄にタスクがたまって"
@@ -373,7 +373,7 @@ const jaWeb = const <String, String> {
     "<li><kbd>Ctrl + /</kbd>　選択したタスクを完了</li>"
     "<li><kbd>Ctrl + Z</kbd>　「元に戻す」ウィンドウを表示</li>"
     "</ul>"
-    "<h3>コピー&ペースト</h3>"
+    "<h3>コピー＆ペースト</h3>"
     "<ul>"
     "<li><kbd>Ctrl + C</kbd>　選択したタスクをコピー</li>"
     "<li><kbd>Ctrl + V</kbd>　コピーまたはカットしたタスクをペースト</li>"
@@ -394,67 +394,67 @@ const jaWeb = const <String, String> {
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "右クリックで設定メニューを表示",
-  mBoardTutorialContextmenuContent: "タスクを右クリックして設定メニューを表示し、期限日や担当者、タグを設定できます。",
+  mBoardTutorialContextmenuContent: "タスクを右クリックして設定メニューを表示し、期限日や担当者、タグを設定することができます。",
   mBoardTutorialContextmenuTip: "ヒント：ボード表示とタスクリスト表示を切り替えて、いつでもプロジェクトの全体像を確認できます。",
   mBoardTutorialYourBoardTitle: "ボードを使ってみよう！",
   mBoardTutorialYourBoardContent: "かんばんボードについて、ご紹介はここまでです。あとは実際に使ってお楽しみください！",
-  mSublistTutorialTitle: "Quire Tutorial - Sublist",
+  mSublistTutorialTitle: "Quireチュートリアル：サブリスト",
   mSublistTutorialDesc:
-    "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
-    'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
-    'so you can focus on the right tasks at the right time, without any distraction.',
-  mSublistTutorialAddSublistTitle: "Name Your Sublist",
+    "チームで共有しているタスクのリストがどれほど長くなっても、Quireサブリストがあれば楽に管理できます。<br>"
+    '重要なタスクを選んで<a href="/blog/p/Quire-sublist.html">自分だけのサブリスト</a>を作成し、'
+    'やるべきときにやるべき仕事に集中しましょう。',
+  mSublistTutorialAddSublistTitle: "サブリストに名前を付ける",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
-  mSublistTutorialAddSublistTip: "Tip: You can create as many sublists as you want for a project.",
-  mSublistTutorialPickTaskTitle: "Select the Right Tasks and Add to Sublist",
+    "<p>タスクリストを眺めていると、終わりがないように思えませんか。自分に関係がないけれど"
+    "他のメンバーが作業中で、「あとで表示」にしてしまえないタスクが"
+    "多すぎるのかもしれません。そんなときはサブリストを作りましょう。</p>"
+    '<p>サブリストを追加するには「+」ボタンを押し、「サブリストを追加」を選択します。</p>',
+  mSublistTutorialAddSublistTip: "ヒント：サブリストは1プロジェクトにつきいくつでも作成できます。",
+  mSublistTutorialPickTaskTitle: "サブリストにタスクを追加",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>「子どもたちのためのチャリティーラン」プロジェクトを始動しているとしましょう。'
+    'そのためには10人以上のメンバーで何百ものタスクをこなす必要があり、'
+    'タグだけでは自分のタスクを管理しきれません。'
+    '他のメンバーが作業しているため、関係のないタスクに「あとで表示」を設定して、しばらく非表示にすることもできません。</p>'
+    '<p>そんなときは思い切って最初のサブリストを作りましょう。一括表示したい重要なタスクを選択し、'
+    '別のリストに移動するだけで、自分だけの「やることリスト」の完成です。'
+    '他のタスクを気にすることなく、自分のタスクに集中できます。</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
-  mSublistTutorialShareTitle: "Share the Sublist with the Right People",
+    "<p>レベル1のタスクをサブリストに追加すると、"
+    "その子タスクも一緒に追加されます。</p>"
+    "<p>でも子タスクはレベル1のタスクとは別に"
+    "サブリストに追加することもできます。</p>"
+    "<p>新しく作ったサブリストはもとのリストと区別するため、"
+    "楽しいアイコンを好きな色にして追加することもできます。</p>",
+  mSublistTutorialShareTitle: "サブリストの共有",
   mSublistTutorialShareContent:
-    "<p>After choosing the tasks and adding to a sublist, you can also "
-    "choose with whom you want to share the sublist with. There are three options "
-    "for you to choose from: share with an External Team, share with all of "
-    "the Project Members or keep the sublist private for yourself.</p>",
-  mSublistTutorialSmartNavigationTitle: "Smart Navigation for Better Organization",
+    "<p>タスクを選んでサブリストに追加したら、"
+    "サブリストを他の人と共有することもできます。共有範囲は外部チーム、"
+    "プロジェクトのメンバー全員、または自分のみの"
+    "3種類から選ぶことができます。</p>",
+  mSublistTutorialSmartNavigationTitle: "組織のための、スマートなナビゲーション",
   mSublistTutorialSmartNavigationContent:
-    "<p>There’s no limitation for how many sublists that you can create for a project. "
-    "Each sublist serves as a customized list view for you to get focused and "
-    "organize your tasks.</p>"
-    "<p>When you are having too many sublists, you might want to pin the most used sublists "
-    "(and even boards!) for quick navigation between the main list and its subordinates "
-    "and coordinators.</p>",
-  mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
-  mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
+    "プロジェクト1件につき作成できるサブリストの数に制限はありません。"
+    "どのサブリストも個々の目的に合わせた"
+    "タスク一覧として機能します。</p>"
+    "<p>サブリストの数が増えすぎたときは、よく使うサブリストを、よく使うかんばんボードと同じように固定して、"
+    "もとのリスト、サブリスト、ボード間で"
+    "楽に表示を切り替えることができます。</p>",
+  mSublistTutorialSmartNavigationTip: "ヒント：サブリストのタブは、見やすいように並べ替えることができます。",
+  mSublistTutorialOrganizeTitle: "タスクをサブリスト間で移動",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>サブリストにあるタスクを別のサブリストに移動したいときは、どうすればいいでしょうか。</p>"
+    "<p>タスクはドラッグ＆ドロップでかんたんに他のサブリストに移動できます。複数のタスクをまとめて移動したとき、タスク間の上下関係は変わりません。"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
-  mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
-  mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
+    "<p>サブリストはもとのリストのミラーであるため、サブリストでの変更は、すべてもとのリストに反映されます。</p>"
+    '<p>表示をすばやく切り替えるには、「(」または「)」キーを押します。</p>',
+  mSublistTutorialOrganizeTip: "ヒント：いつでももとのリスト表示に切り替え、プロジェクトの全体像を確認できます。",
+  mSublistTutorialTodoTitle: "どんなに長いやることリストもチームで制覇",
   mSublistTutorialTodoContent:
-    "<p>Don’t let the stress of an ever-growing to-do list beat you "
-    "and your team productivity! Productivity is all about getting focused on "
-    "the right thing at the right time!</p>"
-    "<p>Now go get things done and achieve your dreams!</p>",
+    "<p>やるべきことが山積しても、"
+    "チームの意気をくじかないこと。生産性向上の鍵は、"
+    "やるべきときにやるべきことを集中して行うことにあります。</p>"
+    "<p>課題を一つ一つ達成して、夢をかたちにしてください！</p>",
   mLearnMoreDoc: "もっと詳しく",
   mGettingStartedLinkTitle: "初めてガイドで機能を確認",
   mBlogLinkTitle: "Quireブログでお知らせや使いこなしのヒントをチェック",
