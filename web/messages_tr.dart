@@ -187,9 +187,9 @@ const trWeb = const <String, String> {
     "<p>Diyelim ki dünyanın dört bir yanındaki çocukların açlığı ile mücadele etmek için bir hayır koşusu düzenlemek istiyorsunuz.. "
     "Şunu diyebilirsin: </span><strong>Çocuklar için Yardım Koşusu 2018</strong>.</p>"
     '<p>Proje eklemek için çalışma alanınızın sağ üst köşesindeki "+" simgesini tıklayın.</p>',
-  mTutorialAddTaskTitle: "Add your stuff to it",
+  mTutorialAddTaskTitle: "Şeylerinizi ekleyin",
   mTutorialAddTaskContent:
-    "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
+    "<p>Fikirler, notlar veya yapılacaklar olsun, hepsini görevler veya alt görevler olarak ekleyebşlşr.</p>"
     "<ul>"
     '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
     'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
