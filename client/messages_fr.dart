@@ -822,11 +822,11 @@ const frClient = const <String, String> {
   mEditShareLinkTitle: 'Modifier le lien de partage',
   mEditShareLinkContent: 'Vous pouvez modifier la date d\'expiration pour donner une nouvelle date limite au lien de partage.',
   mArchiveBoardContent:
-    "Vous êtes sur le point d'archiver ce tableau. Un tableau archivé sera "
-    "déplacé dans la catégorie Archivé du menu déroulant.",
+    "Vous êtes sur le point d'archiver ce tableau. Les tableaux archivés sont "
+    "déplacés dans la catégorie Archivé du menu déroulant.",
   mArchiveBoardOptionMigrate: 'Déplacer les tâches restantes vers un nouveau tableau',
   mArchiveBoardOptionLeaveTasks: 'Laisser les tâches restantes dans ce tableau',
-  mArchiveBoardOptionMigrateButton: 'Archiver et Créer un nouveau tableau',
+  mArchiveBoardOptionMigrateButton: 'Archiver et créer un nouveau tableau',
   mChangeBoardTitle: 'Board Change',
   mChangeBoardContent: 'Move tasks from [=board] to this board?',
   mChangeBoardContentPlural: 'Move tasks from [=board] and [=count] others to this board?',
