@@ -189,49 +189,49 @@ const trWeb = const <String, String> {
     '<p>Proje eklemek için çalışma alanınızın sağ üst köşesindeki "+" simgesini tıklayın.</p>',
   mTutorialAddTaskTitle: "Şeylerinizi ekleyin",
   mTutorialAddTaskContent:
-    "<p>Fikirler, notlar veya yapılacaklar olsun, hepsini görevler veya alt görevler olarak ekleyebşlşr.</p>"
+    "<p>Fikirler, notlar veya yapılacaklar olsun, hepsini görevler veya alt görevler olarak ekleyebilirsiniz.</p>"
     "<ul>"
-    '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
-    'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
-    "<li><strong>To add subtasks</strong> &mdash; Press Tab to make task a subtask.</li>"
-    "<li><strong>To stop adding</strong> &mdash; Press Esc.</li>"
+    '<li><strong>Görev eklemek için</strong> &mdash; Üst kısımdaki "+" simgesini tıklayın, '
+    'veya basitçe ‘t’ kısayoluna tıklayın. Enter tuşuna tıklayın ve daha fazlasını eklemek için tıklamaya devam edin.</li>'
+    "<li><strong>Alt görev eklemek için</strong> &mdash; Sekme tuşuna tıklayarak bir görevi alt görev yapın.</li>"
+    "<li><strong>Eklemeyi bırakmak için</strong> &mdash; Esc tuşuna tıklayın.</li>"
     "</ul>"
-    "<p>Just like how you would in a Word processor!</p>",
-  mTutorialSetDueTitle: "Deadline is important too",
+    "<p>Tıpkı bir Word işlemcisinde çalışır gibi!</p>",
+  mTutorialSetDueTitle: "Termin de önemlidir",
   mTutorialSetDueContent:
-    "<p>A task without a deadline tends to slip through your fingers.</p>"
-    '<p>To add a due date, click on the "date" icon of a task in the task list.</p>',
-  mTutorialAssigneeTitle: "Delegate tasks to people responsible",
+    "<p>Termin tarihi olmayan bir görev parmaklarınızın arasından kayma eğilimindedir.</p>"
+    '<p>Termin tarihi eklemek için görev listesindeki görevin "tarih" simgesini tıklayın.</p>',
+  mTutorialAssigneeTitle: "Görevleri sorumlu kişilere devredin",
   mTutorialAssigneeContent:
-    "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
-    '<p>To assign a task to someone, click on the "assignee" icon of the task, and enter his or her email.</p>'
-    '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
+    "<p>Sponsorlar adında bir göreviniz var. Ama onları bulmaktan kim sorumlu?</p>"
+    '<p>Birisine görev atamak için görevin "sorumlu" simgesini tıklayın ve e-postasını girin.</p>'
+    '<p><span class="note">Not: Bu kişi e-posta gelen kutusunda bir davetiye alacak.</span></p>'
     "<p>[=img]</p>"
-    '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
-    'and clicking on the "+" on the right of each name.</span></p>',
-  mTutorialTagTitle: "Label them with context",
+    '<p><span class="note">İpucu: Adlarını üzerine getirip '
+    'her adın sağındaki "+" işaretini tıklayarak birden fazla kişiye görev atayabilirsiniz.</span></p>',
+  mTutorialTagTitle: "Onları bağlamla etiketleyin",
   mTutorialTagContent:
-    "<p>You can give tasks additional context or group them.</p>"
-    "<p>For example, you can add tags called Sponsors, Venue and Promotion "
-    "in colors red, green and blue to related tasks.</p>"
-    '<p>To add tags, click on the "tag" icon of a task, and enter the tag name.</p>',
-  mTutorialTagTip: "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
-  mTutorialAutocompleteTitle: "Quick add, while you type",
+    "<p>Görevlere ek bağlam verebilir veya bunları gruplandırabilirsiniz.</p>"
+    "<p>Örneğin, ilgili görevlere Sponsor, Mekan ve Promosyon adlı etiketleri  "
+    "kırmızı, yeşil ve mavi renklerde ekleyebilirsiniz.</p>"
+    '<p>Etiket eklemek için görevin "etiket" simgesini tıklayın ve etiket adını girin.</p>',
+  mTutorialTagTip: "İpucu: Yalnızca bu etiket(ler)e sahip bir grup görevi görmek için görevleri etiket(ler)e göre filtreleyebilirsiniz.",
+  mTutorialAutocompleteTitle: "Yazarken hızlı ekleme",
   mTutorialAutocompleteContent:
-    "<p>What if you can add and assign everything, all at once?</p>"
-    "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
-    "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
-    "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
-    'Like this: "Come up with a list of promotional items &lt;Friday&gt; @David #Promotion".</p>',
-  mTutorialDetailPanelTitle: "Give them some details",
+    "<p>Her şeyi aynı anda ekleyip atayabilirseniz ne olur?</p>"
+    "<p>Bir görev eklerken, <strong>termin</strong> için <strong>&lt;&gt;</strong>, "
+    "<strong>sorumlu</strong> için <strong>@</strong>, "
+    "ve <strong>etiket</strong> için <strong>#</strong> yazabilirsiniz. "
+    'Bunun gibi: "Come up with a list of promotional items &lt;Friday&gt; @David #Promotion".</p>',
+  mTutorialDetailPanelTitle: "Onlara biraz detay verin",
   mTutorialDetailPanelContent:
-    "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
-    "<p>You can add details &mdash; including description and attachments &mdash; to the task "
-    'after clicking on "&lt;&lt;"in the upper right corner. You can also discuss, chat '
-    "and interact with members in comments there in the detail panel.</p>"
-    '<p>To add styles to your description or comment (eg., make it bold), check out '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: 'Tip: You can click on the "pin" icon to keep the detail panel open.',
+    "<p>Çoğu zaman, bir görevin sorunsuz bir şekilde yerine getirilmesi için biraz daha fazla bilgiye ihtiyacı vardır.</p>"
+    '<p>Sağ köşedeki "<<"yi tıkladıktan sonra göreve &mdash; açıklama ve ekler dahil &mdash; '
+    "ayrıntılar ekleyebilirsiniz. Ayrıca ayrıntı panelindeki yorumlarda "
+    "üyelerle tartışabilir, sohbet edebilir ve onlarla etkileşimde bulunabilirsiniz.</p>"
+    '<p>Açıklamanıza veya yorumunuza stiller eklemek için (ör. kalın yapın), '
+    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a> linkine tıklayın.</p>',
+  mTutorialDetailPanelTip: 'İpucu: Ayrıntı panelini açık tutmak için "sabitle" simgesini tıklayabilirsiniz.',
   mTutorialDragTaskTitle: "Organize what you have dumped",
   mTutorialDragTaskContent:
     "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
