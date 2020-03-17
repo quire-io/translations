@@ -803,6 +803,7 @@ const enClient = const <String, String> {
   mDialogTitleProjectSettings: "Project Settings",
   mCreateBoard: "Create a board",
   mCreateSublist: "Create a sublist",
+  mAutoCreateSublistName: "sublist [=n]",
 
   mOrganizationName: "Organization name",
   mProjectName: "Project name",

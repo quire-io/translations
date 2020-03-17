@@ -640,6 +640,7 @@ const itClient = const <String, String> {
   mDialogTitleProjectSettings: "Impostazioni Progetto",
   mCreateBoard: "Crea una bacheca",
   mCreateSublist: "Crea una sottolista",
+  mAutoCreateSublistName: "sublist [=n]",
   mOrganizationName: "Nome organizzazione",
   mProjectName: "Nome progetto",
   mNewProjectName: "Nome nuovo progetto",

@@ -634,6 +634,7 @@ const trClient = const <String, String> {
   mDialogTitleProjectSettings: "Proje Ayarları",
   mCreateBoard: "Pano oluştur",
   mCreateSublist: "Alt liste oluştur",
+  mAutoCreateSublistName: "sublist [=n]",
   mOrganizationName: "Organizasyon Adı",
   mProjectName: "Proje adı",
   mNewProjectName: "Yeni proje adı",

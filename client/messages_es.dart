@@ -640,6 +640,7 @@ const esClient = const <String, String> {
   mDialogTitleProjectSettings: "Ajustes del proyecto",
   mCreateBoard: "Crear un tablero",
   mCreateSublist: "Crear una sublista",
+  mAutoCreateSublistName: "sublist [=n]",
   mOrganizationName: "Nombre de la organización",
   mProjectName: "Nombre del proyecto",
   mNewProjectName: "Nuevo nombre del proyecto",

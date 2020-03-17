@@ -645,6 +645,7 @@ const ptClient = const <String, String> {
   mDialogTitleProjectSettings: "Definições do Projeto",
   mCreateBoard: "Criar um quadro",
   mCreateSublist: "Criar uma sub-lista",
+  mAutoCreateSublistName: "sublist [=n]",
   mOrganizationName: "Nome da Organização",
   mProjectName: "Nome do Projeto",
   mNewProjectName: "Novo nome de projeto",

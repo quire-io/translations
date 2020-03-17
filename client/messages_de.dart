@@ -634,6 +634,7 @@ const deClient = const <String, String> {
   mDialogTitleProjectSettings: "Projekteinstellungen",
   mCreateBoard: "Board erstellen",
   mCreateSublist: "Create a sublist",
+  mAutoCreateSublistName: "sublist [=n]",
   mOrganizationName: "Organisationsname",
   mProjectName: "Projektname",
   mNewProjectName: "Neuer Projektname",
