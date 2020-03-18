@@ -344,6 +344,7 @@ const enClient = const <String, String> {
 
   mFilterRecentHistory: "Recent history",
   mCusFilterSortLabel: "Sort",
+  mCusFilterGroupLabel: "Group",
   mCusFilterLabel: "Filter",
 
   mSaveFilter: "Save this filter",

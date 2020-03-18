@@ -272,6 +272,7 @@ const deClient = const <String, String> {
   mFilterOperatorLabels: '+=Und;|=Oder;-=Nicht',
   mFilterRecentHistory: "Verlauf",
   mCusFilterSortLabel: "Anordnen",
+  mCusFilterGroupLabel: "Group",
   mCusFilterLabel: "Filter",
   mSaveFilter: "Diesen Filter speichern",
   mAddFilter: "Filter hinzufügen",

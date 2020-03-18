@@ -278,6 +278,7 @@ const itClient = const <String, String> {
   mFilterOperatorLabels: '+=E;|=O;-=Non',
   mFilterRecentHistory: "Storia recente",
   mCusFilterSortLabel: "Ordina",
+  mCusFilterGroupLabel: "Group",
   mCusFilterLabel: "Filtra",
   mSaveFilter: "Salva questo filtro",
   mAddFilter: "Aggiungi filtro",

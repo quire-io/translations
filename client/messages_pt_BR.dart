@@ -283,6 +283,7 @@ const ptBrClient = const <String, String> {
   mFilterOperatorLabels: '+=E;|=Ou;-=Não',
   mFilterRecentHistory: "Histórico recente",
   mCusFilterSortLabel: "Classificar",
+  mCusFilterGroupLabel: "Group",
   mCusFilterLabel: "Filtrar",
   mSaveFilter: "Salvar este filtro",
   mAddFilter: "Adicionar filtro",
