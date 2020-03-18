@@ -201,7 +201,7 @@ const trClient = const <String, String> {
   mWriteU: "YAZ",
   mPreview: "Önizleme",
   mDatePrep: " bitiş",
-  mEditedAt: "Edited[=on] [=when]",
+  mEditedAt: "Düzenleme: [=when]",
   mEditedByAt: "[=when] tarihinde [=who] tarafından düzenlendi",
   mCreatedByAt: "[=when] tarihinde [=who] tarafından oluşturuldu",
   mCompletedByAt: "[=when] tarihinde [=who] tarafından tamamlandı",
