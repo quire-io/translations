@@ -278,7 +278,7 @@ const jaClient = const <String, String> {
   mFilterOperatorLabels: '+=および;|=または;-=除く',
   mFilterRecentHistory: "閲覧履歴",
   mCusFilterSortLabel: "並べ替え",
-  mCusFilterGroupLabel: "Group",
+  mCusFilterGroupLabel: "グループ",
   mCusFilterLabel: "フィルター",
   mSaveFilter: "フィルターを保存",
   mAddFilter: "フィルターを追加",
