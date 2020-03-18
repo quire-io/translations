@@ -66,7 +66,7 @@ const ptBrServer = const <String, String> {
   mAboutQuire: "Sobre o Quire",
   mGetStarted: "INICIAR",
   mSignupForFree: "EXPERIMENTE - É GRÁTIS!",
-  mPrivacyPolicy: "Privacy Policy",
+  mPrivacyPolicy: "Política de Privacidade",
   mTerms: "Termos",
   mTermsOFService: "Termos de Serviço",
   mFaq: "FAQ",
@@ -178,7 +178,7 @@ const ptBrServer = const <String, String> {
     'Nós lhe enviamos um email de confirmação para<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, [=hrefStart]verifique sua caixa de entrada[=hrefEnd] ou pasta de spam e confirme.',
-  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
+  mSignupAgreePolicyDesc: 'Ao me registrar, concordo com a <a href="https://quire.io/privacy">Política de Privacidade</a> e <a href="https://quire.io/terms">Termos</a> do Quire',
   mSignupAccountDesc: "Já tem uma conta?",
   mSignupAccountLogin: "Faça o login aqui",
   mDeleteAccountNotEmpty:
