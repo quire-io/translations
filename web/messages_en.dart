@@ -363,7 +363,7 @@ const enWeb = const <String, String> {
     "<p>You can right-click on a task, to bring up the context menu "
     "to set due date, assignee, tag, and more.</p>"
     "<p>[=img]</p>"
-    "<p>[=tip]]</p>"
+    "<p>[=tip]</p>"
     "<p>Now that you know your way around, you can kickstart your project!</p>",
   mTutorialContextmenuTip: 
     "Tip: You can press F1 to see a complete list of keyboard shortcuts.",

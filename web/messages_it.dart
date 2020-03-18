@@ -291,7 +291,7 @@ const itWeb = const <String, String> {
     "<p>È possibile fare clic con il pulsante destro del mouse su un'attività per visualizzare il menu di scelta rapida "
     "per impostare data di scadenza, assegnatario, etichetta e altro.</p>"
     "<p>[=img]</p>"
-    "<p>[=tip]]</p>"
+    "<p>[=tip]</p>"
     "<p>Ora che conosci meglio l'applicazione, puoi dare il via al tuo progetto!</p>",
   mTutorialContextmenuTip: "Suggerimento: è possibile premere F1 per visualizzare un elenco completo di scorciatoie da tastiera.",
   mNextTutorial: "Prossimo tutorial",

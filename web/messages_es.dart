@@ -291,7 +291,7 @@ const esWeb = const <String, String> {
     "<p>Puedes hacer clic en el botón derecho del ratón en una tarea para que aparezca el menú contextual "
     "para establecer la fecha límite, la persona asignada, la etiqueta, etc.</p>"
     "<p>[=img]</p>"
-    "<p>[=tip]]</p>"
+    "<p>[=tip]</p>"
     "<p>Ahora que ya sabes cómo funciona, ¡Puedes poner en marcha tu proyecto!</p>",
   mTutorialContextmenuTip: "Consejo: Puedes pulsar F1 para ver una lista completa de los atajos del teclado.",
   mNextTutorial: "Siguiente Tutorial",

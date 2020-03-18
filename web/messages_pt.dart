@@ -291,7 +291,7 @@ const ptWeb = const <String, String> {
     "<p>Pode clicar com o botão direito do rato numa tarefa, para abrir o menu de contexto "
     "para definir a data limite, o colaborador, tag, e mais..</p>"
     "<p>[=img]</p>"
-    "<p>[=tip]]</p>"
+    "<p>[=tip]</p>"
     "<p>Agora que já conhece os cantos da casa, pode iniciar o seu projeto!</p>",
   mTutorialContextmenuTip: "Dica: Pode pressionar F1 para ver a lista completa de atalhos do teclado.",
   mNextTutorial: "Próximo Tutorial",

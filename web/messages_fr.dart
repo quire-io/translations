@@ -291,7 +291,7 @@ const frWeb = const <String, String> {
     "<p>Vous pouvez faire un clic-droit sur une tâche pour afficher le menu contextuel "
     "et définir la date limite, une attribution, une étiquette, et plus.</p>"
     "<p>[=img]</p>"
-    "<p>[=tip]]</p>"
+    "<p>[=tip]</p>"
     "<p>Maintenant que vous pouvez vous débrouillez, vous pouvez commencer votre projet !</p>",
   mTutorialContextmenuTip: "Astuce : Tapez F1 pour voir une liste complète des raccourcis clavier.",
   mNextTutorial: "Tutoriel suivant",
