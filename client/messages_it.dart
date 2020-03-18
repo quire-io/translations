@@ -278,7 +278,7 @@ const itClient = const <String, String> {
   mFilterOperatorLabels: '+=E;|=O;-=Non',
   mFilterRecentHistory: "Storia recente",
   mCusFilterSortLabel: "Ordina",
-  mCusFilterGroupLabel: "Group",
+  mCusFilterGroupLabel: "Raggruppa",
   mCusFilterLabel: "Filtra",
   mSaveFilter: "Salva questo filtro",
   mAddFilter: "Aggiungi filtro",
@@ -641,7 +641,7 @@ const itClient = const <String, String> {
   mDialogTitleProjectSettings: "Impostazioni Progetto",
   mCreateBoard: "Crea una bacheca",
   mCreateSublist: "Crea una sottolista",
-  mAutoCreateSublistName: "sublist [=n]",
+  mAutoCreateSublistName: "sottolista [=n]",
   mOrganizationName: "Nome organizzazione",
   mProjectName: "Nome progetto",
   mNewProjectName: "Nome nuovo progetto",
@@ -825,7 +825,7 @@ const itClient = const <String, String> {
   mEditShareLinkContent: 'Puoi aggiornare la data di scadenza del link.',
   mArchiveBoardContent:
     "Stai per archiviare questa bacheca. Una bacheca archiviata sarà "
-    "sposta nella categoria Archiviati del menù a tendina.",
+    "sposta nella categoria Archiviati della tendina.",
   mArchiveBoardOptionMigrate: 'Sposta le attività rimanenti in una nuova bacheca',
   mArchiveBoardOptionLeaveTasks: 'Lascia le attività rimanenti in questa bacheca',
   mArchiveBoardOptionMigrateButton: 'Archivia & Crea una nuova bacheca',

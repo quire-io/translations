@@ -66,7 +66,7 @@ const itServer = const <String, String> {
   mAboutQuire: "A proposito di Quire",
   mGetStarted: "INIZIA",
   mSignupForFree: "INIZIA - E\' gratis!",
-  mPrivacyPolicy: "Privacy Policy",
+  mPrivacyPolicy: "Informativa sulla Privacy",
   mTerms: "Termini",
   mTermsOFService: "Termini di Servizio",
   mFaq: "FAQ",
