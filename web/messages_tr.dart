@@ -216,7 +216,7 @@ const trWeb = const <String, String> {
     "kırmızı, yeşil ve mavi renklerde ekleyebilirsiniz.</p>"
     '<p>Etiket eklemek için görevin "etiket" simgesini tıklayın ve etiket adını girin.</p>',
   mTutorialTagTip: "İpucu: Yalnızca bu etiket(ler)e sahip bir grup görevi görmek için görevleri etiket(ler)e göre filtreleyebilirsiniz.",
-  mTutorialAutocompleteTitle: "Yazarken hızlı ekleme",
+  mTutorialAutocompleteTitle: "Yazarken hızlı ekleyin",
   mTutorialAutocompleteContent:
     "<p>Her şeyi aynı anda ekleyip atayabilirseniz ne olur?</p>"
     "<p>Bir görev eklerken, <strong>termin</strong> için <strong>&lt;&gt;</strong>, "
@@ -232,48 +232,48 @@ const trWeb = const <String, String> {
     '<p>Açıklamanıza veya yorumunuza stiller eklemek için (ör. kalın yapın), '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a> linkine tıklayın.</p>',
   mTutorialDetailPanelTip: 'İpucu: Ayrıntı panelini açık tutmak için "sabitle" simgesini tıklayabilirsiniz.',
-  mTutorialDragTaskTitle: "Organize what you have dumped",
+  mTutorialDragTaskTitle: "İstediğin gibi oraganize et",
   mTutorialDragTaskContent:
-    "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
-    "<p>In Quire, you can drag & drop them to where they rightfully belong. "
-    "For example, move giveaways like T-shirts, bumper stickers and "
-    'water bottles to under task "Promotional Items."</p>',
-  mTutorialShortcutTitle: "A few handy shortcuts",
+    "<p>Yanlış yerde görevleriniz varsa ne olacak?</p>"
+    "<p>Quire'de, görevleri ait oldukları yere sürükleyip bırakabilirsiniz. "
+    "Örneğin, tişörtler, çıkartmalar ve su şişeleri gibi hediyeleri  "
+    '"Promosyon Ürünleri" görevine taşıyın.</p>',
+  mTutorialShortcutTitle: "Birkaç kullanışlı kısayol",
   mTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Ekle & Düzenle</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Yeni bir görev eklemek için.</li>"
+    "<li><kbd>F2</kbd> &mdash; Görev adını düzenlemek için.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Gezinti</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Yukarıdaki göreve gitmek için.</li>"
+    "<li><kbd>↓</kbd> &mdash; Aşağıdaki göreve gitmek için.</li>"
+    "<li><kbd>Space</kbd> &mdash; Doğru detay panelini açmak için.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Çoklu Seçim</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Birden fazla görev seçmek için.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Tüm görevleri seçmek için.</li>"
     "</ul>"
     "<h3>Move</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka a level up or down.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Görevleri yukarı veya aşağı taşımak için.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Görevleri sola veya sağa taşımak için, diğer bir değişle yukarı veya aşağı düzeye.</li>"
     "</ul>"
-    "<h3>Task Action</h3>"
+    "<h3>Görev Eylemi</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Seçilen görevleri kendinize atamak için.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Seçilen görevleri tamamlamak için.</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Geri Al penceresini göstermek için.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Kopyala & Yapıştır</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Seçilen görevleri kopyalamak için.</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Seçili görevleri yapıştırmak için.</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Seçilen görevleri kesmek için.</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "Quick Assign",
+  mTutorialQuickAssignTitle: "Hızlı Atama",
   mTutorialQuickAssignContent:
     '<p>To quickly set assignee, tag, etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
