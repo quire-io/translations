@@ -394,7 +394,7 @@ const trWeb = const <String, String> {
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
-  mBoardTutorialContextmenuContent: "ermin tarihini, atanan kişiyi, etiketi vb. ayarlamak üzere menüyü getirmek için bir göreve sağ tıklayabilirsiniz.",
+  mBoardTutorialContextmenuContent: "Termin tarihini, atanan kişiyi, etiketi vb. ayarlamak üzere menüyü getirmek için bir göreve sağ tıklayabilirsiniz.",
   mBoardTutorialContextmenuTip: "İpucu: Tüm projenizin büyük resmini görmek için Pano görünümünden Görev listesi görünümüne geçebilirsiniz.",
   mBoardTutorialYourBoardTitle: "Şimdi Kendi Panonuzu Oluşturun!",
   mBoardTutorialYourBoardContent: "Şimdilik Kanban panosu hakkında konuşmamız gereken tek şey bu. Devam et ve eğlen!",
