@@ -641,7 +641,7 @@ const frClient = const <String, String> {
   mDialogTitleProjectSettings: "Paramètres du projet",
   mCreateBoard: "Créer un tableau",
   mCreateSublist: "Créer une sous-liste",
-  mAutoCreateSublistName: "sous-liste [=n]",
+  mAutoCreateSublistName: "Sous-liste [=n]",
   mOrganizationName: "Nom de l'organisation",
   mProjectName: "Nom du projet",
   mNewProjectName: "Nom du nouveau projet",
