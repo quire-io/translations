@@ -247,9 +247,9 @@ const trWeb = const <String, String> {
     "</ul>"
     "<h3>Gezinti</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; Yukarıdaki göreve gitmek için.</li>"
-    "<li><kbd>↓</kbd> &mdash; Aşağıdaki göreve gitmek için.</li>"
-    "<li><kbd>Space</kbd> &mdash; Doğru detay panelini açmak için.</li>"
+    "<li><kbd>↑</kbd> &mdash; Üstteki göreve gitmek için.</li>"
+    "<li><kbd>↓</kbd> &mdash; Alttaki göreve gitmek için.</li>"
+    "<li><kbd>Space</kbd> &mdash; Sağdaki ayrıntı panelini açmak için.</li>"
     "</ul>"
     "<h3>Çoklu Seçim</h3>"
     "<ul>"
@@ -275,130 +275,130 @@ const trWeb = const <String, String> {
     "</ul>",
   mTutorialQuickAssignTitle: "Hızlı Atama",
   mTutorialQuickAssignContent:
-    '<p>To quickly set assignee, tag, etc. '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    '<p>Sorumluları, etiketleri vb. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
+    'hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <,!, ^, / tuşlarına basın.</p>'
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
+    "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
+    "<li><kbd><</kbd> &mdash; Termin ekle</li>"
+    "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
+    "<li><kbd>^</kbd> &mdash; Panoya görev ekle</li>"
+    "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
-  mTutorialContextmenuTitle: "Right-Click Context Menu",
+  mTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
   mTutorialContextmenuContent:
-    "<p>You can right-click on a task, to bring up the context menu "
-    "to set due date, assignee, tag, and more.</p>"
+    "<p>Bitiş tarihini, atanan kişiyi, etiketi vb. ayarlamak üzere "
+    "menüyü getirmek için bir göreve sağ tıklayabilirsiniz.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Now that you know your way around, you can kickstart your project!</p>",
-  mTutorialContextmenuTip: "Tip: You can press F1 to see a complete list of keyboard shortcuts.",
-  mNextTutorial: "Next Tutorial",
-  mBoardTutorialLinkTitle: "Visualize your workflow with Quire Kanban Board",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
-  mSignupToday: "Let's get started in Quire today!",
-  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+    "<p>Artık yolunuzu bildiğinize göre, projenize başlayabilirsiniz!</p>",
+  mTutorialContextmenuTip: "İpucu: Klavye kısayollarının tam listesini görmek için F1 tuşunu tıklayabilirsiniz.",
+  mNextTutorial: "Sonraki Kılavuz",
+  mBoardTutorialLinkTitle: "Quire Kanban Panosu ile iş akışınızı görselleştirin",
+  mSublistTutorialLinkTitle: "Kişiselleştirilmiş bir Quire Alt Listesi ile doğru görevlere odaklanın",
+  mSignupToday: "Bugüne Quire ile başlayalım!",
+  mBoardTutorialTitle: "Quire Kılavuzu - Kanban Panosu",
   mBoardTutorialDesc:
-    "After dumping and organizing all your ideas in the nested task list view, "
-    "it’s time to work on your project!<br>"
-    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
-    "on selected tasks and visualize your workflow with the Kanban board.",
-  mBoardTutorialAddBoardTitle: "Name Your Board",
+    "Tüm fikirlerinizi iç içe görev listesi görünümünde toplayıp düzenledikten sonra, "
+    "projeniz üzerinde çalışma zamanı!<br>"
+    'Kanban panosuyla seçilen görevlere <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">odaklanın</a> '
+    "ve iş akışınızı görselleştirin.",
+  mBoardTutorialAddBoardTitle: "Panonuza İsim Verin",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>Çocuklar İçin Yardım Koşusu Etkinliği için yüzlerce görevinizi listeledikten sonra, "
+    "şimdi ilk aşamada bazı önemli görevlere odaklanmak istersiniz. Basitçe bir pano oluşturun.</p>"
+    '<p>Pano eklemek için "+" düğmesini tıklayın, Pano ekle\'yi seçin ve Pano adını yazın.</p>',
+  mBoardTutorialAddBoardTip: "İpucu: Projenizin farklı aşamaları için birden fazla pano oluşturabilirsiniz.",
+  mBoardTutorialAssignBoardTitle: "Panoya Görev Eklemeye Başlayın",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Bu aşama için odaklanmak istediğiniz görevleri; görev listesinde bulunan görevlerden ekleyerek başlayın..</p>"
+    '<p>Bir sütunun sağ üst köşesindeki "+" işaretini tıklayın, "Mevcut görevleri ekle"yi seçin.</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Elbette, mevcut görevlerden eklemek istediğiniz bir şey bulamadıysanız, "
+    "pano görünümünde iken yeni görevler oluşturabilirsiniz.</p>"
+    '<p>Bunun için "Yeni görev oluştur"u seçin.</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Not: Pano görünümünde yeni oluşturulan görevler '
+    "Görev listesi görünümünde de eklenecektir.</span></p>"
+    '<p><span class="note">İpucu: Ctrl (veya Mac\'te Alt) tuşuna basmak alt üst bağlantılarını gösterir, '
+    "böylece hangi alt görevin hangi üst göreve ait olduğunu bilirsiniz.</span></p>",
+  mBoardTutorialAssignOthersTitle: "Detayları Unutmayın",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Başlangıç / bitiş tarihlerini, sorumluları ve etiketleri ayarlayarak daha ayrıntılı bilgi ekleyebilirsiniz.</p>"
+    '<p>Ek bilgi ayarlamak için "tarih", "sorumlu", "etiket" simgelerini tıklayın.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Tip: İpucu: Space tuşuna tıkladığınızda açıklama eklemeniz, dosya eklemeniz, yorum bırakmanız vb. için "
+    '<a href="/w/Getting_Started_with_Quire/45/">ayrıntı paneli</a> '
+    "görünecektir.",
+  mBoardTutorialOrganizeProgressTitle: "İlerlemeyi İzleyin ve Düzenleyin",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Daha yüksek öncelik için sütundaki görevleri yeniden konumlandırabilirsiniz. "
+    "Ayrıca, ilerlemeyi izlemek için görevleri farklı sütunlara sürükleyip bırakabilirsiniz.</p>"
+    "<p>Artık projenizin dinamik durumunu bir bakışta görebileceksiniz.</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>Tüm görevlerin bir sütuna sıkıştırıldığını ve "
+    "her bir ekip üyesinin iş yükünü "
+    "ve durumunu elde etmek zorlaşıyor mu?</p>"
+    "<p>Görevlerinizi tercih edilen özelliklere göre gruplandırmak için filtre/sıralama özelliğini kullanabilirsiniz."
+    "Örneğin: sorumlulara göre gruplamaya tıklarsanız her üyenin sorumlu olduğu görevleri görebilirsiniz.</p>",
+  mBoardTutorialShortcutTitle: "Yardımcı Kısayollar",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Ekle & Düzenle</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Yeni bir görev eklemek için.</li>"
+    "<li><kbd>F2</kbd> &mdash; Görev adını düzenlemek için.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Gezinti</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Üstteki göreve gitmek için.</li>"
+    "<li><kbd>↓</kbd> &mdash; Alttaki göreve gitmek için.</li>"
+    "<li><kbd>Space</kbd> &mdash; Sağdaki ayrıntı panelini açmak için.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Çoklu Seçim</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Birden fazla görev seçmek için.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Tüm görevleri seçmek için.</li>"
     "</ul>"
     "<h3>Move</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Görevleri yukarı veya aşağı taşımak için.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Görevleri sola veya sağa, diğer bir deyişle sütundan sütuna taşımak için.</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    '<p><span class="note">Not: Pano tarihe göre sıralandığında, '
+    "görevleri bir sütundan diğerine taşıyamazsınız.</span></p>"
+    "<h3>Görev Eylemi</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Seçilen görevleri kendinize atamak için.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Seçilen görevleri tamamlamak için.</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Geri Al penceresini göstermek için.</li>"
     "</ul>"
     "<h3>Copy & Paste</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Seçilen görevleri kopyalamak için.</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Seçili görevleri yapıştırmak için.</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Seçilen görevleri kesmek için.</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignTitle: "Hızlı Atama",
   mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "<p>Sorumluları, etiketleri vb.  "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
+    "hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <,!, ^, / tuşlarına tıklayın."
     "</p>"
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
+    "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
+    "<li><kbd><</kbd> &mdash; Termin ekle</li>"
+    "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
+    "<li><kbd>^</kbd> &mdash; Görevi panoya ekle</li>"
+    "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mSublistTutorialTitle: "Quire Tutorial - Sublist",
+  mBoardTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
+  mBoardTutorialContextmenuContent: "ermin tarihini, atanan kişiyi, etiketi vb. ayarlamak üzere menüyü getirmek için bir göreve sağ tıklayabilirsiniz.",
+  mBoardTutorialContextmenuTip: "İpucu: Tüm projenizin büyük resmini görmek için Pano görünümünden Görev listesi görünümüne geçebilirsiniz.",
+  mBoardTutorialYourBoardTitle: "Şimdi Kendi Panonuzu Oluşturun!",
+  mBoardTutorialYourBoardContent: "Şimdilik Kanban panosu hakkında konuşmamız gereken tek şey bu. Devam et ve eğlen!",
+  mSublistTutorialTitle: "Quire Kılavuzu - Alt Liste",
   mSublistTutorialDesc:
     "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
     'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
