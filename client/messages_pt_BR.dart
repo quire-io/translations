@@ -646,7 +646,7 @@ const ptBrClient = const <String, String> {
   mDialogTitleProjectSettings: "Configurações do Projeto",
   mCreateBoard: "Criar um quadro",
   mCreateSublist: "Criar uma sublista",
-  mAutoCreateSublistName: "sublista [=n]",
+  mAutoCreateSublistName: "Sublista [=n]",
   mOrganizationName: "Nome da Organização",
   mProjectName: "Nome do Projeto",
   mNewProjectName: "Novo nome de projeto",
@@ -829,7 +829,7 @@ const ptBrClient = const <String, String> {
   mEditShareLinkContent: 'Você pode atualizar a data de expiração para dar uma nova data de validade ao link compartilhado.',
   mArchiveBoardContent:
     "Você está prestes a arquivar este quadro. Um quadro arquivado será "
-    "movido para a categoria Arquivado no menu suspenso.",
+    "movido para a categoria Arquivados no menu suspenso.",
   mArchiveBoardOptionMigrate: 'Mover as tarefas restantes para um novo quadro',
   mArchiveBoardOptionLeaveTasks: 'Deixar as tarefas restantes no quadro atual',
   mArchiveBoardOptionMigrateButton: 'Arquivar e Criar Novo Quadro',
