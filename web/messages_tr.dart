@@ -400,71 +400,71 @@ const trWeb = const <String, String> {
   mBoardTutorialYourBoardContent: "Şimdilik Kanban panosu hakkında konuşmamız gereken tek şey bu. Devam et ve eğlen!",
   mSublistTutorialTitle: "Quire Kılavuzu - Alt Liste",
   mSublistTutorialDesc:
-    "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
-    'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
-    'so you can focus on the right tasks at the right time, without any distraction.',
-  mSublistTutorialAddSublistTitle: "Name Your Sublist",
+    "Quire Alt Listesi ile ekip üyeleri arasında sürekli büyüyen bir paylaşılan görev listesiyle uğraşmak hiç bu kadar kolay olmamıştı!<br>"
+    'Birkaç önemli görev seçin ve bunları <a href="/blog/p/Quire-sublist.html">kişiselleştirilmiş bir alt listeye</a> ekleyin, '
+    'böylece dikkatiniz dağılmadan doğru görevlere doğru zamanda odaklanabilirsiniz.',
+  mSublistTutorialAddSublistTitle: "Alt Listenize Bir İsim Verin",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
-  mSublistTutorialAddSublistTip: "Tip: You can create as many sublists as you want for a project.",
-  mSublistTutorialPickTaskTitle: "Select the Right Tasks and Add to Sublist",
+    "<p>Görünürde sonu olmayan listeye bakmaktan bıktınız mı? Sizinle alakalı olmayan çok fazla görev var, "
+    "ancak Peekaboo ile görevleri öteleyemezsiniz "
+    "çünkü diğer üyeler hala bu görevler üzerinde çalışıyor. Alt liste burada kurtarıcınız!</p>"
+    '<p>Bir alt liste eklemek için "+" düğmesini tıklayın ve "Alt liste ekle"yi seçin.</p>',
+  mSublistTutorialAddSublistTip: "İpucu: Bir proje için istediğiniz kadar alt liste oluşturabilirsiniz.",
+  mSublistTutorialPickTaskTitle: "Doğru Görevleri Seçin ve Alt Listeye Ekleyin",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Diyelim ki "Çocuklar için Yardım Koşusu" projesi üzerinde çalışıyorsunuz '
+    've bu proje yüzlerce görev içeriyor. Birlikte çalışan en az 10 kişi var. '
+    'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
+    'Peekaboo ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
+    '<p>Derin bir nefes alın ve sorununuzu çözmek için ilk alt listenizi oluşturun. Birlikte görüntülemek istediğiniz '
+    'which you want to view together and move to a separate list. Artık her şeyin dikkatinizi dağıtmadan, '
+    'odaklanacak kendi yapılacaklar listeniz var.</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
-  mSublistTutorialShareTitle: "Share the Sublist with the Right People",
+    "<p>Kök görevi seçtiğinizde ve alt listeye eklediğinizde, alt görevler otomatik olarak "
+    "listeye eklenir.</p>"
+    "<p>Ancak, alt görevleri kök görevden ayrı olarak seçmeyi ve "
+    "yeni oluşturulan alt listeye eklemeyi seçebilirsiniz.</p>"
+    "<p>Yeni oluşturulan alt listeyi ana listeyle ayırt etmek için bazı eğlenceli simgeler ekleyebilir "
+    "ve simge rengini alt listenize ekleyebilirsiniz.</p>",
+  mSublistTutorialShareTitle: "Alt Listeyi Doğru Kişilerle Paylaşın",
   mSublistTutorialShareContent:
-    "<p>After choosing the tasks and adding to a sublist, you can also "
-    "choose with whom you want to share the sublist with. There are three options "
-    "for you to choose from: share with an External Team, share with all of "
-    "the Project Members or keep the sublist private for yourself.</p>",
-  mSublistTutorialSmartNavigationTitle: "Smart Navigation for Better Organization",
+    "<p>Görevleri seçip bir alt listeye ekledikten sonra, "
+    "alt listeyi kimlerle paylaşmak istediğinizi de seçebilirsiniz. Aralarından seçim yapabileceğiniz "
+    "üç seçenek vardır: bir Dış Ekiple paylaşma, tüm Proje Üyeleriyle paylaşma "
+    "veya alt listeyi kendiniz için gizli tutma.</p>",
+  mSublistTutorialSmartNavigationTitle: "Daha İyi Organizasyon için Akıllı Navigasyon",
   mSublistTutorialSmartNavigationContent:
-    "<p>There’s no limitation for how many sublists that you can create for a project. "
-    "Each sublist serves as a customized list view for you to get focused and "
-    "organize your tasks.</p>"
-    "<p>When you are having too many sublists, you might want to pin the most used sublists "
-    "(and even boards!) for quick navigation between the main list and its subordinates "
-    "and coordinators.</p>",
-  mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
-  mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
+    "<p>Bir proje için kaç alt liste oluşturabileceğiniz konusunda bir sınırlama yoktur. "
+    "Her alt liste, odaklanmanız ve görevlerinizi organize etmeniz için özelleştirilmiş bir liste görünümü  "
+    "görevi görür.</p>"
+    "<p>Çok fazla alt listeye sahip olduğunuzda, ana liste ile astları ve "
+    "eş düzeyleri arasında hızlı gezinme için en çok kullanılan alt listeleri "
+    "(ve hatta panoları!) sabitlemek isteyebilirsiniz.</p>",
+  mSublistTutorialSmartNavigationTip: "İpucu: Konumlarını ayarlamak için her zaman alt liste sekmelerini hareket ettirebilirsiniz.",
+  mSublistTutorialOrganizeTitle: "Görevleri Farklı Alt Listeler Arasında Düzenleme",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>Çeşitli alt listeler arasındaki görevleri düzenlemek isterseniz ne olur?</p>"
+    "<p>Daha iyi bir organizasyon için görevleri başka bir alt listeye taşımak için sürükleyip bırakmanız yeterlidir. Bir yığın görevi başka bir alt listeye bıraktığınızda, aralarındaki ağaç yapısı orijinal olarak saklanır.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
-  mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
-  mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
+    "<p>Alt listeniz üzerinde çalışırken, ana listenin bir aynası gibi davrandığından, alt listelerinizden birinde yaptığınız değişiklikler ne olursa olsun, ana listenizi etkiler.</p>"
+    '<p>Görünümler arasında hızlı bir şekilde gezinmek istiyorsanız "(" kısayolunu veya ")" kısayolunu kullanın.</p>',
+  mSublistTutorialOrganizeTip: "İpucu: Projenizin büyük resmini görmek için her zaman ana listeye geri dönebilirsiniz!",
+  mSublistTutorialTodoTitle: "Kazanan Takım Olarak Ezici Bir Yapılacaklar Listesi ile Mücadele",
   mSublistTutorialTodoContent:
-    "<p>Don’t let the stress of an ever-growing to-do list beat you "
-    "and your team productivity! Productivity is all about getting focused on "
-    "the right thing at the right time!</p>"
-    "<p>Now go get things done and achieve your dreams!</p>",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
-  mMobileWelcomeP1Title1: "Welcome to ",
-  mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "From start to finish",
-  mMobileWelcomeP3Title: "Streamline your workflow",
-  mMobileWelcomeP4Title: "Get into action",
-  mMobileWelcomeP1Desc: "Unfold your ideas.",
-  mMobileWelcomeP2Desc: "Swipe left or right to complete, delete or add a task.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
+    "<p>Sürekli büyüyen bir yapılacaklar listesinin stresinin sizi ve takımınızın "
+    "verimliliğini düşürmesine izin vermeyin! Verimlilik, doğru zamanda "
+    "doğru şeye odaklanmakla ilgilidir!</p>"
+    "<p>Şimdi gidip işleri hallet ve hayallerine ulaş!</p>",
+  mLearnMoreDoc: "Daha fazla bilgi edin",
+  mGettingStartedLinkTitle: "Başlangıç Kılavuzumuzdaki Özellikler",
+  mBlogLinkTitle: "Blogumuzdaki haberler, ipuçları ve ilhamlar",
+  mMobileWelcomeP1Title1: "Quire'a ",
+  mMobileWelcomeP1Title2: "Hoşgeldiniz",
+  mMobileWelcomeP2Title: "Başlangıçtan bitime",
+  mMobileWelcomeP3Title: "İş akışınızı kolaylaştırın",
+  mMobileWelcomeP4Title: "Harekete geçin",
+  mMobileWelcomeP1Desc: "Fikirlerinizi ortaya çıkarın.",
+  mMobileWelcomeP2Desc: "Bir görevi tamamlamak, silmek veya eklemek için sola veya sağa kaydırın.",
+  mMobileWelcomeP3Desc: "Kanban panosu ile seçilen görevlere odaklanın.",
+  mMobileWelcomeP4Desc: "Projenize başlamak için sorumlular, etiketler, termin tarihleri vb. ekleyin.."
 };
