@@ -641,7 +641,7 @@ const jaClient = const <String, String> {
   mDialogTitleProjectSettings: "プロジェクトの設定",
   mCreateBoard: "ボードを作成",
   mCreateSublist: "サブリストを作成",
-  mAutoCreateSublistName: "sublist [=n]",
+  mAutoCreateSublistName: "サブリスト[=n]",
   mOrganizationName: "組織名",
   mProjectName: "プロジェクト名",
   mNewProjectName: "新しいプロジェクト名",
