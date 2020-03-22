@@ -93,7 +93,7 @@ const jaServer = const <String, String> {
   mGotIt: "同意",
   mReadOnly: "読み取り専用",
   mReadMore: "もっと詳しく",
-  mGettingStarted: "始めましょう",
+  mGettingStarted: "初めてガイド",
   mTutorial: "チュートリアル",
   mDocumentation: "ドキュメント",
   mSignupQuire: "Quireに登録",
