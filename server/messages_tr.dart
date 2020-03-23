@@ -89,7 +89,7 @@ const trServer = const <String, String> {
   mFooterLinkUserGuide: "Kullanici Rehberi",
   mFooterLinkDevelopers: "Geliştiriciler ve API",
   mFooterLinkCategoryCompany: "Şirket",
-  mPost: "Post",
+  mPost: "Gönder",
   mGotIt: "Anladım!",
   mReadOnly: "Sadece Okuma",
   mReadMore: "Daha fazla oku",
@@ -149,123 +149,123 @@ const trServer = const <String, String> {
     'Sorun değil, kaydolduğunuz e-posta adresini girin ve '
     'size bir sıfırlama şifresi bağlantısı gönderelim.',
   mResetMYPassword: 'Şifremi Sıfırla',
-  mEmailSentCheckInbox: '<h3>Email Sent to [=email]!</h3>Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.',
+  mEmailSentCheckInbox: '<h3>[=email] hesabınıza e-posta gönderildi!</h3>Lütfen [=hrefStart]gelen kutunuzu[=hrefEnd] veya spam klasörünüzü kontrol edin.',
   mYourNewPasswordDesc:
-    'Please enter a new password '
-    'for your account <strong>[=email]</strong>',
-  mPasswordReseted: 'You just changed your password.',
-  mConfirmSignupExpired: "Signup Confirmation Expired",
-  mConfirmPasswordExpired: "Reset Password Confirmation Expired",
-  mConfirmEmailExpired: "Email Confirmation Expired",
-  mConfirmExpired: 'Sorry, the confirmation has been expired.',
-  mConfirmedEmail: "Hi, [=email]",
-  mConfirmedEmailDesc: "Let's get your account ready now!",
-  mDoneConfirmSignupButtton: "I'm done, let's go!",
-  mNameISPublicVisible: "Your name is publicly visible",
-  mCantFindEmail: "Can't find that email.",
-  mDuplicatedEmail: 'This email is already taken.',
-  mEmailChangedCancel: '(cancel)',
-  mEmailChangedTitle: "Email Changed",
-  mEmailChanged: 'Thanks. Your primary email has been changed to<br>[=email].',
-  mEmailChangeFailedTitle: "Unable to Change Email",
-  mEmailChangeFailed: "Sorry, we cannot change your email to [=email]: [=message]",
-  mEmailAddedTitle: "New Email Added",
-  mEmailAdded: 'Thanks. Your new email, [=email], has been added.',
-  mEmailAddFailedTitle: "Unable to Add New Email",
-  mEmailAddFailed: "Sorry, we cannot add your new email, [=email]: [=message]",
-  mSignupMailSentTitle: 'Awesome!',
+    'Lütfen <strong>[=email]</strong> hesabınız için '
+    'yeni bir şifre girin.',
+  mPasswordReseted: 'Şifrenizi yeni değiştirdiniz.',
+  mConfirmSignupExpired: "Kayıt Onayının Süresi Doldu",
+  mConfirmPasswordExpired: "Parola Sıfırlama Onayı Sona Erdi",
+  mConfirmEmailExpired: "E-posta Onayının Süresi Doldu",
+  mConfirmExpired: 'Maalesef, onayın süresi doldu.',
+  mConfirmedEmail: "Merhaba, [=email]",
+  mConfirmedEmailDesc: "Şimdi hesabınızı hazırlayalım!",
+  mDoneConfirmSignupButtton: "İşim bitti, hadi gidelim!",
+  mNameISPublicVisible: "Adınız herkes tarafından görülebilir",
+  mCantFindEmail: "Bu e-postayı bulamıyorum.",
+  mDuplicatedEmail: 'Bu e-posta zaten alınmış.',
+  mEmailChangedCancel: '(iptal)',
+  mEmailChangedTitle: "E-posta Değişti",
+  mEmailChanged: 'Teşekkürler. Birincil e-postanız değiştirildi <br>[=email].',
+  mEmailChangeFailedTitle: "E-posta Değiştirilemiyor",
+  mEmailChangeFailed: "Üzgünüm, e-postanı [=email] olarak değiştiremiyoruz: [=message]",
+  mEmailAddedTitle: "Yeni E-posta Eklendi",
+  mEmailAdded: 'Teşekkürler. Yeni [=email] e-postanız eklendi.',
+  mEmailAddFailedTitle: "Yeni E-posta Eklenemiyor",
+  mEmailAddFailed: "Üzgünüm, e-postanı [=email] olarak ekleyemiyoruz: [=message]",
+  mSignupMailSentTitle: 'Mükemmel!',
   mSignupMailSentDesc:
-    'We sent you a confirmation email to<br>'
-    '<strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder and confirm it.',
-  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
-  mSignupAccountDesc: "Already have an account?",
-  mSignupAccountLogin: "Log in here",
+    '<strong>[=email]</strong> <br>'
+    'adresine bir onay e-postası gönderdik.<br>'
+    'Lütfen [=hrefStart]gelen kutunuzu[=hrefEnd] veya spam klasörünüzü kontrol edin ve onaylayın.',
+  mSignupAgreePolicyDesc: 'Kaydolarak, Quire <a href="https://quire.io/privacy">Gizlilik Politikası</a> ve <a href="https://quire.io/terms">Şartları</a>nı kabul ediyorum.',
+  mSignupAccountDesc: "Zaten hesabınız var mı?",
+  mSignupAccountLogin: "Giriş yapın",
   mDeleteAccountNotEmpty:
-    'Sorry, you cannot delete your account because you are the only admin in [=granted] '
-    'Please add another admin, or delete the organization(s) first.',
-  mAlreadySignupMailTitle: 'Hi there!',
+    'Maalesef, [=granted] hesabınızdaki tek yönetici siz olduğunuzdan hesabınızı silemezsiniz '
+    'Lütfen başka bir yönetici ekleyin veya önce organizasyonu silin.',
+  mAlreadySignupMailTitle: 'Merhaba!',
   mAlreadySignupMailDesc:
-    'It seems like you have already signed up with<br>'
-    '<strong>[=email]</strong>.<br>'
-    'Please <a href="/login">log in here</a>.',
-  mInviteFriends: "Invite Friends",
-  mInviteFriendsTitle: "Invite your friends on board",
-  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily accomplish their dreams too!",
-  mInviteFriendsSuccessTitle: "Thank You!",
-  mInviteFriendsSuccess: 'An invitation was sent to <ul class="list-unstyled"></ul> We really appreciate your support!',
-  mInviteOthersFriends: "Invite other friends",
-  mInviteNewMembers: "Invite new members",
-  mContactUs: "Contact Us",
-  mFeedback: "Feedback",
+    'Görünüşe göre zaten<br>'
+    '<strong>[=email]</strong> ile kaydoldunuz.<br>'
+    'Lütfen <a href="/login">giriş yapın</a>.',
+  mInviteFriends: "Arkadaşlarını Davet Et",
+  mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
+  mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
+  mInviteFriendsSuccessTitle: "Teşekkürler!",
+  mInviteFriendsSuccess: 'Bir davetiye gönderildi <ul class="list-unstyled"></ul> Gerçekten desteğinize minnettarız!',
+  mInviteOthersFriends: "Diğer arkadaşlarını davet et",
+  mInviteNewMembers: "Yeni üyeler davet et",
+  mContactUs: "Bize Ulaşın",
+  mFeedback: "Geri bildirim",
   mFeedbackSubject: "Subject",
-  mFeedbackContent: "Tell us how we can help",
-  mSend: "Send",
-  mPostFeedbackPublic: "Allow other Quire users to see",
-  mFeedbackDesc: "Have a question or suggestion for us?<br>Thanks! We're all ears!",
+  mFeedbackContent: "Bize nasıl yardımcı olabileceğimizi söyleyin",
+  mSend: "Gönder",
+  mPostFeedbackPublic: "Diğer Quire kullanıcılarının görmesine izin ver",
+  mFeedbackDesc: "Bize bir sorunuz veya öneriniz mi var? Hepimiz duymaya hazırız!",
   mCheckCommunity: "Check out all feedback",
   mUndoListTitle: "My Operations",
-  mUndoDeleteListTitle: "Deleted",
-  mUndoCompleteListTitle: "Completed",
-  mUndoEmptyTitle: "Nothing to undo.",
-  mUndoEmptyDesc: "You haven't moved, completed or deleted tasks yet.",
-  mUndoRemoveTaskEmptyDesc: "No task has been deleted recently.",
-  mUndoCompleteTaskEmptyDesc: "No task has been completed recently.",
-  mSearchPartialResult: "Only partial results are shown",
-  mSearchOtherProjects: "Search other projects",
-  mBackSearch: "Back to search",
-  mMarkAllRead: "Mark All as Read",
-  mEmptyNotificationMessage: "You don't have any notifications.",
-  mShowMoreActivities: "Show earlier activities",
-  mShowMoreTasks: "Show more tasks",
-  mShowMoreComments: "Show earlier comments",
-  mEmptyComments: "No comments",
-  mEmptyCommentsDesc: "Be the first to <a>add comment</a>",
-  mNewComments: "New comments",
-  mNewNotifications: "New notifications",
-  mScrollToBottom: "Scroll to bottom",
-  mSubtaskStatusAsgdTitle: "Tasks per assignee",
+  mUndoDeleteListTitle: "Silindi",
+  mUndoCompleteListTitle: "Tamamlandı",
+  mUndoEmptyTitle: "Geri alınacak bir şey yok.",
+  mUndoEmptyDesc: "Henüz görevleri taşımadınız, tamamlamadınız veya silmediniz.",
+  mUndoRemoveTaskEmptyDesc: "Son zamanlarda hiçbir görev silinmedi.",
+  mUndoCompleteTaskEmptyDesc: "Son zamanlarda hiçbir görev tamamlanmadı.",
+  mSearchPartialResult: "Yalnızca kısmi sonuçlar gösteriliyor",
+  mSearchOtherProjects: "Başka bir projede ara",
+  mBackSearch: "Aramaya geri dön",
+  mMarkAllRead: "Tümünü Okundu Olarak İşaretle",
+  mEmptyNotificationMessage: "Bildiriminiz yok.",
+  mShowMoreActivities: "Önceki etkinlikleri göster",
+  mShowMoreTasks: "Daha fazla görev göster",
+  mShowMoreComments: "Önceki yorumları göster",
+  mEmptyComments: "Yorum yok",
+  mEmptyCommentsDesc: "<a>Yorum ekleyen</a> ilk siz olun",
+  mNewComments: "Yeni yorumlar",
+  mNewNotifications: "Yeni bildirimler",
+  mScrollToBottom: "En alta kaydır",
+  mSubtaskStatusAsgdTitle: "Sorumlu başına görevler",
   mSubtaskStatusDueTitle: "Task due dates",
-  mTaskRemovedTitle: "This task has been deleted.",
-  mTaskRemovedDesc: "Try searching for something else.",
+  mTaskRemovedTitle: "Bu görev silindi.",
+  mTaskRemovedDesc: "Başka bir şey aramayı deneyin.",
   mAppBanned:
-    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
-    "You aren't allowed to publish the app again until [=when].",
-  mMyTasksEmptyMessage: "Hurray~ no task is due!",
-  mSignupOrganization: "[=user]'s Organization",
-  mSignupProject: "[=user]'s Project",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+    'Bu uygulama <a href="/terms" target="_blank">Hizmet Şartlarımızı</a> ihlal ettiği için yasaklandı. '
+    "[=when] tarihine kadar uygulamayı tekrar yayınlamanıza izin verilmiyor.",
+  mMyTasksEmptyMessage: "Yaşasın ~ hiçbir görevin zamanı dolmamış!",
+  mSignupOrganization: "[=user] Organizasyonu",
+  mSignupProject: "[=user] Projesi",
+  mEmailWelcomeSubject: "Quire'i şimdiye kadar nasıl buluyorsun?",
   mEmailWelcomeContent: '''
 [=header]
 
-<p>We’re super excited to have you on board!</p>
+<p>Sizi hesabınızda görmekten dolayı çok heyecanlıyız!</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>Şimdiye kadar herhangi bir sorunuz veya geri bildiriminiz var mı? Bize bildirin, size yardımcı olmaktan mutluluk duyarız!</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>Nereden başlayacağınızdan emin değilseniz, adım adım izleyebileceğiniz bir kılavuzumuz var!</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">Kılavuzu Görüntüle</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>Oh, ayrıca Quire'den en iyi şekilde yararlanmak için ipuçlarımızı paylaşacak ve  
+diğer kullanıcıların size ilham verebileceğini ve motive edebileceğini düşündüğümüz Quire'yi nasıl kullandığına dair birçok ilginç hikaye anlatacak bir <a href="https://quire.io/blog/">blogumuz</a> var! Kontrol et!</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>Quire ile hayallerini yaşa ve hedeflerine ulaş!</p>
 
-<p>Have a great day!</p>
+<p>İyi günler!</p>
 
-<p>Best Regards,</p>
+<p>Saygılarımla,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Gelecekte böyle bir e-posta almak istemiyorsanız lütfen buradan <a href="[=unsubscribe]">abonelikten çıkın</a>.</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject: "Quire'de eksik olabilirsiniz",
   mEmailValueProposalContent: '''
 [=header]
 
