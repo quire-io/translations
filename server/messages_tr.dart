@@ -224,8 +224,6 @@ const trServer = const <String, String> {
   mNewComments: "Yeni yorumlar",
   mNewNotifications: "Yeni bildirimler",
   mScrollToBottom: "En alta kaydır",
-  mSubtaskStatusAsgdTitle: "Sorumlu başına görevler",
-  mSubtaskStatusDueTitle: "Task due dates",
   mTaskRemovedTitle: "Bu görev silindi.",
   mTaskRemovedDesc: "Başka bir şey aramayı deneyin.",
   mAppBanned:

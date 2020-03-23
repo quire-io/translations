@@ -224,8 +224,6 @@ const deServer = const <String, String> {
   mNewComments: "Neue Kommentare",
   mNewNotifications: "Neue Benachrichtigungen",
   mScrollToBottom: "Zum Ende springen",
-  mSubtaskStatusAsgdTitle: "Aufgaben pro Beauftragter",
-  mSubtaskStatusDueTitle: "Fälligkeitsdatum",
   mTaskRemovedTitle: "Diese Aufgabe wurde entfernt.",
   mTaskRemovedDesc: "",
   mAppBanned:

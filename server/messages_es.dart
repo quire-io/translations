@@ -224,8 +224,6 @@ const esServer = const <String, String> {
   mNewComments: "Nuevos comentarios",
   mNewNotifications: "Nuevas notificaciones",
   mScrollToBottom: "Ir al final",
-  mSubtaskStatusAsgdTitle: "Tareas por asignado",
-  mSubtaskStatusDueTitle: "Fechas de vencimiento de tareas",
   mTaskRemovedTitle: "Esta tarea ha sido eliminada.",
   mTaskRemovedDesc: "Intenta buscar otra cosa.",
   mAppBanned:

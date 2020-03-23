@@ -283,9 +283,6 @@ const enServer = const <String, String> {
   mNewComments: "New comments",
   mNewNotifications: "New notifications",
   mScrollToBottom: "Scroll to bottom",
-
-  mSubtaskStatusAsgdTitle: "Tasks per assignee",
-  mSubtaskStatusDueTitle: "Task due dates",
   
   mTaskRemovedTitle: "This task has been deleted.",
   mTaskRemovedDesc: "Try searching for something else.",

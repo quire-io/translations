@@ -224,8 +224,6 @@ const itServer = const <String, String> {
   mNewComments: "Nuovi commenti",
   mNewNotifications: "Nuove notifiche",
   mScrollToBottom: "Scorri alla fine",
-  mSubtaskStatusAsgdTitle: "Attività per assegnatario",
-  mSubtaskStatusDueTitle: "Attività per data scadenza",
   mTaskRemovedTitle: "Questa attività è stata eliminata.",
   mTaskRemovedDesc: "Prova a cercare per qualcosaltro.",
   mAppBanned:

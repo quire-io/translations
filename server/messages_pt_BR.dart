@@ -223,8 +223,6 @@ const ptBrServer = const <String, String> {
   mNewComments: "Novos comentários",
   mNewNotifications: "Novas notificações",
   mScrollToBottom: "Rolar para baixo",
-  mSubtaskStatusAsgdTitle: "Tarefas por responsável",
-  mSubtaskStatusDueTitle: "Datas de Conclusão da Tarefa",
   mTaskRemovedTitle: "Esta tarefa foi excluída.",
   mTaskRemovedDesc: "Tente pesquisar por outra coisa.",
   mAppBanned:

@@ -224,8 +224,6 @@ const jaServer = const <String, String> {
   mNewComments: "新しいコメント",
   mNewNotifications: "新しい通知",
   mScrollToBottom: "一番下までスクロール",
-  mSubtaskStatusAsgdTitle: "担当者ごとのタスク",
-  mSubtaskStatusDueTitle: "タスクの期限日",
   mTaskRemovedTitle: "このタスクは削除されました。",
   mTaskRemovedDesc: "他の条件で検索してください。",
   mAppBanned:

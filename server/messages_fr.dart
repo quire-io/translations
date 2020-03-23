@@ -224,8 +224,6 @@ const frServer = const <String, String> {
   mNewComments: "Nouveaux commentaires",
   mNewNotifications: "Nouvelles notifications",
   mScrollToBottom: "Défiler jusqu'en bas",
-  mSubtaskStatusAsgdTitle: "Tâches par contributeur",
-  mSubtaskStatusDueTitle: "Dates d'expiration des tâches",
   mTaskRemovedTitle: "Cette tâche a été supprimée.",
   mTaskRemovedDesc: "Essayez de chercher quelque chose d'autre.",
   mAppBanned:
