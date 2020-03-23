@@ -198,7 +198,7 @@ const trServer = const <String, String> {
   mInviteNewMembers: "Yeni üyeler davet et",
   mContactUs: "Bize Ulaşın",
   mFeedback: "Geri bildirim",
-  mFeedbackSubject: "Subject",
+  mFeedbackSubject: "Konu",
   mFeedbackContent: "Bize nasıl yardımcı olabileceğimizi söyleyin",
   mSend: "Gönder",
   mPostFeedbackPublic: "Diğer Quire kullanıcılarının görmesine izin ver",
@@ -269,114 +269,114 @@ diğer kullanıcıların size ilham verebileceğini ve motive edebileceğini dü
   mEmailValueProposalContent: '''
 [=header]
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Biliyorum, Quire için yenisin. Gözünden kaçmaması için sana Quire
+hakkında başkalarının sevdiği birkaç şey söylemek istiyorum.:</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>Quire Karmaşıklığı Basitleştirir</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>Görevler, tek tek tamamlamanız gereken sayıda adıma bölünür.
+Hedefiniz ne kadar büyük veya zorlu olursa olsun, Quire başarmayı
+kolaylaştırır.</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>Quire Bir Adım Önde Düşünüyo</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>İnsanların Quire'a geçmelerinin bir nedeni temiz ve sezgisel tasarımı,
+içindeki uzun ve dağınık yapılacaklar listenizle bile uyumludur..</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>Quire Herkesle İşbirliği Yapıyor</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>İş yükünüzü iş arkadaşlarınıza, iş ortaklarınıza, arkadaşlarınıza veya ailenize atayarak paylaşın.
+Gerçek zamanlı iletişim ve işbirliği sayesinde ekip çalışması hiç
+bu kadar kolay olmamıştı.</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>Ne bekliyorsun? <a href="https://quire.io/w"> Hedeflerinizi Quire ile gerçekleştirin!</a></p>
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>Tabii ki, Quire kullanırken herhangi bir sorunuz olursa, size yardımcı olmak için buradayız.</p>
 
-<p>Best regards,</p>
+<p>Saygılarımla,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Gelecekte böyle bir e-posta almak istemiyorsanız lütfen buradan <a href="[=unsubscribe]">abonelikten çıkın</a>.</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject: "Sizi bir süredir Quire'de görmedik",
   mEmailLeavingContent: '''
-<p>Hello [=name],</p>
+<p>Merhaba [=name],</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Quire'yi kullandığınız için tekrar teşekkürler.</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>Umarız Quire size hedeflerinize ulaşmanızda yardımcı olur.
+Kullanıcılarımıza yardımcı olmak için <a href="https://twitter.com/quire_io">daha fazla özellik</a> dikkatle 
+hazırlanmaktadır, bu nedenle bizi izlemeye devam edeceğinizi ve 
+Quire'ın proje yönetimi çabalarınızı nasıl azalttığını görmenizi umuyoruz.</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Quire'ın sizin için doğru çözüm olduğunu düşünmüyorsanız, lütfen sizin gibi daha fazla 
+kullanıcıya ulaşabilmemiz için hangi alanlarda iyileştirebileceğimizi bize bildirin..</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>Bununla ilgili sohbet etmek isterseniz, sizinle bir 
+görüşme ayarlamak isteriz.</p>
 
-<p>We would love to hear from you,</p>
+<p>Sizden duymak isteriz,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Gelecekte böyle bir e-posta almak istemiyorsanız lütfen buradan <a href="[=unsubscribe]">abonelikten çıkın</a>.</p>
 ''',
-  mEmailSignupSubject: 'Complete your Quire sign up',
+  mEmailSignupSubject: 'Quire kaydınızı tamamlayın',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Bir tık uzaktasınız!</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>Quire'ı kullanmaya başlamak için lütfen aşağıdaki düğmeyi tıklayarak e-posta adresinizi doğrulayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Doğrula</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
 [=footer]
 ''',
-  mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
+  mEmailProfileChangeSubject: 'Quire: Profiliniz güncellendi',
   mEmailProfileChangeContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed [=fields] in your profile.</p>
+<p>Profilinizde [=fields] alanlarını değiştirdiğinizi bildirmek için yazıyoruz.</p>
 
-<p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Değişikliği yapmadıysanız, lütfen hemen <a href="mailto:support@quire.io">bizimle iletişime geçin.</a></p>
 
 [=footer]
 ''',
-  mEmailInviteSubject: "Quire: You are invited to join [=host]",
+  mEmailInviteSubject: "Quire: Katılmaya davetlisiniz - [=host]",
   mEmailInviteContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>[=invitor] tarafından [=hostType] topluluğuna davet edildiniz: [=host].</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>Daveti kabul etmek için lütfen tıklayın butona tıklayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Daveti kabul et</a>
 </p>
 
 [=footer]
 ''',
-  mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
+  mEmailInviteFriendsSubject: "[=name] sizi Quire'a davet etti",
   mEmailInviteFriendsContent: '''
 [=header]
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) sizi <a href="https://quire.io">Quire</a>'a davet etti;
+herkesin keyif aldığı bir proje yönetimi çözümü.</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>Daveti kabul etmek için lütfen aşağıdaki düğmeyi tıklayın. Ücretsiz!</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Daveti kabul et</a>
 </p>
 
 [=footer]
@@ -385,7 +385,7 @@ a project management solution he is enjoying.</p>
   mEmailPerUpdateContent: '''
 [=header]
 
-<p>We are writing to let you know:</p>
+<p>Size bildirmek için yazıyoruz:</p>
 
 [=digest]
 
@@ -393,13 +393,13 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you are following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>Bu e-postayı, [=source] sayfasını izlediğiniz için alıyorsunuz. Abonelikten çıkmak için lütfen <a href="[=unsubscribe]">burayı tıklayın</a>.</p>
 ''',
-  mEmailDigestSubject: "Quire: A total [=count] notifications for you",
+  mEmailDigestSubject: "Quire: Sizin için toplam [=count] bildirim",
   mEmailDigestContent: '''
 [=header]
 
-<p>There are a total of [=count] notifications for you:</p>
+<p>Sizin için toplam [=count] bildirimi var:</p>
 
 [=digest]
 
@@ -407,78 +407,78 @@ a project management solution he is enjoying.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
+<p>Etkinlik güncellemelerini almak istediğiniz için bu e-postayı alıyorsunuz. Bildirimleri ne sıklıkta almak istediğinizi değiştirmek için <a href="https://quire.io/r/setting?tab=options#email">burayı tıklayın</a>. Abonelikten çıkmak için <a href="[=unsubscribe]">burayı tıklayın</a>.</p>
 ''',
-  mEmailEmailChangeSubject: "Quire: Please verify your new email address",
+  mEmailEmailChangeSubject: "Quire: Lütfen yeni e-posta adresinizi doğrulayın",
   mEmailEmailChangeContent: '''
 [=header]
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Kısa bir süre önce Quire hesabınız için yeni bir e-posta adresi güncellediniz.</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Yeni e-posta adresinizi doğrulamak için lütfen önümüzdeki 12 saat içinde aşağıdaki butonu tıklayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Doğrula</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
 [=footer]
 ''',
-  mEmailEmailChangeNotificationSubject: "Quire: Your primary email address has been changed",
+  mEmailEmailChangeNotificationSubject: "Quire: Birincil e-posta adresiniz değiştirildi",
   mEmailEmailChangeNotificationContent: '''
 [=header]
 
-<p>We are writing to let you know you have changed your primary
-email address to <b>[=newEmail]</b>.
+<p>Birincil e-posta adresinizi <b>[=newEmail]</b> olarak değiştirdiğinizi bildirmek 
+için yazıyoruz.</p>
 
-<p>All notifications related to you will be sent to your new
-primary email address,
-including account-related notifications and task activities.</p>
+<p>Sizinle ilgili tüm bildirimler, hesapla ilgili bildirimler ve görev 
+etkinlikleri dahil olmak üzere yeni
+birincil e-posta adresinize gönderilecektir.</p>
 
-<p>If you did not make the change, please
-<a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Değişikliği yapmadıysanız, lütfen hemen
+<a href="mailto:support@quire.io">bizimle iletişime geçin</a>.</p>
 
 [=footer]
 ''',
-  mEmailAddEmailSubject: "Quire: Please verify your new email address",
+  mEmailAddEmailSubject: "Quire: Lütfen yeni e-posta adresinizi doğrulayın",
   mEmailAddEmailContent: '''
 [=header]
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Yeni e-posta adresinizi doğrulamak için lütfen önümüzdeki 12 saat içinde aşağıdaki butonu tıklayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Doğrula</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
 [=footer]
 ''',
-  mEmailForgotPasswordSubject: "Quire: Please reset your password",
+  mEmailForgotPasswordSubject: "Quire: Lütfen şifrenizi sıfırlayın",
   mEmailForgotPasswordContent: '''
 [=header]
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Bu e-postayı, Quire şifrenizi kaybettiğiniz için alıyorsunuz.</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>Şifrenizi sıfırlamak için lütfen önümüzdeki 2 saat içinde aşağıdaki butonu tıklayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">Şifreyi yenile</a>
 </p>
 
 [=footer]
 ''',
-  mEmailInviteConfirmedSubject: "[=inviteeName] has accepted your invitation to Quire",
+  mEmailInviteConfirmedSubject: "[=inviteeName] Quire davetinizi kabul etti",
   mEmailInviteConfirmedContent: '''
 [=header]
 
-<p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
+<p>Davetiyeniz üzerine, [=invitee] ([=inviteeEmail]) Quire'a başarıyla katıldı.</p>
 
 [=footer]
 ''',
-  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
-  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">Merhaba,</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">Merhaba [=name],</p>',
   mEmailSubscriberContent: '''
 [=header]
 
@@ -488,24 +488,24 @@ including account-related notifications and task activities.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>E-posta güncellemelerini almak istediğiniz için bu e-postayı alıyorsunuz. Abonelikten çıkmak için lütfen <a href="[=unsubscribe]">burayı tıklayın</a>.</p>
 ''',
   mEmailContentFooter:
-    '<p class="end-row-1">Thanks,</p>'
-    '<p class="end-row-2">The Quire Team</p>',
-  mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
+    '<p class="end-row-1">Teşekkürler,</p>'
+    '<p class="end-row-2">Quire Ekibi</p>',
+  mEmailLeaveMemberSubject: "Quire: [=member] [=target]'tan ayrıldı",
   mEmailLeaveMemberContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
+<p>[=member] ([=memberEmail]) üyesinin [=target]'dan ayrıldığını bildirmek için yazıyoruz.</p>
 
 [=footer]
 ''',
-  mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
+  mEmailNewProjectSubject: "Quire: [=member] [=project]'ni oluşturdu",
   mEmailNewProjectContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
+<p>[=member] ([=memberEmail]) [=project]'sini oluşturduğunu bildirmek için yazıyoruz.</p>
 
 [=footer]
 ''',
