@@ -230,7 +230,7 @@ const trWeb = const <String, String> {
     "ayrıntılar ekleyebilirsiniz. Ayrıca ayrıntı panelindeki yorumlarda "
     "üyelerle tartışabilir, sohbet edebilir ve onlarla etkileşimde bulunabilirsiniz.</p>"
     '<p>Açıklamanıza veya yorumunuza stiller eklemek için (ör. kalın yapın), '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a> linkine tıklayın.</p>',
+    '<a href="/blog/p/Our-Very-Own-Markdown.html">İşaretleme</a> linkine tıklayın.</p>',
   mTutorialDetailPanelTip: 'İpucu: Ayrıntı panelini açık tutmak için "sabitle" simgesini tıklayabilirsiniz.',
   mTutorialDragTaskTitle: "İstediğin gibi oraganize et",
   mTutorialDragTaskContent:
