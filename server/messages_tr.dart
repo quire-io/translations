@@ -503,53 +503,53 @@ birincil e-posta adresinize gönderilecektir.</p>
   mEmailNewProjectContent: '''
 [=header]
 
-<p>[=member] ([=memberEmail]) [=project]'sini oluşturduğunu bildirmek için yazıyoruz.</p>
+<p>[=member] ([=memberEmail]) kullanıcısının [=project]'sini oluşturduğunu bildirmek için yazıyoruz.</p>
 
 [=footer]
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire: [=member] [=host] sildi",
   mEmailDeleteHostContent: '''
 [=header]
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>[=member] ([=memberEmail]) üyesinin "[=host]" sildiğini bildirmek için yazıyoruz.</p>
 
 [=footer]
 ''',
-  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedSubject: "[=app] reddedildi",
   mEmailAppRejectedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been rejected since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+<p>[=app] uygulamanızın <a href="https://quire.io/terms" target="_blank">Hizmet Şartları</a>mızı 
+ihlal ettiği için reddedildiğini bildirmek için yazıyoruz.
 
 [=reason]
 
 [=footer]
 ''',
-  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedSubject: "[=app] uygulaması [=days] gün yasaklandı",
   mEmailAppBannedContent: '''
 [=header]
 
-<p>We are writing to let you know your app, [=app], has been banned since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
-You won't be allowed to publish the app again until [=days] days later.</p>
+<p>[=app] uygulamanızın <a href="https://quire.io/terms" target="_blank">Hizmet Şartları</a>mızı
+ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
+[=days] gün sresince uygulamayı tekrar yayınlamanıza izin verilmeyecek.</p>
 
 [=reason]
 
 [=footer]
 ''',
-  mSummaryUnknown: "Activity Update",
+  mSummaryUnknown: "Etkinlik Güncellemesi",
   mExtraValue: " as [=value]",
   mSaying: ", saying [=value]",
-  mViewOnQuire: "view on Quire",
-  mUnfollow: "unfollow",
-  mThisTask: "this task",
-  "AT$atAddTask": "[=who] added [=what][=value]",
-  "AT$atRemoveTask": "[=who] deleted [=what][=value]",
-  "AT$atEditTask": "[=who] edited [=what][=value]",
+  mViewOnQuire: "Quire üzerinde göster",
+  mUnfollow: "takibi bırak",
+  mThisTask: "bu görev",
+  "AT$atAddTask": "[=who] [=what][=value] görevini ekledi",
+  "AT$atRemoveTask": "[=who] [=what][=value] görevini sildi",
+  "AT$atEditTask": "[=who] [=what][=value] görevini düzenledi",
   "AT$atMoveTask": "[=who] moved [=what] to [=value]",
-  "AT$atComplete": "[=who] completed [=what]",
-  "AT$atUncomplete": "[=who] reopened [=what]",
+  "AT$atComplete": "[=who] [=what] tamamladı",
+  "AT$atUncomplete": "[=who] [=what] tekrar açtı",
   "AT$atAssign": "[=who] assigned [=what] to [=value]",
   "AT$atUnassign": "[=who] unassigned [=value] from [=what]",
   "AT$atSetDue": "[=who] set the due date of [=what] to [=value:due]",
