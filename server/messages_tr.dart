@@ -789,7 +789,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'Quire ile aşağıdaki uygulaları yetkilendirdiniz. Daha fazla entegrasyon için '
     '<a href="/apps" target="quire_app">Quire Uygulama Dizini</a>ni ziyaret edin.',
   mAppListAuthTarget: 'Erişim',
-    mOauthViewTitle: "İzin Ver",
+  mOauthViewTitle: "İzin Ver",
   mOauthViewDesc: "[=name] şunları yapabilecektir:",
   mOauthSlackSuccessViewTitle: "Hepiniz hazırsınız!",
   mOauthSlackSuccessViewDesc:
