@@ -322,6 +322,9 @@ const enClient = const <String, String> {
   mSortByAssignee: "Sort by assignee",//cus filter
   mSortByDate: "Sort by date",//cus filter
   mSortByProject: "Sort by project",//cus filter
+  mGroupByAssignee: "Group by assignee",//cus filter
+  mGroupByDate: "Group by date",//cus filter
+  mGroupByProject: "Group by project",//cus filter
   mPriority: "Priority",
   mPriorityLabel: "Low,Medium,High,Urgent",
   mStateLabel: "To-Do,In Progress,Completed",
