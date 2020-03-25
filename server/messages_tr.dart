@@ -853,188 +853,188 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mHourly: "Saatlik",
   mDaily: "Günlük",
   mWeekly: "Haftalık",
-  mStartedAt: "Started",
-  mCompletedAt: "Completed",
-  mSettingNotificationsTitle: "Notify me about",
+  mStartedAt: "Başlayan",
+  mCompletedAt: "Tamamlanan",
+  mSettingNotificationsTitle: "Beni haberdar et",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "New tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mCommentAllNotifications: "All comments",
-  mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All other updates",
-  mSettingManageReminder: "Manage reminder settings",
-  mSendActivityNotification: "Send Activity Notifications",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
-  mActivityNotice: "Activity Notifications",
-  mReceiveBlogPosts: "New blog posts",
-  mReceivePolicyUpdates: "Updates about Quire membership and policy",
-  mReceiveFeatureUpdates: "Updates about product and feature release",
-  mReceiveSurvey: "Receive Quire research survey",
-  mReminders: "Task Reminders",
-  mRemindAdvance: "Remind Upcoming Tasks",
-  m12hrBefore: "12 hrs before",
-  m1dayBefore: "1 day before",
-  m2dayBefore: "2 days before",
-  m3dayBefore: "3 days before",
-  mStartOFDay: "At start of the day",
-  mStartOFWeek: "At start of the week",
-  mRemindTime: "Remind Upcoming Tasks with Time",
-  m0MinutesBefore: "At the time",
-  m15MinutesBefore: "15 mins before",
-  m30MinutesBefore: "30 mins before",
-  m1hrBefore: "1 hr before",
-  m2hrBefore: "2 hrs before",
-  mRemindOverdue: "Remind Overdue Tasks",
-  mNextDay: "Next day",
-  m2dayLater: "2 days later",
-  mStartOFNextWeek: "At start of next week",
-  mRemindTimeAt: "at",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
-  mAutoAssignToMe: 'Automatically assign new tasks to myself',
-  mDeveloperConsoleTitle: "Apps",
+    "Aşağıdaki seçenekleri seçerek hangi bildirimleri almak istediğinizi belirleyebilirsiz. "
+    "Bu ayar, bu projedeki her üye yerine yalnızca hesabınız için geçerli olacaktır.",
+  mAssignNotifications: "Bana atanan yeni görevler",
+  mCommentNotifications: "Yeni yorumlar",
+  mCommentAllNotifications: "Tüm yorumlar",
+  mCommentMeNotifications: "Sadece benden bahset",
+  mUpdateNotifications: "Diğer tüm güncellemeler",
+  mSettingManageReminder: "Hatırlatıcı ayarlarını yönetin",
+  mSendActivityNotification: "Etkinlik Bildirimi Gönder",
+  mSendActivityNotificationDesc: "Almak istediğiniz bildirimleri proje ayarları bölümünden özelleştirebilirsiniz.",
+  mActivityNotice: "Etkinlik Bildirimleri",
+  mReceiveBlogPosts: "Yeni blog gönderileri",
+  mReceivePolicyUpdates: "Quire üyeliği ve politikası hakkında güncellemelery",
+  mReceiveFeatureUpdates: "Ürün ve özellik sürümü ile ilgili güncellemeler",
+  mReceiveSurvey: "Quire araştırma anketi alın",
+  mReminders: "Görev Hatırlatıcıları",
+  mRemindAdvance: "Yaklaşan Görevleri Hatırlat",
+  m12hrBefore: "12 saat önce",
+  m1dayBefore: "1 gün önce",
+  m2dayBefore: "2 gün önce",
+  m3dayBefore: "3 gün önce",
+  mStartOFDay: "Günün başında",
+  mStartOFWeek: "Haftanın başında",
+  mRemindTime: "Yaklaşan Görevleri Zamanla Birlikte Hatırlat",
+  m0MinutesBefore: "Zamanında",
+  m15MinutesBefore: "15 dk. önce",
+  m30MinutesBefore: "30 dk. önce",
+  m1hrBefore: "1 saat önce",
+  m2hrBefore: "2 saat önce",
+  mRemindOverdue: "Geciken Görevleri Hatırlat",
+  mNextDay: "Ertesi gün",
+  m2dayLater: "2 gün sonra",
+  mStartOFNextWeek: "Gelecek haftanın başında",
+  mRemindTimeAt: "saat",
+  mCollapseAllSubtaskByDefault: 'Varsayılan olarak tüm alt görevleri daralt',
+  mAutoAssignToMe: 'Yeni görevleri otomatik olarak bana ata',
+  mDeveloperConsoleTitle: "Uygulamalar",
   mDeveloperConsoleIntro:
-    'Build an app that makes Quire an even better experience for you and your team!<br>'
-    "If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submission Date',
-  mAppDistributeListStatus: 'App Status',
-  mAppDirectoryHeader: "App Directory",
-  mAppDirectoryTitle: "Quire & Beyond",
-  mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
-  mAppSearchPlaceholder: "Search Apps",
-  mAppDirectoryBackApps: 'Browse Apps',
-  mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
-  mAppDeveloperHeader: "Developers",
-  mAppDeveloperTitle: "Build great things with Quire!",
-  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
-  mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
-  mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
-  mAppDeveloperStartButton: 'Start building',
-  mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
-  mAppUpdateAt: 'Last updated: [=when]',
-  mAppVisitWebsite: "Visit Developer Website",
-  mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButton: 'Install',
-  mAppInstallLabel: 'Installed',
-  mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
-  mAppAuthTarget: '[=app] will have access to:',
-  mAppAuthSpecifyTarget: 'A specific organization or project',
-  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
-  mAppAuthSpecifyOrganization: 'Specify an organization',
-  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
-  mAppAuthSpecifyProject: 'Specify a project',
-  mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: "Allow app to access my team members' email addresses",
-  mAlreadySignedUP: "[=email] already signed up",
+    'Quire\'i sizin ve ekibiniz için daha da iyi bir deneyim haline getiren bir uygulama oluşturun!<br>'
+    "Nasıl başlayacağınızdan emin değilseniz, entegrasyonunuza başlamak için <a href='/dev/api/'>geliştirici dokümantasyonuna</a> göz atın.",
+  mAppListLastUpdate: 'Son Güncelleme',
+  mAppDistributeListDate: 'Teslim tarihi',
+  mAppDistributeListStatus: 'Uygulama Durumu',
+  mAppDirectoryHeader: "Uygulama Dizini",
+  mAppDirectoryTitle: "Quire & Ötesi",
+  mAppDirectoryTitleIntro: 'Proje yönetimini mutlu ve kolay bir iş haline getirmek için bu harika entegrasyonlara göz atın.',
+  mAppSearchPlaceholder: "Uygulamalarda Ara",
+  mAppDirectoryBackApps: 'Uygulamalara Göz At',
+  mAppDirectorySidebarItems: 'popüler=Popüler;yeni=Yeni;quire=Quire Uygulamaları;=Tüm Uygulamalar',
+  mAppDeveloperHeader: "Geliştiriciler",
+  mAppDeveloperTitle: "Quire ile harika şeyler oluşturun!",
+  mAppDeveloperTitleIntro: 'Quire\'i sizin ve ekibiniz için daha iyi bir deneyim haline getiren bir uygulama oluşturmak için Quire geliştiricileri topluluğuna katılın!',
+  mAppDeveloperDocDesc: 'Geliştirici belgeleri, Quire API\'sı için ihtiyacınız olan tüm bilgilere sahiptir',
+  mAppDeveloperTutorialDesc: 'Geliştirici kılavuzu, Quire API\'sı ile bir uygulama oluşturmanıza rehberlik eder',
+  mAppDeveloperStartButton: 'Geliştirmeye başla',
+  mAppCreatedBy: 'Geliştirici: [=company]',
+  mAppInstalledDesc: 'Bu uygulamayı zaten yüklediniz, daha fazla bilgi için lütfen [=setting] ayarlarınızı ziyaret edin.',
+  mAppUpdateAt: 'Son güncelleme: [=when]',
+  mAppVisitWebsite: "Geliştirici Web Sitesini Ziyaret Edin",
+  mAppContactDeveloper: 'Uygulama Geliştiricisine başvurun',
+  mAppInstallButton: 'Yükle',
+  mAppInstallLabel: 'Yüklendi',
+  mAppAuthDesc: 'İzninizle [=app] uygulaması şu izinlere sahip olacak:',
+  mAppAuthTarget: '[=app] şunlara erişebilecek:',
+  mAppAuthSpecifyTarget: 'Belirli bir organizasyon veya proje',
+  mAppAuthSpecifyTargetDesc: 'Bir organizasyon veya proje seçin',
+  mAppAuthSpecifyOrganization: 'Bir organizasyon belirtin',
+  mAppAuthSpecifyOrganizationDesc: 'Bir organizasyon seçin',
+  mAppAuthSpecifyProject: 'Bir proje belirtin',
+  mAppAuthSpecifyProjectDesc: 'Bir proje seçin',
+  mAppAuthContact: "Uygulamanın ekip üyelerimin e-posta adreslerine erişmesine izin ver",
+  mAlreadySignedUP: "[=email] zaten kayıtlı.",
   mNotSignedUPAndRedirect:
-    "You have not confirmed your signup yet.<br>"
-    "Please check your inbox or spam folder for the confirmation email, "
-    'or <a href="/signup?email=[=email]">sign up again</a>.',
-  mGplusAuthorizeErrorTitle: "Google authorization failed",
-  mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
-  mTransferProjectToSameOrganization: "This project is already in the organization you specified.",
-  mTransferTaskToSameProject: "This task is already in the project you specified.",
-  mTransferTargetNotExist: "The target no longer exists.",
-  mTaskNotExist: "This task has been deleted.",
-  mProjectNotExist: "This project has been deleted.",
-  mReloadData: "Data inconsistency detected. Synchronized with the server.",
-  mThanksFeedback: "Thank You! Your feedback is most valuable to us.<br>We'll get back to you ASAP!",
+    "Kaydınızı henüz onaylamadınız.<br>"
+    "Lütfen onay e-postası için gelen kutunuzu veya spam klasörünüzü kontrol edin, "
+    'veya  <a href="/signup?email=[=email]">tekrar kaydolun</a>.',
+  mGplusAuthorizeErrorTitle: "Google yetkilendirmesi başarısız oldu",
+  mGplusAuthorizeError: "Hata! Google yetkilendirmesi başarısız oldu. Lütfen tekrar deneyin.",
+  mTransferProjectToSameOrganization: "Bu proje zaten belirttiğiniz organizasyonda.",
+  mTransferTaskToSameProject: "Bu görev zaten belirttiğiniz projede.",
+  mTransferTargetNotExist: "Hedef artık mevcut değil.",
+  mTaskNotExist: "Bu görev silindi.",
+  mProjectNotExist: "Bu proje silindi.",
+  mReloadData: "Veri tutarsızlığı tespit edildi. Sunucuyla senkronize edildi.",
+  mThanksFeedback: "Teşekkür ederim! Görüşleriniz bizim için çok değerlidir. <br>Size en kısa sürede geri döneceğiz!",
   mThanksFeedbackTask:
-    "Thank You! Your feedback is most valuable to us.<br>We created a task for it. "
-    'You can <a href="[=url]">follow it here</a>.',
-  mTipF1: "Tip: Press F1 to see keyboard shortcuts",
-  mTipSelectMultiple: "Tip: Select multiple tasks by <code>[=ctrlCommand]+Click</code> or <code>Shift+Click</code>",
-  mTipMention: 'Tip: Enter <b><i>@user_name</i></b> in descriptions or comments to mention someone',
-  mTipReference: 'Tip: Enter <b><i>#task_name</i></b> in descriptions or comments to reference a task',
-  mTipDrillDown: 'Tip: Zoom in a task by <code>[=ctrlCommand]+I</code> to only see its subtasks',
+    "Teşekkür ederim! Görüşleriniz bizim için çok değerlidir. <br>Bunun için bir görev oluşturduk. "
+    '<a href="[=url]">Buradan takip</a> edebilirsiniz.',
+  mTipF1: "İpucu: Klavye kısayollarını görmek için F1 tuşuna basın",
+  mTipSelectMultiple: "İpucu: <code>[=ctrlCommand]+Click</code> veya <code>Shift+Click</code> ile birden fazla görev seçin",
+  mTipMention: 'İpucu: Birinden bahsetmek için açıklamalara veya yorumlara <b><i>@user_name</i></b> yazın',
+  mTipReference: 'İpucu: Bir göreve başvurmak için açıklamalara veya yorumlara <b><i>#task_name</i></b> yazın',
+  mTipDrillDown: 'İpucu: Bir görevin yalnızca alt görevlerini görmek için  <code>[=ctrlCommand]+I</code> ile yakınlaştırın',
   mTipTwitter:
-    'Tip: Follow us on <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'for recent updates',
+    'İpucu: Son güncellemeler için bizi <a href="https://twitter.com/quire_io" target="_blank">Twitter</a>\'da '
+    'takip edin',
   mTipMarkdown:
-    'Tip: Write descriptions and comments in '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> for better style',
+    'İpucu: Daha iyi bir stil için açıklama ve yorumlarda'
+    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">İşaretleme</a> kullanın',
   mTipMoveTask:
-    'Tip: Move a task by <code>[=ctrlAlt]+↑</code>, '
+    'İpucu: Bir görevi <code>[=ctrlAlt]+↑</code>, '
     '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> and '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Tip: Indent your task while in edit mode! Press <code>Tab</code> or <code>Shift+Tab</code>',
+    '<code>[=ctrlAlt]+←</i></code> ve '
+    '<code>[=ctrlAlt]+→</code> ile taşıyın',
+  mTipTabMove: 'İpucu: Düzenleme modunda görevinizi girin! <code>Tab</code> veya <code>Shift+Tab</code> tuşlarına basın',
   mTipInvite:
-    'Enjoying Quire? <a href="/invite">Invite your friends</a>, '
-    'or <a href="/feedback">share with us</a> on how we can be better!',
+    'Enjoying Quire? <a href="/invite">Arkadaşlarını davet et</a>, '
+    'veya nasıl daha iyi olabileceğimiz konusunu <a href="/feedback">bizimle paylaşın</a>!',
   mTipPrint:
-    'Tip: Keep a hard copy of your tasks! <a href="javascript:window.print()">Print</a> '
-    'them via <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
-  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
+    'İpucu: Görevlerinizin basılı bir kopyasını saklayın! '
+    '<code>[=ctrlCommand]+P</code> ile <a href="javascript:window.print()">Yazdır</a>',
+  mTipTaskId: 'İpucu: Görev ID ve ast üst ilişkilerini görmek için <code>[=ctrlAlt]</code> tuşunu tıklayın',
+  mTipMyTasksShortcut: "İpucu: Görevlerimi başlatmak için <code>&gt;</code> tuşunu tıklayın",
   mTipAssignInTaskName:
-    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> and <code>^</code> when naming your task for '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',
+    'Uyarı: <a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">Hızlı ekleme</a> için görevinizin adını girerken '
+    '<code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> ve <code>^</code> yazın',
   mTipChromeExtension:
-    'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
-    'to quickly access Quire and get notified',
+    'İpucu: Quire\'a hızlı bir şekilde erişmek ve bildirim almak için '
+    '<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Uzantısı</a> ekleyin',
   mTipRightClick:
-    'Tip: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Right click</a> '
-    'on tasks to easily set assignees, priority and more!',
+    'Uyarı: Atananları, önceliği ve daha fazlasını kolayca ayarlamak için görevlere '
+    '<a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">sağ tıklayın</a>!',
   mTipShiftLR:
-    'Tip: Press <code>Shift+←</code> or '
-    '<code>Shift+→</code> to collapse or expand all tasks level by level',
+    'İpucu: Tüm görevleri seviyeye göre daraltmak veya genişletmek için '
+    '<code>Shift+←</code> veya <code>Shift+→</code> tuşlarına basın',
   mTipPaste:
-    'Tip: Press <code>[=ctrlCommand]+V</code> to <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">paste</a> '
-    'what you copied as tasks directly',
-  mTipCrossProject: 'Tip: Add a smart folder to view all tasks across different projects',
-  mTipBlinkSearch: 'Tip: Blink search (<code>[=ctrlCommand]+B</code>) is an easy way to find almost anything in your workspace',
-  mTipDarkTheme: 'Tip: <a href="/r/setting?tab=options">Select the dark theme</a> when your eyes grow weary at night',
-  mTipSwipe: 'Tip: Swipe to complete, add or delete tasks(s)',
-  mIntegraInvalidOptions: "The configuration is incorrect",
+    'İpucu: Kopyaladığınız şeyleri doğrudan görev olarak <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">yapıştırmak</a> için '
+    '<code>[=ctrlCommand]+V</code> tuşlarına basın',
+  mTipCrossProject: 'İpucu: Farklı projelerdeki tüm görevleri görüntülemek için akıllı bir klasör ekleyin',
+  mTipBlinkSearch: 'İpucu: Genel arama (<code>[=ctrlCommand]+B</code>), çalışma alanınızdaki hemen hemen her şeyi bulmanın kolay bir yoludur',
+  mTipDarkTheme: 'İpucu: Geceleri gözlerin yorulduğunda <a href="/r/setting?tab=options">karanlık temayı seç</a>',
+  mTipSwipe: 'İpucu: Görevleri tamamlamak, eklemek veya silmek için hızlıca kaydırın',
+  mIntegraInvalidOptions: "Yapılandırma yanlış",
   mTooManyNewOrgagnizations:
-    "You have added too many organizations in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Kısa sürede çok fazla organizasyon eklediniz. "
+    'Lütfen birkaç saat bekleyin veya daha fazla kota için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTooManyNewProjects:
-    "You have added too many projects in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Kısa sürede çok fazla proje eklediniz. "
+    'Lütfen birkaç saat bekleyin veya daha fazla kota için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTooManyNewTasks:
-    "You have added too many tasks in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Kısa sürede çok fazla görev eklediniz. "
+    'Lütfen birkaç saat bekleyin veya daha fazla kota için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTooManyInvites:
-    "You have invited too many members in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Kısa sürede çok fazla üye davet ettiniz. "
+    'Lütfen birkaç saat bekleyin veya daha fazla kota için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTooManyFriendInvites:
-    "You have invited too many friends in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Kısa sürede çok fazla arkadaş davet ettiniz. "
+    'Lütfen birkaç saat bekleyin veya daha fazla kota için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTooManyRequests:
-    "You have made the same request too many times in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for help.',
+    "Aynı isteği kısa sürede çok fazla kez yaptınız. "
+    'Lütfen birkaç saat bekleyin veya yardım için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mBlocked:
-    'Sorry, you have violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>. '
-    'Please wait for [=hours] hours, or <a href="mailto:support@quire.io">contact us</a> for support.',
+    'Maalesef <a href="https://quire.io/terms" target="_blank">Hizmet Şartlarımızı</a> ihlal ettiniz. '
+    'Lütfen [=hours] saat bekleyin veya destek için <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mOrganizationLimit:
-    "Unable to add a new organization. Currently, the maximum number of organizations allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Yeni bir organizasyon eklenemedi. Şu anda, izin verilen maksimum organizasyon sayısı <b>[=size]</b>. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mProjectLimit:
-    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "[=organization] organizasyonuna yeni bir proje eklenemedi. Şu anda, izin verilen maksimum proje sayısı <b>[=size]</b>. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mMemberLimit:
-    "Unable to add a new member to [=organization]. "
-    "Currently, the maximum number of members allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "[=organization] yeni üye eklenemedi. "
+    "Şu anda, izin verilen maksimum üye sayısı <b>[=size]</b>. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mTaskLimit:
-    "Unable to add a new task. Currently, the maximum number of tasks allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Yeni bir görev eklenemiyor. Şu anda, izin verilen maksimum görev sayısı <b>[=size]</b>. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mProjectInLotLimit:
-    "Unable to add a new project to [=lot]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "[=lot] klasörüne yeni bir proje eklenemedi. Şu anda, izin verilen maksimum proje sayısı <b>[=size]</b>. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mAppAccessInHourLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Quire API'sına bir saatte <b>[=size]</b> kereden fazla erişemezsiniz. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
   mAppAccessInMinuteLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
-  mDenyLeaveDueToOnlyAdmin: "Sorry, you cannot leave because you are the only admin left.",
-  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
+    "Quire API'sına bir dakikada <b>[=size]</b> kereden fazla erişemezsiniz. "
+    'Daha fazla kota için lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.',
+  mDenyLeaveDueToOnlyAdmin: "Maalesef gidemezsiniz çünkü tek yönetici sizsiniz.",
+  mDenyLeaveDueToOrgRight: "Maalesef, bu projeden ayrılamazsınız çünkü aynı zamanda organizasyonun üyesisiniz.",
   mSlackError:
     'Sorry, we encountered an unexpected error. '
     "We will look into it, but "
