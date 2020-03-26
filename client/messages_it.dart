@@ -58,6 +58,7 @@ const itClient = const <String, String> {
   mQuireCannotReach: "Impossibile raggiungere Quire.",
   mQuireCannotReachDesc: "Si prega di controllare la connessione.",
   mCantMoveInCurrentMode: "Non puoi spostare attività in modalita filtrata o ordinata.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
   mCantMoveRoot: "Non puoi spostare l\' attività principale.",
   mCantMoveTask: "Non puoi muovere [=task].",
   mCantMoveTaskTo: "Non puoi muovere [=task] qui.",

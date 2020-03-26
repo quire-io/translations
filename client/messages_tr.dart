@@ -52,6 +52,7 @@ const trClient = const <String, String> {
   mQuireCannotReach: "Quire'a ulaşılamıyor.",
   mQuireCannotReachDesc: "Lütfen internet bağlantınızı kontrol edin.",
   mCantMoveInCurrentMode: "Sıralanmış ve filtrelenmiş moddayken görevleri taşıyamazsınız.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
   mCantMoveRoot: "Kök görevi taşıyamazsınız.",
   mCantMoveTask: "[=task] görevini taşıyamazsınız.",
   mCantMoveTaskTo: "[=task] görevini buraya taşıyamazsınız.",

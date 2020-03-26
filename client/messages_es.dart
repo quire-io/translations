@@ -58,6 +58,7 @@ const esClient = const <String, String> {
   mQuireCannotReach: "No es posible acceder a Quire.",
   mQuireCannotReachDesc: "Por favor, comprueba tu conexión a internet.",
   mCantMoveInCurrentMode: "No puedes mover las tareas mientras están en modo de ordenación y filtrado.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
   mCantMoveRoot: "No puedes mover la tarea inicial.",
   mCantMoveTask: "No puedes mover [=task].",
   mCantMoveTaskTo: "No puedes mover [=task] aquí.",

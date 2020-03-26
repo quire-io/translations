@@ -58,6 +58,7 @@ const jaClient = const <String, String> {
   mQuireCannotReach: "Quireにアクセスできません。",
   mQuireCannotReachDesc: "インターネット接続を確認してください。",
   mCantMoveInCurrentMode: "並び替えまたはフィルターモードでは、タスクを移動できません。",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
   mCantMoveRoot: "レベル1のタスクを移動できません。",
   mCantMoveTask: "[=task]を移動できません。",
   mCantMoveTaskTo: "[=task]はここに移動できません。",
