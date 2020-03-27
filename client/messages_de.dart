@@ -281,7 +281,7 @@ const deClient = const <String, String> {
   mSaveFilter: "Diesen Filter speichern",
   mAddFilter: "Filter hinzufügen",
   mRemoveFilter: "Filter entfernen",
-  mAddGrouper: "Add sort option",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Remove sort option",
   mMultipleGrouperSepLabel: "Then",
   mExcludeCompletedTaskIn: "Abgeschlossene Aufgabe ausschließen in",

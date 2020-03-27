@@ -281,7 +281,7 @@ const trClient = const <String, String> {
   mSaveFilter: "Bu filtreyi kaydet",
   mAddFilter: "Filtre ekle",
   mRemoveFilter: "Filtre sil",
-  mAddGrouper: "Sıralama seçeneği ekle",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Sıralama seçeneği sil",
   mMultipleGrouperSepLabel: "Sonra",
   mExcludeCompletedTaskIn: "Tamamlanan görevleri hariç tut",

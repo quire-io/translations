@@ -292,7 +292,7 @@ const ptClient = const <String, String> {
   mSaveFilter: "Guardar este filtro",
   mAddFilter: "Adicionar filtro",
   mRemoveFilter: "Remover filtro",
-  mAddGrouper: "Adicionar opção de ordenação",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Remover opção de ordenação",
   mMultipleGrouperSepLabel: "Depois",
   mExcludeCompletedTaskIn: "Eliminar tarefa concluída em",

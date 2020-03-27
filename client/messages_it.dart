@@ -287,7 +287,7 @@ const itClient = const <String, String> {
   mSaveFilter: "Salva questo filtro",
   mAddFilter: "Aggiungi filtro",
   mRemoveFilter: "Rimuovi filtro",
-  mAddGrouper: "Aggiungi opzione di ordinamento",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Rimuovi opzione di ordinamento",
   mMultipleGrouperSepLabel: "Poi",
   mExcludeCompletedTaskIn: "Escludi attività completate in",

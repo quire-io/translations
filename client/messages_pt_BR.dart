@@ -292,7 +292,7 @@ const ptBrClient = const <String, String> {
   mSaveFilter: "Salvar este filtro",
   mAddFilter: "Adicionar filtro",
   mRemoveFilter: "Remover filtro",
-  mAddGrouper: "Adicionar opção de classificação",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Remover opção de classificação",
   mMultipleGrouperSepLabel: "Seguida de",
   mExcludeCompletedTaskIn: "Excluir tarefa concluída em",

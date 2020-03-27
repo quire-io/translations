@@ -355,7 +355,7 @@ const enClient = const <String, String> {
   mSaveFilter: "Save this filter",
   mAddFilter: "Add filter",
   mRemoveFilter: "Remove filter",
-  mAddGrouper: "Add sort option",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Remove sort option",
   mMultipleGrouperSepLabel: "Then",
 

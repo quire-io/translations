@@ -287,7 +287,7 @@ const esClient = const <String, String> {
   mSaveFilter: "Guardar este filtro",
   mAddFilter: "Añadir filtro",
   mRemoveFilter: "Quitar filtro",
-  mAddGrouper: "Añadir opción de clasificación",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Eliminar la opción de clasificación",
   mMultipleGrouperSepLabel: "Entonces",
   mExcludeCompletedTaskIn: "Excluir las tareas completadas",

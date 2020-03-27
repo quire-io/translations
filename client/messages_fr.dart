@@ -287,7 +287,7 @@ const frClient = const <String, String> {
   mSaveFilter: "Enregistrer ce filtre",
   mAddFilter: "Ajouter un filtre",
   mRemoveFilter: "Supprimer le filtre",
-  mAddGrouper: "Ajouter une option de tri",
+  mAddGrouper: "Add group option",
   mRemoveGrouper: "Supprimer l'option de tri",
   mMultipleGrouperSepLabel: "Puis",
   mExcludeCompletedTaskIn: "Exclure les tâches terminées",
