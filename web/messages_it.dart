@@ -219,8 +219,8 @@ const itWeb = const <String, String> {
   mTutorialAutocompleteTitle: "Aggiunta rapida durante la digitazione",
   mTutorialAutocompleteContent:
     "<p>E se fosse possibile aggiungere e assegnare tutto, tutto in una volta?</p>"
-    "<p>Quando aggiungi un'attività, puoi digitare <strong>&lt;&gt;</strong> per aggiungere"
-    "<strong>scadenz</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>,"
+    "<p>Quando aggiungi un'attività, puoi digitare <strong>&lt;&gt;</strong> per aggiungere "
+    "<strong>scadenz</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>, "
     "e <strong>#</strong> per aggiungere un\' <strong>etichetta</strong>, ecc."
     'In questo modo: "Crea un elenco di articoli promozionali &lt;Venerdì&gt; @Davide #Promozione".</p>',
   mTutorialDetailPanelTitle: "Dagli alcuni dettagli",
