@@ -1036,47 +1036,47 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mDenyLeaveDueToOnlyAdmin: "Maalesef gidemezsiniz çünkü tek yönetici sizsiniz.",
   mDenyLeaveDueToOrgRight: "Maalesef, bu projeden ayrılamazsınız çünkü aynı zamanda organizasyonun üyesisiniz.",
   mSlackError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <https://quire.io/feedback|contact us>.',
-  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
-  mSlackNeedLinkQuireAccount: 'Hello! We need you to link to your Quire account first. It only takes a few seconds, and you will be ready to go.',
-  mSlackNeedLinkQuireAccountBtn: '<[=url]|Link Quire Account>',
-  mSlackLinkQuireAccountOK: 'You have successfully linked to your Quire account.',
-  mSlackSimpleHelpTitle: 'Here are some commands to get you started.',
-  mSlackSimpleHelpAdd: 'Add a task, and assign it to team members',
+    'Üzgünüz, beklenmedik bir hatayla karşılaştık. '
+    "Bu hatayı kontrol edeceğiz ama "
+    '<https://quire.io/feedback|bizimle temasa> geçmekten çekinemyin.',
+  mSlackNotAllowed: 'Bu eylemi gerçekleştirme izniniz yok. Lütfen Yöneticinize başvurun.',
+  mSlackNeedLinkQuireAccount: 'Merhaba! İlk önce Quire hesabınıza bağlanmanız gerekiyor. Sadece birkaç saniye sürer ve gitmeye hazır olacaksınız.',
+  mSlackNeedLinkQuireAccountBtn: '<[=url]|Quire Hesabını Bağla>',
+  mSlackLinkQuireAccountOK: 'Quire hesabınıza başarıyla bağlandınız.',
+  mSlackSimpleHelpTitle: 'İşte başlamanız için bazı komutlar.',
+  mSlackSimpleHelpAdd: 'Bir görev ekleyin ve ekip üyelerine atayın',
   mSlackSimpleHelpAddExample:
-    '`/quire add [task name] [@team member name] [@team member name]`\n'
-    'Example: `/quire add Design new logo @eric @jess`',
-  mSlackSimpleHelpComment: 'Add a comment to a task',
+    '`/quire add [görev adı] [@team üye adı] [@team üyer adı]`\n'
+    'Örnek: `/quire add Yeni logo tasarla @eric @jess`',
+  mSlackSimpleHelpComment: 'Bir göreve yorum ekleme',
   mSlackSimpleHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackSimpleHelpFollow: 'Follow a task or project',
+    '`/quire comment [görev ID] yorum`\n'
+    'Örnek: `/quire comment 123 Harika görünüyor!`',
+  mSlackSimpleHelpFollow: 'Bir görevi veya projeyi takip etme',
   mSlackSimpleHelpFollowExample:
-    '`/quire follow [task ID or project ID]`\n'
-    'Example: `/quire follow 123`\n'
-    'Example: `/quire follow Development_Project`',
-  mSlackSimpleHelpMore: 'More commands are available here `/quire help`.',
-  mSlackHelpAdd: 'Add a task',
+    '`/quire follow [görev ID veya proje ID]`\n'
+    'Örnek: `/quire follow 123`\n'
+    'Örnek: `/quire follow GeliştirmeProjesi`',
+  mSlackSimpleHelpMore: 'Burada daha fazla komut var `/quire help`.',
+  mSlackHelpAdd: 'Görev ekle',
   mSlackHelpAddExample:
-    '`/quire add [task name]`\n'
-    '`/quire add [under or after] [parent or sibling id] [task name]`\n'
-    'Example: `/quire add Design new logo @eric @jess\n'
-    'Example: `/quire add under 10 Logo',
-  mSlackHelpLink: 'Link a Quire project to this Slack channel',
+    '`/quire add [görev adı]`\n'
+    '`/quire add [under veya after] [ana ya da alt id] [görev adı]`\n'
+    'Örnek: `/quire add Yeni logo tasarla @eric @jess\n'
+    'Örnek: `/quire add under 10 Logo',
+  mSlackHelpLink: 'Bir Quire projesini bu Slack kanalına bağlama',
   mSlackHelpLinkExample:
-    '`/quire link [project ID or project URL]`\n'
-    'Example: `/quire link Development_Project`\n'
-    'Example: `/quire link https://quire.io/w/development_project`',
-  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
+    '`/quire link [proje ID veya proje URL]`\n'
+    'Örnek: `/quire link GeliştirmeProjesi`\n'
+    'Örnek: `/quire link https://quire.io/w/development_project`',
+  mSlackHelpUnLink: 'Quire projesinin bu Slack kanalından bağlantısını kaldırma',
   mSlackHelpUnLinkExample: '`/quire unlink`',
-  mSlackHelpListProject: 'List all projects',
+  mSlackHelpListProject: 'Tüm projeleri listeleme',
   mSlackHelpListProjectExample: '`/quire list project`',
-  mSlackHelpSearchProject: 'Search projects',
+  mSlackHelpSearchProject: 'Projelerde ara',
   mSlackHelpSearchProjectExample:
-    '`/quire list project [keyword 1] [keyword 2]`\n'
-    'Example: `/quire list project Development Marketing`',
+    '`/quire list project [anahtar sözcük 1] [anahtar sözcük 2]`\n'
+    'Örnek: `/quire list project Geliştirme Pazarlama`',
   mSlackHelpListTask: 'List recent tasks',
   mSlackHelpListTaskExample: '`/quire list`',
   mSlackHelpSearchTask: 'Search tasks',
@@ -1089,48 +1089,48 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSlackHelpListTagExample: '`/quire list tag`',
   mSlackHelpListMember: 'List members',
   mSlackHelpListMemberExample: '`/quire list member`',
-  mSlackHelpEdit: 'Edit a task',
+  mSlackHelpEdit: 'Görevi düzenle',
   mSlackHelpEditExample:
-    '`/quire edit [task ID] name`\n'
-    'Example: `/quire edit 123 Design new logo !1 @david`',
-  mSlackHelpAssign: 'Assign a task',
+    '`/quire edit [görev ID] adı`\n'
+    'Example: `/quire edit 123 Yeni logo tasarla !1 @david`',
+  mSlackHelpAssign: 'Görevi birine atama',
   mSlackHelpAssignExample:
     '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
-    'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
-    'Example: `/quire assign 123 +@david -@jess +#marketing`',
-  mSlackHelpComment: 'Comment a task',
+    'Örnek: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
+    'Örnek: `/quire assign 123 +@david -@jess +#marketing`',
+  mSlackHelpComment: 'Bir görevi yorumlayın',
   mSlackHelpCommentExample:
     '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackHelpComplete: 'Complete tasks',
+    'Örnek: `/quire comment 123 Harika görünüyor!`',
+  mSlackHelpComplete: 'Görevleri tamamla',
   mSlackHelpCompleteExample:
-    '`/quire complete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire complete 123 456`',
-  mSlackHelpDelete: 'Delete tasks',
+    '`/quire complete [görev ID 1] [görev ID 2]`\n'
+    'Örnek: `/quire complete 123 456`',
+  mSlackHelpDelete: 'Görevleri silme',
   mSlackHelpDeleteExample:
-    '`/quire delete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire delete 123 456`',
-  mSlackHelpFollowTask: 'Follow or unfollow tasks',
+    '`/quire delete [görev ID 1] [görev ID 2]`\n'
+    'Örnek: `/quire delete 123 456`',
+  mSlackHelpFollowTask: 'Görevleri takip etme veya takibi bırakma',
   mSlackHelpFollowTaskExample:
-    '`/quire [follow or unfollow] [task ID 1] [task ID 2]`\n'
-    'Example: `/quire follow 123 456`',
-  mSlackHelpFollowProject: 'Follow or unfollow projects',
+    '`/quire [follow veya unfollow] [görev ID 1] [görev ID 2]`\n'
+    'Örnek: `/quire follow 123 456`',
+  mSlackHelpFollowProject: 'Projeleri takip etme veya takibi bırakma',
   mSlackHelpFollowProjectExample:
-    '`/quire [follow or unfollow] project [project ID 1] [project ID 2]`\n'
-    'Example: `/quire follow project Development_Project Marketing_Project`',
-  mSlackNeedLinkProject: 'You need to link to a Quire project first.',
-  mSlackCurrentLinkProject: 'This channel is already linked to [=project].',
-  mSlackCurrentLinkProjectSimpleHelp: 'This channel is linked to [=project].',
-  mSlackCurrentLinkProjectMarker: '(currently linked)',
-  mSlackLinkProjectOK: '[=who] has linked this channel to [=project].',
-  mSlackUnLinkProjectOK: '[=who] has unlinked this channel from [=project].',
-  mSlackAddTaskOK: '[=who] has successfully added [=task]',
-  mSlackAddTaskUnderOK: '[=who] has successfully added subtask [=task] under [=parent].',
-  mSlackAddTaskAfterOK: '[=who] has successfully added task [=task] after [=sibling].',
-  mSlackCompleteTaskOK: 'You have successfully completed [=tasks].',
-  mSlackDeleteTaskOK: 'You have successfully deleted [=tasks].',
-  mSlackAssignAssigneesTaskOK: 'You have successfully edited the assignees of [=tasks].',
-  mSlackAssignPriorityTaskOK: 'You have successfully edited the priority of [=tasks].',
+    '`/quire [follow veya unfollow] project [proje ID 1] [proje ID 2]`\n'
+    'Example: `/quire follow project Geliştirme_Projesi Pazarlama_Projesi`',
+  mSlackNeedLinkProject: 'Önce bir Quire projesine bağlanmanız gerekiyor.',
+  mSlackCurrentLinkProject: 'Bu kanal zaten [=project] ile bağlantılı.',
+  mSlackCurrentLinkProjectSimpleHelp: 'Bu kanal  [=project] ile bağlantılı.',
+  mSlackCurrentLinkProjectMarker: '(şu anda bağlı)',
+  mSlackLinkProjectOK: '[=who] bu kanalı [=project]\'e bağladı.',
+  mSlackUnLinkProjectOK: '[=who] bu kanalın [=project] ile olan bağlantısını kaldırdı.',
+  mSlackAddTaskOK: '[=who] [=task] görevini başarıyla ekledi',
+  mSlackAddTaskUnderOK: '[=who] [=parent] altına [=task] alt görevini başarıyla ekledi.',
+  mSlackAddTaskAfterOK: '[=who] [=sibling]\'den sonra [=task] görevini başarıyla ekledi.',
+  mSlackCompleteTaskOK: '[=tasks] başarıyla tamamladınız.',
+  mSlackDeleteTaskOK: '[=tasks] başarıyla silindi.',
+  mSlackAssignAssigneesTaskOK: '[=tasks]\'in sorumlularını başarıyla düzenlediniz.',
+  mSlackAssignPriorityTaskOK: '[=tasks] önceliğini başarıyla düzenlediniz.',
   mSlackAssignDateTaskOK: 'You have successfully edited the dates of [=tasks].',
   mSlackAssignTagsTaskOK: 'You have successfully edited the tags of [=tasks].',
   mSlackEditNameTaskOK: 'You have successfully renamed [=task].',
