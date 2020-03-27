@@ -63,7 +63,7 @@ const ptClient = const <String, String> {
   mQuireCannotReach: "Não é possível aceder ao Quire.",
   mQuireCannotReachDesc: "Por favor, verifique a sua ligação à internet.",
   mCantMoveInCurrentMode: "Não pode mover tarefas enquanto estas estiverem nos modos ordenado e filtrado.",
-  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in some sorted or grouped modes.",
   mCantMoveRoot: "Não pode mover a tarefa base.",
   mCantMoveTask: "Não pode mover [=task].",
   mCantMoveTaskTo: "Não pode mover [=task] para aqui.",

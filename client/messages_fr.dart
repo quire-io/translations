@@ -58,7 +58,7 @@ const frClient = const <String, String> {
   mQuireCannotReach: "Impossible de joindre Quire.",
   mQuireCannotReachDesc: "Veuillez vérifier votre connexion à internet.",
   mCantMoveInCurrentMode: "Vous ne pouvez pas déplacer les tâches lorsque vous êtes en mode trié ou filtré.",
-  mCantMoveInSortedGroupedMode: "Vous ne pouvez pas déplacer les tâches lorsque vous êtes en mode trié ou groupé.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in some sorted or grouped modes.",
   mCantMoveRoot: "Vous ne pouvez pas déplacer la tâche racine.",
   mCantMoveTask: "Vous ne pouvez pas déplacer [=task].",
   mCantMoveTaskTo: "Vous ne pouvez pas déplacer [=task] ici.",

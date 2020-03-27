@@ -52,7 +52,7 @@ const deClient = const <String, String> {
   mQuireCannotReach: "Quire ist nicht erreichbar.",
   mQuireCannotReachDesc: "Bitte überprüfen Sie Ihre Internetverbindung.",
   mCantMoveInCurrentMode: "Aufgabe(n) können nicht verschoben werden, solange Sie sich in einem Sortier- oder Filtermodus befinden.",
-  mCantMoveInSortedGroupedMode: "You cannot move tasks while in sorted or grouped modes.",
+  mCantMoveInSortedGroupedMode: "You cannot move tasks while in some sorted or grouped modes.",
   mCantMoveRoot: "Die Hauptaufgabe kann nicht verschoben werden.",
   mCantMoveTask: "[=task] kann nicht verschoben werden.",
   mCantMoveTaskTo: "[=task] kann nicht nach hier verschoben werden.",

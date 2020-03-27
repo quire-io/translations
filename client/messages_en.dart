@@ -71,7 +71,7 @@ const enClient = const <String, String> {
   mCantMoveInCurrentMode:
     "You cannot move tasks while in sorted and filtered modes.",
   mCantMoveInSortedGroupedMode:
-    "You cannot move tasks while in sorted or grouped modes.",
+    "You cannot move tasks while in some sorted or grouped modes.",
   mCantMoveRoot:
     "You cannot move the root task.",
   mCantMoveTask:
