@@ -66,7 +66,7 @@ const esServer = const <String, String> {
   mAboutQuire: "Acerca de Quire",
   mGetStarted: "EMPEZAR",
   mSignupForFree: "EMPECEMOS - ¡Es GRATIS!",
-  mPrivacyPolicy: "Privacy Policy",
+  mPrivacyPolicy: "Política de privacidad",
   mTerms: "Términos",
   mTermsOFService: "Términos del Servicio",
   mFaq: "Preguntas Frecuentes",
@@ -1034,7 +1034,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     "No puedes acceder a la API de Quire más de <b>[=size]</b> veces en un minuto. "
     'Por favor, <a href="mailto:support@quire.io">contacta con nosotros</a> para tener más margen.',
   mDenyLeaveDueToOnlyAdmin: "Lo sentimos, no puedes abandonar ya que eres el único administrador que queda.",
-  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
+  mDenyLeaveDueToOrgRight: "Lo sentimos, no puedes abandonar ya que eres miembro de la organización.",
   mSlackError:
     'Lo sentimos, ha ocurrido un error inesperado. '
     "Lo analizaremos, pero "
@@ -1204,10 +1204,10 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileSyncing: "Sincronizando",
   mMobileMySelf: "Yo",
   mMobileShare: "Compartir",
-  mMobileSkip: "Skip",
-  mMobileNext: "Next",
-  mMobileGreen: "Green",
-  mMobileBlue: "Blue",
+  mMobileSkip: "Saltar",
+  mMobileNext: "Próximo",
+  mMobileGreen: "Verde",
+  mMobileBlue: "Azul",
   mMobileGoogleDrive: "Google Drive",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
