@@ -504,7 +504,7 @@ const esClient = const <String, String> {
     'Estás a punto de <strong>eliminar definitivamente</strong> la etiqueta [=name].<br><br>'
     'Esta etiqueta también se eliminará de otros proyectos de la misma organización.',
   mSearchTagPlaceholder: "Buscar etiquetas",
-  mBackToTask: "Continue on [=task]",
+  mBackToTask: "Continúa [=task]",
   mTaskRemoved: "[=task] ha sido eliminada",
   mTaskCompleted: "[=task] ha sido completada",
   mTaskNotFound: "La tarea [=id] no puede ser encontrada.",
