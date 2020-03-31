@@ -333,13 +333,12 @@ const enClient = const <String, String> {
   mTaskTypeLabel: "Normal,Subproject,Label",
   mBoard: "Board",
 
-  mMenuItemGroupByName: "Group by name",
-  mMenuItemGroupByStates: "Group by status",
-  mMenuItemGroupByPriority: "Group by priority",
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
-  mMenuItemSortByAssignee: "Sort by assignee",
-  mMenuItemSortByTag: "Sort by tag",
+  mMenuItemGroupByStates: "Group by status",
+  mMenuItemGroupByPriority: "Group by priority",
+  mMenuItemGroupByAssignee: "Group by assignee",
+  mMenuItemGroupByTag: "Group by tag",
   
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 
@@ -455,7 +454,7 @@ const enClient = const <String, String> {
   mFilterName: "Filter name",
 
   mTreeFilterFilteredBy: "Filter by",
-  mTreeFilterSortBy: "Sort by",
+  mTreeFilterGroupBy: "Group by",
   mClearFilter: "Clear filter",
 
   mTreeExpandSubtasks: "Expand all subtasks",
