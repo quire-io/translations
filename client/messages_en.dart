@@ -333,6 +333,9 @@ const enClient = const <String, String> {
   mTaskTypeLabel: "Normal,Subproject,Label",
   mBoard: "Board",
 
+  mMenuItemGroupByName: "Group by name",
+  mMenuItemGroupByStates: "Group by status",
+  mMenuItemGroupByPriority: "Group by priority",
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
   mMenuItemSortByAssignee: "Sort by assignee",
