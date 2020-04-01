@@ -284,7 +284,7 @@ const trClient = const <String, String> {
   mAddFilter: "Filtre ekle",
   mRemoveFilter: "Filtre sil",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Sıralama seçeneği sil",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Sonra",
   mExcludeCompletedTaskIn: "Tamamlanan görevleri hariç tut",
   mExcludeCompletedTaskOverNDays: "[=n] günün üstünde",

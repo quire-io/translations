@@ -290,7 +290,7 @@ const frClient = const <String, String> {
   mAddFilter: "Ajouter un filtre",
   mRemoveFilter: "Supprimer le filtre",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Supprimer l'option de tri",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Puis",
   mExcludeCompletedTaskIn: "Exclure les tâches terminées",
   mExcludeCompletedTaskOverNDays: "[=n] jours après",

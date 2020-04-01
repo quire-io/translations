@@ -295,7 +295,7 @@ const ptBrClient = const <String, String> {
   mAddFilter: "Adicionar filtro",
   mRemoveFilter: "Remover filtro",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Remover opção de classificação",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Seguida de",
   mExcludeCompletedTaskIn: "Excluir tarefa concluída em",
   mExcludeCompletedTaskOverNDays: "Mais de [=n] dias",

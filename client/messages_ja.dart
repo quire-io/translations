@@ -290,7 +290,7 @@ const jaClient = const <String, String> {
   mAddFilter: "フィルターを追加",
   mRemoveFilter: "フィルターを消去",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "並べ替えのオプションを消去",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "＋",
   mExcludeCompletedTaskIn: "非表示にするタスクの完了日は",
   mExcludeCompletedTaskOverNDays: "[=n]日前",

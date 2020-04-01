@@ -358,7 +358,7 @@ const enClient = const <String, String> {
   mAddFilter: "Add filter",
   mRemoveFilter: "Remove filter",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Remove sort option",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Then",
 
   mExcludeCompletedTaskIn: "Exclude completed task in",

@@ -290,7 +290,7 @@ const esClient = const <String, String> {
   mAddFilter: "Añadir filtro",
   mRemoveFilter: "Quitar filtro",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Eliminar la opción de clasificación",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Entonces",
   mExcludeCompletedTaskIn: "Excluir las tareas completadas",
   mExcludeCompletedTaskOverNDays: "hasta [=n] días",

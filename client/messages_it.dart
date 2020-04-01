@@ -290,7 +290,7 @@ const itClient = const <String, String> {
   mAddFilter: "Aggiungi filtro",
   mRemoveFilter: "Rimuovi filtro",
   mAddGrouper: "Add group option",
-  mRemoveGrouper: "Rimuovi opzione di ordinamento",
+  mRemoveGrouper: "Remove group option",
   mMultipleGrouperSepLabel: "Poi",
   mExcludeCompletedTaskIn: "Escludi attività completate in",
   mExcludeCompletedTaskOverNDays: "In [=n] giorni",
