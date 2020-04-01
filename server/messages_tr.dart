@@ -1077,17 +1077,17 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSlackHelpSearchProjectExample:
     '`/quire list project [anahtar sözcük 1] [anahtar sözcük 2]`\n'
     'Örnek: `/quire list project Geliştirme Pazarlama`',
-  mSlackHelpListTask: 'List recent tasks',
+  mSlackHelpListTask: 'Son görevleri listeleme',
   mSlackHelpListTaskExample: '`/quire list`',
-  mSlackHelpSearchTask: 'Search tasks',
-  mSlackHelpSearchTaskExample: '`/quire list [keyword 1] [keyword 2]`',
-  mSlackHelpViewTask: 'View specific tasks',
+  mSlackHelpSearchTask: 'Görevleri arama',
+  mSlackHelpSearchTaskExample: '`/quire list [anahtar sözcük 1] [anahtar sözcük 2]`',
+  mSlackHelpViewTask: 'Belirli görevleri görüntüleme',
   mSlackHelpViewTaskExample:
-    '`/quire list [task ID 1] [task ID 2]`\n'
-    'Example: `/quire list 123 456`',
-  mSlackHelpListTag: 'List tags',
+    '`/quire list [görev ID 1] [görev ID 2]`\n'
+    'Örnek: `/quire list 123 456`',
+  mSlackHelpListTag: 'Etiketleri listeleme',
   mSlackHelpListTagExample: '`/quire list tag`',
-  mSlackHelpListMember: 'List members',
+  mSlackHelpListMember: 'Üyeleri listeleme',
   mSlackHelpListMemberExample: '`/quire list member`',
   mSlackHelpEdit: 'Görevi düzenle',
   mSlackHelpEditExample:
@@ -1095,12 +1095,12 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'Example: `/quire edit 123 Yeni logo tasarla !1 @david`',
   mSlackHelpAssign: 'Görevi birine atama',
   mSlackHelpAssignExample:
-    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
+    '`/quire assign [görev ID] [@ekip üyesi adı] [!öncelik] [#etiket] [<başlangıç tarihi; termin tarihi>] [^pano]`\n'
     'Örnek: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
     'Örnek: `/quire assign 123 +@david -@jess +#marketing`',
   mSlackHelpComment: 'Bir görevi yorumlayın',
   mSlackHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
+    '`/quire comment [görev ID] yorum`\n'
     'Örnek: `/quire comment 123 Harika görünüyor!`',
   mSlackHelpComplete: 'Görevleri tamamla',
   mSlackHelpCompleteExample:
@@ -1191,7 +1191,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileCopiedTo: "Kopyalandı",
   mMobileTransferedTo: "Aktarıldı",
   mMobileNewTask: "Yeni Görev",
-  mMobileBack: "Back",
+  mMobileBack: "Geri",
   mMobileMyTasks: "Görevlerim",
   mMobileIgnore: "görmezden gel",
   mMobileReload: "tekrar yükle",
