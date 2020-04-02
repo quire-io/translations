@@ -406,7 +406,7 @@ const trWeb = const <String, String> {
   mSublistTutorialAddSublistTitle: "Alt Listenize Bir İsim Verin",
   mSublistTutorialAddSublistContent:
     "<p>Görünürde sonu olmayan listeye bakmaktan bıktınız mı? Sizinle alakalı olmayan çok fazla görev var, "
-    "ancak Peekaboo ile görevleri öteleyemezsiniz "
+    "ancak Mahzen ile görevleri öteleyemezsiniz "
     "çünkü diğer üyeler hala bu görevler üzerinde çalışıyor. Alt liste burada kurtarıcınız!</p>"
     '<p>Bir alt liste eklemek için "+" düğmesini tıklayın ve "Alt liste ekle"yi seçin.</p>',
   mSublistTutorialAddSublistTip: "İpucu: Bir proje için istediğiniz kadar alt liste oluşturabilirsiniz.",
@@ -415,7 +415,7 @@ const trWeb = const <String, String> {
     '<p>Diyelim ki "Çocuklar için Yardım Koşusu" projesi üzerinde çalışıyorsunuz '
     've bu proje yüzlerce görev içeriyor. Birlikte çalışan en az 10 kişi var. '
     'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
-    'Peekaboo ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
+    'Mahzen ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
     '<p>Derin bir nefes alın ve sorununuzu çözmek için ilk alt listenizi oluşturun. Birlikte görüntülemek istediğiniz '
     'which you want to view together and move to a separate list. Artık her şeyin dikkatinizi dağıtmadan, '
     'odaklanacak kendi yapılacaklar listeniz var.</p>'
