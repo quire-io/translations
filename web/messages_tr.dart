@@ -185,7 +185,7 @@ const trWeb = const <String, String> {
   mTutorialAddProjectContent:
     "<p>Harika projeniz bir ismi hak ediyor. Zaten bir tane varsa, bu adımı atlayabilirsiniz.</p>"
     "<p>Diyelim ki dünyanın dört bir yanındaki çocukların açlığı ile mücadele etmek için bir hayır koşusu düzenlemek istiyorsunuz.. "
-    "Şunu diyebilirsin: </span><strong>Çocuklar için Yardım Koşusu 2018</strong>.</p>"
+    "Şunu diyebilirsin: </span><strong>Çocuklar İçin Yardım Koşusu 2018</strong>.</p>"
     '<p>Proje eklemek için çalışma alanınızın sağ üst köşesindeki "+" simgesini tıklayın.</p>',
   mTutorialAddTaskTitle: "Şeylerinizi ekleyin",
   mTutorialAddTaskContent:
@@ -412,7 +412,7 @@ const trWeb = const <String, String> {
   mSublistTutorialAddSublistTip: "İpucu: Bir proje için istediğiniz kadar alt liste oluşturabilirsiniz.",
   mSublistTutorialPickTaskTitle: "Doğru Görevleri Seçin ve Alt Listeye Ekleyin",
   mSublistTutorialPickTaskContent:
-    '<p>Diyelim ki "Çocuklar için Yardım Koşusu" projesi üzerinde çalışıyorsunuz '
+    '<p>Diyelim ki "Çocuklar İçin Yardım Koşusu" projesi üzerinde çalışıyorsunuz '
     've bu proje yüzlerce görev içeriyor. Birlikte çalışan en az 10 kişi var. '
     'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
     'Mahzen ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
