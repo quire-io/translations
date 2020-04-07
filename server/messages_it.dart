@@ -655,6 +655,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'Si prega di aggiornare <a href="/r/setting">le tue preferenze qui</a>.',
   mUnsubscribeAutoSuccess: "([=email]) hai cancellare l\'iscrizione [=target] correttamente.",
   mUnsubscribeAll: "([=email]) hai cancellare l\'iscrizione a notifiche e messaggi da Quire con successo.",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'Scorciatoie da tastiera (F1)',
   mKeyShortcutsTitle: 'Scorciatoie da tastiera',
   mKeyNavigate: 'Naviga attività e funzioni diverse',

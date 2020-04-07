@@ -652,6 +652,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'Bitte aktualisieren Sie Ihre <a href="/r/setting">Einstellungen</a>.',
   mUnsubscribeAutoSuccess: "Sie ([=email]) haben erfolgreich [=target] abbestellt.",
   mUnsubscribeAll: "Sie ([=email]) haben erfolgreich Benachrichtigungen und Nachrichten von Quire abbestellt.",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'Tastenkombinationen (F1)',
   mKeyShortcutsTitle: 'Tastenkombinationen',
   mKeyNavigate: 'Nutzen Sie folgende Funktionen mit den folgenden Tastenkombinationen',

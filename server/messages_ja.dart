@@ -655,6 +655,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     '<a href="/r/setting">ここから個人設定</a>を更新してください。',
   mUnsubscribeAutoSuccess: "([=email])への[=target]の配信を停止しました。",
   mUnsubscribeAll: "([=email])へのQuireからの通知やメッセージの配信を停止しました。",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'キーボードショートカット (F1)',
   mKeyShortcutsTitle: 'キーボードショートカット',
   mKeyNavigate: 'タスク間や機能間で焦点を移動',

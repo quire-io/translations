@@ -639,6 +639,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'Veuillez modifier <a href="/r/setting">vos préférences ici</a>.',
   mUnsubscribeAutoSuccess: "Vous ([=email]) vous êtes désabonné de [=target] avec succès.",
   mUnsubscribeAll: "Vous ([=email]) vous êtes désabonné des notifications et messages de Quire avec succès.",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'Raccourcis Clavier (F1)',
   mKeyShortcutsTitle: 'Raccourcis Clavier',
   mKeyNavigate: 'Naviguer entre les tâches ou les fonctionnalités',

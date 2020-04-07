@@ -880,6 +880,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mUnsubscribeAll:
     "You ([=email]) have unsubscribed notifications and messages from Quire successfully.",
 
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
+
   //Keyboard shortcuts
   mKeyShortcuts: 'Keyboard Shortcuts (F1)',
   mKeyShortcutsTitle: 'Keyboard Shortcuts',

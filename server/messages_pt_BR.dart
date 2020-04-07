@@ -654,6 +654,8 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     'Por favor, atualize <a href="/r/setting">suas preferências aqui</a>.',
   mUnsubscribeAutoSuccess: "Você ([=email]) cancelou a subscrição [=target] com sucesso.",
   mUnsubscribeAll: "Você ([=email]) cancelou a subscrição de notificações e mensagens do Quire com sucesso.",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'Atalhos de Teclado (F1)',
   mKeyShortcutsTitle: 'Atalhos de Teclado',
   mKeyNavigate: 'Navegue por diferentes tarefas ou funções',

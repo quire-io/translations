@@ -655,6 +655,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'Lütfen <a href="/r/setting">tercihlerinizi buradan </a> güncelleyin.',
   mUnsubscribeAutoSuccess: "([=email]) [=target] aboneliğinizi başarıyla iptal ettiniz.",
   mUnsubscribeAll: "([=email]) hesabınız Quire bildirim ve mesaj aboneliğinden başarıyla çıkarıldı.",
+  mDeclineTitle: "Decline Invitation",
+  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
   mKeyShortcuts: 'Klavye Kısayolları (F1)',
   mKeyShortcutsTitle: 'Klavye Kısayolları',
   mKeyNavigate: 'Farklı görev veya işlevlerde gezinme',

@@ -795,7 +795,7 @@ const enClient = const <String, String> {
   mSettingGeneralTab: "General",
 
   //Dialogs
-  mCreateNewCrossProject: "Create a smart folder",
+  mCreateNewCrossProject: "Create smart folder",
   mCrossProjectName: "Smart folder name",
   mSelectAProject: "Select a project",
   mSelectAnotherProject: "Select another project",
@@ -805,12 +805,12 @@ const enClient = const <String, String> {
   mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
 
 
-  mCreateOrganization: "Create an Organization",
-  mCreateProject: "Create a project",
+  mCreateOrganization: "Create organization",
+  mCreateProject: "Create project",
   mDuplicateProject: "Duplicate project",
   mDialogTitleProjectSettings: "Project Settings",
-  mCreateBoard: "Create a board",
-  mCreateSublist: "Create a sublist",
+  mCreateBoard: "Create board",
+  mCreateSublist: "Create sublist",
   mAutoCreateSublistName: "Sublist [=n]",
 
   mOrganizationName: "Organization name",
@@ -1048,7 +1048,7 @@ const enClient = const <String, String> {
   mRevokeOAppAllTargetContent:
     'This app will no longer have access to all of your data in Quire.',
 
-  mCreateLinkTitle: 'Create Share Link',
+  mCreateLinkTitle: 'Create Shared Link',
   mCreateLinkContent:
     '<p>Share a link of your project with your clients so they can access it without signup.</p>'
     '<p>Select when the link will expire so after that it will no longer be accessible.</p>',
