@@ -369,7 +369,7 @@ d'organiser un appel avec vous.</p>
   <a href="[=link]" class="btn">View [=hostType]</a>
 </p>
 
-<p>To decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
 
 [=footer]
 ''',
