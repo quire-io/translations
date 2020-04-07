@@ -439,6 +439,20 @@ for a call with you.</p>
 
 [=footer]
 ''',
+  mEmailInviteExistsUserContent:
+'''
+[=header]
+
+<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+
+<p class="text-center">
+  <a href="[=link]" class="btn">View [=hostType]</a>
+</p>
+
+<p>To decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+
+[=footer]
+''',
 
   mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
   mEmailInviteFriendsContent:

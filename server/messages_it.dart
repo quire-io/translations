@@ -364,6 +364,19 @@ una telefonata con te.</p>
 
 [=footer]
 ''',
+  mEmailInviteExistsUserContent: '''
+[=header]
+
+<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+
+<p class="text-center">
+  <a href="[=link]" class="btn">View [=hostType]</a>
+</p>
+
+<p>To decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+
+[=footer]
+''',
   mEmailInviteFriendsSubject: "[=name] ti ha invitato a unirti a Quire",
   mEmailInviteFriendsContent: '''
 [=header]
