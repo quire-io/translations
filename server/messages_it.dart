@@ -367,13 +367,13 @@ una telefonata con te.</p>
   mEmailInviteExistsUserContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Sei stato invitato da [=invitor] ad unirti a [=hostType]: [=host].</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">View [=hostType]</a>
+  <a href="[=link]" class="btn">Visualizza [=hostType]</a>
 </p>
 
-<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>Se desideri rifiutare l\'invito, si prega di cliccare <a href="[=declineLink]">qui</a>.</p>
 
 [=footer]
 ''',
@@ -668,8 +668,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'Si prega di aggiornare <a href="/r/setting">le tue preferenze qui</a>.',
   mUnsubscribeAutoSuccess: "([=email]) hai cancellare l\'iscrizione [=target] correttamente.",
   mUnsubscribeAll: "([=email]) hai cancellare l\'iscrizione a notifiche e messaggi da Quire con successo.",
-  mDeclineTitle: "Decline Invitation",
-  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
+  mDeclineTitle: "Rifiuta l\'invito",
+  mDeclineSuccess: "Hai rifiutato l\'invito ad unirti a [=target] correttamente.",
   mKeyShortcuts: 'Scorciatoie da tastiera (F1)',
   mKeyShortcutsTitle: 'Scorciatoie da tastiera',
   mKeyNavigate: 'Naviga attività e funzioni diverse',
@@ -1367,25 +1367,25 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileSelectATask: "Seleziona un\' attività",
   mMobileTutorialVideos: "Video Tutorial",
   mMobileAltHint: "Modalità avanzata abilitata. Puoi squotere ancora per disabilitarla.",
-  mMobileEditSmartFolder: "Edit Smart Folder",
-  mMobileViews: "VIEWS",
-  mMobileShowUndoList: "Show undo list",
-  mMobileSelectTasks: "Select tasks",
-  mMobileEditProject: "Edit project",
-  mMobileAddSublistTasks: "Add tasks to your sublist.",
-  mMobileEditOrganization: "Edit organization",
-  mMobileOrganizationSettings: "Organization settings",
-  mMobileEditProfile: "Edit profile",
-  mMobileViewAll: "View All",
-  mMobileNewNotification: "New notification",
-  mMobileUndoList: "UNDO LIST",
-  mMobileVisitTo: "Visit [=name]",
-  mMobileResultFoundIn: "RESULTS FOUND IN",
-  mMobileSidebarBookmarks: "Bookmarks",
-  mMobileSidebarRecent: "Recent",
-  mMobileSidebarSmartFolders: "Smart Folders",
-  mMobileSidebarProjects: "Projects",
+  mMobileEditSmartFolder: "Modifica Cartelle intelligenti",
+  mMobileViews: "VISUALIZZAIONI",
+  mMobileShowUndoList: "Mostra lista di annullamento",
+  mMobileSelectTasks: "Seleziona attività",
+  mMobileEditProject: "Modifica progetto",
+  mMobileAddSublistTasks: "Aggiungi attività alla tua sottolista.",
+  mMobileEditOrganization: "Modifica organizzazione",
+  mMobileOrganizationSettings: "Impostazioni organizzazione",
+  mMobileEditProfile: "Modifica profilo",
+  mMobileViewAll: "Mostra Tutto",
+  mMobileNewNotification: "Nuove notifiche",
+  mMobileUndoList: "LISTA DI ANNULLAMENTO",
+  mMobileVisitTo: "Visita [=name]",
+  mMobileResultFoundIn: "RISULTATI TROVATI IN",
+  mMobileSidebarBookmarks: "Preferiti",
+  mMobileSidebarRecent: "Recenti",
+  mMobileSidebarSmartFolders: "Cartelle Intelligenti",
+  mMobileSidebarProjects: "Progetti",
   mMobileHome: "Home",
-  mMobileShow: "Show",
-  mMobileSearchTasksInProjects: "Search tasks in other projects"
+  mMobileShow: "Mostra",
+  mMobileSearchTasksInProjects: "Ricerca attività in altri progetti"
 };
