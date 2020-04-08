@@ -124,6 +124,7 @@ const esClient = const <String, String> {
   mJustNow: "Justo ahora",
   mOverdue: "Vencidas",
   mLater: "Más tarde",
+  mEarlier: "EARLIER",
   mUnscheduled: "No Programadas",
   mMinutesAgo: "hace [=n] minutos",
   mOneHourAgo: "hace una hora",

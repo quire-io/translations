@@ -168,6 +168,7 @@ const enClient = const <String, String> {
   mJustNow: "Just now",
   mOverdue: "Overdue",
   mLater: "Later",
+  mEarlier: "EARLIER",
   mUnscheduled: "Unscheduled",
   mMinutesAgo: "[=n] minutes ago",
   mOneHourAgo: "1 hour ago",

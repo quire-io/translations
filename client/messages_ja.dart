@@ -124,6 +124,7 @@ const jaClient = const <String, String> {
   mJustNow: "今",
   mOverdue: "期限日超過",
   mLater: "あとで",
+  mEarlier: "EARLIER",
   mUnscheduled: "予定を未設定",
   mMinutesAgo: "[=n]分前",
   mOneHourAgo: "1時間前",

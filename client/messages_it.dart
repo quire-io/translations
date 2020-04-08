@@ -124,6 +124,7 @@ const itClient = const <String, String> {
   mJustNow: "Adesso",
   mOverdue: "Scaduto",
   mLater: "Dopo",
+  mEarlier: "EARLIER",
   mUnscheduled: "Non programmata",
   mMinutesAgo: "[=n] minuti fa",
   mOneHourAgo: "1 ora fa",

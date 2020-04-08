@@ -1759,4 +1759,31 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSelectATask: "Select a task",
   mMobileTutorialVideos: "Tutorial videos",
   mMobileAltHint: "Advanced mode on. You can shake again to toggle off.",
+
+  mMobileEditSmartFolder: "Edit Smart Folder",
+  mMobileViews: "VIEWS",
+  mMobileShowUndoList: "Show undo list",
+  mMobileSelectTasks: "Select tasks",
+  mMobileEditProject: "Edit project",
+  mMobileAddSublistTasks: "Add tasks to your sublist.",
+  mMobileEditOrganization: "Edit organization",
+  mMobileOrganizationSettings: "Organization settings",
+  mMobileEditProfile: "Edit profile",
+  mMobileViewAll: "View All",
+  mMobileNewNotification: "New notification",
+  mMobileUndoList: "UNDO LIST",
+  mMobileVisitTo: "Visit [=name]",
+  mMobileResultFoundIn: "RESULTS FOUND IN",
+  mMobileSidebarBookmarks: "Bookmarks",
+  mMobileSidebarRecent: "Recent",
+  mMobileSidebarSmartFolders: "Smart Folders",
+  mMobileSidebarProjects: "Projects",
+  mMobileHome: "Home",
+  mMobileShow: "Show",
+  mMobileSearchTasksInProjects: "Search tasks in other projects",
+
 };
+
+
+
+

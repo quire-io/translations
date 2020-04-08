@@ -118,6 +118,7 @@ const deClient = const <String, String> {
   mJustNow: "Vor einigen Sekunden",
   mOverdue: "Überfällig",
   mLater: "Später",
+  mEarlier: "EARLIER",
   mUnscheduled: "Unscheduled",
   mMinutesAgo: "vor [=n] Minuten",
   mOneHourAgo: "vor einer Stunde",

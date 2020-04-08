@@ -129,6 +129,7 @@ const ptBrClient = const <String, String> {
   mJustNow: "Agora mesmo",
   mOverdue: "Em atraso",
   mLater: "Mais tarde",
+  mEarlier: "EARLIER",
   mUnscheduled: "Sem Datas",
   mMinutesAgo: "[=n] minutos atrás",
   mOneHourAgo: "1 hora atrás",

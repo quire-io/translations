@@ -124,6 +124,7 @@ const frClient = const <String, String> {
   mJustNow: "À l'instant",
   mOverdue: "En retard",
   mLater: "Plus tard",
+  mEarlier: "EARLIER",
   mUnscheduled: "Non planifiées",
   mMinutesAgo: "Il y a [=n] minutes",
   mOneHourAgo: "Il y a une heure",

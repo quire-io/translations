@@ -118,6 +118,7 @@ const trClient = const <String, String> {
   mJustNow: "Şu anda",
   mOverdue: "Termini Geçmiş",
   mLater: "Daha Sonra",
+  mEarlier: "EARLIER",
   mUnscheduled: "Planlanmamış",
   mMinutesAgo: "[=n] dakika önce",
   mOneHourAgo: "1 saat önce",
