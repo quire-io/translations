@@ -279,7 +279,7 @@ const trClient = const <String, String> {
   mFilterOperatorLabels: '+=Ve;|=Ya Da;-=Değil',
   mFilterRecentHistory: "Yakın geçmiş",
   mCusFilterSortLabel: "Sırala",
-  mCusFilterGroupLabel: "Grup",
+  mCusFilterGroupLabel: "Grupla",
   mCusFilterLabel: "Filtrele",
   mSaveFilter: "Bu filtreyi kaydet",
   mAddFilter: "Filtre ekle",
