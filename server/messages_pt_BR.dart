@@ -828,7 +828,6 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mDeleteMYAccount: "Excluir conta",
   mSettingOptionLeaveOrganization: "Sair da organização",
   mSettingOptionDeleteOrganization: "Excluir organização,",
-  mSettingOptionManageDeveloperApps: "Gerenciar Aplicativos do Desenvolvedor",
   mChangeDisplayMode: "Modo de exibição",
   mChangeProfileVisibility: "Alterar visibilidade do perfil",
   mProfileVisibilityAll: "Usuários não-membros só podem ver suas informações básicas excluindo o email.",

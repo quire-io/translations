@@ -826,7 +826,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mDeleteMYAccount: "Meinen Account löschen",
   mSettingOptionLeaveOrganization: "Organisation verlassen",
   mSettingOptionDeleteOrganization: "Organisation löschen",
-  mSettingOptionManageDeveloperApps: "Entwickler-Apps verwalten",
   mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Profilsichtbarkeit ändern",
   mProfileVisibilityAll: "Nichtmitglieder sehen nur Ihre allgemeinen Profilangaben, ausschließlich Ihrer E-Mail Adresse.",

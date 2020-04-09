@@ -813,7 +813,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mDeleteMYAccount: "Supprimer le compte",
   mSettingOptionLeaveOrganization: "Quitter l'organisation",
   mSettingOptionDeleteOrganization: "Supprimer l'organisation",
-  mSettingOptionManageDeveloperApps: "Gérer les applications développées",
   mChangeDisplayMode: "Mode d'affichage",
   mChangeProfileVisibility: "Modifier la visiblité du profil",
   mProfileVisibilityAll: "Les utilisateurs non membres peuvent seulement voir vos informations de base, sans l'adresse email.",

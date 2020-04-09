@@ -829,7 +829,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mDeleteMYAccount: "Elimina account",
   mSettingOptionLeaveOrganization: "Lascia l\' organizzazione",
   mSettingOptionDeleteOrganization: "Elimina organizzazione",
-  mSettingOptionManageDeveloperApps: "Gestisci Apps (Developer)",
   mChangeDisplayMode: "Modalità di visualizzazione",
   mChangeProfileVisibility: "Modifica visibilità profilo",
   mProfileVisibilityAll: "Utenti non membri possono solo visualizzare le tue informazioni di base escludendo l\'email.",

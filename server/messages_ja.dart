@@ -829,7 +829,6 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mDeleteMYAccount: "アカウントを削除",
   mSettingOptionLeaveOrganization: "組織を退出",
   mSettingOptionDeleteOrganization: "組織を削除",
-  mSettingOptionManageDeveloperApps: "開発者アプリを管理",
   mChangeDisplayMode: "表示モード",
   mChangeProfileVisibility: "プロフィールの公開範囲を変更",
   mProfileVisibilityAll: "メンバー以外のユーザーは、メールアドレスを除くあなたの基本情報を閲覧できます。",

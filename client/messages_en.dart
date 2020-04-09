@@ -765,11 +765,8 @@ const enClient = const <String, String> {
   mMenuEditTag: "Edit tags",
   mMenuEditProjects: "Edit projects",
   mMenuComment: "Comment",
-  mMenuPrint: "Print...",
-  mMenuIntegrate: "Integrate",
-  mMenuCalendars: "Calendars...",
-  mMenuGithub: "Github...",
-  mMenuSlack: "Slack...",
+  mMenuPrint: "Print",
+  mOptionManageDeveloperApps: "Manage Developer Apps",
 
   mMenuMore: "More",
 

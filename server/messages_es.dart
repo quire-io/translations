@@ -829,7 +829,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mDeleteMYAccount: "Borrar cuenta",
   mSettingOptionLeaveOrganization: "Salir de la organización",
   mSettingOptionDeleteOrganization: "Borrar la organización",
-  mSettingOptionManageDeveloperApps: "Administrar las Apps para Desarrolladores",
   mChangeDisplayMode: "Modo de visualizaión",
   mChangeProfileVisibility: "Cambiar visibilidad del perfil",
   mProfileVisibilityAll: "Los usuarios No-miembros users solo pueden ver tu información básica, excluyendo el email.",

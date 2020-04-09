@@ -829,7 +829,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mDeleteMYAccount: "Hesabı sil",
   mSettingOptionLeaveOrganization: "Organizasyondan ayrıl",
   mSettingOptionDeleteOrganization: "Organizasyonu sil",
-  mSettingOptionManageDeveloperApps: "Geliştirici Uygulamalarını Yönetin",
   mChangeDisplayMode: "Görünüm modu",
   mChangeProfileVisibility: "Profil görünürlüğünü değiştir",
   mProfileVisibilityAll: "Üye olmayan kullanıcılar e-posta hariç yalnızca temel bilgilerinizi görebilir.",

@@ -1092,8 +1092,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mSettingOptionLeaveOrganization: "Leave organization",
   mSettingOptionDeleteOrganization: "Delete organization",
-  mSettingOptionManageDeveloperApps: "Manage Developer Apps",
-
 
   mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Change profile visibility",
