@@ -367,13 +367,13 @@ görüşme ayarlamak isteriz.</p>
   mEmailInviteExistsUserContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>[=invitor] tarafından [=hostType]: [=host] katılmaya davet edildiniz.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">View [=hostType]</a>
+  <a href="[=link]" class="btn">Görüntüle [=hostType]</a>
 </p>
 
-<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>Eğer davetiyeyi reddetmek istiyorsanız, lütfen <a href="[=declineLink]">buraya</a> tıklayın.</p>
 
 [=footer]
 ''',
@@ -668,8 +668,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'Lütfen <a href="/r/setting">tercihlerinizi buradan </a> güncelleyin.',
   mUnsubscribeAutoSuccess: "([=email]) [=target] aboneliğinizi başarıyla iptal ettiniz.",
   mUnsubscribeAll: "([=email]) hesabınız Quire bildirim ve mesaj aboneliğinden başarıyla çıkarıldı.",
-  mDeclineTitle: "Decline Invitation",
-  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
+  mDeclineTitle: "Davetiyeyi Reddetme",
+  mDeclineSuccess: "[=target]'a katılma davetiyesini başarıyla reddettiniz.",
   mKeyShortcuts: 'Klavye Kısayolları (F1)',
   mKeyShortcutsTitle: 'Klavye Kısayolları',
   mKeyNavigate: 'Farklı görev veya işlevlerde gezinme',
@@ -1366,25 +1366,25 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileSelectATask: "Bir görev seçin",
   mMobileTutorialVideos: "Eğitim videoları",
   mMobileAltHint: "Gelişmiş mod açık. Kapatmak için tekrar sallayabilirsiniz.",
-  mMobileEditSmartFolder: "Edit Smart Folder",
-  mMobileViews: "VIEWS",
-  mMobileShowUndoList: "Show undo list",
-  mMobileSelectTasks: "Select tasks",
-  mMobileEditProject: "Edit project",
-  mMobileAddSublistTasks: "Add tasks to your sublist.",
-  mMobileEditOrganization: "Edit organization",
-  mMobileOrganizationSettings: "Organization settings",
-  mMobileEditProfile: "Edit profile",
-  mMobileViewAll: "View All",
-  mMobileNewNotification: "New notification",
-  mMobileUndoList: "UNDO LIST",
-  mMobileVisitTo: "Visit [=name]",
-  mMobileResultFoundIn: "RESULTS FOUND IN",
-  mMobileSidebarBookmarks: "Bookmarks",
-  mMobileSidebarRecent: "Recent",
-  mMobileSidebarSmartFolders: "Smart Folders",
-  mMobileSidebarProjects: "Projects",
-  mMobileHome: "Home",
-  mMobileShow: "Show",
-  mMobileSearchTasksInProjects: "Search tasks in other projects"
+  mMobileEditSmartFolder: "Akıllı Klasörü Düzenle",
+  mMobileViews: "GÖRÜNÜMLER",
+  mMobileShowUndoList: "Geri alma listesini göster",
+  mMobileSelectTasks: "Görevleri seç",
+  mMobileEditProject: "Projeyi düzenle",
+  mMobileAddSublistTasks: "Görevleri alt listeye ekle.",
+  mMobileEditOrganization: "Organizasyonu düzenle",
+  mMobileOrganizationSettings: "Organizasyon ayarları",
+  mMobileEditProfile: "Profili düzenle",
+  mMobileViewAll: "Tümünü Görüntüle",
+  mMobileNewNotification: "Yeni bildirim",
+  mMobileUndoList: "GERİ ALMA LİSTESİ",
+  mMobileVisitTo: "[=name] ziyaret et",
+  mMobileResultFoundIn: "BULUNAN SONUÇLAR",
+  mMobileSidebarBookmarks: "Yer İmleri",
+  mMobileSidebarRecent: "Son",
+  mMobileSidebarSmartFolders: "Akıllı Klasörler",
+  mMobileSidebarProjects: "Projeler",
+  mMobileHome: "Ana Sayfa",
+  mMobileShow: "Göster",
+  mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara"
 };
