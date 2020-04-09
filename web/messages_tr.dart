@@ -19,7 +19,7 @@ Welcome to [=systemName] version [=systemVersion]"
 const trWeb = const <String, String> {
   mSlogan: 'Fikirlerinizi Ortaya Çıkarın',
   mSloganSentence: 'Fikirlerinizi ortaya çıkarın',
-  mSloganSubtitle: 'Bir sonraki harika projeleriniz için görsel bir işbirliği platformu.',
+  mSloganSubtitle: 'Sonraki harika projeleriniz için görsel bir işbirliği platformu.',
   mQuireDescription: 'Hiyerarşik listelerde hedefleri bölmek için en iyi ortak proje yönetimi yazılımı.',
   mHomeSectionDreamsTitle: "Hayallerinizi Canlandırın",
   mHomeSectionDreamsDesc:
@@ -232,7 +232,7 @@ const trWeb = const <String, String> {
     '<p>Açıklamanıza veya yorumunuza stiller eklemek için (ör. kalın yapın), '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">İşaretleme</a> linkine tıklayın.</p>',
   mTutorialDetailPanelTip: 'İpucu: Ayrıntı panelini açık tutmak için "sabitle" simgesini tıklayabilirsiniz.',
-  mTutorialDragTaskTitle: "İstediğin gibi oraganize et",
+  mTutorialDragTaskTitle: "İstediğin gibi organize et",
   mTutorialDragTaskContent:
     "<p>Yanlış yerde görevleriniz varsa ne olacak?</p>"
     "<p>Quire'de, görevleri ait oldukları yere sürükleyip bırakabilirsiniz. "
