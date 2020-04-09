@@ -118,7 +118,7 @@ const trClient = const <String, String> {
   mJustNow: "Şu anda",
   mOverdue: "Termini Geçmiş",
   mLater: "Daha Sonra",
-  mEarlier: "EARLIER",
+  mEarlier: "Daha Önce",
   mUnscheduled: "Planlanmamış",
   mMinutesAgo: "[=n] dakika önce",
   mOneHourAgo: "1 saat önce",
@@ -807,7 +807,7 @@ const trClient = const <String, String> {
   mRevokeOAppTitle: 'İzinleri İptal Et',
   mRevokeOAppTargetContent: 'Bu uygulamanın artık [=target]\'e erişimi olmayacak.',
   mRevokeOAppAllTargetContent: 'Bu uygulama artık Quire\'daki tüm verilerinize erişemeyecek.',
-  mCreateLinkTitle: 'Paylaşım Bağlantısı Oluştur',
+  mCreateLinkTitle: 'Paylaşılan Bağlantı Oluştur',
   mCreateLinkContent:
     "<p>Projenizin bir bağlantısını kayıt olmadan erişebilmeleri için müşterilerinizle paylaşın.</p>"
     '<p>Bağlantının ne zaman sona ereceğini seçin, bu tarihten sonra bağlantıya artık erişilemeyecek.</p>',
