@@ -1381,7 +1381,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileVisitTo: "[=name] ziyaret et",
   mMobileResultFoundIn: "BULUNAN SONUÇLAR",
   mMobileSidebarBookmarks: "Yer İmleri",
-  mMobileSidebarRecent: "Son",
+  mMobileSidebarRecent: "Güncel",
   mMobileSidebarSmartFolders: "Akıllı Klasörler",
   mMobileSidebarProjects: "Projeler",
   mMobileHome: "Ana Sayfa",
