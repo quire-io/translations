@@ -1353,7 +1353,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileEditSmartFolder: "Modifier le dossier intelligent",
   mMobileViews: "VUES",
   mMobileShowUndoList: "Afficher la liste des annulations",
-  mMobileSelectTasks: "Sélectionnez des tâches",
+  mMobileSelectTasks: "Sélectionner des tâches",
   mMobileEditProject: "Modifier le projet",
   mMobileAddSublistTasks: "Ajouter des tâches à votre sous-liste.",
   mMobileEditOrganization: "Modifier l'organisation",
@@ -1370,5 +1370,5 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileSidebarProjects: "Projets",
   mMobileHome: "Accueil",
   mMobileShow: "Afficher",
-  mMobileSearchTasksInProjects: "Chercher des tâches dans d'autres projets"
+  mMobileSearchTasksInProjects: "Chercher dans les autres projets"
 };
