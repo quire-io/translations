@@ -124,7 +124,7 @@ const frClient = const <String, String> {
   mJustNow: "À l'instant",
   mOverdue: "En retard",
   mLater: "Plus tard",
-  mEarlier: "EARLIER",
+  mEarlier: "PLUS TÔT",
   mUnscheduled: "Non planifiées",
   mMinutesAgo: "Il y a [=n] minutes",
   mOneHourAgo: "Il y a une heure",
@@ -813,7 +813,7 @@ const frClient = const <String, String> {
   mRevokeOAppTitle: 'Retirer les permissions',
   mRevokeOAppTargetContent: 'Cette application n\'aura plus accès à votre [=target].',
   mRevokeOAppAllTargetContent: "Cette application n'aura plus accès à vos données dans Quire.",
-  mCreateLinkTitle: 'Créer un lien de partage',
+  mCreateLinkTitle: 'Créer un lien partagé',
   mCreateLinkContent:
     "<p>Partagez un lien vers votre projet avec vos clients pour qu'ils puissent y accéder sans se connecter.</p>"
     '<p>Sélectionnez quand le lien va expirer afin qu\'il ne soit plus acessible après.</p>',
