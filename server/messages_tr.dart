@@ -779,7 +779,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSettingOptionExportCsv: "CSV'ye aktar",
   mSettingOptionExportJson: "JSON'a aktar",
   mSettingOptionDuplicateProject: "Projeyi yinele",
-  mSettingOptionTransferProject: "Projeti taşı",
+  mSettingOptionTransferProject: "Projeyi taşı",
   mSettingOptionMakeArchive: "Projeyi arşivle",
   mSettingOptionMakeUnarchive: "Projeyi arşivden çıkar",
   mSettingOptionLeaveProject: "Projeden ayrıl",
