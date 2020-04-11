@@ -883,7 +883,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSendActivityNotificationDesc: "Almak istediğiniz bildirimleri proje ayarları bölümünden özelleştirebilirsiniz.",
   mActivityNotice: "Etkinlik Bildirimleri",
   mReceiveBlogPosts: "Yeni blog gönderileri",
-  mReceivePolicyUpdates: "Quire üyeliği ve politikası hakkında güncellemelery",
+  mReceivePolicyUpdates: "Quire üyeliği ve politikası hakkında güncellemeler",
   mReceiveFeatureUpdates: "Ürün ve özellik sürümü ile ilgili güncellemeler",
   mReceiveSurvey: "Quire araştırma anketi alın",
   mReminders: "Görev Hatırlatıcıları",
