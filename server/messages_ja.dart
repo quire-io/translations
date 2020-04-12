@@ -367,13 +367,13 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mEmailInviteExistsUserContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>[=invitor]さんから[=hostType]の[=host]に招待されました。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">View [=hostType]</a>
+  <a href="[=link]" class="btn">[=hostType]を表示</a>
 </p>
 
-<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>断るには、<a href="[=declineLink]">ここ</a>をクリックしてください。</p>
 
 [=footer]
 ''',
@@ -668,8 +668,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     '<a href="/r/setting">ここから個人設定</a>を更新してください。',
   mUnsubscribeAutoSuccess: "([=email])への[=target]の配信を停止しました。",
   mUnsubscribeAll: "([=email])へのQuireからの通知やメッセージの配信を停止しました。",
-  mDeclineTitle: "Decline Invitation",
-  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
+  mDeclineTitle: "招待を断る",
+  mDeclineSuccess: "[=target]への招待を断りました。",
   mKeyShortcuts: 'キーボードショートカット (F1)',
   mKeyShortcutsTitle: 'キーボードショートカット',
   mKeyNavigate: 'タスク間や機能間で焦点を移動',
@@ -1366,25 +1366,25 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileSelectATask: "タスクを選択",
   mMobileTutorialVideos: "チュートリアルの動画",
   mMobileAltHint: "詳細モードがオンです。再度振って、オフにできます。",
-  mMobileEditSmartFolder: "Edit Smart Folder",
+  mMobileEditSmartFolder: "スマートフォルダーを編集",
   mMobileViews: "VIEWS",
-  mMobileShowUndoList: "Show undo list",
-  mMobileSelectTasks: "Select tasks",
-  mMobileEditProject: "Edit project",
-  mMobileAddSublistTasks: "Add tasks to your sublist.",
-  mMobileEditOrganization: "Edit organization",
-  mMobileOrganizationSettings: "Organization settings",
-  mMobileEditProfile: "Edit profile",
-  mMobileViewAll: "View All",
-  mMobileNewNotification: "New notification",
-  mMobileUndoList: "UNDO LIST",
+  mMobileShowUndoList: "元に戻す操作を一覧",
+  mMobileSelectTasks: "タスクを選択",
+  mMobileEditProject: "プロジェクトを編集",
+  mMobileAddSublistTasks: "サブリストにタスクを追加",
+  mMobileEditOrganization: "組織を編集",
+  mMobileOrganizationSettings: "組織の設定",
+  mMobileEditProfile: "プロフィールを編集",
+  mMobileViewAll: "すべて表示",
+  mMobileNewNotification: "新しい通知",
+  mMobileUndoList: "元に戻す操作の一覧",
   mMobileVisitTo: "Visit [=name]",
   mMobileResultFoundIn: "RESULTS FOUND IN",
-  mMobileSidebarBookmarks: "Bookmarks",
-  mMobileSidebarRecent: "Recent",
-  mMobileSidebarSmartFolders: "Smart Folders",
-  mMobileSidebarProjects: "Projects",
-  mMobileHome: "Home",
-  mMobileShow: "Show",
-  mMobileSearchTasksInProjects: "Search tasks in other projects"
+  mMobileSidebarBookmarks: "ブックマーク",
+  mMobileSidebarRecent: "閲覧履歴",
+  mMobileSidebarSmartFolders: "スマートフォルダー",
+  mMobileSidebarProjects: "プロジェクト",
+  mMobileHome: "トップ",
+  mMobileShow: "表示",
+  mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索"
 };
