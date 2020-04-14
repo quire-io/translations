@@ -1386,5 +1386,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileSidebarProjects: "Projeler",
   mMobileHome: "Ana Sayfa",
   mMobileShow: "Göster",
-  mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara"
+  mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara",
+  mMobileTasksFoundIn: "TASKS FOUND IN"
 };

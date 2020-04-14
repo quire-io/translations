@@ -1386,5 +1386,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileSidebarProjects: "Progetti",
   mMobileHome: "Home",
   mMobileShow: "Mostra",
-  mMobileSearchTasksInProjects: "Ricerca attività in altri progetti"
+  mMobileSearchTasksInProjects: "Ricerca attività in altri progetti",
+  mMobileTasksFoundIn: "TASKS FOUND IN"
 };

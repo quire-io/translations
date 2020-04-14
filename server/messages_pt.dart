@@ -1387,5 +1387,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileSidebarProjects: "Projetos",
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
-  mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos"
+  mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos",
+  mMobileTasksFoundIn: "TASKS FOUND IN"
 };

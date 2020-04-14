@@ -1370,5 +1370,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileSidebarProjects: "Projets",
   mMobileHome: "Accueil",
   mMobileShow: "Afficher",
-  mMobileSearchTasksInProjects: "Chercher dans les autres projets"
+  mMobileSearchTasksInProjects: "Chercher dans les autres projets",
+  mMobileTasksFoundIn: "TASKS FOUND IN"
 };

@@ -1386,5 +1386,6 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileSidebarProjects: "プロジェクト",
   mMobileHome: "トップ",
   mMobileShow: "表示",
-  mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索"
+  mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索",
+  mMobileTasksFoundIn: "TASKS FOUND IN"
 };
