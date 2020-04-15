@@ -300,6 +300,7 @@ const ptBrClient = const <String, String> {
   mMultipleGrouperSepLabel: "Seguida de",
   mExcludeCompletedTaskIn: "Excluir tarefa concluída em",
   mExcludeCompletedTaskOverNDays: "Mais de [=n] dias",
+  mReloadViewTooltip: 'Click to view the latest updates',
   mProjectISPublic: "Este projeto é público",
   mDeleteTask: "Excluir esta tarefa ([=ctrlCommand]+DEL)",
   mArchiveTask: "Peekaboo esta tarefa",

@@ -184,11 +184,16 @@ const esServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'Debes tener tu membresía eliminada de [=granted], o borrada '
     'antes de poder eliminar tu cuenta.',
-  mAlreadySignupMailTitle: '¡Qué hay!',
-  mAlreadySignupMailDesc:
+  mHiThere: '¡Qué hay!',
+  mAlreadySignupTitle: "[=email] ya registrado",
+  mAlreadySignupDesc:
     'Parece que ya estás registrado como<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicia sesión aquí</a>.',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Invitar Amigos",
   mInviteFriendsTitle: "Invita a tus amigos a que se unan",
   mInviteFriendsDesc: "¿Disfrutas de la experiencia con Quire?<br/>¡Haz que tus amigos sepan lo fácil que es hacer realidad sus sueños!",
@@ -942,8 +947,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppAuthSpecifyProject: 'Especifica un proyecto',
   mAppAuthSpecifyProjectDesc: 'Selecciona un proyecto',
   mAppAuthContact: "Permite el acceso a los miembros de mi equipo' Direcciones de correo electrónico",
-  mAlreadySignedUP: "[=email] ya registrado",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "Aún no has confirmado tu registro.<br>"
     "Por favor, comprueba que el email de confirmación esté en tu bandeja de entraga o tu carpeta de spam, "
     'o <a href="/signup?email=[=email]">regístrate de nuevo</a>.',

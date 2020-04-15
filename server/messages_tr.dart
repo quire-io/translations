@@ -184,11 +184,16 @@ const trServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'Maalesef, [=granted] hesabınızdaki tek yönetici siz olduğunuzdan hesabınızı silemezsiniz '
     'Lütfen başka bir yönetici ekleyin veya önce organizasyonu silin.',
-  mAlreadySignupMailTitle: 'Merhaba!',
-  mAlreadySignupMailDesc:
+  mHiThere: 'Merhaba!',
+  mAlreadySignupTitle: "[=email] zaten kayıtlı.",
+  mAlreadySignupDesc:
     'Görünüşe göre zaten<br>'
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Arkadaşlarını Davet Et",
   mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
   mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
@@ -942,8 +947,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mAppAuthSpecifyProject: 'Bir proje belirtin',
   mAppAuthSpecifyProjectDesc: 'Bir proje seçin',
   mAppAuthContact: "Uygulamanın ekip üyelerimin e-posta adreslerine erişmesine izin ver",
-  mAlreadySignedUP: "[=email] zaten kayıtlı.",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "Kaydınızı henüz onaylamadınız.<br>"
     "Lütfen onay e-postası için gelen kutunuzu veya spam klasörünüzü kontrol edin, "
     'veya  <a href="/signup?email=[=email]">tekrar kaydolun</a>.',

@@ -364,6 +364,7 @@ const enClient = const <String, String> {
 
   mExcludeCompletedTaskIn: "Exclude completed task in",
   mExcludeCompletedTaskOverNDays: "Over [=n] days",
+  mReloadViewTooltip: 'Click to view the latest updates',
   
   mProjectISPublic: "This project is public",
 

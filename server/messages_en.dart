@@ -231,11 +231,17 @@ const enServer = const <String, String> {
     'Sorry, you cannot delete your account because you are the only admin in [=granted] '
     'Please add another admin, or delete the organization(s) first.',
 
-  mAlreadySignupMailTitle: 'Hi there!',
-  mAlreadySignupMailDesc: 
+  mHiThere: 'Hi there!',
+
+  mAlreadySignupTitle: "[=email] already signed up",
+  mAlreadySignupDesc:
     'It seems like you have already signed up with<br>'
     '<strong>[=email]</strong>.<br>'
     'Please <a href="/login">log in here</a>.',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
 
   mInviteFriends: "Invite Friends",
   mInviteFriendsTitle: "Invite your friends on board",
@@ -1239,9 +1245,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mAppAuthContact: "Allow app to access my team members' email addresses",
 
-  mAlreadySignedUP: "[=email] already signed up",
-  
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "You have not confirmed your signup yet.<br>"
     "Please check your inbox or spam folder for the confirmation email, "
     'or <a href="/signup?email=[=email]">sign up again</a>.',

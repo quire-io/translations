@@ -289,6 +289,7 @@ const trClient = const <String, String> {
   mMultipleGrouperSepLabel: "Sonra",
   mExcludeCompletedTaskIn: "Tamamlanan görevleri hariç tut",
   mExcludeCompletedTaskOverNDays: "[=n] günün üstünde",
+  mReloadViewTooltip: 'Click to view the latest updates',
   mProjectISPublic: "Bu proje herkese açık",
   mDeleteTask: "Bu görevi sil ([=ctrlCommand]+DEL)",
   mArchiveTask: "Bu görevi Mahzene at",

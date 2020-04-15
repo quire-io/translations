@@ -295,6 +295,7 @@ const itClient = const <String, String> {
   mMultipleGrouperSepLabel: "Poi",
   mExcludeCompletedTaskIn: "Escludi attività completate in",
   mExcludeCompletedTaskOverNDays: "In [=n] giorni",
+  mReloadViewTooltip: 'Click to view the latest updates',
   mProjectISPublic: "Questo progetto è pubblico",
   mDeleteTask: "Cancella questa attività ([=ctrlCommand]+DEL)",
   mArchiveTask: "Peekaboo questa attività",

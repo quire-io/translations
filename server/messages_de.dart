@@ -184,11 +184,16 @@ const deServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'Sie müssen aus den Organisationen [=granted] austreten oder diese löschen '
     'bevor Sie Ihr Konto löschen können.',
-  mAlreadySignupMailTitle: 'Hi!',
-  mAlreadySignupMailDesc:
+  mHiThere: 'Hi!',
+  mAlreadySignupTitle: "[=email] ist bereits registriert",
+  mAlreadySignupDesc:
     'Sieht so aus als ob Sie sich bereits mit folgender E-Mail-Adresse registriert haben:<br>'
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Freunde einladen",
   mInviteFriendsTitle: "Laden Sie Ihre Freunde und Kollegen ein",
   mInviteFriendsDesc: "Überzeugt von Quire?<br/>Empfehlen Sie uns weiter!",
@@ -939,8 +944,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppAuthSpecifyProject: 'Geben Sie ein Projekt an',
   mAppAuthSpecifyProjectDesc: 'Wählen Sie ein Projekt aus',
   mAppAuthContact: "Der App erlauben, auf die E-Mail-Adressen meiner Teammitglieder zuzugreifen",
-  mAlreadySignedUP: "[=email] ist bereits registriert",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "Sie haben ihre Registrierung noch nicht bestätigt.<br/>"
     "Bitte schauen Sie in Ihrem Posteingang oder Spamordner nach der Bestätigungsmail, "
     'oder <a href="/signup?email=[=email]">registrieren Sie sich erneut</a>.',

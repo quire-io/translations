@@ -184,10 +184,15 @@ const ptBrServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'Você precisa remover sua associação de [=granted], ou excluí-la '
     'antes de poder excluir sua conta.',
-  mAlreadySignupMailTitle: 'Oi!',
-  mAlreadySignupMailDesc:
+  mHiThere: 'Oi!',
+  mAlreadySignupTitle: "[=email] já se registrou",
+  mAlreadySignupDesc:
     'Parece que você já se registrou com <br>'
     '<strong>[=email]</strong>.<br>',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Convidar Amigos",
   mInviteFriendsTitle: "Convide seus amigos para se juntarem",
   mInviteFriendsDesc: "Você está gostando da sua experiência com o Quire?<br/>Fale para os seus amigos que eles também podem facilmente realizar seus sonhos!",
@@ -941,8 +946,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAppAuthSpecifyProject: 'Especifique um projeto',
   mAppAuthSpecifyProjectDesc: 'Selecione um projeto',
   mAppAuthContact: "Permitir que o aplicativo acesse os endereços de email dos membros da minha equipe",
-  mAlreadySignedUP: "[=email] já se registrou",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "Você ainda não confirmou seu registro.<br>"
     "Por favor, verifique sua caixa de entrada ou pasta de spam para o email de confirmação, "
     'ou <a href="/signup?email=[=email]">registre-se novamente</a>.',

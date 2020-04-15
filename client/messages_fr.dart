@@ -295,6 +295,7 @@ const frClient = const <String, String> {
   mMultipleGrouperSepLabel: "Puis",
   mExcludeCompletedTaskIn: "Exclure les tâches terminées",
   mExcludeCompletedTaskOverNDays: "[=n] jours après",
+  mReloadViewTooltip: 'Click to view the latest updates',
   mProjectISPublic: "Ce projet est public",
   mDeleteTask: "Supprimer cette tâche ([=ctrlCommand]+DEL)",
   mArchiveTask: "Peekaboo cette tâche",

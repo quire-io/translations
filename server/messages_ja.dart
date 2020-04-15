@@ -184,11 +184,16 @@ const jaServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'アカウントを削除するには、メンバー設定が'
     '[=granted]から消去または削除される必要があります。',
-  mAlreadySignupMailTitle: 'こんにちは！',
-  mAlreadySignupMailDesc:
+  mHiThere: 'こんにちは！',
+  mAlreadySignupTitle: "[=email]はすでに登録されています",
+  mAlreadySignupDesc:
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "友人を招待",
   mInviteFriendsTitle: "友人を招待",
   mInviteFriendsDesc: "Quireは気に入っていただけましたか？<br/>ご友人にも、夢の実現は難しくないことを、どうぞお伝えください。",
@@ -942,8 +947,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mAppAuthSpecifyProject: 'プロジェクトを指定',
   mAppAuthSpecifyProjectDesc: 'プロジェクトを選択',
   mAppAuthContact: "チームメンバーのメールアドレスにアプリがアクセスすることを許可",
-  mAlreadySignedUP: "[=email]はすでに登録されています",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "登録が確認されていません。<br>"
     "確認用メールが受信箱または迷惑メールフォルダーに届いているか確かめるか、"
     '<a href="/signup?email=[=email]">再度登録</a>してください。',

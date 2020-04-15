@@ -184,11 +184,16 @@ const ptServer = const <String, String> {
   mDeleteAccountNotEmpty:
     'Precisa de remover a sua associação de [=granted], ou eliminá-la '
     'antes de poder eliminar a sua conta.',
-  mAlreadySignupMailTitle: 'Olá!',
-  mAlreadySignupMailDesc:
+  mHiThere: 'Olá!',
+  mAlreadySignupTitle: "[=email] já se registou",
+  mAlreadySignupDesc:
     'Parece que já se registou com <br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicie sessão aqui</a>.',
+  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmDesc:
+    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Convidar Amigos",
   mInviteFriendsTitle: "Convide os seus amigos a juntarem-se",
   mInviteFriendsDesc: "Gosta da sua experiência com o Quire?<br/>Diga aos seus amigos que eles também podem facilmente alcançar os seus sonhos!",
@@ -943,8 +948,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mAppAuthSpecifyProject: 'Especifique um projeto',
   mAppAuthSpecifyProjectDesc: 'Selecione um projeto',
   mAppAuthContact: "Permitir que a aplicação aceda aos endereços de email dos membros da minha equipa",
-  mAlreadySignedUP: "[=email] já se registou",
-  mNotSignedUPAndRedirect:
+  mNotSignupAndRedirect:
     "Ainda não confirmou o seu registo.<br>"
     "Por favor, verifique na sua caixa de entrada ou pasta de spam o email de confirmação, "
     'ou <a href="/signup?email=[=email]">registe-se novamente</a>.',

@@ -295,6 +295,7 @@ const jaClient = const <String, String> {
   mMultipleGrouperSepLabel: "＋",
   mExcludeCompletedTaskIn: "非表示にするタスクの完了日は",
   mExcludeCompletedTaskOverNDays: "[=n]日前",
+  mReloadViewTooltip: 'Click to view the latest updates',
   mProjectISPublic: "このプロジェクトは公開されています",
   mDeleteTask: "このタスクを削除 ([=ctrlCommand]+DEL)",
   mArchiveTask: "このタスクをあとで表示",
