@@ -190,10 +190,10 @@ const itServer = const <String, String> {
     'Sembra che ti si già registrato con<br>'
     '<strong>[=email]</strong>.<br>'
     'Si prega di <a href="/login">collegarsi qui</a>.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Grazie per la conferma",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Grazie per la conferma di <strong>[=email]</strong>.<br/>'
+    'Si prega di <a href="/login">collegarsi qui</a> per procedere.',
   mInviteFriends: "Invita Amici",
   mInviteFriendsTitle: "Inviata i tuoi amici a bordo",
   mInviteFriendsDesc: "Ti piace l\' esperienza con Quire?<br/>Fai sapere ai tuoi amici che possono realizzare facilmente anche i loro sogni!",
@@ -1371,7 +1371,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileTutorialVideos: "Video Tutorial",
   mMobileAltHint: "Modalità avanzata abilitata. Puoi squotere ancora per disabilitarla.",
   mMobileEditSmartFolder: "Modifica Cartelle intelligenti",
-  mMobileViews: "VISUALIZZAIONI",
+  mMobileViews: "VISUALIZZAZIONI",
   mMobileShowUndoList: "Mostra lista di annullamento",
   mMobileSelectTasks: "Seleziona attività",
   mMobileEditProject: "Modifica progetto",
@@ -1391,5 +1391,5 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileHome: "Home",
   mMobileShow: "Mostra",
   mMobileSearchTasksInProjects: "Ricerca attività in altri progetti",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "ATTIVITA\' TROVATA IN"
 };
