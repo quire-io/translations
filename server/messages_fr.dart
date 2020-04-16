@@ -1366,7 +1366,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileViewAll: "Tout afficher",
   mMobileNewNotification: "Nouvelle notification",
   mMobileUndoList: "LISTE DES ANNULATIONS",
-  mMobileVisitTo: "Se rendre à [=name]",
+  mMobileVisitTo: "Aller dans [=name]",
   mMobileResultFoundIn: "RÉSULTATS TROUVÉS DANS",
   mMobileSidebarBookmarks: "Marque-pages",
   mMobileSidebarRecent: "Récent",
@@ -1375,5 +1375,5 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileHome: "Accueil",
   mMobileShow: "Afficher",
   mMobileSearchTasksInProjects: "Chercher dans les autres projets",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TÂCHES TROUVÉES DANS"
 };
