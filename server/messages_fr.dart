@@ -190,10 +190,10 @@ const frServer = const <String, String> {
     'On dirait que vous vous êtes déjà inscrit avec<br>'
     '<strong>[=email]</strong>.<br>'
     'Veuillez <a href="/login">vous connecter avec</a>.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Merci pour la confirmation",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Merci d\'avoir confirmé <strong>[=email]</strong>.<br/>'
+    'Veuillez <a href="/login">vous connecter</a> pour continuer.',
   mInviteFriends: "Inviter des Amis",
   mInviteFriendsTitle: "Invitez vos amis à bord",
   mInviteFriendsDesc: "Vous appréciez votre expérience avec Quire ?<br/>Dites à vos amis qu'ils peuvent également accomplir leur rêve facilement !",
