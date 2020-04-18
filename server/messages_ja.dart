@@ -190,10 +190,10 @@ const jaServer = const <String, String> {
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "ご確認いただきありがとうございます",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    '<strong>[=email]</strong>をご確認いただき、ありがとうございます。<br/>'
+    '<a href="/login">ここからログイン</a>してください。',
   mInviteFriends: "友人を招待",
   mInviteFriendsTitle: "友人を招待",
   mInviteFriendsDesc: "Quireは気に入っていただけましたか？<br/>ご友人にも、夢の実現は難しくないことを、どうぞお伝えください。",
@@ -1371,7 +1371,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileTutorialVideos: "チュートリアルの動画",
   mMobileAltHint: "詳細モードがオンです。再度振って、オフにできます。",
   mMobileEditSmartFolder: "スマートフォルダーを編集",
-  mMobileViews: "VIEWS",
+  mMobileViews: "表示",
   mMobileShowUndoList: "元に戻す操作を一覧",
   mMobileSelectTasks: "タスクを選択",
   mMobileEditProject: "プロジェクトを編集",
@@ -1382,8 +1382,8 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileViewAll: "すべて表示",
   mMobileNewNotification: "新しい通知",
   mMobileUndoList: "元に戻す操作の一覧",
-  mMobileVisitTo: "Visit [=name]",
-  mMobileResultFoundIn: "RESULTS FOUND IN",
+  mMobileVisitTo: "[=name]にアクセス",
+  mMobileResultFoundIn: "以下のプロジェクトに見つかりました",
   mMobileSidebarBookmarks: "ブックマーク",
   mMobileSidebarRecent: "閲覧履歴",
   mMobileSidebarSmartFolders: "スマートフォルダー",
