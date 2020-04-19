@@ -386,7 +386,7 @@ const trClient = const <String, String> {
   mEditStatus: "Sütunu düzenle",
   mAddSublist: "Alt liste ekle",
   mEditSublist: "Alt liste düzenle",
-  mAddTabTip: "Pano ve daha fazlasını ekleyin",
+  mAddTabTip: "Pano ve altliste ekle",
   mAddBoardTip: "Görevlerinizi bir veya daha fazla panoda görselleştirebilirsiniz.",
   mAddSublistTip: "Önemli görevlere odaklanabilir ve bunları bir veya daha fazla alt listede görüntüleyebilirsiniz.",
   mAddDesc: "Açıklama ekle",
