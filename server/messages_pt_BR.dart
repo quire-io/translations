@@ -189,10 +189,10 @@ const ptBrServer = const <String, String> {
   mAlreadySignupDesc:
     'Parece que você já se registrou com <br>'
     '<strong>[=email]</strong>.<br>',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Obrigado pela sua confirmação",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Obrigado pela sua confirmação do email <strong>[=email]</strong>.<br/>'
+    'Por favor, <a href="/login">inicie sessão aqui</a> para avançar.',
   mInviteFriends: "Convidar Amigos",
   mInviteFriendsTitle: "Convide seus amigos para se juntarem",
   mInviteFriendsDesc: "Você está gostando da sua experiência com o Quire?<br/>Fale para os seus amigos que eles também podem facilmente realizar seus sonhos!",
@@ -1390,5 +1390,5 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Pesquisar tarefas em outros projetos",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM"
 };

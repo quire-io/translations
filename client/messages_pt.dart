@@ -300,7 +300,7 @@ const ptClient = const <String, String> {
   mMultipleGrouperSepLabel: "Depois",
   mExcludeCompletedTaskIn: "Eliminar tarefa concluída em",
   mExcludeCompletedTaskOverNDays: "Mais de [=n] dias",
-  mReloadViewTooltip: 'Click to view the latest updates',
+  mReloadViewTooltip: 'Clique para ver as últimas atualizações',
   mProjectISPublic: "Este projeto é público",
   mDeleteTask: "Eliminar esta tarefa ([=ctrlCommand]+DEL)",
   mArchiveTask: "Peekaboo esta tarefa",

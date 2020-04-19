@@ -190,10 +190,10 @@ const ptServer = const <String, String> {
     'Parece que já se registou com <br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicie sessão aqui</a>.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Obrigado pela sua confirmação",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Obrigado pela sua confirmação do email <strong>[=email]</strong>.<br/>'
+    'Por favor, <a href="/login">inicie sessão aqui</a> para continuar.',
   mInviteFriends: "Convidar Amigos",
   mInviteFriendsTitle: "Convide os seus amigos a juntarem-se",
   mInviteFriendsDesc: "Gosta da sua experiência com o Quire?<br/>Diga aos seus amigos que eles também podem facilmente alcançar os seus sonhos!",
@@ -1392,5 +1392,5 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM"
 };

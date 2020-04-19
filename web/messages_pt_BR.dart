@@ -466,5 +466,5 @@ const ptBrWeb = const <String, String> {
   mMobileWelcomeP1Desc: "Desdobre as suas ideias.",
   mMobileWelcomeP2Desc: "Capture suas ideias em palavras ou fotos.",
   mMobileWelcomeP3Desc: "Concentre-se em tarefas selecionadas com o quadro Kanban.",
-  mMobileWelcomeP4Desc: "Adicione responsáveis,tags, datas de conclusão, etc., para começar com seu projeto."
+  mMobileWelcomeP4Desc: "Adicione responsáveis, tags, datas de conclusão, etc., para começar com seu projeto."
 };
