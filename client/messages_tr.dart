@@ -89,7 +89,7 @@ const trClient = const <String, String> {
   mEmptyContent: "(boş)",
   mRemovedContent: "(silindi)",
   mBlankProject: "(Boş Proje)",
-  mGotoSubject: "[=subject] projesine git",
+  mGotoSubject: "[=subject] organizasyonuna git",
   mGotoOtherProjects: "Diğer projelere git",
   mArchivedTask: 'Görevi Mahzene at',
   mId: "ID",
