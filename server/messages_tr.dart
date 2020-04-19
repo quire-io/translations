@@ -190,10 +190,10 @@ const trServer = const <String, String> {
     'Görünüşe göre zaten<br>'
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Onayınız için teşekkürler",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    '<strong>[=email]</strong> onayınız için teşekkürler.<br/>'
+    'Devam etmek için lütfen <a href="/login">buradan giriş yapın</a>.',
   mInviteFriends: "Arkadaşlarını Davet Et",
   mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
   mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
@@ -1391,5 +1391,5 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileHome: "Ana Sayfa",
   mMobileShow: "Göster",
   mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "BULUNAN GÖREVLER"
 };
