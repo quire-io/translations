@@ -190,6 +190,7 @@ const itServer = const <String, String> {
     'Sembra che ti si già registrato con<br>'
     '<strong>[=email]</strong>.<br>'
     'Si prega di <a href="/login">collegarsi qui</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Grazie per la conferma",
   mSignupConfirmDesc:
     'Grazie per la conferma di <strong>[=email]</strong>.<br/>'
@@ -1210,7 +1211,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileTransferedTo: "Trasferito in",
   mMobileNewTask: "Nuova attività",
   mMobileBack: "Indietro",
-  mMobileMyTasks: "Le mie attività",
   mMobileIgnore: "ignora",
   mMobileReload: "ricarica",
   mMobileTime: "Ora",
@@ -1391,5 +1391,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileHome: "Home",
   mMobileShow: "Mostra",
   mMobileSearchTasksInProjects: "Ricerca attività in altri progetti",
-  mMobileTasksFoundIn: "ATTIVITA\' TROVATA IN"
+  mMobileTasksFoundIn: "ATTIVITA\' TROVATA IN",
+  mMobileTabNotification: "Notifiche",
+  mMobileTabMyTasks: "Le mie attività"
 };

@@ -190,6 +190,7 @@ const frServer = const <String, String> {
     'On dirait que vous vous êtes déjà inscrit avec<br>'
     '<strong>[=email]</strong>.<br>'
     'Veuillez <a href="/login">vous connecter avec</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Merci pour la confirmation",
   mSignupConfirmDesc:
     'Merci d\'avoir confirmé <strong>[=email]</strong>.<br/>'
@@ -1194,7 +1195,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileTransferedTo: "Transféré vers",
   mMobileNewTask: "Nouvelle Tâche",
   mMobileBack: "Retour",
-  mMobileMyTasks: "Mes Tâches",
   mMobileIgnore: "ignorer",
   mMobileReload: "recharger",
   mMobileTime: "Heure",
@@ -1375,5 +1375,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileHome: "Accueil",
   mMobileShow: "Afficher",
   mMobileSearchTasksInProjects: "Chercher dans les autres projets",
-  mMobileTasksFoundIn: "TÂCHES TROUVÉES DANS"
+  mMobileTasksFoundIn: "TÂCHES TROUVÉES DANS",
+  mMobileTabNotification: "Notifications",
+  mMobileTabMyTasks: "Mes Tâches"
 };

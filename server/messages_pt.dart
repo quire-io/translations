@@ -190,6 +190,7 @@ const ptServer = const <String, String> {
     'Parece que já se registou com <br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicie sessão aqui</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Obrigado pela sua confirmação",
   mSignupConfirmDesc:
     'Obrigado pela sua confirmação do email <strong>[=email]</strong>.<br/>'
@@ -1211,7 +1212,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileTransferedTo: "Transferida para",
   mMobileNewTask: "Nova Tarefa",
   mMobileBack: "Voltar",
-  mMobileMyTasks: "As Minhas Tarefas",
   mMobileIgnore: "ignorar",
   mMobileReload: "recarregar",
   mMobileTime: "Hora",
@@ -1392,5 +1392,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos",
-  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM"
+  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM",
+  mMobileTabNotification: "Notificações",
+  mMobileTabMyTasks: "As Minhas Tarefas"
 };

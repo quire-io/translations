@@ -190,6 +190,7 @@ const deServer = const <String, String> {
     'Sieht so aus als ob Sie sich bereits mit folgender E-Mail-Adresse registriert haben:<br>'
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Thanks for your confirmation",
   mSignupConfirmDesc:
     'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
@@ -1205,7 +1206,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileTransferedTo: "Übertragen nach",
   mMobileNewTask: "Neue Aufgabe",
   mMobileBack: "Zurück",
-  mMobileMyTasks: "Meine Aufgaben",
   mMobileIgnore: "ignorieren",
   mMobileReload: "neu laden",
   mMobileTime: "Zeit",
@@ -1386,5 +1386,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileHome: "Home",
   mMobileShow: "Anzeigen",
   mMobileSearchTasksInProjects: "Aufgaben in anderen Projekten suchen",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTabNotification: "Benachrichtigungen",
+  mMobileTabMyTasks: "Meine Aufgaben"
 };

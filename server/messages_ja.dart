@@ -190,6 +190,7 @@ const jaServer = const <String, String> {
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "ご確認いただきありがとうございます",
   mSignupConfirmDesc:
     '<strong>[=email]</strong>をご確認いただき、ありがとうございます。<br/>'
@@ -1210,7 +1211,6 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileTransferedTo: "移動先",
   mMobileNewTask: "新しいタスク",
   mMobileBack: "戻る",
-  mMobileMyTasks: "自分のタスク",
   mMobileIgnore: "無視",
   mMobileReload: "リロード（再読み込み）",
   mMobileTime: "時刻",
@@ -1391,5 +1391,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mMobileHome: "トップ",
   mMobileShow: "表示",
   mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTabNotification: "通知",
+  mMobileTabMyTasks: "自分のタスク"
 };

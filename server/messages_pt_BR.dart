@@ -189,6 +189,7 @@ const ptBrServer = const <String, String> {
   mAlreadySignupDesc:
     'Parece que você já se registrou com <br>'
     '<strong>[=email]</strong>.<br>',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Obrigado pela sua confirmação",
   mSignupConfirmDesc:
     'Obrigado pela sua confirmação do email <strong>[=email]</strong>.<br/>'
@@ -1209,7 +1210,6 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mMobileTransferedTo: "Transferida para",
   mMobileNewTask: "Nova Tarefa",
   mMobileBack: "Voltar",
-  mMobileMyTasks: "Minhas Tarefas",
   mMobileIgnore: "ignorar",
   mMobileReload: "recarregar",
   mMobileTime: "Hora",
@@ -1390,5 +1390,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Pesquisar tarefas em outros projetos",
-  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM"
+  mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM",
+  mMobileTabNotification: "Notificações",
+  mMobileTabMyTasks: "Minhas Tarefas"
 };

@@ -190,6 +190,7 @@ const esServer = const <String, String> {
     'Parece que ya estás registrado como<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicia sesión aquí</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Thanks for your confirmation",
   mSignupConfirmDesc:
     'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
@@ -1210,7 +1211,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileTransferedTo: "Transferido a",
   mMobileNewTask: "Nueva Tarea",
   mMobileBack: "Volver",
-  mMobileMyTasks: "Mis Tareas",
   mMobileIgnore: "ignorar",
   mMobileReload: "recargar",
   mMobileTime: "Hora",
@@ -1391,5 +1391,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileHome: "Página de inicio",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Buscar tareas en otros proyectos",
-  mMobileTasksFoundIn: "TASKS FOUND IN"
+  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTabNotification: "Notificaciones",
+  mMobileTabMyTasks: "Mis Tareas"
 };

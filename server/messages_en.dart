@@ -238,6 +238,8 @@ const enServer = const <String, String> {
     'It seems like you have already signed up with<br>'
     '<strong>[=email]</strong>.<br>'
     'Please <a href="/login">log in here</a>.',
+
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Thanks for your confirmation",
   mSignupConfirmDesc:
     'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
@@ -1579,7 +1581,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileTransferedTo: "Transferred to",
   mMobileNewTask: "New Task",
   mMobileBack: "Back",
-  mMobileMyTasks: "My Tasks",
   mMobileIgnore: "ignore",
   mMobileReload: "reload",
   mMobileTime: "Time",
@@ -1784,7 +1785,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileShow: "Show",
   mMobileSearchTasksInProjects: "Search tasks in other projects",
   mMobileTasksFoundIn: "TASKS FOUND IN",
-
+  mMobileTabNotification: "Notifications",
+  mMobileTabMyTasks: "My Tasks",
 };
 
 

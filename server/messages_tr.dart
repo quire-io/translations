@@ -190,6 +190,7 @@ const trServer = const <String, String> {
     'Görünüşe göre zaten<br>'
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
+  mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Onayınız için teşekkürler",
   mSignupConfirmDesc:
     '<strong>[=email]</strong> onayınız için teşekkürler.<br/>'
@@ -1210,7 +1211,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileTransferedTo: "Aktarıldı",
   mMobileNewTask: "Yeni Görev",
   mMobileBack: "Geri",
-  mMobileMyTasks: "Görevlerim",
   mMobileIgnore: "görmezden gel",
   mMobileReload: "tekrar yükle",
   mMobileTime: "Zaman",
@@ -1391,5 +1391,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileHome: "Ana Sayfa",
   mMobileShow: "Göster",
   mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara",
-  mMobileTasksFoundIn: "BULUNAN GÖREVLER"
+  mMobileTasksFoundIn: "BULUNAN GÖREVLER",
+  mMobileTabNotification: "Bildirimler",
+  mMobileTabMyTasks: "Görevlerim"
 };
