@@ -289,7 +289,7 @@ const deClient = const <String, String> {
   mMultipleGrouperSepLabel: "Dann",
   mExcludeCompletedTaskIn: "Abgeschlossene Aufgabe ausschließen in",
   mExcludeCompletedTaskOverNDays: "Über [=n] Tage",
-  mReloadViewTooltip: 'Click to view the latest updates',
+  mReloadViewTooltip: 'Klicken Sie hier, um die neuesten Updates zu sehen',
   mProjectISPublic: "Dieses Projekt ist öffentlich",
   mDeleteTask: "Diese Aufgabe löschen ([=ctrlCommand]+Entf)",
   mArchiveTask: "Peekaboo auf diese Aufgabe anwenden",

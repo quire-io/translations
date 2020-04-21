@@ -87,7 +87,6 @@ const enServer = const <String, String> {
   mFeedbackU: "FEEDBACK",
   mDocumentationU: "DOCUMENTATION",
 
-
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
   mFooterLinkDownloadiOS: "Download iOS App",
@@ -196,6 +195,13 @@ const enServer = const <String, String> {
   mConfirmExpired:
     'Sorry, the confirmation has been expired.',
 
+  mPleaseConfirm:
+    'Please confirm your email in [=day] days: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+  mPleaseConfirmToday:
+    'Please confirm your email today: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Let's get your account ready now!",
   mDoneConfirmSignupButtton: "I'm done, let's go!",
@@ -240,9 +246,9 @@ const enServer = const <String, String> {
     'Please <a href="/login">log in here</a>.',
 
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
     'Please <a href="/login">log in here</a> to proceed.',
 
   mInviteFriends: "Invite Friends",
@@ -1300,7 +1306,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'Enjoying Quire? <a href="/invite">Invite your friends</a>, '
     'or <a href="/feedback">share with us</a> on how we can be better!',
   mTipPrint:
-    'Tip: Keep a hard copy of your tasks! <a href="javascript:window.print()">Print</a> '
+    'Tip: Keep a hard copy of your tasks! <a href="javascript:print()">Print</a> '
     'them via <code>[=ctrlCommand]+P</code>',
   mTipTaskId:
     'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',

@@ -158,6 +158,12 @@ const itServer = const <String, String> {
   mConfirmPasswordExpired: "Conferma Reset Password Scaduta",
   mConfirmEmailExpired: "Email di conferma Scaduta",
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
+  mPleaseConfirm:
+    'Please confirm your email in [=day] days: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+  mPleaseConfirmToday:
+    'Please confirm your email today: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",

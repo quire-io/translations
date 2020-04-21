@@ -158,6 +158,12 @@ const ptServer = const <String, String> {
   mConfirmPasswordExpired: "Confirmação de Redefinição de Palavra-passe Expirada",
   mConfirmEmailExpired: "Confirmação de Email Expirada",
   mConfirmExpired: 'Desculpe, a confirmação expirou.',
+  mPleaseConfirm:
+    'Please confirm your email in [=day] days: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+  mPleaseConfirmToday:
+    'Please confirm your email today: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
   mConfirmedEmail: "Olá, [=email]",
   mConfirmedEmailDesc: "Vamos lá preparar a sua conta!",
   mDoneConfirmSignupButtton: "Já terminei, vamos lá!",

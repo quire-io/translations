@@ -66,7 +66,7 @@ const deServer = const <String, String> {
   mAboutQuire: "Über Quire",
   mGetStarted: "KOSTENLOS REGISTRIEREN",
   mSignupForFree: "Kostenlosen Account erstellen",
-  mPrivacyPolicy: "Privacy Policy",
+  mPrivacyPolicy: "Datenschutzbestimmungen",
   mTerms: "Nutzungsbedingungen",
   mTermsOFService: "Nutzungsbedingungen",
   mFaq: "FAQ",
@@ -158,6 +158,12 @@ const deServer = const <String, String> {
   mConfirmPasswordExpired: "Passwortrücksetzbestätigung abgelaufen",
   mConfirmEmailExpired: "E-Mail-Bestätigung abgelaufen",
   mConfirmExpired: 'Sorry, die Bestätigung ist abgelaufen.',
+  mPleaseConfirm:
+    'Please confirm your email in [=day] days: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+  mPleaseConfirmToday:
+    'Please confirm your email today: [=email]. '
+    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Richten Sie jetzt Ihren Account ein!",
   mDoneConfirmSignupButtton: "Fertig, los geht's!",
@@ -190,11 +196,11 @@ const deServer = const <String, String> {
     'Sieht so aus als ob Sie sich bereits mit folgender E-Mail-Adresse registriert haben:<br>'
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mAlreadyConfirmDesc: 'Sie haben die E-Mail bereits bestätigt.',
+  mSignupConfirmTitle: "Vielen Dank für Ihre Bestätigung",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Vielen Dank für Ihre Bestätigung von <strong>[=email]</strong>.<br/>'
+    'Bitte <a href="/login">loggen Sie sich hier ein</a>, um fortzufahren.',
   mInviteFriends: "Freunde einladen",
   mInviteFriendsTitle: "Laden Sie Ihre Freunde und Kollegen ein",
   mInviteFriendsDesc: "Überzeugt von Quire?<br/>Empfehlen Sie uns weiter!",
@@ -373,13 +379,13 @@ vereinbaren wir gerne einen Anruf mit dir.</p>
   mEmailInviteExistsUserContent: '''
 [=header]
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Sie wurden von [=invitor] eingeladen, dem Projekt [=hostType] beizutreten: [=host].</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">View [=hostType]</a>
+  <a href="[=link]" class="btn">Ansehen [=hostType]</a>
 </p>
 
-<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>Wenn Sie die Einladung ablehnen möchten, klicken Sie bitte  <a href="[=declineLink]">hier</a>.</p>
 
 [=footer]
 ''',
@@ -671,8 +677,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'Bitte aktualisieren Sie Ihre <a href="/r/setting">Einstellungen</a>.',
   mUnsubscribeAutoSuccess: "Sie ([=email]) haben erfolgreich [=target] abbestellt.",
   mUnsubscribeAll: "Sie ([=email]) haben erfolgreich Benachrichtigungen und Nachrichten von Quire abbestellt.",
-  mDeclineTitle: "Decline Invitation",
-  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
+  mDeclineTitle: "Einladung ablehnen",
+  mDeclineSuccess: "Sie haben die Einladung zu [=target] abgelehnt.",
   mKeyShortcuts: 'Tastenkombinationen (F1)',
   mKeyShortcutsTitle: 'Tastenkombinationen',
   mKeyNavigate: 'Nutzen Sie folgende Funktionen mit den folgenden Tastenkombinationen',
@@ -1386,7 +1392,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileHome: "Home",
   mMobileShow: "Anzeigen",
   mMobileSearchTasksInProjects: "Aufgaben in anderen Projekten suchen",
-  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTasksFoundIn: "AUFGABEN GEFUNDEN IN",
   mMobileTabNotification: "Benachrichtigungen",
-  mMobileTabMyTasks: "Meine Aufgaben"
+  mMobileTabMyTasks: "Aufgaben"
 };
