@@ -160,10 +160,10 @@ const itServer = const <String, String> {
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",
@@ -197,10 +197,10 @@ const itServer = const <String, String> {
     '<strong>[=email]</strong>.<br>'
     'Si prega di <a href="/login">collegarsi qui</a>.',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Grazie per la conferma",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    'Grazie per la conferma di <strong>[=email]</strong>.<br/>'
-    'Si prega di <a href="/login">collegarsi qui</a> per procedere.',
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Invita Amici",
   mInviteFriendsTitle: "Inviata i tuoi amici a bordo",
   mInviteFriendsDesc: "Ti piace l\' esperienza con Quire?<br/>Fai sapere ai tuoi amici che possono realizzare facilmente anche i loro sogni!",
@@ -991,7 +991,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'Ti piace Quire? <a href="/invite">Inviata i tuoi amici</a>, '
     'o <a href="/feedback">facci sapere</a> come possiamo migliorare!',
   mTipPrint:
-    'Tip: Conserva una copia cartacea delle tue attività! <a href="javascript:window.print()">Stampale</a> '
+    'Tip: Conserva una copia cartacea delle tue attività! <a href="javascript:print()">Stampale</a> '
     'con <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tip: Premi <code>[=ctrlAlt]</code> per mostrare l\'ID attività e la posizione',
   mTipMyTasksShortcut: "Tip: Premi <code>&gt;</code> per lanciare Le Mie Attività",

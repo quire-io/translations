@@ -160,10 +160,10 @@ const jaServer = const <String, String> {
   mConfirmExpired: '申し訳ありません。確認用リンクの有効期限切れです。',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
   mDoneConfirmSignupButtton: "これでOKです。開始します。",
@@ -197,10 +197,10 @@ const jaServer = const <String, String> {
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "ご確認いただきありがとうございます",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    '<strong>[=email]</strong>をご確認いただき、ありがとうございます。<br/>'
-    '<a href="/login">ここからログイン</a>してください。',
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "友人を招待",
   mInviteFriendsTitle: "友人を招待",
   mInviteFriendsDesc: "Quireは気に入っていただけましたか？<br/>ご友人にも、夢の実現は難しくないことを、どうぞお伝えください。",
@@ -992,7 +992,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
     'または改善点を<a href="/feedback">お知らせ</a>ください！',
   mTipPrint:
     'ヒント：<code>[=ctrlCommand]+P</code>で、タスクを'
-    '<a href="javascript:window.print()">印刷</a>して保存',
+    '<a href="javascript:print()">印刷</a>して保存',
   mTipTaskId: 'ヒント：<code>[=ctrlAlt]</code>キーを押して、タスクIDとパンくずリストを表示',
   mTipMyTasksShortcut: "ヒント： <code>&gt;</code>キーを押して自分のタスクを立ち上げ",
   mTipAssignInTaskName:

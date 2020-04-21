@@ -160,10 +160,10 @@ const esServer = const <String, String> {
   mConfirmExpired: 'Lo sentimos, la confirmación ha caducado.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Hola, [=email]",
   mConfirmedEmailDesc: "¡Pongamos a punto tu cuenta!",
   mDoneConfirmSignupButtton: "¡Estoy listo, vamos!",
@@ -197,9 +197,9 @@ const esServer = const <String, String> {
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicia sesión aquí</a>.',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thanks for your confirmation",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    'Thanks for your confirmation of <strong>[=email]</strong>.<br/>'
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
     'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Invitar Amigos",
   mInviteFriendsTitle: "Invita a tus amigos a que se unan",
@@ -991,7 +991,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     '¿Estás disfrutando de Quire? <a href="/invite">¡Invita a tus amigos</a>, '
     'o <a href="/feedback">haznos saber</a> en qué podemos mejorar!',
   mTipPrint:
-    'Consejo: ¡Conserva una copia de tus tareas! <a href="javascript:window.print()">Imprímelas</a> '
+    'Consejo: ¡Conserva una copia de tus tareas! <a href="javascript:print()">Imprímelas</a> '
     'usando <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Consejo: Pulsa <code>[=ctrlAlt]</code> para mostrar la ID de las tareas y las breadcrumbs',
   mTipMyTasksShortcut: "Consejo: Pulsa <code>&gt;</code> para iniciar Mis Tareas",

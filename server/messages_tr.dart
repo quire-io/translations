@@ -160,10 +160,10 @@ const trServer = const <String, String> {
   mConfirmExpired: 'Maalesef, onayın süresi doldu.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Merhaba, [=email]",
   mConfirmedEmailDesc: "Şimdi hesabınızı hazırlayalım!",
   mDoneConfirmSignupButtton: "İşim bitti, hadi gidelim!",
@@ -197,10 +197,10 @@ const trServer = const <String, String> {
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Onayınız için teşekkürler",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    '<strong>[=email]</strong> onayınız için teşekkürler.<br/>'
-    'Devam etmek için lütfen <a href="/login">buradan giriş yapın</a>.',
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Arkadaşlarını Davet Et",
   mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
   mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
@@ -992,7 +992,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'veya nasıl daha iyi olabileceğimiz konusunu <a href="/feedback">bizimle paylaşın</a>!',
   mTipPrint:
     'İpucu: Görevlerinizin basılı bir kopyasını saklayın! '
-    '<code>[=ctrlCommand]+P</code> ile <a href="javascript:window.print()">Yazdır</a>',
+    '<code>[=ctrlCommand]+P</code> ile <a href="javascript:print()">Yazdır</a>',
   mTipTaskId: 'İpucu: Görev ID ve ast üst ilişkilerini görmek için <code>[=ctrlAlt]</code> tuşunu tıklayın',
   mTipMyTasksShortcut: "İpucu: Görevlerimi başlatmak için <code>&gt;</code> tuşunu tıklayın",
   mTipAssignInTaskName:

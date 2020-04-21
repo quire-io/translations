@@ -160,10 +160,10 @@ const deServer = const <String, String> {
   mConfirmExpired: 'Sorry, die Bestätigung ist abgelaufen.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Richten Sie jetzt Ihren Account ein!",
   mDoneConfirmSignupButtton: "Fertig, los geht's!",
@@ -197,10 +197,10 @@ const deServer = const <String, String> {
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
   mAlreadyConfirmDesc: 'Sie haben die E-Mail bereits bestätigt.',
-  mSignupConfirmTitle: "Vielen Dank für Ihre Bestätigung",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    'Vielen Dank für Ihre Bestätigung von <strong>[=email]</strong>.<br/>'
-    'Bitte <a href="/login">loggen Sie sich hier ein</a>, um fortzufahren.',
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Freunde einladen",
   mInviteFriendsTitle: "Laden Sie Ihre Freunde und Kollegen ein",
   mInviteFriendsDesc: "Überzeugt von Quire?<br/>Empfehlen Sie uns weiter!",
@@ -987,7 +987,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mTipInvite:
     'Überzeugt von Quire? <a href="/invite">Empfehlen Sie uns weiter!</a>, '
     'oder <a href="/feedback">helfen Sie uns</a> Quire weiter zu verbessern!',
-  mTipPrint: '<a href="javascript:window.print()">Drucken</a> Sie Ihre Aufgaben mit <code>[=ctrlCommand]+P</code>',
+  mTipPrint: '<a href="javascript:print()">Drucken</a> Sie Ihre Aufgaben mit <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tipp: Drücken Sie <code>[=ctrlAlt]</code>, um Aufgaben ID und Pfad anzuzeigen',
   mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
   mTipAssignInTaskName:

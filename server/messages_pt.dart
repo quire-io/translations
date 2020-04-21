@@ -160,10 +160,10 @@ const ptServer = const <String, String> {
   mConfirmExpired: 'Desculpe, a confirmação expirou.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Olá, [=email]",
   mConfirmedEmailDesc: "Vamos lá preparar a sua conta!",
   mDoneConfirmSignupButtton: "Já terminei, vamos lá!",
@@ -197,10 +197,10 @@ const ptServer = const <String, String> {
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicie sessão aqui</a>.',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Obrigado pela sua confirmação",
+  mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
-    'Obrigado pela sua confirmação do email <strong>[=email]</strong>.<br/>'
-    'Por favor, <a href="/login">inicie sessão aqui</a> para continuar.',
+    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Convidar Amigos",
   mInviteFriendsTitle: "Convide os seus amigos a juntarem-se",
   mInviteFriendsDesc: "Gosta da sua experiência com o Quire?<br/>Diga aos seus amigos que eles também podem facilmente alcançar os seus sonhos!",
@@ -992,7 +992,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
     'Está a gostar do Quire? <a href="/invite">Convide os seus amigos</a>, '
     'ou <a href="/feedback">partilhe connosco</a> como podemos melhorar!',
   mTipPrint:
-    'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:window.print()">Imprima-as</a> '
+    'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:print()">Imprima-as</a> '
     'através de <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
   mTipMyTasksShortcut: "Dica: Pressione <code>&gt;</code> para iniciar Minhas Tarefas",
