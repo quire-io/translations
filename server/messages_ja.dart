@@ -160,10 +160,10 @@ const jaServer = const <String, String> {
   mConfirmExpired: '申し訳ありません。確認用リンクの有効期限切れです。',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
   mDoneConfirmSignupButtton: "これでOKです。開始します。",

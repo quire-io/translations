@@ -160,10 +160,10 @@ const frServer = const <String, String> {
   mConfirmExpired: 'Désolé, la confirmation a expiré.',
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
   mConfirmedEmail: "Bonjour, [=email]",
   mConfirmedEmailDesc: "Commençons dès maintenant à préparer votre compte !",
   mDoneConfirmSignupButtton: "D'accord, c'est parti !",

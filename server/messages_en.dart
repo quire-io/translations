@@ -197,10 +197,10 @@ const enServer = const <String, String> {
 
   mPleaseConfirm:
     'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
   mPleaseConfirmToday:
     'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="http://localhost:8080/r/setting?tab=options">Change</a>',
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change</a>',
 
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Let's get your account ready now!",
