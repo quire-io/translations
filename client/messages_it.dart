@@ -280,7 +280,7 @@ const itClient = const <String, String> {
   mSearchSectionLabel: "Organizzazioni,Cartelle Intelligenti,Progetti,Membri,Filtri salvati",
   mBaseFilterLabel: "Tutti,Attivi,Completati,Da fare,In Corso,Peekaboo",
   mExtFilterLabel: "Seguiti,Assegnati da,Creati da,Assgn a,Etichette,Priorità,Favoriti,Mie Attività,Bacheche,Non Letti,Progetti",
-  mGrouperLabel: "Assegnatario,Data,Priorità,Scadenze per Giorno,Scadenze per Settimana,Completate per Settimana,Create per Settimana,Start Per Week,Aggiornate per Settimana,Stato,Nome,Etichetta,Progetto",
+  mGrouperLabel: "Assegnatario,Data,Priorità,Scadenze per Giorno,Scadenze per Settimana,Completate per Settimana,Create per Settimana,Iniziate per Settimana,Aggiornate per Settimana,Stato,Nome,Etichetta,Progetto",
   mFilterOperatorContains: 'Contiene',
   mFilterOperatorLabels: '+=E;|=O;-=Non',
   mFilterRecentHistory: "Storia recente",

@@ -160,12 +160,12 @@ const itServer = const <String, String> {
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
+    'Si prega di confermare l\'email entro [=day] giorni: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Re invia</a><a href="/r/setting?tab=options">Modifica Email</a></div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
+    'Si prega di confermare l\'email oggi: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Re invia</a><a href="/r/setting?tab=options">Modifica Email</a></div>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",
@@ -198,11 +198,11 @@ const itServer = const <String, String> {
     'Sembra che ti si già registrato con<br>'
     '<strong>[=email]</strong>.<br>'
     'Si prega di <a href="/login">collegarsi qui</a>.',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mAlreadyConfirmDesc: 'Hai già confermato l\'email.',
+  mSignupConfirmTitle: "Grazie per la conferma",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    'Grazie di aver confermato il tuo indirizzo email <strong>[=email]</strong>.<br/>'
+    'i prega di <a href="/login">collegarsi qui</a> per procedere.',
   mInviteFriends: "Invita Amici",
   mInviteFriendsTitle: "Inviata i tuoi amici a bordo",
   mInviteFriendsDesc: "Ti piace l\' esperienza con Quire?<br/>Fai sapere ai tuoi amici che possono realizzare facilmente anche i loro sogni!",
@@ -338,38 +338,38 @@ una telefonata con te.</p>
 
 <p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">cancella l\'iscrizione</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Ancora un passo per realizzare grandi cose con Quire',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Manca ancora un click!</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Per continuare ad utilizzare Quire, si prega di verificare l\'indirizzo email cliccando sul bottone sottostante.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verifica</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>>Se non riconosci questa email, ti preghiamo di ignorarla.</p>
 
 [=footer]
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Completa la tua registrazione a Quire',
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!
-Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to delete your account and data. And we're not ready to let you go...</p>
+<p>Speriamo ti sia trovando bene con Quire!
+I tuoi progetti devono essere così eccitanti che potresti esserti dimenticato di confermare il tuo indirizzo email!
+Ti preghiamo di farci sapere che stai ancora utilizzando Quire cliccando sul bottone sottostante entre [=day] giorni.
+Altrimenti, potremmo dover eliminare il tuo Account e i tuoi dati. E non siamo pronti a lasciarti andare...</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify email address</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>>Se non riconosci questa email, ti preghiamo di ignorarla .
+Oppure, ti preghiamo di <a href="mailto:support@quire.io">contattarci</a> per qualsiai
+problema.</p>
 
 [=footer]
 ''',
