@@ -151,7 +151,7 @@ const trServer = const <String, String> {
   mResetMYPassword: 'Şifremi Sıfırla',
   mEmailSentCheckInbox: '<h3>[=email] hesabınıza e-posta gönderildi!</h3>Lütfen [=hrefStart]gelen kutunuzu[=hrefEnd] veya spam klasörünüzü kontrol edin.',
   mYourNewPasswordDesc:
-    'Lütfen <strong>[=email]</strong> hesabınız için '
+    'Lütfen <b>[=email]</b> hesabınız için '
     'yeni bir şifre girin.',
   mPasswordReseted: 'Şifrenizi yeni değiştirdiniz.',
   mConfirmSignupExpired: "Kayıt Onayının Süresi Doldu",
@@ -159,11 +159,13 @@ const trServer = const <String, String> {
   mConfirmEmailExpired: "E-posta Onayının Süresi Doldu",
   mConfirmExpired: 'Maalesef, onayın süresi doldu.',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "Merhaba, [=email]",
   mConfirmedEmailDesc: "Şimdi hesabınızı hazırlayalım!",
   mDoneConfirmSignupButtton: "İşim bitti, hadi gidelim!",
@@ -337,8 +339,7 @@ görüşme ayarlamak isteriz.</p>
 <p>Gelecekte böyle bir e-posta almak istemiyorsanız lütfen buradan <a href="[=unsubscribe]">abonelikten çıkın</a>.</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>

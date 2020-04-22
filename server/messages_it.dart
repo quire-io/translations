@@ -152,18 +152,20 @@ const itServer = const <String, String> {
   mEmailSentCheckInbox: '<h3>Email Inviata a [=email]!</h3>Si prega di [=hrefStart]controllare la posta in arrivo[=hrefEnd] e la cartella spam.',
   mYourNewPasswordDesc:
     'si prega di insere una nuova password '
-    'per il tuo account <strong>[=email]</strong>',
+    'per il tuo account <b>[=email]</b>',
   mPasswordReseted: 'Hai appena cambiato la tua password.',
   mConfirmSignupExpired: "Conferma di registrazione Scaduta",
   mConfirmPasswordExpired: "Conferma Reset Password Scaduta",
   mConfirmEmailExpired: "Email di conferma Scaduta",
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",
@@ -337,8 +339,7 @@ una telefonata con te.</p>
 <p>Se non vuoi ricevere email come questa in futuro <a href="[=unsubscribe]">cancella l\'iscrizione</a>.</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>

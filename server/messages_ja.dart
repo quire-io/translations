@@ -151,7 +151,7 @@ const jaServer = const <String, String> {
   mResetMYPassword: 'パスワードを再設定',
   mEmailSentCheckInbox: '<h3>[=email]にメールを送りました。</h3>[=hrefStart]受信箱[=hrefEnd]または迷惑メールフォルダーを確認してください。',
   mYourNewPasswordDesc:
-    'アカウント<strong>[=email]</strong>用の'
+    'アカウント<b>[=email]</b>用の'
     '新しいパスワードを入力してください',
   mPasswordReseted: 'パスワードを変更しました。',
   mConfirmSignupExpired: "登録用リンクの有効期限切れ",
@@ -159,11 +159,13 @@ const jaServer = const <String, String> {
   mConfirmEmailExpired: "メールアドレス確認用リンクの有効期限切れ",
   mConfirmExpired: '申し訳ありません。確認用リンクの有効期限切れです。',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
   mDoneConfirmSignupButtton: "これでOKです。開始します。",
@@ -337,8 +339,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 <p>こうしたメールの受け取りを希望しない場合は、<a href="[=unsubscribe]">ここから配信を停止</a>してください。</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>

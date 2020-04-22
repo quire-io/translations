@@ -152,18 +152,20 @@ const deServer = const <String, String> {
   mEmailSentCheckInbox: '<h3>E-Mail an [=email] gesendet!</h3>Bitte [=hrefStart]überprüfen Sie Ihren Posteingang[=hrefEnd] oder Spamordner.',
   mYourNewPasswordDesc:
     'Bitte geben Sie ein neues Passwort '
-    'für Ihren Account <strong>[=email]</strong> ein',
+    'für Ihren Account <b>[=email]</b> ein',
   mPasswordReseted: 'Sie haben Ihr Passwort geändert.',
   mConfirmSignupExpired: "Anmeldebestätigung abgelaufen",
   mConfirmPasswordExpired: "Passwortrücksetzbestätigung abgelaufen",
   mConfirmEmailExpired: "E-Mail-Bestätigung abgelaufen",
   mConfirmExpired: 'Sorry, die Bestätigung ist abgelaufen.',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Richten Sie jetzt Ihren Account ein!",
   mDoneConfirmSignupButtton: "Fertig, los geht's!",
@@ -337,8 +339,7 @@ vereinbaren wir gerne einen Anruf mit dir.</p>
 <p>Wenn Sie in Zukunft keine derartigen E-Mails mehr erhalten möchten, können Sie sich <a href="[=unsubscribe]">hier abmelden</a>.</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>

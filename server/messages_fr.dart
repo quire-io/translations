@@ -152,18 +152,20 @@ const frServer = const <String, String> {
   mEmailSentCheckInbox: '<h3>Email envoyé à [=email] !</h3>Veuillez [=hrefStart]regarder dans votre boîte mail[=hrefEnd] ou dans le dossier des spams.',
   mYourNewPasswordDesc:
     'Veuillez entrer un nouveau mot de passe '
-    'pour votre compte <strong>[=email]</strong>',
+    'pour votre compte <b>[=email]</b>',
   mPasswordReseted: 'Vous venez de changer votre mot de passe.',
   mConfirmSignupExpired: "Confirmation d'Inscription Expirée",
   mConfirmPasswordExpired: "Confirmation de Réinitialisation du Mot de Passe Expirée",
   mConfirmEmailExpired: "Confirmation de l'Email Expirée",
   mConfirmExpired: 'Désolé, la confirmation a expiré.',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "Bonjour, [=email]",
   mConfirmedEmailDesc: "Commençons dès maintenant à préparer votre compte !",
   mDoneConfirmSignupButtton: "D'accord, c'est parti !",
@@ -334,8 +336,7 @@ d'organiser un appel avec vous.</p>
 <p>Si vous ne voulez plus recevoir des emails similaires dans le futur, veuillez <a href="[=unsubscribe]">vous désabonner</a>.</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>

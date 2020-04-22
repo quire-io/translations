@@ -185,7 +185,7 @@ const enServer = const <String, String> {
 
   mYourNewPasswordDesc: 
     'Please enter a new password '
-    'for your account <strong>[=email]</strong>',
+    'for your account <b>[=email]</b>',
   mPasswordReseted: 
     'You just changed your password.',
 
@@ -196,11 +196,13 @@ const enServer = const <String, String> {
     'Sorry, the confirmation has been expired.',
 
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a></div>',
 
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Let's get your account ready now!",

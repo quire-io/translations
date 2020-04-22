@@ -152,18 +152,20 @@ const ptServer = const <String, String> {
   mEmailSentCheckInbox: '<h3>Email Enviado para [=email]!</h3>Por favor, [=hrefStart]verifique a sua caixa de entrada [=hrefEnd] ou pasta de spam.',
   mYourNewPasswordDesc:
     'Por favor, introduza uma nova palavra-passe '
-    'para a sua conta <strong>[=email]</strong>',
+    'para a sua conta <b>[=email]</b>',
   mPasswordReseted: 'Acabou de alterar a sua palavra-passe.',
   mConfirmSignupExpired: "Confirmação de Registo Expirada",
   mConfirmPasswordExpired: "Confirmação de Redefinição de Palavra-passe Expirada",
   mConfirmEmailExpired: "Confirmação de Email Expirada",
   mConfirmExpired: 'Desculpe, a confirmação expirou.',
   mPleaseConfirm:
-    'Please confirm your email in [=day] days: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
-    'Please confirm your email today: [=email]. '
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a>',
+    '<div class="confirm-email"><div class="msg">'
+    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '<a href="javascript:reSignup()">Resend</a><a href="/r/setting?tab=options">Change Email</a></div>',
   mConfirmedEmail: "Olá, [=email]",
   mConfirmedEmailDesc: "Vamos lá preparar a sua conta!",
   mDoneConfirmSignupButtton: "Já terminei, vamos lá!",
@@ -337,8 +339,7 @@ em agendar uma chamada consigo.</p>
 <p>Caso não queira receber emails como este no futuro, por favor, <a href="[=unsubscribe]">cancele a subscrição aqui</a>.</p>
 ''',
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
-  mEmailSignupContent: 
-'''
+  mEmailSignupContent: '''
 [=header]
 
 <p>You are one click away!</p>
