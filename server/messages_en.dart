@@ -408,20 +408,41 @@ for a call with you.</p>
 <p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
 ''',
 
-  mEmailSignupSubject: 'Complete your Quire sign up',
+  mEmailSignupSubject: 'One last step to achieve great things with Quire',
   mEmailSignupContent: 
 '''
 [=header]
 
 <p>You are one click away!</p>
 
-<p>To start using Quire, please verify your email address by clicking the below button.</p>
+<p>To continue using Quire, please verify your email address by clicking the below button.</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify</a>
 </p>
 
 <p>If you do not recognize this email, please ignore it.</p>
+
+[=footer]
+''',
+
+  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionContent:
+'''
+[=header]
+
+<p>We hope you are having a great time with Quire!
+Your projects must be really exciting that you might have forgotten to confirm your email address!
+Please let us know that you're still using Quire by clicking the below button within [=day] days.
+Otherwise, we might have to delete your account and data. And we're not ready to let you go...</p>
+
+<p class="text-center">
+  <a href="[=link]" class="btn">Verify email address</a>
+</p>
+
+<p>If you do not recognize this email, please ignore it.
+Or, please <a href="mailto:support@quire.io">contact us</a> if there
+is any issue.</p>
 
 [=footer]
 ''',

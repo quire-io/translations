@@ -336,19 +336,39 @@ una llamada para comentarlo contigo.</p>
 
 <p>Si no deseas recibir correos electrónicos como este en el futuro, por favor <a href="[=unsubscribe]">date de baja aquí</a>.</p>
 ''',
-  mEmailSignupSubject: 'Completa tu registro en Quire',
-  mEmailSignupContent: '''
+  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupContent: 
+'''
 [=header]
 
-<p>¡Estás a un solo clic!</p>
+<p>You are one click away!</p>
 
-<p>Para empezar a usar Quire, por favor verifica tu dirección de correo electrónico pulsando en el botón inferior.</p>
+<p>To continue using Quire, please verify your email address by clicking the below button.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verificar</a>
+  <a href="[=link]" class="btn">Verify</a>
 </p>
 
-<p>Si no reconoces este email, por favor ignóralo.</p>
+<p>If you do not recognize this email, please ignore it.</p>
+
+[=footer]
+''',
+  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionContent: '''
+[=header]
+
+<p>We hope you are having a great time with Quire!
+Your projects must be really exciting that you might have forgotten to confirm your email address!
+Please let us know that you're still using Quire by clicking the below button within [=day] days.
+Otherwise, we might have to delete your account and data. And we're not ready to let you go...</p>
+
+<p class="text-center">
+  <a href="[=link]" class="btn">Verify email address</a>
+</p>
+
+<p>If you do not recognize this email, please ignore it.
+Or, please <a href="mailto:support@quire.io">contact us</a> if there
+is any issue.</p>
 
 [=footer]
 ''',
