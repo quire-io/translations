@@ -906,7 +906,7 @@ const trClient = const <String, String> {
     "Nasıl başlayacağınızdan emin değil misiniz? "
     '<a href="/tutorial" target="_blank">Kullanım Kılavuzu</a>\'na göz atın!',
   mTipReopenArchive: 'Mahzendeki görevler [=n] gün sonra otomatik olarak tekrar gösterilecek.',
-  mTipFilterForArchived: 'Mahzendeki görevler görmek için Mahzendeki Görevler\'e tıklayabilirsiniz..',
+  mTipFilterForArchived: 'Mahzendeki görevleri görmek için Mahzendeki Görevler\'e tıklayabilirsiniz..',
   mProfileViewTooltip: "Genel Bakış",
   mTreeViewTooltip: "Liste",
   mMyTaskViewTooltip: "Görevlerim",
