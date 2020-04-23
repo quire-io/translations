@@ -118,6 +118,10 @@ const ptServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Já não suportamos navegadores de dispositivos móveis com ecrã pequeno. '
     'Por favor, descarregue a nossa aplicação nativa.',
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc:
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
   m403Title: "Ups!",
   m403Desc:
     "Não tem permissão para aceder a esta página.<br/>"

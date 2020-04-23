@@ -118,6 +118,10 @@ const deServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Wir unterstützen keine mobilen Browser mit kleinem Bildschirm mehr. '
     'Bitte laden Sie stattdessen unsere native App herunter.',
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc:
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
   m403Title: "Oh nein!",
   m403Desc:
     "Sie haben keinen Zugriff auf diese Seite.<br/>"

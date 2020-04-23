@@ -118,6 +118,10 @@ const trServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Artık küçük ekranlı mobil tarayıcıyı desteklemiyoruz. '
     'Lütfen bunun yerine uygulamamızı indirin.',
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc:
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
   m403Title: "Hata!",
   m403Desc:
     "Bu sayfaya erişim izniniz yok.<br/>"

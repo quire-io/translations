@@ -118,6 +118,10 @@ const jaServer = const <String, String> {
   mMobileBrowserNotSupported:
     '画面の小さいモバイルブラウザでのサポートは終了しました。'
     'ネイティブアプリをダウンロードしてください。',
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc:
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
   m403Title: "残念！",
   m403Desc:
     "このページにアクセスする権限がありません。<br/>"

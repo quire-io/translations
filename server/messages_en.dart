@@ -138,6 +138,11 @@ const enServer = const <String, String> {
     'We no longer support mobile browser with small display screen. '
     'Please download our native app instead.',
 
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc: 
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
+
   m403Title: "Oops!",
   m403Desc: 
     "You do not have permission to access this page.<br/>"

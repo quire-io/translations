@@ -118,6 +118,10 @@ const esServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Los navegadores móviles con pantalla pequeña ya no son compatibles. '
     'Por favor, descarga en su lugar nuestra aplicación nativa.',
+  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredDesc:
+    'Your account is temporarily locked!.<br/>'
+    'To continue, please confirm your email address.',
   m403Title: "¡Oh, vaya!",
   m403Desc:
     "No tienes permiso para acceder a esta página.<br/>"
