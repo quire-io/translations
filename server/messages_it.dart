@@ -206,7 +206,8 @@ const itServer = const <String, String> {
   mSignupConfirmTitle: "Grazie per la conferma",
   mSignupConfirmDesc:
     'Grazie di aver confermato il tuo indirizzo email <strong>[=email]</strong>.<br/>'
-    'i prega di <a href="/login">collegarsi qui</a> per procedere.',
+    '[=continue]',
+  mSignupConfirmThenLogin: 'i prega di <a href="/login">collegarsi qui</a> per procedere.',
   mInviteFriends: "Invita Amici",
   mInviteFriendsTitle: "Inviata i tuoi amici a bordo",
   mInviteFriendsDesc: "Ti piace l\' esperienza con Quire?<br/>Fai sapere ai tuoi amici che possono realizzare facilmente anche i loro sogni!",
@@ -362,8 +363,9 @@ una telefonata con te.</p>
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>Speriamo ti sia trovando bene con Quire!
-I tuoi progetti devono essere così eccitanti che potresti esserti dimenticato di confermare il tuo indirizzo email!
+<p>Speriamo ti sia trovando bene con Quire!</p>
+
+<p>I tuoi progetti devono essere così eccitanti che potresti esserti dimenticato di confermare il tuo indirizzo email!
 Ti preghiamo di farci sapere che stai ancora utilizzando Quire cliccando sul bottone sottostante entre [=day] giorni.
 Altrimenti, potremmo dover eliminare il tuo Account e i tuoi dati. E non siamo pronti a lasciarti andare...</p>
 
@@ -371,7 +373,7 @@ Altrimenti, potremmo dover eliminare il tuo Account e i tuoi dati. E non siamo p
   <a href="[=link]" class="btn">Verify email address</a>
 </p>
 
-<p>>Se non riconosci questa email, ti preghiamo di ignorarla .
+<p>Se non riconosci questa email, ti preghiamo di ignorarla .
 Oppure, ti preghiamo di <a href="mailto:support@quire.io">contattarci</a> per qualsiai
 problema.</p>
 

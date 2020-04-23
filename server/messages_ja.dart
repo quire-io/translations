@@ -206,7 +206,8 @@ const jaServer = const <String, String> {
   mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
     'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    '[=continue]',
+  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "友人を招待",
   mInviteFriendsTitle: "友人を招待",
   mInviteFriendsDesc: "Quireは気に入っていただけましたか？<br/>ご友人にも、夢の実現は難しくないことを、どうぞお伝えください。",
@@ -362,10 +363,11 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!
-Your projects must be really exciting that you might have forgotten to confirm your email address!
+<p>We hope you are having a great time with Quire!</p>
+
+<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
 Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to delete your account and data. And we're not ready to let you go...</p>
+Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify email address</a>

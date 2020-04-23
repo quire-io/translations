@@ -206,7 +206,8 @@ const trServer = const <String, String> {
   mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
     'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
-    'Please <a href="/login">log in here</a> to proceed.',
+    '[=continue]',
+  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Arkadaşlarını Davet Et",
   mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
   mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
@@ -362,10 +363,11 @@ görüşme ayarlamak isteriz.</p>
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!
-Your projects must be really exciting that you might have forgotten to confirm your email address!
+<p>We hope you are having a great time with Quire!</p>
+
+<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
 Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to delete your account and data. And we're not ready to let you go...</p>
+Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify email address</a>
