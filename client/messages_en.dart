@@ -225,6 +225,7 @@ const enClient = const <String, String> {
   mUnarchive: "Unarchive",
   mOR: "or",
   mDone: "Done",
+  mSent: "Sent",
   mRename: "Rename",
   mMove: "Move",
   mCopy: "Copy",

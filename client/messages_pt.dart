@@ -186,6 +186,7 @@ const ptClient = const <String, String> {
   mUnarchive: "Desarquivar",
   mOR: "ou",
   mDone: "Feito",
+  mSent: "Sent",
   mRename: "Renomear",
   mMove: "Move",
   mCopy: "Copiar",

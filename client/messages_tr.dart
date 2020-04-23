@@ -175,6 +175,7 @@ const trClient = const <String, String> {
   mUnarchive: "Arşivden çıkarıldı",
   mOR: "veya",
   mDone: "Yapıldı",
+  mSent: "Sent",
   mRename: "Yeni isim ver",
   mMove: "Taşı",
   mCopy: "Kopyala",

@@ -181,6 +181,7 @@ const esClient = const <String, String> {
   mUnarchive: "Desarchivar",
   mOR: "o",
   mDone: "Hecho",
+  mSent: "Sent",
   mRename: "Renombrar",
   mMove: "Move",
   mCopy: "Copiar",

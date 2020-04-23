@@ -175,6 +175,7 @@ const deClient = const <String, String> {
   mUnarchive: "Übertragen",
   mOR: "oder",
   mDone: "Fertig",
+  mSent: "Sent",
   mRename: "Umbenennen",
   mMove: "Move",
   mCopy: "Kopieren",

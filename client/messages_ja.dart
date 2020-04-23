@@ -181,6 +181,7 @@ const jaClient = const <String, String> {
   mUnarchive: "アーカイブを解除",
   mOR: "または",
   mDone: "完了",
+  mSent: "Sent",
   mRename: "名前を変更",
   mMove: "Move",
   mCopy: "コピー",

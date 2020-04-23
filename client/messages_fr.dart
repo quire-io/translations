@@ -181,6 +181,7 @@ const frClient = const <String, String> {
   mUnarchive: "Désarchiver",
   mOR: "ou",
   mDone: "Terminé",
+  mSent: "Sent",
   mRename: "Renommer",
   mMove: "Move",
   mCopy: "Copier",
