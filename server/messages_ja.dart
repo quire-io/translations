@@ -162,16 +162,21 @@ const jaServer = const <String, String> {
   mConfirmPasswordExpired: "パスワード再設定用リンクの有効期限切れ",
   mConfirmEmailExpired: "メールアドレス確認用リンクの有効期限切れ",
   mConfirmExpired: '申し訳ありません。確認用リンクの有効期限切れです。',
+  mPleaseCheckInbox:
+    '<div class="confirm-email"><div class="msg">'
+    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a></div>',
+    '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email today: <b>[=email]</b>.</div>'
+    '[=options]</div>',
+  mPleaseConfirmOptions:
     '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a></div>',
+    '<a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
   mDoneConfirmSignupButtton: "これでOKです。開始します。",

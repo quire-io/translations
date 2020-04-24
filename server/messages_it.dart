@@ -162,16 +162,21 @@ const itServer = const <String, String> {
   mConfirmPasswordExpired: "Conferma Reset Password Scaduta",
   mConfirmEmailExpired: "Email di conferma Scaduta",
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
+  mPleaseCheckInbox:
+    '<div class="confirm-email"><div class="msg">'
+    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
     'Si prega di confermare l\'email entro [=day] giorni: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Re invia</a><a class="hidden">Inviata</a>'
-    '<a href="/r/setting?tab=options">Modifica Email</a></div>',
+    '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
     'Si prega di confermare l\'email oggi: <b>[=email]</b>.</div>'
+    '[=options]</div>',
+  mPleaseConfirmOptions:
     '<a href="javascript:reSignup()">Re invia</a><a class="hidden">Inviata</a>'
-    '<a href="/r/setting?tab=options">Modifica Email</a></div>',
+    '<a href="/r/setting?tab=options">Modifica Email</a>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",

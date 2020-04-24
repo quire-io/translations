@@ -162,16 +162,21 @@ const trServer = const <String, String> {
   mConfirmPasswordExpired: "Parola Sıfırlama Onayı Sona Erdi",
   mConfirmEmailExpired: "E-posta Onayının Süresi Doldu",
   mConfirmExpired: 'Maalesef, onayın süresi doldu.',
+  mPleaseCheckInbox:
+    '<div class="confirm-email"><div class="msg">'
+    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a></div>',
+    '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email today: <b>[=email]</b>.</div>'
+    '[=options]</div>',
+  mPleaseConfirmOptions:
     '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a></div>',
+    '<a href="/r/setting?tab=options">Change Email</a>',
   mConfirmedEmail: "Merhaba, [=email]",
   mConfirmedEmailDesc: "Şimdi hesabınızı hazırlayalım!",
   mDoneConfirmSignupButtton: "İşim bitti, hadi gidelim!",
