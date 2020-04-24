@@ -118,10 +118,10 @@ const trServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Artık küçük ekranlı mobil tarayıcıyı desteklemiyoruz. '
     'Lütfen bunun yerine uygulamamızı indirin.',
-  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredTitle: "Hata!",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    'Hesabınız geçici olarak kilitlendi!.<br/>'
+    'Devam etmek için lütfen e-posta adresinizi onaylayın.',
   m403Title: "Hata!",
   m403Desc:
     "Bu sayfaya erişim izniniz yok.<br/>"
@@ -164,19 +164,19 @@ const trServer = const <String, String> {
   mConfirmExpired: 'Maalesef, onayın süresi doldu.',
   mPleaseCheckInbox:
     '<div class="confirm-email"><div class="msg">'
-    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    'E-postanızı onaylamak için lütfen [=hrefStart]gelen kutunuzu kontrol edin[=hrefEnd]: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    'Lütfen e-postanızı [=day] gün içinde onaylayın: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    'Lütfen e-postanızı bugün onaylayın: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
+    '<a href="javascript:reSignup()">Tekrar Gönder</a><a class="hidden">Gönderildi</a>'
+    '<a href="/r/setting?tab=options">E-posta Değiştir</a>',
   mConfirmedEmail: "Merhaba, [=email]",
   mConfirmedEmailDesc: "Şimdi hesabınızı hazırlayalım!",
   mDoneConfirmSignupButtton: "İşim bitti, hadi gidelim!",
@@ -209,12 +209,12 @@ const trServer = const <String, String> {
     'Görünüşe göre zaten<br>'
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mAlreadyConfirmDesc: 'E-postayı zaten onayladınız.',
+  mSignupConfirmTitle: "Onayınız için teşekkürler",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    '<strong>[=email]</strong> e-posta adresinizi onayladığınız için teşekkürler.<br/>'
     '[=continue]',
-  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
+  mSignupConfirmThenLogin: 'Devam etmek için lüten <a href="/login">buradan giriş yapın</a>.',
   mInviteFriends: "Arkadaşlarını Davet Et",
   mInviteFriendsTitle: "Arkadaşlarınızı davet edin",
   mInviteFriendsDesc: "Quire ile yaşadığınız deneyimin tadını çıkardınız mı? <br/> Arkadaşlarınıza hayallerini kolayca başarabileceklerini bildirin!",
@@ -350,39 +350,38 @@ görüşme ayarlamak isteriz.</p>
 
 <p>Gelecekte böyle bir e-posta almak istemiyorsanız lütfen buradan <a href="[=unsubscribe]">abonelikten çıkın</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Quire ile harika işler başarmak için son bir adım',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Bir tık uzaktasınız!</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Quire kullanmaya devam etmek için lütfen aşağıdaki butonu tıklayarak e-posta adresinizi doğrulayın.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Doğrula</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
 [=footer]
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Quire kaydınızı tamamlayın',
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!</p>
+<p>Umarız Quire ile harika zaman geçirirsiniz!</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>Projeleriniz, e-posta adresinizi onaylamayı unutmuş olabileceğiniz için gerçekten heyecan verici olmalı!
+Lütfen [=day] gün içinde aşağıdaki düğmeyi tıklayarak hala Quire kullandığınızı bize bildirin.
+Aksi takdirde, <b>hesabınızı ve verilerinizi silmemiz</b> gerekebilir. Ve gitmene izin vermeye hazır değiliz...</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">E-posta Adresini doğrulayın</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.
+Ya da, herhangi bir sorun varsa lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.</p>
 
 [=footer]
 ''',
