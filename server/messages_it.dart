@@ -214,7 +214,7 @@ const itServer = const <String, String> {
   mSignupConfirmDesc:
     'Grazie di aver confermato il tuo indirizzo email <strong>[=email]</strong>.<br/>'
     '[=continue]',
-  mSignupConfirmThenLogin: 'i prega di <a href="/login">collegarsi qui</a> per procedere.',
+  mSignupConfirmThenLogin: 'si prega di <a href="/login">collegarsi qui</a> per procedere.',
   mInviteFriends: "Invita Amici",
   mInviteFriendsTitle: "Inviata i tuoi amici a bordo",
   mInviteFriendsDesc: "Ti piace l\' esperienza con Quire?<br/>Fai sapere ai tuoi amici che possono realizzare facilmente anche i loro sogni!",
@@ -374,7 +374,7 @@ una telefonata con te.</p>
 
 <p>I tuoi progetti devono essere così eccitanti che potresti esserti dimenticato di confermare il tuo indirizzo email!
 Ti preghiamo di farci sapere che stai ancora utilizzando Quire cliccando sul bottone sottostante entre [=day] giorni.
-Altrimenti, potremmo dover eliminare il tuo Account e i tuoi dati. E non siamo pronti a lasciarti andare...</p>
+Altrimenti, potremmo dover <b>eliminare il tuo Account e i tuoi dati</b>. E non siamo pronti a lasciarti andare...</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify email address</a>
