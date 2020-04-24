@@ -203,11 +203,13 @@ const enServer = const <String, String> {
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a></div>',
+    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
+    '<a href="/r/setting?tab=options">Change Email</a></div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
     'Please confirm your email today: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Resend</a> <a href="/r/setting?tab=options">Change Email</a></div>',
+    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
+    '<a href="/r/setting?tab=options">Change Email</a></div>',
 
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Let's get your account ready now!",

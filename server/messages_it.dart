@@ -165,11 +165,13 @@ const itServer = const <String, String> {
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
     'Si prega di confermare l\'email entro [=day] giorni: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Re invia</a><a href="/r/setting?tab=options">Modifica Email</a></div>',
+    '<a href="javascript:reSignup()">Re invia</a><a class="hidden">Inviata</a>'
+    '<a href="/r/setting?tab=options">Modifica Email</a></div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
     'Si prega di confermare l\'email oggi: <b>[=email]</b>.</div>'
-    '<a href="javascript:reSignup()">Re invia</a><a href="/r/setting?tab=options">Modifica Email</a></div>',
+    '<a href="javascript:reSignup()">Re invia</a><a class="hidden">Inviata</a>'
+    '<a href="/r/setting?tab=options">Modifica Email</a></div>',
   mConfirmedEmail: "Ciao, [=email]",
   mConfirmedEmailDesc: "Prepariamo il tuo account!",
   mDoneConfirmSignupButtton: "Ho fatto, inziamo!",
