@@ -606,7 +606,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   "AT$atRemoveTask": "[=who] [=what][=value] görevini sildi",
   "AT$atEditTask": "[=who] [=what] görevini şu şekilde düzenledi [=value]",
   "AT$atMoveTask": "[=who] [=what] görevini [=value] öğesine taşıdı",
-  "AT$atComplete": "[=who] [=what] tamamladı",
+  "AT$atComplete": "[=who] [=what] görevini tamamladı",
   "AT$atUncomplete": "[=who] [=what] tekrar açtı",
   "AT$atAssign": "[=who] [=value] üyesini [=what] görevine atadı",
   "AT$atUnassign": "[=who] [=value] üyesini [=what] görevinden çıkardı",
