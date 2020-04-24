@@ -118,7 +118,7 @@ const frServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Nous ne prenons plus en charge les navigateurs mobiles avec des petits écrans. '
     'Veuillez télécharger notre application native à la place.',
-  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredTitle: "Oups !",
   mAccountExpiredDesc:
     'Your account is temporarily locked!.<br/>'
     'To continue, please confirm your email address.',
@@ -168,15 +168,15 @@ const frServer = const <String, String> {
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    'Veuillez confirmer votre adresse email sous [=day] jours : <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    'Veuillez confirmer votre adresse email aujourd\'hui : <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
+    '<a href="javascript:reSignup()">Renvoyer</a><a class="hidden">Envoyé</a>'
+    '<a href="/r/setting?tab=options">Modifier l\'adresse email</a>',
   mConfirmedEmail: "Bonjour, [=email]",
   mConfirmedEmailDesc: "Commençons dès maintenant à préparer votre compte !",
   mDoneConfirmSignupButtton: "D'accord, c'est parti !",
@@ -209,10 +209,10 @@ const frServer = const <String, String> {
     'On dirait que vous vous êtes déjà inscrit avec<br>'
     '<strong>[=email]</strong>.<br>'
     'Veuillez <a href="/login">vous connecter avec</a>.',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mAlreadyConfirmDesc: 'Vous avez déjà confirmé cette adresse email.',
+  mSignupConfirmTitle: "Merci pour votre confirmation",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Merci d\'avoir confirmé votre adresse email <strong>[=email]</strong>.<br/>'
     '[=continue]',
   mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "Inviter des Amis",
@@ -347,39 +347,38 @@ d'organiser un appel avec vous.</p>
 
 <p>Si vous ne voulez plus recevoir des emails similaires dans le futur, veuillez <a href="[=unsubscribe]">vous désabonner</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Une dernière étape avant de faire de grandes choses avec Quire',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>Il ne manque plus qu'un clic !</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Pour continuer à utiliser Quire, veuillez confirmer votre adresse email en cliquant sur le bouton ci-dessous.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Confirmer</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si vous ne reconnaissez pas cette adresse email, veuillez l'ignorer.</p>
 
 [=footer]
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Terminez votre inscription à Quire',
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!</p>
+<p>Nous espérons que vous aimez Quire !</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>Vos projets sont si passionants que vous en avez oublié de confirmer votre adresse email !
+Faites-nous savoir que vous utilisez encore Quire en cliquant sur le bouton ci-dessous sous [=day] jours.
+Sinon, nous risquons de <b>supprimer votre compte et les données associées</b>. Et nous ne sommes pas prêts à vous voir partir...</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">Confirmer l'adresse email</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>Si vous ne reconnaissez pas cette adresse email, veuillez l'ignorer.
+Vous pouvez aussi <a href="mailto:support@quire.io">nous contacter</a> en cas de problème.</p>
 
 [=footer]
 ''',
