@@ -164,7 +164,7 @@ const itServer = const <String, String> {
   mConfirmExpired: 'Ci dispiace, la conferma è scaduta.',
   mPleaseCheckInbox:
     '<div class="confirm-email"><div class="msg">'
-    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    'Si prega di  [=hrefStart]controllare la posta in arrivo[=hrefEnd] per confermare l\'email: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
