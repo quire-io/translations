@@ -95,7 +95,7 @@ const enServer = const <String, String> {
   mFooterLinkSecurity: "Security",
 
   mFooterLinkCategorySupport: "Support & Resources",
-  mFooterLinkUserGuide: "User Guide",
+  mUserGuide: "User Guide",
   mFooterLinkDevelopers: "Developers & API",
 
   mFooterLinkCategoryCompany: "Company",
@@ -215,7 +215,7 @@ const enServer = const <String, String> {
 
   mPleaseConfirmOptions: 
     '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>'
+    '<a href="/r/setting?tab=options">Change Email</a>',
 
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Let's get your account ready now!",

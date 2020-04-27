@@ -187,10 +187,10 @@ const deWeb = const <String, String> {
   mTutorialAddTaskContent:
     "<p>Sei es Ideen, Notizen oder Aufgaben, Sie können sie alle als Aufgaben oder Unteraufgaben ablegen.</p>"
     "<ul>"
-    '<li><strong>Eine Aufgabe hinzufügen</strong>, &mdash; Klicken Sie oben auf das Symbol "+", '
-    'oder drücken Sie einfach die Tastenkombination "t". Drücken Sie (mehrfach) die Eingabetaste, um weitere hinzuzufügen.</li>'
-    "<li><strong>Unteraufgaben hinzufügen</strong>, &mdash; Drücken Sie Tab, um die Aufgabe zu einer Unteraufgabe zu machen.</li>"
-    "<li><strong>Hinzufügen beenden</strong>, &mdash; Drücken Sie Esc.</li>"
+    '<li><strong>Eine Aufgabe hinzufügen</strong> &mdash; Klicken Sie oben auf das Symbol "+", '
+    'oder drücken Sie einfach die Taste "t". Drücken Sie (mehrfach) die Eingabetaste, um weitere hinzuzufügen.</li>'
+    "<li><strong>Unteraufgaben hinzufügen</strong> &mdash; Drücken Sie Tab, um die Aufgabe zu einer Unteraufgabe zu machen.</li>"
+    "<li><strong>Hinzufügen beenden</strong> &mdash; Drücken Sie Esc.</li>"
     "</ul>"
     "<p>Genau wie in einem Textverarbeitungsprogramm!</p>",
   mTutorialSetDueTitle: "Fristen sind auch wichtig",
@@ -291,169 +291,165 @@ const deWeb = const <String, String> {
     "<p>Jetzt, da Sie sich auskennen, können Sie loslegen mit Ihrem Projekt!</p>",
   mTutorialContextmenuTip: "Tipp: Sie können F1 drücken, um eine vollständige Liste der Tastaturkürzel anzuzeigen.",
   mNextTutorial: "Nächstes Tutorial",
-  mBoardTutorialLinkTitle: "Visualize your workflow with Quire Kanban Board",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
-  mSignupToday: "Let's get started in Quire today!",
+  mBoardTutorialLinkTitle: "Visualisieren Sie Ihren Workflow mit Quire Kanban Boards",
+  mSublistTutorialLinkTitle: "Fokussieren Sie sich mit einer Unterliste auf die richtigen Aufgaben",
+  mSignupToday: "Los geht's!",
   mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
   mBoardTutorialDesc:
-    "After dumping and organizing all your ideas in the nested task list view, "
-    "it’s time to work on your project!<br>"
-    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
-    "on selected tasks and visualize your workflow with the Kanban board.",
-  mBoardTutorialAddBoardTitle: "Name Your Board",
+    "Nachdem Sie alle Ihre Ideen in der verschachtelten Aufgabenlistenansicht gespeichert und organisiert haben, "
+    ",ist es Zeit, an Ihrem Projekt zu arbeiten!<br>"
+    '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Konzentrieren Sie sich</a> '
+    "auf ausgewählte Aufgaben und visualisieren Sie Ihren Workflow mit dem Kanban-Board.",
+  mBoardTutorialAddBoardTitle: "Benennen Sie Ihr Board",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>Nachdem Sie unzähligen Aufgaben für den Kinderlauf aufgelistet haben, "
+    "möchten Sie sich jetzt in der Anfangsphase auf einige wichtige Aufgaben konzentrieren. Erstellen Sie einfach ein Board.</p>"
+    '<p>Um ein Board hinzuzufügen, klicken Sie den "+" Button. Hier können Sie ein neues Board erstellen und dieses benennen.</p>',
+  mBoardTutorialAddBoardTip: "Tipp: Sie können mehrere Boards für verschiedene Phasen Ihres Projekts erstellen.",
+  mBoardTutorialAssignBoardTitle: "Beginnen Sie mit dem Hinzufügen von Aufgaben zum Board",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Fügen Sie zunächst vorhandene Aufgaben aus der Aufgabenliste hinzu, auf die Sie sich in dieser Phase konzentrieren möchten.</p>"
+    '<p>Klicken Sie auf das "+" Zeichen in der oberen rechten Ecke einer Spalte und wählen Sie "Vorhandene Aufgaben hinzufügen".</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Wenn Sie in den vorhandenen Aufgaben nichts gefunden haben, was Sie hinzufügen möchten, "
+    "können Sie neue Aufgaben in der Board-Ansicht erstellen.</p>"
+    '<p>Wählen Sie stattdessen "Neue Aufgaben erstellen".</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Hinweis: Die neu erstellten Aufgaben in der Board-Ansicht '
+    "werden auch in der Aufgabenlistenansicht hinzugefügt.</span></p>"
+    '<p><span class="note">Tipp: Durch Drücken von Strg (oder Alt auf dem Mac) werden der Aufgabenpfad angezeigt. '
+    "Dadurch wissen Sie, welche Unteraufgabe zu welcher übergeordneten Aufgabe gehört.</span></p>",
+  mBoardTutorialAssignOthersTitle: "Vergessen Sie die Details nicht",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Sie können detailliertere Informationen hinzufügen, indem Sie Start-/Fälligkeitstermine, Verantwortliche und Tags festlegen.</p>"
+    '<p>Klicken Sie auf die Symbole "Datum", "Beauftragter", "Tag", um zusätzliche Informationen festzulegen.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Tipp: Durch Drücken der Leertaste wird das "
+    '<a href="/w/Getting_Started_with_Quire/45/">Detailfenster</a> angezeigt '
+    "in dem Sie Beschreibungen hinzufügen, Dateien anhängen und Kommentare hinterlassen können.",
+  mBoardTutorialOrganizeProgressTitle: "Verfolgen und organisieren Sie den Fortschritt",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Sie können Aufgaben in der Spalte für eine höhere Priorität neu positionieren. "
+    "Außerdem können Sie Aufgaben zur Fortschrittsverfolgung in verschiedene Spalten ziehen und dort ablegen.</p>"
+    "<p>Jetzt können Sie den Status Ihres Projekts auf einen Blick sehen.</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>Sie haben das Gefühl, dass alle Aufgaben in einer Spalte "
+    "zusammengefasst sind und es immer schwieriger wird, "
+    "die Auslastung und den Status jedes einzelnen Teammitglieds zu erfassen?</p>"
+    "<p>Sie können die Filter- und Sortierfunktion verwenden, um Ihre Aufgaben nach bestimmten Attributen zu gruppieren. "
+    "Beispiel: Gruppieren Sie nach Beauftragten, um die Aufgaben der entsprechenden Teammitglieder anzuzeigen.</p>",
+  mBoardTutorialShortcutTitle: "Nützliche Tastaturkürzel",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Hinzufügen & Bearbeiten</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Um eine neue Aufgabe hinzuzufügen.</li>"
+    "<li><kbd>F2</kbd> &mdash; Um den Namen der Aufgabe zu bearbeiten.</li>"
     "</ul>"
     "<h3>Navigation</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Um zur Aufgabe darüber zu gelangen.</li>"
+    "<li><kbd>↓</kbd> &mdash; Um zur Aufgabe darunter zu gelangen.</li>"
+    "<li><kbd>Space</kbd> &mdash; Um das rechte Detailfenster zu öffnen.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Mehrfachauswahl</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Um mehrere Aufgaben auszuwählen.</li>"
+    "<li><kbd>Strg + A</kbd> &mdash; Um alle Aufgaben auszuwählen.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Verschieben</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Strg + ↑/↓</kbd> &mdash; Um Aufgaben nach oben oder unten zu verschieben.</li>"
+    "<li><kbd> + ←/→</kbd> &mdash; Um Aufgaben nach links oder rechts bzw. in eine höhere oder tiefere Hierarchieebene zu verschieben.</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    "<h3>Aktionen für Aufgaben</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Strg + M</kbd> &mdash; Um ausgewählte Aufgabe(n) sich selbst zuzuweisen.</li>"
+    "<li><kbd>Strg + /</kbd> &mdash; Um ausgewählte Aufgabe(n) abzuschließen.</li>"
+    "<li><kbd>Strg + Z</kbd> &mdash; Um den Bearbeitungsverlauf anzuzeigen.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Kopieren & Einfügen</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Strg + C</kbd> &mdash; Um ausgewählte Aufgabe(n) zu kopieren.</li>"
+    "<li><kbd>Strg + V</kbd> &mdash; Um ausgewählte Aufgabe(n) einzufügen.</li>"
+    "<li><kbd>Strg + X</kbd> &mdash; Um ausgewählte Aufgabe(n) auszuschneiden.</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
-  mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
-    "</p>"
+  mTutorialQuickAssignTitle: "Schnelles Zuweisen",
+  mTutorialQuickAssignContent:
+    '<p>Um schnell Beauftragte, Tags etc. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">ohne Maus</a> hinzuzufügen, '
+    'drücken Sie @, #, <, !, ^, / wenn Aufgaben ausgewählt wurden.</p>'
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Beauftragten hinzufügen</li>"
+    "<li><kbd>#</kbd> &mdash; Tag hinzufügen</li>"
+    "<li><kbd><</kbd> &mdash; Fälligkeitsdatum hinzufügen</li>"
+    "<li><kbd>!</kbd> &mdash; Priorität hinzufügen</li>"
+    "<li><kbd>^</kbd> &mdash; Aufgabe zu einem Board hinzufügen</li>"
+    "<li><kbd>/</kbd> &mdash; Status hinzufügen</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mSublistTutorialTitle: "Quire Tutorial - Sublist",
+  mBoardTutorialContextmenuTitle: "Rechtsklick Kontextmenü",
+  mBoardTutorialContextmenuContent: "Sie können mit der rechten Maustaste auf eine Aufgabe klicken, um das Kontextmenü aufzurufen, um dort Fälligkeitsdatum, Beauftragter, Tags etc. hinzuzufügen.",
+  mBoardTutorialContextmenuTip: "Tipp: Sie können von der Board-Ansicht zur Aufgabenlistenansicht wechseln, um sich einen Überblick über Ihr gesamtes Projekt zu verschaffen.",
+  mBoardTutorialYourBoardTitle: "Erstelle Sie jetzt Ihr eigenes Board!",
+  mBoardTutorialYourBoardContent: "Das ist vorerst alles, was es über Kanban-Boards zu wissen gibt. Probieren Sie es aus!",
+  mSublistTutorialTitle: "Quire Tutorial - Unterliste",
   mSublistTutorialDesc:
-    "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
-    'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
-    'so you can focus on the right tasks at the right time, without any distraction.',
-  mSublistTutorialAddSublistTitle: "Name Your Sublist",
+    "Der Umgang mit einer ständig wachsenden Liste gemeinsamer Aufgaben zwischen Teammitgliedern wird jetzt wirklich einfach!<br>"
+    'Wählen Sie mehrere wichtige Aufgaben aus und fügen Sie sie einer <a href="/blog/p/Quire-sublist.html">personalisierten Unterliste</a> hinzu '
+    'damit Sie sich ohne Ablenkung zur richtigen Zeit auf die richtigen Aufgaben konzentrieren können.',
+  mSublistTutorialAddSublistTitle: "Benennen Sie Ihre Unterliste",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
-  mSublistTutorialAddSublistTip: "Tip: You can create as many sublists as you want for a project.",
-  mSublistTutorialPickTaskTitle: "Select the Right Tasks and Add to Sublist",
+    "<p>Sind Sie es leid, auf die Liste zu schauen, ohne dass ein Ende in Sicht ist? Es gibt zu viele Aufgaben, "
+    "die für Sie nicht relevant sind, aber Sie können sie nicht einfach archivieren, "
+    "da andere Mitglieder noch an diesen Aufgaben arbeiten. Hier kommt die Unterliste ins Spiel!</p>"
+    '<p>Um eine Unterliste hinzuzufügen, klicken Sie auf den "+" Button und wählen Sie "Unterliste hinzufügen".</p>',
+  mSublistTutorialAddSublistTip: "Tipp: Sie können so viele Unterlisten erstellen, wie Sie für ein Projekt möchten.",
+  mSublistTutorialPickTaskTitle: "Aufgaben auswählen und zu einer Unterliste hinzufügen",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Angenommen, Sie arbeiten an einem Projekt "Kinderlauf für wohltätige Zwecke" '
+    'das Hunderte von Aufgaben umfasst. Mindestens 10 Personen arbeiten dafür zusammen. '
+    'Sie können nicht ständig verschiedene Tags erstellen, um die Aufgaben zu organisieren, für die Sie verantwortlich sind. '
+    'Sie können nicht mit Peekaboo die irrelevanten Aufgaben verstauen, da andere Teammitglieder diese noch sehen müssen.</p>'
+    '<p>Atmen Sie tief ein und erstellen Sie Ihre erste Unterliste, um Ihr Problem zu lösen. Wählen Sie einfach die wichtigen Aufgaben aus, '
+    'die Sie gemeinsam sehen möchten und verschieben Sie diese in eine separate Liste. Jetzt haben Sie Ihre eigene Aufgabenliste, auf die Sie sich konzentrieren können, '
+    'ohne sich von allem anderen ablenken zu lassen.</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
-  mSublistTutorialShareTitle: "Share the Sublist with the Right People",
+    "<p>Wenn Sie die Stammaufgabe auswählen und zur Unterliste hinzufügen, "
+    "werden deren Unteraufgaben automatisch zur Liste hinzugefügt.</p>"
+    "<p>Sie können die Unteraufgaben auch getrennt von der Stammaufgabe auswählen "
+    "und zur neu erstellten Unterliste hinzufügen.</p>"
+    "<p>Um die neu erstellte Unterliste von der Hauptliste zu unterscheiden, "
+    "können Sie diese mit Icons versehen und farblich anpassen.</p>",
+  mSublistTutorialShareTitle: "Die Unterliste mit den richtigen Leuten teilen",
   mSublistTutorialShareContent:
-    "<p>After choosing the tasks and adding to a sublist, you can also "
-    "choose with whom you want to share the sublist with. There are three options "
-    "for you to choose from: share with an External Team, share with all of "
-    "the Project Members or keep the sublist private for yourself.</p>",
-  mSublistTutorialSmartNavigationTitle: "Smart Navigation for Better Organization",
+    "<p>Nachdem Sie die Aufgaben ausgewählt und zu einer Unterliste hinzugefügt haben, "
+    "können Sie auch auswählen, mit wem Sie die Unterliste teilen möchten. "
+    "Sie können zwischen drei Optionen wählen: Mit einem externen Team teilen, "
+    "mit allen Projektmitgliedern teilen oder die Unterliste für sich privat halten.</p>",
+  mSublistTutorialSmartNavigationTitle: "Smart navigieren, besser organisieren",
   mSublistTutorialSmartNavigationContent:
-    "<p>There’s no limitation for how many sublists that you can create for a project. "
-    "Each sublist serves as a customized list view for you to get focused and "
-    "organize your tasks.</p>"
-    "<p>When you are having too many sublists, you might want to pin the most used sublists "
-    "(and even boards!) for quick navigation between the main list and its subordinates "
-    "and coordinators.</p>",
-  mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
-  mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
+    "<p>Es gibt keine Einschränkung für die Anzahl der Unterlisten, die Sie für ein Projekt erstellen können. "
+    "Jede Unterliste dient als benutzerdefinierte Listenansicht für Sie, "
+    "damit Sie sich konzentrieren und Ihre Aufgaben organisieren können.</p>"
+    "<p>Wenn Sie viele Unterlisten haben, können Sie die am häufigsten verwendeten anpinnen, "
+    "um schnell zwischen der Hauptliste und deren Unterlisten hin und her zu wechseln.</p>",
+  mSublistTutorialSmartNavigationTip: "Tipp: Sie können die Tabs der Unterlisten neu anordnen.",
+  mSublistTutorialOrganizeTitle: "Organisieren Sie die Aufgaben zwischen verschiedenen Unterlisten",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>Was, wenn Sie die Aufgaben zwischen mehreren Unterlisten anordnen möchten?</p>"
+    "<p>Ziehen Sie die Aufgaben einfach per Drag & Drop, um sie in eine andere Unterliste zu verschieben. Wenn Sie einen Teil der Aufgaben in eine andere Unterliste ablegen, bleibt die Baumstruktur zwischen ihnen als Original erhalten.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
-  mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
-  mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
+    "<p>Wenn Sie an Ihrer Unterliste arbeiten, wirkt sich dies unabhängig von den Änderungen, die Sie an einer Ihrer Unterlisten vornehmen, auf Ihre Hauptliste aus, da diese sich wie ein Spiegel der Hauptliste verhält.</p>"
+    '<p>Wenn Sie schnell zwischen Ansichten hin und her wechseln wollen, nutzen Sie die Tasten "(" oder ")"</p>',
+  mSublistTutorialOrganizeTip: "Tipp: Sie können jederzeit zur Hauptliste zurückkehren, um das Projekt in seiner Gesamtheit zu sehen.",
+  mSublistTutorialTodoTitle: "Bewältigen Sie die vielen Aufgaben im Team",
   mSublistTutorialTodoContent:
-    "<p>Don’t let the stress of an ever-growing to-do list beat you "
-    "and your team productivity! Productivity is all about getting focused on "
-    "the right thing at the right time!</p>"
-    "<p>Now go get things done and achieve your dreams!</p>",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
+    "<p>Lassen Sie sich und Ihre Teamproduktivität nicht von einer "
+    "ständig wachsenden Aufgabenliste stressen! Bei Produktivität geht es darum, "
+    "sich zur richtigen Zeit auf das Richtige zu konzentrieren!</p>"
+    "<p>Also packen wir's an!</p>",
+  mLearnMoreDoc: "Mehr erfahren",
+  mGettingStartedLinkTitle: "Features in unserem Getting Started Guide",
+  mBlogLinkTitle: "News, Tipps und Inspiration in unserem Blog",
   mMobileWelcomeP1Title1: "Willkommen bei ",
   mMobileWelcomeP1Title2: "Quire",
   mMobileWelcomeP2Title: "Von Anfang bis Ende",

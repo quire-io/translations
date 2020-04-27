@@ -86,7 +86,7 @@ const trServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Android APK Dosyasını İndirin",
   mFooterLinkSecurity: "Güvenlik",
   mFooterLinkCategorySupport: "Destek ve Kaynaklar",
-  mFooterLinkUserGuide: "Kullanici Rehberi",
+  mUserGuide: "Kullanici Rehberi",
   mFooterLinkDevelopers: "Geliştiriciler ve API",
   mFooterLinkCategoryCompany: "Şirket",
   mPost: "Gönder",

@@ -86,7 +86,7 @@ const deServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Android APK herunterladen",
   mFooterLinkSecurity: "Sicherheit",
   mFooterLinkCategorySupport: "Support & Ressourcen",
-  mFooterLinkUserGuide: "Benutzerhandbuch",
+  mUserGuide: "Benutzerhandbuch",
   mFooterLinkDevelopers: "Entwickler & API",
   mFooterLinkCategoryCompany: "Unternehmen",
   mPost: "Posten",
