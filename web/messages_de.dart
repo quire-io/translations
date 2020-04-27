@@ -373,8 +373,8 @@ const deWeb = const <String, String> {
     "<li><kbd>Strg + V</kbd> &mdash; Um ausgewählte Aufgabe(n) einzufügen.</li>"
     "<li><kbd>Strg + X</kbd> &mdash; Um ausgewählte Aufgabe(n) auszuschneiden.</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "Schnelles Zuweisen",
-  mTutorialQuickAssignContent:
+  mBoardTutorialQuickAssignTitle: "Schnelles Zuweisen",
+  mBoardTutorialQuickAssignContent:
     '<p>Um schnell Beauftragte, Tags etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">ohne Maus</a> hinzuzufügen, '
     'drücken Sie @, #, <, !, ^, / wenn Aufgaben ausgewählt wurden.</p>'
