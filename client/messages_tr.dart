@@ -40,7 +40,7 @@ const trClient = const <String, String> {
   mReloadNewPartJS:
     'Üzgünüz, Quire\'ın en son sürümünü yükleyemiyoruz.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'Daha fazla detay için, lütfen <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">burayı</a> kontrol edin.',
+    'Daha fazla detay için, lütfen <a href="/guide/clear-cache" target="_blank">burayı</a> kontrol edin.',
   mDeleteBrowserCacheChromeFirefoxEdge: 'Tarayıcının önbelleğe alınmış resimlerini ve dosyalarını silmek ve bu sayfayı yeniden yüklemek için <code> [= ctrlCommand] + Shift + DEL veya [= ctrlCommand] + Shift + Geri </code> tuşlarına tıklayabilirsiniz.',
   mDeleteBrowserCacheSafari: 'Tarayıcının önbelleğini boşaltmak ve bu sayfayı yeniden başlatmak için <code>Option+Command+E</code> tuşlayabilirsiniz.',
   mDeleteBrowserCacheEtc:

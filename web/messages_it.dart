@@ -329,7 +329,7 @@ const itWeb = const <String, String> {
     '<p>Fare clic sulle icone "data", "assegnatario", "etichetta" per impostare ulteriori informazioni.</p>',
   mBoardTutorialAssignOthersTip:
     "Suggerimento: premendo la barra spaziatrice, il "
-    '<a href="/w/Getting_Started_with_Quire/45/">pannello dei dettagli</a> si mostrerà '
+    '<a href="/guide/user-interface#detail-panel">pannello dei dettagli</a> si mostrerà '
     "per aggiungere descrizioni, allegare file, lasciare commenti, ecc...",
   mBoardTutorialOrganizeProgressTitle: "Traccia e organizza i progressi",
   mBoardTutorialOrganizeProgressContent:

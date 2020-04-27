@@ -411,7 +411,7 @@ const enWeb = const <String, String> {
     '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
   mBoardTutorialAssignOthersTip: 
     "Tip: By pressing the Spacebar, the "
-    '<a href="/w/Getting_Started_with_Quire/45/">detail panel</a> will show up '
+    '<a href="/guide/user-interface#detail-panel">detail panel</a> will show up '
     "for you to add descriptions, attach files, leave comments, etc.",
 
   mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",

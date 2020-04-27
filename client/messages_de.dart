@@ -42,7 +42,7 @@ const deClient = const <String, String> {
   mReloadNewPartJS:
     'Sorry, die aktuellste Version von Quire konnte nicht geladen werden.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'Weitere Infos dazu finden Sie <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">hier</a>.',
+    'Weitere Infos dazu finden Sie <a href="/guide/clear-cache" target="_blank">hier</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge: 'Versuchen Sie es mit <code>[=ctrlCommand]+Umschalt+Entf oder [=ctrlCommand]+Umschalt+Rücktaste</code>, um die zwischengespeicherten Dateien des Browsers zu löschen und diese Seite neu zu laden.',
   mDeleteBrowserCacheSafari: 'Versuchen Sie es mit <code>Alt+Cmd+E</code>, um die zwischengespeicherten Dateien des Browsers zu löschen und diese Seite neu zu laden.',
   mDeleteBrowserCacheEtc: 'Versuchen Sie es mit <a href="https://www.go4u.de/browser-cache-leeren.htm" target="_blank">dem Löschen des Browser-Caches</a>, und laden Sie die Seite neu.',

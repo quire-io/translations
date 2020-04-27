@@ -1031,7 +1031,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'Tipp: <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> hinzufügen , '
     'für Schnellzugriff und Benachrichtigungen',
   mTipRightClick:
-    'Tipp: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Rechtsklick</a> '
+    'Tipp: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Rechtsklick</a> '
     'auf Aufgabe(n), um bequem Beauftragte, Priorität und mehr festzulegen!',
   mTipShiftLR:
     'Tipp: Drücken Sie <code>Shift+←</code> oder '

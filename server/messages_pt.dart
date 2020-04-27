@@ -1037,7 +1037,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
     'Dica: Adicione a <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extensão Chrome</a> '
     'para aceder rapidamente ao Quire e receber notificações',
   mTipRightClick:
-    'Dica: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Clique com o botão direito</a> '
+    'Dica: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Clique com o botão direito</a> '
     'nas tarefas para facilmente definir colaboradores, prioridade e muito mais!',
   mTipShiftLR:
     'Dica: Pressione <code>Shift+←</code> ou '

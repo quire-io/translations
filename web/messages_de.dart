@@ -325,7 +325,7 @@ const deWeb = const <String, String> {
     '<p>Klicken Sie auf die Symbole "Datum", "Beauftragter", "Tag", um zusätzliche Informationen festzulegen.</p>',
   mBoardTutorialAssignOthersTip:
     "Tipp: Durch Drücken der Leertaste wird das "
-    '<a href="/w/Getting_Started_with_Quire/45/">Detailfenster</a> angezeigt '
+    '<a href="/guide/user-interface#detail-panel">Detailfenster</a> angezeigt '
     "in dem Sie Beschreibungen hinzufügen, Dateien anhängen und Kommentare hinterlassen können.",
   mBoardTutorialOrganizeProgressTitle: "Verfolgen und organisieren Sie den Fortschritt",
   mBoardTutorialOrganizeProgressContent:

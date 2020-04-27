@@ -42,7 +42,7 @@ const esClient = const <String, String> {
   mReloadNewPartJS:
     'Lo sentimos, la última versión de Quire no se ha podido cargar.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'Puedes encontrar más información <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aquí</a>.',
+    'Puedes encontrar más información <a href="/guide/clear-cache" target="_blank">aquí</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
     'Puedes intentarlo pulsando <code>[=ctrlCommand]+Mayus.+Supr o [=ctrlCommand]+Shift+Retroceso</code> '
     'para borrar los archivos cacheados del navegador y recargar esta página.',

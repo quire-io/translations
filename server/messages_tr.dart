@@ -1036,7 +1036,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     '<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Uzantısı</a> ekleyin',
   mTipRightClick:
     'Uyarı: Atananları, önceliği ve daha fazlasını kolayca ayarlamak için görevlere '
-    '<a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">sağ tıklayın</a>!',
+    '<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">sağ tıklayın</a>!',
   mTipShiftLR:
     'İpucu: Tüm görevleri seviyeye göre daraltmak veya genişletmek için '
     '<code>Shift+←</code> veya <code>Shift+→</code> tuşlarına basın',

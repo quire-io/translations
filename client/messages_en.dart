@@ -49,7 +49,7 @@ const enClient = const <String, String> {
   mReloadNewPartJS: 
     'Sorry, we were unable to get the latest version of Quire.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'For more details, please check out <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">here</a>.',
+    'For more details, please check out <a href="/guide/clear-cache" target="_blank">here</a>.',
 
   mDeleteBrowserCacheChromeFirefoxEdge:
     'You can try to press <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '

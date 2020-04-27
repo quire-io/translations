@@ -1036,7 +1036,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'Tip: Aggiungi l\' <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Estensione per Chrome</a> '
     'per accedere velocemente a Quire ed essere notificato',
   mTipRightClick:
-    'Tip: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Clicca con il tasto destro</a> '
+    'Tip: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Clicca con il tasto destro</a> '
     'su di un\' attività per impostare assegnatari, priorità e altro velocemente!',
   mTipShiftLR:
     'Tip: Premi <code>Shift+←</code> o '

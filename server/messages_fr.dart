@@ -1019,7 +1019,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'Astuce : Ajoutez <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">l\'Extension Chrome</a> '
     'pour accéder rapidement à Quire et recevoir des notifications',
   mTipRightClick:
-    'Astuce : Un <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">clic droit</a> '
+    'Astuce : Un <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">clic droit</a> '
     'sur une tâche vous permet de définir facilement les attributions, la priorité, et bien plus !',
   mTipShiftLR:
     'Astuce : Tapez <code>Maj+←</code> ou '

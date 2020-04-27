@@ -47,7 +47,7 @@ const ptBrClient = const <String, String> {
     '<li>Ou, abra o Quire em uma nova aba do navegador.</li>'
     '<li>Ou, reinicie o seu navegador.</li>'
     '</ul>'
-    'Para mais detalhes, confira <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">aqui</a>.',
+    'Para mais detalhes, confira <a href="/guide/clear-cache" target="_blank">aqui</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
     'Você pode tentar pressionar <code>[=ctrlCommand]+Shift+DEL ou [=ctrlCommand]+Shift+Backspace</code> '
     'para limpar as imagens e arquivos da cache, e recarregar essa página.',

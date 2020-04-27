@@ -1359,7 +1359,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
     'to quickly access Quire and get notified',
   mTipRightClick:
-    'Tip: <a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Right click</a> '
+    'Tip: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Right click</a> '
     'on tasks to easily set assignees, priority and more!',
   mTipShiftLR:
     'Tip: Press <code>Shift+←</code> or '

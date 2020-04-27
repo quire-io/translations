@@ -329,7 +329,7 @@ const jaWeb = const <String, String> {
     '<p>詳細を追加するには、「日付」「担当者」「タグ」アイコンをクリックします。</p>',
   mBoardTutorialAssignOthersTip:
     "ヒント：キーボードで「Space」キーを押すと、"
-    '<a href="/w/Getting_Started_with_Quire/45/">詳細パネル</a>が表示されます。'
+    '<a href="/guide/user-interface#detail-panel">詳細パネル</a>が表示されます。'
     "詳細パネルには説明や添付ファイル、コメントを追加できます。",
   mBoardTutorialOrganizeProgressTitle: "進捗に合わせて整理",
   mBoardTutorialOrganizeProgressContent:

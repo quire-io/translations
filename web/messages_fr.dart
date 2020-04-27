@@ -329,7 +329,7 @@ const frWeb = const <String, String> {
     '<p>Cliquez sur les icônes "date", "attribution", "étiquette" pour ajouter des informations détaillées.</p>',
   mBoardTutorialAssignOthersTip:
     "Astuce : En appuyant sur la barre Espace, le "
-    '<a href="/w/Getting_Started_with_Quire/45/">panneau des détails</a> s\'affichera '
+    '<a href="/guide/user-interface#detail-panel">panneau des détails</a> s\'affichera '
     "pour que vous puissiez ajouter une description, joindre des fichiers, laisser des commentaires...",
   mBoardTutorialOrganizeProgressTitle: "Suivez et organisez votre progression",
   mBoardTutorialOrganizeProgressContent:

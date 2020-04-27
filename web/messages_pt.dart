@@ -329,7 +329,7 @@ const ptWeb = const <String, String> {
     '<p>Clique nos ícones "data", "colaborador", "tag" para definir informações adicionais.</p>',
   mBoardTutorialAssignOthersTip:
     "Dica: Ao pressionar a Barra de Espaço, o "
-    '<a href="/w/Getting_Started_with_Quire/45/">painel de detalhes</a> irá aparecer '
+    '<a href="/guide/user-interface#detail-panel">painel de detalhes</a> irá aparecer '
     "para que possa adicionar descrições, anexar ficheiros, deixar comentários, etc.",
   mBoardTutorialOrganizeProgressTitle: "Acompanhe e Organize o Progresso",
   mBoardTutorialOrganizeProgressContent:

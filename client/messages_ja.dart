@@ -42,7 +42,7 @@ const jaClient = const <String, String> {
   mReloadNewPartJS:
     '申し訳ありません。Quireの最新バージョンを入手できませんでした。<br/><br/>'
     '[=clearCache]<br/><br/>'
-    '詳細を確認するには<a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">ここ</a>をクリックしてください。',
+    '詳細を確認するには<a href="/guide/clear-cache" target="_blank">ここ</a>をクリックしてください。',
   mDeleteBrowserCacheChromeFirefoxEdge:
     '<code>[=ctrlCommand]+Shift+DELまたは[=ctrlCommand]+Shift+Backspace</code>キーを押して'
     'ブラウザにキャッシュされた画像やファイルをクリアし、ページをリロード（再読み込み）してみてください。',

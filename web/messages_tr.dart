@@ -329,7 +329,7 @@ const trWeb = const <String, String> {
     '<p>Ek bilgi ayarlamak için "tarih", "sorumlu", "etiket" simgelerini tıklayın.</p>',
   mBoardTutorialAssignOthersTip:
     "Tip: İpucu: Space tuşuna tıkladığınızda açıklama eklemeniz, dosya eklemeniz, yorum bırakmanız vb. için "
-    '<a href="/w/Getting_Started_with_Quire/45/">ayrıntı paneli</a> '
+    '<a href="/guide/user-interface#detail-panel">ayrıntı paneli</a> '
     "görünecektir.",
   mBoardTutorialOrganizeProgressTitle: "İlerlemeyi İzleyin ve Düzenleyin",
   mBoardTutorialOrganizeProgressContent:

@@ -42,7 +42,7 @@ const itClient = const <String, String> {
   mReloadNewPartJS:
     'Siamo spiacenti. Non riusciamo a verificare l\'ultima versione di Quire.<br/><br/>'
     '[=clearCache]<br/><br/>'
-    'Per maggiori dettagli, per favore controlla <a href="https://quire.io/w/Getting_Started_with_Quire/158" target="_blank">qui</a>.',
+    'Per maggiori dettagli, per favore controlla <a href="/guide/clear-cache" target="_blank">qui</a>.',
   mDeleteBrowserCacheChromeFirefoxEdge:
     'Puoi provare premendo <code>[=ctrlCommand]+Shift+DEL or [=ctrlCommand]+Shift+Backspace</code> '
     'per pulire le immagini ed i file nella cache del browser e ricaricare la pagina.',

@@ -1036,7 +1036,7 @@ is any issue.</p>
     'ヒント：<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chromeの拡張機能</a>を追加して、'
     'かんたんにQuireにアクセスし、通知を受け取る',
   mTipRightClick:
-    'ヒント：タスクを<a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">右クリック</a>して、'
+    'ヒント：タスクを<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">右クリック</a>して、'
     '担当者や優先度をかんたんに設定',
   mTipShiftLR:
     'ヒント：<code>Shift+←</code>または'

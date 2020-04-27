@@ -1036,7 +1036,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
     'Consejo: Añade la <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extension de Chrome</a> '
     'para acceder rápidamente a Quire y recibir notificaciones',
   mTipRightClick:
-    'Consejo: ¡<a href="/w/Getting_Started_with_Quire/111/Right_click_on_task(..." target="_blank">Haz clic con el botón derecho</a> '
+    'Consejo: ¡<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Haz clic con el botón derecho</a> '
     'en las tareas para asignarlas fácilmente, establecer prioridades y más!',
   mTipShiftLR:
     'Consejo: Pulsa <code>Shift+←</code> o '
