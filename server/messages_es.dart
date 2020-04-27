@@ -118,7 +118,7 @@ const esServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Los navegadores móviles con pantalla pequeña ya no son compatibles. '
     'Por favor, descarga en su lugar nuestra aplicación nativa.',
-  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredTitle: "¡Uy!",
   mAccountExpiredDesc:
     'Your account is temporarily locked!.<br/>'
     'To continue, please confirm your email address.',
@@ -164,19 +164,19 @@ const esServer = const <String, String> {
   mConfirmExpired: 'Lo sentimos, la confirmación ha caducado.',
   mPleaseCheckInbox:
     '<div class="confirm-email"><div class="msg">'
-    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    'Por favor, [=hrefStart]comprueba su bandeja de entrada[=hrefEnd] para confirmar tu correo electrónico: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    'Por favor, confirma tu correo electrónico en [=day] días: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    'Por favor, confirma tu correo electrónico hoy: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
+    '<a href="javascript:reSignup()">Reenviar</a><a class="hidden">Enviado a</a>'
+    '<a href="/r/setting?tab=options">Cambiar correo electrónico</a>',
   mConfirmedEmail: "Hola, [=email]",
   mConfirmedEmailDesc: "¡Pongamos a punto tu cuenta!",
   mDoneConfirmSignupButtton: "¡Estoy listo, vamos!",
@@ -209,12 +209,12 @@ const esServer = const <String, String> {
     'Parece que ya estás registrado como<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicia sesión aquí</a>.',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mAlreadyConfirmDesc: 'Ya has confirmado el correo electrónico',
+  mSignupConfirmTitle: "Gracias por tu confirmación",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Gracias por confirmar tu dirección de correo electrónico <strong>[=email]</strong>.<br/>'
     '[=continue]',
-  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
+  mSignupConfirmThenLogin: 'Por favor, <a href="/login">inicia sesión</a> para proceder.',
   mInviteFriends: "Invitar Amigos",
   mInviteFriendsTitle: "Invita a tus amigos a que se unan",
   mInviteFriendsDesc: "¿Disfrutas de la experiencia con Quire?<br/>¡Haz que tus amigos sepan lo fácil que es hacer realidad sus sueños!",
@@ -350,39 +350,39 @@ una llamada para comentarlo contigo.</p>
 
 <p>Si no deseas recibir correos electrónicos como este en el futuro, por favor <a href="[=unsubscribe]">date de baja aquí</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Un último paso para lograr grandes cosas con Quire',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>¡Estás a un solo clic</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Para continuar usando Quire, por favor verifica tu direccion de correo electrónico pulsando en el botón de abajo.</p>
 
 <p class="text-center">
   <a href="[=link]" class="btn">Verify</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Si no reconoces este correo electrónico, por favor, ignóralo.</p>
 
 [=footer]
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Completa tu registro en Quire',
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!</p>
+<p>¡Esperamos que te guste Quire!</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>¡Tus proyectos seguro que son muy emocionantes y es posible que hayas olvidado confirmar tu dirección de correo electrónico!
+Por favor, haznos saber que todavía estas usando Quire pulsando en el botón de abajo dentro de [=day] días.
+De lo contrario, nos vemos en la obligación de <b>eliminar tu cuenta y datos</b>. Y no queremos que esto ocurra...</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">Verifica la dirección de correo electrónico</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>Si no reconoces este correo electrónico, por favor, ignóralo.
+o, por favor <a href="mailto:support@quire.io">contáctanos</a> si hay
+algún problema.</p>
 
 [=footer]
 ''',
@@ -1431,7 +1431,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileHome: "Página de inicio",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Buscar tareas en otros proyectos",
-  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTasksFoundIn: "TAREAS ENCONTRADAS",
   mMobileTabNotification: "Notificaciones",
   mMobileTabMyTasks: "Mis Tareas"
 };
