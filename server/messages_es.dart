@@ -86,7 +86,7 @@ const esServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Descargar Android APK",
   mFooterLinkSecurity: "Seguridad",
   mFooterLinkCategorySupport: "Soporte y Recursos",
-  mUserGuide: "Guía de usuario",
+  mUserGuide: "Guide",
   mFooterLinkDevelopers: "Desarrolladores y API",
   mFooterLinkCategoryCompany: "Empresa",
   mPost: "Publicar",

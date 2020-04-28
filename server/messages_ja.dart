@@ -86,7 +86,7 @@ const jaServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Android APKファイルをダウンロード",
   mFooterLinkSecurity: "セキュリティ",
   mFooterLinkCategorySupport: "サポート＆ヘルプ",
-  mUserGuide: "ユーザーガイド",
+  mUserGuide: "Guide",
   mFooterLinkDevelopers: "開発者＆API",
   mFooterLinkCategoryCompany: "会社",
   mPost: "投稿",

@@ -86,7 +86,7 @@ const ptServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Download Android APK",
   mFooterLinkSecurity: "Segurança",
   mFooterLinkCategorySupport: "Suporte e Recursos",
-  mUserGuide: "Manual do Utilizador",
+  mUserGuide: "Guide",
   mFooterLinkDevelopers: "Desenvolvedores e API",
   mFooterLinkCategoryCompany: "Companhia",
   mPost: "Publicar",

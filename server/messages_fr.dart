@@ -86,7 +86,7 @@ const frServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Télécharger l'APK Android",
   mFooterLinkSecurity: "Sécurité",
   mFooterLinkCategorySupport: "Support et Ressources",
-  mUserGuide: "Guide d'utilisation",
+  mUserGuide: "Guide",
   mFooterLinkDevelopers: "Développeurs et API",
   mFooterLinkCategoryCompany: "Compagnie",
   mPost: "Envoyer",

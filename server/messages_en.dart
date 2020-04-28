@@ -95,7 +95,7 @@ const enServer = const <String, String> {
   mFooterLinkSecurity: "Security",
 
   mFooterLinkCategorySupport: "Support & Resources",
-  mUserGuide: "User Guide",
+  mUserGuide: "Guide",
   mFooterLinkDevelopers: "Developers & API",
 
   mFooterLinkCategoryCompany: "Company",

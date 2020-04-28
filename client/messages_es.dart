@@ -181,6 +181,7 @@ const esClient = const <String, String> {
   mUnarchive: "Desarchivar",
   mOR: "o",
   mDone: "Hecho",
+  mResendEmail: "Resend Email",
   mSent: "Enviado",
   mRename: "Renombrar",
   mMove: "Move",
