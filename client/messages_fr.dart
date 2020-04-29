@@ -181,7 +181,7 @@ const frClient = const <String, String> {
   mUnarchive: "Désarchiver",
   mOR: "ou",
   mDone: "Terminé",
-  mResendEmail: "Resend Email",
+  mResendEmail: "Renvoyer l'email",
   mSent: "Envoyé",
   mRename: "Renommer",
   mMove: "Move",
