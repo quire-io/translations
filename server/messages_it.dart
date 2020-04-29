@@ -86,7 +86,7 @@ const itServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Scarica l\' APK Android",
   mFooterLinkSecurity: "Sicurezza",
   mFooterLinkCategorySupport: "Supporto e Risorse",
-  mUserGuide: "Guide",
+  mUserGuide: "Guida",
   mFooterLinkDevelopers: "Sviluppatori & API",
   mFooterLinkCategoryCompany: "Azienda",
   mPost: "Invia",
