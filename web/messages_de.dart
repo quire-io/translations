@@ -185,7 +185,7 @@ const deWeb = const <String, String> {
     '<p>Um ein Projekt hinzuzufügen, klicken Sie oben rechts in Ihrem Arbeitsbereich auf das Symbol "+".</p>',
   mTutorialAddTaskTitle: "Befüllen Sie Ihre Projekte",
   mTutorialAddTaskContent:
-    "<p>Sei es Ideen, Notizen oder Aufgaben, Sie können sie alle als Aufgaben oder Unteraufgaben ablegen.</p>"
+    "<p>Ideen, Notizen oder Aufgaben können Sie allesamt als Aufgaben oder Unteraufgaben ablegen.</p>"
     "<ul>"
     '<li><strong>Eine Aufgabe hinzufügen</strong> &mdash; Klicken Sie oben auf das Symbol "+", '
     'oder drücken Sie einfach die Taste "t". Drücken Sie (mehrfach) die Eingabetaste, um weitere hinzuzufügen.</li>'
@@ -201,7 +201,7 @@ const deWeb = const <String, String> {
   mTutorialAssigneeContent:
     "<p>Sie haben eine Aufgabe namens Sponsoren. Aber wer ist dafür verantwortlich, diese zu finden?</p>"
     '<p>Um jemandem eine Aufgabe zuzuweisen, klicken Sie auf das Symbol "Beauftragter" der Aufgabe und geben Sie seine E-Mail-Adresse ein.</p>'
-    '<p><span class="note">Hinweis: Diese Person erhält eine Einladung in seinem E-Mail-Posteingang.</span></p>'
+    '<p><span class="note">Hinweis: Diese Person erhält eine Einladung via E-Mail.</span></p>'
     "<p>[=img]</p>"
     '<p><span class="note">Tipp: Sie können mehreren Personen eine Aufgabe zuweisen, indem Sie den Mauszeiger über deren Namen bewegen '
     'und auf das "+" rechts neben jedem Namen klicken.</span></p>',
@@ -214,18 +214,18 @@ const deWeb = const <String, String> {
   mTutorialTagTip: "Tipp: Sie können Aufgaben nach Tags filtern, um nur eine Gruppe von Aufgaben mit diesen Tags anzuzeigen.",
   mTutorialAutocompleteTitle: "Schnell hinzufügen, während Sie tippen",
   mTutorialAutocompleteContent:
-    "<p>Was, wenn Sie alles auf einmal hinzufügen und zuweisen könnten?</p>"
-    "<p>Wenn Sie eine Aufgabe hinzufügen, können Sie <strong>&lt;&gt;</strong> eingeben, um eine "
-    "<strong>Frist</strong>, <strong>@</strong>, um einen <strong>Beauftragten</strong>, "
+    "<p>Was, wenn Sie alles auf einmal hinzufügen und zuweisen wollen?</p>"
+    "<p>Wenn Sie eine Aufgabe hinzufügen, können Sie spitze Klammer (<strong>&lt;&gt;</strong>) nutzen, um eine "
+    "<strong>Frist</strong> festzulegen, <strong>@</strong>, um einen <strong>Beauftragten</strong> zuzuweisen, "
     "und <strong>#</strong> um ein <strong>Tag</strong> hinzuzufügen. "
     'So zum Beispiel: "Eine Liste mit Werbeartikeln erstellen &lt;Freitag&gt; @David #Promotion".</p>',
   mTutorialDetailPanelTitle: "Details Details",
   mTutorialDetailPanelContent:
     "<p>Oft braucht eine Aufgabe etwas mehr Informationen, um verständlich zu sein.</p>"
-    "<p>Sie können Details zu einer Aufgabe hinzufügen &mdash; einschließlich Beschreibung und Anhänge &mdash; "
-    'nach dem Klicken auf "&lt;&lt;" in der oberen rechten Ecke. Dort können Sie auch chatten, diskutieren '
+    "<p>Sie können Details &mdash; einschließlich Beschreibung und Anhänge &mdash; zu einer Aufgabe hinzufügen "
+    'indem Sie auf "&lt;&lt;" in der oberen rechten Ecke klicken. Dort können Sie auch chatten, diskutieren '
     "und sich mit anderen Teammitgliedern austauschen.</p>"
-    '<p>Um Ihre Beschreibung oder Ihr Kommentar zu formatieren (z.B. fett machen), schauen Sie mal hier vorbei: '
+    '<p>Um eine Beschreibung oder ein Kommentar zu formatieren (z.B. fett machen), schauen Sie mal hier vorbei: '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
   mTutorialDetailPanelTip: 'Tipp: Sie können auf das Symbol "Pin" klicken, um das Detailfenster geöffnet zu lassen.',
   mTutorialDragTaskTitle: "Organisieren Sie, was Sie abgeladen haben",
@@ -297,14 +297,14 @@ const deWeb = const <String, String> {
   mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
   mBoardTutorialDesc:
     "Nachdem Sie alle Ihre Ideen in der verschachtelten Aufgabenlistenansicht gespeichert und organisiert haben, "
-    ",ist es Zeit, an Ihrem Projekt zu arbeiten!<br>"
+    "ist es Zeit, an Ihrem Projekt zu arbeiten!<br>"
     '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Konzentrieren Sie sich</a> '
     "auf ausgewählte Aufgaben und visualisieren Sie Ihren Workflow mit dem Kanban-Board.",
   mBoardTutorialAddBoardTitle: "Benennen Sie Ihr Board",
   mBoardTutorialAddBoardContent:
-    "<p>Nachdem Sie unzähligen Aufgaben für den Kinderlauf aufgelistet haben, "
-    "möchten Sie sich jetzt in der Anfangsphase auf einige wichtige Aufgaben konzentrieren. Erstellen Sie einfach ein Board.</p>"
-    '<p>Um ein Board hinzuzufügen, klicken Sie den "+" Button. Hier können Sie ein neues Board erstellen und dieses benennen.</p>',
+    "<p>Nachdem Sie alle Aufgaben für den Kinderlauf aufgelistet haben, "
+    "möchten Sie sich jetzt in der Anfangsphase auf einige wichtige Aufgaben konzentrieren. Erstellen Sie dazu einfach ein Board.</p>"
+    '<p>Um ein Board hinzuzufügen, klicken Sie den "+" Button. Hier können Sie ein neues Board anlegen und dieses benennen.</p>',
   mBoardTutorialAddBoardTip: "Tipp: Sie können mehrere Boards für verschiedene Phasen Ihres Projekts erstellen.",
   mBoardTutorialAssignBoardTitle: "Beginnen Sie mit dem Hinzufügen von Aufgaben zum Board",
   mBoardTutorialAssignBoardContent:
@@ -313,7 +313,7 @@ const deWeb = const <String, String> {
     "<p>[=img]</p>"
     "<p>Wenn Sie in den vorhandenen Aufgaben nichts gefunden haben, was Sie hinzufügen möchten, "
     "können Sie neue Aufgaben in der Board-Ansicht erstellen.</p>"
-    '<p>Wählen Sie stattdessen "Neue Aufgaben erstellen".</p>',
+    '<p>Wählen Sie dafür "Neue Aufgaben erstellen".</p>',
   mBoardTutorialAssignBoardTip:
     '<p><span class="note">Hinweis: Die neu erstellten Aufgaben in der Board-Ansicht '
     "werden auch in der Aufgabenlistenansicht hinzugefügt.</span></p>"
@@ -394,7 +394,7 @@ const deWeb = const <String, String> {
   mSublistTutorialTitle: "Quire Tutorial - Unterliste",
   mSublistTutorialDesc:
     "Der Umgang mit einer ständig wachsenden Liste gemeinsamer Aufgaben zwischen Teammitgliedern wird jetzt wirklich einfach!<br>"
-    'Wählen Sie mehrere wichtige Aufgaben aus und fügen Sie sie einer <a href="/blog/p/Quire-sublist.html">personalisierten Unterliste</a> hinzu '
+    'Wählen Sie mehrere wichtige Aufgaben aus und fügen Sie sie einer <a href="/blog/p/Quire-sublist.html">personalisierten Unterliste</a> hinzu, '
     'damit Sie sich ohne Ablenkung zur richtigen Zeit auf die richtigen Aufgaben konzentrieren können.',
   mSublistTutorialAddSublistTitle: "Benennen Sie Ihre Unterliste",
   mSublistTutorialAddSublistContent:
@@ -402,11 +402,11 @@ const deWeb = const <String, String> {
     "die für Sie nicht relevant sind, aber Sie können sie nicht einfach archivieren, "
     "da andere Mitglieder noch an diesen Aufgaben arbeiten. Hier kommt die Unterliste ins Spiel!</p>"
     '<p>Um eine Unterliste hinzuzufügen, klicken Sie auf den "+" Button und wählen Sie "Unterliste hinzufügen".</p>',
-  mSublistTutorialAddSublistTip: "Tipp: Sie können so viele Unterlisten erstellen, wie Sie für ein Projekt möchten.",
+  mSublistTutorialAddSublistTip: "Tipp: Sie können für ein Projekt beliebig viele Unterlisten erstellen.",
   mSublistTutorialPickTaskTitle: "Aufgaben auswählen und zu einer Unterliste hinzufügen",
   mSublistTutorialPickTaskContent:
-    '<p>Angenommen, Sie arbeiten an einem Projekt "Kinderlauf für wohltätige Zwecke" '
-    'das Hunderte von Aufgaben umfasst. Mindestens 10 Personen arbeiten dafür zusammen. '
+    '<p>Angenommen, Sie arbeiten an einem Projekt "Kinderlauf für wohltätige Zwecke", '
+    'das hunderte von Aufgaben umfasst. Mindestens 10 Personen arbeiten dafür zusammen. '
     'Sie können nicht ständig verschiedene Tags erstellen, um die Aufgaben zu organisieren, für die Sie verantwortlich sind. '
     'Sie können nicht mit Peekaboo die irrelevanten Aufgaben verstauen, da andere Teammitglieder diese noch sehen müssen.</p>'
     '<p>Atmen Sie tief ein und erstellen Sie Ihre erste Unterliste, um Ihr Problem zu lösen. Wählen Sie einfach die wichtigen Aufgaben aus, '
@@ -424,7 +424,7 @@ const deWeb = const <String, String> {
     "<p>Nachdem Sie die Aufgaben ausgewählt und zu einer Unterliste hinzugefügt haben, "
     "können Sie auch auswählen, mit wem Sie die Unterliste teilen möchten. "
     "Sie können zwischen drei Optionen wählen: Mit einem externen Team teilen, "
-    "mit allen Projektmitgliedern teilen oder die Unterliste für sich privat halten.</p>",
+    "mit allen Projektmitgliedern teilen oder die Unterliste privat halten.</p>",
   mSublistTutorialSmartNavigationTitle: "Smart navigieren, besser organisieren",
   mSublistTutorialSmartNavigationContent:
     "<p>Es gibt keine Einschränkung für die Anzahl der Unterlisten, die Sie für ein Projekt erstellen können. "
