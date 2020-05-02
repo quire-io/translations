@@ -86,7 +86,7 @@ const jaServer = const <String, String> {
   mFooterLinkDownloadAndroidAPK: "Android APKファイルをダウンロード",
   mFooterLinkSecurity: "セキュリティ",
   mFooterLinkCategorySupport: "サポート＆ヘルプ",
-  mUserGuide: "Guide",
+  mUserGuide: "ガイド",
   mFooterLinkDevelopers: "開発者＆API",
   mFooterLinkCategoryCompany: "会社",
   mPost: "投稿",
@@ -118,7 +118,7 @@ const jaServer = const <String, String> {
   mMobileBrowserNotSupported:
     '画面の小さいモバイルブラウザでのサポートは終了しました。'
     'ネイティブアプリをダウンロードしてください。',
-  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredTitle: "残念！",
   mAccountExpiredDesc:
     'Your account is temporarily locked!.<br/>'
     'To continue, please confirm your email address.',
@@ -168,11 +168,11 @@ const jaServer = const <String, String> {
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    '[=day]日以内にメールアドレスを確定してください：<b>[=email]</b>。</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    '本日中にメールアドレスを確定してください：<b>[=email]</b>。</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
     '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
@@ -209,10 +209,10 @@ const jaServer = const <String, String> {
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mAlreadyConfirmDesc: 'このメールアドレスはすでに確認済みです。',
+  mSignupConfirmTitle: "ご確認いただきありがとうございます",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'メールアドレス<strong>[=email]</strong>をご確認いただき、ありがとうございます。<br/>'
     '[=continue]',
   mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
   mInviteFriends: "友人を招待",
@@ -350,39 +350,39 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 
 <p>こうしたメールの受け取りを希望しない場合は、<a href="[=unsubscribe]">ここから配信を停止</a>してください。</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Quireで目標を達成するための、最後のステップ',
   mEmailSignupContent: '''
 [=header]
 
-<p>You are one click away!</p>
+<p>あとワンクリックです。</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Quireのご利用を続けるには、下のボタンをクリックしてメールアドレスを確定してください。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">確定</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>このメールにお心当たりがない場合は、破棄してください。</p>
 
 [=footer]
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Quireへの登録を完了してください',
   mEmailSignupDeletionContent: '''
 [=header]
 
-<p>We hope you are having a great time with Quire!</p>
+<p>Quireをお楽しみいただいているでしょうか。</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>プロジェクトに熱中して、メールアドレスのご確定をお忘れではありませんか。
+下のボタンを[=day]日以内にクリックして、Quireをご利用になっていることをお知らせください。
+お知らせがない場合、<b>アカウントと関連データ</b>が削除される可能性があります。できればとどまっていただきたいのですが……。</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">メールアドレスを確定</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>このメールにお心当たりがない場合は、破棄してください。
+ご質問等がありましたら、ぜひ<a href="mailto:support@quire.io">私たちまでご連絡</a>
+ください。</p>
 
 [=footer]
 ''',
@@ -1423,7 +1423,7 @@ is any issue.</p>
   mMobileNewNotification: "新しい通知",
   mMobileUndoList: "元に戻す操作の一覧",
   mMobileVisitTo: "[=name]にアクセス",
-  mMobileResultFoundIn: "以下のプロジェクトに見つかりました",
+  mMobileResultFoundIn: "以下の場所に見つかりました",
   mMobileSidebarBookmarks: "ブックマーク",
   mMobileSidebarRecent: "閲覧履歴",
   mMobileSidebarSmartFolders: "スマートフォルダー",
@@ -1431,7 +1431,7 @@ is any issue.</p>
   mMobileHome: "トップ",
   mMobileShow: "表示",
   mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索",
-  mMobileTasksFoundIn: "TASKS FOUND IN",
+  mMobileTasksFoundIn: "以下の場所に見つかりました",
   mMobileTabNotification: "通知",
   mMobileTabMyTasks: "自分のタスク"
 };
