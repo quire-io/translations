@@ -186,7 +186,7 @@ const ptClient = const <String, String> {
   mUnarchive: "Desarquivar",
   mOR: "ou",
   mDone: "Feito",
-  mResendEmail: "Resend Email",
+  mResendEmail: "Reenviar Email",
   mSent: "Enviado",
   mRename: "Renomear",
   mMove: "Move",
