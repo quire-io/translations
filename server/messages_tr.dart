@@ -260,7 +260,7 @@ const trServer = const <String, String> {
   mSignupProject: "[=user] Projesi",
   mEmailWelcomeSubject: "Quire'i şimdiye kadar nasıl buluyorsun?",
   mEmailWelcomeContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Sizi hesabınızda görmekten dolayı çok heyecanlıyız!</p>
 
@@ -291,7 +291,7 @@ diğer kullanıcıların size ilham verebileceğini ve motive edebileceğini dü
 ''',
   mEmailValueProposalSubject: "Quire'de eksik olabilirsiniz",
   mEmailValueProposalContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Biliyorum, Quire için yenisin. Gözünden kaçmaması için sana Quire
 hakkında başkalarının sevdiği birkaç şey söylemek istiyorum.:</p>
@@ -352,7 +352,7 @@ görüşme ayarlamak isteriz.</p>
 ''',
   mEmailSignupSubject: 'Quire ile harika işler başarmak için son bir adım',
   mEmailSignupContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Bir tık uzaktasınız!</p>
 
@@ -364,11 +364,12 @@ görüşme ayarlamak isteriz.</p>
 
 <p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailSignupDeletionSubject: 'Quire kaydınızı tamamlayın',
   mEmailSignupDeletionContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Umarız Quire ile harika zaman geçirirsiniz!</p>
 
@@ -383,21 +384,23 @@ Aksi takdirde, <b>hesabınızı ve verilerinizi silmemiz</b> gerekebilir. Ve git
 <p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.
 Ya da, herhangi bir sorun varsa lütfen <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailProfileChangeSubject: 'Quire: Profiliniz güncellendi',
   mEmailProfileChangeContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Profilinizde [=fields] alanlarını değiştirdiğinizi bildirmek için yazıyoruz.</p>
 
 <p>Değişikliği yapmadıysanız, lütfen hemen <a href="mailto:support@quire.io">bizimle iletişime geçin.</a></p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailInviteSubject: "Quire: Katılmaya davetlisiniz - [=host]",
   mEmailInviteContent: '''
-[=header]
+<p class="hi-row">Merhaba,</p>
 
 <p>[=invitor] tarafından [=hostType] topluluğuna davet edildiniz: [=host].</p>
 
@@ -407,10 +410,11 @@ Ya da, herhangi bir sorun varsa lütfen <a href="mailto:support@quire.io">biziml
   <a href="[=link]" class="btn">Daveti kabul et</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailInviteExistsUserContent: '''
-[=header]
+<p class="hi-row">Merhaba,</p>
 
 <p>[=invitor] tarafından [=hostType]: [=host] katılmaya davet edildiniz.</p>
 
@@ -420,11 +424,12 @@ Ya da, herhangi bir sorun varsa lütfen <a href="mailto:support@quire.io">biziml
 
 <p>Eğer davetiyeyi reddetmek istiyorsanız, lütfen <a href="[=declineLink]">buraya</a> tıklayın.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailInviteFriendsSubject: "[=name] sizi Quire'a davet etti",
   mEmailInviteFriendsContent: '''
-[=header]
+<p class="hi-row">Merhaba,</p>
 
 <p>[=invitor] ([=email]) sizi <a href="https://quire.io">Quire</a>'a davet etti;
 herkesin keyif aldığı bir proje yönetimi çözümü.</p>
@@ -435,11 +440,12 @@ herkesin keyif aldığı bir proje yönetimi çözümü.</p>
   <a href="[=link]" class="btn">Daveti kabul et</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
   mEmailDeleteAccountContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>You have permanently deleted your Quire account.</p>
 
@@ -460,13 +466,14 @@ A couple of words would mean a lot to us.</p>
 <p>The Quire Team</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Size bildirmek için yazıyoruz:</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 
 <hr class="end"/>
 
@@ -474,13 +481,14 @@ A couple of words would mean a lot to us.</p>
 ''',
   mEmailDigestSubject: "Quire: Sizin için toplam [=count] bildirim",
   mEmailDigestContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Sizin için toplam [=count] bildirimi var:</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 
 <hr class="end"/>
 
@@ -488,7 +496,7 @@ A couple of words would mean a lot to us.</p>
 ''',
   mEmailEmailChangeSubject: "Quire: Lütfen yeni e-posta adresinizi doğrulayın",
   mEmailEmailChangeContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Kısa bir süre önce Quire hesabınız için yeni bir e-posta adresi güncellediniz.</p>
 
@@ -500,11 +508,12 @@ A couple of words would mean a lot to us.</p>
 
 <p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailEmailChangeNotificationSubject: "Quire: Birincil e-posta adresiniz değiştirildi",
   mEmailEmailChangeNotificationContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Birincil e-posta adresinizi <b>[=newEmail]</b> olarak değiştirdiğinizi bildirmek 
 için yazıyoruz.</p>
@@ -516,11 +525,12 @@ birincil e-posta adresinize gönderilecektir.</p>
 <p>Değişikliği yapmadıysanız, lütfen hemen
 <a href="mailto:support@quire.io">bizimle iletişime geçin</a>.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailAddEmailSubject: "Quire: Lütfen yeni e-posta adresinizi doğrulayın",
   mEmailAddEmailContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Yeni e-posta adresinizi doğrulamak için lütfen önümüzdeki 12 saat içinde aşağıdaki butonu tıklayın.</p>
 
@@ -530,11 +540,12 @@ birincil e-posta adresinize gönderilecektir.</p>
 
 <p>Bu e-postayı tanımıyorsanız, lütfen dikkate almayın.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailForgotPasswordSubject: "Quire: Lütfen şifrenizi sıfırlayın",
   mEmailForgotPasswordContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Bu e-postayı, Quire şifrenizi kaybettiğiniz için alıyorsunuz.</p>
 
@@ -544,15 +555,17 @@ birincil e-posta adresinize gönderilecektir.</p>
   <a href="[=link]" class="btn">Şifreyi yenile</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailInviteConfirmedSubject: "[=inviteeName] Quire davetinizi kabul etti",
   mEmailInviteConfirmedContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>Davetiyeniz üzerine, [=invitee] ([=inviteeEmail]) Quire'a başarıyla katıldı.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailContentHeader: '<p class="hi-row">Merhaba,</p>',
   mEmailContentHeaderWithUser: '<p class="hi-row">Merhaba [=name],</p>',
@@ -572,42 +585,46 @@ birincil e-posta adresinize gönderilecektir.</p>
     '<p class="end-row-2">Quire Ekibi</p>',
   mEmailLeaveMemberSubject: "Quire: [=member] [=target]'tan ayrıldı",
   mEmailLeaveMemberContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>[=member] ([=memberEmail]) üyesinin [=target]'dan ayrıldığını bildirmek için yazıyoruz.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailNewProjectSubject: "Quire: [=member] [=project]'ni oluşturdu",
   mEmailNewProjectContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>[=member] ([=memberEmail]) kullanıcısının [=project]'sini oluşturduğunu bildirmek için yazıyoruz.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailDeleteHostSubject: "Quire: [=member] [=host] sildi",
   mEmailDeleteHostContent: '''
-[=header]
+<p class="hi-row">Merhaba [=name],</p>
 
 <p>[=member] ([=memberEmail]) üyesinin "[=host]" sildiğini bildirmek için yazıyoruz.</p>
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailAppRejectedSubject: "[=app] reddedildi",
   mEmailAppRejectedContent: '''
-[=header]
+<p class="hi-row">Merhaba,</p>
 
 <p>[=app] uygulamanızın <a href="https://quire.io/terms" target="_blank">Hizmet Şartları</a>mızı 
 ihlal ettiği için reddedildiğini bildirmek için yazıyoruz.
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mEmailAppBannedSubject: "[=app] uygulaması [=days] gün yasaklandı",
   mEmailAppBannedContent: '''
-[=header]
+<p class="hi-row">Merhaba,</p>
 
 <p>[=app] uygulamanızın <a href="https://quire.io/terms" target="_blank">Hizmet Şartları</a>mızı
 ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
@@ -615,7 +632,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">Teşekkürler,</p>
+<p class="end-row-2">Quire Ekibi</p>
 ''',
   mSummaryUnknown: "Etkinlik Güncellemesi",
   mExtraValue: ". Düzenleme: [=value]",

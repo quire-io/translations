@@ -331,7 +331,7 @@ const enServer = const <String, String> {
   mEmailWelcomeSubject: "How're you finding Quire so far?",
   mEmailWelcomeContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We’re super excited to have you on board!</p>
 
@@ -364,7 +364,7 @@ to share our tips to get the best of Quire and tell you many interesting stories
   mEmailValueProposalSubject: "You might be missing out on Quire",
   mEmailValueProposalContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>I know, you're new to Quire. I just want to tell you a few things that others like
 about Quire, in case you've overlooked:</p>
@@ -402,7 +402,7 @@ communication and collaboration.</p>
   mEmailLeavingSubject: "We haven't seen you on Quire for a while",
   mEmailLeavingContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>Thanks again for using Quire.</p>
 
@@ -429,7 +429,7 @@ for a call with you.</p>
   mEmailSignupSubject: 'One last step to achieve great things with Quire',
   mEmailSignupContent: 
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>You are one click away!</p>
 
@@ -441,13 +441,14 @@ for a call with you.</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailSignupDeletionSubject: 'Complete your Quire sign up',
   mEmailSignupDeletionContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We hope you are having a great time with Quire!</p>
 
@@ -463,25 +464,27 @@ Otherwise, we might have to <b>delete your account and data</b>. And we're not r
 Or, please <a href="mailto:support@quire.io">contact us</a> if there
 is any issue.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
   mEmailProfileChangeContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know you have changed [=fields] in your profile.</p>
 
 <p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailInviteSubject: "Quire: You are invited to join [=host]",
   mEmailInviteContent:
 '''
-[=header]
+<p class="hi-row">Hello,</p>
 
 <p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
 
@@ -491,11 +494,12 @@ is any issue.</p>
   <a href="[=link]" class="btn">Accept invitation</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
   mEmailInviteExistsUserContent:
 '''
-[=header]
+<p class="hi-row">Hello,</p>
 
 <p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
 
@@ -505,13 +509,14 @@ is any issue.</p>
 
 <p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
   mEmailInviteFriendsContent:
 '''
-[=header]
+<p class="hi-row">Hello,</p>
 
 <p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
 a project management solution he is enjoying.</p>
@@ -522,13 +527,14 @@ a project management solution he is enjoying.</p>
   <a href="[=link]" class="btn">Accept invitation</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
   mEmailDeleteAccountContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>You have permanently deleted your Quire account.</p>
 
@@ -551,13 +557,14 @@ A couple of words would mean a lot to us.</p>
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know:</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 
 <hr class="end"/>
 
@@ -566,13 +573,14 @@ A couple of words would mean a lot to us.</p>
   mEmailDigestSubject: "Quire: A total [=count] notifications for you",
   mEmailDigestContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>There are a total of [=count] notifications for you:</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 
 <hr class="end"/>
 
@@ -583,7 +591,7 @@ A couple of words would mean a lot to us.</p>
     "Quire: Please verify your new email address",
   mEmailEmailChangeContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>You have recently updated a new email address for your Quire account.</p>
 
@@ -595,14 +603,15 @@ A couple of words would mean a lot to us.</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailEmailChangeNotificationSubject:
     "Quire: Your primary email address has been changed",
   mEmailEmailChangeNotificationContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know you have changed your primary
 email address to <b>[=newEmail]</b>.
@@ -614,14 +623,15 @@ including account-related notifications and task activities.</p>
 <p>If you did not make the change, please
 <a href="mailto:support@quire.io">contact us</a> immediately.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailAddEmailSubject:
     "Quire: Please verify your new email address",
   mEmailAddEmailContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>Please click the below button within the next 12 hours to verify your new email address.</p>
 
@@ -631,13 +641,14 @@ including account-related notifications and task activities.</p>
 
 <p>If you do not recognize this email, please ignore it.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailForgotPasswordSubject: "Quire: Please reset your password",
   mEmailForgotPasswordContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>You are receiving this email because you lost your Quire password.</p>
 
@@ -647,18 +658,20 @@ including account-related notifications and task activities.</p>
   <a href="[=link]" class="btn">Reset password</a>
 </p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailInviteConfirmedSubject:
     "[=inviteeName] has accepted your invitation to Quire",
   mEmailInviteConfirmedContent:
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
   mEmailContentHeader: '<p class="hi-row">Hello,</p>',
   mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
@@ -681,50 +694,54 @@ including account-related notifications and task activities.</p>
   mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
   mEmailLeaveMemberContent: 
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
   mEmailNewProjectContent: 
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
   mEmailDeleteHostContent: 
 '''
-[=header]
+<p class="hi-row">Hi [=name],</p>
 
 <p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailAppRejectedSubject: "[=app] has been rejected",
   mEmailAppRejectedContent: 
 '''
-[=header]
+<p class="hi-row">Hello,</p>
 
 <p>We are writing to let you know your app, [=app], has been rejected since
 it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
   mEmailAppBannedContent: 
 '''
-[=header]
+<p class="hi-row">Hello,</p>
 
 <p>We are writing to let you know your app, [=app], has been banned since
 it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
@@ -732,7 +749,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">Thanks,</p>
+<p class="end-row-2">The Quire Team</p>
 ''',
 
   mSummaryUnknown: "Activity Update",

@@ -260,7 +260,7 @@ const jaServer = const <String, String> {
   mSignupProject: "[=user]さんのプロジェクト",
   mEmailWelcomeSubject: "Quireの使用感はいかがですか。",
   mEmailWelcomeContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>ご利用くださり、ありがとうございます！</p>
 
@@ -291,7 +291,7 @@ Quireをフルにご活用いただけるよう、使いこなしのヒントや
 ''',
   mEmailValueProposalSubject: "Quireのご紹介",
   mEmailValueProposalContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>Quireを始めたばかりで、まだお気づきでないかもしれませんが、 
 Quireが選ばれる理由を、ぜひ知ってください。</p>
@@ -352,7 +352,7 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 ''',
   mEmailSignupSubject: 'Quireで目標を達成するための、最後のステップ',
   mEmailSignupContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>あとワンクリックです。</p>
 
@@ -364,11 +364,12 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 
 <p>このメールにお心当たりがない場合は、破棄してください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailSignupDeletionSubject: 'Quireへの登録を完了してください',
   mEmailSignupDeletionContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>Quireをお楽しみいただいているでしょうか。</p>
 
@@ -384,21 +385,23 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 ご質問等がありましたら、ぜひ<a href="mailto:support@quire.io">私たちまでご連絡</a>
 ください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailProfileChangeSubject: 'Quire：プロフィールを更新しました',
   mEmailProfileChangeContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>ご自身のプロフィールの[=fields]を変更しました。</p>
 
 <p>お心当たりがない場合は、今すぐ<a href="mailto:support@quire.io">私たちまでご連絡</a>ください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailInviteSubject: "Quire：[=host]に招待されました",
   mEmailInviteContent: '''
-[=header]
+<p class="hi-row">こんにちは。</p>
 
 <p>[=invitor]さんから[=hostType]の[=host]に招待されました。</p>
 
@@ -408,10 +411,11 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   <a href="[=link]" class="btn">招待を受ける</a>
 </p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailInviteExistsUserContent: '''
-[=header]
+<p class="hi-row">こんにちは。</p>
 
 <p>[=invitor]さんから[=hostType]の[=host]に招待されました。</p>
 
@@ -421,11 +425,12 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 
 <p>断るには、<a href="[=declineLink]">ここ</a>をクリックしてください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailInviteFriendsSubject: "[=name]さんからQuireに招待されました",
   mEmailInviteFriendsContent: '''
-[=header]
+<p class="hi-row">こんにちは。</p>
 
 <p>[=invitor]さん([=email])から、お気に入りのプロジェクト管理ソリューション
 <a href="https://quire.io">Quire</a>に招待されました。</p>
@@ -436,11 +441,12 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
   <a href="[=link]" class="btn">招待を受ける</a>
 </p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
   mEmailDeleteAccountContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>You have permanently deleted your Quire account.</p>
 
@@ -461,13 +467,14 @@ A couple of words would mean a lot to us.</p>
 <p>The Quire Team</p>''',
   mEmailPerUpdateSubject: "Quire：[=summary]",
   mEmailPerUpdateContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>次の通り、お知らせします。</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 
 <hr class="end"/>
 
@@ -475,13 +482,14 @@ A couple of words would mean a lot to us.</p>
 ''',
   mEmailDigestSubject: "Quire：通知[=count]件",
   mEmailDigestContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>合計[=count]件のお知らせがあります。</p>
 
 [=digest]
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 
 <hr class="end"/>
 
@@ -489,7 +497,7 @@ A couple of words would mean a lot to us.</p>
 ''',
   mEmailEmailChangeSubject: "Quire：メールアドレスを確定してください",
   mEmailEmailChangeContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>Quireアカウントのメールアドレスを更新しました。</p>
 
@@ -501,11 +509,12 @@ A couple of words would mean a lot to us.</p>
 
 <p>このメールにお心当たりがない場合は、破棄してください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailEmailChangeNotificationSubject: "Quire：優先メールアドレスを変更しました",
   mEmailEmailChangeNotificationContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>優先メールアドレスを
 <b>[=newEmail]</b>に変更しました。
@@ -517,11 +526,12 @@ A couple of words would mean a lot to us.</p>
 <p>この変更にお心当たりがない場合は、
 今すぐ<a href="mailto:support@quire.io">私たちまでご連絡</a>ください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailAddEmailSubject: "Quire：メールアドレスを確定してください",
   mEmailAddEmailContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>12時間以内に下のボタンをクリックして、新しいメールアドレスを確定してください。</p>
 
@@ -531,11 +541,12 @@ A couple of words would mean a lot to us.</p>
 
 <p>このメールにお心当たりがない場合は、破棄してください。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailForgotPasswordSubject: "Quire：パスワードを再設定してください",
   mEmailForgotPasswordContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>このメールは、Quireのパスワードを忘れた方にお送りしています。</p>
 
@@ -545,15 +556,17 @@ A couple of words would mean a lot to us.</p>
   <a href="[=link]" class="btn">パスワードを再設定</a>
 </p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailInviteConfirmedSubject: "[=inviteeName]さんが、Quireへの招待を受けました",
   mEmailInviteConfirmedContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>[=invitee]さん([=inviteeEmail])が招待を受けて、Quireに参加しました。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailContentHeader: '<p class="hi-row">こんにちは。</p>',
   mEmailContentHeaderWithUser: '<p class="hi-row">こんにちは、[=name]さん。</p>',
@@ -573,42 +586,46 @@ A couple of words would mean a lot to us.</p>
     '<p class="end-row-2">Quireチーム</p>',
   mEmailLeaveMemberSubject: "Quire：[=member]さんが[=target]を退出しました",
   mEmailLeaveMemberContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>[=member]さん([=memberEmail])が[=target]を退出しました。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailNewProjectSubject: "Quire：[=member]さんが[=project]を作成しました",
   mEmailNewProjectContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>[=member]さん([=memberEmail])が[=project]を作成しました。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailDeleteHostSubject: "Quire：[=member]さんが[=host]を削除しました",
   mEmailDeleteHostContent: '''
-[=header]
+<p class="hi-row">こんにちは、[=name]さん。</p>
 
 <p>>[=member]さん([=memberEmail])が「[=host]」を削除しました。</p>
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailAppRejectedSubject: "[=app]が不承認となりました",
   mEmailAppRejectedContent: '''
-[=header]
+<p class="hi-row">こんにちは。</p>
 
 <p>作成したアプリ[=app]は、
 <a href="https://quire.io/terms" target="_blank">利用規約</a>に違反したため、不承認となりました。
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mEmailAppBannedSubject: "[=app]は、[=days]日間非公開となりました",
   mEmailAppBannedContent: '''
-[=header]
+<p class="hi-row">こんにちは。</p>
 
 <p>作成したアプリ[=app]は、
 <a href="https://quire.io/terms" target="_blank">利用規約</a>に違反したため、不承認となりました。
@@ -616,7 +633,8 @@ A couple of words would mean a lot to us.</p>
 
 [=reason]
 
-[=footer]
+<p class="end-row-1">これからもよろしくお願いいたします。</p>
+<p class="end-row-2">Quireチーム</p>
 ''',
   mSummaryUnknown: "アクティビティーのお知らせ",
   mExtraValue: "（もと[=value]）",
