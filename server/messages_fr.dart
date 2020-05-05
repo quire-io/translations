@@ -120,8 +120,8 @@ const frServer = const <String, String> {
     'Veuillez télécharger notre application native à la place.',
   mAccountExpiredTitle: "Oups !",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    'Votre compte est temporairement bloqué !.<br/>'
+    'Pour continuer, veuillez confirmer votre adresse email.',
   m403Title: "Oups !",
   m403Desc:
     "Vous n'avez pas la permission d'accéder à cette page.<br/>"
