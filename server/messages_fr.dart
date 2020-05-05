@@ -439,27 +439,26 @@ un outil de gestion de projet qu'il apprécie.</p>
 <p class="end-row-1">Merci,</p>
 <p class="end-row-2">L'équipe Quire</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Vous avez supprimé définitivement votre compte Quire",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Bonjour [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Vous avez supprimé définitivement votre compte Quire.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>Une fois votre compte Quire supprimé, vous ne pourrez plus vous connecter,
+recevoir des notifications, et accéder aux données de votre compte.
+Soyez assuré(e) que nous allons supprimer toutes vos informations
+et données, sans en garder de copie dans notre système.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Bien que nous ne soyons pas prêts à vous dire au revoir, nous respectons votre décision de quitter Quire. Avant de partir, pourriez-vous
+nous donner des idées et des commentaires sur Quire ?
+Quelques mots de votre part nous feraient vraiment plaisir.</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>Merci beaucoup. Nous espérons avoir bientôt de vos nouvelles !</p>
 
-<p>Best,</p>
+<p>En vous souhaitant le meilleur,</p>
 
-<p>The Quire Team</p>''',
+<p>L'équipe Quire</p>''',
   mEmailPerUpdateSubject: "Quire : [=summary]",
   mEmailPerUpdateContent: '''
 <p class="hi-row">Bonjour [=name],</p>
