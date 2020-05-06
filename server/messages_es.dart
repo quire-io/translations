@@ -450,9 +450,9 @@ una solución de gestión de proyectos que está disfrutando.</p>
 
 <p>Has eliminado permanentemente tu cuenta de Quire.</p>
 
-<p>Una vez que tu cuenta Quire sea eliminada, no podrás iniciar sesión,
+<p>Una vez que tu cuenta Quire es eliminada, no podrás iniciar sesión,
 recibir notificaciones, o acceder a ningún dato de tu cuenta.
-Por favor, asegurate de que quieres eliminar tu cuenta porque una vez que lo haga, borraremos permanentemente toda tu información  
+Indicarte que una vez eliminada la cuenta, borraremos permanentemente toda tu información  
 y datos y no dejaremos ninguna copia en nuestro sistema.</p>
 
 <p>Aunque no queremos que dejes de utilizar Quire, nosotros entendemos perfectamente
