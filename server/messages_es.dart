@@ -120,8 +120,8 @@ const esServer = const <String, String> {
     'Por favor, descarga en su lugar nuestra aplicación nativa.',
   mAccountExpiredTitle: "¡Uy!",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    '¡Tu cuenta está temporalmente bloqueada!.<br/>'
+    'Para continuar, por favor confirma tu dirección de correo electrónico',
   m403Title: "¡Oh, vaya!",
   m403Desc:
     "No tienes permiso para acceder a esta página.<br/>"
@@ -444,27 +444,27 @@ una solución de gestión de proyectos que está disfrutando.</p>
 <p class="end-row-1">Gracias,</p>
 <p class="end-row-2">El Equipo de Quire</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Has eliminado permanentemente tu cuenta de Quire",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Hola [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Has eliminado permanentemente tu cuenta de Quire.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>Una vez que tu cuenta Quire sea eliminada, no podrás iniciar sesión,
+recibir notificaciones, o acceder a ningún dato de tu cuenta.
+Por favor, asegurate de que quieres eliminar tu cuenta porque una vez que lo haga, borraremos permanentemente toda tu información  
+y datos y no dejaremos ninguna copia en nuestro sistema.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Aunque no queremos que dejes de utilizar Quire, nosotros entendemos perfectamente
+tu decisión de dejar de utilizar Quire. Por favor, antes de continuar, ¿Podrías indicarnos 
+algunos comentarios y sugerencias sobre tu experiencia en Quire?
+Un pequeño comentario nos ayudaría mucho.</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>Muchas gracias. ¡Esperamos tener noticias tuyas!</p>
 
-<p>Best,</p>
+<p>Saludos cordiales,</p>
 
-<p>The Quire Team</p>''',
+<p>El equipo de Quire</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
 <p class="hi-row">Hola [=name],</p>
