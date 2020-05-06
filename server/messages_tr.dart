@@ -443,27 +443,27 @@ herkesin keyif aldığı bir proje yönetimi çözümü.</p>
 <p class="end-row-1">Teşekkürler,</p>
 <p class="end-row-2">Quire Ekibi</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Quire hesabınızı kalıcı olarak sildiniz",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Merhaba [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Quire hesabınızı kalıcı olarak sildiniz.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>Quire hesabınız silindikten sonra giriş yapamaz, bildirim alamaz
+veya hesabınızdan herhangi bir veriye erişemezsiniz.
+Tüm bilgilerinizi ve verilerinizi kalıcı olarak sileceğimizden ve 
+sistemimizde hiçbir kopya bırakmayacağımızdan emin olabilirsiniz.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Henüz veda etmeye hazır olmasak da, Quire'den ayrılma kararınızı tamamen anlıyoruz.
+Devam etmeden önce, Quire ile olan deneyiminiz hakkında
+bazı önerilerinizi ve geri bildirimlerinizi bize bildirebilir misiniz?
+Birkaç kelime bizim için çok şey ifade eder..</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>Çok teşekkür ederiz. Senden haber almayı dört gözle bekliyoruz!</p>
 
-<p>Best,</p>
+<p>En iyi dileklerimizle,</p>
 
-<p>The Quire Team</p>''',
+<p>Quire Ekibi</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
 <p class="hi-row">Merhaba [=name],</p>
