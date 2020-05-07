@@ -120,8 +120,8 @@ const ptBrServer = const <String, String> {
     'Por favor, baixe nosso aplicativo nativo.',
   mAccountExpiredTitle: "Opa!",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    'Sua conta está temporariamente bloqueada!.<br/>'
+    'Para continuar, confirme seu endereço de email.',
   m403Title: "Opa!",
   m403Desc:
     "Você não tem permissão para acessar esta página.<br/>"
@@ -443,27 +443,27 @@ uma solução de gerenciamento de projetos de que está gostando bastante.</p>
 <p class="end-row-1">Obrigado,</p>
 <p class="end-row-2">A Equipe do Quire</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Você excluiu permanentemente sua conta Quire",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Oi [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Você excluiu permanentemente sua conta Quire.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>Depois que sua conta do Quire for excluída, você não poderá fazer login,
+receber notificações ou acessar quaisquer dados da sua conta.
+Fique tranquil@ pois excluiremos permanentemente todas as suas informações
+e dados e não deixaremos qualquer cópia em nosso sistema.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Embora ainda não estejamos prontos para dizer adeus, entendemos totalmente
+sua decisão de deixar o Quire. Antes de ir embora, você pode nos deixar
+algumas sugestões e comentários sobre sua experiência com o Quire?
+Algumas palavras significariam muito para nós.</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>Muito obrigado. Aguardamos notícias suas!</p>
 
-<p>Best,</p>
+<p>Saudações,</p>
 
-<p>The Quire Team</p>''',
+<p>A Equipe do Quire</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
 <p class="hi-row">Oi [=name],</p>
