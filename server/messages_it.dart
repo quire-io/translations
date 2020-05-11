@@ -448,9 +448,9 @@ una soluzione di gestione progetti che gli piace.</p>
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Ciao [=name],</p>
 
-<p>Hai eliminato permanentemente il tuo account Quire</p>
+<p>Hai eliminato permanentemente il tuo account Quire.</p>
 
-<p>Una volta eliminato il tuo account quire, non sarai più in grado di collegarti,
+<p>Una volta eliminato il tuo account Quire, non sarai più in grado di collegarti,
 ricevere notifiche, o accedere ai dati del tuo account.
 Ti assicuriamo che elimineremo permanentemente tutte le tue informazioni
 e dati senza lasciarne nessuna copia sui nostri sistemi.</p>
