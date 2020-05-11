@@ -74,7 +74,7 @@ const deServer = const <String, String> {
   mGetIphone: "iPhone App downloaden",
   mGetAndroid: "Android App downloaden",
   mGetChromeExtension: "Chrome Extension installieren",
-  mLoginU: "LOG IN",
+  mLoginU: "ANMELDEN",
   mTourU: "TOUR",
   mTutorialU: "TUTORIAL",
   mFeedbackU: "FEEDBACK",
@@ -107,7 +107,7 @@ const deServer = const <String, String> {
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
   mHomeGotoWSButton: "AN PROJEKT ARBEITEN",
-  mDownloadAPK: "DOWNLOAD APK",
+  mDownloadAPK: "APK HERUNTERLADEN",
   mAPKVersion: 'Version [=version]',
   mDownloadMobileAppToStart: 'Laden Sie Quire herunter, um an Ihren Projekten zu arbeiten',
   mDownloadMobileAppToStartWith:
@@ -118,10 +118,10 @@ const deServer = const <String, String> {
   mMobileBrowserNotSupported:
     'Wir unterstützen keine mobilen Browser mit kleinem Bildschirm mehr. '
     'Bitte laden Sie stattdessen unsere native App herunter.',
-  mAccountExpiredTitle: "Oops!",
+  mAccountExpiredTitle: "Ups!",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    'Ihr Account ist vorübergehend gesperrt!.<br/>'
+    'Um fortzufahren, bestätigen Sie bitte Ihre E-Mail-Adresse.',
   m403Title: "Oh nein!",
   m403Desc:
     "Sie haben keinen Zugriff auf diese Seite.<br/>"
@@ -164,19 +164,19 @@ const deServer = const <String, String> {
   mConfirmExpired: 'Sorry, die Bestätigung ist abgelaufen.',
   mPleaseCheckInbox:
     '<div class="confirm-email"><div class="msg">'
-    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    'Biite [=hrefStart]schauen Sie in Ihren Posteingang[=hrefEnd], um Ihre E-Mail zu bestätigen: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    'Bitte bestätigen Sie Ihre E-Mail in [=day] Tagen: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    'Bitte bestätigen Sie Ihre E-Mail heute: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
+    '<a href="javascript:reSignup()">Erneut senden</a><a class="hidden">Gesendet</a>'
+    '<a href="/r/setting?tab=options">E-Mail ändern</a>',
   mConfirmedEmail: "Hi, [=email]",
   mConfirmedEmailDesc: "Richten Sie jetzt Ihren Account ein!",
   mDoneConfirmSignupButtton: "Fertig, los geht's!",
@@ -210,11 +210,11 @@ const deServer = const <String, String> {
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
   mAlreadyConfirmDesc: 'Sie haben die E-Mail bereits bestätigt.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+  mSignupConfirmTitle: "Danke für Ihre Bestätigung",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Vielen Dank für die Bestätigung Ihrer E-Mail-Adresse <strong>[=email]</strong>.<br/>'
     '[=continue]',
-  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
+  mSignupConfirmThenLogin: 'Bitte <a href="/login">melden Sie sich hier an</a> um fortzufahren.',
   mInviteFriends: "Freunde einladen",
   mInviteFriendsTitle: "Laden Sie Ihre Freunde und Kollegen ein",
   mInviteFriendsDesc: "Überzeugt von Quire?<br/>Empfehlen Sie uns weiter!",
@@ -350,40 +350,40 @@ vereinbaren wir gerne einen Anruf mit dir.</p>
 
 <p>Wenn Sie in Zukunft keine derartigen E-Mails mehr erhalten möchten, können Sie sich <a href="[=unsubscribe]">hier abmelden</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Ein letzter Schritt',
   mEmailSignupContent: '''
 <p class="hi-row">Hola [=name],</p>
 
-<p>You are one click away!</p>
+<p>Sie sind nur noch einen Klick entfernt!</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Um Quire weiterhin zu nutzen, überprüfen Sie bitte Ihre E-Mail-Adresse, indem Sie auf die folgende Schaltfläche klicken.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Verifizieren</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Wenn Sie diese E-Mail angefordert haben, ignorieren Sie sie bitte.</p>
 
 <p class="end-row-1">Mit freundlichen Grüßen,</p>
 <p class="end-row-2">Ihr Quire Team</p>
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Vervollständigen Sie Ihre Quire-Anmeldung',
   mEmailSignupDeletionContent: '''
 <p class="hi-row">Hola [=name],</p>
 
-<p>We hope you are having a great time with Quire!</p>
+<p>Wir hoffen, die Nutzung von Quire macht Ihnen Spaß!</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>Möglicherweise haben Sie vergessen, Ihre E-Mail-Adresse zu bestätigen.
+Bitte teilen Sie uns mit, dass Sie Quire weiterhin verwenden, indem Sie innerhalb von [=day] Tagen auf die unten stehende Schaltfläche klicken.
+Andernfalls müssen wir möglicherweise <b>Ihr Konto und Ihre Daten löschen</b>. Und wir sind eigentlich nicht bereit, Sie gehen zu lassen ...</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">Email Adresse bestätigen</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>Wenn Sie diese E-Mail angefordert haben, ignorieren Sie sie bitte.
+Oder <a href="mailto:support@quire.io">kontaktieren Sie uns</a>, wenn
+es ein Problem gibt.</p>
 
 <p class="end-row-1">Mit freundlichen Grüßen,</p>
 <p class="end-row-2">Ihr Quire Team</p>
@@ -443,25 +443,21 @@ is any issue.</p>
 <p class="end-row-1">Mit freundlichen Grüßen,</p>
 <p class="end-row-2">Ihr Quire Team</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Sie haben Ihr Quire-Konto gelöscht",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">Hola [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Sie haben Ihr Quire-Konto gelöscht.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>Sobald Ihr Quire-Konto gelöscht wurde, können Sie sich nicht mehr anmelden,
+Benachrichtigungen erhalten oder auf Daten von Ihrem Konto zugreifen.
+Bitte seien Sie versichert, dass wir alle Ihre Informationen und Daten 
+dauerhaft löschen und keine Kopie in unserem System hinterlassen.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Obwohl wir noch nicht bereit sind uns zu verabschieden, verstehen wir Ihre Entscheidung.
+Uns interessiert natürlich Ihre Erfahrung mit Quire und sind deshalb für jegliches Feedback dankbar.</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
-
-<p>Best,</p>
+<p>Vielen Dank. Wir freuen uns von Ihnen zu hören!</p>
 
 <p>The Quire Team</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
@@ -721,13 +717,13 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   "AT$atUnpublishOApp": "[=who] hat die Veröffentlich von [=value] aufgehoben",
   "AT$atAddShare": "[=who] hat den Link [=value] zum Teilen von [=what] erstellt",
   "AT$atRemoveShare": "[=who] hat den Link [=value] zum Teilen von [=what] entfernt",
-  "AT$atAddBoard": "[=who] added the board [=value] to [=what]",
-  "AT$atRemoveBoard": "[=who] removed the board [=value] from [=what]",
+  "AT$atAddBoard": "[=who] hat das Board [=value] zu [=what] hinzugefügt",
+  "AT$atRemoveBoard": "[=who] hat das Board [=value] von [=what] entfernt",
   "AT$atEditBoard": "[=who] hat das Board[=value] bearbeitet",
   "AT$atAddTaskState": "[=who] hat [=extra] zu dem Board [=value] in [=what] hinzugefügt",
   "AT$atRemoveTaskState": "[=who] hat [=extra] von dem Board [=value] in [=what] entfernt",
-  "AT$atAddSublist": "[=who] added the sublist [=value] to [=what]",
-  "AT$atRemoveSublist": "[=who] removed the sublist [=value] from [=what]",
+  "AT$atAddSublist": "[=who] hat die Unterliste [=value] zu [=what] hinzugefügt",
+  "AT$atRemoveSublist": "[=who] hat die Unterliste [=value] von [=what] entfernt",
   "AT$atSlackInstall": "[=who] hat [=what] an Slack's [=value] angebunden",
   "AT$atSlackUninstall": "[=who] hat [=what] von Slack's [=value] entfernt",
   "AT$atExportOrganization": "[=who] hat [=what] exportiert",
@@ -765,8 +761,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyCreateSubtask: 'Neue Teilaufgabe hinzufügen',
   mKeyDeleteTask: 'Ausgewählte Aufgabe(n) löschen',
   mKeyCollapseTask: 'Alle Aufgaben ebenenabhängig ein- oder ausklappen',
-  mKeySwitchMyTaskView: 'Launch or close My Tasks',
-  mKeySwitchViews: 'Switch views',
+  mKeySwitchMyTaskView: 'Starten oder schließen Sie Meine Aufgaben',
+  mKeySwitchViews: 'Ansichten wechseln',
   mKeyBlinkSearch: 'Suche nach Projekten, Mitglieder, etc.',
   mKeySearchTask: 'Aufgabe suchen',
   mKeyCompleteTask: 'Ausgewählte Aufgabe(n) erledigen',
@@ -789,17 +785,17 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyPasteHint: "Fügen Sie das als Aufgabe ein, was Sie ausgeschnitten oder kopiert haben",
   mKeyToggleDetail: "Detailansicht öffnen oder schließen",
   mKeyLearnMore:
-    'Learn more about how to use Quire with keyboard only '
+    'Weitere Informationen zur Verwendung von Quire nur mit Tastatur '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
   mMarkdownIntro: 'Markdown',
   mMDHeader3: 'Überschriften',
   mMDItalic: 'Kursiv',
   mMDBold: 'Fett',
-  mMDUnderline: 'Underline',
+  mMDUnderline: 'Unterstrichen',
   mMDColoring: 'Farbgebung',
   mMDOrderedList: 'Geordnete Liste',
   mMDUnorderedList: 'Ungeordnete List',
-  mMDCheckList: 'Checklist',
+  mMDCheckList: 'Checkliste',
   mMDLink: 'Link',
   mMDMention:
     'Erwähnen Sie jemanden mit <b><i>@name</i></b>. '
@@ -812,7 +808,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mStatsProgressChartSec: "Fortschritts-Statistiken",
   mStatsProjectSummarySec: "Projektzusammenfassung",
   mStatsWeeklySummarySec: "Wöchentliche Zusammenfassung",
-  mArchivedProjects: "Archived projects",
+  mArchivedProjects: "Archivierte Projekte",
   mStatsWeeklyTodosLabel: "To-dos",
   mSettingProfileSec: "Profil",
   mSettingBasicsSec: "Basisdaten",
@@ -846,7 +842,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingOptionUnarchiveTaskDesc: "Nicht erledigte Peekaboo-Aufgaben werden nach der ausgewählten Zeit automatisch wieder in der Liste angezeigt.",
   mSettingOptionUnarchiveTaskNever: "Nie",
   mSettingOptionUnarchiveTaskNDays: "[=days] Tage später",
-  mSettingOptionDateAndTime: "Date & time",
+  mSettingOptionDateAndTime: "Datum & Zeit",
   mSettingOptionStartDesc: "Startdatum immer anzeigen",
   mSettingOptionTimeDesc: "Zeit immer anzeigen",
   mSettingOptionAssignee: "Mehrere Beauftragte",
@@ -927,7 +923,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMembersSecDesc: "Mitglieder einer Organisation haben Zugriff auf alle zugehörigen Projekte.",
   mAutoMode: "(auto)",
   mBasicMode: "Basic",
-  mAdvancedMode: "Advanced",
+  mAdvancedMode: "Fortgeschritten",
   mIntegraGithubDesc:
     "Wählen sie ein oder mehrere Repositories die Sie verbinden möchten. "
     "Sie können bereits ausgewählte Repositories wieder abwählen.",
@@ -951,18 +947,18 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mWeekly: "Wöchentlich",
   mStartedAt: "Gestartet",
   mCompletedAt: "Erledigt",
-  mSettingNotificationsTitle: "Notify me about",
+  mSettingNotificationsTitle: "Benachrichtigen Sie mich über",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "New tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mCommentAllNotifications: "All comments",
-  mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All other updates",
-  mSettingManageReminder: "Manage reminder settings",
+    "Sie können auswählen, welche Benachrichtigungen Sie erhalten möchten, indem Sie die folgenden Optionen auswählen. "
+    "Diese Einstellung gilt nur für Ihr Konto und nicht für alle Mitglieder dieses Projekts.",
+  mAssignNotifications: "Neue Aufgaben, die mir zugewiesen wurden",
+  mCommentNotifications: "Neue Kommentare",
+  mCommentAllNotifications: "Alle Kommentare",
+  mCommentMeNotifications: "Nur mich erwähnen",
+  mUpdateNotifications: "Alle anderen Updates",
+  mSettingManageReminder: "Erinnerungseinstellungen verwalten",
   mSendActivityNotification: "Aktivitätsbenachrichtungen senden",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
+  mSendActivityNotificationDesc: "Sie können im Abschnitt Projekteinstellungen anpassen, welche Benachrichtigungen Sie erhalten möchten.",
   mActivityNotice: "Benachrichtigungen",
   mReceiveBlogPosts: "Neue Blogbeiträge",
   mReceivePolicyUpdates: "Informationen zu Mitgliedschaft und Richtlinien von Quire",
@@ -986,7 +982,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mNextDay: "Am nächsten Tag",
   m2dayLater: "Zwei Tage später",
   mStartOFNextWeek: "Anfang nächster Woche",
-  mRemindTimeAt: "at",
+  mRemindTimeAt: "um",
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mDeveloperConsoleTitle: "Apps",
@@ -1062,7 +1058,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'oder <a href="/feedback">helfen Sie uns</a> Quire weiter zu verbessern!',
   mTipPrint: '<a href="javascript:print()">Drucken</a> Sie Ihre Aufgaben mit <code>[=ctrlCommand]+P</code>',
   mTipTaskId: 'Tipp: Drücken Sie <code>[=ctrlAlt]</code>, um Aufgaben ID und Pfad anzuzeigen',
-  mTipMyTasksShortcut: "Tip: Press <code>&gt;</code> to launch My Tasks",
+  mTipMyTasksShortcut: "Tipp: Drücken Sie <code>&gt;</code>, um Meine Aufgaben zu starten",
   mTipAssignInTaskName:
     'Verwenden Sie <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> und <code>^</code>, wenn Sie eine Aufgabe erstellen, um '
     '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">Tags etc. schnell hinzuzufügen</a>',
@@ -1126,13 +1122,13 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppAccessInMinuteLimit:
     "Sie können nicht öfters als <b>[=size]</b> mal pro Minute auf die Quire API zugreifen. "
     'Bitte <a href="mailto:support@quire.io">kontaktieren Sie uns</a> für weitere Informationen.',
-  mDenyLeaveDueToOnlyAdmin: "Sorry, Sie können das Projekt nicht verlassen, weil Sie der einzig verbleibende Administrator sind.",
-  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
+  mDenyLeaveDueToOnlyAdmin: "Sie können das Projekt leider nicht verlassen, weil Sie der einzig verbleibende Administrator sind.",
+  mDenyLeaveDueToOrgRight: "Sie können dieses Projekt leider nicht verlassen, da Sie auch Mitglied der Organisation sind.",
   mSlackError:
     'Entschuldigung, wir haben einen unerwarteten Fehler festgestellt. '
     "Wir werden uns darum kümmern, aber "
     '<https://quire.io/feedback|kontaktieren Sie uns> gerne.',
-  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
+  mSlackNotAllowed: 'Sie haben keine Berechtigung, diese Aktion auszuführen. Bitte wenden Sie sich an Ihren Administrator.',
   mSlackNeedLinkQuireAccount: 'Hallo! Sie müssen  zuerst Ihr Quire-Konto anbinden. Es dauert auch nicht lange. Versprochen!',
   mSlackNeedLinkQuireAccountBtn: '<[=url]|Quire-Konto anbinden>',
   mSlackLinkQuireAccountOK: 'Sie haben erfolgreich ihr Quire-Konto angebunden',
@@ -1162,7 +1158,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     '`/quire link [Projekt-ID oder Projekt-URL]`\n'
     'Beispiel: `/quire link Development_Project`\n'
     'Beispiel: `/quire link https://quire.io/w/development_project`',
-  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
+  mSlackHelpUnLink: 'Heben Sie die Verknüpfung von zwischen dem Quire-Projekt und diesem Slack-Kanal auf',
   mSlackHelpUnLinkExample: '`/quire unlink`',
   mSlackHelpListProject: 'Alle Projekte auflisten',
   mSlackHelpListProjectExample: '`/quire list project`',
@@ -1324,7 +1320,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileDisconnected: "Sie sind offline. Bitte überprüfen Sie Ihre Internetverbindung.",
   mMobileTaskDeleted: "Sorry, diese Aufgabe wurde gelöscht.",
   mMobileUnableUploadAttachment: "Die Datei konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.",
-  mMobileDetailSubtaskProgress: "Subtasks Progress",
+  mMobileDetailSubtaskProgress: "Unteraufgaben Fortschritt",
   mMobileDetailFollow: "Folgen",
   mMobileDetailFollowing: "Gefolgt",
   mMobileDetailProjectInfo: "Projektinfo",
@@ -1422,10 +1418,10 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     "Sie möchten dieses Projekt archivieren. "
     "Ein archiviertes Projekt wird in den Bereich Archiviert in der linken Seitenleiste verschoben.",
   mMobileSidebarSearchForPrj: "Nach Projekten suchen",
-  mMobileMenuAddToMyTask: "Add to My Tasks",
+  mMobileMenuAddToMyTask: "Zu Meine Aufgaben hinzufügen",
   mMobileReadOnlyProfileDesc: "Für diese Ansicht gibt es aktuell nur Lesezugriff. Für Neuigkeiten diesbezüglich, folgen Sie uns auf",
   mMobilePermissionDenyCamera: "Quire benötigt die Berechtigung, um auf Ihre Kamera zuzugreifen. Erteilen Sie diese in den Einstellungen.",
-  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
+  mMobilePermissionDenyPhotos: "Sie müssen in Ihre Einstellungen gehen und Berechtigungen für Quire erteilen, um auf Ihre Fotos zugreifen zu können.",
   mMobileCrashRefreshTitle: "Oh nein!",
   mMobileCrashRefreshDesc: "Da ging wohl etwas schief, aber wir haben das Problem auf dem Schirm. Sie können versuchen die Seite neu zu laden.",
   mMobileBatchNOSelectedDesc: "Sie müssen mindestens eine Aufgabe auswählen.",
@@ -1458,7 +1454,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileUndoList: "RÜCKGÄNGIG-LISTE",
   mMobileVisitTo: "[=name] besuchen",
   mMobileResultFoundIn: "ERGEBNISSE GEFUNDEN IN",
-  mMobileSidebarBookmarks: "Bookmarks",
+  mMobileSidebarBookmarks: "Lesezeichen",
   mMobileSidebarRecent: "Kürzlich",
   mMobileSidebarSmartFolders: "Smarte Ordner",
   mMobileSidebarProjects: "Projekte",
