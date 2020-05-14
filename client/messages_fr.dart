@@ -333,7 +333,7 @@ const frClient = const <String, String> {
   mTreeMenuUnarchive: "Réafficher",
   mTaskArchiveNeverOption: "Ne plus jamais afficher",
   mTaskArchiveDayOption: "Remontrer [=n] jours plus tard",
-  mTreeMenuArchiveTip: "Les tâches <a href='[=link]' target='_blank'>Peekaboo</a> seront mises de côté jusqu'à ce que vous soyez prêt(e) à les prendre en charge.",
+  mTreeMenuArchiveTip: "Les tâches <a href='[=link]' target='_blank'>peekaboo</a> seront archivées jusqu'à ce que vous soyez prêt(e) à les prendre en charge.",
   mTreeBatchCompleteTooltip: "Terminer",
   mTreeBatchAssigneeTooltip: "Attribution",
   mTreeBatchDateTooltip: "Date",
@@ -913,7 +913,7 @@ const frClient = const <String, String> {
     "Vous ne savez pas par où commencer ? "
     'Allez voir notre <a href="/tutorial" target="_blank">Tutoriel</a> !',
   mTipReopenArchive: 'Les tâches peekaboo seront remontrées automatiquement après [=n] jours.',
-  mTipFilterForArchived: 'Vous pouvez cliquer sur Tâches Peekaboo pour voir les tâches que vous venez de peekaboo.',
+  mTipFilterForArchived: 'Vous pouvez cliquer sur Tâches Peekaboo pour voir les tâches mises de côté.',
   mProfileViewTooltip: "Vue d'ensemble",
   mTreeViewTooltip: "Liste",
   mMyTaskViewTooltip: "Mes Tâches",
