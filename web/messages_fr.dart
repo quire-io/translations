@@ -406,7 +406,7 @@ const frWeb = const <String, String> {
   mSublistTutorialAddSublistTitle: "Donnez un nom à votre sous-liste",
   mSublistTutorialAddSublistContent:
     "<p>Fatigué(e) de regarder une liste sans en voir la fin ? Il y a trop de tâches "
-    "qui ne vous concernent pas, mais vous ne pouvez pas les Peekaboo pour les mettre à l'écart, "
+    "qui ne vous concernent pas, mais vous ne pouvez pas les mettre de côté avec Peekaboo, "
     "car les autres membres y travaillent dessus. Les sous-listes sont là pour vous !</p>"
     '<p>Pour ajouter une sous-liste, cliquez sur le bouton "+" et sélectionnez "Ajouter une sous-liste".</p>',
   mSublistTutorialAddSublistTip: "Astuce : Vous pouvez créer autant de sous-listes que vous voulez pour un projet.",
@@ -415,7 +415,7 @@ const frWeb = const <String, String> {
     '<p>Disons que vous travaillez sur un projet "Course de charité pour les enfants" '
     'qui implique des centaines de tâches. Il y au moins 10 personnes qui y travaillent dessus. '
     'Vous ne pouvez pas en permanence créer de nouvelles étiquettes pour organiser les tâches dont vous vous occupez. '
-    'Vous ne pouvez pas utiliser Peekaboo pour mettre à l\'écart les tâches qui ne vous concernent pas, puisque les autres membres de l\'équipe ont besoin de les voir.</p>'
+    'Vous ne pouvez pas utiliser Peekaboo pour mettre de côté les tâches qui ne vous concernent pas, puisque les autres membres de l\'équipe ont besoin de les voir.</p>'
     '<p>Respirez profondément et créez votre première sous-liste pour résoudre votre problème. Sélectionnez simplement les tâches importantes '
     'que vous voulez regrouper et déplacer vers une liste séparée. Vous avez maintenant votre propre liste de tâches sur laquelle vous concentrer, '
     'sans aucune autre distraction.</p>'
