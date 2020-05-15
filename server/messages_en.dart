@@ -390,7 +390,7 @@ communication and collaboration.</p>
 
 <p>Of course, should you have any question while using Quire, we are here to help.</p>
 
-<p>Best regards,</p>
+<p>Best Regards,</p>
 
 <p>[=replyToName]</p>
 
@@ -418,6 +418,8 @@ know in what areas we may improve upon so we can reach more users like you.</p>
 for a call with you.</p>
 
 <p>We would love to hear from you,</p>
+
+<p>Best Regards,</p>
 
 <p>[=replyToName]</p>
 
