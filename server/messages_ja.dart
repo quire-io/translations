@@ -120,8 +120,8 @@ const jaServer = const <String, String> {
     'ネイティブアプリをダウンロードしてください。',
   mAccountExpiredTitle: "残念！",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
+    'アカウントがロックされました。<br/>'
+    '続行するには、メールアドレスを確定してください。',
   m403Title: "残念！",
   m403Desc:
     "このページにアクセスする権限がありません。<br/>"
@@ -175,8 +175,8 @@ const jaServer = const <String, String> {
     '本日中にメールアドレスを確定してください：<b>[=email]</b>。</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
+    '<a href="javascript:reSignup()">再送信</a><a class="hidden">送信</a>'
+    '<a href="/r/setting?tab=options">メールアドレスを変更</a>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
   mDoneConfirmSignupButtton: "これでOKです。開始します。",
@@ -444,27 +444,27 @@ Quireがお応えできるよう、どうぞご意見をお聞かせください
 <p class="end-row-1">これからもよろしくお願いいたします。</p>
 <p class="end-row-2">Quireチーム</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Quireアカウントを永久に削除しました",
   mEmailDeleteAccountContent: '''
 <p class="hi-row">こんにちは、[=name]さん。</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Quireアカウントを永久に削除しました。</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>今後、削除したアカウントへのログインや、
+関連する通知の受け取り、データへのアクセスはできません。
+すべての情報とデータはシステムから永久に削除されますので、
+どうぞご安心ください。</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>お別れするのは残念ですが、
+ご判断を尊重いたします。よろしければ、
+Quireをご利用になったご感想をお聞かせください。
+私たちは皆さまのお声に支えられています。</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>どうもありがとうございました。またお目にかかるのを楽しみにしています。</p>
 
-<p>Best,</p>
+<p>その際は、どうぞよろしくお願いいたします。</p>
 
-<p>The Quire Team</p>''',
+<p>Quireチーム</p>''',
   mEmailPerUpdateSubject: "Quire：[=summary]",
   mEmailPerUpdateContent: '''
 <p class="hi-row">こんにちは、[=name]さん。</p>
