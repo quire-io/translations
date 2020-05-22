@@ -17,9 +17,9 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const ruWeb = const <String, String> {
-  mSlogan: 'Unfold Your Ideas',
-  mSloganSentence: 'Unfold your ideas',
-  mSloganSubtitle: 'A visual collaborative platform for your next, great projects.',
+  mSlogan: 'Раскройте Ваши Идеи',
+  mSloganSentence: 'Раскройте ваши идеи',
+  mSloganSubtitle: 'Визуальная платформа для совместной работы для ваших следующих замечательных проектов.',
   mQuireDescription: 'The best collaborative project management software for breaking down goals in hierarchical lists.',
   mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
   mHomeSectionDreamsDesc:
