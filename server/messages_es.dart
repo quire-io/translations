@@ -1001,7 +1001,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppDistributeListStatus: 'Estado de la App',
   mAppDirectoryHeader: "Directorio de la App",
   mAppDirectoryTitle: "Quire & Más allá",
-  mAppDirectoryTitleIntro: 'Comprueba estas buenas integraciones para que la gestión del proyecto sea un trabajo ameno y sensillo.',
+  mAppDirectoryTitleIntro: 'Comprueba estas buenas integraciones para que la gestión del proyecto sea un trabajo ameno y sencillo.',
   mAppSearchPlaceholder: "Buscar Apps",
   mAppDirectoryBackApps: 'Examinar Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=Nuevo;quire=Realizado por Quire;=Todas las Apps',
