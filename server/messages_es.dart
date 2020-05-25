@@ -258,7 +258,7 @@ const esServer = const <String, String> {
   mMyTasksEmptyMessage: "¡Bravo, no hay tareas vencidas!",
   mSignupOrganization: "Organización de [=user]",
   mSignupProject: "Proyecto de [=user]",
-  mEmailWelcomeSubject: "¿Qué te está pareciendo QUire?",
+  mEmailWelcomeSubject: "¿Qué te está pareciendo Quire?",
   mEmailWelcomeContent: '''
 <p class="hi-row">Hola [=name],</p>
 
