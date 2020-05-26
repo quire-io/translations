@@ -1010,6 +1010,8 @@ Quireをご利用になったご感想をお聞かせください。
   mAppDeveloperTitleIntro: 'Quireに関わる開発者たちと一緒に、ご自身やチームがQuireをもっと便利に楽しむためのアプリを開発しませんか。',
   mAppDeveloperDocDesc: 'Quire APIについては、開発者ドキュメントで詳しく説明しています',
   mAppDeveloperTutorialDesc: 'Quire APIでのアプリ作成は、開発者チュートリアルで学ぶことが<br>できます',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: '作成を開始',
   mAppCreatedBy: '開発者：[=company]',
   mAppInstalledDesc: 'このアプリはすでにインストールされています。詳しくは[=setting]をご確認ください。',

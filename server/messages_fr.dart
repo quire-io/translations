@@ -992,6 +992,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAppDeveloperTitleIntro: 'Rejoignez la communauté des développeurs dans Quire pour créer une application qui rendra Quire encore meilleur pour vous et votre équipe !',
   mAppDeveloperDocDesc: 'La documentation pour les développeurs dispose de toutes les informations nécessaires sur l\'API de Quire',
   mAppDeveloperTutorialDesc: 'Le tutoriel de développement vous guide pour développer une application avec l\'API de Quire',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: 'Commencer le développement',
   mAppCreatedBy: 'par [=company]',
   mAppInstalledDesc: 'Vous avez déjà installé cette application, pour plus d\'informations, rendez-vous dans les [=setting].',

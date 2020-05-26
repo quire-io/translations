@@ -1010,6 +1010,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAppDeveloperTitleIntro: 'Unisciti alla comunità degli sviluppatori di Quire per creare un\'app che renda Quire un\'esperienza ancora migliore per te e il tuo team!',
   mAppDeveloperDocDesc: 'La documentazione per Sviluppatori contiene tutte le informazioni di cui hai bisogno per utilizzare la Quire API',
   mAppDeveloperTutorialDesc: 'I tutorial per sviluppatori ti guidano nello sviluppo di un\'app che utilizza la Quire API',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: 'Inizia a sviluppare',
   mAppCreatedBy: 'da [=company]',
   mAppInstalledDesc: 'Hai già installato questa app, per maggiori infomazioni visita [=setting].',

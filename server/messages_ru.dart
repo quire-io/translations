@@ -1012,6 +1012,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
   mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
   mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: 'Start building',
   mAppCreatedBy: 'by [=company]',
   mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',

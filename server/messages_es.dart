@@ -1010,6 +1010,8 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppDeveloperTitleIntro: 'Únete a la comunidad de desarrolladores Quire para construir una app que te proporcione una experiencia única para ti y tu equipo',
   mAppDeveloperDocDesc: 'La documentación del desarrollador incluye toda la información necesaria para Quire API',
   mAppDeveloperTutorialDesc: 'El tutorial para desarrolladores te guía para construir una app con Quire API',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: 'Comienza a construir',
   mAppCreatedBy: 'por [=company]',
   mAppInstalledDesc: 'Ya has instalado la aplicación, para más información visita [=setting].',

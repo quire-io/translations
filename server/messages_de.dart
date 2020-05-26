@@ -1003,6 +1003,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppDeveloperTitleIntro: 'Schließen Sie sich der Entwickler-Community von Quire an, um eine App zu erstellen, die Quire für Sie und Ihr Team noch besser macht!',
   mAppDeveloperDocDesc: 'Die Entwicklerdokumentation enthält alle Informationen, die Sie für die Quire-API benötigen',
   mAppDeveloperTutorialDesc: 'Das Entwicklertutorial erklärt die Erstellung einer App mit der Quire-API',
+  mAppDeveloperDiscTitle: 'FAQs',
+  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
   mAppDeveloperStartButton: 'Los geht’s',
   mAppCreatedBy: 'von [=company]',
   mAppInstalledDesc: 'Sie haben diese App bereits installiert, für weitere Informationen besuchen Sie bitte Ihre [=setting].',
