@@ -1475,5 +1475,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos",
   mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM",
   mMobileTabNotification: "Notificações",
-  mMobileTabMyTasks: "As Minhas Tarefas"
+  mMobileTabMyTasks: "As Minhas Tarefas",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
 };

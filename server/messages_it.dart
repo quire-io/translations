@@ -1474,5 +1474,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileSearchTasksInProjects: "Ricerca attività in altri progetti",
   mMobileTasksFoundIn: "ATTIVITA\' TROVATA IN",
   mMobileTabNotification: "Notifiche",
-  mMobileTabMyTasks: "Le mie attività"
+  mMobileTabMyTasks: "Le mie attività",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
 };

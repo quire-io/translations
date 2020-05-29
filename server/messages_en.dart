@@ -1878,6 +1878,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileTasksFoundIn: "TASKS FOUND IN",
   mMobileTabNotification: "Notifications",
   mMobileTabMyTasks: "My Tasks",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>.",
 };
 
 

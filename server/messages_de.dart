@@ -1465,5 +1465,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileSearchTasksInProjects: "Aufgaben in anderen Projekten suchen",
   mMobileTasksFoundIn: "AUFGABEN GEFUNDEN IN",
   mMobileTabNotification: "Benachrichtigungen",
-  mMobileTabMyTasks: "Aufgaben"
+  mMobileTabMyTasks: "Aufgaben",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
 };

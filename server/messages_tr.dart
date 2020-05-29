@@ -1473,5 +1473,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara",
   mMobileTasksFoundIn: "BULUNAN GÖREVLER",
   mMobileTabNotification: "Bildirimler",
-  mMobileTabMyTasks: "Görevlerim"
+  mMobileTabMyTasks: "Görevlerim",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
 };

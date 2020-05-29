@@ -1474,5 +1474,6 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索",
   mMobileTasksFoundIn: "以下の場所に見つかりました",
   mMobileTabNotification: "通知",
-  mMobileTabMyTasks: "自分のタスク"
+  mMobileTabMyTasks: "自分のタスク",
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
 };
