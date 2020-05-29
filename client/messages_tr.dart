@@ -682,7 +682,7 @@ const trClient = const <String, String> {
   mDiscardDraftTitle: "Taslak silinsin mi?",
   mDiscardDraftContent: "Yaptığınız değişiklikler kaydedilemeyebilir.",
   mDiscardChangesTitle: "Değişiklikleri gözardı et?",
-  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
+  mContentModifiedTitle: "Düzenlediğiniz içerik değiştirildi. Değişiklikleri aşağıda görebilirsiniz.",
   mDeleteAppContent: "[=name] uygulamasını <strong>kalıcı olarak silmek</strong> üzeresiniz.",
   mDeleteOrganizationContent: "[=name:full] organizasyonunu <strong>kalıcı olarak silmek</strong> üzeresiniz.",
   mDeleteProjectLotContent: "[=name:full] akıllı klasörünü <strong>silmek</strong> üzeresiniz..",
