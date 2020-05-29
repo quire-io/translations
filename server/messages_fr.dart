@@ -1457,5 +1457,5 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileTasksFoundIn: "TÂCHES TROUVÉES DANS",
   mMobileTabNotification: "Notifications",
   mMobileTabMyTasks: "Mes Tâches",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "Aucun résultat trouvé dans <b>[=name]</b>."
 };
