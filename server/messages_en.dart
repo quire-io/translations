@@ -808,8 +808,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] shared [=what] to the external team [=value]",
   "AT$atUnsetPartner":
     "[=who] cleared the external team from [=what]",
-  "AT$atEditTaskComment":
-    "[=who] edited a comment in [=what][=value]",
   "AT$atRemoveTaskComment":
     "[=who] removed a comment in [=what]",
   "AT$atTag":
@@ -869,8 +867,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] added [=value] to [=what]",
   "AT$atRemoveProjectAttachment":
     "[=who] removed [=value] from [=what]",
-  "AT$atEditProjectComment":
-    "[=who] edited a comment in [=what][=value]",
   "AT$atRemoveProjectComment":
     "[=who] removed a comment in [=what]",
   "AT$atAddTag":
