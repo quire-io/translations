@@ -1474,5 +1474,5 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileTasksFoundIn: "BULUNAN GÖREVLER",
   mMobileTabNotification: "Bildirimler",
   mMobileTabMyTasks: "Görevlerim",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "<b>[=name]</b> içinde sonuç bulunamadı."
 };
