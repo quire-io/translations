@@ -688,6 +688,7 @@ const frClient = const <String, String> {
   mDiscardDraftTitle: "Supprimer le brouillon ?",
   mDiscardDraftContent: "Les changements que vous avez effectués pourraient ne pas être enregistrés.",
   mDiscardChangesTitle: "Discard changes?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'application [=name].",
   mDeleteOrganizationContent: "Vous êtes sur le point de <strong>supprimer définitivement</strong> l'organisation [=name:full].",
   mDeleteProjectLotContent: "Vous êtes sur le point de <strong>supprimer</strong> le dossier intelligent [=name:full].",

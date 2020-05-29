@@ -693,6 +693,7 @@ const ptBrClient = const <String, String> {
   mDiscardDraftTitle: "Descartar rascunho?",
   mDiscardDraftContent: "As alterações feitas podem não ser salvas.",
   mDiscardChangesTitle: "Discard changes?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "Você está prestes a <strong>excluir permanentemente</strong> o aplicativo [=name].",
   mDeleteOrganizationContent: "Você está prestes a <strong>excluir permanentemente</strong> a organização [=name:full].",
   mDeleteProjectLotContent: "Você está prestes a <strong>excluir</strong> a pasta inteligente [=name:full].",

@@ -688,6 +688,7 @@ const esClient = const <String, String> {
   mDiscardDraftTitle: "¿Deshacer el proyecto?",
   mDiscardDraftContent: "Es posible que no se guarden los cambios realizados.",
   mDiscardChangesTitle: "¿Descartar cambios?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "Estás a punto de <strong>borrar permanentemente</strong> la app [=name].",
   mDeleteOrganizationContent: "Estás a punto de <strong>eliminar permanentemente</strong> la organización [=name:full].",
   mDeleteProjectLotContent: "Estás a punto de <strong>eliminar</strong> la carpeta inteligente [=name:full].",

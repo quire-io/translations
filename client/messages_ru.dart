@@ -688,6 +688,7 @@ const ruClient = const <String, String> {
   mDiscardDraftTitle: "Discard draft?",
   mDiscardDraftContent: "Changes you made may not be saved.",
   mDiscardChangesTitle: "Discard changes?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent: "You are about to <strong>permanently delete</strong> the organization [=name:full].",
   mDeleteProjectLotContent: "You are about to <strong>delete</strong> the smart folder [=name:full].",

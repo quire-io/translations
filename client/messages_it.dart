@@ -688,6 +688,7 @@ const itClient = const <String, String> {
   mDiscardDraftTitle: "Eliminare bozza?",
   mDiscardDraftContent: "Le modifiche apportate potrebbero non essere salvate.",
   mDiscardChangesTitle: "Annullare le modifiche?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "Stai per <strong>eliminare permanentemente</strong> l\' applicazione [=name].",
   mDeleteOrganizationContent: "Stai per <strong>eliminare permanentemente</strong> l'organizzazione [=name:full].",
   mDeleteProjectLotContent: "Stai per <strong>eliminare</strong> la cartella intelligente [=name:full].",

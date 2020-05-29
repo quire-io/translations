@@ -682,6 +682,7 @@ const deClient = const <String, String> {
   mDiscardDraftTitle: "Entwurf verwerfen?",
   mDiscardDraftContent: "Von Ihnen vorgenommene Änderungen werden möglicherweise nicht gespeichert.",
   mDiscardChangesTitle: "Änderungen verwerfen?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "Die App [=name] <strong>endgültig löschen</strong>.",
   mDeleteOrganizationContent: "Die Organisation [=name:full] <strong>endgültig löschen</strong>.",
   mDeleteProjectLotContent: "Den Smart Ordner [=name:full] <strong>unwiederbringlich löschen</strong>.",

@@ -688,6 +688,7 @@ const jaClient = const <String, String> {
   mDiscardDraftTitle: "下書きを削除しますか？",
   mDiscardDraftContent: "変更内容が保存されない可能性があります。",
   mDiscardChangesTitle: "Discard changes?",
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
   mDeleteAppContent: "アプリ[=name]を<strong>永久に削除</strong>します。",
   mDeleteOrganizationContent: "組織[=name:full]を<strong>永久に削除</strong>します。",
   mDeleteProjectLotContent: "スマートフォルダー[=name:full]を<strong>削除</strong>します。",

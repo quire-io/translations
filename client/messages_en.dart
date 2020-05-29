@@ -866,6 +866,8 @@ const enClient = const <String, String> {
 
   mDiscardChangesTitle: "Discard changes?",
 
+  mContentModifiedTitle: "The content you are editing has been modified. Please view the changes below.",
+
   mDeleteAppContent:
     "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent:
