@@ -1010,7 +1010,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
   mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
   mAppDeveloperDiscTitle: 'FAQs',
-  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
+  mAppDeveloperDiscDesc: 'Participe nas discussões mais recentes da API do Quire com a Equipa de Desenvolvedores e a comunidade Quire.',
   mAppDeveloperStartButton: 'Start building',
   mAppCreatedBy: 'por [=company]',
   mAppInstalledDesc: 'Já instalou esta aplicação. Para obter mais informações, visite [=setting].',
@@ -1474,5 +1474,5 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileTasksFoundIn: "TAREFAS ENCONTRADAS EM",
   mMobileTabNotification: "Notificações",
   mMobileTabMyTasks: "As Minhas Tarefas",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "Nenhum resultado encontrado em <b>[=name]</b>."
 };
