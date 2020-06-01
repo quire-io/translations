@@ -1002,7 +1002,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppDeveloperDocDesc: 'Die Entwicklerdokumentation enthält alle Informationen, die Sie für die Quire-API benötigen',
   mAppDeveloperTutorialDesc: 'Das Entwicklertutorial erklärt die Erstellung einer App mit der Quire-API',
   mAppDeveloperDiscTitle: 'FAQs',
-  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
+  mAppDeveloperDiscDesc: 'Nehmen Sie an den neuesten Diskussionen über die Quire-API mit dem Quire Developer Team und der Quire-Community teil.',
   mAppDeveloperStartButton: 'Los geht’s',
   mAppCreatedBy: 'von [=company]',
   mAppInstalledDesc: 'Sie haben diese App bereits installiert, für weitere Informationen besuchen Sie bitte Ihre [=setting].',
@@ -1464,5 +1464,5 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileTasksFoundIn: "AUFGABEN GEFUNDEN IN",
   mMobileTabNotification: "Benachrichtigungen",
   mMobileTabMyTasks: "Aufgaben",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "Es wurden keine Ergebnisse in <b>[=name]</b> gefunden."
 };
