@@ -1294,7 +1294,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileReload: "ricarica",
   mMobileTime: "Ora",
   mMobileEditRole: "Modifica ruolo",
-  mMobileMenuArchive: "Archiva",
+  mMobileMenuArchive: "Archivia",
   mMobileMenuUnarchive: "Mostra",
   mMobileTasksSelected: "[=amount] Selezionati",
   mMobileFiles: "File",
