@@ -1033,6 +1033,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'o <a href="/signup?email=[=email]">registrati di nuovo</a>.',
   mGplusAuthorizeErrorTitle: "Autorizzazione con Google fallita",
   mGplusAuthorizeError: "Oops... Autorizzazione con Google fallita. Si prega di riprovare.",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "Questo progetto è già nell\'organizzazione specificata.",
   mTransferTaskToSameProject: "Questa attività è già nel progetto specificato.",
   mTransferTargetNotExist: "La destinazione non esiste più.",

@@ -1032,6 +1032,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'veya  <a href="/signup?email=[=email]">tekrar kaydolun</a>.',
   mGplusAuthorizeErrorTitle: "Google yetkilendirmesi başarısız oldu",
   mGplusAuthorizeError: "Hata! Google yetkilendirmesi başarısız oldu. Lütfen tekrar deneyin.",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "Bu proje zaten belirttiğiniz organizasyonda.",
   mTransferTaskToSameProject: "Bu görev zaten belirttiğiniz projede.",
   mTransferTargetNotExist: "Hedef artık mevcut değil.",

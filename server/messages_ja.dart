@@ -1033,6 +1033,8 @@ Quireをご利用になったご感想をお聞かせください。
     '<a href="/signup?email=[=email]">再度登録</a>してください。',
   mGplusAuthorizeErrorTitle: "Google認証に失敗しました",
   mGplusAuthorizeError: "Google認証に失敗しました。再度お試しください。",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "このプロジェクトは、すでに指定した組織にあります。",
   mTransferTaskToSameProject: "このタスクは、すでに指定したプロジェクトにあります。",
   mTransferTargetNotExist: "ターゲットが見つかりません。",

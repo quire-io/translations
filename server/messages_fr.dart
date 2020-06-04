@@ -1015,6 +1015,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'ou <a href="/signup?email=[=email]">inscrivez-vous à nouveau</a>.',
   mGplusAuthorizeErrorTitle: "Google Authorization a échoué",
   mGplusAuthorizeError: "Oups... Google Authorization a échoué. Veuillez réessayer.",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "Ce projet est déjà dans l'organisation que vous avez indiqué.",
   mTransferTaskToSameProject: "Cette tâche est déjà dans le projet que vous avez indiqué.",
   mTransferTargetNotExist: "La cible n'existe plus.",

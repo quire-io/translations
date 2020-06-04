@@ -1034,6 +1034,8 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
     'ou <a href="/signup?email=[=email]">registe-se novamente</a>.',
   mGplusAuthorizeErrorTitle: "Falha na autorização Google",
   mGplusAuthorizeError: "Ups... A autorização do Google falhou. Por favor, tente novamente.",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "Este projeto já está na organização que especificou.",
   mTransferTaskToSameProject: "Esta tarefa já está no projeto que especificou.",
   mTransferTargetNotExist: "O objeto já não existe.",

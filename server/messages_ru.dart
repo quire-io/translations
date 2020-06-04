@@ -1035,6 +1035,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'or <a href="/signup?email=[=email]">sign up again</a>.',
   mGplusAuthorizeErrorTitle: "Google authorization failed",
   mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
   mTransferProjectToSameOrganization: "This project is already in the organization you specified.",
   mTransferTaskToSameProject: "This task is already in the project you specified.",
   mTransferTargetNotExist: "The target no longer exists.",

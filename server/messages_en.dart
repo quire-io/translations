@@ -1342,6 +1342,9 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mGplusAuthorizeErrorTitle: "Google authorization failed",
   mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
 
+  mAppleAuthorizeErrorTitle: "Apple authorization failed",
+  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
+
   mTransferProjectToSameOrganization:
     "This project is already in the organization you specified.",
   mTransferTaskToSameProject:
