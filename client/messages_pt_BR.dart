@@ -288,7 +288,7 @@ const ptBrClient = const <String, String> {
   mSearchSectionLabel: "Organizações,Pastas Inteligentes,Projetos,Usuários,Filtros guardados",
   mBaseFilterLabel: "Todas, Ativas, Concluídas, Por Fazer, Em Progresso, Peekaboo",
   mExtFilterLabel: "Seguindo,Atribuído por,Criado por,Atribuído a,Tags,Prioridade,Marcado como Favorito,Minhas Tarefas,Boards,Unread,Projetos",
-  mGrouperLabel: "Responsável,Data,Prioridade,Agendado Por Dia,Agendado Por Semana,Concluído Por Semana,Criar Por Semana,Iniciar Por Semana,Atualizar Por Semana,Estado,Nome,Tag,Projeto",
+  mGrouperLabel: "Responsável,Data,Prioridade,Agendado Por Dia,Agendado Por Semana,Concluído Por Semana,Criar Por Semana,Iniciar Por Semana,Atualizar Por Semana,Estado,Nome,Tag,Projeto,Quadro,Sublist",
   mFilterOperatorContains: 'Contém',
   mFilterOperatorLabels: '+=E;|=Ou;-=Não',
   mFilterRecentHistory: "Histórico recente",

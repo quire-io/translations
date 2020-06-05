@@ -277,7 +277,7 @@ const trClient = const <String, String> {
   mSearchSectionLabel: "Organizasyonlar,Akıllı Klasörler,Projeler,Üyeler,Kaydedilmiş filtreler",
   mBaseFilterLabel: "Tümü,Aktif,Tamamlandı,Yapılacak,Devam Etmekte,Mahzen",
   mExtFilterLabel: "Takip edilen,Atama yapan,Oluşturan,Sorumlu,Etiketler,Öncelik,Favorilere eklenmiş,Görevlerim,Panolar,Okunmamış,Projeler",
-  mGrouperLabel: "Sorumlu,Tarih,Öncelik,Tarihe Göre Sırala,Haftaya Göre Sırala,Haftaya Göre Tamamlama Tarihi, Haftaya Göre Oluşturma Tarihi,Haftaya Göre Başlama Tarihi,Haftaya Göre Güncelleme Tarihi,Durum,Ad,Etiket,Proje",
+  mGrouperLabel: "Sorumlu,Tarih,Öncelik,Tarihe Göre Sırala,Haftaya Göre Sırala,Haftaya Göre Tamamlama Tarihi, Haftaya Göre Oluşturma Tarihi,Haftaya Göre Başlama Tarihi,Haftaya Göre Güncelleme Tarihi,Durum,Ad,Etiket,Proje,Pano,Sublist",
   mFilterOperatorContains: 'İçeren',
   mFilterOperatorLabels: '+=Ve;|=Ya Da;-=Değil',
   mFilterRecentHistory: "Yakın geçmiş",
