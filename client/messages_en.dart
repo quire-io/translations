@@ -335,6 +335,7 @@ const enClient = const <String, String> {
   mStateLabel: "To-Do,In Progress,Completed",
   mTaskTypeLabel: "Normal,Subproject,Label",
   mBoard: "Board",
+  mSublist: "Sublist",
 
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",
@@ -691,8 +692,6 @@ const enClient = const <String, String> {
   mHideMutipleSelectTaskTooltip: "Hide selected tasks",
 
   mShowStatesTooltip: "Show [=status]",
-  mBoardListTooltip: "Board list",
-  
 
   mCommentsRemoved: "This comment has been removed.",
 
@@ -1193,7 +1192,6 @@ const enClient = const <String, String> {
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "My Tasks",
   mUserTaskViewTooltip: "Tasks",
-  mBoardViewTooltip: "Board",
 
   // profile
   mProfileEditTooltip: "Edit",
