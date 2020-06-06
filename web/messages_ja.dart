@@ -296,7 +296,7 @@ const jaWeb = const <String, String> {
   mTutorialContextmenuTip: "ヒント：ショートカットキーの一覧を表示するには「F1」キーを押します。",
   mNextTutorial: "次のチュートリアルに進む",
   mBoardTutorialLinkTitle: "Quireかんばんボードで作業の流れを可視化",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
+  mSublistTutorialLinkTitle: "自分だけのQuireサブリストで、重要なタスクに集中",
   mSignupToday: "今日からQuireで始めましょう！",
   mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
