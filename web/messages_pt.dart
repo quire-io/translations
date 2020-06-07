@@ -296,7 +296,7 @@ const ptWeb = const <String, String> {
   mTutorialContextmenuTip: "Dica: Pode pressionar F1 para ver a lista completa de atalhos do teclado.",
   mNextTutorial: "Próximo Tutorial",
   mBoardTutorialLinkTitle: "Visualize o seu fluxo de trabalho com o Quadro Kanban do Quire",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
+  mSublistTutorialLinkTitle: "Foque-se nas tarefas certas com uma Sub-lista personalizada do Quire",
   mSignupToday: "Vamos começar no Quire hoje!",
   mBoardTutorialTitle: "Tutorial Quire - Quadro Kanban",
   mBoardTutorialDesc:
