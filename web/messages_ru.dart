@@ -20,155 +20,155 @@ const ruWeb = const <String, String> {
   mSlogan: 'Раскройте Ваши Идеи',
   mSloganSentence: 'Раскройте ваши идеи',
   mSloganSubtitle: 'Визуальная платформа для совместной работы для ваших следующих замечательных проектов.',
-  mQuireDescription: 'The best collaborative project management software for breaking down goals in hierarchical lists.',
-  mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
+  mQuireDescription: 'Лучшее программное обеспечение для совместного управления проектами для разбивки целей в иерархических списках.',
+  mHomeSectionDreamsTitle: "Воплотите Ваши Мечты в Жизнь",
   mHomeSectionDreamsDesc:
-    "“There’s no path before me, <br> "
-    "and a track will be created behind me.” <br>"
-    "- Takamura Kotaro",
-  mHomeSectionStartSmallTitle: "Think Big, Start Small",
+    "“Там нет пути до меня, <br> "
+    "и путь будет создан позади меня.” <br>"
+    "- Такамура Котаро",
+  mHomeSectionStartSmallTitle: "Думай масштабно, начинай с малого",
   mHomeSectionStartSmallDesc:
-    "We face a challenge by breaking it down. That is how our minds naturally work. <br>"
-    "Quire lets you map out your thoughts, and tackle them with small steps.",
-  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
+    "Мы сталкиваемся с проблемой и разделяем ее на части. Так естественным образом работает наш ум. <br>"
+    "Quire позволяет планировать ваши мысли и решать их небольшими шагами.",
+  mHomeSectionVisuallyTitle: "Оптимизируйте Ваши Задачи Визуально",
   mHomeSectionVisuallyDesc:
-    "Visualize your workflow. Arrange, prioritize, "
-    "and focus on what matters the most with Kanban board. Get everyone on the same page.",
-  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+    "Визуализируйте свой рабочий процесс. Приводите в порядок, назначайте приоритеты, "
+    "и сосредоточьтесь на том, что важнее всего с доской Канбан. Соберите их всех на одной странице.",
+  mHomeSectionProgressTitle: "Увидеть и Подняться над Своим Прогрессом",
   mHomeSectionProgressDesc:
-    "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
-    "your projects, and your team now and ahead. And celebrate success.",
+    "Слушайте пульс вашей мечты. Осмыслите взлеты и падения ваших задач, "
+    "ваших проектов и вашей команды - сейчас и в будущем. И празднуйте успех.",
   mHomeSectionSignupMidDesc:
-    "Everything you need to go from ideas to action. <br>"
-    "Sign up now. It's free!",
+    "Всё, что вам нужно, чтобы перейти от идеи к действию. <br>"
+    "Регистрирейтесь сейчас. Это бесплатно!",
   mHomeSectionSignupBottomDesc:
-    "Quire is here to walk your dreams home. <br>"
-    "So go for it. And have fun!",
-  mHomeSection7Title: "Anytime. Anywhere.",
-  mFeaturesSection1Title: "All you need. [=linebreak]No more, no less.",
+    "Quire здесь, чтобы ваши мечты обрели дом. <br>"
+    "Так что дерзайте. И получайте удовольствие!",
+  mHomeSection7Title: "В любое время. Где угодно.",
+  mFeaturesSection1Title: "Все, что вам нужно. [=linebreak]Не больше, не меньше.",
   mFeaturesSection1Desc:
-    "Spend less time figuring out how things work. <br>"
-    "Quire’s powerful features and intuitive design allow for project management harmony.",
+    "Тратьте меньше времени на выяснение того, как все работает. <br>"
+    "Мощные функции Quire и интуитивно понятный дизайн обеспечивают гармонию управления проектами.",
   mFeaturesSectionSignupBottomDesc:
-    "Everything you want and all you need to get things done. <br>"
-    "See for yourself, sign up now.",
-  mFeaturesMigrationSectionTitle: "Looking for something better?",
-  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
-  mFeaturesMigrationAsanaButton: "Migrate from Asana",
-  mFeaturesMigrationTrelloButton: "Migrate from Trello",
-  mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",
-  mFeaturesMigrationOthersButton: "Migrate from Others",
-  mFeatureHierarchyTitle: "Nested Task List",
-  mFeatureHierarchyDesc: "Tackle big projects by breaking them down into small, manageable steps.",
-  mFeatureBoardTitle: "Kanban Board",
-  mFeatureBoardDesc: "Visualize your workflow to better manage and focus on your tasks.",
-  mFeatureSublistTitle: "Sublist",
-  mFeatureSublistDesc: "Create personalized sublists to get focused on the right tasks at the right time.",
-  mFeatureMytasksTitle: "My Tasks at a Glance",
-  mFeatureMytasksDesc: "Stay on top of tasks related to you across all projects.",
-  mFeatureSmartFolderTitle: "Smart Folders",
-  mFeatureSmartFolderDesc: "View, and organize tasks from different projects you chose in one place.",
-  mFeatureExternalTeamTitle: "Outsource to External Team",
-  mFeatureExternalTeamDesc: "Focus on your core tasks and assign those that are non-core to third parties easily and safely.",
-  mFeatureTeamTitle: "Teamwork in Realtime",
-  mFeatureTeamDesc: "Share and delegate tasks to your friends and colleagues. See their modifications on your screen instantly.",
-  mFeatureMessageTitle: "Instant Messaging",
-  mFeatureMessageDesc: "See who said what about your tasks instantly.",
-  mFeatureMultipleAssignee: "Multiple Assignees",
-  mFeatureMultipleAssigneeDesc: "Assign a task to the people responsible for it.",
-  mFeatureRoleTitle: "Roles & Permissions",
-  mFeatureRoleDesc: "Grant different authorities to different members of your projects.",
-  mFeatureShareLinkTitle: "Share Your Project with Clients",
-  mFeatureShareLinkDesc: "Send an invitation link to your clients so they can access your project without signup.",
-  mFeatureShareTitle: "Share Your Project with Anyone",
-  mFeatureShareDesc: "Make your project public so anyone with that URL can see your project.",
-  mFeatureDrilldownTitle: "Zoom In",
-  mFeatureDrilldownDesc: "Focus on a task and see all its subtasks while filtering out everything else.",
-  mFeatureGroupTitle: "Sort Tasks",
-  mFeatureGroupDesc: "Sort your tasks to see those with the same assignee, priority, etc., together.",
-  mFeatureFilterTitle: "Filter tasks",
-  mFeatureFilterDesc: "Filter your tasks to focus on a few crucial tasks and leave out the rest.",
-  mFeatureBlinkSearchTitle: "Blink Search",
-  mFeatureBlinkSearchDesc: "Find any project, organization or member you want in an instant.",
-  mFeatureThemesTitle: "Themes",
-  mFeatureThemesDesc: "Switch to a light, or dark theme for the comfort of your eyes.",
-  mFeatureHealthStatsTitle: "Health Stats",
-  mFeatureHealthStatsDesc: "A visual overview of how well each of your projects and members is performing.",
-  mFeatureRecurringTitle: "Recurring Tasks",
-  mFeatureRecurringDesc: "Get your routines in your task tree once and for all.",
-  mFeatureTimeTitle: "Time and Duration",
-  mFeatureTimeDesc: "Set start and due dates to see a Gantt chart-like view in your calendar.",
-  mFeatureRemindersTitle: "Reminders",
-  mFeatureRemindersDesc: "Get reminded of upcoming tasks before start or due whenever you want across devices.",
-  mFeatureNotificationTitle: "Notifications",
-  mFeatureNotificationDesc: "Get notified of updates on what you care about and when.",
-  mFeatureFavoriteTitle: "Favorites",
-  mFeatureFavoriteDesc: "Give a thumbs up, vote for a task, or focus on those that matter to you personally. With ❤.",
-  mFeatureFollowersTitle: "Followers",
-  mFeatureFollowersDesc: "Follow tasks to get notified of any changes made to them automatically.",
-  mFeatureMobileAppTitle: "iOS App",
-  mFeatureMobileAppDesc: "Work seamlessly on your iPhone and iPad whenever, wherever.",
-  mFeatureSiriTitle: "Siri for Tasks",
-  mFeatureSiriDesc: "Your smart assistant that helps you manage tasks using just your voice.",
-  mFeatureAndroidTitle: "Android App",
-  mFeatureAndroidDesc: "Pick up where you left off on your Android phone. Even offline.",
-  mFeatureGoogleCalendarTitle: "Sync to Google Calendar",
-  mFeatureGoogleCalendarDesc: "See your tasks as events on Google, iCal or Outlook Calendar and get notified.",
-  mFeatureSlackTitle: "Slack integration",
-  mFeatureSlackDesc: "Get updates about your projects in a Slack channel and more.",
-  mFeatureIntegraGithubTitle: "GitHub integration",
-  mFeatureIntegraGithubDesc: "Keep everyone on your team up to date with the code changes by linking commits to your tasks.",
-  mFeatureChromeExtensionTitle: "Chrome Extension",
-  mFeatureChromeExtensionDesc: "Quickly access Quire and get notified from any web page in Chrome.",
-  mFeatureNameStyleTitle: "Color & Styles for Tasks",
-  mFeatureNameStyleDesc: "Highlight your tasks and projects by adding color, bold and more.",
-  mFeatureShortcutsTitle: "Keyboard Shortcuts",
-  mFeatureShortcutsDesc: "Tons of nifty shortcuts for shortcut addicts without touching your mouse.",
-  mFeatureSmartAddTitle: "Smart Add",
-  mFeatureSmartAddDesc: "Quickly assign a member, tag, priority, etc., to a task with smart keyboard shortcuts.",
-  mFeatureBatchOPTitle: "Batch Operations",
-  mFeatureBatchOPDesc: "Make changes, such as assigning a member and tag, to all your selected tasks at once.",
-  mFeatureTemplateTitle: "Project Template",
-  mFeatureTemplateDesc: "Save time - duplicate a project or task to use as a template.",
-  mFeatureImportTitle: "Import",
-  mFeatureImportDesc: "Pain-free moving from your current project management software to Quire.",
-  mFeatureExportTitle: "Export",
-  mFeatureExportDesc: "Convert your project data into CSV to edit it in Excel, or into JSON for further processing and back up.",
-  mFeaturePasteTitle: "Copy & Paste",
-  mFeaturePasteDesc: "Copy your contents from other apps like Word, Excel and Email and paste as tasks in Quire.",
-  mFeatureGoogleDriveTitle: "File Sharing",
-  mFeatureGoogleDriveDesc: "Easily upload a file or attach a file from Google Drive to your tasks.",
+    "Все, что вы хотите, и все, что вам нужно, чтобы добиться цели. <br>"
+    "Убедитесь сами, зарегистрируйтесь сейчас.",
+  mFeaturesMigrationSectionTitle: "В поисках чего-то лучшего?",
+  mFeaturesMigrationSectionDesc: "Безболезненная миграция в Quire за 3 простых шага!",
+  mFeaturesMigrationAsanaButton: "Мигрировать из Asana",
+  mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
+  mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",
+  mFeaturesMigrationOthersButton: "Мигрировать из других",
+  mFeatureHierarchyTitle: "Вложенный Список Задач",
+  mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",
+  mFeatureBoardTitle: "Доска Канбан",
+  mFeatureBoardDesc: "Визуализируйте свой рабочий процесс, чтобы лучше управлять и фокусироваться на своих задачах.",
+  mFeatureSublistTitle: "Подсписок",
+  mFeatureSublistDesc: "Создавайте персонализированные списки, чтобы сосредоточиться на нужных задачах в нужное время.",
+  mFeatureMytasksTitle: "Мои Задачи с одного взгляда",
+  mFeatureMytasksDesc: "Будьте в курсе задач, связанных с вами - во всех проектах.",
+  mFeatureSmartFolderTitle: "Умные Папки",
+  mFeatureSmartFolderDesc: "Просмотр и организация задач из разных выбранных проектов в одном месте.",
+  mFeatureExternalTeamTitle: "Поручите Внешней Команде",
+  mFeatureExternalTeamDesc: "Сконцентрируйтесь на основных задачах и легко и безопасно назначайте неосновные задачи другим лицам.",
+  mFeatureTeamTitle: "Коммандная работа в реальном времени",
+  mFeatureTeamDesc: "Делитесь и делегируйте задачи своим друзьям и коллегам. Смотрите их изменения на вашем экране - мгновенно.",
+  mFeatureMessageTitle: "Обмен мгновенными сообщениями",
+  mFeatureMessageDesc: "Смотрите, кто написал что-то в ваших задачах - мгновенно.",
+  mFeatureMultipleAssignee: "Несколько Ответственных",
+  mFeatureMultipleAssigneeDesc: "Назначьте задачу всем людям, ответственным за неё.",
+  mFeatureRoleTitle: "Роли и Права доступа",
+  mFeatureRoleDesc: "Предоставляйте разные полномочия разным участникам ваших проектов.",
+  mFeatureShareLinkTitle: "Поделитесь своим проектом с клиентами",
+  mFeatureShareLinkDesc: "Отправьте ссылку-приглашение своим клиентам, чтобы они могли получить доступ к вашему проекту - без регистрации.",
+  mFeatureShareTitle: "Поделитесь Своим Проектом с Кем Угодно",
+  mFeatureShareDesc: "Сделайте ваш проект общедоступным, чтобы каждый, у кого есть ссылка, мог видеть ваш проект.",
+  mFeatureDrilldownTitle: "Приближение",
+  mFeatureDrilldownDesc: "Сосредоточьтесь на задаче и смотрите все её подзадачи, отфильтровывая всё остальное.",
+  mFeatureGroupTitle: "Сортировка Задач",
+  mFeatureGroupDesc: "Сортируйте ваши задачи вместе, чтобы увидеть те, у которых один и тот же исполнитель, приоритет и т.д.",
+  mFeatureFilterTitle: "Фильтр Задач",
+  mFeatureFilterDesc: "Отфильтруйте свои задачи, чтобы сосредоточиться на нескольких важных задачах, а остальные не учитывайте.",
+  mFeatureBlinkSearchTitle: "Мгновенный Поиск",
+  mFeatureBlinkSearchDesc: "Найти любой проект, организацию или её участника в одно мгновение.",
+  mFeatureThemesTitle: "Темы",
+  mFeatureThemesDesc: "Переключитесь на светлую или темную тему для комфорта ваших глаз.",
+  mFeatureHealthStatsTitle: "Статистика Самочувствия",
+  mFeatureHealthStatsDesc: "Визуальный обзор того, насколько хорошо работает каждый из ваших проектов и их участников.",
+  mFeatureRecurringTitle: "Повторяющиеся Задачи",
+  mFeatureRecurringDesc: "Избавьтесь от рутины в списке задач раз и навсегда.",
+  mFeatureTimeTitle: "Время и Продолжительность",
+  mFeatureTimeDesc: "Установите даты начала и окончания, чтобы увидеть аналог диаграммы Ганта в календаре.",
+  mFeatureRemindersTitle: "Напоминания",
+  mFeatureRemindersDesc: "Получайте напоминания о предстоящих задачах перед началом или в любое время, когда вы хотите - на разных устройствах.",
+  mFeatureNotificationTitle: "Уведомления",
+  mFeatureNotificationDesc: "Получайте уведомления о том, что и когда вас волнует.",
+  mFeatureFavoriteTitle: "Избранные",
+  mFeatureFavoriteDesc: "Ставьте палец вверх, голосуя за задачу, чтобы сосредоточиться на тех, которые имеют значение для вас лично. С ❤.",
+  mFeatureFollowersTitle: "Следить",
+  mFeatureFollowersDesc: "Следите за задачами, чтобы получать уведомления о любых внесенных в них изменениях автоматически.",
+  mFeatureMobileAppTitle: "iOS-приложение",
+  mFeatureMobileAppDesc: "Работайте без проблем на вашем iPhone и iPad - всегда и везде.",
+  mFeatureSiriTitle: "Сири для Задач",
+  mFeatureSiriDesc: "Ваш умный помощник, помогающий вам управлять задачами, используя только ваш голос.",
+  mFeatureAndroidTitle: "Android-приложение",
+  mFeatureAndroidDesc: "Переходите туда, где вы находились - на вашем телефоне Android. Даже в автономном режиме.",
+  mFeatureGoogleCalendarTitle: "Синхронизация с Календарем Google",
+  mFeatureGoogleCalendarDesc: "Смотрите ваши задачи как события в календаре Google, iCal или Outlook и получайте уведомления.",
+  mFeatureSlackTitle: "Интеграция в Slack",
+  mFeatureSlackDesc: "Получайте обновления о всех своих проектах на канале Slack и многое другое.",
+  mFeatureIntegraGithubTitle: "Интеграция с GitHub",
+  mFeatureIntegraGithubDesc: "Держите всех в вашей команде в курсе изменений кода, связывая коммиты с вашими задачами.",
+  mFeatureChromeExtensionTitle: "Расширение Chrome",
+  mFeatureChromeExtensionDesc: "Быстрый доступ к Quire и получение уведомлений с любой веб-страницы в Chrome.",
+  mFeatureNameStyleTitle: "Цвет и Стили для Задач",
+  mFeatureNameStyleDesc: "Выделите свои задачи и проекты, добавив цвет, выделение и многое другое.",
+  mFeatureShortcutsTitle: "Горячие Клавиши",
+  mFeatureShortcutsDesc: "Тонны изящных горячих клавиш для любителей горящих клавиш, работайте, не касаясь мыши.",
+  mFeatureSmartAddTitle: "Умное Добавление",
+  mFeatureSmartAddDesc: "Быстрое назначение участника, тега, приоритета и т.д. задаче с помощью умных сочетаний клавиш.",
+  mFeatureBatchOPTitle: "Пакетные Операции",
+  mFeatureBatchOPDesc: "Внесите изменения, такие как назначение ответственными и тегов, сразу всем выбранным задачам.",
+  mFeatureTemplateTitle: "Шаблон Проекта",
+  mFeatureTemplateDesc: "Экономьте время - продублируйте проект или задачу для использования в качестве шаблона.",
+  mFeatureImportTitle: "Импорт",
+  mFeatureImportDesc: "Безболезненный переход от вашего текущего программного обеспечения для управления проектами в Quire.",
+  mFeatureExportTitle: "Экспорт",
+  mFeatureExportDesc: "Конвертируйте данные вашего проекта в CSV, чтобы редактировать его в Excel, или в JSON для дальнейшей обработки и резервного копирования.",
+  mFeaturePasteTitle: "Копировать и Вставить",
+  mFeaturePasteDesc: "Скопируйте содержимое из других приложений, таких как Word, Excel и Email, и вставьте их в Quire в качестве задач.",
+  mFeatureGoogleDriveTitle: "Обмен Файлами",
+  mFeatureGoogleDriveDesc: "Легко загрузить файл или прикрепить файл из Google Drive к вашим задачам.",
   mFeatureOpenAPITitle: "Quire API",
-  mFeatureOpenAPIDesc: "Let you build scripts and integrate your favorite applications with Quire.",
-  mFeatureAppDirectoryTitle: "Quire & Beyond",
-  mFeatureAppDirectoryDesc: "Boost up your productivity with some top-notch integrations.",
+  mFeatureOpenAPIDesc: "Позволяет создавать сценарии и интегрировать ваши любимые приложения в Quire.",
+  mFeatureAppDirectoryTitle: "Quire & Другие",
+  mFeatureAppDirectoryDesc: "Повысьте свою производительность с помощью первоклассных интеграций.",
   mPricingPageDesc:
-    "<p>Many people are asking us about pricing.</p>"
-    "<p>But, there are so many exciting ideas yet to be explored! We would rather focus on making Quire more awesome, than figuring out which feature belongs to which package.</p>"
-    "<p>At least until the first half of 2020.</p>"
-    "<p>In other words, for the time being, you can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members.</p>"
-    "<p>And the good news is, whatever you are already using until then, will continue to be free.</p>"
-    '<p>Got any question? Feel free to <a href="mailto:support@quire.io">contact us.</a></p>',
-  mCookieGDPRDesc: "We use cookies to ensure that we give you the best experience on our website.",
-  mSecurityPageTitle: 'Security at Quire',
+    "<p>Многие люди спрашивают нас о ценах.</p>"
+    "<p>Но есть так много интересных идей, которые еще предстоит изучить! Мы бы предпочли сделать Quire более крутым, чем выяснять, какая функция относится к какому тарифу.</p>"
+    "<p>По крайней мере, до третьего квартала 2020 года.</p>"
+    "<p>Другими словами, на данный момент вы можете пользоваться бесплатной учетной записью Quire с участием до 35 организаций, 80 проектов и 30 участников в каждом.</p>"
+    "<p>И хорошая новость в том, что все, что вы уже используете, будет бесплатным.</p>"
+    '<p>Есть вопросы? Не стесняйтесь <a href="mailto:support@quire.io">связаться с нами.</a></p>',
+  mCookieGDPRDesc: "Мы используем куки, чтобы обеспечить вам лучший опыт на нашем сайте.",
+  mSecurityPageTitle: 'Безопасность в Quire',
   mSecurityPageDesc:
-    "At Quire, we work very hard to ensure your data to be safe, secure and private. <br>"
-    "Your tasks, projects and personal information are safe with us, and we want you to know how we're handling it.",
-  mSecurityEncryptionTitle: 'Data Encryption',
+    "В Quire мы прилагаем все усилия, чтобы ваши данные были безопасными, надежными и конфиденциальными. <br>"
+    "Ваши задачи, проекты и личная информация в безопасности с нами, и мы хотим, чтобы вы знали, как мы справляемся с этим.",
+  mSecurityEncryptionTitle: 'Шифрование Данных',
   mSecurityEncryptionDesc:
-    "At Quire, we take personal data protection very serious. "
-    "We want you to rest assured that your personal data will be carefully handled and protected with Quire. "
-    'You can check out our <a href="/privacy">policy page</a>. All traffic on Quire runs on SSL/TLS, the most powerful and trusted protocol for secure communications.',
-  mSecurityStorageTitle: 'Data Storage Security',
+    "Компания Quire очень серьезно относится к защите персональных данных. "
+    "Мы хотим, чтобы вы были уверены, что ваши личные данные будут тщательно обрабатываться и защищаться с помощью Quire. "
+    'Вы можете посмотреть нашу <a href="/privacy">страницу приватности</a>. Весь трафик на Quire работает по SSL/TLS, самый мощный и надежный протокол для безопасной связи.',
+  mSecurityStorageTitle: 'Безопасность Хранения Данных',
   mSecurityStorageDesc:
-    'Your data is stored in the United States by Amazon Web Services (AWS), '
-    'and is backed up continuously with copies stored in an off-site location for disaster recovery. '
-    'This highly secure AWS infrastructure deploys a physical security program with SSAE 16 certification. '
-    'For more information, please visit <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
-  mSecurityBackupTitle: 'Data Backup',
+    'Ваши данные хранятся в Соединенных Штатах с использованием Amazon Web Services (AWS), '
+    'и постоянно резервируются копиями, сохраненными за пределами площадки AWS, для аварийного восстановления. '
+    'Высоконадежная инфраструктура AWS обеспечивает программу физической безопасности с сертификацией SSAE 16. '
+    'Для получения дополнительной информации, пожалуйста, посетите страницу <a href="https://aws.amazon.com/security">AWS Cloud Security</a>.',
+  mSecurityBackupTitle: 'Резервное Копирование Данных',
   mSecurityBackupDesc:
-    'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
+    'Вы будете полностью контролировать свои данные на платформе Quire (доступ, передачу, экспорт и удаление данных). '
+    'Вы можете в любое время создать резервную копию своих данных на локальном диске. '
     'When a user decides to leave Quire and delete his or her account, '
     'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
     'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
