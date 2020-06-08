@@ -145,7 +145,7 @@ const trWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Birçok insan bize fiyatlandırmayı soruyor.</p>"
     "<p>Ancak, keşfedilecek çok heyecan verici fikir var! Hangi özelliğin hangi pakete ait olduğunu belirlemek yerine Quire'yi daha harika hale getirmeye odaklanmak istiyoruz.</p>"
-    "<p>En azından 2020'nin ilk yarısına kadar.</p>"
+    "<p>En azından 2020'nin üçüncü çeyreğine kadar.</p>"
     "<p>Diğer bir deyişle, şimdilik, en fazla 35 kuruluş, 80 proje ve 30 üyeyle ücretsiz bir Quire hesabının tadını çıkarabilirsiniz..</p>"
     "<p>Ve iyi haber şu ki, o zamana kadar kullandığınız her şey ücretsiz olmaya devam edecek.</p>"
     '<p>Sorunuz mu var? <a href="mailto:support@quire.io">Bize ulaşın.</a></p>',
@@ -222,7 +222,7 @@ const trWeb = const <String, String> {
     "<p>Bir görev eklerken, <strong>termin</strong> için <strong>&lt;&gt;</strong>, "
     "<strong>sorumlu</strong> için <strong>@</strong>, "
     "ve <strong>etiket</strong> için <strong>#</strong> yazabilirsiniz. "
-    'Bunun gibi: "Come up with a list of promotional items &lt;Friday&gt; @David #Promotion".</p>',
+    'Bunun gibi: "Bir promosyon ürünleri listesi hazırlayın &lt;Cuma&gt; @David #Promosyon".</p>',
   mTutorialDetailPanelTitle: "Onlara biraz detay verin",
   mTutorialDetailPanelContent:
     "<p>Çoğu zaman, bir görevin sorunsuz bir şekilde yerine getirilmesi için biraz daha fazla bilgiye ihtiyacı vardır.</p>"
@@ -340,7 +340,7 @@ const trWeb = const <String, String> {
     "<p>Tüm görevlerin bir sütuna sıkıştırıldığını ve "
     "her bir ekip üyesinin iş yükünü "
     "ve durumunu elde etmek zorlaşıyor mu?</p>"
-    "<p>Görevlerinizi tercih edilen özelliklere göre gruplandırmak için filtre/sıralama özelliğini kullanabilirsiniz."
+    "<p>Görevlerinizi tercih edilen özelliklere göre gruplandırmak için filtre/sıralama özelliğini kullanabilirsiniz. "
     "Örneğin: sorumlulara göre gruplamaya tıklarsanız her üyenin sorumlu olduğu görevleri görebilirsiniz.</p>",
   mBoardTutorialShortcutTitle: "Yardımcı Kısayollar",
   mBoardTutorialShortcutContent:
@@ -416,8 +416,8 @@ const trWeb = const <String, String> {
     've bu proje yüzlerce görev içeriyor. Birlikte çalışan en az 10 kişi var. '
     'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
     'Mahzen ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
-    '<p>Derin bir nefes alın ve sorununuzu çözmek için ilk alt listenizi oluşturun. Birlikte görüntülemek istediğiniz '
-    'which you want to view together and move to a separate list. Artık her şeyin dikkatinizi dağıtmadan, '
+    '<p>Derin bir nefes alın ve sorununuzu çözmek için ilk alt listenizi oluşturun. Birlikte görüntülemek istediğiniz önemli '
+    'görevleri seçin ve ayrı bir listeye gidin. Artık her şeyin dikkatinizi dağıtmadan, '
     'odaklanacak kendi yapılacaklar listeniz var.</p>'
     "<p>[=img]</p>"
     "<p>Kök görevi seçtiğinizde ve alt listeye eklediğinizde, alt görevler otomatik olarak "
