@@ -144,8 +144,8 @@ const frWeb = const <String, String> {
   mFeatureAppDirectoryDesc: "Stimulez votre productivité avec des applications de premier ordre.",
   mPricingPageDesc:
     "<p>Vous êtes nombreux à nous demander le prix.</p>"
-    "<p>Mais il y a tellement d'autres idées passionantes encore à explorer ! Nous préférerions d'abord nous concentrer sur l'amélioration de Quire, plutôt que de nous demander le prix de chaque fonctionnalité.</p>"
-    "<p>Du moins jusqu'au premier semestre 2020.</p>"
+    "<p>Mais il y a tellement d'autres idées passionantes encore à explorer ! Nous préférerons d'abord nous concentrer sur l'amélioration de Quire, avant de nous demander le coût de chaque fonctionnalité.</p>"
+    "<p>Du moins jusqu'au troisième trimestre 2020.</p>"
     "<p>En d'autres termes, pour le moment, vous pouvez profiter d'un compte Quire gratuit, avec jusqu'à 35 organisations, 80 projets et 30 membres.</p>"
     "<p>Et la bonne nouvelle, c'est que toutes les fonctionnalités que vous utilisez déjà resteront disponibles gratuitement.</p>"
     '<p>Des questions ? N\'hésitez pas à <a href="mailto:support@quire.io">nous contacter.</a></p>',
