@@ -927,7 +927,7 @@ const ptBrClient = const <String, String> {
   mTipReopenArchive: 'Tarefas Peekaboo serão novamente apresentadas automaticamente depois de [=n] dias.',
   mTipFilterForArchived: 'Você pode clicar em Tarefas Peekaboo para ver as tarefas que acabou de ocultar.',
   mProfileViewTooltip: "Visão Geral",
-  mTreeViewTooltip: "List",
+  mTreeViewTooltip: "Lista",
   mMyTaskViewTooltip: "As Minhas Tarefas",
   mUserTaskViewTooltip: "Tarefas",
   mProfileEditTooltip: "Editar",
