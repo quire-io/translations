@@ -225,7 +225,7 @@ const enWeb = const <String, String> {
   mSecurityBackupTitle: 'Data Backup',
   mSecurityBackupDesc: 
     'You will be completely in control of your data on Quire platform (to access, transfer, export and delete the data). '
-    'You can backup your data to your local driver on your own at anytime. '
+    'You can backup your data to your local drive on your own at anytime. '
     'When a user decides to leave Quire and delete his or her account, '
     'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
     'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
