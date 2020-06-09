@@ -34,7 +34,7 @@ const itWeb = const <String, String> {
   mHomeSectionVisuallyDesc:
     "Visualizza il tuo flusso di lavoro. Organizza, dai la priorità, "
     "e focalizzati su ciò che è più importante con una bacheca Kanban. Porta tutti sulla stessa lunghezza d\' onda.",
-  mHomeSectionProgressTitle: "Vedi ed Eleva il tuo progresso",
+  mHomeSectionProgressTitle: "Vedi e migliora il tuo progresso",
   mHomeSectionProgressDesc:
     "Ascolta il battito dei tuoi sogni. Conosci gli alti e bassi delle tue attività, "
     "dei tuoi progetti, della tua squadra ora e in futuro. E celebra il tuo successo.",
@@ -212,7 +212,7 @@ const itWeb = const <String, String> {
   mTutorialTagTitle: "Etichettale con il contesto",
   mTutorialTagContent:
     "<p>Puoi assegnare alle attività un contesto aggiuntivo o raggrupparle.</p>"
-    "<p>Ad esempio, puoi aggiungere etichette denominate sponsor, sede e promozione"
+    "<p>Ad esempio, puoi aggiungere etichette denominate sponsor, sede e promozione "
     "con i colori rosso, verde e blu per le attività correlate.</p>"
     '<p>Per aggiungere etichette, fai clic sull\'icona "etichetta" di un\'attività e inserisci il nome dell\'etichetta.</p>',
   mTutorialTagTip: "Suggerimento: puoi filtrare le attività per etichetta\/e per vedere solo un gruppo di attività con quell\' etichetta\/e.",
@@ -220,7 +220,7 @@ const itWeb = const <String, String> {
   mTutorialAutocompleteContent:
     "<p>E se fosse possibile aggiungere e assegnare tutto, tutto in una volta?</p>"
     "<p>Quando aggiungi un'attività, puoi digitare <strong>&lt;&gt;</strong> per aggiungere "
-    "<strong>scadenz</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>, "
+    "<strong>scadenza</strong>, <strong>@</strong> per aggiungere un <strong>assegnatario</strong>, "
     "e <strong>#</strong> per aggiungere un\' <strong>etichetta</strong>, ecc."
     'In questo modo: "Crea un elenco di articoli promozionali &lt;Venerdì&gt; @Davide #Promozione".</p>',
   mTutorialDetailPanelTitle: "Dagli alcuni dettagli",
