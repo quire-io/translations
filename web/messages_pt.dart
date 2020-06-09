@@ -145,7 +145,7 @@ const ptWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Muitas pessoas nos estão a perguntar sobre os preços.</p>"
     "<p>Mas, ainda existem tantas ideias entusiasmantes a explorar! Preferimos focar-nos em tornar o Quire ainda mais espetacular, do que decidir que recurso pertence a um determinado plano.</p>"
-    "<p>Pelo menos até ao primeiro semestre de 2020.</p>"
+    "<p>Pelo menos até ao terceiro trimestre de 2020.</p>"
     "<p>Por outras palavras, por agora pode usufruir de uma conta Quire gratuita com até 35 organizações, 80 projetos e 30 membros.</p>"
     "<p>E a boa noticia é que, o que quer que seja que estiver a usar até lá, continuará a ser gratuito.</p>"
     '<p>Tem alguma questão? Não hesite em <a href="mailto:support@quire.io">contactar-nos.</a></p>',
