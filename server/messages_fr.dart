@@ -106,6 +106,7 @@ const frServer = const <String, String> {
   mLoginAccountDesc: "Vous n'avez pas encore de compte ?",
   mLoginAccountCreate: "Créez un compte Quire",
   mSigninGoogle: "Connectez-vous avec Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "ALLER À VOTRE PROJET",
   mDownloadAPK: "TÉLÉCHARGER L'APK",
   mAPKVersion: 'Version [=version]',

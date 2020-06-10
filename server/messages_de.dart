@@ -106,6 +106,7 @@ const deServer = const <String, String> {
   mLoginAccountDesc: "Neu bei Quire?",
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "AN PROJEKT ARBEITEN",
   mDownloadAPK: "APK HERUNTERLADEN",
   mAPKVersion: 'Version [=version]',

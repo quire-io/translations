@@ -106,6 +106,7 @@ const trServer = const <String, String> {
   mLoginAccountDesc: "Henüz bir hesabınız yok?",
   mLoginAccountCreate: "Bir Quire hesabı oluşturun",
   mSigninGoogle: "Google ile giriş yap",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "PROJENİZE GİDİN",
   mDownloadAPK: "APK İNDİR",
   mAPKVersion: 'Versiyon [=version]',

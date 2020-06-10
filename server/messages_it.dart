@@ -106,6 +106,7 @@ const itServer = const <String, String> {
   mLoginAccountDesc: "Non hai ancora un\' account?",
   mLoginAccountCreate: "Crea un\' account Quire",
   mSigninGoogle: "Collegati con Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "VAI AL TUO PROGETTO",
   mDownloadAPK: "SCARICA APK",
   mAPKVersion: 'Versione [=version]',

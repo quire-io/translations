@@ -106,6 +106,7 @@ const ptBrServer = const <String, String> {
   mLoginAccountDesc: "Não tem uma conta ainda?",
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Entrar com o Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "IR PARA O SEU PROJETO",
   mDownloadAPK: "BAIXAR APK",
   mAPKVersion: 'Versão [=version]',

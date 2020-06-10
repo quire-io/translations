@@ -106,6 +106,7 @@ const jaServer = const <String, String> {
   mLoginAccountDesc: "アカウントをお持ちでしょうか？",
   mLoginAccountCreate: "Quireアカウントを作成",
   mSigninGoogle: "Googleアカウントでログイン",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "プロジェクトに移動",
   mDownloadAPK: "APKファイルをダウンロード",
   mAPKVersion: 'バージョン[=version]',

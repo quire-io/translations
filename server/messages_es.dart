@@ -106,6 +106,7 @@ const esServer = const <String, String> {
   mLoginAccountDesc: "¿Aún no tienes una cuenta?",
   mLoginAccountCreate: "Crear cuenta de Quire",
   mSigninGoogle: "Iniciar sesión con Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "IR A TU PROYECTO",
   mDownloadAPK: "DESCARGAR APK",
   mAPKVersion: 'Versión [=version]',

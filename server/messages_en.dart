@@ -120,6 +120,7 @@ const enServer = const <String, String> {
   mLoginAccountDesc: "Don't have an account yet?",
   mLoginAccountCreate: "Create a Quire account",
   mSigninGoogle: "Sign in with Google",
+  mSigninApple: "Sign in with Apple",
   mHomeGotoWSButton: "GO TO YOUR PROJECT",
 
   mDownloadAPK: "DOWNLOAD APK",
