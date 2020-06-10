@@ -154,7 +154,7 @@ const frWeb = const <String, String> {
   mSecurityPageDesc:
     "Chez Quire, nous travaillons dur pour sécuriser et préserver vos données. <br>"
     "Vos tâches, projets et informations personnelles sont en sécurité avec nous, et voici comment nous les prenons en charge.",
-  mSecurityEncryptionTitle: 'Cryptage des données',
+  mSecurityEncryptionTitle: 'Chiffrement des données',
   mSecurityEncryptionDesc:
     "Chez Quire, nous prenons la protection des données personnelles au sérieux. "
     "Soyez assuré(e) que vos données personnelles sont prises en charge avec soin et protégées avec Quire. "
