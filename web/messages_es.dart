@@ -296,7 +296,7 @@ const esWeb = const <String, String> {
   mTutorialContextmenuTip: "Consejo: Puedes pulsar F1 para ver una lista completa de los atajos del teclado.",
   mNextTutorial: "Siguiente Tutorial",
   mBoardTutorialLinkTitle: "Visualiza tu flujo de trabajo con el tablero de Quire Kanban",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
+  mSublistTutorialLinkTitle: "Concéntrate en unas tareas concretas con un sublista de Quire perzonalizada",
   mSignupToday: "¡Empezemos hoy en Quire!",
   mBoardTutorialTitle: "Turorial de Quire - Kanban Board",
   mBoardTutorialDesc:
