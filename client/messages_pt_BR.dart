@@ -386,7 +386,7 @@ const ptBrClient = const <String, String> {
   mShowUndoTooltip: "Mostrar lista desfazer",
   mUndoTooltip: "Desfazer",
   mActivities: "Atividades",
-  mOnline: "Online",
+  mOnline: "On-line",
   mTaskActivities: "Atividades da tarefa",
   mNActivities: "[=count] atividades",
   mRemoveHistory: "Remover do histórico",
