@@ -931,6 +931,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Básico",
   mAdvancedMode: "Avançado",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Selecione um ou mais repositórios aos quais deseja conectar-se. "
     "Pode desmarcar aqueles que selecionou.",

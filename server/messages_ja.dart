@@ -930,6 +930,7 @@ Quireをご利用になったご感想をお聞かせください。
   mAutoMode: "（自動）",
   mBasicMode: "基本",
   mAdvancedMode: "詳細",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "連携するリポジトリを選択してください。"
     "選択後にチェックをはずすことができます。",

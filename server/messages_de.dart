@@ -923,6 +923,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Basic",
   mAdvancedMode: "Fortgeschritten",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Wählen sie ein oder mehrere Repositories die Sie verbinden möchten. "
     "Sie können bereits ausgewählte Repositories wieder abwählen.",

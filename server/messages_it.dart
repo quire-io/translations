@@ -930,6 +930,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Base",
   mAdvancedMode: "Avanzata",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Seleziona uno o più repository a cui vuoi connetterti. "
     "Puoi deselezionare quelli già selezionati.",

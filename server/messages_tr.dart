@@ -929,6 +929,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mAutoMode: "(oto)",
   mBasicMode: "Temel",
   mAdvancedMode: "İleri",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Bağlanmak istediğiniz bir veya daha fazla depo seçin. "
     "Seçtiğinizlerin işaretini kaldırabilirsiniz.",

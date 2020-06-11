@@ -912,6 +912,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Basique",
   mAdvancedMode: "Avancé",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Sélectionnez un ou plusieurs dépôts que vous voulez connecter. "
     "Vous pouvez annuler ce que vous avez sélectionné.",

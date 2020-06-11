@@ -932,6 +932,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Basic",
   mAdvancedMode: "Advanced",
+  mSettingUserProjectMiscTitle: 'Misc',
   mIntegraGithubDesc:
     "Select one or more repositories you want to connect to. "
     "You can uncheck those you have selected.",
