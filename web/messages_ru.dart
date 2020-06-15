@@ -169,34 +169,34 @@ const ruWeb = const <String, String> {
   mSecurityBackupDesc:
     'Вы будете полностью контролировать свои данные на платформе Quire (доступ, передачу, экспорт и удаление данных). '
     'Вы можете в любое время создать резервную копию своих данных на локальном диске. '
-    'When a user decides to leave Quire and delete his or her account, '
-    'all of the data will be removed from Quire platform completely without having any other hidden copy without user’s permission. '
-    'No one is allowed to access the data without written permission, and we only ask if it is really necessary to solve client-related issues.',
-  mSecurityPriorityTitle: 'Privacy is our Priority',
+    'Когда пользователь решает покинуть Quire и удалить свою учетную запись, '
+    'все данные будут полностью удалены с платформы Quire без какой-либо другой скрытой копии без разрешения пользователя. '
+    'Никому не разрешен доступ к данным без письменного разрешения, и мы спрашиваем его, только если это действительно необходимо для решения проблем, связанных с клиентом.',
+  mSecurityPriorityTitle: 'Конфиденциальность является нашим Приоритетом',
   mSecurityPriorityDesc:
-    'We always make sure that our users are aware of their control over their personal data. '
-    'We do not share personally identifiable information with third parties. '
-    'Quire commits to be transparent and straightforward without any hidden agendas about the use of users’ <a href="/privacy">personal data</a>.',
-  mTutorialTitle: "Quire Tutorial",
+    'Мы всегда следим за тем, чтобы наши пользователи знали о своем контроле над своими личными данными.. '
+    'Мы не передаем личную информацию третьим лицам. '
+    'Quire обязуется быть прозрачным и понятным без каких-либо скрытых планов использования <a href="/privacy">личных данных</a> пользователей.',
+  mTutorialTitle: "Руководство Quire",
   mTutorialDesc:
-    "Welcome on board!<br>Excited to kick off your projects? "
-    "Here are a few quick steps to help you get started in Quire.",
-  mTutorialAddProjectTitle: "Name your great project",
+    "Добро пожаловать!<br>Готовы начать свои проекты? "
+    "Вот несколько шагов, которые помогут вам начать работу в Quire.",
+  mTutorialAddProjectTitle: "Назови свой великий проект",
   mTutorialAddProjectContent:
-    "<p>Your awesome project deserves a name. If it already has one, you can skip this step.</p>"
-    "<p>Let’s say you want to organize a charity run to fight children starvation across the world. "
-    "You can call it: </span><strong>Children’s Run for Charity 2018</strong>.</p>"
-    '<p>To add a project, click on the "+" icon in the upper-right of your workspace.</p>',
-  mTutorialAddTaskTitle: "Add your stuff to it",
+    "<p>Ваш удивительный проект заслуживает имени. Если оно уже есть, вы можете пропустить этот шаг.</p>"
+    "<p>Допустим, вы хотите организовать благотворительный забег для борьбы с голодом среди детей по всему миру. "
+    "Вы можете назвать проект: </span><strong>Детский забег на благотворительность 2018</strong>.</p>"
+    '<p>Чтобы добавить проект, нажмите на значок «+» в правом верхнем углу вашего рабочего пространства.</p>',
+  mTutorialAddTaskTitle: "Добавьте свои вещи к нему",
   mTutorialAddTaskContent:
-    "<p>Be it ideas, notes or to dos, you can dump them all as tasks or subtasks.</p>"
+    "<p>Будь то идеи, заметки или дела, вы можете распределить их все как задачи или подзадачи.</p>"
     "<ul>"
-    '<li><strong>To add tasks</strong> &mdash; Click on the "+" icon at the top, '
-    'or simply press shortcut ‘t’. Press Enter and continue pressing it to add more.</li>'
-    "<li><strong>To add subtasks</strong> &mdash; Press Tab to make task a subtask.</li>"
-    "<li><strong>To stop adding</strong> &mdash; Press Esc.</li>"
+    '<li><strong>Добавить задачи</strong> &mdash; Нажмите на значок «+» вверху, '
+    'или просто нажмите кнопку «t». Нажмите Enter и продолжайте нажимать, чтобы добавить еще.</li>'
+    "<li><strong>Добавить подзадачи</strong> &mdash; Нажмите Tab, чтобы сделать задачу подзадачей.</li>"
+    "<li><strong>Чтобы прекратить добавление</strong> &mdash; Нажмите Esc.</li>"
     "</ul>"
-    "<p>Just like how you would in a Word processor!</p>",
+    "<p>Как в текстовом редакторе!</p>",
   mTutorialSetDueTitle: "Deadline is important too",
   mTutorialSetDueContent:
     "<p>A task without a deadline tends to slip through your fingers.</p>"
