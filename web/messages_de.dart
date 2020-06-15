@@ -141,7 +141,7 @@ const deWeb = const <String, String> {
   mPricingPageDesc:
     "<p>Viele Leute fragen uns nach dem Preismodell.</p>"
     "<p>Aber es gibt noch so viele aufregende Ideen, die es zu entdecken gilt! Wir konzentrieren uns lieber darauf, Quire noch besser zu machen, als herauszufinden, welche Funktion zu welchem Paket gehört.</p>"
-    "<p>Zumindest bis zum ersten Halbjahr 2020.</p>"
+    "<p>Zumindest bis zum dritten Quartal 2020.</p>"
     "<p>Mit anderen Worten: Derzeit können Sie ein kostenloses Quire-Konto mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern nutzen.</p>"
     "<p>Und die gute Nachricht ist, dass alles, was Sie bis dahin bereits verwenden, weiterhin kostenlos ist.</p>"
     '<p>Fragen? <a href="mailto:support@quire.io">Schreiben Sie uns!</a></p>',

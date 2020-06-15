@@ -106,7 +106,9 @@ const deServer = const <String, String> {
   mLoginAccountDesc: "Neu bei Quire?",
   mLoginAccountCreate: "Jetzt schnell und einfach anmelden",
   mSigninGoogle: "Anmelden mit Google",
-  mSigninApple: "Sign in with Apple",
+  mSignupGoogle: "Sign up with Google",
+  mSigninApple: "Anmelden mit Apple",
+  mSignupApple: "Sign up with Apple",
   mHomeGotoWSButton: "AN PROJEKT ARBEITEN",
   mDownloadAPK: "APK HERUNTERLADEN",
   mAPKVersion: 'Version [=version]',
@@ -923,7 +925,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Basic",
   mAdvancedMode: "Fortgeschritten",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Sonstiges',
   mIntegraGithubDesc:
     "Wählen sie ein oder mehrere Repositories die Sie verbinden möchten. "
     "Sie können bereits ausgewählte Repositories wieder abwählen.",
