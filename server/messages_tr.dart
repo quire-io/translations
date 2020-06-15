@@ -930,8 +930,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMembersSecDesc: "Bir organizasyondaki üyelerin kendisine ait herhangi bir projeye erişimi vardır.",
   mAutoMode: "(oto)",
   mBasicMode: "Temel",
-  mAdvancedMode: "İleri",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mAdvancedMode: "Gelişmiş",
+  mSettingUserProjectMiscTitle: 'Çeşitli',
   mIntegraGithubDesc:
     "Bağlanmak istediğiniz bir veya daha fazla depo seçin. "
     "Seçtiğinizlerin işaretini kaldırabilirsiniz.",
