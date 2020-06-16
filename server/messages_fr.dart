@@ -106,9 +106,9 @@ const frServer = const <String, String> {
   mLoginAccountDesc: "Vous n'avez pas encore de compte ?",
   mLoginAccountCreate: "Créez un compte Quire",
   mSigninGoogle: "Connexion avec Google",
-  mSignupGoogle: "Sign up with Google",
+  mSignupGoogle: "Inscription avec Google",
   mSigninApple: "Connexion avec Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupApple: "Inscription avec Apple",
   mHomeGotoWSButton: "ALLER À VOTRE PROJET",
   mDownloadAPK: "TÉLÉCHARGER L'APK",
   mAPKVersion: 'Version [=version]',
@@ -914,7 +914,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Basique",
   mAdvancedMode: "Avancé",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Divers',
   mIntegraGithubDesc:
     "Sélectionnez un ou plusieurs dépôts que vous voulez connecter. "
     "Vous pouvez annuler ce que vous avez sélectionné.",
