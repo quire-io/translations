@@ -83,7 +83,7 @@ const itWeb = const <String, String> {
   mFeatureShareTitle: "Condividi il tuo progetto con Chiunque",
   mFeatureShareDesc: "Rendi il tuo progetto pubblico in modo che chiunque abbia l\'URL possa vedere il tuo progetto.",
   mFeatureDrilldownTitle: "Zoom In",
-  mFeatureDrilldownDesc: "Concentrati su un\' attività e vedi le sottoattività, escludento tutto il resto.",
+  mFeatureDrilldownDesc: "Concentrati su un\' attività e vedi le sottoattività, escludendo tutto il resto.",
   mFeatureGroupTitle: "Ordina attività",
   mFeatureGroupDesc: "Ordina le tue attività per vedere vicine quelle con lo stesso assegnatario, priorità, ecc... .",
   mFeatureFilterTitle: "Filtra attività",

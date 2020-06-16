@@ -882,7 +882,7 @@ const itClient = const <String, String> {
   mSearchEscape: "<code>Esc</code> per chiudere la ricerca",
   mSearchProjectHint: "cerca",
   mSearchMustChar: "Digita 3 o più caratteri oppure premi Invio per ricercare",
-  mSearchOption: "Ammbito di ricerca",
+  mSearchOption: "Ambito di ricerca",
   mGroupDropStateToComplete: "Rilascia qui per completare le attività",
   mGroupDropStateToStart: "Rilascia qui per iniziare le attività",
   mGroupDropStateToPostpone: "Rilascia qui per posporre le attività",
@@ -920,9 +920,9 @@ const itClient = const <String, String> {
   mTipEnterToAddTask: "Puoi premere Invio per aggiungere nuove attività.",
   mTipBatchBar: "Puoi cliccare qui per modificare le attività selezionate tutte insieme.",
   mTipSelectDarkTheme: 'Puoi <a href="/r/setting?tab=options">passare al tema scuro</a> nelle impostazioni del tuo Account.',
-  mTipExcluded: "Attività completate molto tempo fà sono esclude.",
+  mTipExcluded: "Attività completate molto tempo fà sono escluse.",
   mTipExcludedOption:
-    "Attività completate molto tempo fà sono esclude. "
+    "Attività completate molto tempo fà sono escluse. "
     "Puoi cliccare qui per vederne altre.",
   mTipCheckTutorial:
     "Non sei sicuro di come iniziare? "
