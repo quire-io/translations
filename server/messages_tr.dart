@@ -1048,50 +1048,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mThanksFeedbackTask:
     "Teşekkür ederim! Görüşleriniz bizim için çok değerlidir. <br>Bunun için bir görev oluşturduk. "
     '<a href="[=url]">Buradan takip</a> edebilirsiniz.',
-  mTipF1: "İpucu: Klavye kısayollarını görmek için F1 tuşuna basın",
-  mTipSelectMultiple: "İpucu: <code>[=ctrlCommand]+Click</code> veya <code>Shift+Click</code> ile birden fazla görev seçin",
-  mTipMention: 'İpucu: Birinden bahsetmek için açıklamalara veya yorumlara <b><i>@user_name</i></b> yazın',
-  mTipReference: 'İpucu: Bir göreve başvurmak için açıklamalara veya yorumlara <b><i>#task_name</i></b> yazın',
-  mTipDrillDown: 'İpucu: Bir görevin yalnızca alt görevlerini görmek için  <code>[=ctrlCommand]+I</code> ile yakınlaştırın',
-  mTipTwitter:
-    'İpucu: Son güncellemeler için bizi <a href="https://twitter.com/quire_io" target="_blank">Twitter</a>\'da '
-    'takip edin',
-  mTipMarkdown:
-    'İpucu: Daha iyi bir stil için açıklama ve yorumlarda'
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">İşaretleme</a> kullanın',
-  mTipMoveTask:
-    'İpucu: Bir görevi <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> ve '
-    '<code>[=ctrlAlt]+→</code> ile taşıyın',
-  mTipTabMove: 'İpucu: Düzenleme modunda görevinizi girin! <code>Tab</code> veya <code>Shift+Tab</code> tuşlarına basın',
-  mTipInvite:
-    'Enjoying Quire? <a href="/invite">Arkadaşlarını davet et</a>, '
-    'veya nasıl daha iyi olabileceğimiz konusunu <a href="/feedback">bizimle paylaşın</a>!',
-  mTipPrint:
-    'İpucu: Görevlerinizin basılı bir kopyasını saklayın! '
-    '<code>[=ctrlCommand]+P</code> ile <a href="javascript:print()">Yazdır</a>',
-  mTipTaskId: 'İpucu: Görev ID ve ast üst ilişkilerini görmek için <code>[=ctrlAlt]</code> tuşunu tıklayın',
-  mTipMyTasksShortcut: "İpucu: Görevlerimi başlatmak için <code>&gt;</code> tuşunu tıklayın",
-  mTipAssignInTaskName:
-    'Uyarı: <a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">Hızlı ekleme</a> için görevinizin adını girerken '
-    '<code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> ve <code>^</code> yazın',
-  mTipChromeExtension:
-    'İpucu: Quire\'a hızlı bir şekilde erişmek ve bildirim almak için '
-    '<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Uzantısı</a> ekleyin',
-  mTipRightClick:
-    'Uyarı: Atananları, önceliği ve daha fazlasını kolayca ayarlamak için görevlere '
-    '<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">sağ tıklayın</a>!',
-  mTipShiftLR:
-    'İpucu: Tüm görevleri seviyeye göre daraltmak veya genişletmek için '
-    '<code>Shift+←</code> veya <code>Shift+→</code> tuşlarına basın',
-  mTipPaste:
-    'İpucu: Kopyaladığınız şeyleri doğrudan görev olarak <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">yapıştırmak</a> için '
-    '<code>[=ctrlCommand]+V</code> tuşlarına basın',
-  mTipCrossProject: 'İpucu: Farklı projelerdeki tüm görevleri görüntülemek için akıllı bir klasör ekleyin',
-  mTipBlinkSearch: 'İpucu: Genel arama (<code>[=ctrlCommand]+B</code>), çalışma alanınızdaki hemen hemen her şeyi bulmanın kolay bir yoludur',
-  mTipDarkTheme: 'İpucu: Geceleri gözlerin yorulduğunda <a href="/r/setting?tab=options">karanlık temayı seç</a>',
-  mTipSwipe: 'İpucu: Görevleri tamamlamak, eklemek veya silmek için hızlıca kaydırın',
   mIntegraInvalidOptions: "Yapılandırma yanlış",
   mTooManyNewOrgagnizations:
     "Kısa sürede çok fazla organizasyon eklediniz. "

@@ -1031,50 +1031,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mThanksFeedbackTask:
     "Merci ! Votre commentaire nous est précieux.<br>Nous avons créé une tâche pour lui. "
     'Vous pouvez <a href="[=url]">la suivre ici</a>.',
-  mTipF1: "Astuce : Tapez F1 pour voir les raccourcis clavier",
-  mTipSelectMultiple: "Astuce : Sélectionnez plusieurs tâches avec <code>[=ctrlCommand]+Clic</code> ou <code>Maj+Clic</code>",
-  mTipMention: 'Astuce : Entrez <b><i>@nom_utilisateur</i></b> dans une description ou un commentaire pour mentionner quelqu\'un',
-  mTipReference: 'Astuce : Entrez <b><i>#nom_tache</i></b> dans une description ou un commentaire pour faire référence à une tâche',
-  mTipDrillDown: 'Astuce : Zoomez sur une tâche avec <code>[=ctrlCommand]+I</code> pour voir seulement ses sous-tâches',
-  mTipTwitter:
-    'Astuce : Suivez-nous sur <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'pour être au courant des dernières mises à jour',
-  mTipMarkdown:
-    'Astuce : Écrivez les descriptions et les commentaires en '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> pour une meilleure apparence',
-  mTipMoveTask:
-    'Astuce : Déplacez une tâche avec <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> et '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Astuce : Mettez en retrait les tâches en mode édition ! Utilisez <code>Tab</code> ou <code>Maj+Tab</code>',
-  mTipInvite:
-    'Vous appréciez Quire ? <a href="/invite">Invitez vos amis</a>, '
-    'ou <a href="/feedback">faites-nous part</a> de ce que nous pouvons améliorer !',
-  mTipPrint:
-    'Astuce : Gardez une copie papier de vos tâches ! <a href="javascript:print()">Imprimez-les</a> '
-    'avec <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Astuce : Tapez <code>[=ctrlAlt]</code> pour montrer l\'ID des tâches et leur fil d\'Ariane',
-  mTipMyTasksShortcut: "Astuce : Tapez <code>&gt;</code> pour ouvrir Mes Tâches",
-  mTipAssignInTaskName:
-    'Astuce : Tapez <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> et <code>^</code> lorsque vous nommez vos tâches pour '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">l\'ajout rapide</a>',
-  mTipChromeExtension:
-    'Astuce : Ajoutez <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">l\'Extension Chrome</a> '
-    'pour accéder rapidement à Quire et recevoir des notifications',
-  mTipRightClick:
-    'Astuce : Un <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">clic droit</a> '
-    'sur une tâche vous permet de définir facilement les attributions, la priorité, et bien plus !',
-  mTipShiftLR:
-    'Astuce : Tapez <code>Maj+←</code> ou '
-    '<code>Maj+→</code> pour réduire ou développer toutes les tâches niveau par niveau',
-  mTipPaste:
-    'Astuce : Tapez <code>[=ctrlCommand]+V</code> pour <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">coller</a> '
-    'ce que vous avez copié directement en tant que tâches',
-  mTipCrossProject: 'Astuce : Créez un dossier intelligent pour voir toutes les tâches de différents projets',
-  mTipBlinkSearch: 'Astuce : La recherche rapide (<code>[=ctrlCommand]+B</code>) vous permet de trouver facilement presque tout dans votre espace de travail',
-  mTipDarkTheme: 'Astuce : <a href="/r/setting?tab=options">Sélectionnez le thème sombre</a> quand vos yeux commencent à se fatiguer la nuit',
-  mTipSwipe: 'Astuce : Faites glisser pour terminer, ajouter ou supprimer une (ou des) tâche(s)',
   mIntegraInvalidOptions: "La configuration est incorrecte",
   mTooManyNewOrgagnizations:
     "Vous avez ajouté trop d'organisations sur une courte période. "

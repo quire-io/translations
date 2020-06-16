@@ -1049,50 +1049,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mThanksFeedbackTask:
     "¡Gracias! Tu opinión es muy importante para nosotros.<br>Hemos creado una tarea para ello. "
     'Puedes <a href="[=url]">seguirla aquí</a>.',
-  mTipF1: "Consejo: Pulsa F1 para ver los atajos de teclado",
-  mTipSelectMultiple: "Consejo: Selecciona varias tareas utilizando <code>[=ctrlCommand]+Clic</code> o <code>Shift+Clic</code>",
-  mTipMention: 'Consejo: Escribe <b><i>@user_name</i></b> en la descripción o los comentarios para mencionar a alguien',
-  mTipReference: 'Consejo: Escribe <b><i>#task_name</i></b> en la descripción o los comentarios para hacer referencia a una tarea',
-  mTipDrillDown: 'Consejo: Haz zoom en una tarea presionando <code>[=ctrlCommand]+I</code> para ver solo sus subtareas',
-  mTipTwitter:
-    'Consejo: Síguenos en <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'para estar al día de las actualizaciones',
-  mTipMarkdown:
-    'Consejo: escribe descripciones y comentarios en '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> para conseguir un estilo mejor',
-  mTipMoveTask:
-    'Consejo: Mueve una tarea utilizando <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> y '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Consejo: ¡Crea una sangría para tus tareas estando en el modo edición! Pulsa <code>Tab</code> o <code>Shift+Tab</code>',
-  mTipInvite:
-    '¿Estás disfrutando de Quire? <a href="/invite">¡Invita a tus amigos</a>, '
-    'o <a href="/feedback">haznos saber</a> en qué podemos mejorar!',
-  mTipPrint:
-    'Consejo: ¡Conserva una copia de tus tareas! <a href="javascript:print()">Imprímelas</a> '
-    'usando <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Consejo: Pulsa <code>[=ctrlAlt]</code> para mostrar la ID de las tareas y las breadcrumbs',
-  mTipMyTasksShortcut: "Consejo: Pulsa <code>&gt;</code> para iniciar Mis Tareas",
-  mTipAssignInTaskName:
-    'Consejo: Escribe <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> y <code>^</code> cuando nombres una tarea para '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">añadirla rápidamente</a>',
-  mTipChromeExtension:
-    'Consejo: Añade la <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extension de Chrome</a> '
-    'para acceder rápidamente a Quire y recibir notificaciones',
-  mTipRightClick:
-    'Consejo: ¡<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Haz clic con el botón derecho</a> '
-    'en las tareas para asignarlas fácilmente, establecer prioridades y más!',
-  mTipShiftLR:
-    'Consejo: Pulsa <code>Shift+←</code> o '
-    '<code>Shift+→</code> para contraer o expandir todas las tareas nivel por nivel',
-  mTipPaste:
-    'Consejo: Pulsa <code>[=ctrlCommand]+V</code> para <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">pegar</a> '
-    'lo que copiaste directamente como tareas',
-  mTipCrossProject: 'Consejo: Añade una carpeta inteligente para ver todas las tareas de los distintos proyectos',
-  mTipBlinkSearch: 'Consejo: La búsqueda resaltada (<code>[=ctrlCommand]+B</code>) es una forma fácil de encontrar casi todo en tu espacio de trabajo',
-  mTipDarkTheme: 'Consejo: <a href="/r/setting?tab=options">Selecciona el tema oscuro</a> cuando tus ojos se cansen por la noche',
-  mTipSwipe: 'Consejo: Desplaza para completar, añadir o borrar tareas(s)',
   mIntegraInvalidOptions: "La configuración es incorrecta",
   mTooManyNewOrgagnizations:
     "Has añadido demasiadas organizaciones en poco tiempo. "

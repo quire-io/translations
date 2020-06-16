@@ -1366,63 +1366,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "Thank You! Your feedback is most valuable to us.<br>We created a task for it. "
     'You can <a href="[=url]">follow it here</a>.',
 
-  mTipF1:
-    "Tip: Press F1 to see keyboard shortcuts",
-  mTipSelectMultiple:
-    "Tip: Select multiple tasks by <code>[=ctrlCommand]+Click</code> or <code>Shift+Click</code>",
-  mTipMention:
-    'Tip: Enter <b><i>@user_name</i></b> in descriptions or comments to mention someone',
-  mTipReference:
-    'Tip: Enter <b><i>#task_name</i></b> in descriptions or comments to reference a task',
-  mTipDrillDown:
-    'Tip: Zoom in a task by <code>[=ctrlCommand]+I</code> to only see its subtasks',
-  mTipTwitter:
-    'Tip: Follow us on <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'for recent updates',
-  mTipMarkdown:
-    'Tip: Write descriptions and comments in '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> for better style',
-  mTipMoveTask:
-    'Tip: Move a task by <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> and '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove:
-    'Tip: Indent your task while in edit mode! Press <code>Tab</code> or <code>Shift+Tab</code>',
-  mTipInvite:
-    'Enjoying Quire? <a href="/invite">Invite your friends</a>, '
-    'or <a href="/feedback">share with us</a> on how we can be better!',
-  mTipPrint:
-    'Tip: Keep a hard copy of your tasks! <a href="javascript:print()">Print</a> '
-    'them via <code>[=ctrlCommand]+P</code>',
-  mTipTaskId:
-    'Tip: Press <code>[=ctrlAlt]</code> to show task ID and breadcrumbs',
-  mTipMyTasksShortcut:
-    "Tip: Press <code>&gt;</code> to launch My Tasks",
-  mTipAssignInTaskName:
-    'Tip: Type <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> and <code>^</code> when naming your task for '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">quick add</a>',
-  mTipChromeExtension:
-    'Tip: Add <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chrome Extension</a> '
-    'to quickly access Quire and get notified',
-  mTipRightClick:
-    'Tip: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Right click</a> '
-    'on tasks to easily set assignees, priority and more!',
-  mTipShiftLR:
-    'Tip: Press <code>Shift+←</code> or '
-    '<code>Shift+→</code> to collapse or expand all tasks level by level',
-  mTipPaste:
-    'Tip: Press <code>[=ctrlCommand]+V</code> to <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">paste</a> '
-    'what you copied as tasks directly',
-  mTipCrossProject:
-    'Tip: Add a smart folder to view all tasks across different projects',
-  mTipBlinkSearch:
-    'Tip: Blink search (<code>[=ctrlCommand]+B</code>) is an easy way to find almost anything in your workspace',
-  mTipDarkTheme:
-    'Tip: <a href="/r/setting?tab=options">Select the dark theme</a> when your eyes grow weary at night',
-  mTipSwipe:
-    'Tip: Swipe to complete, add or delete tasks(s)',
-
   mIntegraInvalidOptions:
     "The configuration is incorrect",
 
