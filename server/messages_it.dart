@@ -106,9 +106,9 @@ const itServer = const <String, String> {
   mLoginAccountDesc: "Non hai ancora un\' account?",
   mLoginAccountCreate: "Crea un\' account Quire",
   mSigninGoogle: "Collegati con Google",
-  mSignupGoogle: "Sign up with Google",
-  mSigninApple: "Sign in with Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupGoogle: "Registrati con Google",
+  mSigninApple: "Collegati con Apple",
+  mSignupApple: "Registrati con Apple",
   mHomeGotoWSButton: "VAI AL TUO PROGETTO",
   mDownloadAPK: "SCARICA APK",
   mAPKVersion: 'Versione [=version]',
@@ -932,7 +932,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Base",
   mAdvancedMode: "Avanzata",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Varie',
   mIntegraGithubDesc:
     "Seleziona uno o più repository a cui vuoi connetterti. "
     "Puoi deselezionare quelli già selezionati.",
