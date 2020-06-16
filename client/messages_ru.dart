@@ -289,7 +289,7 @@ const ruClient = const <String, String> {
   mMenuItemGroupByTag: "Group by tag",
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
-  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread,Projects",
+  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread,Projects,Date",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag,Project,Board,Sublist",
   mFilterOperatorContains: 'Contains',
   mFilterOperatorLabels: '+=And;|=Or;-=Not',

@@ -283,7 +283,7 @@ const deClient = const <String, String> {
   mMenuItemGroupByTag: "Nach Tag gruppieren",
   mSearchSectionLabel: "Organisationen,Smarte Ordner,Projekte,Mitglieder,Gespeicherte Filter",
   mBaseFilterLabel: "Alle,Aktiv,Abgeschlossen,Ausstehend,In Bearbeitung,Peekaboo",
-  mExtFilterLabel: "Abonniert,Zugewiesen von,Erstellt von,Zugewiesen an,Tags,Priorität,Favorisiert,Meine Aufgaben,Boards,Ungelesen,Projekte",
+  mExtFilterLabel: "Abonniert,Zugewiesen von,Erstellt von,Zugewiesen an,Tags,Priorität,Favorisiert,Meine Aufgaben,Boards,Ungelesen,Projekte,Datum",
   mGrouperLabel: "Beauftragter,Datum,Priorität,Fällig pro Woche,Fällig pro Woche,Abgeschlossen pro Woche,Erstellen pro Woche,Starten pro Woche,Aktualisierung pro Woche,Status,Name,Tag,Vorlage,Board,Unterliste",
   mFilterOperatorContains: 'Enthält',
   mFilterOperatorLabels: '+=Und;|=Oder;-=Nicht',

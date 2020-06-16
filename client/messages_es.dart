@@ -289,7 +289,7 @@ const esClient = const <String, String> {
   mMenuItemGroupByTag: "Agrupar por etiqueta",
   mSearchSectionLabel: "Organizaciones,Carpetas Inteligentes,Proyectos,Miembros,Filtros guardados",
   mBaseFilterLabel: "Todo,Activas,Completadas,Por hacer,En progreso,Peekaboo",
-  mExtFilterLabel: "Siguiendo,Asignada por,Creada por,Asignada a,Etiquetas,Prioridad,Favoritos,Mis Tareas,Tableros,Sin leer,Proyectos",
+  mExtFilterLabel: "Siguiendo,Asignada por,Creada por,Asignada a,Etiquetas,Prioridad,Favoritos,Mis Tareas,Tableros,Sin leer,Proyectos,Fecha",
   mGrouperLabel: "Asignadas,Fecha,Prioridad,Vencimiento por día,Vencimiento por semana,Completadas por semana,Creadas por Semana,Comenzadas por Semana,Actualizadas por Semana,Estado,Nombre,Etiqueta,Proyecto,Tablero,Sublista",
   mFilterOperatorContains: 'Contiene',
   mFilterOperatorLabels: '+=Y;|=O;-=No',
