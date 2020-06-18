@@ -106,9 +106,9 @@ const ptBrServer = const <String, String> {
   mLoginAccountDesc: "Não tem uma conta ainda?",
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Entrar com o Google",
-  mSignupGoogle: "Sign up with Google",
+  mSignupGoogle: "Registro com o Google",
   mSigninApple: "Entrar com a Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupApple: "Registro com a Apple",
   mHomeGotoWSButton: "IR PARA O SEU PROJETO",
   mDownloadAPK: "BAIXAR APK",
   mAPKVersion: 'Versão [=version]',
@@ -931,7 +931,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Básico",
   mAdvancedMode: "Avançado",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Diversos',
   mIntegraGithubDesc:
     "Selecione um ou mais repositórios aos quais você deseja se conectar. "
     "Você pode desmarcar aqueles que você selecionou.",
