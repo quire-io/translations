@@ -106,9 +106,9 @@ const esServer = const <String, String> {
   mLoginAccountDesc: "¿Aún no tienes una cuenta?",
   mLoginAccountCreate: "Crear cuenta de Quire",
   mSigninGoogle: "Iniciar sesión con Google",
-  mSignupGoogle: "Sign up with Google",
+  mSignupGoogle: "Regístrate con Google",
   mSigninApple: "Iniciar sesión con Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupApple: "Regístrate con Apple",
   mHomeGotoWSButton: "IR A TU PROYECTO",
   mDownloadAPK: "DESCARGAR APK",
   mAPKVersion: 'Versión [=version]',
@@ -932,7 +932,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAutoMode: "(automático)",
   mBasicMode: "Básico",
   mAdvancedMode: "Avanzado",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Miscelaneo',
   mIntegraGithubDesc:
     "Selecciona uno o más repositorios a los que quieras conectar. "
     "Puedes desmarcar los que hayas seleccionado.",
