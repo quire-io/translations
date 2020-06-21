@@ -170,6 +170,14 @@ const enClient = const <String, String> {
   mLater: "Later",
   mEarlier: "EARLIER",
   mUnscheduled: "Unscheduled",
+  mUntilDate: "Until a date",
+  mSinceDate: "Since a date",
+  mOnDate: "On a date",
+  mWithinDateRange: "Within a date range",
+  mUntilWhatDate: "Until [=date]",
+  mSinceWhatDate: "Since [=date]",
+  mOnWhatDate: "On [=date]",
+
   mMinutesAgo: "[=n] minutes ago",
   mOneHourAgo: "1 hour ago",
   mHoursAgo: "[=n] hours ago",
@@ -347,7 +355,7 @@ const enClient = const <String, String> {
   mSearchSectionLabel: "Organizations,Smart Folders,Projects,Members,Saved filters",
 
   mBaseFilterLabel: "All,Active,Completed,To-Do,In Progress,Peekaboo",
-  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread,Projects",
+  mExtFilterLabel: "Following,Asgd by,Crtd by,Asgd to,Tags,Priority,Favorited,My Tasks,Boards,Unread,Projects,Date",
   mGrouperLabel: "Assignee,Date,Priority,Due Per Day,Due Per Week,Completed Per Week,Create Per Week,Start Per Week,Update Per Week,Status,Name,Tag,Project,Board,Sublist",
 
   mFilterOperatorContains: 'Contains',

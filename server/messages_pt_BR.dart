@@ -106,9 +106,9 @@ const ptBrServer = const <String, String> {
   mLoginAccountDesc: "Não tem uma conta ainda?",
   mLoginAccountCreate: "Crie uma conta no Quire",
   mSigninGoogle: "Entrar com o Google",
-  mSignupGoogle: "Sign up with Google",
+  mSignupGoogle: "Registro com o Google",
   mSigninApple: "Entrar com a Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupApple: "Registro com a Apple",
   mHomeGotoWSButton: "IR PARA O SEU PROJETO",
   mDownloadAPK: "BAIXAR APK",
   mAPKVersion: 'Versão [=version]',
@@ -931,7 +931,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Básico",
   mAdvancedMode: "Avançado",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Diversos',
   mIntegraGithubDesc:
     "Selecione um ou mais repositórios aos quais você deseja se conectar. "
     "Você pode desmarcar aqueles que você selecionou.",
@@ -1048,50 +1048,6 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mThanksFeedbackTask:
     "Obrigado! A  sua opinião é muito valiosa para nós.<br>Nós criámos uma tarefa para isso. "
     'Você pode <a href="[=url]">segui-la aqui</a>.',
-  mTipF1: "Dica: Pressione F1 para ver atalhos de teclado",
-  mTipSelectMultiple: "Dica: Selecione várias tarefas através de <code>[=ctrlCommand]+Clique</code> ou <code>Shift+Clique</code>",
-  mTipMention: 'Dica: Digite <b><i>@nome_usuário</i></b> nas descrições ou comentários para mencionar alguém',
-  mTipReference: 'Dica: Digite <b><i>#nome_tarefa</i></b> nas descrições ou comentários para fazer referência a uma tarefa',
-  mTipDrillDown: 'Dica: Amplie uma tarefa através de <code>[=ctrlCommand]+I</code> para ver apenas suas subtarefas',
-  mTipTwitter:
-    'Dica: Siga-nos no <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'para atualizações recentes',
-  mTipMarkdown:
-    'Dica: Escreva descrições e comentários em '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> para um estilo melhor',
-  mTipMoveTask:
-    'Dica: Mova uma tarefa através de <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> e '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Dica: Recue sua tarefa enquanto estiver no modo de edição! Pressione <code>Tab</code> ou <code>Shift+Tab</code>',
-  mTipInvite:
-    'Gostando do Quire? <a href="/invite">Convide seus amigos</a>, '
-    'ou<a href="/feedback">compartilhe conosco</a> sobre como podemos melhorar!',
-  mTipPrint:
-    'Dica: Mantenha uma cópia impressa das suas tarefas! <a href="javascript:print()">Imprima-as</a> '
-    'através de <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Dica: Pressione <code>[=ctrlAlt]</code> para mostrar a ID da tarefa e navegação em categorias',
-  mTipMyTasksShortcut: "Dica: Pressione <code>&gt;</code> para iniciar Minhas Tarefas",
-  mTipAssignInTaskName:
-    'Dica: Digite <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> e <code>^</code> quando nomeia sua tarefa para '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">adicionar rapidamente</a>',
-  mTipChromeExtension:
-    'Dica: Adicione a <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Extensão Chrome</a> '
-    'para acessar rapidamente o Quire e receber notificações',
-  mTipRightClick:
-    'Dica: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Clique com o botão direito</a> '
-    'nas tarefas para facilmente definir responsáveis, prioridade e muito mais!',
-  mTipShiftLR:
-    'Dica: Pressione <code>Shift+←</code> ou '
-    '<code>Shift+→</code> para reduzir ou expandir todas as tarefas, nível por nível',
-  mTipPaste:
-    'Dica: Pressione <code>[=ctrlCommand]+V</code> para <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">colar</a> '
-    'o que você copiou diretamente como tarefas',
-  mTipCrossProject: 'Dica: Adicione uma pasta inteligente para ver todas as tarefas sobre diferentes projetos',
-  mTipBlinkSearch: 'Dica: A pesquisa rápida (<code>[=ctrlCommand]+B</code>) é uma forma simples de encontrar quase tudo em sua área de trabalho',
-  mTipDarkTheme: 'Dica: <a href="/r/setting?tab=options">Selecione o tema escuro</a> quando os seus olhos se cansam de noite',
-  mTipSwipe: 'Dica: Deslize para concluir, adicionar ou excluir tarefas(s)',
   mIntegraInvalidOptions: "A configuração está incorreta",
   mTooManyNewOrgagnizations:
     "Você adicionou demasiadas organizações em um curto espaço de tempo. "

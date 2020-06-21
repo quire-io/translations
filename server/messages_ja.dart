@@ -1049,50 +1049,6 @@ Quireをご利用になったご感想をお聞かせください。
   mThanksFeedbackTask:
     "貴重なご意見をありがとうございます！<br>対応のためにタスクを作成しました。"
     '<a href="[=url]">ここをクリック</a>して、フォローできます。',
-  mTipF1: "ヒント：「F1」キーを押して、キーボードショートカットを表示",
-  mTipSelectMultiple: "ヒント：<code>[=ctrlCommand]+クリック</code>または<code>Shift+クリック</code>で、複数のタスクを選択",
-  mTipMention: 'ヒント：説明またはコメントに<b><i>@user_name</i>と</b>入力して、メンションする',
-  mTipReference: 'ヒント：説明またはコメントに<b><i>#task_name</i>と</b>入力して、タスクを参照',
-  mTipDrillDown: 'ヒント：<code>[=ctrlCommand]+I</code>でタスクにズームインし、子タスクのみを表示',
-  mTipTwitter:
-    'ヒント：<a href="https://twitter.com/quire_io" target="_blank">Twitter</a>でフォローして'
-    'お知らせを確認',
-  mTipMarkdown:
-    'ヒント：<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">マークダウン記法</a>で書式を設定して'
-    '説明またはコメントを記入',
-  mTipMoveTask:
-    'ヒント：<code>[=ctrlAlt]+↑</code>'
-    '<code>[=ctrlAlt]+↓</i></code>'
-    '<code>[=ctrlAlt]+←</i></code>'
-    '<code>[=ctrlAlt]+→</code>で、タスクを移動',
-  mTipTabMove: 'ヒント：編集モードでタスクのレベルを変更するには、<code>Tab</code>または<code>Shift+Tab</code>キーを押します',
-  mTipInvite:
-    'Quireを気に入っていただけたら、<a href="/invite">ご友人をご招待</a>'
-    'または改善点を<a href="/feedback">お知らせ</a>ください！',
-  mTipPrint:
-    'ヒント：<code>[=ctrlCommand]+P</code>で、タスクを'
-    '<a href="javascript:print()">印刷</a>して保存',
-  mTipTaskId: 'ヒント：<code>[=ctrlAlt]</code>キーを押して、タスクIDとパンくずリストを表示',
-  mTipMyTasksShortcut: "ヒント： <code>&gt;</code>キーを押して自分のタスクを立ち上げ",
-  mTipAssignInTaskName:
-    'ヒント：<code>@</code>、<code>#</code>、<code>!</code>、<code>&lt;</code>、<code>^</code>を入力して'
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">かんたんに追加</a>',
-  mTipChromeExtension:
-    'ヒント：<a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Chromeの拡張機能</a>を追加して、'
-    'かんたんにQuireにアクセスし、通知を受け取る',
-  mTipRightClick:
-    'ヒント：タスクを<a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">右クリック</a>して、'
-    '担当者や優先度をかんたんに設定',
-  mTipShiftLR:
-    'ヒント：<code>Shift+←</code>または'
-    '<code>Shift+→</code>キーを押して、タスクをレベルごとに折りたたみまたは展開',
-  mTipPaste:
-    'ヒント：<code>[=ctrlCommand]+V</code>キーを押して、コピーしたデータを'
-    'タスクとして<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">ペースト</a>',
-  mTipCrossProject: 'ヒント：スマートフォルダーを追加して、すべてのプロジェクトで担当しているタスクを閲覧',
-  mTipBlinkSearch: 'ヒント：サクサク検索(<code>[=ctrlCommand]+B</code>)は、ワークスペースの検索に便利な機能です',
-  mTipDarkTheme: 'ヒント：夜の作業で目が疲れたら、<a href="/r/setting?tab=options">黒基調のテーマを選択</a>',
-  mTipSwipe: 'ヒント：スワイプしてタスクを完了、追加、または削除',
   mIntegraInvalidOptions: "設定が正しくありません。",
   mTooManyNewOrgagnizations:
     "一定の時間内に追加できる組織数の上限を超えました。"

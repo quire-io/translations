@@ -126,6 +126,13 @@ const itClient = const <String, String> {
   mLater: "Dopo",
   mEarlier: "PRIMA",
   mUnscheduled: "Non programmata",
+  mUntilDate: "Fino alla data",
+  mSinceDate: "Dalla data",
+  mOnDate: "Alla data",
+  mWithinDateRange: "Tra del date",
+  mUntilWhatDate: "Fino a [=date]",
+  mSinceWhatDate: "Da [=date]",
+  mOnWhatDate: "Il [=date]",
   mMinutesAgo: "[=n] minuti fa",
   mOneHourAgo: "1 ora fa",
   mHoursAgo: "[=n] ore fa",
@@ -282,7 +289,7 @@ const itClient = const <String, String> {
   mMenuItemGroupByTag: "Raggruppa per Etichetta",
   mSearchSectionLabel: "Organizzazioni,Cartelle Intelligenti,Progetti,Membri,Filtri salvati",
   mBaseFilterLabel: "Tutti,Attivi,Completati,Da fare,In Corso,Peekaboo",
-  mExtFilterLabel: "Seguiti,Assegnati da,Creati da,Assgn a,Etichette,Priorità,Favoriti,Mie Attività,Bacheche,Non Letti,Progetti",
+  mExtFilterLabel: "Seguiti,Assegnati da,Creati da,Assgn a,Etichette,Priorità,Favoriti,Mie Attività,Bacheche,Non Letti,Progetti,Data",
   mGrouperLabel: "Assegnatario,Data,Priorità,Scadenze per Giorno,Scadenze per Settimana,Completate per Settimana,Create per Settimana,Iniziate per Settimana,Aggiornate per Settimana,Stato,Nome,Etichetta,Progetto,Bacheca,Sottolista",
   mFilterOperatorContains: 'Contiene',
   mFilterOperatorLabels: '+=E;|=O;-=Non',
@@ -875,7 +882,7 @@ const itClient = const <String, String> {
   mSearchEscape: "<code>Esc</code> per chiudere la ricerca",
   mSearchProjectHint: "cerca",
   mSearchMustChar: "Digita 3 o più caratteri oppure premi Invio per ricercare",
-  mSearchOption: "Ammbito di ricerca",
+  mSearchOption: "Ambito di ricerca",
   mGroupDropStateToComplete: "Rilascia qui per completare le attività",
   mGroupDropStateToStart: "Rilascia qui per iniziare le attività",
   mGroupDropStateToPostpone: "Rilascia qui per posporre le attività",
@@ -913,9 +920,9 @@ const itClient = const <String, String> {
   mTipEnterToAddTask: "Puoi premere Invio per aggiungere nuove attività.",
   mTipBatchBar: "Puoi cliccare qui per modificare le attività selezionate tutte insieme.",
   mTipSelectDarkTheme: 'Puoi <a href="/r/setting?tab=options">passare al tema scuro</a> nelle impostazioni del tuo Account.',
-  mTipExcluded: "Attività completate molto tempo fà sono esclude.",
+  mTipExcluded: "Attività completate molto tempo fà sono escluse.",
   mTipExcludedOption:
-    "Attività completate molto tempo fà sono esclude. "
+    "Attività completate molto tempo fà sono escluse. "
     "Puoi cliccare qui per vederne altre.",
   mTipCheckTutorial:
     "Non sei sicuro di come iniziare? "

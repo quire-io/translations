@@ -106,9 +106,9 @@ const itServer = const <String, String> {
   mLoginAccountDesc: "Non hai ancora un\' account?",
   mLoginAccountCreate: "Crea un\' account Quire",
   mSigninGoogle: "Collegati con Google",
-  mSignupGoogle: "Sign up with Google",
-  mSigninApple: "Sign in with Apple",
-  mSignupApple: "Sign up with Apple",
+  mSignupGoogle: "Registrati con Google",
+  mSigninApple: "Collegati con Apple",
+  mSignupApple: "Registrati con Apple",
   mHomeGotoWSButton: "VAI AL TUO PROGETTO",
   mDownloadAPK: "SCARICA APK",
   mAPKVersion: 'Versione [=version]',
@@ -932,7 +932,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAutoMode: "(auto)",
   mBasicMode: "Base",
   mAdvancedMode: "Avanzata",
-  mSettingUserProjectMiscTitle: 'Misc',
+  mSettingUserProjectMiscTitle: 'Varie',
   mIntegraGithubDesc:
     "Seleziona uno o più repository a cui vuoi connetterti. "
     "Puoi deselezionare quelli già selezionati.",
@@ -1049,50 +1049,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mThanksFeedbackTask:
     "Grazie! Il tuo feedback è molto prezioso per noi.<br>Abbiamo creato un\' attività. "
     'Puoi vederla <a href="[=url]">qui</a>.',
-  mTipF1: "Tip: Premi F1 per vedere le scorciatoie da tastiera",
-  mTipSelectMultiple: "Tip: Seleziona più attività con <code>[=ctrlCommand]+Click</code> o <code>Shift+Click</code>",
-  mTipMention: 'Tip: Inserisci <b><i>@nome_utente</i></b> nelle descrizioni o commenti per menzionare qualcuno',
-  mTipReference: 'Tip: inserisci <b><i>#nome_attività</i></b> nelle descrizioni o commenti per referenziare un\' attività',
-  mTipDrillDown: 'Tip: Zoom in su un\'attivita con <code>[=ctrlCommand]+I</code> per visualizzare solo le sue sottoattività',
-  mTipTwitter:
-    'Tip: Seguici su <a href="https://twitter.com/quire_io" target="_blank">Twitter</a> '
-    'per gli aggiornamenti più recenti',
-  mTipMarkdown:
-    'Tip: Scrivi descrizioni e commenti con '
-    '<a href="/blog/p/Our-Very-Own-Markdown.html" target="_blank">Markdown</a> per uno stile migliore',
-  mTipMoveTask:
-    'Tip: Sposta un\' attività con <code>[=ctrlAlt]+↑</code>, '
-    '<code>[=ctrlAlt]+↓</i></code>, '
-    '<code>[=ctrlAlt]+←</i></code> e '
-    '<code>[=ctrlAlt]+→</code>',
-  mTipTabMove: 'Tip: Indenta le tue attività quando sei in modalità modifica! Premi <code>Tab</code> o <code>Shift+Tab</code>',
-  mTipInvite:
-    'Ti piace Quire? <a href="/invite">Inviata i tuoi amici</a>, '
-    'o <a href="/feedback">facci sapere</a> come possiamo migliorare!',
-  mTipPrint:
-    'Tip: Conserva una copia cartacea delle tue attività! <a href="javascript:print()">Stampale</a> '
-    'con <code>[=ctrlCommand]+P</code>',
-  mTipTaskId: 'Tip: Premi <code>[=ctrlAlt]</code> per mostrare l\'ID attività e la posizione',
-  mTipMyTasksShortcut: "Tip: Premi <code>&gt;</code> per lanciare Le Mie Attività",
-  mTipAssignInTaskName:
-    'Tip: Digira <code>@</code>, <code>#</code>, <code>!</code>, <code>&lt;</code> e <code>^</code> quando dai un nome alla tua attività per '
-    '<a href="/blog/p/Type-it-while-you-think-it.html" target="_blank">aggiungerla velocemente</a>',
-  mTipChromeExtension:
-    'Tip: Aggiungi l\' <a href="https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm" target="_blank">Estensione per Chrome</a> '
-    'per accedere velocemente a Quire ed essere notificato',
-  mTipRightClick:
-    'Tip: <a href="/guide/navigate-quire#right-click-on-tasks" target="_blank">Clicca con il tasto destro</a> '
-    'su di un\' attività per impostare assegnatari, priorità e altro velocemente!',
-  mTipShiftLR:
-    'Tip: Premi <code>Shift+←</code> o '
-    '<code>Shift+→</code> per collassare o espandere tutte le attività livelli per livello',
-  mTipPaste:
-    'Tip: Premi <code>[=ctrlCommand]+V</code> per <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">incollare</a> '
-    'quello che hai copiato direttamente come attività',
-  mTipCrossProject: 'Tip: Aggiungi una cartella intelligente per vedere attività da progetti differenti',
-  mTipBlinkSearch: 'Tip: Ricerca veloce (<code>[=ctrlCommand]+B</code>) è un modo semplice per trovare quasi tutto tra le tue attività',
-  mTipDarkTheme: 'Tip: <a href="/r/setting?tab=options">Seleziona il tema scuro</a> quando i tuoi occhi si stancano di notte',
-  mTipSwipe: 'Tip: Scorri per completare, aggiungere o rimuovere attività',
   mIntegraInvalidOptions: "La configurazione non è corretta",
   mTooManyNewOrgagnizations:
     "Hai aggiunto troppe organizzazioni in un tempo breve. "
