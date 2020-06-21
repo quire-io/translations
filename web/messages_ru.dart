@@ -197,39 +197,39 @@ const ruWeb = const <String, String> {
     "<li><strong>Чтобы прекратить добавление</strong> &mdash; Нажмите Esc.</li>"
     "</ul>"
     "<p>Как в текстовом редакторе!</p>",
-  mTutorialSetDueTitle: "Deadline is important too",
+  mTutorialSetDueTitle: "Сроки тоже важны",
   mTutorialSetDueContent:
-    "<p>A task without a deadline tends to slip through your fingers.</p>"
-    '<p>To add a due date, click on the "date" icon of a task in the task list.</p>',
-  mTutorialAssigneeTitle: "Delegate tasks to people responsible",
+    "<p>Задачи без срока выполнения имеют тенденцию ускользать от вас.</p>"
+    '<p>Чтобы добавить срок выполнения, щелкните значок «дата» на строке задачи в списке задач..</p>',
+  mTutorialAssigneeTitle: "Делегируйте задачи ответственным людям",
   mTutorialAssigneeContent:
-    "<p>You have a task called Sponsors. But who is responsible for finding them?</p>"
-    '<p>To assign a task to someone, click on the "assignee" icon of the task, and enter his or her email.</p>'
-    '<p><span class="note">Note: That person will receive an invitation in his or her email inbox.</span></p>'
+    "<p>У вас есть задача под названием Спонсоры. Но кто отвечает за их поиск?</p>"
+    '<p>Чтобы назначить кому-либо задачу, нажмите на значок «назначение» и введите его или ее адрес электронной почты..</p>'
+    '<p><span class="note">Примечание: этот человек получит приглашение в свой почтовый ящик.</span></p>'
     "<p>[=img]</p>"
-    '<p><span class="note">Tip: You can assign a task to multiple people by hovering their names '
-    'and clicking on the "+" on the right of each name.</span></p>',
-  mTutorialTagTitle: "Label them with context",
+    '<p><span class="note">Совет: вы можете назначить задачу нескольким людям, наводя курсор на них имена '
+    'и нажимая на «+» справа от каждого имени.</span></p>',
+  mTutorialTagTitle: "Ставьте метки со смыслом",
   mTutorialTagContent:
-    "<p>You can give tasks additional context or group them.</p>"
-    "<p>For example, you can add tags called Sponsors, Venue and Promotion "
-    "in colors red, green and blue to related tasks.</p>"
-    '<p>To add tags, click on the "tag" icon of a task, and enter the tag name.</p>',
-  mTutorialTagTip: "Tip: You can filter tasks by tag(s) to see only a group of tasks with that tag(s).",
-  mTutorialAutocompleteTitle: "Quick add, while you type",
+    "<p>Вы можете придать задачам дополнительный контекст или сгруппировать их.</p>"
+    "<p>Например, вы можете добавить метки «Спонсоры», «Место проведения» и «Продвижение». "
+    "красного, зеленого и синего цвета для связанных задач.</p>"
+    '<p>Чтобы добавить метка, щелкните значок «метка» задачи и введите имя метки.</p>',
+  mTutorialTagTip: "Совет: Вы можете отфильтровать задачи по меткам, чтобы увидеть только группу задач с этими метками.",
+  mTutorialAutocompleteTitle: "Быстрое добавление при вводе",
   mTutorialAutocompleteContent:
-    "<p>What if you can add and assign everything, all at once?</p>"
-    "<p>When you add a task, you can type <strong>&lt;&gt;</strong> to add "
-    "<strong>deadline</strong>, <strong>@</strong> to add an <strong>assignee</strong>, "
-    "and <strong>#</strong> to add a <strong>tag</strong>, etc. "
-    'Like this: "Come up with a list of promotional items &lt;Friday&gt; @David #Promotion".</p>',
-  mTutorialDetailPanelTitle: "Give them some details",
+    "<p>Что если вы можете добавить и назначить все сразу?</p>"
+    "<p>Когда вы добавляете задачу, вы можете набрать <strong>&lt;&gt;</strong> чтобы добавить"
+    "<strong>срок выполнения</strong>, <strong>@</strong> чтобы добавить <strong>назначение</strong>, "
+    "и <strong>#</strong> чтобы добавить <strong>метку</strong>, и т.п. "
+    'Например: "Придумать список рекламных слоганов &lt;Friday&gt; @David #Promotion".</p>',
+  mTutorialDetailPanelTitle: "Укажите некоторые детали",
   mTutorialDetailPanelContent:
-    "<p>Many times, a task needs a bit more information to be carried out smoothly.</p>"
-    "<p>You can add details &mdash; including description and attachments &mdash; to the task "
-    'after clicking on "&lt;&lt;"in the upper right corner. You can also discuss, chat '
-    "and interact with members in comments there in the detail panel.</p>"
-    '<p>To add styles to your description or comment (eg., make it bold), check out '
+    "<p>Часто задача требует немного больше информации, чтобы быть выполненной гладко.</p>"
+    "<p>Вы можете добавить детали &mdash; в том числе описание и вложения &mdash; к задаче "
+    'после нажатия на "&lt;&lt;"в правом верхнем углу. Вы также можете обсудить, пообщаться '
+    "и взаимодействовать с участниками в комментариях на панели сведений о задаче.</p>"
+    '<p>Чтобы добавить стили к вашему описанию или комментарию (например, выделить жирным шрифтом), смотрите  '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
   mTutorialDetailPanelTip: 'Tip: You can click on the "pin" icon to keep the detail panel open.',
   mTutorialDragTaskTitle: "Organize what you have dumped",
