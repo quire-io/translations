@@ -129,7 +129,7 @@ const itClient = const <String, String> {
   mUntilDate: "Fino alla data",
   mSinceDate: "Dalla data",
   mOnDate: "Alla data",
-  mWithinDateRange: "Tra del date",
+  mWithinDateRange: "Tra le date",
   mUntilWhatDate: "Fino a [=date]",
   mSinceWhatDate: "Da [=date]",
   mOnWhatDate: "Il [=date]",
