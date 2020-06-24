@@ -1069,7 +1069,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mSettingProfileSec: "Profile",
   mSettingBasicsSec: "Basics",
-  mSettingApplicationsSec: "Applications",
+  mSettingApplicationsSec: "Apps",
   mSettingAdditionalSec: "Advanced",
 
   mSettingMemberSec: "Members",
@@ -1304,7 +1304,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppSearchPlaceholder: "Search Apps",
   mAppDirectoryBackApps: 'Browse Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
-  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDirectoryProfileTabTitle: 'Apps',
 
   mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "Developers",
