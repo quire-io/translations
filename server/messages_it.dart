@@ -212,6 +212,7 @@ const itServer = const <String, String> {
     'Sembra che ti si già registrato con<br>'
     '<strong>[=email]</strong>.<br>'
     'Si prega di <a href="/login">collegarsi qui</a>.',
+  mSignupConfirmTabTitle: 'Confirmation',
   mAlreadyConfirmDesc: 'Hai già confermato l\'email.',
   mSignupConfirmTitle: "Grazie per la conferma",
   mSignupConfirmDesc:
@@ -1007,6 +1008,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAppSearchPlaceholder: "Ricerca Apps",
   mAppDirectoryBackApps: 'Sfoglia Apps',
   mAppDirectorySidebarItems: 'popular=Populari;new=Nuove;quire=by Quire;=Tutte le Apps',
+  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "Sviluppatori",
   mAppDeveloperTitle: "Costruisci grandi cose con Quire!",
   mAppDeveloperTitleIntro: 'Unisciti alla comunità degli sviluppatori di Quire per creare un\'app che renda Quire un\'esperienza ancora migliore per te e il tuo team!',

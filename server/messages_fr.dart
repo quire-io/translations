@@ -212,6 +212,7 @@ const frServer = const <String, String> {
     'On dirait que vous vous êtes déjà inscrit avec<br>'
     '<strong>[=email]</strong>.<br>'
     'Veuillez <a href="/login">vous connecter avec</a>.',
+  mSignupConfirmTabTitle: 'Confirmation',
   mAlreadyConfirmDesc: 'Vous avez déjà confirmé cette adresse email.',
   mSignupConfirmTitle: "Merci pour votre confirmation",
   mSignupConfirmDesc:
@@ -989,6 +990,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAppSearchPlaceholder: "Chercher une application",
   mAppDirectoryBackApps: 'Parcourir les applications',
   mAppDirectorySidebarItems: 'popular=Populaires;new=Nouvelles;quire=Créées par Quire;=Toutes les applications',
+  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "Développeurs",
   mAppDeveloperTitle: "Réalisez de grandes choses avec Quire !",
   mAppDeveloperTitleIntro: 'Rejoignez la communauté des développeurs dans Quire pour créer une application qui rendra Quire encore meilleur pour vous et votre équipe !',

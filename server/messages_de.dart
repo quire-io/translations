@@ -212,6 +212,7 @@ const deServer = const <String, String> {
     'Sieht so aus als ob Sie sich bereits mit folgender E-Mail-Adresse registriert haben:<br>'
     '<strong class="email-txt">[=email]</strong>.<br>'
     'Bitte <a href="/login">melden Sie sich hier an</a>.',
+  mSignupConfirmTabTitle: 'Confirmation',
   mAlreadyConfirmDesc: 'Sie haben die E-Mail bereits bestätigt.',
   mSignupConfirmTitle: "Danke für Ihre Bestätigung",
   mSignupConfirmDesc:
@@ -1000,6 +1001,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppSearchPlaceholder: "Apps suchen",
   mAppDirectoryBackApps: 'Apps durchsuchen',
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
+  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "Entwickler",
   mAppDeveloperTitle: "Quire einfach selbst erweitern und verbessern",
   mAppDeveloperTitleIntro: 'Schließen Sie sich der Entwickler-Community von Quire an, um eine App zu erstellen, die Quire für Sie und Ihr Team noch besser macht!',

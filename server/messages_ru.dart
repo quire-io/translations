@@ -212,6 +212,7 @@ const ruServer = const <String, String> {
     'It seems like you have already signed up with<br>'
     '<strong>[=email]</strong>.<br>'
     'Please <a href="/login">log in here</a>.',
+  mSignupConfirmTabTitle: 'Confirmation',
   mAlreadyConfirmDesc: 'You have already confirmed the email.',
   mSignupConfirmTitle: "Thank you for your confirmation",
   mSignupConfirmDesc:
@@ -1009,6 +1010,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppSearchPlaceholder: "Search Apps",
   mAppDirectoryBackApps: 'Browse Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
+  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "Developers",
   mAppDeveloperTitle: "Build great things with Quire!",
   mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',

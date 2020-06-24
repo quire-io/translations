@@ -212,6 +212,7 @@ const jaServer = const <String, String> {
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
+  mSignupConfirmTabTitle: 'Confirmation',
   mAlreadyConfirmDesc: 'このメールアドレスはすでに確認済みです。',
   mSignupConfirmTitle: "ご確認いただきありがとうございます",
   mSignupConfirmDesc:
@@ -1007,6 +1008,8 @@ Quireをご利用になったご感想をお聞かせください。
   mAppSearchPlaceholder: "アプリ検索",
   mAppDirectoryBackApps: 'アプリ一覧',
   mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
+  mAppDirectoryProfileTabTitle: 'Applications',
+  mAppDeveloperTabTitle: "App Developers",
   mAppDeveloperHeader: "開発者",
   mAppDeveloperTitle: "Quireと一緒に、すごいものを<br>作りましょう！",
   mAppDeveloperTitleIntro: 'Quireに関わる開発者たちと一緒に、ご自身やチームがQuireをもっと便利に楽しむためのアプリを開発しませんか。',
