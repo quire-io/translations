@@ -178,7 +178,7 @@ const jaServer = const <String, String> {
     '本日中にメールアドレスを確定してください：<b>[=email]</b>。</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">再送信</a><a class="hidden">送信</a>'
+    '<a href="javascript:reSignup()">再送信</a><a class="hidden">送信されました</a>'
     '<a href="/r/setting?tab=options">メールアドレスを変更</a>',
   mConfirmedEmail: "こんにちは、[=email]さん！",
   mConfirmedEmailDesc: "アカウントを設定しましょう！",
