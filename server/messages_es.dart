@@ -212,7 +212,7 @@ const esServer = const <String, String> {
     'Parece que ya estás registrado como<br>'
     '<strong>[=email]</strong>.<br>'
     'Por favor, <a href="/login">inicia sesión aquí</a>.',
-  mSignupConfirmTabTitle: 'Confirmation',
+  mSignupConfirmTabTitle: 'Confirmación',
   mAlreadyConfirmDesc: 'Ya has confirmado el correo electrónico',
   mSignupConfirmTitle: "Gracias por tu confirmación",
   mSignupConfirmDesc:
@@ -1009,7 +1009,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppDirectoryBackApps: 'Examinar Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=Nuevo;quire=Realizado por Quire;=Todas las Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "App Developers",
+  mAppDeveloperTabTitle: "Desarrolladores de Apps",
   mAppDeveloperHeader: "Desarrolladores",
   mAppDeveloperTitle: "Construye grandes cosas con Quire",
   mAppDeveloperTitleIntro: 'Únete a la comunidad de desarrolladores Quire para construir una app que te proporcione una experiencia única para ti y tu equipo',
