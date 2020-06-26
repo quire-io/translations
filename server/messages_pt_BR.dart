@@ -211,7 +211,7 @@ const ptBrServer = const <String, String> {
   mAlreadySignupDesc:
     'Parece que você já se registrou com <br>'
     '<strong>[=email]</strong>.<br>',
-  mSignupConfirmTabTitle: 'Confirmation',
+  mSignupConfirmTabTitle: 'Confirmação',
   mAlreadyConfirmDesc: 'Você já confirmou o email.',
   mSignupConfirmTitle: "Obrigado pela sua confirmação",
   mSignupConfirmDesc:
@@ -1007,8 +1007,8 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mAppSearchPlaceholder: "Pesquisar Aplicativos",
   mAppDirectoryBackApps: 'Dar uma olhada nos Aplicativos',
   mAppDirectorySidebarItems: 'popular=Popular;new=Novo;quire=Feito pelo Quire;=Todos os Aplicativos',
-  mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "App Developers",
+  mAppDirectoryProfileTabTitle: 'Aplicativos',
+  mAppDeveloperTabTitle: "Desenvolvedores de Aplicativos",
   mAppDeveloperHeader: "Desenvolvedores",
   mAppDeveloperTitle: "Crie coisas grandiosas com o Quire!",
   mAppDeveloperTitleIntro: 'Participe da comunidade de desenvolvedores do Quire para criar um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!',
