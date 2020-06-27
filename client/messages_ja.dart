@@ -788,9 +788,9 @@ const jaClient = const <String, String> {
   mInvalidEmail: '無効なメールアドレスです。',
   mInvalidValue: '無効な値',
   mInvalidCompany: '「Quire」または「Potix」は社名に使えません。',
-  mEmailConfirmSentTitle: '確認メールの送信',
+  mEmailConfirmSentTitle: '確認用メールの送信',
   mEmailConfirmSent:
-    '確認メールが送信されました。'
+    '確認用メールが送信されました。'
     '受信したメールを開いて、確認用のリンクをクリックしてください。',
   mEmailNotConfirm: '未確認',
   mPasswordTooShort: 'パスワードは半角英数字6つ以上で設定してください',
