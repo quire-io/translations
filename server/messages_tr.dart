@@ -212,7 +212,7 @@ const trServer = const <String, String> {
     'Görünüşe göre zaten<br>'
     '<strong>[=email]</strong> ile kaydoldunuz.<br>'
     'Lütfen <a href="/login">giriş yapın</a>.',
-  mSignupConfirmTabTitle: 'Confirmation',
+  mSignupConfirmTabTitle: 'Onay',
   mAlreadyConfirmDesc: 'E-postayı zaten onayladınız.',
   mSignupConfirmTitle: "Onayınız için teşekkürler",
   mSignupConfirmDesc:
@@ -1007,8 +1007,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mAppSearchPlaceholder: "Uygulamalarda Ara",
   mAppDirectoryBackApps: 'Uygulamalara Göz At',
   mAppDirectorySidebarItems: 'popüler=Popüler;yeni=Yeni;quire=Quire Uygulamaları;=Tüm Uygulamalar',
-  mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "App Developers",
+  mAppDirectoryProfileTabTitle: 'Uygulamalar',
+  mAppDeveloperTabTitle: "Uygulama Geliştiricileri",
   mAppDeveloperHeader: "Geliştiriciler",
   mAppDeveloperTitle: "Quire ile harika şeyler oluşturun!",
   mAppDeveloperTitleIntro: 'Quire\'i sizin ve ekibiniz için daha iyi bir deneyim haline getiren bir uygulama oluşturmak için Quire geliştiricileri topluluğuna katılın!',
