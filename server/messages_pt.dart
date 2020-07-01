@@ -786,7 +786,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mKeyComment: 'Comentar na tarefa selecionada',
   mKeySelfAssign: 'Auto-atribuir tarefa selecionada',
   mKeyAssignTask: 'Administrar tarefa selecionada',
-  mKeyAssignTaskProperties: 'atribuir,estado,tag,conclusão,prioridade,quadro',
+  mKeyAssignTaskProperties: 'atribuir,estado,tag,conclusão,prioridade,quadro,project',
   mKeyIndent: 'Recuar tarefa no modo de edição',
   mKeyToggleHint: 'Mostrar ID da tarefa e mais',
   mKeyCopyHint: "Copiar tarefa selecionada",

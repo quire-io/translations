@@ -768,7 +768,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mKeyComment: 'Ajouter un commentaire à la tâche sélectionnée',
   mKeySelfAssign: 'S\'auto-attribuer les tâches sélectionnées',
   mKeyAssignTask: 'Gérer les tâches sélectionnées',
-  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board',
+  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board,project',
   mKeyIndent: 'Mettre en retrait la tâche sélectionnée en mode d\'édition',
   mKeyToggleHint: 'Afficher l\'ID de la tâche et plus',
   mKeyCopyHint: "Copier les tâches sélectionnées",
