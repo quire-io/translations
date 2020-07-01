@@ -786,7 +786,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mKeyComment: 'Comenta la tarea seleccionada',
   mKeySelfAssign: 'Asígnate la tarea seleccionada',
   mKeyAssignTask: 'Administra la tarea seleccionada',
-  mKeyAssignTaskProperties: 'asignar,estado,etiqueta,venicmiento,prioridad,tablero,project',
+  mKeyAssignTaskProperties: '@=asignar;/=estado;#=etiqueta;<=venicmiento;!=prioridad;^=tablero;>=project',
   mKeyIndent: 'Establece sangría para la tarea en el modo de edición',
   mKeyToggleHint: 'Muestra la ID de la tarea y más',
   mKeyCopyHint: "Copia la tarea seleccionada",

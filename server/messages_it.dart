@@ -786,7 +786,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mKeyComment: 'Commenta l\' attività selezionata',
   mKeySelfAssign: 'Assegnati l\' attività selezionata',
   mKeyAssignTask: 'Assegna l\' attività selezionata',
-  mKeyAssignTaskProperties: 'assenga,stato,etichetta,scadenza,priorità,bacheca,project',
+  mKeyAssignTaskProperties: '@=assenga;/=stato;#=etichetta;<=scadenza;!=priorità;^=bacheca;>=project',
   mKeyIndent: 'Indenta attività in modifica',
   mKeyToggleHint: 'Mostra ID attività e altro',
   mKeyCopyHint: "Copia attività selezionata",

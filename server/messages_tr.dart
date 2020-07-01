@@ -785,7 +785,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mKeyComment: 'Seçilen görevi yorumla',
   mKeySelfAssign: 'Seçilen görevi kendi kendine ata',
   mKeyAssignTask: 'Seçilen görevi yönet',
-  mKeyAssignTaskProperties: 'atama,durum,etiket,termin,öncelik,pano,project',
+  mKeyAssignTaskProperties: '@=atama;/=durum;#=etiket;<=termin;!=öncelik;^=pano;>=project',
   mKeyIndent: 'Düzenleme modunda görevi girintileme',
   mKeyToggleHint: 'Görev ID ve daha fazlasını göster',
   mKeyCopyHint: "Seçilen görevi kopyala",

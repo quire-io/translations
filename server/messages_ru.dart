@@ -788,7 +788,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyComment: 'Comment selected task',
   mKeySelfAssign: 'Self-assign selected task',
   mKeyAssignTask: 'Administer selected task',
-  mKeyAssignTaskProperties: 'assign,status,tag,due,priority,board,project',
+  mKeyAssignTaskProperties: '@=assign;/=status;#=tag;<=due;!=priority;^=board;>=project',
   mKeyIndent: 'Indent task in edit mode',
   mKeyToggleHint: 'Show task ID and more',
   mKeyCopyHint: "Copy selected task",

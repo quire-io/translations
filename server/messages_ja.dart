@@ -786,7 +786,7 @@ Quireをご利用になったご感想をお聞かせください。
   mKeyComment: '選択したタスクにコメント',
   mKeySelfAssign: '選択したタスクを自分の担当に設定',
   mKeyAssignTask: '選択したタスクを管理',
-  mKeyAssignTaskProperties: '担当に設定,状態,タグ,期限,優先度,ボード,project',
+  mKeyAssignTaskProperties: '@=担当に設定;/=状態;#=タグ;<=期限;!=優先度;^=ボード;>=project',
   mKeyIndent: '編集モードでタスクのレベルを変更',
   mKeyToggleHint: 'タスクIDなどを表示',
   mKeyCopyHint: "選択したタスクをコピー",
