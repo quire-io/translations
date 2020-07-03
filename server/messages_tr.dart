@@ -785,7 +785,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mKeyComment: 'Seçilen görevi yorumla',
   mKeySelfAssign: 'Seçilen görevi kendi kendine ata',
   mKeyAssignTask: 'Seçilen görevi yönet',
-  mKeyAssignTaskProperties: '@=atama;/=durum;#=etiket;<=termin;!=öncelik;^=pano;>=project',
+  mKeyAssignTaskProperties: '@=sorumlu;/=durum;#=etiket;<=termin;!=öncelik;^=pano;>=proje',
   mKeyIndent: 'Düzenleme modunda görevi girintileme',
   mKeyToggleHint: 'Görev ID ve daha fazlasını göster',
   mKeyCopyHint: "Seçilen görevi kopyala",
@@ -806,8 +806,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMDCheckList: 'Kontrol Listesi',
   mMDLink: 'Bağlantı',
   mMDMention:
-    'Kişiden bahsetme ve başvuru için <b><i>@user_name</i></b> '
-    've <b><i>#task_name</i></b> öğelerini de kullanabilirsiniz.',
+    'Kişiden bahsetme ve başvuru için <b><i>@kullanıcı_adı</i></b> '
+    've <b><i>#görev_adı</i></b> öğelerini de kullanabilirsiniz.',
   mMDAbout:
     '<a target="_blank" href="'
     '/blog/p/Our-Very-Own-Markdown.html">'
@@ -820,7 +820,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mStatsWeeklyTodosLabel: "Yapılacaklar",
   mSettingProfileSec: "Profil",
   mSettingBasicsSec: "Temel Öğeler",
-  mSettingApplicationsSec: "Apps",
+  mSettingApplicationsSec: "Uygulamalar",
   mSettingAdditionalSec: "İleri",
   mSettingMemberSec: "Üyeler",
   mSettingMemberCountSec: "Üye Sayısı",
