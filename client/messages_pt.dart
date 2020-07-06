@@ -966,6 +966,8 @@ const ptClient = const <String, String> {
   mAppOwnerDesc: 'Dê a conhecer aos utilizadores a mente brilhante por detrás desta aplicação.',
   mAppContactEmail: 'Email de Contacto',
   mAppContactEmailDesc: 'Os utilizadores entrarão em contacto com este email se houver algum problema ou preocupação com esta aplicação.',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: 'Organização de Desenvolvimento',
   mAppOrganizationDesc: 'A sua aplicação pertence a esta organização - apenas os administradores da organização podem editar esta aplicação. Isto não pode ser cancelado.',
   mAppRedirectURL: 'URL de Redirecionamento',

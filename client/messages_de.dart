@@ -958,6 +958,8 @@ const deClient = const <String, String> {
   mAppOwnerDesc: 'Lassen Sie die Welt wissen, wer diese geniale App gebaut hat.',
   mAppContactEmail: 'Kontakt-E-mail',
   mAppContactEmailDesc: 'Benutzer werden sich über diese E-Mail mit Ihnen in Verbindung setzen, wenn Probleme oder Bedenken bezüglich dieser App auftreten.',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: 'Organisation',
   mAppOrganizationDesc: 'Ihre App gehört zu dieser Organisation - nur die Organisationsadministratoren können diese App bearbeiten. Das kann nicht rückgängig gemacht werden.',
   mAppRedirectURL: 'Weiterleitungs-URL',

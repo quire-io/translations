@@ -961,6 +961,8 @@ const frClient = const <String, String> {
   mAppOwnerDesc: 'Indiquez aux utilisateurs à qui appartient le cerveau génial qui a pu créer cette application.',
   mAppContactEmail: 'Email de contact',
   mAppContactEmailDesc: 'Les utilisateurs vous contacteront à cette adresse s\'ils ont des problèmes ou des questions à propos de votre application.',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: 'Organisation des développeurs',
   mAppOrganizationDesc: 'Votre application appartient à cette organisation - seuls les administrateurs de cette organisation peuvent modifier cette application. Vous ne pourrez pas modifier ce choix plus tard.',
   mAppRedirectURL: 'URL de redirection',

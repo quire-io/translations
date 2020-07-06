@@ -962,6 +962,8 @@ const jaClient = const <String, String> {
   mAppOwnerDesc: 'このアプリを作った英才について、お聞かせください。',
   mAppContactEmail: 'メールアドレス',
   mAppContactEmailDesc: 'このアプリに関する質問は、このメールアドレスに送られます。',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: '開発組織',
   mAppOrganizationDesc: 'このアプリはこの組織に属し、組織管理者のみがアプリを編集できます。この設定は変更できません。',
   mAppRedirectURL: 'リダイレクトURL',

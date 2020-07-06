@@ -962,6 +962,8 @@ const esClient = const <String, String> {
   mAppOwnerDesc: 'Deja que los usuarios conozcan la mente brillante detrás de esta app.',
   mAppContactEmail: 'Email de contacto',
   mAppContactEmailDesc: 'Los usuarios contactarán con este email si hay algún problema o preocupación con esta app.',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: 'Organización de desarrollo',
   mAppOrganizationDesc: 'Su app pertenece a esta organización - sólo los administradores de la organización pueden editar esta app. Esto no se puede deshacer.',
   mAppRedirectURL: 'Redireccionar URL',

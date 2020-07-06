@@ -966,6 +966,8 @@ const ptBrClient = const <String, String> {
   mAppOwnerDesc: 'Informe os usuários sobre a mente brilhante por trás deste aplicativo.',
   mAppContactEmail: 'Email de Contato',
   mAppContactEmailDesc: 'Os usuários entrarão em contato com este email se houver algum problema ou preocupação com este aplicativo.',
+  mAppInstallPage: 'Installation landing page',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
   mAppOrganization: 'Organização de Desenvolvimento',
   mAppOrganizationDesc: 'Seu aplicativo pertence a esta organização - somente os administradores da organização podem editar esse aplicativo. Isso não pode ser desfeito.',
   mAppRedirectURL: 'URL de Redirecionamento',
