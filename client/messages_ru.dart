@@ -962,7 +962,7 @@ const ruClient = const <String, String> {
   mAppContactEmail: 'Contact Email',
   mAppContactEmailDesc: 'Users will contact this email if there is any problem or concern with this app.',
   mAppInstallPage: 'Installation landing page',
-  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app. If not specified, a default Install button will be used.',
   mAppOrganization: 'Development Organization',
   mAppOrganizationDesc: 'Your app belongs to this organization - only the organization admins can edit this app. This cannot be undone.',
   mAppRedirectURL: 'Redirect URL',

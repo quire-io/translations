@@ -956,7 +956,7 @@ const trClient = const <String, String> {
   mAppContactEmail: 'İletişim E-posta',
   mAppContactEmailDesc: 'Bu uygulamada herhangi bir sorun veya endişe varsa kullanıcılar bu e-posta ile iletişim kuracak.',
   mAppInstallPage: 'Installation landing page',
-  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app. If not specified, a default Install button will be used.',
   mAppOrganization: 'Geliştirme Organizasyonu',
   mAppOrganizationDesc: 'Uygulamanız bu organizasyona ait. Bu uygulamayı yalnızca organizasyon yöneticileri düzenleyebilir. Bu işlem geri alınamaz.',
   mAppRedirectURL: 'Yönlendirme bağlantısı',

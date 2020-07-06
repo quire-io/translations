@@ -963,7 +963,7 @@ const itClient = const <String, String> {
   mAppContactEmail: 'Email di contatto',
   mAppContactEmailDesc: 'Gli utenti potranno contattare questo indirizzo email in caso di problemi o dubbi sull\' applicazione.',
   mAppInstallPage: 'Installation landing page',
-  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app (Optional). If not specified, a default Install button will be used.',
+  mAppInstallPageDesc: 'Users can visit this site to learn more on how to install the app. If not specified, a default Install button will be used.',
   mAppOrganization: 'Organizzazione di sviluppo',
   mAppOrganizationDesc: 'La tua applicazione appartiene a questa organizzazione - solo gli amministratori di questa organizzazione possono modificare questa app. Questa modifica non può essere annullata.',
   mAppRedirectURL: 'URL di redirezione',
