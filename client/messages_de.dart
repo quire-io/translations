@@ -938,6 +938,7 @@ const deClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Zugewiesen von [=user]",
   mStatsWeeklyAssignedToMeLabel: "An mich zugewiesen",
   mStatsWeeklyAssignedToUserLabel: "Zugewiesen an [=user]",
+  mDeveloperConsolePageTitle: "Quire Apps Dev",
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Neue App erstellen",
   mCreateNewAppTitle: "Eine neue App erstellen",

@@ -941,6 +941,7 @@ const ruClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Assigned by [=user]",
   mStatsWeeklyAssignedToMeLabel: "Assigned to me",
   mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
+  mDeveloperConsolePageTitle: "Quire Apps Dev",
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Create new app",
   mCreateNewAppTitle: "Create a new app",

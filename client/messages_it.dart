@@ -942,6 +942,7 @@ const itClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Assegnate da [=user]",
   mStatsWeeklyAssignedToMeLabel: "Assegnate a me",
   mStatsWeeklyAssignedToUserLabel: "Assegnate a [=user]",
+  mDeveloperConsolePageTitle: "Quire Apps Dev",
   mDeveloperConsoleHeader: "Console Sviluppatore App",
   mCreateNewApp: "Crea nuova app",
   mCreateNewAppTitle: "Crea una nuova app",

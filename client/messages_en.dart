@@ -1221,6 +1221,7 @@ const enClient = const <String, String> {
   mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
   
   // App/API
+  mDeveloperConsolePageTitle: "Quire Apps Dev",
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Create new app",
   mCreateNewAppTitle: "Create a new app",

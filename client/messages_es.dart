@@ -942,6 +942,7 @@ const esClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Asignada por [=user]",
   mStatsWeeklyAssignedToMeLabel: "Asignada a mí",
   mStatsWeeklyAssignedToUserLabel: "Asignada a [=user]",
+  mDeveloperConsolePageTitle: "Quire Apps Dev",
   mDeveloperConsoleHeader: "Consola para desarrolladores de App",
   mCreateNewApp: "Crear nueva app",
   mCreateNewAppTitle: "Crear una nueva app",
