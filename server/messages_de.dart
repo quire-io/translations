@@ -779,7 +779,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyComment: 'Ausgewählte Aufgabe kommentieren',
   mKeySelfAssign: 'Ausgewählte Aufgabe mir zuweisen',
   mKeyAssignTask: 'Ausgewählte Aufgaben verwalten',
-  mKeyAssignTaskProperties: '@=zuweisen;/=status;#=tag;<=fällig;!=priorität;^=board;>=project',
+  mKeyAssignTaskProperties: '@=zuweisen;/=status;#=tag;<=fällig;!=Priorität;^=board;>=Projekt',
   mKeyIndent: 'Aufgabe einrücken',
   mKeyToggleHint: 'Aufgaben ID and mehr anzeigen',
   mKeyCopyHint: "Ausgewählte Aufgabe kopieren",
