@@ -1007,7 +1007,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAppDirectoryTitleIntro: 'Dai un\'occhiata a queste fantastiche integrazioni per rendere il project management un lavoro facile e felice.',
   mAppSearchPlaceholder: "Ricerca Apps",
   mAppDirectoryBackApps: 'Sfoglia Apps',
-  mAppDirectorySidebarItems: 'popular=Populari;new=Nuove;quire=by Quire;=Tutte le Apps',
+  mAppDirectorySidebarItems: 'popular=Popolari;new=Nuove;quire=by Quire;=Tutte le Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
   mAppDeveloperTabTitle: "Sviluppatori",
   mAppDeveloperHeader: "Sviluppatori",
