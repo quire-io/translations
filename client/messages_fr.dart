@@ -941,7 +941,7 @@ const frClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Attribuées par [=user]",
   mStatsWeeklyAssignedToMeLabel: "Attribuées à moi",
   mStatsWeeklyAssignedToUserLabel: "Attribuées à [=user]",
-  mDeveloperConsolePageTitle: "Développeur d'apps pour Quire",
+  mDeveloperConsolePageTitle: "Dév d'apps Quire",
   mDeveloperConsoleHeader: "Console développeur",
   mCreateNewApp: "Créer une nouvelle application",
   mCreateNewAppTitle: "Créer une nouvelle application",
