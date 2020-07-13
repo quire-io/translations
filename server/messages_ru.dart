@@ -1440,5 +1440,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileTasksFoundIn: "TASKS FOUND IN",
   mMobileTabNotification: "Notifications",
   mMobileTabMyTasks: "My Tasks",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

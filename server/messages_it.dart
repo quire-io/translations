@@ -1438,5 +1438,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileTasksFoundIn: "ATTIVITA\' TROVATA IN",
   mMobileTabNotification: "Notifiche",
   mMobileTabMyTasks: "Le mie attività",
-  mMobileSearchTaskResultEmpty: "Nessun risultato trovato in <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "Nessun risultato trovato in <b>[=name]</b>.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

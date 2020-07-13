@@ -1438,5 +1438,8 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileTasksFoundIn: "TAREAS ENCONTRADAS",
   mMobileTabNotification: "Notificaciones",
   mMobileTabMyTasks: "Mis Tareas",
-  mMobileSearchTaskResultEmpty: "No se han encontrado resultados en <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "No se han encontrado resultados en <b>[=name]</b>.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

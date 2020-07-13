@@ -1431,5 +1431,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileTasksFoundIn: "AUFGABEN GEFUNDEN IN",
   mMobileTabNotification: "Benachrichtigungen",
   mMobileTabMyTasks: "Aufgaben",
-  mMobileSearchTaskResultEmpty: "Es wurden keine Ergebnisse in <b>[=name]</b> gefunden."
+  mMobileSearchTaskResultEmpty: "Es wurden keine Ergebnisse in <b>[=name]</b> gefunden.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

@@ -1420,5 +1420,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileTasksFoundIn: "TÂCHES TROUVÉES DANS",
   mMobileTabNotification: "Notifications",
   mMobileTabMyTasks: "Mes Tâches",
-  mMobileSearchTaskResultEmpty: "Aucun résultat trouvé dans <b>[=name]</b>."
+  mMobileSearchTaskResultEmpty: "Aucun résultat trouvé dans <b>[=name]</b>.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

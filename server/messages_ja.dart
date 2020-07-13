@@ -1438,5 +1438,8 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileTasksFoundIn: "以下の場所に見つかりました：",
   mMobileTabNotification: "通知",
   mMobileTabMyTasks: "自分のタスク",
-  mMobileSearchTaskResultEmpty: "以下の場所に見つかりません：<b>[=name]</b>"
+  mMobileSearchTaskResultEmpty: "以下の場所に見つかりません：<b>[=name]</b>",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };

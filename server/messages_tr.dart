@@ -1437,5 +1437,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileTasksFoundIn: "BULUNAN GÖREVLER",
   mMobileTabNotification: "Bildirimler",
   mMobileTabMyTasks: "Görevlerim",
-  mMobileSearchTaskResultEmpty: "<b>[=name]</b> içinde sonuç bulunamadı."
+  mMobileSearchTaskResultEmpty: "<b>[=name]</b> içinde sonuç bulunamadı.",
+  mMobileListDropToSub: "Drop tasks to another view",
+  mMobileSubDropToOthers: "Move tasks away from this view",
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
 };
