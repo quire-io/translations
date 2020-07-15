@@ -127,6 +127,9 @@ const enWeb = const <String, String> {
   mFeatureRecurringTitle: "Recurring Tasks",
   mFeatureRecurringDesc: "Get your routines in your task tree once and for all.",
 
+  mFeaturePeekabooTitle: "Peekaboo",
+  mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
+
   mFeatureTimeTitle: "Time and Duration",
   mFeatureTimeDesc: "Set start and due dates to see a Gantt chart-like view in your calendar.",
 
@@ -156,6 +159,9 @@ const enWeb = const <String, String> {
 
   mFeatureSlackTitle: "Slack integration",
   mFeatureSlackDesc: "Get updates about your projects in a Slack channel and more.",
+
+  mFeatureZapierTitle: "Zapier integration",
+  mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
 
   mFeatureIntegraGithubTitle: "GitHub integration",
   mFeatureIntegraGithubDesc: "Keep everyone on your team up to date with the code changes by linking commits to your tasks.",
