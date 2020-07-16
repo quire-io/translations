@@ -28,7 +28,7 @@ const frServer = const <String, String> {
   mSidebarFav: "SIGNETS",
   mSidebarRec: "RÉCENT",
   mSidebarArchive: "Archivé",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Masquée',
   mSidebarRecycleBin: 'Corbeille',
   mSidebarMembers: "MEMBRES",
   mAppCategoriesU: 'CATÉGORIES',
@@ -1422,7 +1422,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileTabNotification: "Notifications",
   mMobileTabMyTasks: "Mes Tâches",
   mMobileSearchTaskResultEmpty: "Aucun résultat trouvé dans <b>[=name]</b>.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Déposer les tâches dans une autre vue",
+  mMobileSubDropToOthers: "Sortir les tâches de cette vue",
+  mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches"
 };
