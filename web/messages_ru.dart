@@ -235,71 +235,71 @@ const ruWeb = const <String, String> {
     "и взаимодействовать с участниками в комментариях на панели сведений о задаче.</p>"
     '<p>Чтобы добавить стили к вашему описанию или комментарию (например, выделить жирным шрифтом), смотрите  '
     '<a href="/blog/p/Our-Very-Own-Markdown.html">Markdown</a>.</p>',
-  mTutorialDetailPanelTip: 'Tip: You can click on the "pin" icon to keep the detail panel open.',
-  mTutorialDragTaskTitle: "Organize what you have dumped",
+  mTutorialDetailPanelTip: 'Совет: Вы можете нажать на значок «булавка», чтобы держать панель подробностей открытой. ',
+  mTutorialDragTaskTitle: "Организуйте то, что вы свалили в кучу",
   mTutorialDragTaskContent:
-    "<p>What happens if you have tasks that have fallen to the wrong place?</p>"
-    "<p>In Quire, you can drag & drop them to where they rightfully belong. "
-    "For example, move giveaways like T-shirts, bumper stickers and "
-    'water bottles to under task "Promotional Items."</p>',
-  mTutorialShortcutTitle: "A few handy shortcuts",
+    "<p>Что делать, если у вас есть задачи, лежащие не в том месте?</p>"
+    "<p>В Quire вы можете перетащить их туда, где им место. "
+    "Например, перетащите подарки, такие как футболки, наклейки на бампер и "
+    'бутылки с водой под задачу "Рекламные предметы".</p>',
+  mTutorialShortcutTitle: "Несколько удобных ярлыков",
   mTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Добавить и редактировать</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Добавить новую задачу.</li>"
+    "<li><kbd>F2</kbd> &mdash; Редактировать название задачи.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Навигация</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Перейти к задаче выше.</li>"
+    "<li><kbd>↓</kbd> &mdash; Перейти к задаче ниже.</li>"
+    "<li><kbd>Пробел</kbd> &mdash; Открыть правую панель подробностей.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Мульти-Выделение</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Выбрать несколько задач.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Выбрать все задачи.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Перемещение</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka a level up or down.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Для перемещения задач вверх или вниз.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Для перемещения задач влево или вправо, то есть уровень вверх или вниз.</li>"
     "</ul>"
-    "<h3>Task Action</h3>"
+    "<h3>Действия с задачами</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Назначить выбранные задачи себе.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Для завершения выбранных задач.</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Показать окно отмены.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Копировать и вставить</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Скопировать выбранные задачи.</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Вставить выбранное задачи.</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Вырезать выбранные задачи.</li>"
     "</ul>",
-  mTutorialQuickAssignTitle: "Quick Assign",
+  mTutorialQuickAssignTitle: "Быстрое назначение",
   mTutorialQuickAssignContent:
-    '<p>To quickly set assignee, tag, etc. '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    '<p>Чтобы быстро назначить задачу, метку и прочее. '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">без мыши</a>, '
+    'нажмите @, #, <, !, ^, / на клавиатуре, когда нужные задачи выбраны.</p>'
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; добавить назначение</li>"
+    "<li><kbd>#</kbd> &mdash; добавить метку</li>"
+    "<li><kbd><</kbd> &mdash; добавить срок выполнения</li>"
+    "<li><kbd>!</kbd> &mdash; добавить приоритет</li>"
+    "<li><kbd>^</kbd> &mdash; добавить задачу на доску</li>"
+    "<li><kbd>/</kbd> &mdash; указать статус выполнения</li>"
     "</ul>",
-  mTutorialContextmenuTitle: "Right-Click Context Menu",
+  mTutorialContextmenuTitle: "Контекстное меню",
   mTutorialContextmenuContent:
-    "<p>You can right-click on a task, to bring up the context menu "
-    "to set due date, assignee, tag, and more.</p>"
+    "<p>Вы можете щелкнуть правой кнопкой мыши на задаче, чтобы вызвать контекстное меню, "
+    "чтобы установить срок выполнения, назначение, метку, и другое.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Now that you know your way around, you can kickstart your project!</p>",
-  mTutorialContextmenuTip: "Tip: You can press F1 to see a complete list of keyboard shortcuts.",
-  mNextTutorial: "Next Tutorial",
-  mBoardTutorialLinkTitle: "Visualize your workflow with Quire Kanban Board",
+    "<p>Теперь, когда вы немного осмотрелись, вы можете запустить свой проект!</p>",
+  mTutorialContextmenuTip: "Совет: Вы можете нажать F1, чтобы увидеть полный список сочетаний клавиш.",
+  mNextTutorial: "Следующий урок",
+  mBoardTutorialLinkTitle: "Визуализируйте свой рабочий процесс с Канбан-досками в Quire",
   mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
   mSignupToday: "Let's get started in Quire today!",
   mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
