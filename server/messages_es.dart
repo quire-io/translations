@@ -28,6 +28,7 @@ const esServer = const <String, String> {
   mSidebarFav: "MARCADORES",
   mSidebarRec: "RECIENTES",
   mSidebarArchive: "Archivados",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Papelera de reciclaje',
   mSidebarMembers: "MIEMBROS",
   mAppCategoriesU: 'CATEGORÍAS',

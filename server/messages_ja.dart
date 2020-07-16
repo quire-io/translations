@@ -28,6 +28,7 @@ const jaServer = const <String, String> {
   mSidebarFav: "ブックマーク",
   mSidebarRec: "閲覧履歴",
   mSidebarArchive: "アーカイブ",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "メンバー",
   mAppCategoriesU: '分類',

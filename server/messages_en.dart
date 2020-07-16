@@ -28,6 +28,7 @@ const enServer = const <String, String> {
   mSidebarFav: "BOOKMARKS",
   mSidebarRec: "RECENT",
   mSidebarArchive: "Archived",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MEMBERS",
   mAppCategoriesU: 'CATEGORIES',

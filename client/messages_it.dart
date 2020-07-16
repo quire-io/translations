@@ -149,6 +149,8 @@ const itClient = const <String, String> {
   mAddProject: "Aggiungi progetto",
   mAdd: "Aggiungi",
   mRemove: "Rimuovi",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Salva",
   mSaved: "Salvato",
   mSaveAs: "Salva come",

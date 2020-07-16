@@ -143,6 +143,8 @@ const trClient = const <String, String> {
   mAddProject: "Proje ekle",
   mAdd: "Ekle",
   mRemove: "Sil",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Kaydet",
   mSaved: "Kaydedildi",
   mSaveAs: "Farklı Kaydet",

@@ -149,6 +149,8 @@ const ruClient = const <String, String> {
   mAddProject: "Add project",
   mAdd: "Add",
   mRemove: "Remove",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Save",
   mSaved: "Saved",
   mSaveAs: "Save as",

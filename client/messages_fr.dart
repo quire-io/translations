@@ -149,6 +149,8 @@ const frClient = const <String, String> {
   mAddProject: "Ajouter un projet",
   mAdd: "Ajouter",
   mRemove: "Supprimer",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Enregistrer",
   mSaved: "Enregistré",
   mSaveAs: "Enregistrer sous",

@@ -154,6 +154,8 @@ const ptClient = const <String, String> {
   mAddProject: "Adicionar projeto",
   mAdd: "Adicionar",
   mRemove: "Remover",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Guardar",
   mSaved: "Guardado",
   mSaveAs: "Guardar como",

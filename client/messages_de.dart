@@ -143,6 +143,8 @@ const deClient = const <String, String> {
   mAddProject: "Projekt hinzufügen",
   mAdd: "Hinzufügen",
   mRemove: "Entfernen",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Speichern",
   mSaved: "Gespeichert",
   mSaveAs: "Speichern als",

@@ -149,6 +149,8 @@ const esClient = const <String, String> {
   mAddProject: "Añadir proyecto",
   mAdd: "Añadir",
   mRemove: "Eliminar",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Guardar",
   mSaved: "Guardado",
   mSaveAs: "Guardar como",

@@ -149,6 +149,8 @@ const jaClient = const <String, String> {
   mAddProject: "プロジェクトを追加",
   mAdd: "追加",
   mRemove: "消去",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "保存",
   mSaved: "保存済み",
   mSaveAs: "名前を付けて保存",

@@ -28,6 +28,7 @@ const itServer = const <String, String> {
   mSidebarFav: "PREFERITI",
   mSidebarRec: "RECENTI",
   mSidebarArchive: "Archiviati",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Cestino',
   mSidebarMembers: "MEMBRI",
   mAppCategoriesU: 'CATEGORIE',

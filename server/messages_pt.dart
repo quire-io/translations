@@ -28,6 +28,7 @@ const ptServer = const <String, String> {
   mSidebarFav: "FAVORITOS",
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Lixo',
   mSidebarMembers: "MEMBROS",
   mAppCategoriesU: 'CATEGORIAS',

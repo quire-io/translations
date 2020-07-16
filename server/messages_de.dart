@@ -28,6 +28,7 @@ const deServer = const <String, String> {
   mSidebarFav: "FAVORITEN",
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Papierkorb',
   mSidebarMembers: "MITGLIEDER",
   mAppCategoriesU: 'KATEGORIEN',

@@ -154,6 +154,8 @@ const ptBrClient = const <String, String> {
   mAddProject: "Adicionar projeto",
   mAdd: "Adicionar",
   mRemove: "Remover",
+  mHide: "Hide",
+  mReshow: "Reshow",
   mSave: "Salvar",
   mSaved: "Salvo",
   mSaveAs: "Salvar como",

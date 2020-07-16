@@ -28,6 +28,7 @@ const trServer = const <String, String> {
   mSidebarFav: "YER İMLERİ",
   mSidebarRec: "GÜNCEL",
   mSidebarArchive: "Arşiv",
+  mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Çöp Kutusu',
   mSidebarMembers: "ÜYELER",
   mAppCategoriesU: 'KATEGORİLER',
