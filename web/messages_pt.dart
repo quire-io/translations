@@ -147,12 +147,11 @@ const ptWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire e Mais Além",
   mFeatureAppDirectoryDesc: "Aumente a sua produtividade com algumas integrações de alto nível de primeira classe.",
   mPricingPageDesc:
-    "<p>Muitas pessoas nos estão a perguntar sobre os preços.</p>"
-    "<p>Mas, ainda existem tantas ideias entusiasmantes a explorar! Preferimos focar-nos em tornar o Quire ainda mais espetacular, do que decidir que recurso pertence a um determinado plano.</p>"
-    "<p>Pelo menos até ao terceiro trimestre de 2020.</p>"
-    "<p>Por outras palavras, por agora pode usufruir de uma conta Quire gratuita com até 35 organizações, 80 projetos e 30 membros.</p>"
-    "<p>E a boa noticia é que, o que quer que seja que estiver a usar até lá, continuará a ser gratuito.</p>"
-    '<p>Tem alguma questão? Não hesite em <a href="mailto:support@quire.io">contactar-nos.</a></p>',
+    "<p>At the moment, Quire is free of charge.</p>"
+    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
+    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
+    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
+    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
   mCookieGDPRDesc: "Usamos cookies para garantir que lhe damos a melhor experiência no nosso website.",
   mSecurityPageTitle: 'Segurança no Quire',
   mSecurityPageDesc:

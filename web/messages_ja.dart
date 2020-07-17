@@ -147,12 +147,11 @@ const jaWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quireと、その先へ",
   mFeatureAppDirectoryDesc: "すぐれた連携機能で、効率を高めましょう。",
   mPricingPageDesc:
-    "<p>料金について、よく質問されます。</p>"
-    "<p>でも今は、試したいアイデアでいっぱい。私たちは料金プランを考えるよりも、まずQuireを充実させたいと考えています。</p>"
-    "<p>少なくとも今年後半までは、ご利用無料の予定です。</p>"
-    "<p>それまでは、1アカウントにつき35グループ、プロジェクト80件、メンバー30人まで追加できます。</p>"
-    "<p>しかもその間に追加された機能は、それ以降もずっと無料でご利用いただけます。</p>"
-    '<p>どんなご質問でも、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。</p>',
+    "<p>At the moment, Quire is free of charge.</p>"
+    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
+    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
+    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
+    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
   mCookieGDPRDesc: "当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
   mSecurityPageTitle: 'Quireのセキュリティ対策',
   mSecurityPageDesc:
