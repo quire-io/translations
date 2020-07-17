@@ -28,7 +28,7 @@ const itServer = const <String, String> {
   mSidebarFav: "PREFERITI",
   mSidebarRec: "RECENTI",
   mSidebarArchive: "Archiviati",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Nascosta',
   mSidebarRecycleBin: 'Cestino',
   mSidebarMembers: "MEMBRI",
   mAppCategoriesU: 'CATEGORIE',
@@ -1440,7 +1440,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileTabNotification: "Notifiche",
   mMobileTabMyTasks: "Le mie attività",
   mMobileSearchTaskResultEmpty: "Nessun risultato trovato in <b>[=name]</b>.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Sposta le attività in un'altra vista",
+  mMobileSubDropToOthers: "Sposta le attività da questa vista",
+  mMobileSubDropToOthersDialog: "Scegli una vista a cui aggiungere le attività"
 };
