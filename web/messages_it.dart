@@ -147,11 +147,11 @@ const itWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire & Oltre",
   mFeatureAppDirectoryDesc: "Aumenta la tua produttività con alcune integrazioni di alta qualità.",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>Al momento, Quire é gratuito.</p>"
+    "<p>Puoi goderti una account Quire gratuito con fino a 35 organizzazioni, 80 progetti e 30 membri per organizzazione. La buona notizia é che, qualsiasi cosa stai correntemente utilizzanto, continuerà ad essere gratuita, anche quando saranno creati pacchetti a pagamento.</p>"
+    "<p>Molte persone si sono chieste perché Quire non abbia ancora dei pacchetti a pagamento. Il motivo è che ci sono ancora così tante idee e funzionalità interessanti ancora da esplorare! Miriamo a offrire ai nostri utenti un'esperienza più raffinata e ci impegniamo a rendere Quire più eccezionale, piuttosto che concentrarci sulle vendite.</p>"
+    "<p>Nel caso ti stia chiedendo su cosa stiamo lavorando, il nostro team sta attualmente sviluppando un diagramma di Gantt e perfezionando la Kanban Board esistente. Il nostro team lavora duramente per creare un software di gestione del progetto con tutte le funzionalità che si abbinino perfettamente e ti aiuti effettivamente a raggiungere i tuoi obiettivi con un flusso di lavoro più logico, invece di aggiungere quante più funzionalità possibile.</p>"
+    '<p>Sappiamo che sei pronto per ottenere grandi risultati con Quire. Siamo qui per garantire il tuo successo a lungo termine. Se hai bisogno di informazioni più dettagliate sui nostri prezzi o desideri eliminare alcune delle attuali limitazioni per le tue organizzazioni, non esitare a <a href="mailto:info@quire.io">contattarci</a>.</p>',
   mCookieGDPRDesc: "Utilizziamo i cookie per assicurarti la migliore esperienza sul nostro sito Web. ",
   mSecurityPageTitle: 'Sicurezza in Quire',
   mSecurityPageDesc:
