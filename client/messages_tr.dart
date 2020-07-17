@@ -870,7 +870,7 @@ const trClient = const <String, String> {
   mOrgLimitedDesc: "Bu organizasyondaki tüm projelere erişebilir, görev ekleyebilir ve silme dışında kendisine atanan görevleri yönetebilir.",
   mOrgGuestDesc: "Yalnızca bu organizasyona erişebilir.",
   mProjectAdminDesc: "Bu projedeki tüm görevleri ve üyeleri yönetebilir.",
-  mProjectNormalDesc: "Görev ekleyebilir, tüm görevleri düzenleyebilir ve projeyi yönetebilir. Üye ekleye düzenleme, silme yetkisi yok, görev ve proje silme yetkisi yok.",
+  mProjectNormalDesc: "Görev ekleyebilir, tüm görevleri düzenleyebilir ve projeyi yönetebilir. Üye ekleme düzenleme, silme yetkisi yok, görev ve proje silme yetkisi yok.",
   mProjectLimitedDesc: "Silme dışında görev ekleyebilir ve kendisine atanan görevleri yönetebilir.",
   mProjectGuestDesc: "Yorumlara erişebilir ve yorum gönderebilir.",
   mPartnerAdminDesc: "Bu projedeki dış kaynaklı tüm görevleri ve dış üyeleri yönetebilir.",
