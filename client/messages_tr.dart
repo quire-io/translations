@@ -449,7 +449,7 @@ const trClient = const <String, String> {
   mInviteMembers: "Üyeleri davet et",
   mInvite: "Davet et",
   mREInvite: "Tekrar davet et",
-  mNotSignedUP: "Henüz üye değilsiniz",
+  mNotSignedUP: "Henüz üye değil",
   mAddMemberMultiplePlaceholder: "E-posta ile üyeleri ekle",
   mAddMemberHint: "Virgül kullanarak aynı anda birden çok e-posta girebilirsiniz.",
   mAddMemberInvalidEmail: 'Geçersiz bir e-posta adresi girdiniz.',
