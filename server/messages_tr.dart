@@ -28,7 +28,7 @@ const trServer = const <String, String> {
   mSidebarFav: "YER İMLERİ",
   mSidebarRec: "GÜNCEL",
   mSidebarArchive: "Arşiv",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Gizlenmiş',
   mSidebarRecycleBin: 'Çöp Kutusu',
   mSidebarMembers: "ÜYELER",
   mAppCategoriesU: 'KATEGORİLER',
@@ -1439,7 +1439,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileTabNotification: "Bildirimler",
   mMobileTabMyTasks: "Görevlerim",
   mMobileSearchTaskResultEmpty: "<b>[=name]</b> içinde sonuç bulunamadı.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Görevleri başka bir görünüme bırakın",
+  mMobileSubDropToOthers: "Görevleri bu görünümden taşıyın",
+  mMobileSubDropToOthersDialog: "Görev eklemek için bir görünüm seçin"
 };
