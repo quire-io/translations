@@ -270,6 +270,7 @@ const ruClient = const <String, String> {
   mAssignedBy: "Assigned by",
   mCreatedBy: "Created by",
   mUnreadFilter: "Unread",
+  mContentFilter: "Content",
   mFollowedByME: "Followed by me",
   mFavoritedByME: "Favorited by me",
   mAssignedToME: "Assigned to me",

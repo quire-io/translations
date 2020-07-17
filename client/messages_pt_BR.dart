@@ -275,6 +275,7 @@ const ptBrClient = const <String, String> {
   mAssignedBy: "Atribuído por",
   mCreatedBy: "Criado por",
   mUnreadFilter: "Por ler",
+  mContentFilter: "Content",
   mFollowedByME: "Seguido por mim",
   mFavoritedByME: "Marcado como favorito por mim",
   mAssignedToME: "Atribuído a mim",

@@ -270,6 +270,7 @@ const esClient = const <String, String> {
   mAssignedBy: "Asignadas por",
   mCreatedBy: "Creada por",
   mUnreadFilter: "Sin leer",
+  mContentFilter: "Content",
   mFollowedByME: "Seguido por mí",
   mFavoritedByME: "Marcados como favoritos por mí",
   mAssignedToME: "Asignado a mí",

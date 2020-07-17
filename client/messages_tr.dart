@@ -264,6 +264,7 @@ const trClient = const <String, String> {
   mAssignedBy: "Sorumlu Atayan",
   mCreatedBy: "Oluşturan",
   mUnreadFilter: "Okunmamış",
+  mContentFilter: "Content",
   mFollowedByME: "Takip Ettiklerim",
   mFavoritedByME: "Favorilerim",
   mAssignedToME: "Görevli Olduğum",

@@ -270,6 +270,7 @@ const itClient = const <String, String> {
   mAssignedBy: "Assegnato da",
   mCreatedBy: "Creato da",
   mUnreadFilter: "Non letto",
+  mContentFilter: "Content",
   mFollowedByME: "Seguiti da me",
   mFavoritedByME: "Favoriti da me",
   mAssignedToME: "Assegnato a me",

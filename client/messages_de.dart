@@ -264,6 +264,7 @@ const deClient = const <String, String> {
   mAssignedBy: "Zugewiesen von",
   mCreatedBy: "Erstellt von",
   mUnreadFilter: "Ungelesen",
+  mContentFilter: "Content",
   mFollowedByME: "Von mir abonniert",
   mFavoritedByME: "Von mir favorisiert",
   mAssignedToME: "Mir zugewiesen",

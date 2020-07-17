@@ -270,6 +270,7 @@ const jaClient = const <String, String> {
   mAssignedBy: "設定者",
   mCreatedBy: "作成者",
   mUnreadFilter: "未読",
+  mContentFilter: "Content",
   mFollowedByME: "フォロー中",
   mFavoritedByME: "お気に入り",
   mAssignedToME: "自分が担当",
