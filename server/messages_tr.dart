@@ -1390,7 +1390,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileFeedbackSuccessOK: "Tamam",
   mMobileArchiveProjectContent:
     "Bu projeyi arşivlemek üzeresiniz. "
-    "Arşivlenmiş bir proje menü kenar çubuğundaki Arşivlenmiş'e taşınır.",
+    "Arşivlenmiş bir proje menü kenar çubuğundaki Arşiv'e taşınır.",
   mMobileSidebarSearchForPrj: "Proje Ara",
   mMobileMenuAddToMyTask: "Görevlerime Ekle",
   mMobileReadOnlyProfileDesc: "Şimdilik salt okunur bir görünümdür. Güncellemeler ve haberler için bizi takip edin",
