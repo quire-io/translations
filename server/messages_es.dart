@@ -28,7 +28,7 @@ const esServer = const <String, String> {
   mSidebarFav: "MARCADORES",
   mSidebarRec: "RECIENTES",
   mSidebarArchive: "Archivados",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Ocultados',
   mSidebarRecycleBin: 'Papelera de reciclaje',
   mSidebarMembers: "MIEMBROS",
   mAppCategoriesU: 'CATEGORÍAS',
@@ -1440,7 +1440,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileTabNotification: "Notificaciones",
   mMobileTabMyTasks: "Mis Tareas",
   mMobileSearchTaskResultEmpty: "No se han encontrado resultados en <b>[=name]</b>.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Suelta las tareas para otra vista",
+  mMobileSubDropToOthers: "Aleja las tareas de esta vista",
+  mMobileSubDropToOthersDialog: "Elija una vista para añadir tareas"
 };
