@@ -97,7 +97,7 @@ const ptBrWeb = const <String, String> {
   mFeatureRecurringTitle: "Tarefas Recorrentes",
   mFeatureRecurringDesc: "Coloque suas rotinas em uma árvore de tarefas de uma vez por todas.",
   mFeaturePeekabooTitle: "Peekaboo",
-  mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
+  mFeaturePeekabooDesc: "Esconda temporariamente suas tarefas não acionáveis nesse momento para organizar melhor sua lista de tarefas e evitar o estresse no trabalho.",
   mFeatureTimeTitle: "Data e Duração",
   mFeatureTimeDesc: "Defina as datas de início e conclusão para ver uma exibição de gráfico de Gantt no seu calendário.",
   mFeatureRemindersTitle: "Lembretes",
@@ -118,8 +118,8 @@ const ptBrWeb = const <String, String> {
   mFeatureGoogleCalendarDesc: "Veja suas tarefas como eventos no Google, no iCal ou no Calendário do Outlook e seja notificado.",
   mFeatureSlackTitle: "Integração com o Slack",
   mFeatureSlackDesc: "Receba atualizações sobre seus projetos em um canal do Slack e muito mais.",
-  mFeatureZapierTitle: "Zapier integration",
-  mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
+  mFeatureZapierTitle: "Integração com o Zapier",
+  mFeatureZapierDesc: "Conecte o Quire instantaneamente com mais de 2.000 aplicativos para automatizar seu fluxo de trabalho e encontrar super poderes de produtividade.",
   mFeatureIntegraGithubTitle: "Integração com o GitHub",
   mFeatureIntegraGithubDesc: "Mantenha todos em sua equipe atualizados sobre as alterações de código vinculando os commits às suas tarefas.",
   mFeatureChromeExtensionTitle: "Extensão do Chrome",
@@ -147,11 +147,11 @@ const ptBrWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire e Mais Além",
   mFeatureAppDirectoryDesc: "Aumente sua produtividade com algumas integrações de alto nível.",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>No momento, o Quire é gratuito.</p>"
+    "<p>Você pode desfrutar de uma conta gratuita do Quire com até 35 organizações, 80 projetos e 30 membros por organização. A boa notícia é que, o que você estiver usando no momento continuará sendo gratuito, mesmo depois de apresentarmos os pacotes de preços.</p>"
+    "<p>Muitas pessoas se perguntam por que o Quire ainda não lançou o programa de preços. O motivo é que ainda existem tantas ideias e recursos interessantes a serem explorados! Nosso objetivo é proporcionar uma experiência mais refinada aos nossos usuários e manter nosso esforço em tornar o Quire mais impressionante do que o foco em vendas.</p>"
+    "<p>Caso você esteja se perguntando, nossa equipe está atualmente desenvolvendo um Gráfico de Gantt e refinando o atual Quadro Kanban. Nossa equipe trabalha duro para criar um software de gerenciamento de projetos com todos os recursos que combinam entre si e realmente ajudam você a atingir seus objetivos no fluxo de trabalho mais lógico, em vez de adicionar o maior número possível de recursos.</p>"
+    '<p>Sabemos que você está pront@ para realizar grandes coisas com o Quire. Estamos aqui para garantir seu sucesso a longo prazo. Se você precisar de informações mais detalhadas sobre nossos preços ou quiser aumentar algumas das limitações atuais de suas organizações, sinta-se à vontade para <a href="mailto:info@quire.io">entrar em contato conosco</a>.</p>',
   mCookieGDPRDesc: "Nós usamos cookies para garantir que você tenha a melhor experiência em nosso website.",
   mSecurityPageTitle: 'Segurança no Quire',
   mSecurityPageDesc:

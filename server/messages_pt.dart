@@ -28,7 +28,7 @@ const ptServer = const <String, String> {
   mSidebarFav: "FAVORITOS",
   mSidebarRec: "RECENTE",
   mSidebarArchive: "Arquivado",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Oculto',
   mSidebarRecycleBin: 'Lixo',
   mSidebarMembers: "MEMBROS",
   mAppCategoriesU: 'CATEGORIAS',
@@ -1441,7 +1441,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileTabNotification: "Notificações",
   mMobileTabMyTasks: "As Minhas Tarefas",
   mMobileSearchTaskResultEmpty: "Nenhum resultado encontrado em <b>[=name]</b>.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Largue tarefas para outra vista",
+  mMobileSubDropToOthers: ""Mova tarefas desta vista",
+  mMobileSubDropToOthersDialog: "Escolha uma vista para adicionar tarefas"
 };
