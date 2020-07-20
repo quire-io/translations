@@ -147,11 +147,11 @@ const esWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire... y más allá",
   mFeatureAppDirectoryDesc: "Aumenta tu productividad con algunas integraciones de primer nivel.",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>Por el momento, Quire es gratuito.</p>"
+    "<p>Puedes disfrutar de una cuenta gratuita de Quire con el límite de 35 organizaciones, 80 proyectos y 30 miembros por organización. La buena noticia que podemos darte es que lo que estés usando actualmente seguirá siendo gratis, incluso después de que introduzcamos los paquetes de precios.</p>"
+    "<p>Muchas personas se preguntan: ¿Por qué Quire no ha lanzado todavía el programa de precios?. ¡La razón es que todavía quedan muchas ideas y características emocionantes por explorar! Nuestro objetivo es brindar una experiencia más refinada a nuestros usuarios y hacer un esfuerzo para hacer que Quire sea más impresionante, en lugar de centrarnos en las ventas.</p>"
+    "<p>Por si te lo preguntas, nuestro equipo está desarrollando un diagrama de Gantt y mejorando el tablero Kanban existente. Nuestro equipo trabaja duro para crear un software de gestión de proyectos que combinen bien entre sí y que realmente ayude a alcanzar los objetivos en el flujo de trabajo de forma efectiva, en lugar de agregar muchas características inútiles .</p>"
+    '<p>Sabemos que estás listo para lograr grandes cosas con Quire. Nosotros estamos aquí para garantizarte tu éxito a largo plazo. Si necesitas información más detallada sobre nuestros precios o deseas eliminar algunas de las limitaciones actuales de sus organizaciones, por favor, escríbenos gratis a <a href="mailto:info@quire.io">reach out to us</a>.</p>',
   mCookieGDPRDesc: "Utilizamos cookies para asegurarnos de que te proporcionamos la mejor experiencia posible en nuestro sitio web.",
   mSecurityPageTitle: 'La Seguridad en Quire',
   mSecurityPageDesc:
