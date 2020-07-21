@@ -1442,6 +1442,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileTabMyTasks: "As Minhas Tarefas",
   mMobileSearchTaskResultEmpty: "Nenhum resultado encontrado em <b>[=name]</b>.",
   mMobileListDropToSub: "Largue tarefas para outra vista",
-  mMobileSubDropToOthers: ""Mova tarefas desta vista",
+  mMobileSubDropToOthers: "",
   mMobileSubDropToOthersDialog: "Escolha uma vista para adicionar tarefas"
 };

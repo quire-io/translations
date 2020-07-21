@@ -93,7 +93,7 @@ const deWeb = const <String, String> {
   mFeatureRecurringTitle: "Wiederkehrende Aufgaben",
   mFeatureRecurringDesc: "Mit wiederkehrenden Aufgaben richten Sie täglich, wöchentlich oder monatlich wiederkehrende Aufgaben bequem ein.",
   mFeaturePeekabooTitle: "Peekaboo",
-  mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
+  mFeaturePeekabooDesc: "Verstauen Sie vorübergehend Ihre derzeit nicht umsetzbaren Aufgaben, um Ihre Aufgabenliste besser zu organisieren und Stress bei der Arbeit zu vermeiden.",
   mFeatureTimeTitle: "Zeit und Dauer",
   mFeatureTimeDesc: "Legen Sie Start- und Endzeitpunkte fest, um eine Gantt-Chart-Ansicht in Ihrem Kalender zu sehen.",
   mFeatureRemindersTitle: "Erinnerungen",
@@ -114,8 +114,8 @@ const deWeb = const <String, String> {
   mFeatureGoogleCalendarDesc: "Sehen Sie Ihre Aufgaben als Termine in Google Kalender, iCal oder Outlook und werden Sie benachrichtigt.",
   mFeatureSlackTitle: "Slack Integration",
   mFeatureSlackDesc: "Erhalten Sie Updates zu Projekten in einem Slack-Channel.",
-  mFeatureZapierTitle: "Zapier integration",
-  mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
+  mFeatureZapierTitle: "Zapier Integration",
+  mFeatureZapierDesc: "Verbinden Sie Quire mit über 2.000 Apps, um Ihren Workflow zu automatisieren und Ihre Produktivtät noch weiter zu steigern.",
   mFeatureIntegraGithubTitle: "GitHub Integration",
   mFeatureIntegraGithubDesc: "Halten Sie Ihr Team bei Codeänderungen auf dem Laufenden indem Sie Commits mit Aufgaben verknüpfen.",
   mFeatureChromeExtensionTitle: "Chrome Browser-Erweiterung",
@@ -143,11 +143,11 @@ const deWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire & Beyond",
   mFeatureAppDirectoryDesc: "Steigern Sie Ihre Produktivität mit nützlichen Integrationen.",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>Im Moment ist Quire kostenlos.</p>"
+    "<p>Sie können ein kostenloses Quire-Konto mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern pro Organisation nutzen. Die gute Nachricht ist, dass alles, was Sie gerade verwenden, auch nach Einführung der Preispakete weiterhin kostenlos sein wird.</p>"
+    "<p>Viele Leute haben sich gefragt, warum Quire das Preisprogramm noch nicht gestartet hat. Der Grund dafür ist, dass noch so viele aufregende Ideen und Funktionen zu entdecken sind! Wir möchten unseren Benutzern noch mehr bieten und uns bemühen, Quire noch besser zu machen, als uns auf den Verkauf zu konzentrieren.</p>"
+    "<p>Zum Beispiel entwickelt unser Team derzeit ein Gantt-Diagramm und verfeinert das vorhandene Kanban-Board. Unser Team arbeitet hart daran, eine Projektmanagement-Anwendung mit Funktionen zu erstellen, die sinnvoll ineinander greifen, anstatt die Anwendung mit so vielen Funktionen wie möglich zu überfrachten.</p>"
+    '<p>Wenn Sie detailliertere Informationen zu unseren Preisen benötigen oder einige der aktuellen Einschränkungen für Ihr Unternehmen aufheben möchten, <a href="mailto:info@quire.io">wenden Sie sich gerne direkt an uns</a>.</p>',
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
   mSecurityPageTitle: 'Sicherheit bei Quire',
   mSecurityPageDesc:

@@ -28,7 +28,7 @@ const deServer = const <String, String> {
   mSidebarFav: "FAVORITEN",
   mSidebarRec: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: 'Ausgeblendet',
   mSidebarRecycleBin: 'Papierkorb',
   mSidebarMembers: "MITGLIEDER",
   mAppCategoriesU: 'KATEGORIEN',
@@ -1433,7 +1433,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileTabNotification: "Benachrichtigungen",
   mMobileTabMyTasks: "Aufgaben",
   mMobileSearchTaskResultEmpty: "Es wurden keine Ergebnisse in <b>[=name]</b> gefunden.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileListDropToSub: "Aufgaben in einer anderen Ansicht ablegen",
+  mMobileSubDropToOthers: "Aufgaben aus dieser Ansicht heraus schieben",
+  mMobileSubDropToOthersDialog: "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen"
 };
