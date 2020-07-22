@@ -1236,7 +1236,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileDueTime: "Termin Saati",
   mMobileStartDay: "Başlangıç Tarihi",
   mMobileStartTime: "Başlangıç Saati",
-  mMobileRepeateTask: "Repeat Task",
+  mMobileRepeateTask: "Görevi Yinele",
   mMobileApply: "Uygula",
   mMobileStatus: "Durum",
   mMobileSort: "Sırala",
