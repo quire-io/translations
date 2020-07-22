@@ -53,7 +53,6 @@ const trWeb = const <String, String> {
     "İstediğiniz her şey ve işleri halletmek için ihtiyacınız olan her şey. <br>"
     "Kendiniz görün, şimdi kaydolun.",
   mFeaturesMigrationSectionTitle: "Daha iyi bir şey mi arıyorsunuz?",
-  mFeaturesMigrationSectionDesc: "3 kolay adımda Quire'a ağrısız geçin!",
   mFeaturesMigrationAsanaButton: "Asana'dan geçin",
   mFeaturesMigrationTrelloButton: "Trello'den geçin",
   mFeaturesMigrationWunderlistButton: "Wunderlist'ten geçin",

@@ -53,7 +53,6 @@ const itWeb = const <String, String> {
     "Tutto quello che vuoi e di cui hai bisogno per portare a termine le attività. <br>"
     "Guarda tu stesso, registrati ora.",
   mFeaturesMigrationSectionTitle: "Stai cercando qualche cosa di meglio?",
-  mFeaturesMigrationSectionDesc: "Migrazione a Quire senza dolori in 3 semplici passi!!",
   mFeaturesMigrationAsanaButton: "Migra da Asana",
   mFeaturesMigrationTrelloButton: "Migra da Trello",
   mFeaturesMigrationWunderlistButton: "Migra da Wunderlist",

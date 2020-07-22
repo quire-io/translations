@@ -53,7 +53,6 @@ const jaWeb = const <String, String> {
     "目標の達成まで、必要な機能をすべて備えました。<br>"
     "今すぐ登録して、お試しください。",
   mFeaturesMigrationSectionTitle: "よりよいツールをお探しの方に。",
-  mFeaturesMigrationSectionDesc: "乗り換えもかんたんに、3ステップで。",
   mFeaturesMigrationAsanaButton: "Asanaから移行",
   mFeaturesMigrationTrelloButton: "Trelloから移行",
   mFeaturesMigrationWunderlistButton: "ワンダーリストから移行",

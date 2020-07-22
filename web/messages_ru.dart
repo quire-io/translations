@@ -53,7 +53,6 @@ const ruWeb = const <String, String> {
     "Все, что вы хотите, и все, что вам нужно, чтобы добиться цели. <br>"
     "Убедитесь сами, зарегистрируйтесь сейчас.",
   mFeaturesMigrationSectionTitle: "В поисках чего-то лучшего?",
-  mFeaturesMigrationSectionDesc: "Безболезненная миграция в Quire за 3 простых шага!",
   mFeaturesMigrationAsanaButton: "Мигрировать из Asana",
   mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
   mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",

@@ -49,7 +49,6 @@ const deWeb = const <String, String> {
     "Alles was Sie brauchen, um Aufgaben effizient zu erledigen. <br>"
     "Sehen Sie selbst und melden Sie sich jetzt an.",
   mFeaturesMigrationSectionTitle: "Auf der Suche nach etwas Besserem?",
-  mFeaturesMigrationSectionDesc: "Migration zu Quire in 3 einfachen Schritten!",
   mFeaturesMigrationAsanaButton: "Wechseln von Asana",
   mFeaturesMigrationTrelloButton: "Wechseln von Trello",
   mFeaturesMigrationWunderlistButton: "Wechseln von Wunderlist",

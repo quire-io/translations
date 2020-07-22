@@ -62,7 +62,6 @@ const enWeb = const <String, String> {
     "See for yourself, sign up now.",
 
   mFeaturesMigrationSectionTitle: "Looking for something better?",
-  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
 
   mFeaturesMigrationAsanaButton: "Migrate from Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",

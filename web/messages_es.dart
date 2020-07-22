@@ -53,7 +53,6 @@ const esWeb = const <String, String> {
     "Todo lo que quieres y todo lo que necesitas para hacer las cosas. <br>"
     "Compruébalo tú mismo, regístrate ahora.",
   mFeaturesMigrationSectionTitle: "¿Buscas algo mejor?",
-  mFeaturesMigrationSectionDesc: "3 simples pasos para migrar a Quire fácilmente",
   mFeaturesMigrationAsanaButton: "Migrar desde Asana",
   mFeaturesMigrationTrelloButton: "Migrar desde Trello",
   mFeaturesMigrationWunderlistButton: "Migrar desde Wunderlist",

@@ -53,7 +53,6 @@ const ptBrWeb = const <String, String> {
     "Tudo o que você quer e tudo o que você precisa para fazer acontecer. <br>"
     "Veja você mesmo, registre-se agora.",
   mFeaturesMigrationSectionTitle: "Looking for something better?",
-  mFeaturesMigrationSectionDesc: "Pain-free Migration to Quire in 3 easy steps!",
   mFeaturesMigrationAsanaButton: "Migrate from Asana",
   mFeaturesMigrationTrelloButton: "Migrate from Trello",
   mFeaturesMigrationWunderlistButton: "Migrate from Wunderlist",

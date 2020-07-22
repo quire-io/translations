@@ -53,7 +53,6 @@ const frWeb = const <String, String> {
     "Tout ce que vous voulez et tout ce dont vous avez besoin pour faire avancer les choses. <br>"
     "Voyez par vous-même, inscrivez-vous maintenant.",
   mFeaturesMigrationSectionTitle: "Vous avez trouvé ce que vous cherchiez ?",
-  mFeaturesMigrationSectionDesc: "3 étapes simples pour une migration vers Quire sans douleur !",
   mFeaturesMigrationAsanaButton: "Migration depuis Asana",
   mFeaturesMigrationTrelloButton: "Migration depuis Trello",
   mFeaturesMigrationWunderlistButton: "Migration depuis Wunderlist",
