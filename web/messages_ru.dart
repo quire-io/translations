@@ -57,6 +57,7 @@ const ruWeb = const <String, String> {
   mFeaturesMigrationAsanaButton: "Мигрировать из Asana",
   mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
   mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",
+  mFeaturesCompareWrikeButton: "Compare to Wrike",
   mFeaturesMigrationOthersButton: "Мигрировать из других",
   mFeatureHierarchyTitle: "Вложенный Список Задач",
   mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",

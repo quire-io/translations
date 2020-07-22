@@ -57,6 +57,7 @@ const esWeb = const <String, String> {
   mFeaturesMigrationAsanaButton: "Migrar desde Asana",
   mFeaturesMigrationTrelloButton: "Migrar desde Trello",
   mFeaturesMigrationWunderlistButton: "Migrar desde Wunderlist",
+  mFeaturesCompareWrikeButton: "Compare to Wrike",
   mFeaturesMigrationOthersButton: "Migrar desde Otros",
   mFeatureHierarchyTitle: "Lista de tareas anidada",
   mFeatureHierarchyDesc: "Aborda grandes proyectos dividiéndolos en pasos más pequeños y manejables.",

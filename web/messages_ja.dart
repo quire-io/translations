@@ -57,6 +57,7 @@ const jaWeb = const <String, String> {
   mFeaturesMigrationAsanaButton: "Asanaから移行",
   mFeaturesMigrationTrelloButton: "Trelloから移行",
   mFeaturesMigrationWunderlistButton: "ワンダーリストから移行",
+  mFeaturesCompareWrikeButton: "Compare to Wrike",
   mFeaturesMigrationOthersButton: "他ツールから移行",
   mFeatureHierarchyTitle: "階層タスクリスト",
   mFeatureHierarchyDesc: "大きなプロジェクトを、小さく管理しやすいステップに細分化しましょう。",
