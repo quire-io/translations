@@ -1272,6 +1272,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileGreen: "Verde",
   mMobileBlue: "Blu",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Nuova Bacheca",
   mMobileArchivedBoard: "Bacheche archiviate",
   mMobileProfileCamera: "Scatta Foto",
@@ -1442,5 +1444,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileSearchTaskResultEmpty: "Nessun risultato trovato in <b>[=name]</b>.",
   mMobileListDropToSub: "Sposta le attività in un'altra vista",
   mMobileSubDropToOthers: "Sposta le attività da questa vista",
-  mMobileSubDropToOthersDialog: "Scegli una vista a cui aggiungere le attività"
+  mMobileSubDropToOthersDialog: "Scegli una vista a cui aggiungere le attività",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

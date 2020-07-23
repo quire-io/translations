@@ -1273,6 +1273,8 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileGreen: "Verde",
   mMobileBlue: "Azul",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Novo Quadro",
   mMobileArchivedBoard: "Quadros arquivados",
   mMobileProfileCamera: "Tirar Foto",
@@ -1443,5 +1445,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileSearchTaskResultEmpty: "Nenhum resultado encontrado em <b>[=name]</b>.",
   mMobileListDropToSub: "Largue tarefas para outra vista",
   mMobileSubDropToOthers: "",
-  mMobileSubDropToOthersDialog: "Escolha uma vista para adicionar tarefas"
+  mMobileSubDropToOthersDialog: "Escolha uma vista para adicionar tarefas",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

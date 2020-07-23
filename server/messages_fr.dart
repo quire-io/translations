@@ -1254,6 +1254,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileGreen: "Vert",
   mMobileBlue: "Bleu",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Nouveau Tableau",
   mMobileArchivedBoard: "Tableaux archivés",
   mMobileProfileCamera: "Prendre une photo",
@@ -1424,5 +1426,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileSearchTaskResultEmpty: "Aucun résultat trouvé dans <b>[=name]</b>.",
   mMobileListDropToSub: "Déposer les tâches dans une autre vue",
   mMobileSubDropToOthers: "Sortir les tâches de cette vue",
-  mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches"
+  mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

@@ -1265,6 +1265,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileGreen: "Grün",
   mMobileBlue: "Blau",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Neues Board",
   mMobileArchivedBoard: "Archivierte Boards",
   mMobileProfileCamera: "Foto machen",
@@ -1435,5 +1437,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileSearchTaskResultEmpty: "Es wurden keine Ergebnisse in <b>[=name]</b> gefunden.",
   mMobileListDropToSub: "Aufgaben in einer anderen Ansicht ablegen",
   mMobileSubDropToOthers: "Aufgaben aus dieser Ansicht heraus schieben",
-  mMobileSubDropToOthersDialog: "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen"
+  mMobileSubDropToOthersDialog: "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

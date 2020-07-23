@@ -1274,6 +1274,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileGreen: "Green",
   mMobileBlue: "Blue",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",
   mMobileProfileCamera: "Take Photo",
@@ -1444,5 +1446,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>.",
   mMobileListDropToSub: "Drop tasks to another view",
   mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

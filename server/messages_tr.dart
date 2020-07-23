@@ -1271,6 +1271,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileGreen: "Yeşil",
   mMobileBlue: "Mavi",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Yeni Pano",
   mMobileArchivedBoard: "Arşivlenmiş Panolar",
   mMobileProfileCamera: "Fotoğraf çek",
@@ -1441,5 +1443,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileSearchTaskResultEmpty: "<b>[=name]</b> içinde sonuç bulunamadı.",
   mMobileListDropToSub: "Görevleri başka bir görünüme bırakın",
   mMobileSubDropToOthers: "Görevleri bu görünümden taşıyın",
-  mMobileSubDropToOthersDialog: "Görev eklemek için bir görünüm seçin"
+  mMobileSubDropToOthersDialog: "Görev eklemek için bir görünüm seçin",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

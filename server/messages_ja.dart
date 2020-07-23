@@ -1272,6 +1272,8 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileGreen: "緑",
   mMobileBlue: "青",
   mMobileGoogleDrive: "Google ドライブ",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "新しいボード",
   mMobileArchivedBoard: "アーカイブ済みのボード",
   mMobileProfileCamera: "撮影",
@@ -1442,5 +1444,6 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileSearchTaskResultEmpty: "以下の場所に見つかりません：<b>[=name]</b>",
   mMobileListDropToSub: "Drop tasks to another view",
   mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to"
+  mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };

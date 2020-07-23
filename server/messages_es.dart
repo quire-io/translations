@@ -1272,6 +1272,8 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileGreen: "Verde",
   mMobileBlue: "Azul",
   mMobileGoogleDrive: "Google Drive",
+  mMobileDrafts: "Drafts",
+  mMobileDeleteAll: "Delete All",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
   mMobileProfileCamera: "Tomar Foto",
@@ -1442,5 +1444,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileSearchTaskResultEmpty: "No se han encontrado resultados en <b>[=name]</b>.",
   mMobileListDropToSub: "Suelta las tareas para otra vista",
   mMobileSubDropToOthers: "Aleja las tareas de esta vista",
-  mMobileSubDropToOthersDialog: "Elija una vista para añadir tareas"
+  mMobileSubDropToOthersDialog: "Elija una vista para añadir tareas",
+  mMobileDraftBannerContinue: "Continue writing your drafts."
 };
