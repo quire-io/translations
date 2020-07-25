@@ -28,7 +28,7 @@ const jaServer = const <String, String> {
   mSidebarFav: "ブックマーク",
   mSidebarRec: "閲覧履歴",
   mSidebarArchive: "アーカイブ",
-  mSidebarHidden: 'Hidden',
+  mSidebarHidden: '非表示',
   mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "メンバー",
   mAppCategoriesU: '分類',
@@ -213,7 +213,7 @@ const jaServer = const <String, String> {
     '<strong>[=email]</strong>は<br>'
     'すでに登録されているようです。<br>'
     '<a href="/login">ここからログイン</a>してください。',
-  mSignupConfirmTabTitle: 'Confirmation',
+  mSignupConfirmTabTitle: '確認',
   mAlreadyConfirmDesc: 'このメールアドレスはすでに確認済みです。',
   mSignupConfirmTitle: "ご確認いただきありがとうございます",
   mSignupConfirmDesc:
@@ -787,7 +787,7 @@ Quireをご利用になったご感想をお聞かせください。
   mKeyComment: '選択したタスクにコメント',
   mKeySelfAssign: '選択したタスクを自分の担当に設定',
   mKeyAssignTask: '選択したタスクを管理',
-  mKeyAssignTaskProperties: '@=担当に設定;/=状態;#=タグ;<=期限;!=優先度;^=ボード;>=project',
+  mKeyAssignTaskProperties: '@=担当に設定;/=状態;#=タグ;<=期限;!=優先度;^=ボード;>=プロジェクト',
   mKeyIndent: '編集モードでタスクのレベルを変更',
   mKeyToggleHint: 'タスクIDなどを表示',
   mKeyCopyHint: "選択したタスクをコピー",
@@ -822,7 +822,7 @@ Quireをご利用になったご感想をお聞かせください。
   mStatsWeeklyTodosLabel: "開始前",
   mSettingProfileSec: "プロフィール",
   mSettingBasicsSec: "基本設定",
-  mSettingApplicationsSec: "Apps",
+  mSettingApplicationsSec: "アプリ",
   mSettingAdditionalSec: "詳細設定",
   mSettingMemberSec: "メンバー",
   mSettingMemberCountSec: "メンバー数",
@@ -1009,7 +1009,7 @@ Quireをご利用になったご感想をお聞かせください。
   mAppSearchPlaceholder: "アプリ検索",
   mAppDirectoryBackApps: 'アプリ一覧',
   mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
-  mAppDirectoryProfileTabTitle: 'アプリケーション',
+  mAppDirectoryProfileTabTitle: 'アプリ',
   mAppDeveloperTabTitle: "アプリ開発者",
   mAppDeveloperHeader: "開発者",
   mAppDeveloperTitle: "Quireと一緒に、すごいものを<br>作りましょう！",
@@ -1442,8 +1442,8 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileTabNotification: "通知",
   mMobileTabMyTasks: "自分のタスク",
   mMobileSearchTaskResultEmpty: "以下の場所に見つかりません：<b>[=name]</b>",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
+  mMobileListDropToSub: "タスクを他の表示にドロップ",
+  mMobileSubDropToOthers: "この表示からタスクを移動",
+  mMobileSubDropToOthersDialog: "タスクを追加する表示を選択",
   mMobileDraftBannerContinue: "Continue writing your drafts."
 };
