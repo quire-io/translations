@@ -96,8 +96,8 @@ const jaWeb = const <String, String> {
   mFeatureHealthStatsDesc: "プロジェクト全体や各メンバーの進捗を可視化して、ひと目で把握できます。",
   mFeatureRecurringTitle: "繰り返しタスク",
   mFeatureRecurringDesc: "いつもの作業を、予定日に自動で表示しましょう。",
-  mFeaturePeekabooTitle: "Peekaboo",
-  mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
+  mFeaturePeekabooTitle: "あとで表示",
+  mFeaturePeekabooDesc: "しばらく実行できないタスクを一時的に隠してタスクリストを整理し、ストレスを減らしましょう。",
   mFeatureTimeTitle: "期間の設定",
   mFeatureTimeDesc: "開始日と期限日を設定して、ガントチャートで確認しましょう。",
   mFeatureRemindersTitle: "予定の通知",
@@ -118,8 +118,8 @@ const jaWeb = const <String, String> {
   mFeatureGoogleCalendarDesc: "GoogleやiCal、Outlookカレンダーと同期してタスクを確認し、通知を受け取りましょう。",
   mFeatureSlackTitle: "Slackと連携",
   mFeatureSlackDesc: "Slackチャンネルでプロジェクトの更新を確認できます。",
-  mFeatureZapierTitle: "Zapier integration",
-  mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
+  mFeatureZapierTitle: "Zapierと連携",
+  mFeatureZapierDesc: "2,000以上のアプリをQuireと一気に連携してワークフローを自動化し、生産性を飛躍的に高めます。",
   mFeatureIntegraGithubTitle: "GitHubと連携",
   mFeatureIntegraGithubDesc: "コミットをタスクとリンクして、チームメンバーにコードの変更を知らせましょう。",
   mFeatureChromeExtensionTitle: "Chromeの拡張機能",
@@ -147,11 +147,11 @@ const jaWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quireと、その先へ",
   mFeatureAppDirectoryDesc: "すぐれた連携機能で、効率を高めましょう。",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>Quireは今のところ、無料でお使いいただけます。</p>"
+    "<p>無料のアカウントには35組織、プロジェクト80件、1組織当たりメンバー30人まで追加することができます。料金が導入された後も、それまでに追加された機能は、ずっと無料でご利用になれます。</p>"
+    "<p>なぜまだ料金を導入しないのか、よく質問されます。理由は、今は試したいアイデアでいっぱいだから。利益を追求するよりも、Quireをもっとすごいものにして、もっと洗練された体験をお届けすることに集中したいからです。</p>"
+    "<p>私たちは今、ガントチャートの開発と、カンバンボードの改善に取り組んでいます。目指すのは、ユーザーが最高の機能を組み合わせたプロジェクト管理ツールで最適なワークフローを実現し、目標を達成するお手伝いをすることです。ただ機能を増やすことではありません。</p>"
+    '<p>Quireは、すごいことをやってみたいという方たちを、成功に向けて長期的にサポートしていきます。料金計画についてもっと詳しく知りたい方や、各種制限の上限引き上げをご希望の方は、どうぞお気軽に<a href="mailto:info@quire.io">私たちまでお問い合わせ</a>ください。</p>',
   mCookieGDPRDesc: "当サイトは、より快適にご使用いただくために、Cookieを利用しています。",
   mSecurityPageTitle: 'Quireのセキュリティ対策',
   mSecurityPageDesc:
