@@ -969,7 +969,7 @@ const jaClient = const <String, String> {
   mAppContactEmail: 'メールアドレス',
   mAppContactEmailDesc: 'このアプリに関する質問は、このメールアドレスに送られます。',
   mAppInstallPage: 'インストールランディングページ',
-  mAppInstallPageDesc: 'アプリのインストール方法についてもっと詳しく知りたい方は、このページを開いてください。指定しない場合は、デフォルトのインストールボタンが使用されます。',
+  mAppInstallPageDesc: 'ユーザーはこのページにアクセスすると、アプリのインストール方法についてもっと詳しく知ることができます。指定しない場合は、デフォルトのインストールボタンが使用されます。',
   mAppOrganization: '開発組織',
   mAppOrganizationDesc: 'このアプリはこの組織に属し、組織管理者のみがアプリを編集できます。この設定は変更できません。',
   mAppRedirectURL: 'リダイレクトURL',
