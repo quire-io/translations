@@ -733,7 +733,6 @@ const deClient = const <String, String> {
   mDuplicateTaskContent: "Sie sind dabei [=name] zu duplizieren.",
   mDuplicateTaskContentPlural: "Sie sind dabei [=name] und [=count] andere Aufgaben zu duplizieren.",
   mDuplicateTaskCPState: "Alle Status auf [=todo] zurücksetzen",
-  mDuplicateTaskCPBoard: "Duplizierte Aufgbe in gleichem Board behalten",
   mTransferTaskContent: "Die Aufgabe [=name] in ein Projekt übertragen",
   mTransferTaskContentPlural: "Sie sind dabei [=name] und [=count] andere Aufgaben in ein Projekt zu übertragen",
   mTransferTaskCPTaskFinish: "Kopie von [=name] wurde in das Projekt [=project] übertragen.",

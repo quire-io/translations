@@ -739,7 +739,6 @@ const esClient = const <String, String> {
   mDuplicateTaskContent: "Estás a punto de duplicar [=name].",
   mDuplicateTaskContentPlural: "Estás a punto de duplicar [=name] y otras [=count] tareas.",
   mDuplicateTaskCPState: "Restablecer todos los estados a [=todo]",
-  mDuplicateTaskCPBoard: "Mantener las tareas duplicadas en el mismo tablero",
   mTransferTaskContent: "Estás a punto de trasferir [=name] al proyecto",
   mTransferTaskContentPlural: "Estás a punto de transferir [=name] y otras [=count] tareas al proyecto",
   mTransferTaskCPTaskFinish: "Una copia de [=name] ha sido transferida a [=project].",

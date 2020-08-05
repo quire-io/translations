@@ -739,7 +739,6 @@ const ruClient = const <String, String> {
   mDuplicateTaskContent: "You are about to duplicate [=name].",
   mDuplicateTaskContentPlural: "You are about to duplicate [=name] and [=count] other tasks.",
   mDuplicateTaskCPState: "Reset all statuses to [=todo]",
-  mDuplicateTaskCPBoard: "Keep the duplicated task in the same board",
   mTransferTaskContent: "You are about to transfer [=name] to project",
   mTransferTaskContentPlural: "You are about to transfer [=name] and [=count] other tasks to project",
   mTransferTaskCPTaskFinish: "Copy of [=name] has been transferred to [=project].",

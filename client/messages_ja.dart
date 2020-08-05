@@ -739,7 +739,6 @@ const jaClient = const <String, String> {
   mDuplicateTaskContent: "[=name]を複製します。",
   mDuplicateTaskContentPlural: "[=name]とその他[=count]件のタスクを複製します。",
   mDuplicateTaskCPState: "すべての状態を[=todo]に再設定",
-  mDuplicateTaskCPBoard: "同じボードに複製",
   mTransferTaskContent: "[=name]をプロジェクトに移動します",
   mTransferTaskContentPlural: "[=name]とその他[=count]件のタスクをプロジェクトに移動します",
   mTransferTaskCPTaskFinish: "[=name]のコピーが[=project]に移動されました。",

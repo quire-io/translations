@@ -945,7 +945,6 @@ const enClient = const <String, String> {
     "You are about to duplicate [=name] and [=count] other tasks.",
 
   mDuplicateTaskCPState: "Reset all statuses to [=todo]",
-  mDuplicateTaskCPBoard: "Keep the duplicated task in the same board",
 
 
 

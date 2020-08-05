@@ -744,7 +744,6 @@ const ptBrClient = const <String, String> {
   mDuplicateTaskContent: "Você está prestes a duplicar [=name].",
   mDuplicateTaskContentPlural: "Você está prestes a duplicar [=name] e outras [=count] tarefas.",
   mDuplicateTaskCPState: "Redefinir todos os estados para [=todo]",
-  mDuplicateTaskCPBoard: "Manter a tarefa duplicada no mesmo quadro",
   mTransferTaskContent: "Você está prestes a transferir [=name] para o projeto",
   mTransferTaskContentPlural: "Você está prestes a transferir [=name] e outras [=count] tarefas para o projeto",
   mTransferTaskCPTaskFinish: "Cópia de [=name] foi transferida para [=project].",

@@ -739,7 +739,6 @@ const itClient = const <String, String> {
   mDuplicateTaskContent: "Stai per duplicare [=name].",
   mDuplicateTaskContentPlural: "Stai per duplicare [=name] e [=count] altre attività.",
   mDuplicateTaskCPState: "Resetta tutti gli stati a [=todo]",
-  mDuplicateTaskCPBoard: "Mantieni le attività duplicate nella stessa bacheca",
   mTransferTaskContent: "Stai per trasferire [=name] al progetto",
   mTransferTaskContentPlural: "Stai per trasferire [=name] e [=count] altre attività al progetto",
   mTransferTaskCPTaskFinish: "La copia di [=name] è stata trasferita in [=project].",

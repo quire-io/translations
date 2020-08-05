@@ -733,7 +733,6 @@ const trClient = const <String, String> {
   mDuplicateTaskContent: "[=name] görevini yinelemek üzeresiniz.",
   mDuplicateTaskContentPlural: "[=name] görevini ve diğer [=count] görevi yinelemek üzeresiniz.",
   mDuplicateTaskCPState: "Tüm durumları [=todo] olarak sıfırla",
-  mDuplicateTaskCPBoard: "Yinelenen görevi aynı panoda tut",
   mTransferTaskContent: "[=name] görevini projeye aktar",
   mTransferTaskContentPlural: "[=name] görevini ve diğer [=count] görevi projeye aktarmak üzeresiniz.",
   mTransferTaskCPTaskFinish: "[=name] görevinin kopyası [=project] projesine aktarıldı.",

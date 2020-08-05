@@ -739,7 +739,6 @@ const frClient = const <String, String> {
   mDuplicateTaskContent: "Vous êtes sur le point de dupliquer [=name].",
   mDuplicateTaskContentPlural: "Vous êtes sur le point de dupliquer [=name] et [=count] autres tâches.",
   mDuplicateTaskCPState: "Réinitialiser tous les statuts à [=todo]",
-  mDuplicateTaskCPBoard: "Garder la tâche dupliquée dans le même tableau",
   mTransferTaskContent: "Vous êtes sur le point de transférer [=name] vers le projet",
   mTransferTaskContentPlural: "Vous êtes sur le point de transférer [=name] et [=count] autres tâches vers le projet",
   mTransferTaskCPTaskFinish: "La copie de [=name] a été transférée vers [=project].",
