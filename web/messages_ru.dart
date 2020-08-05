@@ -56,7 +56,7 @@ const ruWeb = const <String, String> {
   mFeaturesMigrationAsanaButton: "Мигрировать из Asana",
   mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
   mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",
-  mFeaturesCompareWrikeButton: "Compare to Wrike",
+  mFeaturesCompareWrikeButton: "Сравнить с Wrike",
   mFeaturesMigrationOthersButton: "Мигрировать из других",
   mFeatureHierarchyTitle: "Вложенный Список Задач",
   mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",
@@ -96,8 +96,8 @@ const ruWeb = const <String, String> {
   mFeatureHealthStatsDesc: "Визуальный обзор того, насколько хорошо работает каждый из ваших проектов и их участников.",
   mFeatureRecurringTitle: "Повторяющиеся Задачи",
   mFeatureRecurringDesc: "Избавьтесь от рутины в списке задач раз и навсегда.",
-  mFeaturePeekabooTitle: "Peekaboo",
-  mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
+  mFeaturePeekabooTitle: "Спрятать",
+  mFeaturePeekabooDesc: "Временно отложите свои задачи, которые в настоящее время не выполнимы, чтобы лучше организовать список задач и избежать стресса на работе.",
   mFeatureTimeTitle: "Время и Продолжительность",
   mFeatureTimeDesc: "Установите даты начала и окончания, чтобы увидеть аналог диаграммы Ганта в календаре.",
   mFeatureRemindersTitle: "Напоминания",
@@ -118,8 +118,8 @@ const ruWeb = const <String, String> {
   mFeatureGoogleCalendarDesc: "Смотрите ваши задачи как события в календаре Google, iCal или Outlook и получайте уведомления.",
   mFeatureSlackTitle: "Интеграция в Slack",
   mFeatureSlackDesc: "Получайте обновления о всех своих проектах на канале Slack и многое другое.",
-  mFeatureZapierTitle: "Zapier integration",
-  mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
+  mFeatureZapierTitle: "Интеграция с Zapier",
+  mFeatureZapierDesc: "Мгновенно подключайте Quire к более чем 2000 приложений, чтобы автоматизировать рабочий процесс и найти суперспособности для повышения производительности.",
   mFeatureIntegraGithubTitle: "Интеграция с GitHub",
   mFeatureIntegraGithubDesc: "Держите всех в вашей команде в курсе изменений кода, связывая коммиты с вашими задачами.",
   mFeatureChromeExtensionTitle: "Расширение Chrome",
@@ -147,11 +147,11 @@ const ruWeb = const <String, String> {
   mFeatureAppDirectoryTitle: "Quire & Другие",
   mFeatureAppDirectoryDesc: "Повысьте свою производительность с помощью первоклассных интеграций.",
   mPricingPageDesc:
-    "<p>At the moment, Quire is free of charge.</p>"
-    "<p>You can enjoy a free Quire account with up to 35 organizations, 80 projects and 30 members per organization. The good news is that, whatever you’re currently using will continue to be free, even after we introduce the pricing packages.</p>"
-    "<p>Many people have been wondering why Quire hasn’t launched the pricing program yet. The reason is that there are still so many exciting ideas and features yet to be explored! We aim to bring a more refined experience to our users and put effort on making Quire more awesome, than focusing on sales.</p>"
-    "<p>In case you’re wondering, our team is currently developing a Gantt Chart and refining the existing Kanban Board. Our team works hard to create a project management software with all of the features that goes well with each other and  actually helps you achieve your goals in the most logical workflow, instead of adding as many features as possible.</p>"
-    '<p>We know you are ready to achieve great things with Quire. We’re here to ensure your long-term success. If you need more detailed information regarding our pricing or you would like to lift some of the current limitations for your organizations, please feel free to <a href="mailto:info@quire.io">reach out to us</a>.</p>',
+    "<p>На данный момент вы можете использовать Quire бесплатно.</p>"
+    "<p>Вы можете пользоваться бесплатной учетной записью Quire, используя до 35 организаций, 80 проектов и 30 участников на организацию. Хорошая новость заключается в том, что все, что вы используете в настоящее время, останется бесплатным даже после того, как мы введем тарифные планы.</p>"
+    "<p>Многие люди задавались вопросом, почему Quire еще не запустила программу ценообразования. Причина в том, что есть еще так много интересных идей и функций, которые еще предстоит изучить! Мы стремимся предоставить нашим пользователям более совершенный опыт и прилагаем все усилия, чтобы сделать Quire более привлекательным, вместо того, чтобы сосредоточить всё внимание на продажах.</p>"
+    "<p>Если вам интересно, наша команда в настоящее время разрабатывает диаграмму Ганта и улучшает существующую доску Канбан. Наша команда усердно работает над созданием программного обеспечения для управления проектами со всеми функциями, которые хорошо сочетаются друг с другом и действительно помогают вам достичь ваших целей в наиболее логичном рабочем процессе, вместо того, чтобы добавлять как можно больше функций.</p>"
+    '<p>Мы знаем, что с Quire вы готовы добиваться больших результатов. Мы здесь, чтобы обеспечить ваш долгосрочный успех. Если вам нужна более подробная информация о наших ценах или вы хотите снять некоторые из текущих ограничений для своих организаций, пожалуйста, <a href="mailto:info@quire.io">свяжитесь с нами</a>.</p>',
   mCookieGDPRDesc: "Мы используем куки, чтобы обеспечить вам лучший опыт на нашем сайте.",
   mSecurityPageTitle: 'Безопасность в Quire',
   mSecurityPageDesc:
@@ -299,14 +299,14 @@ const ruWeb = const <String, String> {
   mTutorialContextmenuTip: "Совет: Вы можете нажать F1, чтобы увидеть полный список сочетаний клавиш.",
   mNextTutorial: "Следующий урок",
   mBoardTutorialLinkTitle: "Визуализируйте свой рабочий процесс с Канбан-досками в Quire",
-  mSublistTutorialLinkTitle: "Get focused on the right tasks with a personalized Quire Sublist",
-  mSignupToday: "Let's get started in Quire today!",
-  mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
+  mSublistTutorialLinkTitle: "Сосредоточьтесь на правильных задачах с помощью персонализированного подсписка задач",
+  mSignupToday: "Начните работать с Quire сегодня!",
+  mBoardTutorialTitle: "Руководство Quire - Доска Канбан",
   mBoardTutorialDesc:
-    "After dumping and organizing all your ideas in the nested task list view, "
-    "it’s time to work on your project!<br>"
-    'Get <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focused</a> '
-    "on selected tasks and visualize your workflow with the Kanban board.",
+    "После записи и организации всех ваших идей во вложенном списке задач, "
+    "пора поработать над своим проектом!<br>"
+    '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Сосредоточьтесь</a> '
+    "на выбранных задачах и визуализируйте свой рабочий процесс с помощью доски Канбан.",
   mBoardTutorialAddBoardTitle: "Name Your Board",
   mBoardTutorialAddBoardContent:
     "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
