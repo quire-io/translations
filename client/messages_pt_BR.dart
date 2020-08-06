@@ -703,6 +703,8 @@ const ptBrClient = const <String, String> {
   mRemoveProjectMemberContent: "Esse usuário será desassociado de [=task] nesse projeto.",
   mRemoveProjectMemberContentPlural: "Esse usuário será desassociado de [=task] e outras [=count] tarefas nesse projeto.",
   mReassignMemberToTasks: "Reatribuir as tarefas para",
+  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "Descartar rascunho?",
   mDiscardDraftContent: "As alterações feitas podem não ser salvas.",
   mDiscardChangesTitle: "Descartar alterações?",

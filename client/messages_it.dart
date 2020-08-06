@@ -698,6 +698,8 @@ const itClient = const <String, String> {
   mRemoveProjectMemberContent: "Questo membro verrà disassegnato da [=task] in questo progetto.",
   mRemoveProjectMemberContentPlural: "Questo membro verrà disassegnato da [=task] e [=count] altre attività in questo progetto.",
   mReassignMemberToTasks: "Riassegna le attività a",
+  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "Eliminare bozza?",
   mDiscardDraftContent: "Le modifiche apportate potrebbero non essere salvate.",
   mDiscardChangesTitle: "Annullare le modifiche?",

@@ -698,6 +698,8 @@ const esClient = const <String, String> {
   mRemoveProjectMemberContent: "Este miembro será desasignado de [=task] en este proyecto.",
   mRemoveProjectMemberContentPlural: "Este miembro será desasignado de [=task] y otras [=count] tareas en este proyecto.",
   mReassignMemberToTasks: "Reasignar las tareas a",
+  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "¿Deshacer el proyecto?",
   mDiscardDraftContent: "Es posible que no se guarden los cambios realizados.",
   mDiscardChangesTitle: "¿Descartar cambios?",

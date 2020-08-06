@@ -692,6 +692,8 @@ const trClient = const <String, String> {
   mRemoveProjectMemberContent: "Bu projede, bu üyenin [=task] görevindeki sorumluluğu kaldırılacak.",
   mRemoveProjectMemberContentPlural: "Bu üyenin bu projedeki [=task] ve diğer [=count] görevdeki sorumluluğu kaldırılacak.",
   mReassignMemberToTasks: "Görevleri şuraya yeniden ata:",
+  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "Taslak silinsin mi?",
   mDiscardDraftContent: "Yaptığınız değişiklikler kaydedilemeyebilir.",
   mDiscardChangesTitle: "Değişiklikleri gözardı et?",

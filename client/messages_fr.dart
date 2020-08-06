@@ -698,6 +698,8 @@ const frClient = const <String, String> {
   mRemoveProjectMemberContent: "[=task] ne sera plus attribuée à ce membre dans ce projet.",
   mRemoveProjectMemberContentPlural: "[=task] et [=count] autres tâches de ce projet ne seront plus attribuées à ce membre.",
   mReassignMemberToTasks: "Réattribuer les tâches à",
+  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "Supprimer le brouillon ?",
   mDiscardDraftContent: "Les changements que vous avez effectués pourraient ne pas être enregistrés.",
   mDiscardChangesTitle: "Annuler les changements ?",
