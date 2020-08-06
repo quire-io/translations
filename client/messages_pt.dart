@@ -144,6 +144,7 @@ const ptClient = const <String, String> {
   mOneDayAgo: "1 dia atrás",
   mDaysAgo: "[=n] dias atrás",
   mWeeksAgo: "[=n] semanas atrás",
+  mOther: "Other",
   mOthers: "Outros",
   mGroupActive: "Ativas",
   mGroupCompleted: "Concluídas",
@@ -723,6 +724,13 @@ const ptClient = const <String, String> {
   mDeleteAccountContent:
     "Está prestes a <strong>eliminar permanentemente</strong> a sua conta de utilizador, "
     "<b>[=email]</b>, e todos os dados associados.",
+  mDeleteAccountWhy: "We are sad to see you leave. Please spare a few minutes to let us know why you’re deleting your account.",
+  mDeleteAccountWhyPlaceholder: "Please specify",
+  mDeleteAccountWhyFeature: "Lack of important features",
+  mDeleteAccountWhyInterface: "Complicated and unfavorable interface",
+  mDeleteAccountWhyWorkflow: "Unable to set up desired workflow with Quire",
+  mDeleteAccountWhyMerge: "Merge to another Quire account",
+  mDeleteAccountWhyAlternative: "Decided to switch to another solution",
   mDeleteAccountConfirm: "Estou ciente de que <strong>não posso desfazer</strong> esta ação.",
   mDeleteAccount: "Eliminar a Minha Conta",
   mRestoreDeletedEntityContent: 'Tem a certeza de que pretende restaurar o [=host] eliminado?',

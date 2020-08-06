@@ -133,6 +133,7 @@ const trClient = const <String, String> {
   mOneDayAgo: "1 gün önce",
   mDaysAgo: "[=n] gün önce",
   mWeeksAgo: "[=n] hafta önce",
+  mOther: "Other",
   mOthers: "Diğerleri",
   mGroupActive: "Aktif",
   mGroupCompleted: "Tamamlanan",
@@ -712,6 +713,13 @@ const trClient = const <String, String> {
   mDeleteAccountContent:
     "Kullanıcı hesabını, <b>[=email]</b> ve ilgili tüm verileri "
     "<strong>kalıcı olarak silmek</strong> üzeresin.",
+  mDeleteAccountWhy: "We are sad to see you leave. Please spare a few minutes to let us know why you’re deleting your account.",
+  mDeleteAccountWhyPlaceholder: "Please specify",
+  mDeleteAccountWhyFeature: "Lack of important features",
+  mDeleteAccountWhyInterface: "Complicated and unfavorable interface",
+  mDeleteAccountWhyWorkflow: "Unable to set up desired workflow with Quire",
+  mDeleteAccountWhyMerge: "Merge to another Quire account",
+  mDeleteAccountWhyAlternative: "Decided to switch to another solution",
   mDeleteAccountConfirm: "Bu işlemi <strong>geri alamayacağımın</strong> farkındayım.",
   mDeleteAccount: "Hesabımı Sil",
   mRestoreDeletedEntityContent: 'Silinen [=host] geri yüklemek istediğinizden emin misiniz?',

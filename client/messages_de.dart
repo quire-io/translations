@@ -133,6 +133,7 @@ const deClient = const <String, String> {
   mOneDayAgo: "vor einem Tag",
   mDaysAgo: "vor [=n] Tagen",
   mWeeksAgo: "vor [=n] Wochen",
+  mOther: "Other",
   mOthers: "Andere",
   mGroupActive: "Aktiv",
   mGroupCompleted: "Erledigt",
@@ -712,6 +713,13 @@ const deClient = const <String, String> {
   mDeleteAccountContent:
     "Sie möchten Ihr Quire Benutzerkonto, <b>[=email]</b>, "
     "und alle damit verbundenen Daten <strong>unwiderruflich löschen</strong>.",
+  mDeleteAccountWhy: "We are sad to see you leave. Please spare a few minutes to let us know why you’re deleting your account.",
+  mDeleteAccountWhyPlaceholder: "Please specify",
+  mDeleteAccountWhyFeature: "Lack of important features",
+  mDeleteAccountWhyInterface: "Complicated and unfavorable interface",
+  mDeleteAccountWhyWorkflow: "Unable to set up desired workflow with Quire",
+  mDeleteAccountWhyMerge: "Merge to another Quire account",
+  mDeleteAccountWhyAlternative: "Decided to switch to another solution",
   mDeleteAccountConfirm: "Ich bin mir im Klaren darüber, dass ich diese Aktion <strong>nicht rückgängig machen kann</strong>.",
   mDeleteAccount: "Account löschen",
   mRestoreDeletedEntityContent: 'Möchten Sie den gelöschten [=host] wirklich wiederherstellen?',

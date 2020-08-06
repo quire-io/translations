@@ -184,6 +184,7 @@ const enClient = const <String, String> {
   mOneDayAgo: "1 day ago",
   mDaysAgo: "[=n] days ago",
   mWeeksAgo: "[=n] weeks ago",
+  mOther: "Other",
   mOthers: "Others",
   mGroupActive: "Active",
   mGroupCompleted: "Completed",
@@ -911,6 +912,14 @@ const enClient = const <String, String> {
   mDeleteAccountContent:
     "You are about to <strong>permanently delete</strong> your user account, "
     "<b>[=email]</b>, and all associated data.",
+  mDeleteAccountWhy:
+    "We are sad to see you leave. Please spare a few minutes to let us know why you’re deleting your account.",
+  mDeleteAccountWhyPlaceholder: "Please specify",
+  mDeleteAccountWhyFeature: "Lack of important features",
+  mDeleteAccountWhyInterface: "Complicated and unfavorable interface",
+  mDeleteAccountWhyWorkflow: "Unable to set up desired workflow with Quire",
+  mDeleteAccountWhyMerge: "Merge to another Quire account",
+  mDeleteAccountWhyAlternative: "Decided to switch to another solution",
   mDeleteAccountConfirm:
     "I am aware that I <strong>cannot undo</strong> this.",
   mDeleteAccount: "Delete My Account",

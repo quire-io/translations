@@ -139,6 +139,7 @@ const jaClient = const <String, String> {
   mOneDayAgo: "1日前",
   mDaysAgo: "[=n]日前",
   mWeeksAgo: "[=n]週間前",
+  mOther: "Other",
   mOthers: "その他",
   mGroupActive: "有効",
   mGroupCompleted: "完了",
@@ -718,6 +719,13 @@ const jaClient = const <String, String> {
   mDeleteAccountContent:
     "ユーザーアカウント<b>[=email]</b>と関連データを"
     "<strong>永久に削除</strong>します。",
+  mDeleteAccountWhy: "We are sad to see you leave. Please spare a few minutes to let us know why you’re deleting your account.",
+  mDeleteAccountWhyPlaceholder: "Please specify",
+  mDeleteAccountWhyFeature: "Lack of important features",
+  mDeleteAccountWhyInterface: "Complicated and unfavorable interface",
+  mDeleteAccountWhyWorkflow: "Unable to set up desired workflow with Quire",
+  mDeleteAccountWhyMerge: "Merge to another Quire account",
+  mDeleteAccountWhyAlternative: "Decided to switch to another solution",
   mDeleteAccountConfirm: "この操作が<strong>元に戻せない</strong>ことを理解しています。",
   mDeleteAccount: "自分のアカウントを削除",
   mRestoreDeletedEntityContent: '削除した[=host]を復元しますか？',
