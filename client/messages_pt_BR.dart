@@ -651,7 +651,6 @@ const ptBrClient = const <String, String> {
   mMenuBoardEditStatusColumn: "Edit status",
   mMenuBoardEditTagColumn: "Edit tag",
   mMenuBoardRemoveStatusColumn: "Delete status",
-  mMenuBoardRemoveAssigneeColumn: "Delete assignee",
   mMenuBoardRemoveTagColumn: "Delete tag",
   mHiddenColumnTooltip: "1 hidden column",
   mHiddenColumnTooltipPlural: "[=n] hidden columns",
