@@ -940,6 +940,7 @@ const enClient = const <String, String> {
   mRestoreDeletedEntityContent: 
     'Are you sure you want to restore the deleted [=host]?',
 
+  mSettingOptionLeaveOrganization: "Leave organization",
   mLeaveOrganizationTitle: "Leave Organization",
   mLeaveOrganizationDesc: "You will no longer have access to this organization. Are you sure you want to leave?",
   mLeaveProjectTitle: "Leave Project",

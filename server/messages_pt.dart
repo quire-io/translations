@@ -916,7 +916,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mAddNewLink: "Criar novo link",
   mViewMember: "Ver todos os membros",
   mDeleteMYAccount: "Eliminar conta",
-  mSettingOptionLeaveOrganization: "Sair da organização",
   mSettingOptionDeleteOrganization: "Eliminar organização",
   mChangeDisplayMode: "Modo de exibição",
   mChangeProfileVisibility: "Alterar visibilidade do perfil",

@@ -917,7 +917,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAddNewLink: "Create new link",
   mViewMember: "View all members",
   mDeleteMYAccount: "Delete account",
-  mSettingOptionLeaveOrganization: "Leave organization",
   mSettingOptionDeleteOrganization: "Delete organization",
   mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Change profile visibility",

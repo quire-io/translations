@@ -746,6 +746,7 @@ const ptBrClient = const <String, String> {
   mDeleteAccountConfirm: "Estou ciente de que <strong>não posso desfazer</strong> isso.",
   mDeleteAccount: "Excluir Minha Conta",
   mRestoreDeletedEntityContent: 'Tem certeza de que deseja restaurar o [= host] excluído?',
+  mSettingOptionLeaveOrganization: "Sair da organização",
   mLeaveOrganizationTitle: "Deixar Organização",
   mLeaveOrganizationDesc: "Você não terá mais acesso a esta organização. Você tem certeza de que deseja sair?",
   mLeaveProjectTitle: "Deixar Projeto",

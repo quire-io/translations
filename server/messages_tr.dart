@@ -914,7 +914,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mAddNewLink: "Yeni bağlantı oluştur",
   mViewMember: "Tüm üyeleri görüntüle",
   mDeleteMYAccount: "Hesabı sil",
-  mSettingOptionLeaveOrganization: "Organizasyondan ayrıl",
   mSettingOptionDeleteOrganization: "Organizasyonu sil",
   mChangeDisplayMode: "Görünüm modu",
   mChangeProfileVisibility: "Profil görünürlüğünü değiştir",

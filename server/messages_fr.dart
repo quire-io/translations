@@ -897,7 +897,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAddNewLink: "Créer un nouveau lien",
   mViewMember: "Voir tous les membres",
   mDeleteMYAccount: "Supprimer le compte",
-  mSettingOptionLeaveOrganization: "Quitter l'organisation",
   mSettingOptionDeleteOrganization: "Supprimer l'organisation",
   mChangeDisplayMode: "Mode d'affichage",
   mChangeProfileVisibility: "Modifier la visiblité du profil",

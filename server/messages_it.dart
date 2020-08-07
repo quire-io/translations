@@ -915,7 +915,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAddNewLink: "Crea Nuovo link",
   mViewMember: "Visualizza tutti i Membri",
   mDeleteMYAccount: "Elimina account",
-  mSettingOptionLeaveOrganization: "Lascia l\' organizzazione",
   mSettingOptionDeleteOrganization: "Elimina organizzazione",
   mChangeDisplayMode: "Modalità di visualizzazione",
   mChangeProfileVisibility: "Modifica visibilità profilo",

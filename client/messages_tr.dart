@@ -735,6 +735,7 @@ const trClient = const <String, String> {
   mDeleteAccountConfirm: "Bu işlemi <strong>geri alamayacağımın</strong> farkındayım.",
   mDeleteAccount: "Hesabımı Sil",
   mRestoreDeletedEntityContent: 'Silinen [=host] geri yüklemek istediğinizden emin misiniz?',
+  mSettingOptionLeaveOrganization: "Organizasyondan ayrıl",
   mLeaveOrganizationTitle: "Organizasyondan Ayrıl",
   mLeaveOrganizationDesc: "Artık bu organizasyona erişiminiz olmayacak. Ayrılmak istediğinizden emin misiniz?",
   mLeaveProjectTitle: "Projeden Ayrıl",

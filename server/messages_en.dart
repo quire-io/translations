@@ -1188,7 +1188,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mDeleteMYAccount: "Delete account",
 
-  mSettingOptionLeaveOrganization: "Leave organization",
   mSettingOptionDeleteOrganization: "Delete organization",
 
   mChangeDisplayMode: "Display mode",

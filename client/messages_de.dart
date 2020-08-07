@@ -735,6 +735,7 @@ const deClient = const <String, String> {
   mDeleteAccountConfirm: "Ich bin mir im Klaren darüber, dass ich diese Aktion <strong>nicht rückgängig machen kann</strong>.",
   mDeleteAccount: "Account löschen",
   mRestoreDeletedEntityContent: 'Möchten Sie den gelöschten [=host] wirklich wiederherstellen?',
+  mSettingOptionLeaveOrganization: "Organisation verlassen",
   mLeaveOrganizationTitle: "Organisation verlassen",
   mLeaveOrganizationDesc: "Sie werden keinen Zugriff mehr auf diese Organisation haben. Wollen Sie wirklich austreten?",
   mLeaveProjectTitle: "Projekt verlassen",

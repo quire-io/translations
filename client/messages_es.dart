@@ -741,6 +741,7 @@ const esClient = const <String, String> {
   mDeleteAccountConfirm: "Soy consciente de que <strong>no puedo deshacer</strong> esto.",
   mDeleteAccount: "Eliminar mi cuenta",
   mRestoreDeletedEntityContent: '¿Estás seguro de que deseas restaurar el archivo eliminado [=host]?',
+  mSettingOptionLeaveOrganization: "Salir de la organización",
   mLeaveOrganizationTitle: "Abandonar la organización",
   mLeaveOrganizationDesc: "Dejarás de tener acceso a esta organización. ¿Seguro que quieres abandonarla?",
   mLeaveProjectTitle: "Abandonar el proyecto",

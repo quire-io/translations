@@ -741,6 +741,7 @@ const itClient = const <String, String> {
   mDeleteAccountConfirm: "Sono consapevole che <strong>non potrò annullare</strong>",
   mDeleteAccount: "Elimina il mio account",
   mRestoreDeletedEntityContent: 'Sei sicuro di voler ripristinare [=host] precedentemente cancellato?',
+  mSettingOptionLeaveOrganization: "Lascia l\' organizzazione",
   mLeaveOrganizationTitle: "Lascia l\'organizzazione",
   mLeaveOrganizationDesc: "Non avrai più accessoo a questa organizzazione. Sei sicuro di volerla abbandonare?",
   mLeaveProjectTitle: "Abbandona Progetto",

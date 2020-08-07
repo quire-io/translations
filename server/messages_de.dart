@@ -908,7 +908,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAddNewLink: "Neuen Link erstellen",
   mViewMember: "Alle Mitglieder ansehen",
   mDeleteMYAccount: "Meinen Account löschen",
-  mSettingOptionLeaveOrganization: "Organisation verlassen",
   mSettingOptionDeleteOrganization: "Organisation löschen",
   mChangeDisplayMode: "Display mode",
   mChangeProfileVisibility: "Profilsichtbarkeit ändern",

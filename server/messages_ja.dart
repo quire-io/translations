@@ -915,7 +915,6 @@ Quireをご利用になったご感想をお聞かせください。
   mAddNewLink: "新しいリンクを作成",
   mViewMember: "すべてのメンバーを表示",
   mDeleteMYAccount: "アカウントを削除",
-  mSettingOptionLeaveOrganization: "組織を退出",
   mSettingOptionDeleteOrganization: "組織を削除",
   mChangeDisplayMode: "表示モード",
   mChangeProfileVisibility: "プロフィールの公開範囲を変更",
