@@ -213,6 +213,7 @@ const enClient = const <String, String> {
   mCreate: "Create",
   mCreateLink: "Create Link",
   mDelete: "Delete",
+  mDeletePermanently: "Delete permanently",
   mActivate: "Activate",
   mPublished: "Published",
   mUnpublished: "Unpublished",
@@ -898,11 +899,11 @@ const enClient = const <String, String> {
   mDeleteAppContent:
     "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent:
-    "You are about to <strong>permanently delete</strong> the organization [=name:full].",
+    "You are about to move the organization [=name:full] to trash.",
   mDeleteProjectLotContent:
     "You are about to <strong>delete</strong> the smart folder [=name:full].",
   mDeleteProjectContent:
-    "You are about to <strong>permanently delete</strong> the project [=name:full].",
+    "You are about to move the project [=name:full] to trash.",
   mDeletePartnerContent:
     "You are about to <strong>permanently delete</strong> the external team [=name].",
   mDeleteSublistContent:
