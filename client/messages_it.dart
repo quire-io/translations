@@ -636,6 +636,7 @@ const itClient = const <String, String> {
   mMenuSettings: "Impostazioni",
   mMenuBoardAddTask: "Crea nuove attività",
   mMenuBoardAddTaskExist: "Aggiungi attività esistenti",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Modifica bacheca",
   mMenuBoardEditStatus: "Modifica colonna",
   mMenuBoardHideStatus: "Nascondi colonna",

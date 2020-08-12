@@ -636,6 +636,7 @@ const esClient = const <String, String> {
   mMenuSettings: "Ajustes",
   mMenuBoardAddTask: "Crear nuevas tareas",
   mMenuBoardAddTaskExist: "Añadir tareas existentes",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Editar tablero",
   mMenuBoardEditStatus: "Editar columna",
   mMenuBoardHideStatus: "Ocultar columna",

@@ -636,6 +636,7 @@ const ruClient = const <String, String> {
   mMenuSettings: "Settings",
   mMenuBoardAddTask: "Create new tasks",
   mMenuBoardAddTaskExist: "Add existing tasks",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Edit board",
   mMenuBoardEditStatus: "Edit column",
   mMenuBoardHideStatus: "Hide column",

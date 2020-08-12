@@ -636,6 +636,7 @@ const jaClient = const <String, String> {
   mMenuSettings: "設定",
   mMenuBoardAddTask: "新しいタスクを作成",
   mMenuBoardAddTaskExist: "既存のタスクを追加",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "ボードを編集",
   mMenuBoardEditStatus: "欄を編集",
   mMenuBoardHideStatus: "欄を非表示",

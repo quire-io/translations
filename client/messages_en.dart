@@ -794,6 +794,7 @@ const enClient = const <String, String> {
 
   mMenuBoardAddTask: "Create new tasks",
   mMenuBoardAddTaskExist: "Add existing tasks",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Edit board",
   mMenuBoardEditStatus: "Edit column",
   mMenuBoardHideStatus: "Hide column",

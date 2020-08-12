@@ -636,6 +636,7 @@ const frClient = const <String, String> {
   mMenuSettings: "Paramètres",
   mMenuBoardAddTask: "Créer des nouvelles tâches",
   mMenuBoardAddTaskExist: "Ajouter des tâches existantes",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Modifier le tableau",
   mMenuBoardEditStatus: "Modifier la colonne",
   mMenuBoardHideStatus: "Masquer la colonne",

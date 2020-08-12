@@ -630,6 +630,7 @@ const trClient = const <String, String> {
   mMenuSettings: "Ayarlar",
   mMenuBoardAddTask: "Yeni görevler oluşturun",
   mMenuBoardAddTaskExist: "Mevcut görevleri ekle",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Panoyu düzenle",
   mMenuBoardEditStatus: "Sütunu düzenle",
   mMenuBoardHideStatus: "Sütunu gizle",

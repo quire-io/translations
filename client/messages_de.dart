@@ -630,6 +630,7 @@ const deClient = const <String, String> {
   mMenuSettings: "Einstellungen",
   mMenuBoardAddTask: "Neue Aufgabe erstellen",
   mMenuBoardAddTaskExist: "Vorhandene aufgaben hinzufügen",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Board bearbeiten",
   mMenuBoardEditStatus: "Spalte bearbeiten",
   mMenuBoardHideStatus: "Spalte ausblenden",

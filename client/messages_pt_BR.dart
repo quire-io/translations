@@ -641,6 +641,7 @@ const ptBrClient = const <String, String> {
   mMenuSettings: "Configurações",
   mMenuBoardAddTask: "Criar novas tarefas",
   mMenuBoardAddTaskExist: "Adicionar tarefas existentes",
+  mMenuBoardAddStatus: "Add status",
   mMenuEditBoard: "Editar quadro",
   mMenuBoardEditStatus: "Editar coluna",
   mMenuBoardHideStatus: "Ocultar coluna",
