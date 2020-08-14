@@ -1833,6 +1833,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSubDropToOthers: "Move tasks away from this view",
   mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
   mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set',
 };
 
 

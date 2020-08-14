@@ -1444,5 +1444,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileListDropToSub: "Suelta las tareas para otra vista",
   mMobileSubDropToOthers: "Aleja las tareas de esta vista",
   mMobileSubDropToOthersDialog: "Elija una vista para añadir tareas",
-  mMobileDraftBannerContinue: "Continue writing your drafts."
+  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set'
 };

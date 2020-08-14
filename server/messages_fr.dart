@@ -1426,5 +1426,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileListDropToSub: "Déposer les tâches dans une autre vue",
   mMobileSubDropToOthers: "Sortir les tâches de cette vue",
   mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches",
-  mMobileDraftBannerContinue: "Continue writing your drafts."
+  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set'
 };

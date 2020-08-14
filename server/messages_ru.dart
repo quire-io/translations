@@ -1446,5 +1446,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileListDropToSub: "Drop tasks to another view",
   mMobileSubDropToOthers: "Move tasks away from this view",
   mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
-  mMobileDraftBannerContinue: "Continue writing your drafts."
+  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set'
 };

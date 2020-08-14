@@ -1443,5 +1443,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileListDropToSub: "Görevleri başka bir görünüme bırakın",
   mMobileSubDropToOthers: "Görevleri bu görünümden taşıyın",
   mMobileSubDropToOthersDialog: "Görev eklemek için bir görünüm seçin",
-  mMobileDraftBannerContinue: "Continue writing your drafts."
+  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set'
 };

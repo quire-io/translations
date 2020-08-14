@@ -1444,5 +1444,6 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileListDropToSub: "タスクを他の表示にドロップ",
   mMobileSubDropToOthers: "この表示からタスクを移動",
   mMobileSubDropToOthersDialog: "タスクを追加する表示を選択",
-  mMobileDraftBannerContinue: "Continue writing your drafts."
+  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDropForQuickSet: 'Drop for quick set'
 };
