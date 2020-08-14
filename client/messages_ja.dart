@@ -371,6 +371,7 @@ const jaClient = const <String, String> {
   mCompleteNTasks: "タスク[=amount]件を完了",
   mReopen: "再開",
   mStatus: "状態",
+  mAddNewStatus: "Add new status",
   mNotifications: "通知",
   mShowMarkdownTips: "マークダウン記法のヒント",
   mHelp: "ヘルプ",

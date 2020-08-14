@@ -371,6 +371,7 @@ const itClient = const <String, String> {
   mCompleteNTasks: "Completa [=amount] attività",
   mReopen: "Riapri",
   mStatus: "Stato",
+  mAddNewStatus: "Add new status",
   mNotifications: "Notifiche",
   mShowMarkdownTips: "Suggerimenti Markdown",
   mHelp: "Aiuto",

@@ -371,6 +371,7 @@ const ruClient = const <String, String> {
   mCompleteNTasks: "Complete [=amount] tasks",
   mReopen: "Reopen",
   mStatus: "Status",
+  mAddNewStatus: "Add new status",
   mNotifications: "Notifications",
   mShowMarkdownTips: "Markdown tips",
   mHelp: "Help",

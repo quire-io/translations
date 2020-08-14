@@ -365,6 +365,7 @@ const deClient = const <String, String> {
   mCompleteNTasks: "[=amount] Aufgaben erledigen",
   mReopen: "Wieder öffnen",
   mStatus: "Status",
+  mAddNewStatus: "Add new status",
   mNotifications: "Benachrichtigungen",
   mShowMarkdownTips: "Markdown-Tipps",
   mHelp: "Hilfe",

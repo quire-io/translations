@@ -376,6 +376,7 @@ const ptBrClient = const <String, String> {
   mCompleteNTasks: "Concluídas [=amount] tarefas",
   mReopen: "Reabrir",
   mStatus: "Estado",
+  mAddNewStatus: "Add new status",
   mNotifications: "Notificações",
   mShowMarkdownTips: "Clique para obter dicas sobre o Markdown",
   mHelp: "Ajuda",

@@ -371,6 +371,7 @@ const frClient = const <String, String> {
   mCompleteNTasks: "Terminer [=amount] tâches",
   mReopen: "Rouvrir",
   mStatus: "Statut",
+  mAddNewStatus: "Add new status",
   mNotifications: "Notifications",
   mShowMarkdownTips: "Astuces pour le Markdown",
   mHelp: "Aide",

@@ -365,6 +365,7 @@ const trClient = const <String, String> {
   mCompleteNTasks: "[=amount] görev tamamla",
   mReopen: "Yeniden aç",
   mStatus: "Durum",
+  mAddNewStatus: "Add new status",
   mNotifications: "Bildirimler",
   mShowMarkdownTips: "İşaretleme ipuçları",
   mHelp: "Yardım",
