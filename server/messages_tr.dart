@@ -1270,8 +1270,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileGreen: "Yeşil",
   mMobileBlue: "Mavi",
   mMobileGoogleDrive: "Google Drive",
-  mMobileDrafts: "Drafts",
-  mMobileDeleteAll: "Delete All",
+  mMobileDrafts: "Taslaklar",
+  mMobileDeleteAll: "Tümünü Sil",
   mMobileNewBoard: "Yeni Pano",
   mMobileArchivedBoard: "Arşivlenmiş Panolar",
   mMobileProfileCamera: "Fotoğraf çek",
@@ -1443,6 +1443,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileListDropToSub: "Görevleri başka bir görünüme bırakın",
   mMobileSubDropToOthers: "Görevleri bu görünümden taşıyın",
   mMobileSubDropToOthersDialog: "Görev eklemek için bir görünüm seçin",
-  mMobileDraftBannerContinue: "Continue writing your drafts.",
-  mMobileDropForQuickSet: 'Drop for quick set'
+  mMobileDraftBannerContinue: "Taslaklarınızı yazmaya devam edin.",
+  mMobileDropForQuickSet: 'Hızlı kurulum için bırakın'
 };
