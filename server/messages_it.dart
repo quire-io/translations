@@ -1444,6 +1444,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileListDropToSub: "Sposta le attività in un'altra vista",
   mMobileSubDropToOthers: "Sposta le attività da questa vista",
   mMobileSubDropToOthersDialog: "Scegli una vista a cui aggiungere le attività",
-  mMobileDraftBannerContinue: "Continue writing your drafts.",
-  mMobileDropForQuickSet: 'Drop for quick set'
+  mMobileDraftBannerContinue: "Continua a scrivere le tue bozze.",
+  mMobileDropForQuickSet: "Rilascia per un'associazione rapida"
 };
