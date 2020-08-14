@@ -210,6 +210,7 @@ const frClient = const <String, String> {
   mSettings: "Paramètres",
   mDefault: "Par défaut",
   mOptional: "optional",
+  mOptionalU: "Optional",
   mSearch: "Rechercher",
   mNote: "Remarque ",
   mAttachment: "Pièce jointe",

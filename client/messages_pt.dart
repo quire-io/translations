@@ -215,6 +215,7 @@ const ptClient = const <String, String> {
   mSettings: "Definições",
   mDefault: "Padrão",
   mOptional: "optional",
+  mOptionalU: "Optional",
   mSearch: "Procurar",
   mNote: "Nota",
   mAttachment: "Anexo",

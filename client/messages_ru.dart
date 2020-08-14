@@ -210,6 +210,7 @@ const ruClient = const <String, String> {
   mSettings: "Settings",
   mDefault: "Default",
   mOptional: "optional",
+  mOptionalU: "Optional",
   mSearch: "Search",
   mNote: "Note",
   mAttachment: "Attachment",

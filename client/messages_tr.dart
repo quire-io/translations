@@ -204,6 +204,7 @@ const trClient = const <String, String> {
   mSettings: "Ayarlar",
   mDefault: "Varsayılan",
   mOptional: "istemli",
+  mOptionalU: "Optional",
   mSearch: "Ara",
   mNote: "Not",
   mAttachment: "Ek",

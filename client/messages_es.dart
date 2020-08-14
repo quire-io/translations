@@ -210,6 +210,7 @@ const esClient = const <String, String> {
   mSettings: "Ajustes",
   mDefault: "Por defecto",
   mOptional: "opcional",
+  mOptionalU: "Optional",
   mSearch: "Buscar",
   mNote: "Nota",
   mAttachment: "Adjuntar",

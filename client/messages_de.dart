@@ -204,6 +204,7 @@ const deClient = const <String, String> {
   mSettings: "Einstellungen",
   mDefault: "Standard",
   mOptional: "optional",
+  mOptionalU: "Optional",
   mSearch: "Suche",
   mNote: "Hinweis",
   mAttachment: "Anhang",

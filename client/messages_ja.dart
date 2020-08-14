@@ -210,6 +210,7 @@ const jaClient = const <String, String> {
   mSettings: "設定",
   mDefault: "デフォルト",
   mOptional: "任意",
+  mOptionalU: "Optional",
   mSearch: "検索",
   mNote: "ご注意",
   mAttachment: "添付ファイル",

@@ -215,6 +215,7 @@ const ptBrClient = const <String, String> {
   mSettings: "Configurações",
   mDefault: "Padrão",
   mOptional: "optional",
+  mOptionalU: "Optional",
   mSearch: "Pesquisar",
   mNote: "Nota",
   mAttachment: "Anexo",

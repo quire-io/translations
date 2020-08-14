@@ -210,6 +210,7 @@ const itClient = const <String, String> {
   mSettings: "Impostazioni",
   mDefault: "Predefinito",
   mOptional: "opzionale",
+  mOptionalU: "Optional",
   mSearch: "Ricerca",
   mNote: "Nota",
   mAttachment: "Allegato",
