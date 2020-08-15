@@ -1443,6 +1443,6 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mMobileListDropToSub: "Largue tarefas para outra vista",
   mMobileSubDropToOthers: "Mova tarefas desta vista",
   mMobileSubDropToOthersDialog: "Escolha uma vista para adicionar tarefas",
-  mMobileDraftBannerContinue: "Continue writing your drafts.",
-  mMobileDropForQuickSet: 'Drop for quick set'
+  mMobileDraftBannerContinue: "Continue escrevendo seus rascunhos.",
+  mMobileDropForQuickSet: 'Largue para configuração rápida'
 };
