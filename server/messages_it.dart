@@ -995,7 +995,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mRemindTimeAt: "alle",
   mCollapseAllSubtaskByDefault: 'Comprimi tutte le sottoattività per impostazione predefinita',
   mAutoAssignToMe: 'Assegna automaticamente nuove attività a me stesso',
-  mDeveloperConsoleTitle: "Apps",
+  mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro:
     'Crea un\'app che renda Quire un\'esperienza ancora migliore per te e il tuo team!<br>'
     "Se non sei sicuro come iniziare, dai un\'occhiata alla <a href='/dev/api/'>documentazioni per Sviluppatori</a> per inziare con la tua integrazione.",
@@ -1009,7 +1009,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mAppDirectoryBackApps: 'Sfoglia Apps',
   mAppDirectorySidebarItems: 'popular=Popolari;new=Nuove;quire=by Quire;=Tutte le Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "Sviluppatori",
+  mAppDeveloperTabTitle: "Developers",
   mAppDeveloperHeader: "Sviluppatori",
   mAppDeveloperTitle: "Costruisci grandi cose con Quire!",
   mAppDeveloperTitleIntro: 'Unisciti alla comunità degli sviluppatori di Quire per creare un\'app che renda Quire un\'esperienza ancora migliore per te e il tuo team!',

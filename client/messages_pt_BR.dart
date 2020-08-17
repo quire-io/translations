@@ -975,7 +975,7 @@ const ptBrClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "Atribuído por [=user]",
   mStatsWeeklyAssignedToMeLabel: "Atribuído a mim",
   mStatsWeeklyAssignedToUserLabel: "Atribuído a [=user]",
-  mDeveloperConsolePageTitle: "Desenvolvedor de Aplicativos Quire",
+  mDeveloperConsolePageTitle: "Quire Developer Apps",
   mDeveloperConsoleHeader: "Console de Aplicativos do Desenvolvedor",
   mCreateNewApp: "Criar novo aplicativo",
   mCreateNewAppTitle: "Criar um novo aplicativo",

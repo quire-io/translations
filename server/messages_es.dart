@@ -995,7 +995,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mRemindTimeAt: "en",
   mCollapseAllSubtaskByDefault: 'Ocultar todas las subtareas de forma predeterminada',
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',
-  mDeveloperConsoleTitle: "Apps",
+  mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro:
     '¡Crea una app que convierta Quire en una experiencia única para ti y para tu equipo!<br>'
     "Si no estás seguro de cómo comenzar, revisa <a href='/dev/api/'>la documentación del desarrollador</a> para comenzar la integración.",
@@ -1009,7 +1009,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mAppDirectoryBackApps: 'Examinar Apps',
   mAppDirectorySidebarItems: 'popular=Popular;new=Nuevo;quire=Realizado por Quire;=Todas las Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "Desarrolladores de Apps",
+  mAppDeveloperTabTitle: "Developers",
   mAppDeveloperHeader: "Desarrolladores",
   mAppDeveloperTitle: "Construye grandes cosas con Quire",
   mAppDeveloperTitleIntro: 'Únete a la comunidad de desarrolladores Quire para construir una app que te proporcione una experiencia única para ti y tu equipo',

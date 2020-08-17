@@ -964,7 +964,7 @@ const trClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "[=user] üyesinin atadıkları",
   mStatsWeeklyAssignedToMeLabel: "Bana atanan",
   mStatsWeeklyAssignedToUserLabel: "[=user] üyesine atanan",
-  mDeveloperConsolePageTitle: "Quire Uygulama Geliştiricisi",
+  mDeveloperConsolePageTitle: "Quire Developer Apps",
   mDeveloperConsoleHeader: "Geliştirici Uygulama Konsolu",
   mCreateNewApp: "Yeni uygulama oluştur",
   mCreateNewAppTitle: "Yeni uygulama oluştur",

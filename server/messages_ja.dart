@@ -995,7 +995,7 @@ Quireをご利用になったご感想をお聞かせください。
   mRemindTimeAt: "の",
   mCollapseAllSubtaskByDefault: 'デフォルトでは子タスクを折りたたむ',
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',
-  mDeveloperConsoleTitle: "アプリ",
+  mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro:
     'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。<br>'
     "始め方が分からないときは、連携のための<a href='/dev/api/'>開発者ドキュメント</a>を参照してください。",
@@ -1009,7 +1009,7 @@ Quireをご利用になったご感想をお聞かせください。
   mAppDirectoryBackApps: 'アプリ一覧',
   mAppDirectorySidebarItems: 'popular=人気;new=最新;quire=Quire作成;=すべて',
   mAppDirectoryProfileTabTitle: 'アプリ',
-  mAppDeveloperTabTitle: "アプリ開発者",
+  mAppDeveloperTabTitle: "Developers",
   mAppDeveloperHeader: "開発者",
   mAppDeveloperTitle: "Quireと一緒に、すごいものを<br>作りましょう！",
   mAppDeveloperTitleIntro: 'Quireに関わる開発者たちと一緒に、ご自身やチームがQuireをもっと便利に楽しむためのアプリを開発しませんか。',

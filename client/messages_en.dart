@@ -1253,7 +1253,7 @@ const enClient = const <String, String> {
   mStatsWeeklyAssignedToUserLabel: "Assigned to [=user]",
   
   // App/API
-  mDeveloperConsolePageTitle: "Quire Apps Dev",
+  mDeveloperConsolePageTitle: "Quire Developer Apps",
   mDeveloperConsoleHeader: "Developer App Console",
   mCreateNewApp: "Create new app",
   mCreateNewAppTitle: "Create a new app",

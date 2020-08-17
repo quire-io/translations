@@ -971,7 +971,7 @@ const jaClient = const <String, String> {
   mStatsWeeklyAssignedByUserLabel: "担当を[=user]さんが設定",
   mStatsWeeklyAssignedToMeLabel: "自分が担当",
   mStatsWeeklyAssignedToUserLabel: "[=user]さんが担当",
-  mDeveloperConsolePageTitle: "Quireアプリ開発者",
+  mDeveloperConsolePageTitle: "Quire Developer Apps",
   mDeveloperConsoleHeader: "開発者アプリコンソール",
   mCreateNewApp: "新しいアプリを作成",
   mCreateNewAppTitle: "新しいアプリを作成",

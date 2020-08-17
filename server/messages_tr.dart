@@ -994,7 +994,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mRemindTimeAt: "saat",
   mCollapseAllSubtaskByDefault: 'Varsayılan olarak tüm alt görevleri daralt',
   mAutoAssignToMe: 'Yeni görevleri otomatik olarak bana ata',
-  mDeveloperConsoleTitle: "Uygulamalar",
+  mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro:
     'Quire\'i sizin ve ekibiniz için daha da iyi bir deneyim haline getiren bir uygulama oluşturun!<br>'
     "Nasıl başlayacağınızdan emin değilseniz, entegrasyonunuza başlamak için <a href='/dev/api/'>geliştirici dokümantasyonuna</a> göz atın.",
@@ -1008,7 +1008,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mAppDirectoryBackApps: 'Uygulamalara Göz At',
   mAppDirectorySidebarItems: 'popüler=Popüler;yeni=Yeni;quire=Quire Uygulamaları;=Tüm Uygulamalar',
   mAppDirectoryProfileTabTitle: 'Uygulamalar',
-  mAppDeveloperTabTitle: "Uygulama Geliştiricileri",
+  mAppDeveloperTabTitle: "Developers",
   mAppDeveloperHeader: "Geliştiriciler",
   mAppDeveloperTitle: "Quire ile harika şeyler oluşturun!",
   mAppDeveloperTitleIntro: 'Quire\'i sizin ve ekibiniz için daha iyi bir deneyim haline getiren bir uygulama oluşturmak için Quire geliştiricileri topluluğuna katılın!',

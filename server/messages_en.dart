@@ -1289,7 +1289,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
 
   //App/API
-  mDeveloperConsoleTitle: "Apps",
+  mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro: 
     'Build an app that makes Quire an even better experience for you and your team!<br>'
     "If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
@@ -1306,7 +1306,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
 
-  mAppDeveloperTabTitle: "App Developers",
+  mAppDeveloperTabTitle: "Developers",
   mAppDeveloperHeader: "Developers",
   mAppDeveloperTitle: "Build great things with Quire!",
   mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
