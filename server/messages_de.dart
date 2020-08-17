@@ -1437,6 +1437,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileListDropToSub: "Aufgaben in einer anderen Ansicht ablegen",
   mMobileSubDropToOthers: "Aufgaben aus dieser Ansicht heraus schieben",
   mMobileSubDropToOthersDialog: "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen",
-  mMobileDraftBannerContinue: "Continue writing your drafts.",
+  mMobileDraftBannerContinue: "Entwürfe bearbeiten",
   mMobileDropForQuickSet: 'Drop for quick set'
 };

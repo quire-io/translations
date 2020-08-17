@@ -133,7 +133,7 @@ const deClient = const <String, String> {
   mOneDayAgo: "vor einem Tag",
   mDaysAgo: "vor [=n] Tagen",
   mWeeksAgo: "vor [=n] Wochen",
-  mOther: "Other",
+  mOther: "Anderer Grund",
   mOthers: "Andere",
   mGroupActive: "Aktiv",
   mGroupCompleted: "Erledigt",
