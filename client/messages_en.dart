@@ -903,10 +903,14 @@ const enClient = const <String, String> {
     "You are about to <strong>permanently delete</strong> the app [=name].",
   mDeleteOrganizationContent:
     "You are about to move the organization [=name:full] to trash.",
+  mDeleteOrganizationPermanentlyContent:
+    "You are about to <strong>permanently delete</strong> the organization [=name:full].",
   mDeleteProjectLotContent:
     "You are about to <strong>delete</strong> the smart folder [=name:full].",
   mDeleteProjectContent:
     "You are about to move the project [=name:full] to trash.",
+  mDeleteProjectPermanentlyContent:
+    "You are about to <strong>permanently delete</strong> the project [=name:full].",
   mDeletePartnerContent:
     "You are about to <strong>permanently delete</strong> the external team [=name].",
   mDeleteSublistContent:

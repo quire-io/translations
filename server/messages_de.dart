@@ -227,7 +227,7 @@ const deServer = const <String, String> {
   mInviteFriendsSuccess: 'Eine Einladung ging raus an <ul class="list-unstyled"></ul> Vielen Dank für Ihre Unterstützung!',
   mInviteOthersFriends: "Leute einladen",
   mInviteNewMembers: "Neue Mitglieder einladen",
-  mContactUs: "Kontaktieren Sie uns",
+  mContactUs: "Kontakt",
   mFeedback: "Feedback",
   mFeedbackSubject: "Betreff",
   mFeedbackContent: "Was können wir für Sie tun?",
@@ -1438,5 +1438,5 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileSubDropToOthers: "Aufgaben aus dieser Ansicht heraus schieben",
   mMobileSubDropToOthersDialog: "Ansicht auswählen, zu der Aufgaben hinzugefügt werden sollen",
   mMobileDraftBannerContinue: "Entwürfe bearbeiten",
-  mMobileDropForQuickSet: 'Drop for quick set'
+  mMobileDropForQuickSet: 'Für schnelles Zuweisen hier ablegen'
 };
