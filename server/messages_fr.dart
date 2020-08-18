@@ -1426,6 +1426,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileListDropToSub: "Déposer les tâches dans une autre vue",
   mMobileSubDropToOthers: "Sortir les tâches de cette vue",
   mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches",
-  mMobileDraftBannerContinue: "Poursuivre l'écriture du brouillon.",
-  mMobileDropForQuickSet: 'Déposez ici pour définir rapidement'
+  mMobileDraftBannerContinue: "Poursuivre la modification des brouillons.",
+  mMobileDropForQuickSet: 'Déposez pour une attribution rapide'
 };
