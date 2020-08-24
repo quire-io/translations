@@ -639,7 +639,7 @@ const deClient = const <String, String> {
   mMenuBoardHideStatusAll: "Spalte für alle ausblenden",
   mMenuBoardRemoveStatus: "Spalte löschen",
   mMenuBoardArchiveTaskInStatus: "Peekaboo auf alle Aufgaben in dieser Spalte anwenden",
-  mMenuBoardColumn: "Shuffle board",
+  mMenuBoardColumn: "Board organisieren",
   mMenuBoardColumnOptions: "Nach Status;Nach Priorität;Nach Beauftragtem;Nach Tags;Nach Datum",
   mMenuBoardEditStatusColumn: "Status bearbeiten",
   mMenuBoardEditTagColumn: "Tag bearbeiten",
