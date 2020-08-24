@@ -660,6 +660,7 @@ const deClient = const <String, String> {
   mSelectAProject: "Projekt auswählen",
   mSelectAnotherProject: "Weiteres Projekt auswählen",
   mSelectAnotherProjectOptional: "Weiteres Projekt auswählen (optional)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Weiteres Projekt hinzufügen",
   mProjectN: "Projekt [=n]",
   mAddSmartFolderTip: "Ein Smart Ordner ist ein virtueller Ordner mit Projekten aus verschiedenen Organisationen.",

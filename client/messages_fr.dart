@@ -666,6 +666,7 @@ const frClient = const <String, String> {
   mSelectAProject: "Sélectionnez un projet",
   mSelectAnotherProject: "Sélectionnez un autre projet",
   mSelectAnotherProjectOptional: "Sélectionnez un autre projet (facultatif)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Ajouter un autre projet",
   mProjectN: "Projet [=n]",
   mAddSmartFolderTip: "Un dossier intelligent est un dossier virtuel de projets de différentes organisations.",

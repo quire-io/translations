@@ -666,6 +666,7 @@ const ruClient = const <String, String> {
   mSelectAProject: "Select a project",
   mSelectAnotherProject: "Select another project",
   mSelectAnotherProjectOptional: "Select another project (optional)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Add another project",
   mProjectN: "Project [=n]",
   mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",

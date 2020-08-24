@@ -666,6 +666,7 @@ const itClient = const <String, String> {
   mSelectAProject: "Seleziona un progetto",
   mSelectAnotherProject: "Seleziona un\' altro progetto",
   mSelectAnotherProjectOptional: "Seleziona un\' altro progetto (opzionale)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Aggiungi un\' altro progetto",
   mProjectN: "Progetto [=n]",
   mAddSmartFolderTip: "Una cartella intelligente è una cartella virtuale di progetti da organizzazioni differenti.",

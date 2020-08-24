@@ -660,6 +660,7 @@ const trClient = const <String, String> {
   mSelectAProject: "Bir proje seçin",
   mSelectAnotherProject: "Başka bir proje seçin",
   mSelectAnotherProjectOptional: "Başka bir proje seçin (isteğe bağlı)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Başka bir proje ekle",
   mProjectN: "Proje [=n]",
   mAddSmartFolderTip: "Akıllı klasör, farklı organizasyonların projelerinden oluşan sanal bir klasördür.",

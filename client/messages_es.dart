@@ -666,6 +666,7 @@ const esClient = const <String, String> {
   mSelectAProject: "Seleccionar un proyecto",
   mSelectAnotherProject: "Seleccionar otro proyecto",
   mSelectAnotherProjectOptional: "Seleccionar otro proyecto (opcional)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Añadir otro proyecto",
   mProjectN: "Proyecto [=n]",
   mAddSmartFolderTip: "Una carpeta inteligente es una carpeta virtual de proyectos de diferentes organizaciones.",

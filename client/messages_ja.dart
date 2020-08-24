@@ -666,6 +666,7 @@ const jaClient = const <String, String> {
   mSelectAProject: "プロジェクトを選択",
   mSelectAnotherProject: "他のプロジェクトを選択",
   mSelectAnotherProjectOptional: "他のプロジェクトを選択（任意）",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "他のプロジェクトを追加",
   mProjectN: "プロジェクト[=n]件",
   mAddSmartFolderTip: "スマートフォルダーは、異なる組織からのプロジェクトを収容する仮想のフォルダーです。",

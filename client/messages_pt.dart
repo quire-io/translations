@@ -671,6 +671,7 @@ const ptClient = const <String, String> {
   mSelectAProject: "Selecionar um projeto",
   mSelectAnotherProject: "Selecionar outro projeto",
   mSelectAnotherProjectOptional: "Selecionar outro projeto (opcional)",
+  mSelectExistingProject: 'Select an existing project',
   mAddAnotherProject: "Adicionar outro projeto",
   mProjectN: "Projeto [=n]",
   mAddSmartFolderTip: "Uma pasta inteligente é uma pasta virtual de projetos de diferentes organizações.",
