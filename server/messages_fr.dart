@@ -977,7 +977,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mRemindTimeAt: "à",
   mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
-  mDeveloperConsoleTitle: "Developer Apps",
+  mDeveloperConsoleTitle: "Apps développées",
   mDeveloperConsoleIntro:
     'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !<br>'
     "Si vous ne savez pas par où débuter, allez voir la <a href='/dev/api/'>documentation pour les développeurs</a> pour commencer votre application.",
@@ -991,7 +991,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mAppDirectoryBackApps: 'Parcourir les applications',
   mAppDirectorySidebarItems: 'popular=Populaires;new=Nouvelles;quire=Créées par Quire;=Toutes les applications',
   mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "Developers",
+  mAppDeveloperTabTitle: "Développeurs",
   mAppDeveloperHeader: "Développeurs",
   mAppDeveloperTitle: "Réalisez de grandes choses avec Quire !",
   mAppDeveloperTitleIntro: 'Rejoignez la communauté des développeurs dans Quire pour créer une application qui rendra Quire encore meilleur pour vous et votre équipe !',
