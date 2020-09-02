@@ -988,7 +988,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mRemindTimeAt: "um",
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
-  mDeveloperConsoleTitle: "Developer Apps",
+  mDeveloperConsoleTitle: "Entwickler-Apps",
   mDeveloperConsoleIntro:
     'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!<br>'
     "Erste Schritte zu Integrationen finden Sie in unserer <a href='/dev/api/'>Entwicklerdokumentation</a>.",
@@ -1002,7 +1002,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mAppDirectoryBackApps: 'Apps durchsuchen',
   mAppDirectorySidebarItems: 'popular=Beliebt;new=Neu;quire=Made by Quire;=Alle Apps',
   mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "Developers",
+  mAppDeveloperTabTitle: "Entwickler",
   mAppDeveloperHeader: "Entwickler",
   mAppDeveloperTitle: "Quire einfach selbst erweitern und verbessern",
   mAppDeveloperTitleIntro: 'Schließen Sie sich der Entwickler-Community von Quire an, um eine App zu erstellen, die Quire für Sie und Ihr Team noch besser macht!',
