@@ -1427,5 +1427,5 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileSubDropToOthers: "Sortir les tâches de cette vue",
   mMobileSubDropToOthersDialog: "Sélectionnez une vue à laquelle ajouter les tâches",
   mMobileDraftBannerContinue: "Poursuivre la modification des brouillons.",
-  mMobileDropForQuickSet: 'Déposez pour une attribution rapide'
+  mMobileDropForQuickSet: 'Déposez ici pour ajouter à un groupe'
 };
