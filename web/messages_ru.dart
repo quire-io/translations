@@ -307,20 +307,20 @@ const ruWeb = const <String, String> {
     "пора поработать над своим проектом!<br>"
     '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Сосредоточьтесь</a> '
     "на выбранных задачах и визуализируйте свой рабочий процесс с помощью доски Канбан.",
-  mBoardTutorialAddBoardTitle: "Name Your Board",
+  mBoardTutorialAddBoardTitle: "Назовите свою доску",
   mBoardTutorialAddBoardContent:
-    "<p>After listing out your hundred of tasks for the Children's Run Charity event, "
-    "now you would like to focus on some crucial tasks at the initial stage. Simply create a board.</p>"
-    '<p>To add a board, click on the "+" button, choose to Add board and type in the Board name.</p>',
-  mBoardTutorialAddBoardTip: "Tip: You could create multiple boards for different stages of your project.",
-  mBoardTutorialAssignBoardTitle: "Start Adding Tasks to Board",
+    "<p>После того, как вы перечислили сотню заданий для благотворительного мероприятия «Детский забег», "
+    "теперь вы хотели бы сосредоточиться на некоторых важных задачах на начальном этапе. Просто создайте доску.</p>"
+    '<p>Чтобы добавить доску, нажмите кнопку «+», выберите «Добавить доску» и введите имя доски.</p>',
+  mBoardTutorialAddBoardTip: "Совет: вы можете создать несколько досок для разных этапов вашего проекта..",
+  mBoardTutorialAssignBoardTitle: "Начните добавлять задачи на доску",
   mBoardTutorialAssignBoardContent:
-    "<p>Start by adding existing tasks from the task list which you want to focus for this stage.</p>"
-    '<p>Click on the "+" sign at the top right corner of a column, choose "Add existing tasks".</p>'
+    "<p>Начните с добавления существующих задач из списка задач, на которых вы хотите сосредоточиться на этом этапе.</p>"
+    '<p>Нажмите на знак «+» в правом верхнем углу и выберите «Добавить существующие задачи»..</p>'
     "<p>[=img]</p>"
-    "<p>Of course, if you didn't find anything you want to add in the existing tasks, "
-    "you can create new tasks in the board view.</p>"
-    '<p>Choose "Create new tasks" instead.</p>',
+    "<p>Конечно, если вы не нашли ничего, что хотели бы добавить в существующих задачах, "
+    "вы можете создавать новые задачи в режиме доски.</p>"
+    '<p>Для этого выберите «Создать новые задачи».</p>',
   mBoardTutorialAssignBoardTip:
     '<p><span class="note">Note: The newly created tasks in Board view will be added '
     "in the Task list view as well.</span></p>"
