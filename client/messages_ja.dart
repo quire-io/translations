@@ -92,6 +92,7 @@ const jaClient = const <String, String> {
   mUser: "ユーザー",
   mOrganization: "組織",
   mProfilePicture: "プロフィール画像",
+  mEntityNotFound: '[=entity]が見つかりません',
   mEmptyContent: "（空）",
   mRemovedContent: "（消去）",
   mBlankProject: "（空のプロジェクト）",

@@ -135,6 +135,7 @@ const enClient = const <String, String> {
   mOrganization: "Organization",
   mProfilePicture: "Profile Picture",
 
+  mEntityNotFound: '[=entity] not found',
   mEmptyContent: "(empty)",
   mRemovedContent: "(removed)",
   mBlankProject: "(Blank Project)",

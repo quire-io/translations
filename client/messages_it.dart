@@ -92,6 +92,7 @@ const itClient = const <String, String> {
   mUser: "Utente",
   mOrganization: "Organizzazione",
   mProfilePicture: "Immagine di Profilo",
+  mEntityNotFound: '[=entity] non trovato',
   mEmptyContent: "(vuoto)",
   mRemovedContent: "(rimosso)",
   mBlankProject: "(Progetto Vuoto)",

@@ -1206,7 +1206,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mSlackNoLinkedProject: 'Questo canale non è collegato a nessuno dei tuoi progetti.',
   mSlackFailUserNotFound: 'Controllare se [=name] ha collegato il suo account di Quire.',
   mSlackFailMemberNotFound: 'Errore: [=name] non è un membro dei tuoi progetti',
-  mSlackFailPropertiesNotFound: '[=text] non trovato',
   mSlackFailTaskNotFound: 'Attività [=task]: non trovato.',
   mSlackFailTaskNotAllow: 'Attività [=task]: non permessa.',
   mSlackFailListNotFound:

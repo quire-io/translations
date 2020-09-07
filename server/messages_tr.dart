@@ -1205,7 +1205,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSlackNoLinkedProject: 'Bu kanal herhangi bir projeye bağlı değil.',
   mSlackFailUserNotFound: 'Lütfen [=name]\ın Quire hesabına bağlı olup olmadığını kontrol edin.',
   mSlackFailMemberNotFound: 'Hata: [=name] projenizin bir üyesi değil',
-  mSlackFailPropertiesNotFound: '[=text] bulunamadı',
   mSlackFailTaskNotFound: '[=task] görevi: bulunamadı.',
   mSlackFailTaskNotAllow: '[=task] görevi: izin verilmedi.',
   mSlackFailListNotFound:

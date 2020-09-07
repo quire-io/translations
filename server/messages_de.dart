@@ -1199,7 +1199,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Bitte überprüfen Sie, ob [=name] sein oder ihr Quire-Konto verknüpft hat.',
   mSlackFailMemberNotFound: 'Fehler: [=name] ist nicht Mitglied Ihres Projekts',
-  mSlackFailPropertiesNotFound: '[=text] nicht gefunden',
   mSlackFailTaskNotFound: 'Aufgabe [=task]: Nicht gefunden.',
   mSlackFailTaskNotAllow: 'Aufgabe [=task]: Nicht erlaubt.',
   mSlackFailListNotFound:

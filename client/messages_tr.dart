@@ -86,6 +86,7 @@ const trClient = const <String, String> {
   mUser: "Kullanıcı",
   mOrganization: "Organizasyon",
   mProfilePicture: "Profil Resmi",
+  mEntityNotFound: '[=entity] bulunamadı',
   mEmptyContent: "(boş)",
   mRemovedContent: "(silindi)",
   mBlankProject: "(Boş Proje)",

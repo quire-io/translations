@@ -97,6 +97,7 @@ const ptBrClient = const <String, String> {
   mUser: "Usuário",
   mOrganization: "Organização",
   mProfilePicture: "Foto de Perfil",
+  mEntityNotFound: '[=entity] não encontrado',
   mEmptyContent: "(vazio)",
   mRemovedContent: "(removido)",
   mBlankProject: "(Projeto em Branco)",

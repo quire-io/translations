@@ -1188,7 +1188,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSlackNoLinkedProject: 'Cette chaîne est liée à aucun projet.',
   mSlackFailUserNotFound: 'Veuillez vérifier que [=name] s\'est connecté à son compte Quire.',
   mSlackFailMemberNotFound: 'Erreur : [=name] n\'est pas un membre de votre projet',
-  mSlackFailPropertiesNotFound: '[=text] non trouvé',
   mSlackFailTaskNotFound: 'Tâche [=task] : non trouvée.',
   mSlackFailTaskNotAllow: 'Tâche [=task] : non autorisée.',
   mSlackFailListNotFound:

@@ -1206,7 +1206,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mSlackNoLinkedProject: 'Este canal no está vinculado a proyecto alguno.',
   mSlackFailUserNotFound: 'Por favor, comprueba si [=name] ha vinculado su cuenta de Quire.',
   mSlackFailMemberNotFound: 'Error: [=name] no es un miembro de tu proyecto',
-  mSlackFailPropertiesNotFound: '[=text] no encontrado',
   mSlackFailTaskNotFound: 'Tarea [=task]: no encontrada.',
   mSlackFailTaskNotAllow: 'Tarea [=task]: no permitida.',
   mSlackFailListNotFound:

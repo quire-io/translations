@@ -1567,7 +1567,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSlackNoLinkedProject: 'This channel is not linked to any project.',
   mSlackFailUserNotFound: 'Please check if [=name] has linked to his or her Quire account.',
   mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
-  mSlackFailPropertiesNotFound: '[=text] not found',
   mSlackFailTaskNotFound:  'Task [=task]: not found.',
   mSlackFailTaskNotAllow: 'Task [=task]: not allowed.',
   mSlackFailListNotFound: 

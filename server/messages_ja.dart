@@ -1206,7 +1206,6 @@ Quireをご利用になったご感想をお聞かせください。
   mSlackNoLinkedProject: 'このチャンネルはプロジェクトにリンクされていません。',
   mSlackFailUserNotFound: '[=name]さんがQuireアカウントとリンクされているか、ご確認ください。',
   mSlackFailMemberNotFound: 'エラー：[=name]さんは、あなたのプロジェクトのメンバーではありません。',
-  mSlackFailPropertiesNotFound: '[=text]が見つかりません',
   mSlackFailTaskNotFound: 'タスク[=task]：見つかりません。',
   mSlackFailTaskNotAllow: 'タスク[=task]：権限がありません。',
   mSlackFailListNotFound:

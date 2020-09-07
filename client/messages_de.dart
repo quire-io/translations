@@ -86,6 +86,7 @@ const deClient = const <String, String> {
   mUser: "Benutzer",
   mOrganization: "Organisation",
   mProfilePicture: "Profilbild",
+  mEntityNotFound: '[=entity] nicht gefunden',
   mEmptyContent: "(leer)",
   mRemovedContent: "(entfernt)",
   mBlankProject: "(leeres Projekt)",

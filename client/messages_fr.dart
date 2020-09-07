@@ -92,6 +92,7 @@ const frClient = const <String, String> {
   mUser: "Utilisateur",
   mOrganization: "Organisation",
   mProfilePicture: "Photo de Profil",
+  mEntityNotFound: '[=entity] non trouvé',
   mEmptyContent: "(vide)",
   mRemovedContent: "(supprimé)",
   mBlankProject: "(Projet Vide)",
