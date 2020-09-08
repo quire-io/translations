@@ -96,6 +96,8 @@ const enClient = const <String, String> {
     "You do not have permission to delete [=task].",
   mCantSetAssignee:
     "You do not have permission to set assignee to [=task].",
+  mCantRemoveAssignee:
+    "You do not have permission to remove assignee from [=task].",
   mCantSetAssigneeCross:
     "You cannot assign [=assignee] to [=task] because [=assignee] is not in the same project.",
   mCantSetAssigneeCrossPlural:
@@ -109,6 +111,8 @@ const enClient = const <String, String> {
     "You do not have permission to set due date for [=task].",
   mCantAssociateTag:
     "You do not have permission to add tags to [=task].",
+  mCantRemoveTag:
+    "You do not have permission to remove tags from [=task].",
   mCantCopyTask:
     "You do not have permission to copy [=task].",
   mCantTransferTask:
@@ -117,6 +121,10 @@ const enClient = const <String, String> {
     "You do not have permission to set priority to [=task].",
   mCantSetBoard:
     "You do not have permission to set board to [=task].",
+  mCantSetSublist:
+    "You do not have permission to set sublist to [=task].",
+  mCantRemoveSublist:
+    "You do not have permission to remove board from [=task].",
   mCantSetArchive:
     "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState:
@@ -549,6 +557,8 @@ const enClient = const <String, String> {
   mAddAssignee: "Add assignee",
   mAddDate: "Add date",
 
+  mAddToSublist: "Add to sublist",
+  mRemoveFromSublist: "Remove from this sublist",
   mAddToFollower: "Add to followers",
 
   mAssignMultiple: "Add to assignees",
@@ -842,6 +852,7 @@ const enClient = const <String, String> {
   mCreateBoard: "Create board",
   mCreateSublist: "Create sublist",
   mAutoCreateSublistName: "Sublist [=n]",
+  mCreateTag: "Create tag",
 
   mOrganizationName: "Organization name",
   mProjectName: "Project name",
@@ -1244,6 +1255,7 @@ const enClient = const <String, String> {
   mTreeViewTooltip: "List",
   mMyTaskViewTooltip: "My Tasks",
   mUserTaskViewTooltip: "Tasks",
+  mTimeline: "Timeline",
 
   // profile
   mProfileEditTooltip: "Edit",
