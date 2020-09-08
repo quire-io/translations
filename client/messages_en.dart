@@ -269,6 +269,7 @@ const enClient = const <String, String> {
   mNote: "Note",
   mAttachment: "Attachment",
   mComment: "Comment",
+  mDefaultView: "Default view",
 
   mSelect: "Select",
   mSelectAll: "Select all",

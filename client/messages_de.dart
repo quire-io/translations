@@ -214,6 +214,7 @@ const deClient = const <String, String> {
   mNote: "Hinweis",
   mAttachment: "Anhang",
   mComment: "Kommentar",
+  mDefaultView: "Default view",
   mSelect: "Auswählen",
   mSelectAll: "Alle auswählen",
   mUnselect: "Abwählen",

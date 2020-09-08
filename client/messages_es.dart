@@ -220,6 +220,7 @@ const esClient = const <String, String> {
   mNote: "Nota",
   mAttachment: "Adjuntar",
   mComment: "Comentar",
+  mDefaultView: "Default view",
   mSelect: "Seleccionar",
   mSelectAll: "Seleccionar todo",
   mUnselect: "Anular selección",

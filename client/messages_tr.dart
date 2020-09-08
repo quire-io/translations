@@ -214,6 +214,7 @@ const trClient = const <String, String> {
   mNote: "Not",
   mAttachment: "Ek",
   mComment: "Yorum",
+  mDefaultView: "Default view",
   mSelect: "Seç",
   mSelectAll: "Tümünü seç",
   mUnselect: "Seçimi kaldır",

@@ -220,6 +220,7 @@ const jaClient = const <String, String> {
   mNote: "ご注意",
   mAttachment: "添付ファイル",
   mComment: "コメント",
+  mDefaultView: "Default view",
   mSelect: "選択",
   mSelectAll: "すべて選択",
   mUnselect: "選択を解除",

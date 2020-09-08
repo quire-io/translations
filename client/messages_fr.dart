@@ -220,6 +220,7 @@ const frClient = const <String, String> {
   mNote: "Remarque ",
   mAttachment: "Pièce jointe",
   mComment: "Commentaire",
+  mDefaultView: "Default view",
   mSelect: "Sélectionner",
   mSelectAll: "Tout sélectionner",
   mUnselect: "Déselctionner",

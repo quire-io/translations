@@ -225,6 +225,7 @@ const ptClient = const <String, String> {
   mNote: "Nota",
   mAttachment: "Anexo",
   mComment: "Comentar",
+  mDefaultView: "Default view",
   mSelect: "Selecionar",
   mSelectAll: "Selecionar tudo",
   mUnselect: "Desmarcar",
