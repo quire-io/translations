@@ -1272,6 +1272,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Bozze",
   mMobileDeleteAll: "Elimina tutto",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "Nuova Bacheca",
   mMobileArchivedBoard: "Bacheche archiviate",
   mMobileProfileCamera: "Scatta Foto",

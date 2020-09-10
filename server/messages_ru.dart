@@ -1274,6 +1274,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Drafts",
   mMobileDeleteAll: "Delete All",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "New Board",
   mMobileArchivedBoard: "Archived boards",
   mMobileProfileCamera: "Take Photo",

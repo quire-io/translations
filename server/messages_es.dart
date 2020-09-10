@@ -1272,6 +1272,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Drafts",
   mMobileDeleteAll: "Delete All",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "Nuevo Tablero",
   mMobileArchivedBoard: "Tableros archivados",
   mMobileProfileCamera: "Tomar Foto",

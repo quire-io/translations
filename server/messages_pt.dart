@@ -1273,6 +1273,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Drafts",
   mMobileDeleteAll: "Delete All",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "Novo Quadro",
   mMobileArchivedBoard: "Quadros arquivados",
   mMobileProfileCamera: "Tirar Foto",

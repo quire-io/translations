@@ -1254,6 +1254,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Drafts",
   mMobileDeleteAll: "Delete All",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "Nouveau Tableau",
   mMobileArchivedBoard: "Tableaux archivés",
   mMobileProfileCamera: "Prendre une photo",

@@ -1271,6 +1271,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileGoogleDrive: "Google Drive",
   mMobileDrafts: "Taslaklar",
   mMobileDeleteAll: "Tümünü Sil",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "Yeni Pano",
   mMobileArchivedBoard: "Arşivlenmiş Panolar",
   mMobileProfileCamera: "Fotoğraf çek",

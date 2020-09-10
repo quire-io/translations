@@ -1272,6 +1272,7 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileGoogleDrive: "Google ドライブ",
   mMobileDrafts: "Drafts",
   mMobileDeleteAll: "Delete All",
+  mMobileUpdate: "Update",
   mMobileNewBoard: "新しいボード",
   mMobileArchivedBoard: "アーカイブ済みのボード",
   mMobileProfileCamera: "撮影",
