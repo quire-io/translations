@@ -124,7 +124,7 @@ const enClient = const <String, String> {
   mCantSetSublist:
     "You do not have permission to set sublist to [=task].",
   mCantRemoveSublist:
-    "You do not have permission to remove board from [=task].",
+    "You do not have permission to remove sublist from [=task].",
   mCantSetArchive:
     "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState:

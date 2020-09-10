@@ -85,7 +85,7 @@ const esClient = const <String, String> {
   mCantSetPriority: "No tienes permiso para establecer la prioridad de [=task].",
   mCantSetBoard: "No tienes permiso para configurar un tablero para [=task].",
   mCantSetSublist: "You do not have permission to set sublist to [=task].",
-  mCantRemoveSublist: "You do not have permission to remove board from [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "No tienes permiso para peekaboo/volver a mostrar [=task].",
   mCantDeleteCompletedState: "No puedes eliminar la columna Completadas predeterminada por defecto.",
   mCantDeleteNonemptyState: "No puedes eliminar una columna que contiene tareas existentes.",

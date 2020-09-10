@@ -85,7 +85,7 @@ const itClient = const <String, String> {
   mCantSetPriority: "Non hai i permessi per selezionare la priorità a [=task].",
   mCantSetBoard: "Non hai i permessi per modificare la bacheca di [=task].",
   mCantSetSublist: "Non hai i permessi per assegnare una sottolista a [=task].",
-  mCantRemoveSublist: "Non hai i permessi per rimuovere la bachecha di [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "Non hai i permessi per peekaboo/ri-visualizzare [=task].",
   mCantDeleteCompletedState: "Non puoi rimuovere la colonna predefinita Completato.",
   mCantDeleteNonemptyState: "Non puoi rimuovere una colonna che contiene attività esistenti.",

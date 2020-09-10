@@ -90,7 +90,7 @@ const ptClient = const <String, String> {
   mCantSetPriority: "Não tem permissão para definir a prioridade de [=task].",
   mCantSetBoard: "Não tem permissão para configurar o quadro de [=task].",
   mCantSetSublist: "Não tem permissão para definir a sub-lista para [=task].",
-  mCantRemoveSublist: "Não tem permissão para remover o quadro de [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "Não tem permissão para peekaboo/voltar a mostrar [=task].",
   mCantDeleteCompletedState: "Não pode remover a coluna padrão Concluído.",
   mCantDeleteNonemptyState: "Não pode remover uma coluna que contenha tarefas existentes.",

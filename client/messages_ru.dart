@@ -85,7 +85,7 @@ const ruClient = const <String, String> {
   mCantSetPriority: "You do not have permission to set priority to [=task].",
   mCantSetBoard: "You do not have permission to set board to [=task].",
   mCantSetSublist: "You do not have permission to set sublist to [=task].",
-  mCantRemoveSublist: "You do not have permission to remove board from [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "You do not have permission to peekaboo/reshow [=task].",
   mCantDeleteCompletedState: "You cannot remove the default Completed column.",
   mCantDeleteNonemptyState: "You cannot remove a column that contains existing tasks.",

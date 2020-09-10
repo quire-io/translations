@@ -85,7 +85,7 @@ const jaClient = const <String, String> {
   mCantSetPriority: "[=task]に優先度を設定する権限がありません。",
   mCantSetBoard: "[=task]にボードを設定する権限がありません。",
   mCantSetSublist: "You do not have permission to set sublist to [=task].",
-  mCantRemoveSublist: "You do not have permission to remove board from [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "[=task]をあとで表示またはいま再表示する権限がありません。",
   mCantDeleteCompletedState: "デフォルトの完了欄は消去できません。",
   mCantDeleteNonemptyState: "タスクがある欄は消去できません。",

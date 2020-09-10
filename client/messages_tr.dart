@@ -79,7 +79,7 @@ const trClient = const <String, String> {
   mCantSetPriority: "[=task] görevine öncelik ayarlama yetkiniz yok.",
   mCantSetBoard: "[=task] görevini panoya ekleme yetkiniz yok.",
   mCantSetSublist: "[=task] görevine alt liste ayarlama izniniz yok.",
-  mCantRemoveSublist: "[=task] görevinden panoyu çıkarma izniniz yok.",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "[=task] görevini Mahzene atma/yeniden gösterme yetkiniz yok.",
   mCantDeleteCompletedState: "Varsayılan Tamamlanan sütununu kaldıramazsınız.",
   mCantDeleteNonemptyState: "Varolan görevleri içeren bir sütunu kaldıramazsınız.",

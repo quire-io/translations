@@ -79,7 +79,7 @@ const deClient = const <String, String> {
   mCantSetPriority: "Sie haben keine Berechtigung [=task] zu priorisieren.",
   mCantSetBoard: "Sie sind nicht berechtigt, das Board auf [=task] zu setzen.",
   mCantSetSublist: "You do not have permission to set sublist to [=task].",
-  mCantRemoveSublist: "You do not have permission to remove board from [=task].",
+  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
   mCantSetArchive: "Sie haben keine Berechtigung, [= Aufgabe] einzusehen bzw. wieder anzuzeigen.",
   mCantDeleteCompletedState: "Sie können die Standardspalte Abgeschlossen nicht entfernen.",
   mCantDeleteNonemptyState: "Sie können keine Spalte entfernen, die Aufgaben enthält.",
