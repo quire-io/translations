@@ -85,7 +85,7 @@ const frClient = const <String, String> {
   mCantSetPriority: "Vous n'avez pas l'autorisation de définir la priorité de [=task].",
   mCantSetBoard: "Vous n'avez pas l'autorisation de définir un tableau pour [=task].",
   mCantSetSublist: "Vous n'avez pas l'autorisation de mettre [=task] dans une sous-liste.",
-  mCantRemoveSublist: "You do not have permission to remove sublist from [=task].",
+  mCantRemoveSublist: "Vous n'avez pas l'autorisation de retirer [=task] de la sous-liste.",
   mCantSetArchive: "Vous n'avez pas l'autorisation de peekaboo/remontrer [=task].",
   mCantDeleteCompletedState: "Vous ne pouvez pas supprimer la colonne Terminé par défaut.",
   mCantDeleteNonemptyState: "Vous ne pouvez pas supprimer une colonne qui contient des tâches existantes.",
