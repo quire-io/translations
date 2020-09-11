@@ -458,8 +458,8 @@ const trClient = const <String, String> {
     'Bu görev dış bir ekibe atanmış, ancak'
     ' <a>ekip üyenize atyabilirsiniz</a>',
   mChangeAssignPartnerDesc:
-    'The selected tasks are assigned to an external team, '
-    'by adding this assignee, you will remove the external team from these tasks.',
+    'Seçilen görevler dış bir ekibe atanmış, '
+    'bu kişiyi ekleyerek, dış ekibi bu görevlerden kaldıracaksınız.',
   mAssigneeMemberListTitle: "[=team] üyeleri",
   mInviteMembers: "Üyeleri davet et",
   mInvite: "Davet et",
