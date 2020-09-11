@@ -573,6 +573,9 @@ const enClient = const <String, String> {
   mAssignPartnerDesc:
     'This task has already been assigned to an external team, but you can'
     ' <a>assign it to your team member</a>',
+  mChangeAssignPartnerDesc: 
+    'The selected tasks are assigned to an external team, '
+    'by adding this assignee, you will remove the external team from these tasks.',
 
   mAssigneeMemberListTitle: "[=team] members",
 

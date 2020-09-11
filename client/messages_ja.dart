@@ -463,6 +463,9 @@ const jaClient = const <String, String> {
   mAssignPartnerDesc:
     'このタスクはすでに外部チームに設定されていますが、'
     ' <a>自分のチームのメンバーに設定する</a>ことができます',
+  mChangeAssignPartnerDesc:
+    'The selected tasks are assigned to an external team, '
+    'by adding this assignee, you will remove the external team from these tasks.',
   mAssigneeMemberListTitle: "[=team]のメンバー",
   mInviteMembers: "メンバーを招待",
   mInvite: "招待",

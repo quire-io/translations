@@ -463,6 +463,9 @@ const itClient = const <String, String> {
   mAssignPartnerDesc:
     'questa attività è già stata assegnata ad una squadra esterna, ma puoi'
     ' <a>assegnarla ad un menbro della tua squadra</a>',
+  mChangeAssignPartnerDesc:
+    'The selected tasks are assigned to an external team, '
+    'by adding this assignee, you will remove the external team from these tasks.',
   mAssigneeMemberListTitle: "[=team] membri",
   mInviteMembers: "Invita membri",
   mInvite: "Invita",

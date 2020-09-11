@@ -457,6 +457,9 @@ const deClient = const <String, String> {
   mAssignPartnerDesc:
     'Diese Aufgabe wurde bereits an ein externes Team zugewiesen, Sie können sie aber'
     ' <a>einem Teammitglied zuweisen</a>',
+  mChangeAssignPartnerDesc:
+    'The selected tasks are assigned to an external team, '
+    'by adding this assignee, you will remove the external team from these tasks.',
   mAssigneeMemberListTitle: "[=team] Mitglieder",
   mInviteMembers: "Mitglieder einladen",
   mInvite: "Einladen",

@@ -468,6 +468,9 @@ const ptBrClient = const <String, String> {
   mAssignPartnerDesc:
     'Esta tarefa já foi atribuída a uma equipe externa, mas você pode'
     ' <a>atribui-la a um membro da sua equipe</a>',
+  mChangeAssignPartnerDesc:
+    'The selected tasks are assigned to an external team, '
+    'by adding this assignee, you will remove the external team from these tasks.',
   mAssigneeMemberListTitle: "membros [=team]",
   mInviteMembers: "Convidar usuários",
   mInvite: "Convidar",
