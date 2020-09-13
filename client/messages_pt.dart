@@ -469,8 +469,8 @@ const ptClient = const <String, String> {
     'Esta tarefa já foi atribuída a uma equipa externa, mas pode'
     ' <a>atribui-la ao membro da sua equipa</a>',
   mChangeAssignPartnerDesc:
-    'The selected tasks are assigned to an external team, '
-    'by adding this assignee, you will remove the external team from these tasks.',
+    'As tarefas selecionadas estão atribuídas a uma equipa externa, '
+    'ao adicionar este colaborador, removerá a equipa externa destas tarefas.',
   mAssigneeMemberListTitle: "membros [=team]",
   mInviteMembers: "Convidar membros",
   mInvite: "Convidar",
