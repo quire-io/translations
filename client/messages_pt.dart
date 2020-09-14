@@ -730,7 +730,7 @@ const ptClient = const <String, String> {
   mRemoveProjectMemberContent: "Isto desatribuirá este membro de [=task] neste projeto.",
   mRemoveProjectMemberContentPlural: "Isto desatribuirá este membro de [=task] e outras [=count] tarefas neste projeto.",
   mReassignMemberToTasks: "Reatribuir as tarefas a",
-  mRemoveProjectStatusContent: "Estas tarefas serão retiradas deste estado.",
+  mRemoveProjectStatusContent: "The selected tasks will be unapplied from this status.",
   mReassignStatusToTasks: "Passar as tarefas a",
   mDiscardDraftTitle: "Descartar rascunho?",
   mDiscardDraftContent: "As alterações feitas podem não ser guardadas.",

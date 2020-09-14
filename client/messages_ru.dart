@@ -725,7 +725,7 @@ const ruClient = const <String, String> {
   mRemoveProjectMemberContent: "This member will be unassigned from [=task] in this project.",
   mRemoveProjectMemberContentPlural: "This member will be unassigned from [=task] and [=count] other tasks in this project.",
   mReassignMemberToTasks: "Reassign the tasks to",
-  mRemoveProjectStatusContent: "These tasks will be unapplied from this status.",
+  mRemoveProjectStatusContent: "The selected tasks will be unapplied from this status.",
   mReassignStatusToTasks: "Reapply the tasks to",
   mDiscardDraftTitle: "Discard draft?",
   mDiscardDraftContent: "Changes you made may not be saved.",

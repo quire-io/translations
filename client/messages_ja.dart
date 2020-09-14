@@ -725,7 +725,7 @@ const jaClient = const <String, String> {
   mRemoveProjectMemberContent: "このプロジェクト内の[=task]から、このメンバーの担当を解除します。",
   mRemoveProjectMemberContentPlural: "このプロジェクト内の[=task]とその他[=count]件のタスクから、、このメンバーの担当を解除します。",
   mReassignMemberToTasks: "タスクの再設定先",
-  mRemoveProjectStatusContent: "タスクからこの状態が外されます。",
+  mRemoveProjectStatusContent: "The selected tasks will be unapplied from this status.",
   mReassignStatusToTasks: "タスクに再設定する状態",
   mDiscardDraftTitle: "下書きを削除しますか？",
   mDiscardDraftContent: "変更内容が保存されない可能性があります。",

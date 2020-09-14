@@ -906,7 +906,7 @@ const enClient = const <String, String> {
   mReassignMemberToTasks: "Reassign the tasks to",
 
   mRemoveProjectStatusContent:
-    "These tasks will be unapplied from this status.",
+    "The selected tasks will be unapplied from this status.",
   mReassignStatusToTasks: "Reapply the tasks to",
 
   mDiscardDraftTitle: "Discard draft?",

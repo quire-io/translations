@@ -719,7 +719,7 @@ const deClient = const <String, String> {
   mRemoveProjectMemberContent: "Dieses Mitglied wird von [=task] in diesem Projekt entbunden.",
   mRemoveProjectMemberContentPlural: "Dieses Mitglied wird von [=task] und [=count] weiteren Aufgaben in diesem Projekt entbunden.",
   mReassignMemberToTasks: "Aufgaben neu zuweisen an",
-  mRemoveProjectStatusContent: "Der Status dieser Aufgaben wird entfernt.",
+  mRemoveProjectStatusContent: "The selected tasks will be unapplied from this status.",
   mReassignStatusToTasks: "Aufgabenstatus neu setzen auf",
   mDiscardDraftTitle: "Entwurf verwerfen?",
   mDiscardDraftContent: "Von Ihnen vorgenommene Änderungen werden möglicherweise nicht gespeichert.",
