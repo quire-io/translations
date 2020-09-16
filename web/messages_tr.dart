@@ -57,7 +57,7 @@ const trWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Trello'den geçin",
   mFeaturesMigrationWunderlistButton: "Wunderlist'ten geçin",
   mFeaturesCompareWrikeButton: "Wrike ile karşılaştır",
-  mFeaturesCompareTodoistButton: "Compare to Todoist",
+  mFeaturesCompareTodoistButton: "Todoist ile karşılaştır",
   mFeaturesMigrationOthersButton: "Diğer uygulamalardan geçin",
   mFeatureHierarchyTitle: "İç İçe Geçmiş Görev Listesi",
   mFeatureHierarchyDesc: "Büyük projeleri küçük, yönetilebilir adımlara bölerek yönetin.",
