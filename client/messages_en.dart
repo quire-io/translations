@@ -546,6 +546,13 @@ const enClient = const <String, String> {
   mReadonlyTagPickerPlaceholderEmpty: "No tags available",
   mSingleTagPickerPlaceholder: "Select a tag",
   mSingleGroupPickerPlaceholder: "Select a group",
+
+  mSublistPickerPlaceholderEmpty: "No sublists available. Please create one to continue.",
+  mReadonlySublistPickerPlaceholderEmpty: "No sublists available",
+  mAddAllToSublist: "Apply to all tasks and subtasks",
+  mAddSelectedToSublist: "Apply to the selected tasks only",
+  mRemoveAllFromSublist: "Remove from all tasks and subtasks",
+  mRemoveSelectedFromSublist: "Remove from the selected tasks only",
   
 
   mUserPickerHint: "Or invite a new member by email address",
