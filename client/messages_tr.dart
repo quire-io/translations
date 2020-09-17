@@ -332,6 +332,7 @@ const trClient = const <String, String> {
   mTreeMenuApplyTags: "Etiketler belirle",
   mTreeMenuSetAssignee: "Sorumluları belirle",
   mTreeMenuSetDue: "Termin belirle",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favori yap",
   mTreeMenuUnfavorite: "Favorilerden çıkar",
   mTreeMenuFollow: "Takip et",

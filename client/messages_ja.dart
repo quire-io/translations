@@ -338,6 +338,7 @@ const jaClient = const <String, String> {
   mTreeMenuApplyTags: "タグを設定",
   mTreeMenuSetAssignee: "担当者を設定",
   mTreeMenuSetDue: "期限を設定",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "お気に入り",
   mTreeMenuUnfavorite: "お気に入りを解除",
   mTreeMenuFollow: "フォローする",

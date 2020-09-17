@@ -338,6 +338,7 @@ const esClient = const <String, String> {
   mTreeMenuApplyTags: "Fijar unas tareas",
   mTreeMenuSetAssignee: "Establecer asignados",
   mTreeMenuSetDue: "Establecer vencimiento",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorita",
   mTreeMenuUnfavorite: "No favorita",
   mTreeMenuFollow: "Seguir",

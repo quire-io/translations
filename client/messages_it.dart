@@ -338,6 +338,7 @@ const itClient = const <String, String> {
   mTreeMenuApplyTags: "Assegna etichette",
   mTreeMenuSetAssignee: "Assegna assegnatari",
   mTreeMenuSetDue: "Assegna scadenza",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorito",
   mTreeMenuUnfavorite: "Rimuovi da Favoriti",
   mTreeMenuFollow: "Segui",

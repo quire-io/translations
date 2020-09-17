@@ -338,6 +338,7 @@ const frClient = const <String, String> {
   mTreeMenuApplyTags: "Définir les étiquettes",
   mTreeMenuSetAssignee: "Définir les attributions",
   mTreeMenuSetDue: "Définir une échéance",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Ajouter en favori",
   mTreeMenuUnfavorite: "Enlever des favoris",
   mTreeMenuFollow: "Suivre",

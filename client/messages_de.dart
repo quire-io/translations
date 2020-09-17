@@ -332,6 +332,7 @@ const deClient = const <String, String> {
   mTreeMenuApplyTags: "Tags festlegen",
   mTreeMenuSetAssignee: "Beauftragter festlegen",
   mTreeMenuSetDue: "Fälligkeitsdatum festlegen",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorisieren",
   mTreeMenuUnfavorite: "Aus Favoriten entfernen",
   mTreeMenuFollow: "Folgen",

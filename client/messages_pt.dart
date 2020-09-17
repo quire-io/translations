@@ -343,6 +343,7 @@ const ptClient = const <String, String> {
   mTreeMenuApplyTags: "Definir tags",
   mTreeMenuSetAssignee: "Definir colaboradores",
   mTreeMenuSetDue: "Definir prazo",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorito",
   mTreeMenuUnfavorite: "Não favorito",
   mTreeMenuFollow: "Seguir",

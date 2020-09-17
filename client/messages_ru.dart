@@ -338,6 +338,7 @@ const ruClient = const <String, String> {
   mTreeMenuApplyTags: "Set tags",
   mTreeMenuSetAssignee: "Set assignees",
   mTreeMenuSetDue: "Set due",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorite",
   mTreeMenuUnfavorite: "Unfavorite",
   mTreeMenuFollow: "Follow",

@@ -343,6 +343,7 @@ const ptBrClient = const <String, String> {
   mTreeMenuApplyTags: "Definir tags",
   mTreeMenuSetAssignee: "Definir responsáveis",
   mTreeMenuSetDue: "Definir data de conclusão",
+  mTreeMenuSetSublist: "Set sublist",
   mTreeMenuFavorite: "Favorito",
   mTreeMenuUnfavorite: "Não favorito",
   mTreeMenuFollow: "Seguir",
