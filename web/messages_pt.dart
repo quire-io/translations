@@ -57,7 +57,7 @@ const ptWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Migrar do Trello",
   mFeaturesMigrationWunderlistButton: "Migrar do Wunderlist",
   mFeaturesCompareWrikeButton: "Comparar com o Wrike",
-  mFeaturesCompareTodoistButton: "Compare to Todoist",
+  mFeaturesCompareTodoistButton: "Comparar com o Todoist",
   mFeaturesMigrationOthersButton: "Migrar de Outros",
   mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos maleáveis.",
