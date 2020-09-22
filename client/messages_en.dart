@@ -556,9 +556,9 @@ const enClient = const <String, String> {
   mRemoveSelectedFromSublist: "Remove from the selected tasks only",
   
 
-  mUserPickerHint: "Or invite a new member by email address",
+  mUserPickerHint: "Invite a new member by email address",
   mUserPickerInviteHint: "Press ENTER to send an invitation",
-  mUserPickerHintNOInvite: "Or select a member from the list below",
+  mUserPickerHintNOInvite: "Select a member from the list below",
   mUserPickerInviteHintNOInvite: 
     "You do not have <a href=\"[=link]\" target=\"_blank\">permission</a> to add a new member",
   mUserPickerInviteHintNOInviteMyTasks: "You cannot invite a new member for personal tasks.",
