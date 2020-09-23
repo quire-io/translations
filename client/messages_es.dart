@@ -611,6 +611,7 @@ const esClient = const <String, String> {
   autocompleteStyleRed: "Rojo",
   autocompleteStyleOrange: "Naranja",
   autocompleteStyleHighlight: "Destacado",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Adjuntar archivos",
   mAttachFilesFromGoogle: "Adjuntar archivos desde Google Drive",
   mDragFilesHere: "Soltar archivos aquí",
@@ -722,7 +723,6 @@ const esClient = const <String, String> {
   mTransferTaskTitle: "Transferir Tareas",
   mArchiveBoard: "Archivar Tablero",
   mArchiveBoardFolder: "Tableros archivados",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Eliminar Equipo Externo",
   mDeleteSublistTitle: "Eliminar Sublista",
   mDeleteBoardTitle: "Eliminar Tablero",
@@ -894,6 +894,9 @@ const esClient = const <String, String> {
   mLinkExpired: 'El Enlace ha caducado',
   mEditShareLinkTitle: 'Editar Enlace compartido',
   mEditShareLinkContent: 'Puedes actualizar la fecha de caducidad para dar al enlace una nueva fecha de vencimiento.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Estás a punto de archivar este tablero. Un tablero archivado será "
     "movido a la categoria de Archivado en el menú desplegable.",

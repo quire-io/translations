@@ -611,6 +611,7 @@ const itClient = const <String, String> {
   autocompleteStyleRed: "Rosso",
   autocompleteStyleOrange: "Arancione",
   autocompleteStyleHighlight: "Evidenzia",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Allega files",
   mAttachFilesFromGoogle: "Allega files da Google Drive",
   mDragFilesHere: "Rilascia files qui",
@@ -722,7 +723,6 @@ const itClient = const <String, String> {
   mTransferTaskTitle: "Trasferisci Attività",
   mArchiveBoard: "Archivia bacheca",
   mArchiveBoardFolder: "Bacheche archiviate",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Elimina Gruppo Esterno",
   mDeleteSublistTitle: "Elimina Sottolista",
   mDeleteBoardTitle: "Elimina bacheca",
@@ -894,6 +894,9 @@ const itClient = const <String, String> {
   mLinkExpired: 'Link scaduto',
   mEditShareLinkTitle: 'Modifica Link Condiviso',
   mEditShareLinkContent: 'Puoi aggiornare la data di scadenza del link.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Stai per archiviare questa bacheca. Una bacheca archiviata sarà "
     "sposta nella categoria Archiviati della tendina.",

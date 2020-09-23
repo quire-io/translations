@@ -611,6 +611,7 @@ const jaClient = const <String, String> {
   autocompleteStyleRed: "赤",
   autocompleteStyleOrange: "オレンジ",
   autocompleteStyleHighlight: "ハイライト",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "ファイルを添付",
   mAttachFilesFromGoogle: "Google ドライブからファイルを添付",
   mDragFilesHere: "ここにドロップ",
@@ -722,7 +723,6 @@ const jaClient = const <String, String> {
   mTransferTaskTitle: "タスクを移動",
   mArchiveBoard: "ボードをアーカイブ",
   mArchiveBoardFolder: "アーカイブ済みのボード",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "外部チームを削除",
   mDeleteSublistTitle: "サブリストを削除",
   mDeleteBoardTitle: "ボードを削除",
@@ -894,6 +894,9 @@ const jaClient = const <String, String> {
   mLinkExpired: 'リンクの有効期限が切れました',
   mEditShareLinkTitle: '共有リンクを編集',
   mEditShareLinkContent: '共有リンクは、期限日を更新できます。',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "このボードをアーカイブします。アーカイブしたボードは、"
     "ドロップダウンメニューの「アーカイブ」に移動されます。",

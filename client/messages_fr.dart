@@ -611,6 +611,7 @@ const frClient = const <String, String> {
   autocompleteStyleRed: "Rouge",
   autocompleteStyleOrange: "Orange",
   autocompleteStyleHighlight: "Surlignage",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Joindre des fichiers",
   mAttachFilesFromGoogle: "Joindre des fichiers depuis Google Drive",
   mDragFilesHere: "Déposez les fichiers ici",
@@ -722,7 +723,6 @@ const frClient = const <String, String> {
   mTransferTaskTitle: "Transférer les tâches",
   mArchiveBoard: "Archiver le tableau",
   mArchiveBoardFolder: "Tableaux archivés",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Supprimer l'équipe externe",
   mDeleteSublistTitle: "Supprimer la sous-liste",
   mDeleteBoardTitle: "Supprimer le tableau",
@@ -893,6 +893,9 @@ const frClient = const <String, String> {
   mLinkExpired: 'Lien expiré',
   mEditShareLinkTitle: 'Modifier le lien de partage',
   mEditShareLinkContent: 'Vous pouvez modifier la date d\'expiration pour donner une nouvelle date limite au lien de partage.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Vous êtes sur le point d'archiver ce tableau. Les tableaux archivés sont "
     "déplacés dans la catégorie Archivé du menu déroulant.",

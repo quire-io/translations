@@ -616,6 +616,7 @@ const ptBrClient = const <String, String> {
   autocompleteStyleRed: "Vermelho",
   autocompleteStyleOrange: "Laranja",
   autocompleteStyleHighlight: "Realçar",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Anexar arquivos",
   mAttachFilesFromGoogle: "Anexe arquivos do Google Drive",
   mDragFilesHere: "Solte os arquivos aqui",
@@ -727,7 +728,6 @@ const ptBrClient = const <String, String> {
   mTransferTaskTitle: "Transferir Tarefas",
   mArchiveBoard: "Arquivar Quadro",
   mArchiveBoardFolder: "Quadros arquivados",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Excluir Equipe Externa",
   mDeleteSublistTitle: "Excluir Sublista",
   mDeleteBoardTitle: "Excluir Quadro",
@@ -898,6 +898,9 @@ const ptBrClient = const <String, String> {
   mLinkExpired: 'Link expirado',
   mEditShareLinkTitle: 'Editar Link Compartilhado',
   mEditShareLinkContent: 'Você pode atualizar a data de expiração para dar uma nova data de validade ao link compartilhado.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Você está prestes a arquivar este quadro. Um quadro arquivado será "
     "movido para a categoria Arquivados no menu suspenso.",

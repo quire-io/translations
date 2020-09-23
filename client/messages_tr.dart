@@ -605,6 +605,7 @@ const trClient = const <String, String> {
   autocompleteStyleRed: "Kırmızı",
   autocompleteStyleOrange: "Turuncu",
   autocompleteStyleHighlight: "Vurgulama",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Dosyaları ekle",
   mAttachFilesFromGoogle: "Google Drive'dan dosya ekle",
   mDragFilesHere: "Dosyaları buraya bırakın",
@@ -716,7 +717,6 @@ const trClient = const <String, String> {
   mTransferTaskTitle: "Görevleri Aktar",
   mArchiveBoard: "Panoyu Arşivle",
   mArchiveBoardFolder: "Arşivlenmiş panolar",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Dış Ekibi Sil",
   mDeleteSublistTitle: "Alt Listeyi Sil",
   mDeleteBoardTitle: "Panoyu Sil",
@@ -887,6 +887,9 @@ const trClient = const <String, String> {
   mLinkExpired: 'Bağlantının süresi doldu',
   mEditShareLinkTitle: 'Paylaşılan Bağlantıyı Düzenle',
   mEditShareLinkContent: 'Paylaşılan bağlantıya yeni bir son tarih vermek için son kullanma tarihini güncelleyebilirsiniz.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Bu panoyu arşivlemek üzeresiniz. "
     "Arşivlenmiş bir pano, açılır menüde Arşivlenen kategorisine taşınacak.",

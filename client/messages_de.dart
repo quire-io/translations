@@ -605,6 +605,7 @@ const deClient = const <String, String> {
   autocompleteStyleRed: "Rot",
   autocompleteStyleOrange: "Orange",
   autocompleteStyleHighlight: "Hervorheben",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Dateien hinzufügen",
   mAttachFilesFromGoogle: "Dateien von Google Drive hinzufügen",
   mDragFilesHere: "Dateien hier ablegen",
@@ -716,7 +717,6 @@ const deClient = const <String, String> {
   mTransferTaskTitle: "Aufgabe übertragen",
   mArchiveBoard: "Board archivieren",
   mArchiveBoardFolder: "Archivierte Boards",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Externes Team löschen",
   mDeleteSublistTitle: "Unterliste löschen",
   mDeleteBoardTitle: "Board löschen",
@@ -890,6 +890,9 @@ const deClient = const <String, String> {
   mLinkExpired: 'Link ist abgelaufen',
   mEditShareLinkTitle: 'Freigabe-Link bearbeiten',
   mEditShareLinkContent: 'Sie können das Ablaufdatum aktualisieren, um dem freigegebenen Link eine neue Frist zu geben.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "Sie sind dabei, dieses Board zu archivieren."
     "Ein archiviertes Board wird in die Dropdown-Liste Archiviert verschoben.",

@@ -611,6 +611,7 @@ const ruClient = const <String, String> {
   autocompleteStyleRed: "Red",
   autocompleteStyleOrange: "Orange",
   autocompleteStyleHighlight: "Highlight",
+  mAutocompleteAllMember: 'All members',
   mAttachFiles: "Attach files",
   mAttachFilesFromGoogle: "Attach files from Google Drive",
   mDragFilesHere: "Drop files here",
@@ -722,7 +723,6 @@ const ruClient = const <String, String> {
   mTransferTaskTitle: "Transfer Tasks",
   mArchiveBoard: "Archive Board",
   mArchiveBoardFolder: "Archived boards",
-  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Delete External Team",
   mDeleteSublistTitle: "Delete Sublist",
   mDeleteBoardTitle: "Delete Board",
@@ -893,6 +893,9 @@ const ruClient = const <String, String> {
   mLinkExpired: 'Link expired',
   mEditShareLinkTitle: 'Edit Shared Link',
   mEditShareLinkContent: 'You can update the expiry date to give the shared link a new deadline.',
+  mArchiveSublistContent:
+    'You are about to archive this sublist. An archived sublist will be moved to the Archived category '
+    'under the More Options section. The tasks will still remain in this sublist.',
   mArchiveBoardContent:
     "You are about to archive this board. An archived board will be "
     "moved to the Archived category in the dropdown menu.",
