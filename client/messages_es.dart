@@ -973,6 +973,7 @@ const esClient = const <String, String> {
   mDragTooltipReprder: "Arrastrar para ordenar",
   mDragTooltipHoldAltTransfer: "Mantenga pulsado <code>alt</code> para transferir inmediatamente",
   mDragTooltipTransferOptions: "Opciones de Tranferencia",
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
   mTipOpenDetail: "Puedes hacer clic para añadir descripción, publicar comentarios, adjuntar archivos, etc.",
   mTipPinDetail: "Puedes hacer clic para fijar el panel de detalles.",
   mTipFilterForCompleted: "Puedes hacer clic en Todas las Tareas para ver las tareas que has completado.",

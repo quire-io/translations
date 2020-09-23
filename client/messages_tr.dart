@@ -966,6 +966,7 @@ const trClient = const <String, String> {
   mDragTooltipReprder: "Yeniden sıralamak için sürükleyin",
   mDragTooltipHoldAltTransfer: "Hemen aktarmak için <code>alt</code> tuşunu basılı tutun",
   mDragTooltipTransferOptions: "Aktarım seçenekleri",
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
   mTipOpenDetail: "Açıklama eklemek, yorum göndermek, dosya eklemek vb. için tıklayabilirsiniz..",
   mTipPinDetail: "Ayrıntı panelini yapışkan hale getirmek için tıklayabilirsiniz.",
   mTipFilterForCompleted: "Yeni tamamladığınız görevleri görmek için Tüm Görevler'i tıklayabilirsiniz..",

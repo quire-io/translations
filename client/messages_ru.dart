@@ -972,6 +972,7 @@ const ruClient = const <String, String> {
   mDragTooltipReprder: "Drag to reorder",
   mDragTooltipHoldAltTransfer: "Hold <code>alt</code> to transfer immediately",
   mDragTooltipTransferOptions: "Transfer options",
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
   mTipOpenDetail: "You can click to add description, post comments, attach files, etc.",
   mTipPinDetail: "You can click to make the detail panel sticky.",
   mTipFilterForCompleted: "You can click All Tasks to see tasks you just completed.",

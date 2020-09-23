@@ -1249,6 +1249,8 @@ const enClient = const <String, String> {
   mDragTooltipHoldAltTransfer: "Hold <code>alt</code> to transfer immediately",
   mDragTooltipTransferOptions: "Transfer options",
 
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
+
   // bubble tips
   mTipOpenDetail:
     "You can click to add description, post comments, attach files, etc.",

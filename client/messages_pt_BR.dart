@@ -977,6 +977,7 @@ const ptBrClient = const <String, String> {
   mDragTooltipReprder: "Arraste para reclassificar",
   mDragTooltipHoldAltTransfer: "Mantenha pressionado <code>alt</code> para transferir imediatamente",
   mDragTooltipTransferOptions: "Opções de Transferência",
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
   mTipOpenDetail: "Você pode clicar para adicionar descrição, postar comentários, anexar arquivos, etc.",
   mTipPinDetail: "Você pode clicar para tornar o painel de detalhes fixo.",
   mTipFilterForCompleted: "Você pode clicar em Todas as Tarefas para ver tarefas que acabou de concluir.",

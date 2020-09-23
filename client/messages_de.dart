@@ -969,6 +969,7 @@ const deClient = const <String, String> {
   mDragTooltipReprder: "Drag & Drop, zum Neuanordnen",
   mDragTooltipHoldAltTransfer: "Halten Sie <code>alt</code> gedrückt, um sofort zu übertragen",
   mDragTooltipTransferOptions: "Übertragungsoptionen",
+  mDragTooltipHoldAltCopyTasksToSublist: "Hold <code>alt</code> to add the selected tasks to this sublist also",
   mTipOpenDetail: "Klicken Sie hier, um eine Beschreibung hinzuzufügen, Kommentare zu posten, Dateien anzuhängen usw.",
   mTipPinDetail: "Klicken Sie hier, um die Detailansicht anzuheften.",
   mTipFilterForCompleted: "Klicken Sie hier, um Aufgaben zu sehen, die Sie gerade in Alle Aufgaben erledigt haben.",
