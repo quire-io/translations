@@ -996,6 +996,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mRemindTimeAt: "às",
   mCollapseAllSubtaskByDefault: 'Recolher todas as subtarefas por defeito',
   mAutoAssignToMe: 'Atribuir-me automaticamente novas tarefas',
+  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
   mDeveloperConsoleTitle: "Apps de Desenvolvedor",
   mDeveloperConsoleIntro:
     'Crie uma aplicação que torne o Quire uma experiência ainda melhor para si e para a sua equipa!<br>'

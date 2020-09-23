@@ -895,6 +895,7 @@ const enClient = const <String, String> {
   mTransferTaskTitle: "Transfer Tasks",
   mArchiveBoard: "Archive Board",
   mArchiveBoardFolder: "Archived boards",
+  mArchiveSublist: "Archive Sublist",
   mDeletePartnerTitle: "Delete External Team",
   mDeleteSublistTitle: "Delete Sublist",
   mDeleteBoardTitle: "Delete Board",
@@ -1019,6 +1020,12 @@ const enClient = const <String, String> {
   mChangeTaskBoardFinishPlural: "[=name] and [=count] other tasks have been added to board [=board].",
   mRemoveTaskBoardFinish: "[=name] has been removed from board.",
   mRemoveTaskBoardFinishPlural: "[=name] and [=count] other tasks have been removed from board.",
+
+  mChangeTaskSublistFinish: "[=name] has been added to sublist [=board].",
+  mChangeTaskSublistFinishPlural: "[=name] and [=count] other tasks have been added to sublist [=board].",
+  mRemoveTaskSublistFinish: "[=name] has been removed from sublist.",
+  mRemoveTaskSublistFinishPlural: "[=name] and [=count] other tasks have been removed from sublist.",
+
 
 
   mTransferTaskCPTask: "Transfer a copy without comments from original tasks",

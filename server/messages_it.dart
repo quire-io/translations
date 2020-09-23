@@ -995,6 +995,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mRemindTimeAt: "alle",
   mCollapseAllSubtaskByDefault: 'Comprimi tutte le sottoattività per impostazione predefinita',
   mAutoAssignToMe: 'Assegna automaticamente nuove attività a me stesso',
+  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
   mDeveloperConsoleTitle: "Sviluppatore Apps",
   mDeveloperConsoleIntro:
     'Crea un\'app che renda Quire un\'esperienza ancora migliore per te e il tuo team!<br>'

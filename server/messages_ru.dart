@@ -997,6 +997,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mRemindTimeAt: "at",
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
+  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
   mDeveloperConsoleTitle: "Developer Apps",
   mDeveloperConsoleIntro:
     'Build an app that makes Quire an even better experience for you and your team!<br>'

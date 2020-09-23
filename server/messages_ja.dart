@@ -995,6 +995,7 @@ Quireをご利用になったご感想をお聞かせください。
   mRemindTimeAt: "の",
   mCollapseAllSubtaskByDefault: 'デフォルトでは子タスクを折りたたむ',
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',
+  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
   mDeveloperConsoleTitle: "開発者アプリ",
   mDeveloperConsoleIntro:
     'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。<br>'
