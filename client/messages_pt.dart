@@ -298,6 +298,7 @@ const ptClient = const <String, String> {
   mPriorityLabel: "Baixa,Média,Alta,Urgente",
   mStateLabel: "Por Fazer, Em andamento, Concluída",
   mTaskTypeLabel: "Normal,Subprojeto,Etiqueta",
+  mTree: "Tree",
   mBoard: "Quadro",
   mSublist: "Sub-lista",
   mMenuItemSortByStates: "Ordenar por estado",

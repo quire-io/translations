@@ -287,6 +287,7 @@ const deClient = const <String, String> {
   mPriorityLabel: "Niedrig,Normal,Hoch,Dringend",
   mStateLabel: "To-Do,In Bearbeitung,Erledigt",
   mTaskTypeLabel: "Normal,Teilprojekt,Label",
+  mTree: "Tree",
   mBoard: "Board",
   mSublist: "Unterliste",
   mMenuItemSortByStates: "Nach Status sortieren",

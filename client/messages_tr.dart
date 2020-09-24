@@ -287,6 +287,7 @@ const trClient = const <String, String> {
   mPriorityLabel: "Düşük,Orta,Yüksek,Acil",
   mStateLabel: "Yapılacak,Devam Etmekte,Tamamlandı",
   mTaskTypeLabel: "Normal,Altproje,Etiket",
+  mTree: "Tree",
   mBoard: "Pano",
   mSublist: "Alt liste",
   mMenuItemSortByStates: "Duruma göre sırala",

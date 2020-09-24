@@ -293,6 +293,7 @@ const ruClient = const <String, String> {
   mPriorityLabel: "Low,Medium,High,Urgent",
   mStateLabel: "To-Do,In Progress,Completed",
   mTaskTypeLabel: "Normal,Subproject,Label",
+  mTree: "Tree",
   mBoard: "Board",
   mSublist: "Sublist",
   mMenuItemSortByStates: "Sort by status",

@@ -293,6 +293,7 @@ const frClient = const <String, String> {
   mPriorityLabel: "Faible,Moyenne,Haute,Urgente",
   mStateLabel: "À faire,En cours,Terminé",
   mTaskTypeLabel: "Normale,Sous-Projet,Étiquette",
+  mTree: "Tree",
   mBoard: "Tableau",
   mSublist: "Sous-liste",
   mMenuItemSortByStates: "Trier par statut",

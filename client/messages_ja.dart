@@ -293,6 +293,7 @@ const jaClient = const <String, String> {
   mPriorityLabel: "低,中,高,緊急",
   mStateLabel: "開始前,進行中,完了",
   mTaskTypeLabel: "普通,子プロジェクト,ラベル",
+  mTree: "Tree",
   mBoard: "ボード",
   mSublist: "サブリスト",
   mMenuItemSortByStates: "状態で並び替え",
