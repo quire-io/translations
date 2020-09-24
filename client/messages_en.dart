@@ -1022,8 +1022,8 @@ const enClient = const <String, String> {
   mRemoveTaskBoardFinish: "[=name] has been removed from board.",
   mRemoveTaskBoardFinishPlural: "[=name] and [=count] other tasks have been removed from board.",
 
-  mChangeTaskSublistFinish: "[=name] has been added to sublist [=board].",
-  mChangeTaskSublistFinishPlural: "[=name] and [=count] other tasks have been added to sublist [=board].",
+  mChangeTaskSublistFinish: "[=name] has been added to sublist [=sublist].",
+  mChangeTaskSublistFinishPlural: "[=name] and [=count] other tasks have been added to sublist [=sublist].",
   mRemoveTaskSublistFinish: "[=name] has been removed from sublist.",
   mRemoveTaskSublistFinishPlural: "[=name] and [=count] other tasks have been removed from sublist.",
 
