@@ -458,8 +458,8 @@ const enClient = const <String, String> {
   
   mBlinkSearchHint: "Blink Search",
 
-  mDetailOpenTooltip: "Open detail panel (SPACE)",
-  mDetailHideTooltip: "Hide detail panel (SPACE)",
+  mDetailOpenTooltip: "Open detail panel <code>SPACE</code>",
+  mDetailHideTooltip: "Hide detail panel <code>SPACE</code>",
   mDetailCancelPinTooltip: "Hide detail panel",
   mDetailPinTooltip: "Pin detail panel",
 

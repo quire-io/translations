@@ -53,7 +53,7 @@ const deWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Wechseln von Trello",
   mFeaturesMigrationWunderlistButton: "Wechseln von Wunderlist",
   mFeaturesCompareWrikeButton: "Mit Wrike vergleichen",
-  mFeaturesCompareTodoistButton: "Compare to Todoist",
+  mFeaturesCompareTodoistButton: "Mit Todoist vergleichen",
   mFeaturesMigrationOthersButton: "Wechseln von Anderen",
   mFeatureHierarchyTitle: "Verschachtelte Aufgabenliste",
   mFeatureHierarchyDesc: "Zerlegen Sie große Projekte in überschaubare Schritte und Unteraufgaben.",
