@@ -899,7 +899,7 @@ const ptClient = const <String, String> {
   mEditShareLinkContent: 'Pode atualizar a prazo para dar ao link partilhado uma nova data limite.',
   mArchiveSublistContent:
     'Está prestes a arquivar esta sub-lista. Uma sub-lista arquivada será movida para a categoria Arquivado '
-    'na seção Mais Opções. As tarefas ainda permanecerão nesta sub-lista.',
+    'na secção Mais Opções. As tarefas ainda permanecerão nesta sub-lista.',
   mArchiveBoardContent:
     "Está prestes a arquivar este quadro. Um quadro arquivado será "
     "movido para a categoria Arquivados no menu drop-down.",
