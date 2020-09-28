@@ -994,7 +994,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mRemindTimeAt: "saat",
   mCollapseAllSubtaskByDefault: 'Varsayılan olarak tüm alt görevleri daralt',
   mAutoAssignToMe: 'Yeni görevleri otomatik olarak bana ata',
-  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
+  mStrikethroughCompletedTasks: 'Tamamlanmış görevlerin üstünü çiz',
   mDeveloperConsoleTitle: "Geliştirici Uygulamaları",
   mDeveloperConsoleIntro:
     'Quire\'i sizin ve ekibiniz için daha da iyi bir deneyim haline getiren bir uygulama oluşturun!<br>'
