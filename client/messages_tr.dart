@@ -788,7 +788,7 @@ const trClient = const <String, String> {
   mTransferTaskCPTaskFinishPlural: "[=name] görevinin ve diğer [=count] görevin kopyası [=project] projesine aktarıldı.",
   mTransferTaskTaskFinish: "[=name] görevi [=project] projesine aktarıldı.",
   mTransferTaskTaskFinishPlural: "[=name] ve diğer [=count] görev [=project] projesine aktarıldı.",
-  mAddTaskToView: "[=name], [=view'ye eklendi.",
+  mAddTaskToView: "[=name], [=view]'ye eklendi.",
   mAddTaskToViewPlural: "[=name] ve diğer [=count] görev [=view]'ye eklendi.",
   mRemoveTaskFromView: "[=name] [=view]'den çıkarıldı.",
   mRemoveTaskFromViewPlural: "[=name] ve diğer [=count] görev [=view]'den çıkarıldı.",
