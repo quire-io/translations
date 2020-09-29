@@ -551,10 +551,10 @@ const enClient = const <String, String> {
 
   mSublistPickerPlaceholderEmpty: "No sublists available. Please create one to continue.",
   mReadonlySublistPickerPlaceholderEmpty: "No sublists available",
-  mAddAllToSublist: "Apply to all tasks and subtasks",
-  mAddSelectedToSublist: "Apply to the selected tasks only",
-  mRemoveAllFromSublist: "Remove from all tasks and subtasks",
-  mRemoveSelectedFromSublist: "Remove from the selected tasks only",
+  mAddAllToSublist: "Apply to selected tasks and their subtasks",
+  mAddSelectedToSublist: "Apply to selected tasks only",
+  mRemoveAllFromSublist: "Remove from selected tasks and their subtasks",
+  mRemoveSelectedFromSublist: "Remove from selected tasks only",
   
 
   mUserPickerHint: "Invite a new member by email address",
@@ -916,7 +916,7 @@ const enClient = const <String, String> {
   mReassignMemberToTasks: "Reassign the tasks to",
 
   mRemoveProjectStatusContent:
-    "The selected tasks will be unapplied from this status.",
+    "This status will be removed from the applied tasks.",
   mReassignStatusToTasks: "Reapply the tasks to",
 
   mDiscardDraftTitle: "Discard draft?",
