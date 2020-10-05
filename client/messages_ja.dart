@@ -972,7 +972,7 @@ const jaClient = const <String, String> {
   mDragTooltipReprder: "ドラッグして整理",
   mDragTooltipHoldAltTransfer: "<code>alt</code>キーを押したままですぐに移動",
   mDragTooltipTransferOptions: "移動のオプション",
-  mDragTooltipHoldAltCopyTasksToSublist: "選択したタスクをこのサブリストにも追加するには、<code>Alt</code>キーを押したままにします",",
+  mDragTooltipHoldAltCopyTasksToSublist: "選択したタスクをこのサブリストにも追加するには、<code>Alt</code>キーを押したままにします",
   mTipOpenDetail: "説明の追加、コメントの投稿、ファイルの添付などを行うにはクリックします。",
   mTipPinDetail: "詳細パネルを固定表示するにはクリックします。",
   mTipFilterForCompleted: "完了したばかりのタスクを確認するには、「すべてのタスク」をクリックします。",
