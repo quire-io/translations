@@ -238,6 +238,7 @@ const enClient = const <String, String> {
   mClose: "Close",
   mCopyOF: "Copy of [=name]",
   mTransfer: "Transfer",
+  mCreateAndTransfer: "Create & Transfer",
   mDuplicate: "Duplicate",
   mShare: "Share",
   mMerge: "Merge",
@@ -1011,7 +1012,16 @@ const enClient = const <String, String> {
     "You are about to transfer [=name] to project",
   mTransferTaskContentPlural:
     "You are about to transfer [=name] and [=count] other tasks to project",
+
+  mTransferTaskNewProjectContent:  
+    "You are about to transfer [=name] to a new project",
+  mTransferTaskNewProjectContentPlural:
+    "You are about to transfer [=name] and [=count] other tasks to a new project",
   
+  mOrCreateProject: 'Or <a href="#">create a new project</a>',
+  mOrTransferProject: 'Or transfer to an <a href="#">existing project</a>',
+  
+
   mTransferTaskCPTaskFinish: "Copy of [=name] has been transferred to [=project].",
   mTransferTaskCPTaskFinishPlural: "Copy of [=name] and [=count] other tasks have been transferred to [=project].",
   mTransferTaskTaskFinish: "[=name] has been transferred to [=project].",
