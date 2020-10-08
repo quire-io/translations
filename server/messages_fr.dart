@@ -943,7 +943,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mSettingNotificationsDesc:
     "Vous pouvez choisir les notifications que vous voulez recevoir en les sélectionnant parmi les options suivantes. "
     "Cela ne s'appliquera qu'à votre compte, pas aux autres membres du projet.",
-  mAssignNotifications: "Nouvelles tâches qui me sont assignées",
+  mAssignNotifications: "Tasks assigned to me",
   mCommentNotifications: "Nouveaux commentaires",
   mCommentAllNotifications: "Tous les commentaires",
   mCommentMeNotifications: "Mentions uniquement",
