@@ -155,6 +155,9 @@ const enWeb = const <String, String> {
   mFeatureAndroidTitle: "Android App",
   mFeatureAndroidDesc: "Pick up where you left off on your Android phone. Even offline.",
 
+  mFeatureGoogleEmailTitle: "Gmail Add-on",
+  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
+
   mFeatureGoogleCalendarTitle: "Sync to Google Calendar",
   mFeatureGoogleCalendarDesc: "See your tasks as events on Google, iCal or Outlook Calendar and get notified.",
 

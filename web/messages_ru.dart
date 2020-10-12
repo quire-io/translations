@@ -115,6 +115,8 @@ const ruWeb = const <String, String> {
   mFeatureSiriDesc: "Ваш умный помощник, помогающий вам управлять задачами, используя только ваш голос.",
   mFeatureAndroidTitle: "Android-приложение",
   mFeatureAndroidDesc: "Переходите туда, где вы находились - на вашем телефоне Android. Даже в автономном режиме.",
+  mFeatureGoogleEmailTitle: "Gmail Add-on",
+  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
   mFeatureGoogleCalendarTitle: "Синхронизация с Календарем Google",
   mFeatureGoogleCalendarDesc: "Смотрите ваши задачи как события в календаре Google, iCal или Outlook и получайте уведомления.",
   mFeatureSlackTitle: "Интеграция в Slack",

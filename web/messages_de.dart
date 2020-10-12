@@ -111,6 +111,8 @@ const deWeb = const <String, String> {
   mFeatureSiriDesc: "Siri hilft Ihnen Aufgaben mit Ihrer Stimme zu verwalten.",
   mFeatureAndroidTitle: "Android App",
   mFeatureAndroidDesc: "Machen Sie dort weiter, wo Sie auf Ihrem Android-Gerät aufgehört haben. Auch offline.",
+  mFeatureGoogleEmailTitle: "Gmail Add-on",
+  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
   mFeatureGoogleCalendarTitle: "Mit Google Kalender synchronisieren",
   mFeatureGoogleCalendarDesc: "Sehen Sie Ihre Aufgaben als Termine in Google Kalender, iCal oder Outlook und werden Sie benachrichtigt.",
   mFeatureSlackTitle: "Slack Integration",

@@ -115,6 +115,8 @@ const frWeb = const <String, String> {
   mFeatureSiriDesc: "Votre assistant intelligent vous aide à gérer vos tâches en n'utilisant que votre voix.",
   mFeatureAndroidTitle: " Application Android",
   mFeatureAndroidDesc: "Reprenez votre travail où vous l'aviez laissé. Même hors-ligne.",
+  mFeatureGoogleEmailTitle: "Gmail Add-on",
+  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
   mFeatureGoogleCalendarTitle: "Synchronisez à Google Agenda",
   mFeatureGoogleCalendarDesc: "Affichez vos tâches en temps qu'évènements sur Google, iCal ou le Calendrier Outlook et soyez notifié.",
   mFeatureSlackTitle: "Intégration de Slack",

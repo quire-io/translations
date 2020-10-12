@@ -115,6 +115,8 @@ const jaWeb = const <String, String> {
   mFeatureSiriDesc: "声をかけるだけでスマートにタスクを管理できます。",
   mFeatureAndroidTitle: "Androidアプリ",
   mFeatureAndroidDesc: "Androidスマートフォンで、やりかけの仕事をオフラインでも続けることができます。",
+  mFeatureGoogleEmailTitle: "Gmail Add-on",
+  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
   mFeatureGoogleCalendarTitle: "Googleカレンダーと同期",
   mFeatureGoogleCalendarDesc: "GoogleやiCal、Outlookカレンダーと同期してタスクを確認し、通知を受け取りましょう。",
   mFeatureSlackTitle: "Slackと連携",
