@@ -189,7 +189,7 @@ const itClient = const <String, String> {
   mClose: "Chiudi",
   mCopyOF: "Copia di [=name]",
   mTransfer: "Trasferisci",
-  mCreateAndTransfer: "Create & Transfer",
+  mCreateAndTransfer: "Crea e Trasferisci",
   mDuplicate: "Duplica",
   mShare: "Condividi",
   mMerge: "Unisci",
