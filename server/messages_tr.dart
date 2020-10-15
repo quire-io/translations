@@ -960,7 +960,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSettingNotificationsDesc:
     "Aşağıdaki seçenekleri seçerek hangi bildirimleri almak istediğinizi belirleyebilirsiz. "
     "Bu ayar, bu projedeki her üye yerine yalnızca hesabınız için geçerli olacaktır.",
-  mAssignNotifications: "Tasks assigned to me",
+  mAssignNotifications: "Bana atanan görevler",
   mCommentNotifications: "Yeni yorumlar",
   mCommentAllNotifications: "Tüm yorumlar",
   mCommentMeNotifications: "Sadece benden bahset",
