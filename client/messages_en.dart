@@ -660,6 +660,14 @@ const enClient = const <String, String> {
 
   mDatepickerTitle: "Date",
 
+  mTimelineViewOptions: "Day;Week;Month;Year",
+  mTimelineWeekendOptions: "Show weekends",
+  mTimelineGridOptions: "Grid view",
+  mTaskColor: "Task color",
+  mTaskColorByPriority: "Color by priority",
+  mTaskColorByTag: "Color by tag",
+  mTaskColorByDate: "Color by date",
+
   mTag: "Tag",
   mTags: "Tags",
   mTagName: "Tag name",
