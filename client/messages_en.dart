@@ -139,6 +139,7 @@ const enClient = const <String, String> {
 
   mProject: "Project",
   mProjectLot: "Smart Folder",
+  mTask: "Task",
   mUser: "User",
   mOrganization: "Organization",
   mProfilePicture: "Profile Picture",
@@ -339,7 +340,9 @@ const enClient = const <String, String> {
 
   mAssignee: "Assignee",
   mAssignees: "Assignees",
+  mFollower: "Follower", 
   mFollowers: "Followers", 
+  mFavorite: "Favorite", 
   mFavorites: "Favorites", 
 
   mUnassigned: "Unassigned",
