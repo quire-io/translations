@@ -93,7 +93,7 @@ const itClient = const <String, String> {
   mCantSetDuePriorityInName: "Non hai i permessi per cambiare data o priorità.",
   mProject: "Progetto",
   mProjectLot: "Cartella intelligente",
-  mTask: "Task",
+  mTask: "Attività",
   mUser: "Utente",
   mOrganization: "Organizzazione",
   mProfilePicture: "Immagine di Profilo",
