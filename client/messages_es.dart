@@ -258,6 +258,7 @@ const esClient = const <String, String> {
   mViewMemberCount: "Lista de Miembros Completa",
   mShowMemberCount: "Ver lista de miembros completa",
   mInvitationSent: "Invitación enviada",
+  mNewMemberAdded: "New members have been added to [=name]",
   mNone: "Ninguno",
   mNA: "N/A",
   mDontShowAgain: "No volver a mostrar",

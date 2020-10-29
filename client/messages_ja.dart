@@ -258,6 +258,7 @@ const jaClient = const <String, String> {
   mViewMemberCount: "全メンバーの一覧",
   mShowMemberCount: "すべてのメンバーを一覧",
   mInvitationSent: "招待状を送りました",
+  mNewMemberAdded: "New members have been added to [=name]",
   mNone: "なし",
   mNA: "該当なし",
   mDontShowAgain: "今後表示しない",

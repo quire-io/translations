@@ -258,6 +258,7 @@ const ruClient = const <String, String> {
   mViewMemberCount: "Complete Member List",
   mShowMemberCount: "View complete member list",
   mInvitationSent: "Invite sent",
+  mNewMemberAdded: "New members have been added to [=name]",
   mNone: "None",
   mNA: "N/A",
   mDontShowAgain: "Do not show again",

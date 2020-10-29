@@ -252,6 +252,7 @@ const deClient = const <String, String> {
   mViewMemberCount: "Vollständige Mitgliederliste",
   mShowMemberCount: "Vollständige Mitgliederliste ansehen",
   mInvitationSent: "Einladung gesendet",
+  mNewMemberAdded: "New members have been added to [=name]",
   mNone: "Keine",
   mNA: "N/A",
   mDontShowAgain: "Nicht mehr anzeigen",
