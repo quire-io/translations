@@ -57,7 +57,7 @@ const ruWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
   mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",
   mFeaturesCompareWrikeButton: "Сравнить с Wrike",
-  mFeaturesCompareTodoistButton: "Compare to Todoist",
+  mFeaturesCompareTodoistButton: "Сравнить с Todoist",
   mFeaturesMigrationOthersButton: "Мигрировать из других",
   mFeatureHierarchyTitle: "Вложенный Список Задач",
   mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",
@@ -115,8 +115,8 @@ const ruWeb = const <String, String> {
   mFeatureSiriDesc: "Ваш умный помощник, помогающий вам управлять задачами, используя только ваш голос.",
   mFeatureAndroidTitle: "Android-приложение",
   mFeatureAndroidDesc: "Переходите туда, где вы находились - на вашем телефоне Android. Даже в автономном режиме.",
-  mFeatureGoogleEmailTitle: "Gmail Add-on",
-  mFeatureGoogleEmailDesc: "Turn your Google emails into Quire tasks simultaneously.",
+  mFeatureGoogleEmailTitle: "Дополнение для Gmail",
+  mFeatureGoogleEmailDesc: "Превратите свои электронные письма в Google одновременно в задачи Quire.",
   mFeatureGoogleCalendarTitle: "Синхронизация с Календарем Google",
   mFeatureGoogleCalendarDesc: "Смотрите ваши задачи как события в календаре Google, iCal или Outlook и получайте уведомления.",
   mFeatureSlackTitle: "Интеграция в Slack",
@@ -244,7 +244,7 @@ const ruWeb = const <String, String> {
     "<p>В Quire вы можете перетащить их туда, где им место. "
     "Например, перетащите подарки, такие как футболки, наклейки на бампер и "
     'бутылки с водой под задачу "Рекламные предметы".</p>',
-  mTutorialShortcutTitle: "Несколько удобных ярлыков",
+  mTutorialShortcutTitle: "Несколько удобных горячих клавиш",
   mTutorialShortcutContent:
     "<h3>Добавить и редактировать</h3>"
     "<ul>"
@@ -325,152 +325,152 @@ const ruWeb = const <String, String> {
     "вы можете создавать новые задачи в режиме доски.</p>"
     '<p>Для этого выберите «Создать новые задачи».</p>',
   mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Note: The newly created tasks in Board view will be added '
-    "in the Task list view as well.</span></p>"
-    '<p><span class="note">Tip: Pressing Ctrl (or Alt on Mac) will show the breadcrumbs, '
-    "by that you will know which subtask belongs to which parent task.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Don't Forget the Details",
+    '<p><span class="note">Замечание: Вновь созданные задачи в режиме «Доска» будут также добавлены '
+    "как задачи в списке задач.</span></p>"
+    '<p><span class="note">Подсказка: Нажатие Ctrl (или Alt на Mac) покажет детали позадач, '
+    "благодаря которым вы будете видеть, какая подзадача принадлежит какой родительской задаче.</span></p>",
+  mBoardTutorialAssignOthersTitle: "Не забудьте подробности",
   mBoardTutorialAssignOthersContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    '<p>Click on the "date", "assignee", "tag" icons to set additional information.</p>',
+    "<p>Вы можете добавить более подробную информацию, установив даты начала/окончания, исполнителей и теги.</p>"
+    '<p>Щелкните на значки «дата», «исполнитель», «тег», чтобы задать дополнительную информацию.</p>',
   mBoardTutorialAssignOthersTip:
-    "Tip: By pressing the Spacebar, the "
-    '<a href="/guide/user-interface#detail-panel">detail panel</a> will show up '
-    "for you to add descriptions, attach files, leave comments, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Track and Organize the Progress",
+    "Подсказка: Нажав пробел, "
+    'вы откроете <a href="/guide/user-interface#detail-panel">панель деталей</a> '
+    "чтобы вы могли добавлять описания, прикреплять файлы, оставлять комментарии и т.д.",
+  mBoardTutorialOrganizeProgressTitle: "Отслеживайте и систематизируйте прогресс",
   mBoardTutorialOrganizeProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, "
-    "you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>"
+    "<p>Вы можете изменить положение задач в столбце для указания высокого приоритета. Также, "
+    "вы можете перетаскивать задачи в разные столбцы для отслеживания прогресса.</p>"
+    "<p>Теперь вы сможете сразу видеть статус вашего проекта в динамике.</p>"
     "<p>[=img]</p>"
-    "<p>Feeling like all the tasks are squished into one column and "
-    "it's getting harder to get a hold of the workload "
-    "and status of each team member?</p>"
-    "<p>You can use filter/sort feature to group your tasks by the preferred attributes. "
-    "For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShortcutTitle: "Helpful Shortcuts",
+    "<p>Есть ощущение, будто все задачи сжаты в один столбец "
+    "и становится трудно следить за нагрузкой "
+    "и статусом каждого из участников команды?</p>"
+    "<p>Вы можете использовать функцию фильтрации/сортировки, чтобы сгруппировать задачи по предпочтительным атрибутам. "
+    "Например: сгруппировать по исполнителям, чтобы увидеть конкретные задачи каждого участника.</p>",
+  mBoardTutorialShortcutTitle: "Полезные горячие клавиши",
   mBoardTutorialShortcutContent:
-    "<h3>Add & Edit</h3>"
+    "<h3>Добавление & редактирование</h3>"
     "<ul>"
-    "<li><kbd>Enter</kbd> &mdash; To add a new task.</li>"
-    "<li><kbd>F2</kbd> &mdash; To edit the task name.</li>"
+    "<li><kbd>Enter</kbd> &mdash; Добавление новой задачи.</li>"
+    "<li><kbd>F2</kbd> &mdash; Редактирование имени задачи.</li>"
     "</ul>"
-    "<h3>Navigation</h3>"
+    "<h3>Навигация</h3>"
     "<ul>"
-    "<li><kbd>↑</kbd> &mdash; To go to the task above.</li>"
-    "<li><kbd>↓</kbd> &mdash; To go to the task below.</li>"
-    "<li><kbd>Space</kbd> &mdash; To open the right detail panel.</li>"
+    "<li><kbd>↑</kbd> &mdash; Перейти к задаче выше.</li>"
+    "<li><kbd>↓</kbd> &mdash; Перейти к задаче ниже.</li>"
+    "<li><kbd>Пробел</kbd> &mdash; Открыть правую панель деталей.</li>"
     "</ul>"
-    "<h3>Multi-Selection</h3>"
+    "<h3>Множественный выбор</h3>"
     "<ul>"
-    "<li><kbd>Shift + ↑/↓</kbd> &mdash; To select multiple tasks.</li>"
-    "<li><kbd>Ctrl + A</kbd> &mdash; To select all tasks.</li>"
+    "<li><kbd>Shift + ↑/↓</kbd> &mdash; Чтобы выбрать несколько задач.</li>"
+    "<li><kbd>Ctrl + A</kbd> &mdash; Выбрать все задачи.</li>"
     "</ul>"
-    "<h3>Move</h3>"
+    "<h3>Перемещение</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; To move tasks up or down.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; To move tasks left or right, aka column to column.</li>"
+    "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Чтобы переместить задачи вверх или вниз.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Для перемещения задач влево или вправо, например из столбца в столбец.</li>"
     "</ul>"
-    '<p><span class="note">Note: When the board is sorted by date, '
-    "you would not be able to move tasks from one swimlane to another.</span></p>"
-    "<h3>Task Action</h3>"
+    '<p><span class="note">Заметка: Когда доска отсортирована по дате, '
+    "вы не сможете перемещать задачи с одной дорожки на другую.</span></p>"
+    "<h3>Действия с задачами</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + M</kbd> &mdash; To assign a selected task(s) to yourself.</li>"
-    "<li><kbd>Ctrl + /</kbd> &mdash; To complete the selected task(s).</li>"
-    "<li><kbd>Ctrl + Z</kbd> &mdash; To show the Undo window.</li>"
+    "<li><kbd>Ctrl + M</kbd> &mdash; Назначить себе выбранные задачи.</li>"
+    "<li><kbd>Ctrl + /</kbd> &mdash; Для завершения выбранных задач.</li>"
+    "<li><kbd>Ctrl + Z</kbd> &mdash; Чтобы показать окно отмены.</li>"
     "</ul>"
-    "<h3>Copy & Paste</h3>"
+    "<h3>Копирование и вставка</h3>"
     "<ul>"
-    "<li><kbd>Ctrl + C</kbd> &mdash; To copy selected task(s).</li>"
-    "<li><kbd>Ctrl + V</kbd> &mdash; To paste selected task(s).</li>"
-    "<li><kbd>Ctrl + X</kbd> &mdash; To cut selected task(s).</li>"
+    "<li><kbd>Ctrl + C</kbd> &mdash; Чтобы скопировать выбранные задачи.</li>"
+    "<li><kbd>Ctrl + V</kbd> &mdash; Чтобы вставить выбранные задачи.</li>"
+    "<li><kbd>Ctrl + X</kbd> &mdash; Чтобы вырезать выбранные задачи.</li>"
     "</ul>",
-  mBoardTutorialQuickAssignTitle: "Quick Assign",
+  mBoardTutorialQuickAssignTitle: "Быстрое назначение",
   mBoardTutorialQuickAssignContent:
-    "<p>To quickly set assignee, tag, etc.  "
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+    "<p>Чтобы быстро установить исполнителя, метку и т.д.  "
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">без мыши</a>, '
+    "нажмите @, #, <, !, ^, / на клавиатуре после выбора задач."
     "</p>"
     "<ul>"
-    "<li><kbd>@</kbd> &mdash; Add assignee</li>"
-    "<li><kbd>#</kbd> &mdash; Add tag</li>"
-    "<li><kbd><</kbd> &mdash; Add due date</li>"
-    "<li><kbd>!</kbd> &mdash; Set priority</li>"
-    "<li><kbd>^</kbd> &mdash; Add task to board</li>"
-    "<li><kbd>/</kbd> &mdash; Set status</li>"
+    "<li><kbd>@</kbd> &mdash; Добавить исполнителя</li>"
+    "<li><kbd>#</kbd> &mdash; Добавить метку</li>"
+    "<li><kbd><</kbd> &mdash; Добавить срок сдачи</li>"
+    "<li><kbd>!</kbd> &mdash; Установить приоритет</li>"
+    "<li><kbd>^</kbd> &mdash; Добавить задачу на доску</li>"
+    "<li><kbd>/</kbd> &mdash; Установить статус</li>"
     "</ul>",
-  mBoardTutorialContextmenuTitle: "Right-Click Context Menu",
-  mBoardTutorialContextmenuContent: "You can right-click on a task, to bring up the context menu to set due date, assignee, tag, and more.",
-  mBoardTutorialContextmenuTip: "Tip: You could switch from Board view to Task list view for getting a big picture of your whole project.",
-  mBoardTutorialYourBoardTitle: "Create Your Own Board Now!",
-  mBoardTutorialYourBoardContent: "That's all we have to talk about Kanban board for now. Go ahead and have fun!",
-  mSublistTutorialTitle: "Quire Tutorial - Sublist",
+  mBoardTutorialContextmenuTitle: "Контекстное меню правой кнопки мыши",
+  mBoardTutorialContextmenuContent: "Вы можете щелкнуть задачу правой кнопкой мыши, чтобы вызвать контекстное меню, чтобы установить срок выполнения, исполнителя, метки и многое другое.",
+  mBoardTutorialContextmenuTip: "Совет: Вы можете переключиться с вида «Доска» на вид «Список задач», чтобы получить полную картину всего вашего проекта.",
+  mBoardTutorialYourBoardTitle: "Создайте свою собственную доску прямо сейчас!",
+  mBoardTutorialYourBoardContent: "Это все, что нам нужно сказать о доске Kanban. Вперед и получайте удовольствие!",
+  mSublistTutorialTitle: "Руководство Quire - Подсписки",
   mSublistTutorialDesc:
-    "Dealing with an ever-growing shared task list between team members has never been easier with Quire Sublist!<br>"
-    'Select several important tasks and add them to <a href="/blog/p/Quire-sublist.html">a personalized sublist</a> '
-    'so you can focus on the right tasks at the right time, without any distraction.',
-  mSublistTutorialAddSublistTitle: "Name Your Sublist",
+    "Работа с постоянно растущим общим списком задач с участниками команды еще никогда не была такой простой с Подсписками Quire!<br>"
+    'Выберите несколько важных задач и добавьте их в <a href="/blog/p/Quire-sublist.html">персонализированный подсписок</a> '
+    'чтобы вы могли сосредоточиться на нужных задачах в нужное время, не отвлекаясь.',
+  mSublistTutorialAddSublistTitle: "Назовите свой подсписок",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
-  mSublistTutorialAddSublistTip: "Tip: You can create as many sublists as you want for a project.",
-  mSublistTutorialPickTaskTitle: "Select the Right Tasks and Add to Sublist",
+    "<p>Устали смотреть на список, которому не видно конца? Слишком много задач "
+    "которые не имеют отношения к вам, но вы не можете спрятать их, "
+    "потому что другие участники все еще работают над этими задачами. Подсписок здесь вам в помощь!</p>"
+    '<p>Чтобы добавить подсписок, нажмите кнопку «+» и выберите «Добавить подсписок».</p>',
+  mSublistTutorialAddSublistTip: "Совет: Вы можете создать любое количество подсписков для проекта.",
+  mSublistTutorialPickTaskTitle: "Выберите правильные задачи и добавьте в подсписок",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Допустим, вы работаете над проектом «Детский забег на благотворительность». '
+    'Он включает в себя сотни задач. Как минимум 10 человек, которые работают над ним вместе. '
+    'Вы не можете постоянно создавать разные метки для организации задач, за которые вы отвечаете. '
+    'Вы не можете скрыть ненужные задачи, потому что другим членам команды все еще нужно их просматривать.</p>'
+    '<p>Сделайте глубокий вдох и создайте свой первый подсписок для решения вашей проблемы. Просто выберите важные задачи '
+    'которые вы хотите видеть вместе и переместите в отдельный список. Теперь у вас есть собственный список дел, на котором можно сосредоточиться, '
+    'не отвлекаясь на все остальное.</p>'
     "<p>[=img]</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
-  mSublistTutorialShareTitle: "Share the Sublist with the Right People",
+    "<p>Когда вы выбираете корневую задачу и добавляете ее в подсписок, ее подзадачи автоматически "
+    "будут добавлены в подсписок.</p>"
+    "<p>Однако вы можете выбрать подзадачи отдельно от корневой задачи "
+    "и добавить во вновь созданный подсписок.</p>"
+    "<p>Чтобы отличить вновь созданный подсписок от основного списка, вы можете добавить забавные иконки "
+    "и изменить цвет иконки на свой подсписок.</p>",
+  mSublistTutorialShareTitle: "Поделитесь подсписком с нужными людьми",
   mSublistTutorialShareContent:
-    "<p>After choosing the tasks and adding to a sublist, you can also "
-    "choose with whom you want to share the sublist with. There are three options "
-    "for you to choose from: share with an External Team, share with all of "
-    "the Project Members or keep the sublist private for yourself.</p>",
-  mSublistTutorialSmartNavigationTitle: "Smart Navigation for Better Organization",
+    "<p>После выбора задач и добавления в подсписок вы также можете "
+    "выбрать, с кем вы хотите поделиться подсписком. Есть три варианта "
+    "для вас на выбор: поделиться с внешней командой, поделиться со всеми "
+    "участники проекта или оставить подсписок приватным.</p>",
+  mSublistTutorialSmartNavigationTitle: "Умная навигация для лучшей организации",
   mSublistTutorialSmartNavigationContent:
-    "<p>There’s no limitation for how many sublists that you can create for a project. "
-    "Each sublist serves as a customized list view for you to get focused and "
-    "organize your tasks.</p>"
-    "<p>When you are having too many sublists, you might want to pin the most used sublists "
-    "(and even boards!) for quick navigation between the main list and its subordinates "
-    "and coordinators.</p>",
-  mSublistTutorialSmartNavigationTip: "Tip: You can always move the sublist tabs around to arrange their positions.",
-  mSublistTutorialOrganizeTitle: "Organize the Tasks between Different Sublists",
+    "<p>Нет ограничений на количество подсписок, которые вы можете создать для проекта. "
+    "Каждый подсписок служит индивидуальным представлением списка, чтобы вы могли сосредоточиться и "
+    "организовать свои задачи.</p>"
+    "<p>Если у вас слишком много подсписков, вы можете закрепить наиболее часто используемые подсписки "
+    "(и даже доски!) для быстрой навигации между основным списком и его подчиненными "
+    "и координаторами.</p>",
+  mSublistTutorialSmartNavigationTip: "Совет: Вы всегда можете переместить вкладки подсписков, чтобы расположить их в нужном порядке.",
+  mSublistTutorialOrganizeTitle: "Организуйте задачи между разными подсписками",
   mSublistTutorialOrganizeContent:
-    "<p>What if you want to arrange the tasks between several sublists?</p>"
-    "<p>Simply drag and drop the tasks to move them to another sublist for better organization. When you drop a chunk of tasks into another sublist, the tree structure between them will be kept as original.</p>"
+    "<p>Что если вы хотите распределить задачи по нескольким подспискам?</p>"
+    "<p>Просто перетащите задачи, чтобы переместить их в другой подсписок для лучшей организации. Когда вы перетаскиваете часть задач в другой подсписок, древовидная структура между ними сохраняется как исходная.</p>"
     "<p>[=img]</p>"
-    "<p>When you are working on your sublist, since it behaves as a mirror of the main list, whatever the changes you make for one of your sublists, it will affect your main list.</p>"
-    '<p>If you want to navigate quickly between views, use the shortcut "(" or ")"</p>',
-  mSublistTutorialOrganizeTip: "Tip: You can always switch back to the main list to view the big picture of your project!",
-  mSublistTutorialTodoTitle: "Tackle an Overwhelming To-do List as a Winning Team",
+    "<p>Когда вы работаете со своим подсписком, поскольку он ведет себя как зеркало основного списка, какие бы изменения вы ни вносили в один из подсписков, это повлияет и на ваш основной список.</p>"
+    '<p>Если вы хотите быстро переключаться между представлениями, используйте кнопки "(" или ")"</p>',
+  mSublistTutorialOrganizeTip: "Совет: Вы всегда можете вернуться к основному списку, чтобы увидеть полную картину своего проекта!",
+  mSublistTutorialTodoTitle: "Работайте над огромным списком дел как команда-победитель",
   mSublistTutorialTodoContent:
-    "<p>Don’t let the stress of an ever-growing to-do list beat you "
-    "and your team productivity! Productivity is all about getting focused on "
-    "the right thing at the right time!</p>"
-    "<p>Now go get things done and achieve your dreams!</p>",
-  mLearnMoreDoc: "Learn More",
-  mGettingStartedLinkTitle: "Features in our Getting Started Guide",
-  mBlogLinkTitle: "News, tips and inspirations in our Blog",
-  mMobileWelcomeP1Title1: "Welcome to ",
+    "<p>Не позволяйте стрессу от постоянно растущего списка дел одолеть вас "
+    "и продуктивность вашей команды! Продуктивность - это сосредоточение внимания на "
+    "нужных вещах в нужное время!</p>"
+    "<p>А теперь делайте дела и достигайте своей мечты!</p>",
+  mLearnMoreDoc: "Узнать больше",
+  mGettingStartedLinkTitle: "Особенности в нашем руководстве по началу работы",
+  mBlogLinkTitle: "Новости, советы и вдохновения в нашем блоге",
+  mMobileWelcomeP1Title1: "Добро пожаловать в ",
   mMobileWelcomeP1Title2: "Quire",
-  mMobileWelcomeP2Title: "From start to finish",
-  mMobileWelcomeP3Title: "Streamline your workflow",
-  mMobileWelcomeP4Title: "Get into action",
-  mMobileWelcomeP1Desc: "Unfold your ideas.",
-  mMobileWelcomeP2Desc: "Swipe left or right to complete, delete or add a task.",
-  mMobileWelcomeP3Desc: "Focus on selected tasks with Kanban board.",
-  mMobileWelcomeP4Desc: "Add assignees, tags, due dates, etc., to get started with your project."
+  mMobileWelcomeP2Title: "От начала до конца",
+  mMobileWelcomeP3Title: "Оптимизируйте свой рабочий процесс",
+  mMobileWelcomeP4Title: "Приступайте к действиям",
+  mMobileWelcomeP1Desc: "Раскройте свои идеи.",
+  mMobileWelcomeP2Desc: "Проведите пальцем влево или вправо, чтобы завершить, удалить или добавить задачу.",
+  mMobileWelcomeP3Desc: "Сосредоточьтесь на выбранных задачах с помощью доски Канбан.",
+  mMobileWelcomeP4Desc: "Добавьте исполнителей, метки, сроки выполнения и т.д., чтобы начать работу над проектом."
 };
