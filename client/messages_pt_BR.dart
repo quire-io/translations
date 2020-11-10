@@ -748,6 +748,7 @@ const ptBrClient = const <String, String> {
   mDeleteStatusTitle: "Remover Estado",
   mMakeUnarchiveMsg: "Você desarquivou este projeto.",
   mPermissionChange: "Suas permissões neste projeto foram alteradas.",
+  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Esse usuário será desassociado de todas as tarefas nessa organização.",
   mRemoveProjectMemberContent: "Esse usuário será desassociado de [=task] nesse projeto.",
   mRemoveProjectMemberContentPlural: "Esse usuário será desassociado de [=task] e outras [=count] tarefas nesse projeto.",

@@ -743,6 +743,7 @@ const ruClient = const <String, String> {
   mDeleteStatusTitle: "Удалить статус",
   mMakeUnarchiveMsg: "Вы разархивировали этот проект.",
   mPermissionChange: "Ваши разрешения в этом проекте были изменены.",
+  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Этот участник будет отстранен от всех задач в этой организации.",
   mRemoveProjectMemberContent: "Этот участник будет отстранен от задачи [=task] в этом проекте.",
   mRemoveProjectMemberContentPlural: "Этот участник будет отстранен от задачи [=task] и [=count] др. задач в этом проекте.",

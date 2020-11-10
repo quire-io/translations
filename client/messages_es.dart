@@ -743,6 +743,7 @@ const esClient = const <String, String> {
   mDeleteStatusTitle: "Quitar Estado",
   mMakeUnarchiveMsg: "Has desarchivado este proyecto.",
   mPermissionChange: "Tus permisos en este proyecto han sido modificados.",
+  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Este miembro será desasignado de tudas sus tareas en esta organización.",
   mRemoveProjectMemberContent: "Este miembro será desasignado de [=task] en este proyecto.",
   mRemoveProjectMemberContentPlural: "Este miembro será desasignado de [=task] y otras [=count] tareas en este proyecto.",

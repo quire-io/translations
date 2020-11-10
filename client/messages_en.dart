@@ -921,6 +921,8 @@ const enClient = const <String, String> {
   mPermissionChange:
     "Your permissions in this project have been changed.",
 
+  mConfirmChangeOrganizationMemberRoleContent:
+    "Some members will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent:
     "This member will be unassigned from all tasks in this organization.",
   mRemoveProjectMemberContent:

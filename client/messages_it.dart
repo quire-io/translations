@@ -743,6 +743,7 @@ const itClient = const <String, String> {
   mDeleteStatusTitle: "Rimuovi stato",
   mMakeUnarchiveMsg: "Hai rimostrato questo progetto.",
   mPermissionChange: "I permessi per questo progetto sono stati cambiati.",
+  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Questo membro verrà disassegnato da tutte le attività di questa organizzazione.",
   mRemoveProjectMemberContent: "Questo membro verrà disassegnato da [=task] in questo progetto.",
   mRemoveProjectMemberContentPlural: "Questo membro verrà disassegnato da [=task] e [=count] altre attività in questo progetto.",
