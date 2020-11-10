@@ -157,6 +157,7 @@ const itClient = const <String, String> {
   mAdd: "Aggiungi",
   mRemove: "Rimuovi",
   mHide: "Nascondi",
+  mShow: "Show",
   mReshow: "Mostra",
   mSave: "Salva",
   mSaved: "Salvato",

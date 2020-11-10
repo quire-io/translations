@@ -162,6 +162,7 @@ const ptClient = const <String, String> {
   mAdd: "Adicionar",
   mRemove: "Remover",
   mHide: "Ocultar",
+  mShow: "Show",
   mReshow: "Voltar a Mostrar",
   mSave: "Guardar",
   mSaved: "Guardado",

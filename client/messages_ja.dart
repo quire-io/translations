@@ -157,6 +157,7 @@ const jaClient = const <String, String> {
   mAdd: "追加",
   mRemove: "消去",
   mHide: "非表示",
+  mShow: "Show",
   mReshow: "再表示",
   mSave: "保存",
   mSaved: "保存済み",

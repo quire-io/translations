@@ -162,6 +162,7 @@ const ptBrClient = const <String, String> {
   mAdd: "Adicionar",
   mRemove: "Remover",
   mHide: "Ocultar",
+  mShow: "Show",
   mReshow: "Voltar a Mostrar",
   mSave: "Salvar",
   mSaved: "Salvo",

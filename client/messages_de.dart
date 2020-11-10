@@ -151,6 +151,7 @@ const deClient = const <String, String> {
   mAdd: "Hinzufügen",
   mRemove: "Entfernen",
   mHide: "Ausblenden",
+  mShow: "Show",
   mReshow: "Wieder einblenden",
   mSave: "Speichern",
   mSaved: "Gespeichert",

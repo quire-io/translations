@@ -206,6 +206,7 @@ const enClient = const <String, String> {
   mAdd: "Add",
   mRemove: "Remove",
   mHide: "Hide",
+  mShow: "Show",
   mReshow: "Reshow",
   mSave: "Save",
   mSaved: "Saved",

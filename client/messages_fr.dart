@@ -157,6 +157,7 @@ const frClient = const <String, String> {
   mAdd: "Ajouter",
   mRemove: "Supprimer",
   mHide: "Masquer",
+  mShow: "Show",
   mReshow: "Réafficher",
   mSave: "Enregistrer",
   mSaved: "Enregistré",

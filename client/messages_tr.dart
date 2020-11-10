@@ -151,6 +151,7 @@ const trClient = const <String, String> {
   mAdd: "Ekle",
   mRemove: "Sil",
   mHide: "Gizle",
+  mShow: "Show",
   mReshow: "Tekrar Göster",
   mSave: "Kaydet",
   mSaved: "Kaydedildi",

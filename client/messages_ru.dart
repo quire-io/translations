@@ -157,6 +157,7 @@ const ruClient = const <String, String> {
   mAdd: "Добавить",
   mRemove: "Удалять",
   mHide: "Скрыть",
+  mShow: "Show",
   mReshow: "Показать",
   mSave: "Сохранить",
   mSaved: "Сохранено",

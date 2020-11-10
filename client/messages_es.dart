@@ -157,6 +157,7 @@ const esClient = const <String, String> {
   mAdd: "Añadir",
   mRemove: "Eliminar",
   mHide: "Ocultar",
+  mShow: "Show",
   mReshow: "Volver a mostrar",
   mSave: "Guardar",
   mSaved: "Guardado",
