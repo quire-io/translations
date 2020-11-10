@@ -996,6 +996,7 @@ Quireをご利用になったご感想をお聞かせください。
   mCollapseAllSubtaskByDefault: 'デフォルトでは子タスクを折りたたむ',
   mAutoAssignToMe: '新しいタスクを自動的に自分に設定',
   mStrikethroughCompletedTasks: '完了したタスクに取り消し線を引く',
+  mPinDetailByDefault: 'Pin detail panel by default',
   mDeveloperConsoleTitle: "開発者アプリ",
   mDeveloperConsoleIntro:
     'ご自身やチームがQuireをもっと便利に楽しめるアプリを開発しませんか。<br>'

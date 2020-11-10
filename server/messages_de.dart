@@ -989,6 +989,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mStrikethroughCompletedTasks: 'Abgeschlossene Aufgaben durchstreichen',
+  mPinDetailByDefault: 'Pin detail panel by default',
   mDeveloperConsoleTitle: "Entwickler-Apps",
   mDeveloperConsoleIntro:
     'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!<br>'

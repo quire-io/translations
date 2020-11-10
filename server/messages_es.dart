@@ -996,6 +996,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mCollapseAllSubtaskByDefault: 'Ocultar todas las subtareas de forma predeterminada',
   mAutoAssignToMe: 'Asignarme automáticamente nuevas tareas',
   mStrikethroughCompletedTasks: 'Tachar las tareas completadas',
+  mPinDetailByDefault: 'Pin detail panel by default',
   mDeveloperConsoleTitle: "Aplicaciones de desarrollo",
   mDeveloperConsoleIntro:
     '¡Crea una app que convierta Quire en una experiencia única para ti y para tu equipo!<br>'

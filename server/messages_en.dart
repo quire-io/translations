@@ -1288,6 +1288,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
+  mPinDetailByDefault: 'Pin detail panel by default',
 
   //App/API
   mDeveloperConsoleTitle: "Developer Apps",

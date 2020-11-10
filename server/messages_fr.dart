@@ -978,6 +978,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mStrikethroughCompletedTasks: 'Rayer les tâches terminées',
+  mPinDetailByDefault: 'Pin detail panel by default',
   mDeveloperConsoleTitle: "Apps développées",
   mDeveloperConsoleIntro:
     'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !<br>'
