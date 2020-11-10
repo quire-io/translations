@@ -737,7 +737,7 @@ const trClient = const <String, String> {
   mDeleteStatusTitle: "Durumu Kaldır",
   mMakeUnarchiveMsg: "Bu projeyi arşivden çıkardınız.",
   mPermissionChange: "Bu projedeki izinleriniz değiştirildi.",
-  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
+  mConfirmChangeOrganizationMemberRoleContent: "This member will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Bu üyenin bu organizasyondaki tüm görevlerdeki sorumluluğu kaldırılacak.",
   mRemoveProjectMemberContent: "Bu projede, bu üyenin [=task] görevindeki sorumluluğu kaldırılacak.",
   mRemoveProjectMemberContentPlural: "Bu üyenin bu projedeki [=task] ve diğer [=count] görevdeki sorumluluğu kaldırılacak.",

@@ -737,7 +737,7 @@ const deClient = const <String, String> {
   mDeleteStatusTitle: "Status entfernen",
   mMakeUnarchiveMsg: "Sie haben dieses Projekt aus dem Archiv geholt.",
   mPermissionChange: "Ihre Berechtigungen in diesem Projekt haben sich geändert.",
-  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
+  mConfirmChangeOrganizationMemberRoleContent: "This member will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "Dieses Mitglied wird von allen Aufgaben in dieser Organisation entbunden.",
   mRemoveProjectMemberContent: "Dieses Mitglied wird von [=task] in diesem Projekt entbunden.",
   mRemoveProjectMemberContentPlural: "Dieses Mitglied wird von [=task] und [=count] weiteren Aufgaben in diesem Projekt entbunden.",

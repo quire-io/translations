@@ -743,7 +743,7 @@ const jaClient = const <String, String> {
   mDeleteStatusTitle: "状態を消去",
   mMakeUnarchiveMsg: "このプロジェクトのアーカイブを解除しました",
   mPermissionChange: "このプロジェクトでのご自身の権限が変更されました。",
-  mConfirmChangeOrganizationMemberRoleContent: "Some members will lose their access to particular projects if you change their organization roles.",
+  mConfirmChangeOrganizationMemberRoleContent: "This member will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent: "この組織内のすべてのタスクから、このメンバーの担当を解除します。",
   mRemoveProjectMemberContent: "このプロジェクト内の[=task]から、このメンバーの担当を解除します。",
   mRemoveProjectMemberContentPlural: "このプロジェクト内の[=task]とその他[=count]件のタスクから、、このメンバーの担当を解除します。",
