@@ -995,7 +995,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mCollapseAllSubtaskByDefault: 'Varsayılan olarak tüm alt görevleri daralt',
   mAutoAssignToMe: 'Yeni görevleri otomatik olarak bana ata',
   mStrikethroughCompletedTasks: 'Tamamlanmış görevlerin üstünü çiz',
-  mPinDetailByDefault: 'Pin detail panel by default',
+  mPinDetailByDefault: 'Ayrıntı panelini varsayılan olarak sabitle',
   mDeveloperConsoleTitle: "Geliştirici Uygulamaları",
   mDeveloperConsoleIntro:
     'Quire\'i sizin ve ekibiniz için daha da iyi bir deneyim haline getiren bir uygulama oluşturun!<br>'
