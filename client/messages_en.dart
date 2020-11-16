@@ -665,6 +665,12 @@ const enClient = const <String, String> {
 
   mDatepickerTitle: "Date",
 
+  mSublistOptionPicker: '[=option] the selected tasks',
+  mSublistIncludeOption: 'Include',
+  mSublistIncludeOptionDesc: 'The selected tasks will be added to this sublist',
+  mSublistExcludeOption: 'Exclude',
+  mSublistExcludeOptionDesc: 'The selected tasks will be omitted from this sublist',
+
   mTimelineViewOptions: "Day;Week;Month;Year",
   mTimelineWeekendOptions: "Show weekends",
   mTimelineGridOptions: "Grid view",
