@@ -995,7 +995,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mCollapseAllSubtaskByDefault: 'Reduzir todas as subtarefas por padrão',
   mAutoAssignToMe: 'Atribuir automaticamente novas tarefas para mim',
   mStrikethroughCompletedTasks: 'Rasurar tarefas concluídas',
-  mPinDetailByDefault: 'Pin detail panel by default',
+  mPinDetailByDefault: 'Fixar painel de detalhes por defeito',
   mDeveloperConsoleTitle: "Apps de Desenvolvedor",
   mDeveloperConsoleIntro:
     'Crie um aplicativo que torne o Quire uma experiência ainda melhor para você e sua equipe!<br>'
