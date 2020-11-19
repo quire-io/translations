@@ -960,11 +960,12 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mSettingNotificationsDesc:
     "Aşağıdaki seçenekleri seçerek hangi bildirimleri almak istediğinizi belirleyebilirsiz. "
     "Bu ayar, bu projedeki her üye yerine yalnızca hesabınız için geçerli olacaktır.",
-  mAssignNotifications: "Bana atanan görevler",
   mCommentNotifications: "Yeni yorumlar",
   mCommentAllNotifications: "Tüm yorumlar",
   mCommentMeNotifications: "Sadece benden bahset",
   mUpdateNotifications: "Diğer tüm güncellemeler",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "Hatırlatıcı ayarlarını yönetin",
   mSendActivityNotification: "Etkinlik Bildirimi Gönder",
   mSendActivityNotificationDesc: "Almak istediğiniz bildirimleri proje ayarları bölümünden özelleştirebilirsiniz.",

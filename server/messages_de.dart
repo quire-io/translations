@@ -954,11 +954,12 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mSettingNotificationsDesc:
     "Sie können auswählen, welche Benachrichtigungen Sie erhalten möchten, indem Sie die folgenden Optionen auswählen. "
     "Diese Einstellung gilt nur für Ihr Konto und nicht für alle Mitglieder dieses Projekts.",
-  mAssignNotifications: "Mir zugewiesene Aufgaben",
   mCommentNotifications: "Neue Kommentare",
   mCommentAllNotifications: "Alle Kommentare",
   mCommentMeNotifications: "Nur mich erwähnen",
   mUpdateNotifications: "Alle anderen Updates",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "Erinnerungseinstellungen verwalten",
   mSendActivityNotification: "Aktivitätsbenachrichtungen senden",
   mSendActivityNotificationDesc: "Sie können im Abschnitt Projekteinstellungen anpassen, welche Benachrichtigungen Sie erhalten möchten.",

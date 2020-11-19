@@ -961,11 +961,12 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mSettingNotificationsDesc:
     "Puedes elegir qué notificaciones quieres recibir seleccionando las siguientes opciones. "
     "Esta configuración solo se aplicará a tu cuenta, en lugar de a todos los miembros de este proyecto.",
-  mAssignNotifications: "Tasks assigned to me",
   mCommentNotifications: "Nuevos comentarios",
   mCommentAllNotifications: "Todos los comentarios",
   mCommentMeNotifications: "Sólo los que me mencionan",
   mUpdateNotifications: "Todas las demás actualizaciones",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "Administrar ajustes de recordatorios",
   mSendActivityNotification: "Enviar Notificaciones de Actividad",
   mSendActivityNotificationDesc: "Puedes personalizar qué notificaciones quieres recibir desde la sección de ajustes del proyecto.",

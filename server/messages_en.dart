@@ -1247,11 +1247,12 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingNotificationsDesc: 
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "Tasks assigned to me",
   mCommentNotifications: "New comments",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
   mUpdateNotifications: "All other updates",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
 
   mSettingManageReminder: "Manage reminder settings",
 

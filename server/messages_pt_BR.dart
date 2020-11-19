@@ -960,11 +960,12 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
   mSettingNotificationsDesc:
     "Você pode escolher quais notificações deseja receber selecionando as seguintes opções. "
     "Esta configuração será aplicada apenas à sua conta, e não a todos os membros deste projeto.",
-  mAssignNotifications: "Tarefas atribuídas a mim",
   mCommentNotifications: "Novos comentários",
   mCommentAllNotifications: "Todos os comentários",
   mCommentMeNotifications: "Apenas me mencionam",
   mUpdateNotifications: "Todas as outras atualizações",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "Gerenciar configurações de lembrete",
   mSendActivityNotification: "Enviar Notificações de Atividade",
   mSendActivityNotificationDesc: "Você pode personalizar as notificações que deseja receber na seção de configurações do projeto.",

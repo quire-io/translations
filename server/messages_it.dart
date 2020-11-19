@@ -961,11 +961,12 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mSettingNotificationsDesc:
     "Puoi scegliere quali notifiche desideri ricevere selezionando le seguenti opzioni. "
     "Questa impostazione si applica solo al tuo account anziché a tutti i membri di questo progetto.",
-  mAssignNotifications: "Attivtà assegnate a me",
   mCommentNotifications: "Nuovi commenti",
   mCommentAllNotifications: "Tutti i commenti",
   mCommentMeNotifications: "Solo quando menzionato",
   mUpdateNotifications: "Tutti gli altri aggiornamenti",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "Gestisci le impostazioni dei promemoria",
   mSendActivityNotification: "Invia Notifiche attività",
   mSendActivityNotificationDesc: "È possibile personalizzare le notifiche che si desidera ricevere dalla sezione delle impostazioni del progetto.",

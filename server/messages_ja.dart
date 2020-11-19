@@ -961,11 +961,12 @@ Quireをご利用になったご感想をお聞かせください。
   mSettingNotificationsDesc:
     "受け取る通知の種類は、以下のオプションから選択できます。"
     "この設定はご自身のアカウントのみに適用され、このプロジェクトの他のメンバーについては適用されません。",
-  mAssignNotifications: "自分が担当のタスク",
   mCommentNotifications: "新しいコメント",
   mCommentAllNotifications: "すべてのコメント",
   mCommentMeNotifications: "自分へのメンションのみ",
   mUpdateNotifications: "その他のお知らせ",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
   mSettingManageReminder: "予定の通知を設定",
   mSendActivityNotification: "アクティビティーの通知を送信",
   mSendActivityNotificationDesc: "受け取る通知の種類は、プロジェクトの設定から変更できます。",
