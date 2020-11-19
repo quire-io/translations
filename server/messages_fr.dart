@@ -956,7 +956,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mReceiveBlogPosts: "Nouveaux posts de blog",
   mReceivePolicyUpdates: "Mises à jour à propos du compte Quire et des politiques",
   mReceiveFeatureUpdates: "Mises à jour à propos du produit et des publications de fonctionnalités",
-  mReceiveSurvey: "Recevoir les sondages Quire",
+  mReceiveSurvey: "Recevoir les sondages de Quire",
   mReminders: "Rappels des tâches",
   mRemindAdvance: "Rappeler les tâches à venir",
   m12hrBefore: "12 h avant",
@@ -979,7 +979,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mCollapseAllSubtaskByDefault: 'Réduire toutes les sous-tâches par défaut',
   mAutoAssignToMe: 'Attribuer automatiquement les nouvelles tâches à moi-même',
   mStrikethroughCompletedTasks: 'Rayer les tâches terminées',
-  mPinDetailByDefault: 'Pin detail panel by default',
+  mPinDetailByDefault: 'Épingler le panneau des détails par défaut',
   mDeveloperConsoleTitle: "Apps développées",
   mDeveloperConsoleIntro:
     'Développez une application qui rendra Quire encore meilleur, pour vous et votre équipe !<br>'
