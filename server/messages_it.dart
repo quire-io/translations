@@ -903,7 +903,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
     'C\'è stato un\' errore nel collegamento dei tuoi account, si prega di ritentare. '
     'Se l\' errore persiste, si prega di <a href="mailto:support@quire.io">contattarci</a>.',
   mCalendarSyncDesc: "Seleziona che tipo di attività vuoi sincronizzare.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
+  mCalendarSyncSetting: "[=tasks] <span>in</span> [=where]",
   mBoardIntroduce: 'Puoi gestire le attività visivamente in una o più bacheche. Guarda <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">qui</a> per maggiori informazioni.',
   mSettingPictureLabel: "Immagine",
   mOrganizationProfile: "Profilo dell\' Organizzazione",

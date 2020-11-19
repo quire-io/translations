@@ -902,7 +902,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
     'Hesabınız bağlanırken bir hata oluştu, lütfen tekrar deneyin. '
     'Hata devam ederse, <a href="mailto:support@quire.io">bizimle iletişime</a> geçmekten çekinmeyin.',
   mCalendarSyncDesc: "Ne tür görevleri senkronize etmek istediğinizi seçin.",
-  mCalendarSyncSetting: "[=where] içindeki [=tasks]",
+  mCalendarSyncSetting: "[=where] <span>içindeki</span> [=tasks]",
   mBoardIntroduce: 'Görevlerinizi görsel olarak bir veya daha fazla panoda yönetebilirsiniz. <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">Daha fazlası</a> için buraya bakın.',
   mSettingPictureLabel: "Resim",
   mOrganizationProfile: "Organizasyon Profili",

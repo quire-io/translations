@@ -902,7 +902,7 @@ Você não poderá publicar o aplicativo novamente até [=days] dias depois.</p>
     'Ocorreu um erro ao vincular sua conta, por favor, tente novamente. '
     'Se o erro persistir, sinta-se à vontade para <a href="mailto:support@quire.io">entrar em contato</a>.',
   mCalendarSyncDesc: "Selecione que tipo de tarefas você deseja sincronizar.",
-  mCalendarSyncSetting: "[=tasks] em [=where]",
+  mCalendarSyncSetting: "[=tasks] <span>em</span> [=where]",
   mBoardIntroduce: 'Você pode gerenciar suas tarefas visualmente em um quadro. Consulte <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">aqui</a> para mais informação.',
   mSettingPictureLabel: "Imagem",
   mOrganizationProfile: "Perfil da Organização",

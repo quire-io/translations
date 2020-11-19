@@ -903,7 +903,7 @@ Quireをご利用になったご感想をお聞かせください。
     'アカウントのリンク中に、エラーが発生しました。再度お試しください。'
     'エラーが解消しない場合は、お気軽に<a href="mailto:support@quire.io">お問い合わせ</a>ください。',
   mCalendarSyncDesc: "同期するタスクを選んでください。",
-  mCalendarSyncSetting: "[=where]の[=tasks]",
+  mCalendarSyncSetting: "[=where]<span>の</span>[=tasks]",
   mBoardIntroduce: 'ボードでタスクを可視化して管理できます。詳しくは<a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">ここをクリック</a>してください。',
   mSettingPictureLabel: "画像",
   mOrganizationProfile: "組織のプロフィール",

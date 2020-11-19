@@ -885,7 +885,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
     'Une erreur s\'est produite lors de la liaison de votre compte, veuillez réessayer. '
     'Si le problème persiste, n\'hésitez pas à <a href="mailto:support@quire.io">nous contacter</a>.',
   mCalendarSyncDesc: "Sélectionnez le type de tâche que vous voulez synchroniser.",
-  mCalendarSyncSetting: "[=tasks] dans [=where]",
+  mCalendarSyncSetting: "[=tasks] <span>dans</span> [=where]",
   mBoardIntroduce: 'Vous pouvez gérer vos tâches visuellement dans un ou plusieurs tableaux. Allez voir <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">ici</a> pour en savoir plus.',
   mSettingPictureLabel: "Image",
   mOrganizationProfile: "Profil de l'organisation",

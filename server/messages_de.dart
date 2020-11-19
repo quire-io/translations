@@ -896,7 +896,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
     'Beim Verknüpfen Ihres Kontos ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut. '
     'Wenn der Fehler weiterhin auftritt, <a href="mailto:support@quire.io">kontaktieren Sie uns bitte</a>.',
   mCalendarSyncDesc: "Wählen Sie aus, welche Art Aufgaben Sie synchronisieren möchten.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
+  mCalendarSyncSetting: "[=tasks] <span>in</span> [=where]",
   mBoardIntroduce: 'Sie können Ihre Aufgaben visuell in einem Board verwalten. Mehr dazu <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">hier</a>.',
   mSettingPictureLabel: "Foto",
   mOrganizationProfile: "Organisationsprofil",
