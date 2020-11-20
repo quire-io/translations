@@ -748,7 +748,10 @@ const enClient = const <String, String> {
   "UDS$udtDesc": "Edited the description of [=task]",
   "UDP$udtDesc": "Edited the descriptions of [=task] and others",
 
-  mMutipleSelectTask: "Selected <b>[=amount]</b> tasks",
+  mAmountTask: "[=amount] task",
+  mAmountTaskPlural: "[=amount] tasks",
+  mMutipleSelectTask: "Selected <b>[=amount]</b> task",
+  mMutipleSelectTaskPlural: "Selected <b>[=amount]</b> tasks",
   mShowMutipleSelectTaskTooltip: "Show selected tasks",
   mHideMutipleSelectTaskTooltip: "Hide selected tasks",
 
