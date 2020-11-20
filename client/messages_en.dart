@@ -767,7 +767,7 @@ const enClient = const <String, String> {
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
   mNewTaskNameHint3: "Press Esc or Enter to stop adding tasks",
 
-  mSearchIconTooltip: "Search tasks",
+  mSearchIconTooltip: "Search tasks <code>s</code>",
   mSearchTaskHintIncomplete: "Search incomplete tasks",
   mSearchTaskHintAll: "Search all tasks",
   mSearchTaskHintComplete: "Search completed tasks",
@@ -1243,7 +1243,6 @@ const enClient = const <String, String> {
 
   mSearchProjectHint: "search",
   mSearchMustChar: "Type 3 or more characters or press Enter to search",
-  mSearchOption: "Search Scope",
 
   mGroupDropStateToComplete: "Drop tasks here to complete",
   mGroupDropStateToStart: "Drop tasks here to start",
