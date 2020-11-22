@@ -781,6 +781,7 @@ Quireをご利用になったご感想をお聞かせください。
   mKeyAddTag: 'タグを追加',
   mKeyAddComment: 'コメントを追加',
   mKeyOpenUndoList: '元に戻す操作を一覧',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'タスクを印刷',
   mKeyDrillDown: '選択したタスクをズームインまたはズームアウト',
   mKeyQuote: '選択した文章を返信に引用',

@@ -781,6 +781,7 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mKeyAddTag: 'Adicionar tag',
   mKeyAddComment: 'Adicionar comentário',
   mKeyOpenUndoList: 'Abrir lista de operações desfazer',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Imprimir tarefas',
   mKeyDrillDown: 'Aumentar ou diminuir zoom da tarefa selecionada',
   mKeyQuote: 'Citar o texto selecionado na sua resposta',

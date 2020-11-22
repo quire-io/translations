@@ -763,6 +763,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mKeyAddTag: 'Ajouter une étiquette',
   mKeyAddComment: 'Ajouter un commentaire',
   mKeyOpenUndoList: 'Ouvrir la liste d\'annulation des actions',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Imprimer les tâches',
   mKeyDrillDown: 'Zoomer ou dézoomer sur les tâches sélectionnées',
   mKeyQuote: 'Citer le texte sélectionné dans votre réponse',

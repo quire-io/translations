@@ -452,7 +452,7 @@ const enClient = const <String, String> {
   mTreeBatchPriorityTooltip: "Priority",
   mTreeBatchDeleteTooltip: "Delete",
   
-  mSidebarOpenTooltip: "Open sidebar",
+  mSidebarOpenTooltip: "Open sidebar <code>[=ctrlCommand]</code>+<code>S</code>",
   mSidebarPinTooltip: "Pin sidebar",
   mSidebarHideTooltip: "Hide sidebar",
   mSidebarAddScopeTooltip: "Add projects, organizations, etc.",
@@ -460,7 +460,7 @@ const enClient = const <String, String> {
   mSidebarAddFavTooltip: "Add to bookmarks",
   mSidebarRMFavTooltip: "Remove from bookmarks",
   mRemoveRecent: "Remove from Recent",
-  mSidebarSearchForPrj: "Search projects, organizations, members. ([=ctrlCommand]+B)",
+  mBlinkSearchTooltip: "Search projects, organizations, members. <code>[=ctrlCommand]</code>+<code>B</code>",
   
   mBlinkSearchHint: "Blink Search",
 

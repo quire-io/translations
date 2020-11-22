@@ -774,6 +774,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyAddTag: 'Tag hinzufügen',
   mKeyAddComment: 'Kommentar hinzufügen',
   mKeyOpenUndoList: 'Liste zum Rückgängigmachen von Aktionen anzeigen',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Aufgaben drucken',
   mKeyDrillDown: 'In ausgewählte Aufgabe hinein oder heraus zoomen',
   mKeyQuote: 'Ausgewählten Text zitieren',
@@ -990,7 +991,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mCollapseAllSubtaskByDefault: 'Alle Unteraufgaben standardmäßig einklappen',
   mAutoAssignToMe: 'Neue Aufgaben automatisch mir zuweisen',
   mStrikethroughCompletedTasks: 'Abgeschlossene Aufgaben durchstreichen',
-  mPinDetailByDefault: 'Pin detail panel by default',
+  mPinDetailByDefault: 'Detailansicht standardmäßg anheften',
   mDeveloperConsoleTitle: "Entwickler-Apps",
   mDeveloperConsoleIntro:
     'Erstellen Sie eine App, die Quire für Sie und Ihr Team noch besser macht!<br>'

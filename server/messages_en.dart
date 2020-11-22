@@ -1021,6 +1021,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyAddTag: 'Add tag',
   mKeyAddComment: 'Add comment',
   mKeyOpenUndoList: 'Open undo operation list',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Print tasks',
   mKeyDrillDown: 'Zoom in or out selected task',
   mKeyQuote: 'Quote selected text in your reply',

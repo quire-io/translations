@@ -781,6 +781,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mKeyAddTag: 'Añade una etiqueta',
   mKeyAddComment: 'Añade un comentario',
   mKeyOpenUndoList: 'Abre la lista de operaciones a deshacer',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Imprime las tareas',
   mKeyDrillDown: 'Acerca o aleja el zoom de las tareas seleccionadas',
   mKeyQuote: 'Cita el texto seleccionado en tu respuesta',

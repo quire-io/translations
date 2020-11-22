@@ -780,6 +780,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mKeyAddTag: 'Etiket ekle',
   mKeyAddComment: 'Yorum ekle',
   mKeyOpenUndoList: 'Geri alma işlem listesini aç',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Yazdırma görevleri',
   mKeyDrillDown: 'Seçilen görevi yakınlaştırma veya uzaklaştırma',
   mKeyQuote: 'Cevabınızda seçilen metni alıntılayın',

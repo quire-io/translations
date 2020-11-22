@@ -781,6 +781,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mKeyAddTag: 'Aggiungi Etichetta',
   mKeyAddComment: 'Aggiungi commento',
   mKeyOpenUndoList: 'Apri elenco delle operazioni di annullamento',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Stampa attività',
   mKeyDrillDown: 'Zoom in o out l\' attività selezionata',
   mKeyQuote: 'Quota il testo selezionato nella tua risposta',
