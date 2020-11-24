@@ -881,6 +881,11 @@ const enClient = const <String, String> {
   mProjectN: "Project [=n]",//e.g. Project 1, Project 2, ....
   mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
 
+  mExportCSVOptionTitle: 'CSV Export Options',
+  mExportCSVOptionMergeValueTitle: 'Values',
+  mExportCSVOptionMergeValueDesc: 'Merge all values of the same headers into one column',
+  mExportCSVOptionMergeValueEx: 'Example: All values for tags will be put in the same column',
+
 
   mCreateOrganization: "Create organization",
   mCreateProject: "Create project",
