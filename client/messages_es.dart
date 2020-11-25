@@ -91,6 +91,7 @@ const esClient = const <String, String> {
   mCantDeleteNonemptyState: "No puedes eliminar una columna que contiene tareas existentes.",
   mCantSetAssigneeInName: "No tienes permiso para establecer un asignado.",
   mCantSetDuePriorityInName: "No tienes permiso para establecer la fecha o la prioridad.",
+  mWorkspace: 'Workspace',
   mProject: "Proyecto",
   mProjectLot: "Carpeta Inteligente",
   mTask: "Tarea",

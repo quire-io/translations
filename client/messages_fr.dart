@@ -91,6 +91,7 @@ const frClient = const <String, String> {
   mCantDeleteNonemptyState: "Vous ne pouvez pas supprimer une colonne qui contient des tâches existantes.",
   mCantSetAssigneeInName: "Vous n'avez pas l'autorisation de définir une attribution.",
   mCantSetDuePriorityInName: "Vous n'avez pas l'autorisation de définir une date ou une priorité.",
+  mWorkspace: 'Workspace',
   mProject: "Projet",
   mProjectLot: "Dossier Intelligent",
   mTask: "Tâche",

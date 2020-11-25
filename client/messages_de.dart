@@ -85,6 +85,7 @@ const deClient = const <String, String> {
   mCantDeleteNonemptyState: "Sie können keine Spalte entfernen, die Aufgaben enthält.",
   mCantSetAssigneeInName: "Sie haben nicht die Berechtigung, diese Aufgabe einer Person zuzuweisen.",
   mCantSetDuePriorityInName: "Sie haben nicht die Berechtigung, um Datum oder Priorität zu ändern.",
+  mWorkspace: 'Workspace',
   mProject: "Projekt",
   mProjectLot: "Smarter Ordner",
   mTask: "Aufgaben",

@@ -91,6 +91,7 @@ const ruClient = const <String, String> {
   mCantDeleteNonemptyState: "Вы не можете удалить столбец, содержащий задачи.",
   mCantSetAssigneeInName: "У вас нет разрешения на назначение исполнителей.",
   mCantSetDuePriorityInName: "У вас нет разрешения на установку даты или приоритета.",
+  mWorkspace: 'Workspace',
   mProject: "Проект",
   mProjectLot: "Умная папка",
   mTask: "Задача",

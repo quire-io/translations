@@ -85,6 +85,7 @@ const trClient = const <String, String> {
   mCantDeleteNonemptyState: "Varolan görevleri içeren bir sütunu kaldıramazsınız.",
   mCantSetAssigneeInName: "Sorumlu eklemek için yetkiniz yok.",
   mCantSetDuePriorityInName: "Tarih ya da öncelik eklemek için izniniz yok.",
+  mWorkspace: 'Workspace',
   mProject: "Proje",
   mProjectLot: "Akıllı Klasör",
   mTask: "Görev",

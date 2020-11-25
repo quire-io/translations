@@ -96,6 +96,7 @@ const ptBrClient = const <String, String> {
   mCantDeleteNonemptyState: "Você não pode remover uma coluna que contém tarefas existentes.",
   mCantSetAssigneeInName: "Você não tem permissão para definir o responsável.",
   mCantSetDuePriorityInName: "Você não tem permissão para definir data ou prioridade.",
+  mWorkspace: 'Workspace',
   mProject: "Projeto",
   mProjectLot: "Pasta Inteligente",
   mTask: "Tarefa",

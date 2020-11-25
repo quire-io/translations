@@ -96,6 +96,7 @@ const ptClient = const <String, String> {
   mCantDeleteNonemptyState: "Não pode remover uma coluna que contenha tarefas existentes.",
   mCantSetAssigneeInName: "Não tem permissão para definir o colaborador.",
   mCantSetDuePriorityInName: "Não tem permissão para definir data ou prioridade.",
+  mWorkspace: 'Workspace',
   mProject: "Projeto",
   mProjectLot: "Pasta Inteligente",
   mTask: "Tarefa",

@@ -91,6 +91,7 @@ const jaClient = const <String, String> {
   mCantDeleteNonemptyState: "タスクがある欄は消去できません。",
   mCantSetAssigneeInName: "担当者を設定する権限がありません。",
   mCantSetDuePriorityInName: "日付または優先度を設定する権限がありません。",
+  mWorkspace: 'Workspace',
   mProject: "プロジェクト",
   mProjectLot: "スマートフォルダー",
   mTask: "Task",

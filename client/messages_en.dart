@@ -137,6 +137,7 @@ const enClient = const <String, String> {
   mCantSetDuePriorityInName:
     "You do not have the permission to set date or priority.",
 
+  mWorkspace: 'Workspace',
   mProject: "Project",
   mProjectLot: "Smart Folder",
   mTask: "Task",

@@ -91,6 +91,7 @@ const itClient = const <String, String> {
   mCantDeleteNonemptyState: "Non puoi rimuovere una colonna che contiene attività esistenti.",
   mCantSetAssigneeInName: "Non hai i permessi per cambiare assegnatario.",
   mCantSetDuePriorityInName: "Non hai i permessi per cambiare data o priorità.",
+  mWorkspace: 'Workspace',
   mProject: "Progetto",
   mProjectLot: "Cartella intelligente",
   mTask: "Attività",
