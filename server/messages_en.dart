@@ -22,15 +22,15 @@ const enServer = const <String, String> {
   mProjectLower: "project",
   mOrganizationLower: "organization",
 
-  mSidebarTitleMyTasks: "MY TASKS",//for mobile
-  mSidebarCrossProjects: "SMART FOLDERS",
-  mSidebarProjects: "PROJECTS",
-  mSidebarFav: "BOOKMARKS",
-  mSidebarRec: "RECENT",
+  mSidebarMyTasksUpper: "MY TASKS",//for mobile
+  mSidebarSmartFolderUpper: "SMART FOLDERS",
+  mSidebarProjectsUpper: "PROJECTS",
+  mSidebarBookmarksUpper: "BOOKMARKS",
+  mSidbarRecentUpper: "RECENT",
   mSidebarArchive: "Archived",
   mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Trash',
-  mSidebarMembers: "MEMBERS",
+  mSidebarMembersUpper: "MEMBERS",
   mAppCategoriesUpper: 'CATEGORIES',
   mAppCategory: 'Category',
 
