@@ -267,8 +267,8 @@ const enClient = const <String, String> {
   mTheme: "Theme",
   mSettings: "Settings",
   mDefault: "Default",
-  mOptional: "optional",
-  mOptionalU: "Optional",
+  mOptionalLower: "optional",
+  mOptional: "Optional",
   mSearch: "Search",
   mNote: "Note",
   mAttachment: "Attachment",
@@ -283,8 +283,8 @@ const enClient = const <String, String> {
   mDuplicatedName: 'This name is already taken',
   mDuplicatedValue: 'This value is already taken',
 
-  mPreviewU: "PREVIEW",
-  mWriteU: "WRITE",
+  mPreviewUpper: "PREVIEW",
+  mWriteUpper: "WRITE",
   mPreview: "Preview",
 
   mDatePrep: " on",

@@ -19,8 +19,8 @@ const enServer = const <String, String> {
     "Sorry, the system is busy. Please try again. "
     'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
 
-  mProjectLC: "project",
-  mOrganizationLC: "organization",
+  mProjectLower: "project",
+  mOrganizationLower: "organization",
 
   mSidebarTitleMyTasks: "MY TASKS",//for mobile
   mSidebarCrossProjects: "SMART FOLDERS",
@@ -31,7 +31,7 @@ const enServer = const <String, String> {
   mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Trash',
   mSidebarMembers: "MEMBERS",
-  mAppCategoriesU: 'CATEGORIES',
+  mAppCategoriesUpper: 'CATEGORIES',
   mAppCategory: 'Category',
 
   mSidebarResetOrder: "Reset to default order",
@@ -82,11 +82,11 @@ const enServer = const <String, String> {
   mGetAndroid: "Get Android App",
   mGetChromeExtension: "Get Chrome Extension",
 
-  mLoginU: "LOG IN",
-  mTourU: "TOUR",
-  mTutorialU: "TUTORIAL",
-  mFeedbackU: "FEEDBACK",
-  mDocumentationU: "DOCUMENTATION",
+  mLoginUpper: "LOG IN",
+  mTourUpper: "TOUR",
+  mTutorialUpper: "TUTORIAL",
+  mFeedbackUpper: "FEEDBACK",
+  mDocumentationUpper: "DOCUMENTATION",
 
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
