@@ -24,7 +24,7 @@ const esServer = const <String, String> {
   mOrganizationLower: "organización",
   mSidebarMyTasksUpper: "MIS TAREAS",
   mSidebarSmartFolderUpper: "CARPETAS INTELIGENTES",
-  mSidebarProjectsUpper: "PROYECTOS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "MARCADORES",
   mSidbarRecentUpper: "RECIENTES",
   mSidebarArchive: "Archivados",

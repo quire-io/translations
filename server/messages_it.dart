@@ -24,7 +24,7 @@ const itServer = const <String, String> {
   mOrganizationLower: "organizzazione",
   mSidebarMyTasksUpper: "LE MIE ATTIVITA'",
   mSidebarSmartFolderUpper: "CARTELLE INTELLIGENTI",
-  mSidebarProjectsUpper: "PROGETTI",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "PREFERITI",
   mSidbarRecentUpper: "RECENTI",
   mSidebarArchive: "Archiviati",

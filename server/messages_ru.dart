@@ -24,7 +24,7 @@ const ruServer = const <String, String> {
   mOrganizationLower: "organization",
   mSidebarMyTasksUpper: "MY TASKS",
   mSidebarSmartFolderUpper: "SMART FOLDERS",
-  mSidebarProjectsUpper: "PROJECTS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "BOOKMARKS",
   mSidbarRecentUpper: "RECENT",
   mSidebarArchive: "Archived",

@@ -24,7 +24,7 @@ const jaServer = const <String, String> {
   mOrganizationLower: "組織",
   mSidebarMyTasksUpper: "自分のタスク",
   mSidebarSmartFolderUpper: "スマートフォルダー",
-  mSidebarProjectsUpper: "プロジェクト",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "ブックマーク",
   mSidbarRecentUpper: "閲覧履歴",
   mSidebarArchive: "アーカイブ",

@@ -24,7 +24,7 @@ const ptBrServer = const <String, String> {
   mOrganizationLower: "organização",
   mSidebarMyTasksUpper: "AS MINHAS TAREFAS",
   mSidebarSmartFolderUpper: "PASTAS INTELIGENTES",
-  mSidebarProjectsUpper: "PROJETOS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "FAVORITOS",
   mSidbarRecentUpper: "RECENTE",
   mSidebarArchive: "Arquivado",

@@ -24,7 +24,7 @@ const trServer = const <String, String> {
   mOrganizationLower: "organizasyon",
   mSidebarMyTasksUpper: "GÖREVLERİM",
   mSidebarSmartFolderUpper: "AKILLI KLASÖRLER",
-  mSidebarProjectsUpper: "PROJELER",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "YER İMLERİ",
   mSidbarRecentUpper: "GÜNCEL",
   mSidebarArchive: "Arşiv",

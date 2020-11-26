@@ -24,7 +24,7 @@ const frServer = const <String, String> {
   mOrganizationLower: "organisation",
   mSidebarMyTasksUpper: "MES TÂCHES",
   mSidebarSmartFolderUpper: "DOSSIERS INTELLIGENTS",
-  mSidebarProjectsUpper: "PROJETS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "SIGNETS",
   mSidbarRecentUpper: "RÉCENT",
   mSidebarArchive: "Archivé",

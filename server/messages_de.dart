@@ -24,7 +24,7 @@ const deServer = const <String, String> {
   mOrganizationLower: "Organisation",
   mSidebarMyTasksUpper: "MEINE AUFGABEN",
   mSidebarSmartFolderUpper: "SMARTE ORDNER",
-  mSidebarProjectsUpper: "PROJEKTE",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "FAVORITEN",
   mSidbarRecentUpper: "ZULETZT BEARBEITET",
   mSidebarArchive: "Archiviert",

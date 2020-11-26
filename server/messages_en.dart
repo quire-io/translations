@@ -24,7 +24,7 @@ const enServer = const <String, String> {
 
   mSidebarMyTasksUpper: "MY TASKS",//for mobile
   mSidebarSmartFolderUpper: "SMART FOLDERS",
-  mSidebarProjectsUpper: "PROJECTS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
   mSidebarBookmarksUpper: "BOOKMARKS",
   mSidbarRecentUpper: "RECENT",
   mSidebarArchive: "Archived",
