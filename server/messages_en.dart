@@ -19,19 +19,19 @@ const enServer = const <String, String> {
     "Sorry, the system is busy. Please try again. "
     'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
 
-  mProjectLC: "project",
-  mOrganizationLC: "organization",
+  mProjectLower: "project",
+  mOrganizationLower: "organization",
 
-  mSidebarTitleMyTasks: "MY TASKS",//for mobile
-  mSidebarCrossProjects: "SMART FOLDERS",
-  mSidebarProjects: "PROJECTS",
-  mSidebarFav: "BOOKMARKS",
-  mSidebarRec: "RECENT",
+  mSidebarMyTasksUpper: "MY TASKS",//for mobile
+  mSidebarSmartFolderUpper: "SMART FOLDERS",
+  mSidebarWorkspaceUpper: "WORKSPACE",
+  mSidebarBookmarksUpper: "BOOKMARKS",
+  mSidbarRecentUpper: "RECENT",
   mSidebarArchive: "Archived",
   mSidebarHidden: 'Hidden',
   mSidebarRecycleBin: 'Trash',
-  mSidebarMembers: "MEMBERS",
-  mAppCategoriesU: 'CATEGORIES',
+  mSidebarMembersUpper: "MEMBERS",
+  mAppCategoriesUpper: 'CATEGORIES',
   mAppCategory: 'Category',
 
   mSidebarResetOrder: "Reset to default order",
@@ -82,11 +82,11 @@ const enServer = const <String, String> {
   mGetAndroid: "Get Android App",
   mGetChromeExtension: "Get Chrome Extension",
 
-  mLoginU: "LOG IN",
-  mTourU: "TOUR",
-  mTutorialU: "TUTORIAL",
-  mFeedbackU: "FEEDBACK",
-  mDocumentationU: "DOCUMENTATION",
+  mLoginUpper: "LOG IN",
+  mTourUpper: "TOUR",
+  mTutorialUpper: "TUTORIAL",
+  mFeedbackUpper: "FEEDBACK",
+  mDocumentationUpper: "DOCUMENTATION",
 
   mFooterLinkCategoryQuire: "Quire",
   mFooterLinkHome: "Home",
@@ -1021,6 +1021,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyAddTag: 'Add tag',
   mKeyAddComment: 'Add comment',
   mKeyOpenUndoList: 'Open undo operation list',
+  mKeyOpenSidebar: "Open or hide sidebar",
   mKeyPrint: 'Print tasks',
   mKeyDrillDown: 'Zoom in or out selected task',
   mKeyQuote: 'Quote selected text in your reply',
@@ -1169,7 +1170,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
 
   mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
+  mCalendarSyncSetting: "[=tasks] <span>in</span> [=where]",
 
   mBoardIntroduce: 'You can manage your tasks visually in one or more boards. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
 
@@ -1247,11 +1248,12 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mSettingNotificationsDesc: 
     "You can choose which notifications that you want to receive by selecting these following options. "
     "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "Tasks assigned to me",
   mCommentNotifications: "New comments",
   mCommentAllNotifications: "All comments",
   mCommentMeNotifications: "Mention me only",
   mUpdateNotifications: "All other updates",
+  mUpdateAllNotifications: "All tasks",
+  mUpdateMeNotifications: "Assigned to me only",
 
   mSettingManageReminder: "Manage reminder settings",
 
@@ -1288,6 +1290,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
   mAutoAssignToMe: 'Automatically assign new tasks to myself',
   mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
+  mPinDetailByDefault: 'Pin detail panel by default',
 
   //App/API
   mDeveloperConsoleTitle: "Developer Apps",

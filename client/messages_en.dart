@@ -137,6 +137,7 @@ const enClient = const <String, String> {
   mCantSetDuePriorityInName:
     "You do not have the permission to set date or priority.",
 
+  mWorkspace: 'Workspace',
   mProject: "Project",
   mProjectLot: "Smart Folder",
   mTask: "Task",
@@ -206,6 +207,7 @@ const enClient = const <String, String> {
   mAdd: "Add",
   mRemove: "Remove",
   mHide: "Hide",
+  mShow: "Show",
   mReshow: "Reshow",
   mSave: "Save",
   mSaved: "Saved",
@@ -265,8 +267,8 @@ const enClient = const <String, String> {
   mTheme: "Theme",
   mSettings: "Settings",
   mDefault: "Default",
-  mOptional: "optional",
-  mOptionalU: "Optional",
+  mOptionalLower: "optional",
+  mOptional: "Optional",
   mSearch: "Search",
   mNote: "Note",
   mAttachment: "Attachment",
@@ -281,8 +283,8 @@ const enClient = const <String, String> {
   mDuplicatedName: 'This name is already taken',
   mDuplicatedValue: 'This value is already taken',
 
-  mPreviewU: "PREVIEW",
-  mWriteU: "WRITE",
+  mPreviewUpper: "PREVIEW",
+  mWriteUpper: "WRITE",
   mPreview: "Preview",
 
   mDatePrep: " on",
@@ -451,7 +453,7 @@ const enClient = const <String, String> {
   mTreeBatchPriorityTooltip: "Priority",
   mTreeBatchDeleteTooltip: "Delete",
   
-  mSidebarOpenTooltip: "Open sidebar",
+  mSidebarOpenTooltip: "Open sidebar <code>[=ctrlCommand]</code>+<code>S</code>",
   mSidebarPinTooltip: "Pin sidebar",
   mSidebarHideTooltip: "Hide sidebar",
   mSidebarAddScopeTooltip: "Add projects, organizations, etc.",
@@ -459,7 +461,7 @@ const enClient = const <String, String> {
   mSidebarAddFavTooltip: "Add to bookmarks",
   mSidebarRMFavTooltip: "Remove from bookmarks",
   mRemoveRecent: "Remove from Recent",
-  mSidebarSearchForPrj: "Search projects, organizations, members. ([=ctrlCommand]+B)",
+  mBlinkSearchTooltip: "Search projects, organizations, members. <code>[=ctrlCommand]</code>+<code>B</code>",
   
   mBlinkSearchHint: "Blink Search",
 
@@ -664,6 +666,12 @@ const enClient = const <String, String> {
 
   mDatepickerTitle: "Date",
 
+  mSublistOptionPicker: '[=option] the selected tasks',
+  mSublistIncludeOption: 'Include',
+  mSublistIncludeOptionDesc: 'The selected tasks will be added to this sublist',
+  mSublistExcludeOption: 'Exclude',
+  mSublistExcludeOptionDesc: 'The selected tasks will be omitted from this sublist',
+
   mTimelineViewOptions: "Day;Week;Month;Year",
   mTimelineWeekendOptions: "Show weekends",
   mTimelineGridOptions: "Grid view",
@@ -741,7 +749,10 @@ const enClient = const <String, String> {
   "UDS$udtDesc": "Edited the description of [=task]",
   "UDP$udtDesc": "Edited the descriptions of [=task] and others",
 
-  mMutipleSelectTask: "Selected <b>[=amount]</b> tasks",
+  mAmountTask: "[=amount] task",
+  mAmountTaskPlural: "[=amount] tasks",
+  mMutipleSelectTask: "Selected <b>[=amount]</b> task",
+  mMutipleSelectTaskPlural: "Selected <b>[=amount]</b> tasks",
   mShowMutipleSelectTaskTooltip: "Show selected tasks",
   mHideMutipleSelectTaskTooltip: "Hide selected tasks",
 
@@ -757,7 +768,7 @@ const enClient = const <String, String> {
   mNewTaskNameHint2: "Press Tab and Shift+Tab to move task horizontally",
   mNewTaskNameHint3: "Press Esc or Enter to stop adding tasks",
 
-  mSearchIconTooltip: "Search tasks",
+  mSearchIconTooltip: "Search tasks <code>s</code>",
   mSearchTaskHintIncomplete: "Search incomplete tasks",
   mSearchTaskHintAll: "Search all tasks",
   mSearchTaskHintComplete: "Search completed tasks",
@@ -871,6 +882,11 @@ const enClient = const <String, String> {
   mProjectN: "Project [=n]",//e.g. Project 1, Project 2, ....
   mAddSmartFolderTip: "A smart folder is a virtual folder of projects from different organizations.",
 
+  mExportCSVOptionTitle: 'CSV Export Options',
+  mExportCSVOptionMergeValueTitle: 'Values',
+  mExportCSVOptionMergeValueDesc: 'Merge all values of the same headers into one column',
+  mExportCSVOptionMergeValueEx: 'Example: All values for tags will be put in the same column',
+
 
   mCreateOrganization: "Create organization",
   mCreateProject: "Create project",
@@ -920,6 +936,8 @@ const enClient = const <String, String> {
   mPermissionChange:
     "Your permissions in this project have been changed.",
 
+  mConfirmChangeOrganizationMemberRoleContent:
+    "This member will lose their access to particular projects if you change their organization roles.",
   mRemoveOrganizationMemberContent:
     "This member will be unassigned from all tasks in this organization.",
   mRemoveProjectMemberContent:
@@ -1231,7 +1249,6 @@ const enClient = const <String, String> {
 
   mSearchProjectHint: "search",
   mSearchMustChar: "Type 3 or more characters or press Enter to search",
-  mSearchOption: "Search Scope",
 
   mGroupDropStateToComplete: "Drop tasks here to complete",
   mGroupDropStateToStart: "Drop tasks here to start",
