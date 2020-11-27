@@ -15,568 +15,569 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const ruServer = const <String, String> {
-  mSubmit: "Submit",
-  mClear: "Clear",
+  mSubmit: "Отправить",
+  mClear: "Очистить",
   mSystemBusy:
-    "Sorry, the system is busy. Please try again. "
-    'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
-  mProjectLC: "project",
-  mOrganizationLC: "organization",
-  mSidebarTitleMyTasks: "MY TASKS",
-  mSidebarCrossProjects: "SMART FOLDERS",
-  mSidebarProjects: "PROJECTS",
-  mSidebarFav: "BOOKMARKS",
-  mSidebarRec: "RECENT",
-  mSidebarArchive: "Archived",
-  mSidebarHidden: 'Hidden',
-  mSidebarRecycleBin: 'Trash',
-  mSidebarMembers: "MEMBERS",
-  mAppCategoriesU: 'CATEGORIES',
-  mAppCategory: 'Category',
-  mSidebarResetOrder: "Reset to default order",
-  mSignup: "Sign up",
-  mLogin: "Log in",
-  mLogout: "Log out",
-  mEmail: "Email",
-  mLanguage: "Language",
-  mLanguageAuto: "(auto)",
-  mFirstDayOfWeek: 'First day of week',
-  m24hourTime: 'Time',
-  m24hourTimeDesc: 'Enable 24-Hour time',
-  mAllow: "Allow",
-  mDeny: "Deny",
-  mConfirmPassword: "Confirm your password",
-  mNewPassword: "New",
-  mConfirmSignupPassword: "New Password",
-  mCurrentPassword: "Current",
-  mChangePassword: "Change password",
-  mRememberME: "Remember Me",
-  mConfirm: "Confirm",
-  mLoginFailed: "Please enter a valid email and password, or <a href='/signup'>sign&nbsp;up</a> first.",
-  mNotYet: "Not yet",
-  mNotComfirmedYet: "Not confirmed yet",
-  mGOWS: "Continue to my project",
-  mReturnWS: "Return to my project",
-  mTryAgain: "Try again",
-  mSignupAt: "Joined",
-  mCreatedAt: "Created",
-  mTour: "Tour",
-  mFeatures: "Features",
-  mBlog: "Blog",
-  mAbout: "About",
-  mAboutQuire: "About Quire",
-  mGetStarted: "GET STARTED",
-  mSignupForFree: "GET STARTED - It's FREE!",
-  mPrivacyPolicy: "Privacy Policy",
-  mTerms: "Terms",
-  mTermsOFService: "Terms of Service",
-  mFaq: "FAQ",
-  mPricing: "Pricing",
-  mGetIphone: "Get iPhone App",
-  mGetAndroid: "Get Android App",
-  mGetChromeExtension: "Get Chrome Extension",
-  mLoginU: "LOG IN",
-  mTourU: "TOUR",
-  mTutorialU: "TUTORIAL",
-  mFeedbackU: "FEEDBACK",
-  mDocumentationU: "DOCUMENTATION",
+    "Извините, система занята. Пожалуйста, попробуйте еще раз."
+    'Если проблема не исчезнет, ​​пожалуйста <a href="/feedback">свяжитесь с нами</a>. Спасибо!',
+  mProjectLC: "проект",
+  mOrganizationLC: "организация",
+  mSidebarTitleMyTasks: "МОИ ЗАДАЧИ",
+  mSidebarCrossProjects: "УМНЫЕ ПАПКИ",
+  mSidebarProjects: "ПРОЕКТЫ",
+  mSidebarFav: "ЗАКЛАДКИ",
+  mSidebarRec: "ПОСЛЕДНИЕ",
+  mSidebarArchive: "В архиве",
+  mSidebarHidden: 'Скрытые',
+  mSidebarRecycleBin: 'Корзина',
+  mSidebarMembers: "УЧАСТНИКИ",
+  mAppCategoriesU: 'КАТЕГОРИИ',
+  mAppCategory: 'Категория',
+  mSidebarResetOrder: "Восстановить порядок по умолчанию",
+  mSignup: "Зарегистрироваться",
+  mLogin: "Войти",
+  mLogout: "Выйти",
+  mEmail: "Электронная почта",
+  mLanguage: "Язык",
+  mLanguageAuto: "(авто)",
+  mFirstDayOfWeek: 'Первый день недели',
+  m24hourTime: 'Время',
+  m24hourTimeDesc: 'Включить 24-часовое время',
+  mAllow: "Разрешить",
+  mDeny: "Запретить",
+  mConfirmPassword: "Подтвердите свой пароль",
+  mNewPassword: "Новый",
+  mConfirmSignupPassword: "Новый пароль",
+  mCurrentPassword: "Текущий",
+  mChangePassword: "Изменить пароль",
+  mRememberME: "Запомните меня",
+  mConfirm: "Подтвердить",
+  mLoginFailed: "Пожалуйста, введите действующий адрес электронной почты и пароль, или сначала <a href='/signup'>зарегистрируйтесь</a>.",
+  mNotYet: "Ещё нет",
+  mNotComfirmedYet: "Ещё не подтверждено",
+  mGOWS: "Перейти в мой проект",
+  mReturnWS: "Вернуться к моему проекту",
+  mTryAgain: "Попробовать ещё",
+  mSignupAt: "Присоединился",
+  mCreatedAt: "Создано",
+  mTour: "Тур",
+  mFeatures: "Возможности",
+  mBlog: "Блог",
+  mAbout: "Про нас",
+  mAboutQuire: "Про Quire",
+  mGetStarted: "НАЧАТЬ",
+  mSignupForFree: "НАЧНИТЕ - это БЕСПЛАТНО!",
+  mPrivacyPolicy: "Политика конфиденциальности",
+  mTerms: "Условия",
+  mTermsOFService: "Условия сервиса",
+  mFaq: "ЧАВО",
+  mPricing: "Ценообразование",
+  mGetIphone: "Скачать приложение для iPhone",
+  mGetAndroid: "Скачать приложение для Android",
+  mGetChromeExtension: "Получить расширение для Chrome",
+  mLoginU: "ВОЙТИ",
+  mTourU: "ТУР",
+  mTutorialU: "РУКОВОДСТВО",
+  mFeedbackU: "ОБРАТНАЯ СВЯЗЬ",
+  mDocumentationU: "ДОКУМЕНТАЦИЯ",
   mFooterLinkCategoryQuire: "Quire",
-  mFooterLinkHome: "Home",
-  mFooterLinkDownloadiOS: "Download iOS App",
-  mFooterLinkDownloadAndroid: "Download Android App",
-  mFooterLinkDownloadAndroidAPK: "Download Android APK",
-  mFooterLinkSecurity: "Security",
-  mFooterLinkCategorySupport: "Support & Resources",
-  mUserGuide: "Guide",
-  mFooterLinkDevelopers: "Developers & API",
-  mFooterLinkCategoryCompany: "Company",
-  mPost: "Post",
-  mGotIt: "Got it!",
-  mReadOnly: "Read Only",
-  mReadMore: "Read more",
-  mGettingStarted: "Getting Started",
-  mTutorial: "Tutorial",
-  mDocumentation: "Documentation",
-  mSignupQuire: "Sign up to Quire",
-  mSignupFree: "SIGN UP FOR FREE",
-  mSignupFreeShort: "SIGN UP",
-  mSignupToPostAComment: "SIGN UP TO POST A COMMENT",
-  mLoginQuire: "Log in to Quire",
-  mLoginQuireDesc: "Welcome Back!",
-  mStayLogin: "Stay signed in",
-  mLoginAccountDesc: "Don't have an account yet?",
-  mLoginAccountCreate: "Create a Quire account",
-  mSigninGoogle: "Sign in with Google",
-  mSignupGoogle: "Sign up with Google",
-  mSigninApple: "Sign in with Apple",
-  mSignupApple: "Sign up with Apple",
-  mHomeGotoWSButton: "GO TO YOUR PROJECT",
-  mDownloadAPK: "DOWNLOAD APK",
-  mAPKVersion: 'Version [=version]',
-  mDownloadMobileAppToStart: 'Download Quire to start working on your projects',
+  mFooterLinkHome: "Главная",
+  mFooterLinkDownloadiOS: "Скачать приложение для iOS",
+  mFooterLinkDownloadAndroid: "Скачать приложение для Android",
+  mFooterLinkDownloadAndroidAPK: "Скачать APK для Android",
+  mFooterLinkSecurity: "Безопасность",
+  mFooterLinkCategorySupport: "Поддержка и ресурсы",
+  mUserGuide: "Документация",
+  mFooterLinkDevelopers: "Разработчики и API",
+  mFooterLinkCategoryCompany: "Компания",
+  mPost: "Опублировать",
+  mGotIt: "Понятно!",
+  mReadOnly: "Только чтение",
+  mReadMore: "Подробнее",
+  mGettingStarted: "Для начала",
+  mTutorial: "Руководство",
+  mDocumentation: "Документация",
+  mSignupQuire: "Зарегистрироваться в Quire",
+  mSignupFree: "ЗАРЕГИСТИРОВАТЬСЯ БЕСПЛАТНО",
+  mSignupFreeShort: "ЗАРЕГИСТИРОВАТЬСЯ",
+  mSignupToPostAComment: "ЗАРЕГИСТИРУЙТЕСЬ, ЧТОБЫ ОТПРАВИТЬ КОММЕНТАРИЙ",
+  mLoginQuire: "Войти в Quire",
+  mLoginQuireDesc: "Добро пожаловать!",
+  mStayLogin: "Оставаться в системе",
+  mLoginAccountDesc: "Еще нет учетной записи?",
+  mLoginAccountCreate: "Создать учетную запись Quire",
+  mSigninGoogle: "Войти через Google",
+  mSignupGoogle: "Зарегистрироваться через Google",
+  mSigninApple: "Войти через Apple",
+  mSignupApple: "Зарегистрироваться через Apple",
+  mHomeGotoWSButton: "ПЕРЕЙТИ К ВАШЕМУ ПРОЕКТУ",
+  mDownloadAPK: "СКАЧАТЬ APK",
+  mAPKVersion: 'Версия [=version]',
+  mDownloadMobileAppToStart: 'Скачайте Quire, чтобы начать работу над своими проектами',
   mDownloadMobileAppToStartWith:
-    '[=who] has invited you to collaborate on their project.<br/>'
-    'Download Quire to get started!',
-  mCompleteSingupWithApp: 'Complete signup in Quire app<br>or <a href="[=url]">Download Quire app first</a>.',
-  mBrowserNotSupported: "Sorry, your browser is out of date. Please upgrade it to the latest version.",
+    '[=who] пригласил вас к сотрудничеству над его проектом.<br/>'
+    'Загрузите Quire, чтобы начать!',
+  mCompleteSingupWithApp: 'Завершите регистрацию в приложении Quire<br>или <a href="[=url]">сначала загрузите приложение Quire</a>.',
+  mBrowserNotSupported: "Извините, ваш браузер устарел. Пожалуйста, обновите его до последней версии.",
   mMobileBrowserNotSupported:
-    'We no longer support mobile browser with small display screen. '
-    'Please download our native app instead.',
-  mAccountExpiredTitle: "Oops!",
+    'Мы больше не поддерживаем мобильный браузер на устройствах с маленьким экраном. '
+    'Пожалуйста загрузите наше нативное приложение.',
+  mAccountExpiredTitle: "Ой!",
   mAccountExpiredDesc:
-    'Your account is temporarily locked!.<br/>'
-    'To continue, please confirm your email address.',
-  m403Title: "Oops!",
+    'Ваш аккаунт временно заблокирован!<br/>'
+    'Чтобы продолжить, подтвердите свой адрес электронной почты.',
+  m403Title: "Ой!",
   m403Desc:
-    "You do not have permission to access this page.<br/>"
-    'Please contact your Admin.',
-  m404PageTitle: '404: Page Not Found',
-  m404Title: "Oops!",
+    "Вы не имеете доступа к этой странице.<br/>"
+    'Обратитесь к своему администратору.',
+  m404PageTitle: '404: Страница не найдена',
+  m404Title: "Ой!",
   m404Desc:
-    "We cannot find what you are looking for. It could be deleted by you or your Admin.<br/>"
-    'If you need assistance, please <a href="mailto:support@quire.io">contact us.</a>',
-  m404ProjectList: "Here is a list of projects you can access:",
-  mBackToHome: "Back to Home",
-  m500PageTitle: 'Error',
-  m500Title: 'Looks like something went wrong!',
+    "Мы не можем найти то, что вы ищете. Оно могло быть удалено вами или вашим администратором.<br/>"
+    'Если вам нужна помощь, пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a>.',
+  m404ProjectList: "Вот список проектов, к которым вы можете получить доступ:",
+  mBackToHome: "Вернуться на главную",
+  m500PageTitle: 'Ошибка',
+  m500Title: 'Похоже, что-то пошло не так!',
   m500Desc:
-    'We track these errors automatically, but if the problem persists, '
-    'feel free to <a href="mailto:support@quire.io">contact us.</a> '
-    'In the meantime, please try to <a href="javascript:reloadPage()">refresh</a>.',
-  mNewVersionApp: 'A new version is now available <a href="[=link]">for download</a>!',
-  mObsoleteVersionApp: 'This old version you are using will expire on [=when]. Please <a href="[=link]">download the latest version</a>!',
+    'Мы отслеживаем эти ошибки автоматически, но если проблема не исчезнет, '
+    'не стесняйтесь <a href="mailto:support@quire.io">написать нам</a>. '
+    'А пока попробуйте <a href="javascript:reloadPage()">обновить станицу</a>.',
+  mNewVersionApp: 'Доступна новая версия <a href="[=link]">для загрузки</a>!',
+  mObsoleteVersionApp: 'Срок действия старой версии, которую вы используете, истечет [=when]. Пожалуйста <a href="[=link]">загрузите последнюю версию</a>!',
   mNewVersionBrowser:
-    'A new version is available. '
-    'Please <a href="javascript:reloadPage(false)">reload to get the latest version</a>.',
-  mRequired: 'Required',
-  mDuplicatedId: 'This ID is already taken',
-  mForgotPassword: 'Forgot?',
-  mResetPassword: 'Reset password',
-  mForgotYourPassword: 'Forgot your password?',
+    'Доступна новая версия. '
+    'Пожалуйста <a href="javascript:reloadPage(false)">обновите страницу, чтобы получить последнюю версию</a>.',
+  mRequired: 'Обязательно',
+  mDuplicatedId: 'Этот идентификатор уже занят',
+  mForgotPassword: 'Забыли?',
+  mResetPassword: 'Сброс пароля',
+  mForgotYourPassword: 'Забыли свой пароль?',
   mForgotYourPasswordDesc:
-    'No problem, enter the email address you registered with '
-    'and we will send you a reset password link.',
-  mResetMYPassword: 'Reset My Password',
-  mEmailSentCheckInbox: '<h3>Email Sent to [=email]!</h3>Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.',
+    'Нет проблем, введите адрес электронной почты, на который вы зарегистрировались '
+    'и мы отправим вам ссылку для сброса пароля.',
+  mResetMYPassword: 'Сбросить пароль',
+  mEmailSentCheckInbox: '<h3>Письмо отправлено на [=email]!</h3>Пожалуйста [=hrefStart]проверьте свои Входящие[=hrefEnd] или папку Спам.',
   mYourNewPasswordDesc:
-    'Please enter a new password '
-    'for your account <b>[=email]</b>',
-  mPasswordReseted: 'You just changed your password.',
-  mConfirmSignupExpired: "Signup Confirmation Expired",
-  mConfirmPasswordExpired: "Reset Password Confirmation Expired",
-  mConfirmEmailExpired: "Email Confirmation Expired",
-  mConfirmExpired: 'Sorry, the confirmation has been expired.',
+    'Пожалуйста, введите новый пароль '
+    'для вашей учетной записи <b>[=email]</b>',
+  mPasswordReseted: 'Вы только что сменили пароль.',
+  mConfirmSignupExpired: "Срок действия подтверждения регистрации истек",
+  mConfirmPasswordExpired: "Срок действия подтверждения сброса пароля истек",
+  mConfirmEmailExpired: "Срок действия подтверждения адреса электронной почты истек",
+  mConfirmExpired: 'Извините, срок подтверждения истек.',
   mPleaseCheckInbox:
     '<div class="confirm-email"><div class="msg">'
-    'Please [=hrefStart]check your inbox[=hrefEnd] to confirm your email: <b>[=email]</b>.</div>'
+    'Пожалуйста [=hrefStart]проверьте свои Входящие[=hrefEnd], чтобы подтвердить адрес: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirm:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email in [=day] days: <b>[=email]</b>.</div>'
+    'Пожалуйста, подтвердите свой адрес электронной почты в течение [=day] дн.: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmToday:
     '<div class="confirm-email"><div class="msg">'
-    'Please confirm your email today: <b>[=email]</b>.</div>'
+    'Подтвердите свой адрес электронной почты сегодня: <b>[=email]</b>.</div>'
     '[=options]</div>',
   mPleaseConfirmOptions:
-    '<a href="javascript:reSignup()">Resend</a><a class="hidden">Sent</a>'
-    '<a href="/r/setting?tab=options">Change Email</a>',
-  mConfirmedEmail: "Hi, [=email]",
-  mConfirmedEmailDesc: "Let's get your account ready now!",
-  mDoneConfirmSignupButtton: "I'm done, let's go!",
-  mNameISPublicVisible: "Your name is publicly visible",
-  mCantFindEmail: "Can't find that email.",
-  mDuplicatedEmail: 'This email is already taken.',
-  mEmailChangedCancel: '(cancel)',
-  mEmailChangedTitle: "Email Changed",
-  mEmailChanged: 'Thanks. Your primary email has been changed to<br>[=email].',
-  mEmailChangeFailedTitle: "Unable to Change Email",
-  mEmailChangeFailed: "Sorry, we cannot change your email to [=email]: [=message]",
-  mEmailAddedTitle: "New Email Added",
-  mEmailAdded: 'Thanks. Your new email, [=email], has been added.',
-  mEmailAddFailedTitle: "Unable to Add New Email",
-  mEmailAddFailed: "Sorry, we cannot add your new email, [=email]: [=message]",
-  mSignupMailSentTitle: 'Awesome!',
+    '<a href="javascript:reSignup()">Отправить снова</a><a class="hidden">Отправлено</a>'
+    '<a href="/r/setting?tab=options">Изменить адрес электронной почты</a>',
+  mConfirmedEmail: "Привет, [=email]",
+  mConfirmedEmailDesc: "Давайте подготовим вашу учетную запись прямо сейчас!",
+  mDoneConfirmSignupButtton: "Всё готово, поехали!",
+  mNameISPublicVisible: "Ваше имя общедоступно",
+  mCantFindEmail: "Не могу найти этот адрес.",
+  mDuplicatedEmail: 'Этот адрес уже занят.',
+  mEmailChangedCancel: '(отмена)',
+  mEmailChangedTitle: "Адрес изменен",
+  mEmailChanged: 'Спасибо. Ваш основной адрес электронной почты был изменен на<br>[=email].',
+  mEmailChangeFailedTitle: "Невозможно изменить адрес электронной почты",
+  mEmailChangeFailed: "К сожалению, мы не можем изменить ваш адрес электронной почты на [=email]: [=message]",
+  mEmailAddedTitle: "Новый адрес добавлен",
+  mEmailAdded: 'Спасибо. Ваш новый адрес электронной почты, [=email], был добавлен.',
+  mEmailAddFailedTitle: "Невозможно добавить новый адрес электронной почты",
+  mEmailAddFailed: "К сожалению, мы не можем добавить ваш новый адрес электронной почты, [=email]: [=message]",
+  mSignupMailSentTitle: 'Прекрасно!',
   mSignupMailSentDesc:
-    'We sent you a confirmation email to<br>'
+    'Мы отправили вам письмо с подтверждением на адрес<br>'
     '<strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder and confirm it.',
-  mSignupAgreePolicyDesc: 'By signing up, I agree to Quire <a href="https://quire.io/privacy">Privacy Policy</a> and <a href="https://quire.io/terms">Terms</a>.',
-  mSignupAccountDesc: "Already have an account?",
-  mSignupAccountLogin: "Log in here",
+    'Пожалуйста [=hrefStart]проверьте Входящие[=hrefEnd] или папку со спамом и подтвердите свой адрес.',
+  mSignupAgreePolicyDesc: 'Регистрируясь, я соглашаюсь с <a href="https://quire.io/privacy">политикой конфиденциальности</a> и <a href="https://quire.io/terms">правилами</a> Quire.',
+  mSignupAccountDesc: "Уже есть аккаунт?",
+  mSignupAccountLogin: "Войдите здесь",
   mDeleteAccountNotEmpty:
-    'Sorry, you cannot delete your account because you are the only admin in [=granted] '
-    'Please add another admin, or delete the organization(s) first.',
-  mHiThere: 'Hi there!',
-  mAlreadySignupTitle: "[=email] already signed up",
+    'К сожалению, вы не можете удалить свою учетную запись, потому что вы единственный администратор в [=granted] '
+    'Пожалуйста, добавьте другого администратора или сначала удалите организацию.',
+  mHiThere: 'Привет!',
+  mAlreadySignupTitle: "[=email] уже зарегистрирован",
   mAlreadySignupDesc:
-    'It seems like you have already signed up with<br>'
+    'Похоже, вы уже зарегистрировались с адреса<br>'
     '<strong>[=email]</strong>.<br>'
-    'Please <a href="/login">log in here</a>.',
-  mSignupConfirmTabTitle: 'Confirmation',
-  mAlreadyConfirmDesc: 'You have already confirmed the email.',
-  mSignupConfirmTitle: "Thank you for your confirmation",
+    'Пожалуйста <a href="/login">войдите здесь</a>.',
+  mSignupConfirmTabTitle: 'Подтверждение',
+  mAlreadyConfirmDesc: 'Вы уже подтвердили свой адрес.',
+  mSignupConfirmTitle: "Спасибо за подтверждение",
   mSignupConfirmDesc:
-    'Thank you for confirming your email address <strong>[=email]</strong>.<br/>'
+    'Спасибо за подтверждение своего адреса <strong>[=email]</strong>.<br/>'
     '[=continue]',
-  mSignupConfirmThenLogin: 'Please <a href="/login">log in here</a> to proceed.',
-  mInviteFriends: "Invite Friends",
-  mInviteFriendsTitle: "Invite your friends on board",
-  mInviteFriendsDesc: "Enjoy your experience with Quire?<br/>Let your friends know they can easily accomplish their dreams too!",
-  mInviteFriendsSuccessTitle: "Thank You!",
-  mInviteFriendsSuccess: 'An invitation was sent to <ul class="list-unstyled"></ul> We really appreciate your support!',
-  mInviteOthersFriends: "Invite other friends",
-  mInviteNewMembers: "Invite new members",
-  mContactUs: "Contact Us",
-  mFeedback: "Feedback",
-  mFeedbackSubject: "Subject",
-  mFeedbackContent: "Tell us how we can help",
-  mSend: "Send",
-  mPostFeedbackPublic: "Allow other Quire users to see",
-  mFeedbackDesc: "Have a question or suggestion for us?<br>Thanks! We're all ears!",
-  mCheckCommunity: "Check out all feedback",
-  mUndoListTitle: "My Operations",
-  mUndoDeleteListTitle: "Deleted",
-  mUndoCompleteListTitle: "Completed",
-  mUndoEmptyTitle: "Nothing to undo.",
-  mUndoEmptyDesc: "You haven't moved, completed or deleted tasks yet.",
-  mUndoRemoveTaskEmptyDesc: "No task has been deleted recently.",
-  mUndoCompleteTaskEmptyDesc: "No task has been completed recently.",
-  mSearchPartialResult: "Only partial results are shown",
-  mSearchOtherProjects: "Search other projects",
-  mBackSearch: "Back to search",
-  mMarkAllRead: "Mark All as Read",
-  mEmptyNotificationMessage: "You don't have any notifications.",
-  mShowMoreActivities: "Show earlier activities",
-  mShowMoreTasks: "Show more tasks",
-  mShowMoreComments: "Show earlier comments",
-  mEmptyComments: "No comments",
-  mEmptyCommentsDesc: "Be the first to <a>add comment</a>",
-  mNewComments: "New comments",
-  mNewNotifications: "New notifications",
-  mScrollToBottom: "Scroll to bottom",
-  mTaskRemovedTitle: "This task has been deleted.",
-  mTaskRemovedDesc: "Try searching for something else.",
+  mSignupConfirmThenLogin: 'Пожалуйста <a href="/login">войдите</a> для продолжения.',
+  mInviteFriends: "Пригласить друзей",
+  mInviteFriendsTitle: "Пригласите своих друзей на борт",
+  mInviteFriendsDesc: "Нравится пользоваться Quire?<br/>Расскажите друзьям, что они тоже могут легко осуществить свои мечты!",
+  mInviteFriendsSuccessTitle: "Спасибо!",
+  mInviteFriendsSuccess: 'Приглашение было отправлено на адрес <ul class="list-unstyled"></ul> Мы очень ценим вашу поддержку!',
+  mInviteOthersFriends: "Пригласите других друзей",
+  mInviteNewMembers: "Пригласить новых участников",
+  mContactUs: "Свяжитесь с нами",
+  mFeedback: "Обратная связь",
+  mFeedbackSubject: "Тема",
+  mFeedbackContent: "Расскажите, чем мы можем помочь",
+  mSend: "Отправить",
+  mPostFeedbackPublic: "Сделать видимым для других пользователей Quire",
+  mFeedbackDesc: "Есть вопросы или предложения?<br>Спасибо! Они будет услышаны!",
+  mCheckCommunity: "Посмотреть все отзывы",
+  mUndoListTitle: "Мои операции",
+  mUndoDeleteListTitle: "Удалено",
+  mUndoCompleteListTitle: "Завершено",
+  mUndoEmptyTitle: "Нечего отменять.",
+  mUndoEmptyDesc: "Вы еще не перемещали, не выполняли или не удаляли задачи.",
+  mUndoRemoveTaskEmptyDesc: "В последнее время ни одна задача не удалялась.",
+  mUndoCompleteTaskEmptyDesc: "В последнее время ни одна задача не выполнялась.",
+  mSearchPartialResult: "Показана только часть результатов",
+  mSearchOtherProjects: "Поискать в других проектах",
+  mBackSearch: "Вернуться к поиску",
+  mMarkAllRead: "Отметить все как прочитанное",
+  mEmptyNotificationMessage: "У вас нет уведомлений.",
+  mShowMoreActivities: "Показать предыдущие действия",
+  mShowMoreTasks: "Показать больше задач",
+  mShowMoreComments: "Показать предыдущие комментарии",
+  mEmptyComments: "Без комментариев",
+  mEmptyCommentsDesc: "Будьте первым, кто <a>оставит комментарий</a>",
+  mNewComments: "Новые комментарии",
+  mNewNotifications: "Новые уведомления",
+  mScrollToBottom: "Вниз страницы",
+  mTaskRemovedTitle: "Эта задача была удалена.",
+  mTaskRemovedDesc: "Попробуйте поискать что-нибудь еще.",
   mAppBanned:
-    'This app has been banned for violating our <a href="/terms" target="_blank">Terms of Service</a>. '
-    "You aren't allowed to publish the app again until [=when].",
-  mMyTasksEmptyMessage: "Hurray~ no task is due!",
-  mSignupOrganization: "[=user]'s Organization",
-  mSignupProject: "[=user]'s Project",
-  mEmailWelcomeSubject: "How're you finding Quire so far?",
+    'Это приложение заблокировано за нарушение наших <a href="/terms" target="_blank">Условий использования</a>. '
+    "Вам не разрешено снова опубликовать приложение, до [=when].",
+  mMyTasksEmptyMessage: "Ура, нет текущих задач!",
+  mSignupOrganization: "Организация пользователя [=user]",
+  mSignupProject: "Проект пользователя [=user]",
+  mEmailWelcomeSubject: "Как вам Quire?",
   mEmailWelcomeContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We’re super excited to have you on board!</p>
+<p>Мы очень рады видеть вас на борту!</p>
 
-<p>Do you have any questions or feedback so far? Let me know, I'm more than happy to help you out!</p>
+<p>У вас есть какие-либо вопросы или отзывы? Дайте мне знать, я буду рад помочь вам!</p>
 
-<p>In case you’re not sure where to start, we have a tutorial for you to follow step by step!</p>
+<p>Если вы не знаете, с чего начать, у нас есть руководство шаг за шагом.</p>
 
 [=img]
 
 <p class="text-center">
-  <a href="https://quire.io/tutorial" class="btn">View Tutorial</a>
+  <a href="https://quire.io/tutorial" class="btn">Посмотреть руководство</a>
 </p>
 
-<p>Oh, we also have a <a href="https://quire.io/blog/">blog</a>, 
-to share our tips to get the best of Quire and tell you many interesting stories of how other users use Quire that we think might inspire and motivate you! Check it out!</p>
+<p>О, еще у нас есть <a href="https://quire.io/blog/">блог</a>,
+где мы рады поделиться нашими советами по использованию Quire и рассказать много интересных историй о том,
+как другие пользователи используют Quire, которые, по нашему мнению, могут вдохновить и мотивировать вас!
+Вы можете проверить это!</p>
 
-<p>Live your dreams and achieve your goals with Quire!</p>
+<p>Живите своей мечтой и достигайте своих целей с Quire!</p>
 
-<p>Have a great day!</p>
+<p>Хорошего дня!</p>
 
-<p>Best Regards,</p>
+<p>С наилучшими пожеланиями,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Если вы не хотите получать подобные сообщения в будущем, вы можете <a href="[=unsubscribe]">отказаться от подписки здесь</a>.</p>
 ''',
-  mEmailValueProposalSubject: "You might be missing out on Quire",
+  mEmailValueProposalSubject: "Что вы могли упустить в Quire",
   mEmailValueProposalContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>I know, you're new to Quire. I just want to tell you a few things that others like
-about Quire, in case you've overlooked:</p>
+<p>Я знаю, вы ещё новичок в Quire. Я просто хочу сказать вам несколько вещей,
+которые нравятся другим в Quire, если вы их пока не заметили:</p>
 
-<p><b>It Simplifies the Complicated</b></p>
+<p><b>Упрощайте сложное</b></p>
 
-<p>Tasks are broken down into as many steps as you need to complete them
-one by one. No matter how big or challenging your goal is, Quire makes it
-easy to achieve.</p>
+<p>Задачи разбиты на столько шагов, на столько, сколько вам нужно для их выполнения,
+один за одним. Независимо от того, насколько велика или сложна ваша цель, Quire сделает ее
+легко достижимой.</p>
 
-<p><b>It Thinks One Step Ahead</b></p>
+<p><b>Всегда на шаг впереди</b></p>
 
-<p>One reason people switch to Quire is its clean and intuitive design,
-which fits well even with your long and messy to-do list inside.</p>
+<p>Одна из причин, по которой люди переходят на Quire, - это чистый и интуитивно понятный дизайн,
+в который хорошо вписывается даже длинный и запутанный список дел.</p>
 
-<p><b>It Collaborates with Anyone</b></p>
+<p><b>Сотрудничайте с кем угодно</b></p>
 
-<p>Share your workload by assigning tasks to colleagues, business partners,
-friends or family. Teamwork has never been easier, thanks to real-time
-communication and collaboration.</p>
+<p>Распределите свою нагрузку, поручив задачи коллегам, партнерам по бизнесу,
+друзьям или семье. Работа в команде никогда не была такой простой,
+благодаря общению и сотрудничеству в режиме реального времени.</p>
 
-<p>So, what are you waiting for? <a href="https://quire.io/w">Accomplish your goals with Quire!</a></p>
+<p>Так чего же ждать? <a href="https://quire.io/w">Достигайте своих целей с Quire!</a></p>
 
-<p>Of course, should you have any question while using Quire, we are here to help.</p>
+<p>И конечно, если у вас возникнут какие-либо вопросы при использовании Quire, мы готовы помочь.</p>
 
-<p>Best Regards,</p>
+<p>С наилучшими пожеланиями,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Если вы не хотите получать подобные сообщения в будущем, вы можете <a href="[=unsubscribe]">отказаться от подписки здесь</a>.</p>
 ''',
-  mEmailLeavingSubject: "We haven't seen you on Quire for a while",
+  mEmailLeavingSubject: "Мы давно не видели вас в Quire",
   mEmailLeavingContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>Thanks again for using Quire.</p>
+<p>Еще раз спасибо за использование Quire.</p>
 
-<p>We hope Quire's been assisting you in achieving your goals. 
-<a href="https://twitter.com/quire_io">More features</a> are being carefully
-crafted to help our users so we do hope you'd stay tuned and see
-how Quire may lessen your project management efforts.</p>
+<p>Мы надеемся, что Quire помог вам в достижении ваших целей.
+<a href="https://twitter.com/quire_io">Ещё больше возможностей</a> будут доступны,
+чтобы помочь нашим пользователям, поэтому мы очень надеемся,
+что вы будете следить за обновлениями и увидите как Quire
+может уменьшить затраты ваших усилий по управлению проектами.</p>
 
-<p>If you don't think Quire is the right solution for you, please let us
-know in what areas we may improve upon so we can reach more users like you.</p>
+<p>Если вы считаете, что Quire вам не подходит, дайте нам знать, в каких областях
+мы можем его улучшить, чтобы удовлетворить больше таких пользователей, как вы.</p>
 
-<p>Should you wish to have a chat about it, we'd love to arrange
-for a call with you.</p>
+<p>Если вы хотите поговорить об этом, мы будем рады организовать чат или разговор с вами.</p>
 
-<p>We would love to hear from you,</p>
+<p>Были бы рады получить весточку от вас,</p>
 
-<p>Best Regards,</p>
+<p>С наилучшими пожеланиями,</p>
 
 <p>[=replyToName]</p>
 
 <hr class="end"/>
 
-<p>If you don't want to receive email like this in the future please <a href="[=unsubscribe]">unsubscribe here</a>.</p>
+<p>Если вы не хотите получать подобные сообщения в будущем, вы можете <a href="[=unsubscribe]">отказаться от подписки здесь</a>.</p>
 ''',
-  mEmailSignupSubject: 'One last step to achieve great things with Quire',
+  mEmailSignupSubject: 'Последний шаг к успеху с Quire',
   mEmailSignupContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>You are one click away!</p>
+<p>Вы в одном клике от успеха!</p>
 
-<p>To continue using Quire, please verify your email address by clicking the below button.</p>
+<p>Чтобы продолжить использование Quire, подтвердите свой адрес электронной почты, нажав кнопку ниже.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Подтвердить</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Если вы не знаете, что это за письмо, не обращайте на него внимания.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailSignupDeletionSubject: 'Complete your Quire sign up',
+  mEmailSignupDeletionSubject: 'Завершите регистрацию в Quire',
   mEmailSignupDeletionContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We hope you are having a great time with Quire!</p>
+<p>Мы надеемся, что вы отлично проводите время с Quire!</p>
 
-<p>Your projects must be really exciting that you might have forgotten to confirm your email address!
-Please let us know that you're still using Quire by clicking the below button within [=day] days.
-Otherwise, we might have to <b>delete your account and data</b>. And we're not ready to let you go...</p>
+<p>Ваши проекты должны быть действительно такими захватывающими, что вероятно вы забыли подтвердить свой адрес электронной почты!
+Сообщите нам, что вы все еще используете Quire, нажав кнопку ниже в течение [=day] дн.
+В противном случае нам, возможно, придется <b>удалить вашу учетную запись и данные</b>. А мы бы не хотели этого...</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify email address</a>
+  <a href="[=link]" class="btn">Подтвердить адрес электронной почты</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.
-Or, please <a href="mailto:support@quire.io">contact us</a> if there
-is any issue.</p>
+<p>Если вы не знаете, что это за письмо, не обращайте на него внимания.
+Или <a href="mailto:support@quire.io">свяжитесь с нами</a> если есть какая-то проблема.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailProfileChangeSubject: 'Quire: Your profile has been updated',
+  mEmailProfileChangeSubject: 'Quire: Ваш профиль обновлен',
   mEmailProfileChangeContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know you have changed [=fields] in your profile.</p>
+<p>Мы пишем, чтобы сообщить, что вы изменили [=fields] в вашем профиле.</p>
 
-<p>If you did not make the change, please <a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Если вы не вносили изменения, пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> немедленно.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailInviteSubject: "Quire: You are invited to join [=host]",
+  mEmailInviteSubject: "Quire: Вас приглашают присоединиться к [=host]",
   mEmailInviteContent: '''
-<p class="hi-row">Hello,</p>
+<p class="hi-row">Здравствуйте,</p>
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Вы были приглашены [=invitor] присоединиться к [=hostType]: [=host].</p>
 
-<p>To accept the invitation, please visit the below button.</p>
+<p>Чтобы принять приглашение, нажмите кнопку ниже.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Принять приглашение</a>
 </p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
   mEmailInviteExistsUserContent: '''
-<p class="hi-row">Hello,</p>
+<p class="hi-row">Здравствуйте,</p>
 
-<p>You have been invited by [=invitor] to join [=hostType]: [=host].</p>
+<p>Вы были приглашены [=invitor] присоединиться к [=hostType]: [=host].</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">View [=hostType]</a>
+  <a href="[=link]" class="btn">Посмотреть [=hostType]</a>
 </p>
 
-<p>If you wish to decline the invitation, please click <a href="[=declineLink]">here</a>.</p>
+<p>Если вы хотите отклонить приглашение, нажмите <a href="[=declineLink]">здесь</a>.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailInviteFriendsSubject: "[=name] has invited you to join Quire",
+  mEmailInviteFriendsSubject: "Пользователь [=name] пригласил вас присоединиться к Quire",
   mEmailInviteFriendsContent: '''
-<p class="hi-row">Hello,</p>
+<p class="hi-row">Здравствуйте,</p>
 
-<p>[=invitor] ([=email]) has invited you to join <a href="https://quire.io">Quire</a>;
-a project management solution he is enjoying.</p>
+<p>[=invitor] ([=email]) пригласил вас присоединиться к <a href="https://quire.io">Quire</a>;
+решению для управления проектами, которое ему нравится.</p>
 
-<p>To accept the invitation, please click the below button. It is free!</p>
+<p>Чтобы принять приглашение, нажмите кнопку ниже. Это бесплатно!</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Accept invitation</a>
+  <a href="[=link]" class="btn">Принять приглашение</a>
 </p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailDeleteAccountSubject: "You have permanently deleted your Quire account",
+  mEmailDeleteAccountSubject: "Вы навсегда удалили свою учетную запись Quire",
   mEmailDeleteAccountContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>You have permanently deleted your Quire account.</p>
+<p>Вы навсегда удалили свою учетную запись Quire.</p>
 
-<p>Once your Quire account is deleted, you will not be able to log in,
-receive notifications, or access any data from your account.
-Please rest assured that we will permanently delete all of your information
-and data and leave no copy in our system.</p>
+<p>После удаления вашей учетной записи Quire вы не сможете войти в систему,
+получать уведомления или получать доступ к любым данным из вашей учетной записи.
+Будьте уверены, что мы навсегда удалим всю вашу информацию
+и данные и не оставлять копии в нашей системе.</p>
 
-<p>Though we're not ready to say goodbye just yet, we totally understand
-your decision to leave Quire. Before you move on, could you please let us know
-some suggestions and feedback about your experience with Quire?
-A couple of words would mean a lot to us.</p>
+<p>Хотя мы еще не готовы прощаться, мы полностью понимаем
+ваше решение покинуть Quire. Прежде чем двигаться дальше, дайте нам знать, если у вас
+есть какие-то предложения и отзывы о вашем опыте работы с Quire?
+Всего пара слов много бы значила для нас.</p>
 
-<p>Thank you very much. We're looking forward to hearing from you!</p>
+<p>Большое спасибо. Мы с нетерпением ждем вашего ответа!</p>
 
-<p>Best,</p>
+<p>Всего наилучшего,</p>
 
-<p>The Quire Team</p>''',
+<p>Команда Quire</p>''',
   mEmailPerUpdateSubject: "Quire: [=summary]",
   mEmailPerUpdateContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know:</p>
+<p>Мы пишем, чтобы сообщить вам:</p>
 
 [=digest]
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you are following [=source]. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>Вы получили это письмо, потому что подписаны на [=source]. Чтобы отказаться от подписки, пожалуйста <a href="[=unsubscribe]">нажмите сюда</a>.</p>
 ''',
-  mEmailDigestSubject: "Quire: A total [=count] notifications for you",
+  mEmailDigestSubject: "Quire: [=count] уведомлен. для вас",
   mEmailDigestContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>There are a total of [=count] notifications for you:</p>
+<p>Всего для вас [=count] уведомлен.:</p>
 
 [=digest]
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive activity updates. To change how often you want to receive them, <a href="https://quire.io/r/setting?tab=options#email">click here</a>. To unsubscribe, <a href="[=unsubscribe]">click here</a>.</p>
+<p>Вы получили это письмо, потому что запросили обновления об активности. Чтобы изменить частоту их получения, <a href="https://quire.io/r/setting?tab=options#email">нажмите сюда</a>. Чтобы отписаться, <a href="[=unsubscribe]">нажмите сюда</a>.</p>
 ''',
-  mEmailEmailChangeSubject: "Quire: Please verify your new email address",
+  mEmailEmailChangeSubject: "Quire: Пожалуйста, подтвердите свой новый адрес электронной почты",
   mEmailEmailChangeContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>You have recently updated a new email address for your Quire account.</p>
+<p>Вы недавно обновили новый адрес электронной почты для своей учетной записи Quire.</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Пожалуйста, нажмите кнопку ниже в течение следующих 12 часов, чтобы подтвердить свой новый адрес электронной почты.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Подтвердить</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Если вы не знаете, что это за письмо, не обращайте на него внимания.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailEmailChangeNotificationSubject: "Quire: Your primary email address has been changed",
+  mEmailEmailChangeNotificationSubject: "Quire: Ваш основной адрес электронной почты был изменен",
   mEmailEmailChangeNotificationContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know you have changed your primary
-email address to <b>[=newEmail]</b>.
+<p>Сообщаем вам, что вы изменили основной
+адрес электронной почты на <b>[=newEmail]</b>.
 
-<p>All notifications related to you will be sent to your new
-primary email address,
-including account-related notifications and task activities.</p>
+<p>Все уведомления, связанные с вами, будут отправляться на ваш новый
+основной адрес электронной почты,
+включая уведомления, связанные с учетной записью и действия над задачами.</p>
 
-<p>If you did not make the change, please
-<a href="mailto:support@quire.io">contact us</a> immediately.</p>
+<p>Если вы не вносили изменения, пожалуйста
+<a href="mailto:support@quire.io">свяжитесь с нами</a> немедленно.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailAddEmailSubject: "Quire: Please verify your new email address",
+  mEmailAddEmailSubject: "Quire: Пожалуйста, подтвердите свой новый адрес электронной почты",
   mEmailAddEmailContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>Please click the below button within the next 12 hours to verify your new email address.</p>
+<p>Пожалуйста, нажмите кнопку ниже в течение следующих 12 часов, чтобы подтвердить свой новый адрес электронной почты.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Verify</a>
+  <a href="[=link]" class="btn">Подтвердить</a>
 </p>
 
-<p>If you do not recognize this email, please ignore it.</p>
+<p>Если вы не знаете, что это за письмо, не обращайте на него внимания.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailForgotPasswordSubject: "Quire: Please reset your password",
+  mEmailForgotPasswordSubject: "Quire: Пожалуйста, сбросьте свой пароль",
   mEmailForgotPasswordContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>You are receiving this email because you lost your Quire password.</p>
+<p>Вы получили это письмо, потому что потеряли свой пароль Quire.</p>
 
-<p>Please click the below button within the next 2 hours to reset your password.</p>
+<p>Пожалуйста, нажмите кнопку ниже в течение следующих 2 часов, чтобы сбросить пароль.</p>
 
 <p class="text-center">
-  <a href="[=link]" class="btn">Reset password</a>
+  <a href="[=link]" class="btn">Сброс пароля</a>
 </p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailInviteConfirmedSubject: "[=inviteeName] has accepted your invitation to Quire",
+  mEmailInviteConfirmedSubject: "[=inviteeName] принял(а) ваше приглашение в Quire",
   mEmailInviteConfirmedContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>Upon your invitation, [=invitee] ([=inviteeEmail]) has successfully joined Quire.</p>
+<p>По вашему приглашению, пользователь [=invitee] ([=inviteeEmail]) успешно присоединился к Quire.</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailContentHeader: '<p class="hi-row">Hello,</p>',
-  mEmailContentHeaderWithUser: '<p class="hi-row">Hi [=name],</p>',
+  mEmailContentHeader: '<p class="hi-row">Здравствуйте,</p>',
+  mEmailContentHeaderWithUser: '<p class="hi-row">Здравствуйте [=name],</p>',
   mEmailSubscriberContent: '''
 [=header]
 
@@ -586,867 +587,867 @@ including account-related notifications and task activities.</p>
 
 <hr class="end"/>
 
-<p>You are receiving this email because you requested to receive email updates. To unsubscribe, please <a href="[=unsubscribe]">click here</a>.</p>
+<p>Вы получили это письмо, потому что запросили обновления по электронной почте. Чтобы отказаться от подписки, пожалуйста <a href="[=unsubscribe]">нажмите сюда</a>.</p>
 ''',
   mEmailContentFooter:
-    '<p class="end-row-1">Thanks,</p>'
-    '<p class="end-row-2">The Quire Team</p>',
-  mEmailLeaveMemberSubject: "Quire: [=member] has left [=target]",
+    '<p class="end-row-1">Спасибо,</p>'
+    '<p class="end-row-2">Команда Quire</p>',
+  mEmailLeaveMemberSubject: "Quire: Пользователь [=member] покинул [=target]",
   mEmailLeaveMemberContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has left [=target].</p>
+<p>Пишем вам, чтобы сообщить, что пользователь [=member] ([=memberEmail]) покинул [=target].</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailNewProjectSubject: "Quire: [=member] has created [=project]",
+  mEmailNewProjectSubject: "Quire: Пользователь [=member] создал [=project]",
   mEmailNewProjectContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has created [=project].</p>
+<p>Пишем вам, чтобы сообщить, что пользователь [=member] ([=memberEmail]) создал проект [=project].</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailDeleteHostSubject: "Quire: [=member] has deleted [=host]",
+  mEmailDeleteHostSubject: "Quire: Пользователь [=member] удалил [=host]",
   mEmailDeleteHostContent: '''
-<p class="hi-row">Hi [=name],</p>
+<p class="hi-row">Здравствуйте [=name],</p>
 
-<p>We are writing to let you know [=member] ([=memberEmail]) has deleted "[=host]".</p>
+<p>Пишем вам, чтобы сообщить, что пользователь [=member] ([=memberEmail]) удалил "[=host]".</p>
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailAppRejectedSubject: "[=app] has been rejected",
+  mEmailAppRejectedSubject: "[=app] было отклонено",
   mEmailAppRejectedContent: '''
-<p class="hi-row">Hello,</p>
+<p class="hi-row">Здравствуйте,</p>
 
-<p>We are writing to let you know your app, [=app], has been rejected since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
+<p>Мы пишем, чтобы сообщить вам о том, что ваше приложение [=app] было отклонено из-за
+нарушения наших <a href="https://quire.io/terms" target="_blank">Условий использования</a>.
 
 [=reason]
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mEmailAppBannedSubject: "[=app] has been banned for [=days] days",
+  mEmailAppBannedSubject: "[=app] было заблокировано на [=days] дн.",
   mEmailAppBannedContent: '''
-<p class="hi-row">Hello,</p>
+<p class="hi-row">Здравствуйте,</p>
 
-<p>We are writing to let you know your app, [=app], has been banned since
-it has violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>.
-You won't be allowed to publish the app again until [=days] days later.</p>
+<p>Мы пишем, чтобы сообщить вам о том, что ваше приложение [=app] было заблокировано из-за
+нарушения наших <a href="https://quire.io/terms" target="_blank">Условий использования</a>.
+Вы не сможете повторно опубликовать приложение раньше, чем через [=days] дн.</p>
 
 [=reason]
 
-<p class="end-row-1">Thanks,</p>
-<p class="end-row-2">The Quire Team</p>
+<p class="end-row-1">Спасибо,</p>
+<p class="end-row-2">Команда Quire</p>
 ''',
-  mSummaryUnknown: "Activity Update",
-  mExtraValue: " as [=value]",
-  mSaying: ", saying [=value]",
-  mViewOnQuire: "view on Quire",
-  mUnfollow: "unfollow",
-  mThisTask: "this task",
-  "AT$atAddTask": "[=who] added [=what][=value]",
-  "AT$atRemoveTask": "[=who] deleted [=what][=value]",
-  "AT$atEditTask": "[=who] edited [=what][=value]",
-  "AT$atMoveTask": "[=who] moved [=what] to [=value]",
-  "AT$atComplete": "[=who] completed [=what]",
-  "AT$atUncomplete": "[=who] reopened [=what]",
-  "AT$atAssign": "[=who] assigned [=what] to [=value]",
-  "AT$atUnassign": "[=who] unassigned [=value] from [=what]",
-  "AT$atSetDue": "[=who] set the due date of [=what] to [=value:due]",
-  "AT$atUnsetDue": "[=who] unset the due date of [=what]",
-  "AT$atSetState": "[=who] set the status of [=what] to [=value]",
-  "AT$atSetStart": "[=who] set the start date of [=what] to [=value:due]",
-  "AT$atUnsetStart": "[=who] unset the start date of [=what]",
-  "AT$atAddTaskComment": "[=who] commented [=what][=value]",
-  "AT$atUndoComplete": "[=who] undid the completion of [=what]",
-  "AT$atUndoRemoveTask": "[=who] undid the removal of [=what]",
-  "AT$atUndoArchiveTask": "[=who] undid the peekaboo of [=what]",
-  "AT$atAddTaskAttachment": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskAttachment": "[=who] removed [=value] from [=what]",
-  "AT$atSetPartner": "[=who] shared [=what] to the external team [=value]",
-  "AT$atUnsetPartner": "[=who] cleared the external team from [=what]",
-  "AT$atRemoveTaskComment": "[=who] removed a comment in [=what]",
-  "AT$atTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atUntag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atTransferTask": "[=who] transferred [=what] to [=value]",
-  "AT$atDuplicateTask": "[=who] duplicated [=what] from [=value]",
-  "AT$atTaskMention": "[=who] has mentioned you in [=what][=value]",
-  "AT$atDuplicateRecurring": "[=who] duplicated [=what] from recurring task [=value]",
-  "AT$atSetPriority": "[=who] set the priority of [=what] to [=value]",
-  "AT$atSetTaskType": "[=who] set the type of [=what] to [=value]",
-  "AT$atStartTask": "[=who] started working on [=what]",
-  "AT$atPauseTask": "[=who] deferred [=what]",
-  "AT$atSetBoard": "[=who] added [=what] to [=value]",
-  "AT$atUnsetBoard": "[=who] removed [=what] from [=value]",
-  "AT$atArchiveTask": "[=who] peekaboo [=what]",
-  "AT$atUnarchiveTask": "[=who] reshowed [=what]",
-  "AT$atAddProject": "[=who] created [=what]",
-  "AT$atRemoveProject": "[=who] removed the project [=what]",
-  "AT$atUndoRemoveProject": "[=who] undid the removal of [=what]",
-  "AT$atEditProject": "[=who] edited [=what]",
-  "AT$atAddProjectMember": "[=who] added [=value] to [=what]",
-  "AT$atRemoveProjectMember": "[=who] removed [=value] from [=what]",
-  "AT$atAddPartnerMember": "[=who] added an external team member [=value] to [=what]",
-  "AT$atRemovePartnerMember": "[=who] removed an external team member [=value] from [=what]",
-  "AT$atTransferProject": "[=who] transferred [=what] to [=value]",
-  "AT$atExportProject": "[=who] exported [=what]",
-  "AT$atImportProject": "[=who] imported [=what] to [=value]",
-  "AT$atAddProjectComment": "[=who] commented [=what][=value]",
-  "AT$atAddProjectAttachment": "[=who] added [=value] to [=what]",
-  "AT$atRemoveProjectAttachment": "[=who] removed [=value] from [=what]",
-  "AT$atRemoveProjectComment": "[=who] removed a comment in [=what]",
-  "AT$atAddTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atRemoveTag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atAddPartner": "[=who] added an external team [=value] to [=what]",
-  "AT$atRemovePartner": "[=who] removed an external team [=value] from [=what]",
-  "AT$atDuplicateProject": "[=who] created [=what] by copying from [=value]",
-  "AT$atSetPublic": "[=who] set [=what] as public",
-  "AT$atUnsetPublic": "[=who] set [=what] as private",
-  "AT$atProjectMention": "[=who] has mentioned you in [=what][=value]",
-  "AT$atGithubConfig": "[=who] connected [=what] to Github: [=value]",
-  "AT$atGithubUnconfig": "[=who] disconnected [=what] from Github: [=value]",
-  "AT$atAuthorizeProject": "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
-  "AT$atAuthorizePartner": "[=who] assigned [=extra] roles to [=value] in the external team [=extra2] of [=what]",
-  "AT$atArchiveProject": "[=who] archived [=what]",
-  "AT$atUnarchiveProject": "[=who] unarchived [=what]",
-  "AT$atAddOrganization": "[=who] created [=what]",
-  "AT$atRemoveOrganization": "[=who] removed the organization [=what]",
-  "AT$atUndoRemoveOrganization": "[=who] undid the removal of [=what]",
-  "AT$atEditOrganization": "[=who] edited [=what]",
-  "AT$atAddOrganizationMember": "[=who] added [=value] to [=what]",
-  "AT$atRemoveOrganizationMember": "[=who] removed [=value] from [=what]",
-  "AT$atAddGlobalTag": "[=who] added the tag [=value] to [=what]",
-  "AT$atRemoveGlobalTag": "[=who] removed the tag [=value] from [=what]",
-  "AT$atAddOApp": "[=who] added an application, [=value], to [=what]",
-  "AT$atRemoveOApp": "[=who] removed an application, [=value], from [=what]",
-  "AT$atEditOApp": "[=who] edited [=value]",
-  "AT$atPublishOApp": "[=who] published [=value]",
-  "AT$atUnpublishOApp": "[=who] unpublished [=value]",
-  "AT$atAddShare": "[=who] created a share link, [=value], of [=what]",
-  "AT$atRemoveShare": "[=who] removed a shared link, [=value], of [=what]",
-  "AT$atAddBoard": "[=who] added the board [=value] to [=what]",
-  "AT$atRemoveBoard": "[=who] removed the board [=value] from [=what]",
-  "AT$atEditBoard": "[=who] edited the board [=value]",
-  "AT$atAddTaskState": "[=who] added [=extra] to the board [=value] in [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=extra] from the board [=value] in [=what]",
-  "AT$atAddSublist": "[=who] added the sublist [=value] to [=what]",
-  "AT$atRemoveSublist": "[=who] removed the sublist [=value] from [=what]",
-  "AT$atSlackInstall": "[=who] connected [=what] to Slack's [=value]",
-  "AT$atSlackUninstall": "[=who] disconnected [=what] from Slack's [=value]",
-  "AT$atExportOrganization": "[=who] exported [=what]",
-  "AT$atAuthorizeOrganization": "[=who] assigned [=extra] roles to [=value] for accessing [=what]",
-  "AT$atxInviteExisting": "[=who] invited you to join [=what]",
-  "AT$atxInviteConfirm": "[=who] accepted your invitation to join [=what]",
-  "AT$atxRemindStart": "Remember to start [=what] on [=value:due]",
-  "AT$atxRemindDue": "Remember to complete [=what] by [=value:due]",
-  "AT$atxRemindOverdue": "You missed the deadline [=value:due] of [=what]",
+  mSummaryUnknown: "Обновление активности",
+  mExtraValue: " как [=value]",
+  mSaying: ", сказал [=value]",
+  mViewOnQuire: "посмотреть в Quire",
+  mUnfollow: "отписаться",
+  mThisTask: "эта задача",
+  "AT$atAddTask": "[=who] добавил [=what][=value]",
+  "AT$atRemoveTask": "[=who] удалил [=what][=value]",
+  "AT$atEditTask": "[=who] отредактировал [=what][=value]",
+  "AT$atMoveTask": "[=who] переместил [=what] to [=value]",
+  "AT$atComplete": "[=who] завершил [=what]",
+  "AT$atUncomplete": "[=who] вновь открыл [=what]",
+  "AT$atAssign": "[=who] назначил [=what] на [=value]",
+  "AT$atUnassign": "[=who] снял назначение [=value] с [=what]",
+  "AT$atSetDue": "[=who] установил срок [=what] на [=value:due]",
+  "AT$atUnsetDue": "[=who] удалил срок [=what]",
+  "AT$atSetState": "[=who] установил статус [=what] на [=value]",
+  "AT$atSetStart": "[=who] установил дату начала [=what] на [=value:due]",
+  "AT$atUnsetStart": "[=who] снял дату начала [=what]",
+  "AT$atAddTaskComment": "[=who] прокомментировал [=what][=value]",
+  "AT$atUndoComplete": "[=who] отменил завершение [=what]",
+  "AT$atUndoRemoveTask": "[=who] отменил удаление [=what]",
+  "AT$atUndoArchiveTask": "[=who] отменил скрытие [=what]",
+  "AT$atAddTaskAttachment": "[=who] добавил [=value] к [=what]",
+  "AT$atRemoveTaskAttachment": "[=who] удалил [=value] с [=what]",
+  "AT$atSetPartner": "[=who] поделилися [=what] с внешней командой [=value]",
+  "AT$atUnsetPartner": "[=who] снял внешнюю команду с [=what]",
+  "AT$atRemoveTaskComment": "[=who] удалил комментарий в [=what]",
+  "AT$atTag": "[=who] добавил метку [=value] к [=what]",
+  "AT$atUntag": "[=who] удалил метку [=value] с [=what]",
+  "AT$atTransferTask": "[=who] перенес [=what] в [=value]",
+  "AT$atDuplicateTask": "[=who] продублировал [=what] из [=value]",
+  "AT$atTaskMention": "[=who] упомянул вас в [=what][=value]",
+  "AT$atDuplicateRecurring": "[=who] продублировал [=what] из повторяющейся задачи [=value]",
+  "AT$atSetPriority": "[=who] установил приоритет [=what] на [=value]",
+  "AT$atSetTaskType": "[=who] установил тип [=what] на [=value]",
+  "AT$atStartTask": "[=who] начал работу над [=what]",
+  "AT$atPauseTask": "[=who] отложил [=what]",
+  "AT$atSetBoard": "[=who] добавил [=what] к [=value]",
+  "AT$atUnsetBoard": "[=who] удалил [=what] из [=value]",
+  "AT$atArchiveTask": "[=who] скрыл [=what]",
+  "AT$atUnarchiveTask": "[=who] снова показал [=what]",
+  "AT$atAddProject": "[=who] создал [=what]",
+  "AT$atRemoveProject": "[=who] удалил проект [=what]",
+  "AT$atUndoRemoveProject": "[=who] отменил удаление [=what]",
+  "AT$atEditProject": "[=who] отредактировал [=what]",
+  "AT$atAddProjectMember": "[=who] добавил [=value] к [=what]",
+  "AT$atRemoveProjectMember": "[=who] удалил [=value] из [=what]",
+  "AT$atAddPartnerMember": "[=who] добавил участника внешней команды [=value] к [=what]",
+  "AT$atRemovePartnerMember": "[=who] удалил участника внешней команды [=value] из [=what]",
+  "AT$atTransferProject": "[=who] перенес [=what] в [=value]",
+  "AT$atExportProject": "[=who] экспортировал [=what]",
+  "AT$atImportProject": "[=who] импортировал [=what] в [=value]",
+  "AT$atAddProjectComment": "[=who] прокомментировал [=what][=value]",
+  "AT$atAddProjectAttachment": "[=who] добавил [=value] в [=what]",
+  "AT$atRemoveProjectAttachment": "[=who] удалил [=value] из [=what]",
+  "AT$atRemoveProjectComment": "[=who] удалил комментарий в [=what]",
+  "AT$atAddTag": "[=who] добавил метку [=value] к [=what]",
+  "AT$atRemoveTag": "[=who] удалил метку [=value] из [=what]",
+  "AT$atAddPartner": "[=who] добавил внешнюю команду [=value] к [=what]",
+  "AT$atRemovePartner": "[=who] удалил внешнюю команду [=value] из [=what]",
+  "AT$atDuplicateProject": "[=who] создал [=what] путем копирования из [=value]",
+  "AT$atSetPublic": "[=who] установил [=what] как публичное",
+  "AT$atUnsetPublic": "[=who] установил [=what] как приватное",
+  "AT$atProjectMention": "[=who] упомянул вас в [=what][=value]",
+  "AT$atGithubConfig": "[=who] подключил [=what] к Github: [=value]",
+  "AT$atGithubUnconfig": "[=who] отключил [=what] от Github: [=value]",
+  "AT$atAuthorizeProject": "[=who] назначил [=extra] роли к [=value] для доступа к [=what]",
+  "AT$atAuthorizePartner": "[=who] назначил [=extra] роли к [=value] во внешней команде [=extra2] из [=what]",
+  "AT$atArchiveProject": "[=who] архивировал [=what]",
+  "AT$atUnarchiveProject": "[=who] разархивировал [=what]",
+  "AT$atAddOrganization": "[=who] создал [=what]",
+  "AT$atRemoveOrganization": "[=who] удалил организацию [=what]",
+  "AT$atUndoRemoveOrganization": "[=who] отменил удаление [=what]",
+  "AT$atEditOrganization": "[=who] отредактировал [=what]",
+  "AT$atAddOrganizationMember": "[=who] добавил [=value] к [=what]",
+  "AT$atRemoveOrganizationMember": "[=who] удалил [=value] из [=what]",
+  "AT$atAddGlobalTag": "[=who] добавил метку [=value] к [=what]",
+  "AT$atRemoveGlobalTag": "[=who] удалил метку [=value] из [=what]",
+  "AT$atAddOApp": "[=who] добавил приложение [=value] к [=what]",
+  "AT$atRemoveOApp": "[=who] удалил приложение [=value] из [=what]",
+  "AT$atEditOApp": "[=who] отредактировал [=value]",
+  "AT$atPublishOApp": "[=who] опубликовал [=value]",
+  "AT$atUnpublishOApp": "[=who] отменил публикацию [=value]",
+  "AT$atAddShare": "[=who] создал ссылку для общего доступа, [=value], для [=what]",
+  "AT$atRemoveShare": "[=who] удалил ссылку для общего доступа, [=value], для [=what]",
+  "AT$atAddBoard": "[=who] добавил доску [=value] к [=what]",
+  "AT$atRemoveBoard": "[=who] удалил доску [=value] из [=what]",
+  "AT$atEditBoard": "[=who] отредактировал доску [=value]",
+  "AT$atAddTaskState": "[=who] добавил [=extra] к доске [=value] в [=what]",
+  "AT$atRemoveTaskState": "[=who] удалил [=extra] с доски [=value] в [=what]",
+  "AT$atAddSublist": "[=who] добавил подсписок [=value] к [=what]",
+  "AT$atRemoveSublist": "[=who] удалил подсписок [=value] из [=what]",
+  "AT$atSlackInstall": "[=who] подключил [=what] к [=value] Slack'а",
+  "AT$atSlackUninstall": "[=who] отключил [=what] от [=value] Slack'а",
+  "AT$atExportOrganization": "[=who] экспортировал [=what]",
+  "AT$atAuthorizeOrganization": "[=who] назначил [=extra] роли на [=value] для доступа [=what]",
+  "AT$atxInviteExisting": "[=who] пригласил вас присоединиться [=what]",
+  "AT$atxInviteConfirm": "[=who] принял ваше приглашение присоединиться [=what]",
+  "AT$atxRemindStart": "Не забудьте начать [=what] в [=value:due]",
+  "AT$atxRemindDue": "Не забудьте завершить [=what] до [=value:due]",
+  "AT$atxRemindOverdue": "Вы пропустили срок [=value:due] [=what]",
   "AT$atxGithubError":
-    "We cannot access [=value] due to [=extra]. "
-    "Please check your Github configuration for [=what].",
-  mUnsubscribe: "Unsubscription",
-  mUnsubscribeSuccess: "You have unsubscribed [=target] successfully.",
+    "Мы не можем получить доступ к [=value] из-за [=extra]. "
+    "Пожалуйста, проверьте свою конфигурацию Github для [=what].",
+  mUnsubscribe: "Отказ от подписки",
+  mUnsubscribeSuccess: "Вы отказались от подписки [=target] успешно.",
   mUnsubscribeTargetFailed:
-    'Oops... failed to unsubscribe <code>[=target]</code>. It might be removed. '
-    'Please <a href="/w">browse your tasks here</a>.',
+    'Упс... Не удалось отписаться от <code>[=target]</code>. Оно могло быть удалено. '
+    'Пожалуйста <a href="/w">просмотрите свои задачи здесь</a>.',
   mUnsubscribeFailed:
-    'Sorry, the unsubscription link has been expired. '
-    'Please update <a href="/r/setting">your preferences here</a>.',
-  mUnsubscribeAutoSuccess: "You ([=email]) have unsubscribed [=target] successfully.",
-  mUnsubscribeAll: "You ([=email]) have unsubscribed notifications and messages from Quire successfully.",
-  mDeclineTitle: "Decline Invitation",
-  mDeclineSuccess: "You have declined the invitation to join [=target] successfully.",
-  mKeyShortcuts: 'Keyboard Shortcuts (F1)',
-  mKeyShortcutsTitle: 'Keyboard Shortcuts',
-  mKeyNavigate: 'Navigate different task or function',
-  mKeyMoveTask: 'Move tasks vertically or horizontally',
-  mKeyMultipleSelect: 'Select multiple tasks',
-  mKeyF1: 'Keyboard shortcuts',
-  mKeyEditTask: 'Edit task name',
-  mKeyEditTaskDesc: 'Edit task description',
-  mKeyCreateRootTask: 'Add new task at first level',
-  mKeyCreateTask: 'Add new task',
-  mKeyCreateSubtask: 'Add new subtask',
-  mKeyDeleteTask: 'Delete selected tasks',
-  mKeyCollapseTask: 'Collapse or expand tasks by level',
-  mKeySwitchMyTaskView: 'Launch or close My Tasks',
-  mKeySwitchViews: 'Switch views',
-  mKeyBlinkSearch: 'Blink search projects, members, etc.',
-  mKeySearchTask: 'Search tasks and comments',
-  mKeyCompleteTask: 'Complete selected tasks',
-  mKeyAssign: 'Assign..',
-  mKeyDueDate: 'Set due date',
-  mKeyAddTag: 'Add tag',
-  mKeyAddComment: 'Add comment',
-  mKeyOpenUndoList: 'Open undo operation list',
-  mKeyPrint: 'Print tasks',
-  mKeyDrillDown: 'Zoom in or out selected task',
-  mKeyQuote: 'Quote selected text in your reply',
-  mKeyComment: 'Comment selected task',
-  mKeySelfAssign: 'Self-assign selected task',
-  mKeyAssignTask: 'Administer selected task',
-  mKeyAssignTaskProperties: '@=assign;/=status;#=tag;<=due;!=priority;^=board;>=project',
-  mKeyIndent: 'Indent task in edit mode',
-  mKeyToggleHint: 'Show task ID and more',
-  mKeyCopyHint: "Copy selected task",
-  mKeyCutHint: "Cut selected task",
-  mKeyPasteHint: "Paste what you cut or copied as tasks",
-  mKeyToggleDetail: "Open or hide detail panel",
+    'К сожалению, срок действия ссылки для отмены подписки истек. '
+    'Пожалуйста обновите <a href="/r/setting">ваши настройки здесь</a>.',
+  mUnsubscribeAutoSuccess: "Вы ([=email]) отписались от [=target] успешно.",
+  mUnsubscribeAll: "Вы ([=email]) отписались от уведомлений и сообщений от Quire успешно.",
+  mDeclineTitle: "Отклонить приглашение",
+  mDeclineSuccess: "Вы успешно отклонили приглашение присоединиться к [=target].",
+  mKeyShortcuts: 'Сочетания клавиш (F1)',
+  mKeyShortcutsTitle: 'Горячие клавиши',
+  mKeyNavigate: 'Навигация по разным задачам или функциям',
+  mKeyMoveTask: 'Перемещение задач вертикально или горизонтально',
+  mKeyMultipleSelect: 'Выбер нескольких задач',
+  mKeyF1: 'Горячие клавиши',
+  mKeyEditTask: 'Изменить название задачи',
+  mKeyEditTaskDesc: 'Изменить описание задачи',
+  mKeyCreateRootTask: 'Добавить новую задачу на первом уровне',
+  mKeyCreateTask: 'Добавить новую задачу',
+  mKeyCreateSubtask: 'Добавить новую подзадачу',
+  mKeyDeleteTask: 'Удалить выбранные задачи',
+  mKeyCollapseTask: 'Свернуть или развернуть задачи по уровням',
+  mKeySwitchMyTaskView: 'Открыть или закрыть Мои задачи',
+  mKeySwitchViews: 'Переключить представления',
+  mKeyBlinkSearch: 'Быстрый поиск проектов, участников и т.п.',
+  mKeySearchTask: 'Поиск задач и комментариев',
+  mKeyCompleteTask: 'Выполнить выбранные задачи',
+  mKeyAssign: 'Назначить..',
+  mKeyDueDate: 'Установить срок выполнения',
+  mKeyAddTag: 'Добавить метку',
+  mKeyAddComment: 'Добавить комментарий',
+  mKeyOpenUndoList: 'Открыть список операций для отмены',
+  mKeyPrint: 'Распечатать задачи',
+  mKeyDrillDown: 'Увеличить или уменьшить масштаб выбранной задачи',
+  mKeyQuote: 'Цитировать выделенный текст в ответе',
+  mKeyComment: 'Прокомментировать выбранную задачу',
+  mKeySelfAssign: 'Назначить себе выбранную задачу',
+  mKeyAssignTask: 'Администрирование выбранной задачи',
+  mKeyAssignTaskProperties: '@=назначить;/=статус;#=метка;<=срок;!=приоритет;^=доска;>=проект',
+  mKeyIndent: 'Увеличить отступ задачи в режиме редактирования',
+  mKeyToggleHint: 'Показать идентификатор задачи и многое другое',
+  mKeyCopyHint: "Копировать выбранную задачу",
+  mKeyCutHint: "Вырезать выбранную задачу",
+  mKeyPasteHint: "Вставить то, что вы вырезали или скопировали, как задачи",
+  mKeyToggleDetail: "Показать или скрыть панель подробностей",
   mKeyLearnMore:
-    'Learn more about how to use Quire with keyboard only '
-    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">here</a>.',
-  mMarkdownIntro: 'Markdown',
-  mMDHeader3: 'Headers',
-  mMDItalic: 'Italic',
-  mMDBold: 'Bold',
-  mMDUnderline: 'Underline',
-  mMDColoring: 'Coloring',
-  mMDOrderedList: 'Numbered List',
-  mMDUnorderedList: 'Bulleted List',
-  mMDCheckList: 'Checklist',
-  mMDLink: 'Link',
+    'Узнайте больше о том, как использовать Quire только с клавиатуры '
+    '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html" target="_blank">здесь</a>.',
+  mMarkdownIntro: 'Разметка Markdown',
+  mMDHeader3: 'Заголовки',
+  mMDItalic: 'Курсив',
+  mMDBold: 'Жирный',
+  mMDUnderline: 'Подчеркивание',
+  mMDColoring: 'Цвета',
+  mMDOrderedList: 'Нумерованный список',
+  mMDUnorderedList: 'Маркированный список',
+  mMDCheckList: 'Список задач',
+  mMDLink: 'Ссылка',
   mMDMention:
-    'You can also use <b><i>@user_name</i></b> '
-    'and <b><i>#task_name</i></b> for mention and reference.',
+    'Вы также можете использовать <b><i>@имя_пользователя</i></b> '
+    'и <b><i>#номер_задачи</i></b> для их упоминания.',
   mMDAbout:
-    'More about <a target="_blank" href="'
+    'Больше о <a target="_blank" href="'
     '/blog/p/Our-Very-Own-Markdown.html">'
-    'Quire flavored Markdown</a>',
-  mStatsHealthSec: "Progress Stats",
-  mStatsProgressChartSec: "Progress Stats",
-  mStatsProjectSummarySec: "Project Summary",
-  mStatsWeeklySummarySec: "Weekly Summary",
-  mArchivedProjects: "Archived projects",
-  mStatsWeeklyTodosLabel: "To-dos",
-  mSettingProfileSec: "Profile",
-  mSettingBasicsSec: "Basics",
-  mSettingApplicationsSec: "Apps",
-  mSettingAdditionalSec: "Advanced",
-  mSettingMemberSec: "Members",
-  mSettingMemberCountSec: "Member count",
-  mSettingExternalTeamsSec: "External Teams",
-  mSettingShareLinksSec: "Shared Links",
-  mSettingShareLinksDesc: "Share a link of your project with your clients so they can access it without signup.",
-  mSettingProjectSec: "Projects",
-  mSettingTagSec: "Tags",
-  mSettingFeatureSec: "Features",
-  mSettingIntegrationSec: "Integrations",
-  mSettingReminderSec: "Reminders",
-  mSettingEmailSec: "Email Notifications",
-  mSettingProjectPrefSec: "Project Preferences",
-  mSettingLabelTask: "Task",
-  mSettingLabelShowIcon: "Icon",
-  mSettingLabelShowIconDesc: "Highlight this project by displaying its icon in the sidebar",
-  mSettingLabelVisibility: "Visibility",
-  mSettingOptionAddToTop: "Add to top",
-  mSettingOptionAddToBottom: "Add to bottom",
-  mSettingOptionFavorite: "Favorites",
-  mSettingOptionFavoriteDesc: "Enable to ♥ a task and focus on those that matter to you personally",
-  mSettingOptionComment: "Comment",
-  mSettingOptionCommentNewAtTop: "Newest at top",
-  mSettingOptionCommentOldAtTop: "Oldest at top",
-  mSettingOptionCommentEditByMember: "Allow to edit comments posted by other project members",
-  mSettingOptionUnarchiveTask: "Reshow peekaboo tasks",
-  mSettingOptionUnarchiveTaskDesc: "Peekaboo tasks that are not completed will be shown again automatically on the list after the selected time.",
-  mSettingOptionUnarchiveTaskNever: "Never",
-  mSettingOptionUnarchiveTaskNDays: "[=days] days later",
-  mSettingOptionDateAndTime: "Date & time",
-  mSettingOptionStartDesc: "Always show start date when you set date",
-  mSettingOptionTimeDesc: "Always show time when you set date",
-  mSettingOptionAssignee: "Multiple assignees",
-  mSettingOptionAssigneeDesc: "Always add to assignees when you click on member's names",
-  mSettingOptionStatus: "Status",
-  mSettingOptionStatusDesc: "Always show status options when you click on the complete icon",
-  mSettingOptionPrivate: "Private",
-  mSettingOptionPrivateDesc: "Available only to your project and organization members",
-  mSettingOptionPublic: "Public",
-  mSettingOptionPublicDesc: "Available to any user including anonymous users",
-  mSettingOptionPublicAllowAddDesc: "Allow users to add tasks at the first level",
-  mSettingOptionExportCsv: "Export to CSV",
-  mSettingOptionExportJson: "Export to JSON",
-  mSettingOptionDuplicateProject: "Duplicate project",
-  mSettingOptionTransferProject: "Transfer project",
-  mSettingOptionMakeArchive: "Archive project",
-  mSettingOptionMakeUnarchive: "Unarchive project",
-  mSettingOptionLeaveProject: "Leave project",
-  mSettingOptionDeleteProject: "Delete project",
-  mSettingOptionDeleteProjectLot: "Delete smart folder",
-  mSettingCalTitle: "Calendar",
-  mSettingCalDesc: "Sync incomplete tasks with due dates to Google Calendar, iCal or others.",
-  mSettingCalBtnTitle: "Sync",
+    'Markdown разметке Quire</a>',
+  mStatsHealthSec: "Статистика прогресса",
+  mStatsProgressChartSec: "Статистика прогресса",
+  mStatsProjectSummarySec: "Резюме проекта",
+  mStatsWeeklySummarySec: "Еженедельная сводка",
+  mArchivedProjects: "Архивные проекты",
+  mStatsWeeklyTodosLabel: "Задачи",
+  mSettingProfileSec: "Профиль",
+  mSettingBasicsSec: "Основы",
+  mSettingApplicationsSec: "Приложения",
+  mSettingAdditionalSec: "Дополнительно",
+  mSettingMemberSec: "Участники",
+  mSettingMemberCountSec: "Количество участников",
+  mSettingExternalTeamsSec: "Внешние команды",
+  mSettingShareLinksSec: "Общие ссылки",
+  mSettingShareLinksDesc: "Поделитесь ссылкой на свой проект со своими клиентами, чтобы они могли получить к нему доступ без регистрации.",
+  mSettingProjectSec: "Проекты",
+  mSettingTagSec: "Метки",
+  mSettingFeatureSec: "Характеристики",
+  mSettingIntegrationSec: "Интеграции",
+  mSettingReminderSec: "Напоминания",
+  mSettingEmailSec: "Уведомления по электронной почте",
+  mSettingProjectPrefSec: "Настройки проекта",
+  mSettingLabelTask: "Задача",
+  mSettingLabelShowIcon: "Иконка",
+  mSettingLabelShowIconDesc: "Выделить этот проект, отобразив его значок на боковой панели",
+  mSettingLabelVisibility: "Видимость",
+  mSettingOptionAddToTop: "Добавить наверх",
+  mSettingOptionAddToBottom: "Добавить вниз",
+  mSettingOptionFavorite: "Избранное",
+  mSettingOptionFavoriteDesc: "Разрешить лайкнуть (♥) задачу, чтобы сосредоточиться на тех, которые важны лично для вас",
+  mSettingOptionComment: "Комментарии",
+  mSettingOptionCommentNewAtTop: "Новые наверху",
+  mSettingOptionCommentOldAtTop: "Старые наверху",
+  mSettingOptionCommentEditByMember: "Разрешить редактировать комментарии, размещенные другими участниками проекта",
+  mSettingOptionUnarchiveTask: "Повторно показать скрытые задачи",
+  mSettingOptionUnarchiveTaskDesc: "Незавершенные скрытые задачи будут снова автоматически показаны в списке через выбранное время.",
+  mSettingOptionUnarchiveTaskNever: "Никогда",
+  mSettingOptionUnarchiveTaskNDays: "Через [=days] дн.",
+  mSettingOptionDateAndTime: "Дата и время",
+  mSettingOptionStartDesc: "Всегда показывать дату начала при установке даты",
+  mSettingOptionTimeDesc: "Всегда показывать время при установке даты",
+  mSettingOptionAssignee: "Множественное назначение",
+  mSettingOptionAssigneeDesc: "Всегда добавлять людей к исполнителям, когда нажимаете на их имена",
+  mSettingOptionStatus: "Статус",
+  mSettingOptionStatusDesc: "Всегда показывать выбор статуса задачи, когда вы нажимаете на значок завершения",
+  mSettingOptionPrivate: "Приватное",
+  mSettingOptionPrivateDesc: "Доступно только участникам вашего проекта и организации",
+  mSettingOptionPublic: "Публичное",
+  mSettingOptionPublicDesc: "Доступно любому пользователю, включая анонимных.",
+  mSettingOptionPublicAllowAddDesc: "Разрешить пользователям добавлять задачи на верхнем уровне",
+  mSettingOptionExportCsv: "Экспорт в CSV",
+  mSettingOptionExportJson: "Экспорт в JSON",
+  mSettingOptionDuplicateProject: "Дублировать проект",
+  mSettingOptionTransferProject: "Перенести проект",
+  mSettingOptionMakeArchive: "Архивировать проект",
+  mSettingOptionMakeUnarchive: "Разархивировать проект",
+  mSettingOptionLeaveProject: "Покинуть проект",
+  mSettingOptionDeleteProject: "Удалить проект",
+  mSettingOptionDeleteProjectLot: "Удалить умную папку",
+  mSettingCalTitle: "Календарь",
+  mSettingCalDesc: "Синхронизируйте незавершенные задачи со сроками выполнения с Google Calendar, iCal или другими.",
+  mSettingCalBtnTitle: "Синхронизировать",
   mSettingGithubTitle: "GitHub",
-  mSettingGithubDesc: "Link GitHub commits to your tasks.",
-  mSettingGithubBtnTitle: "Integrate",
+  mSettingGithubDesc: "Привяжите коммиты GitHub к вашим задачам.",
+  mSettingGithubBtnTitle: "Интеграции",
   mSettingSlackTitle: "Slack",
-  mSettingSlackDesc: "Link this organization to a Slack team to collaborate on projects from within Slack.",
-  mSettingSlackBtnTitle: "Add to Slack",
-  mSettingSlackTeamsDesc: "This organization is linked to the following Slack teams:",
-  mSettingAppInfo: 'Display Info',
-  mSettingAppOption: 'Settings',
-  mSettingAppDistribution: 'Distribution',
-  mSettingAppSec: "Apps",
-  mSettingAppAuthSec: "Authorized Apps",
+  mSettingSlackDesc: "Свяжите эту организацию с командой Slack для совместной работы над проектами внутри Slack.",
+  mSettingSlackBtnTitle: "Добавить в Slack",
+  mSettingSlackTeamsDesc: "Эта организация связана со следующими командами Slack:",
+  mSettingAppInfo: 'Режим отображения',
+  mSettingAppOption: 'Настройки',
+  mSettingAppDistribution: 'Распространение',
+  mSettingAppSec: "Приложения",
+  mSettingAppAuthSec: "Авторизованные приложения",
   mSettingAppAuthSecDesc:
-    'You have authorized the following applications with Quire. For more integrations, '
-    'visit <a href="/apps" target="quire_app">Quire App Directory</a>.',
-  mAppListAuthTarget: 'Access to',
-  mOauthViewTitle: "Grant Permissions",
-  mOauthViewDesc: "[=name] will be able to:",
-  mOauthSlackSuccessViewTitle: "You are all set!",
+    'Вы авторизовали следующие приложения в Quire. Для дополнительных интеграций, '
+    'посетите <a href="/apps" target="quire_app">Каталог приложений Quire</a>.',
+  mAppListAuthTarget: 'Доступ к',
+  mOauthViewTitle: "Предоставить разрешения",
+  mOauthViewDesc: "[=name] сможет:",
+  mOauthSlackSuccessViewTitle: "У вас всё настроено!",
   mOauthSlackSuccessViewDesc:
-    'Slack has succesfully authenticated with Quire.<br>'
-    'Type <b>/quire</b> in Slack to get started.',
-  mOauthSlackErrorViewTitle: "Uh oh!",
+    'Slack успешно прошел аутентификацию в Quire.<br>'
+    'Наберите <b>/quire</b> в Slack, чтобы начать работу.',
+  mOauthSlackErrorViewTitle: "Ой!",
   mOauthSlackErrorViewDesc:
-    'There was an error linking your account, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
-  mCalendarSyncDesc: "Select what kind of tasks you want to sync.",
-  mCalendarSyncSetting: "[=tasks] in [=where]",
-  mBoardIntroduce: 'You can manage your tasks visually in one or more boards. See <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">here</a> for more.',
-  mSettingPictureLabel: "Picture",
-  mOrganizationProfile: "Organization Profile",
-  mMYProfile: "My Profile",
-  mMyQuireApps: "My Apps",
-  mUserProfile: "User Profile",
-  mAccountSettings: "Account Settings",
-  mRecommendQuire: "Recommend Quire",
-  mAddNewLink: "Create new link",
-  mViewMember: "View all members",
-  mDeleteMYAccount: "Delete account",
-  mSettingOptionDeleteOrganization: "Delete organization",
-  mChangeDisplayMode: "Display mode",
-  mChangeProfileVisibility: "Change profile visibility",
-  mProfileVisibilityAll: "Non-member users can only see your basic information excluding the email.",
-  mProfileVisibilityMember: "Non-member users cannot access your profile page.",
-  mBasicInformation: "Basic Information",
-  mTasks: "Tasks",
-  mProjects: "Projects",
-  mOrganizations: "Organizations",
-  mOrganizationsAndProjects: "Organizations and Projects",
-  mOrganizationsPicture: "Organization Picture",
-  mMembers: "Members",
-  mRecentActivities: "Recent Activities",
-  mUpdateFromQuire: "Updates from Quire",
-  mMembersSecDesc: "Members in an organization have access to any project belonging to it.",
-  mAutoMode: "(auto)",
-  mBasicMode: "Basic",
-  mAdvancedMode: "Advanced",
-  mSettingUserProjectMiscTitle: 'Misc',
+    'При связывании вашей учетной записи произошла ошибка, попробуйте еще раз. '
+    'Если ошибка не исчезнет, ​​не стесняйтесь <a href="mailto:support@quire.io">написать нам</a>.',
+  mCalendarSyncDesc: "Выберите, какие задачи вы хотите синхронизировать.",
+  mCalendarSyncSetting: "[=tasks] в [=where]",
+  mBoardIntroduce: 'Вы можете управлять своими задачами визуально на одной или нескольких досках. Смотрите подробнее <a href="https://quire.io/blog/p/Quire-Mark-III-Nested-Tasks-Meets-Board.html" target="_blank">здесь</a>.',
+  mSettingPictureLabel: "Изображение",
+  mOrganizationProfile: "Профиль организации",
+  mMYProfile: "Мой профиль",
+  mMyQuireApps: "Мои приложения",
+  mUserProfile: "Профиль пользователя",
+  mAccountSettings: "Настройки учетной записи",
+  mRecommendQuire: "Рекомендовать Quire",
+  mAddNewLink: "Создать новую ссылку",
+  mViewMember: "Просмотреть всех участников",
+  mDeleteMYAccount: "Удалить аккаунт",
+  mSettingOptionDeleteOrganization: "Удалить организацию",
+  mChangeDisplayMode: "Режим отображения",
+  mChangeProfileVisibility: "Изменить видимость профиля",
+  mProfileVisibilityAll: "Пользователи, не являющиеся участниками, могут видеть только вашу основную информацию, за исключением электронной почты.",
+  mProfileVisibilityMember: "Пользователи, не являющиеся участниками, не могут получить доступ к странице вашего профиля.",
+  mBasicInformation: "Основная информация",
+  mTasks: "Задачи",
+  mProjects: "Проекты",
+  mOrganizations: "Организации",
+  mOrganizationsAndProjects: "Организации и проекты",
+  mOrganizationsPicture: "Изображение организации",
+  mMembers: "Участники",
+  mRecentActivities: "Недваняя активность",
+  mUpdateFromQuire: "Обновления в Quire",
+  mMembersSecDesc: "Участники организации имеют доступ к любому принадлежащему ей проекту.",
+  mAutoMode: "(авто)",
+  mBasicMode: "Базовый",
+  mAdvancedMode: "Продвинутый",
+  mSettingUserProjectMiscTitle: 'Разное',
   mIntegraGithubDesc:
-    "Select one or more repositories you want to connect to. "
-    "You can uncheck those you have selected.",
-  mIntegraGithubRepo: "Repositories",
-  mIntegraGithubErrorTitle: "Authentication Failed",
-  mIntegraGithubErrorDesc: "Oops...there seems to be a connection problem. Please try again.",
-  mIntegraSlackErrorTitle: "Uh oh!",
+    "Выберите один или несколько репозиториев, к которым вы хотите подключиться."
+    "Вы можете снять отметки с тех, кого выбрали.",
+  mIntegraGithubRepo: "Репозитории",
+  mIntegraGithubErrorTitle: "Ошибка аутентификации",
+  mIntegraGithubErrorDesc: "Упс... похоже, проблема с подключением. Пожалуйста, попробуйте еще раз.",
+  mIntegraSlackErrorTitle: "Ой!",
   mIntegraSlackErrorDesc:
-    'There was an error linking your organization, please try again. '
-    'If the error persists, feel free to <a href="mailto:support@quire.io">contact us</a>.',
-  mGeneral: "General",
-  mOrganizationUrl: "Org URL",
-  mCrossProjectUrl: "Smart folder URL",
-  mProfileUrl: "Profile URL",
-  mCompany: "Company",
-  mActive: "Incomplete",
-  mEmailNotifications: "Email Notifications",
-  mPerUpdate: "Per Update",
-  mHourly: "Hourly",
-  mDaily: "Daily",
-  mWeekly: "Weekly",
-  mStartedAt: "Started",
-  mCompletedAt: "Completed",
-  mSettingNotificationsTitle: "Notify me about",
+    'При связывании вашей организации произошла ошибка. Повторите попытку.'
+    'Если ошибка повторится, не стесняйтесь <a href="mailto:support@quire.io">связаться с нами</a>.',
+  mGeneral: "Общее",
+  mOrganizationUrl: "Адрес URL организации",
+  mCrossProjectUrl: "Адрес URL умной папки",
+  mProfileUrl: "Адрес URL профиля",
+  mCompany: "Компания",
+  mActive: "Активные",
+  mEmailNotifications: "Уведомления по электронной почте",
+  mPerUpdate: "За обновление",
+  mHourly: "Ежечасно",
+  mDaily: "Ежедневно",
+  mWeekly: "Еженедельно",
+  mStartedAt: "Началось",
+  mCompletedAt: "Завешнено",
+  mSettingNotificationsTitle: "Сообщите мне о",
   mSettingNotificationsDesc:
-    "You can choose which notifications that you want to receive by selecting these following options. "
-    "This setting will only apply to your account instead of every members in this project.",
-  mAssignNotifications: "Tasks assigned to me",
-  mCommentNotifications: "New comments",
-  mCommentAllNotifications: "All comments",
-  mCommentMeNotifications: "Mention me only",
-  mUpdateNotifications: "All other updates",
-  mSettingManageReminder: "Manage reminder settings",
-  mSendActivityNotification: "Send Activity Notifications",
-  mSendActivityNotificationDesc: "You can customize which notifications you want to receive from the project settings section.",
-  mActivityNotice: "Activity Notifications",
-  mReceiveBlogPosts: "New blog posts",
-  mReceivePolicyUpdates: "Updates about Quire membership and policy",
-  mReceiveFeatureUpdates: "Updates about product and feature release",
-  mReceiveSurvey: "Receive Quire research survey",
-  mReminders: "Task Reminders",
-  mRemindAdvance: "Remind Upcoming Tasks",
-  m12hrBefore: "12 hrs before",
-  m1dayBefore: "1 day before",
-  m2dayBefore: "2 days before",
-  m3dayBefore: "3 days before",
-  mStartOFDay: "At start of the day",
-  mStartOFWeek: "At start of the week",
-  mRemindTime: "Remind Upcoming Tasks with Time",
-  m0MinutesBefore: "At the time",
-  m15MinutesBefore: "15 mins before",
-  m30MinutesBefore: "30 mins before",
-  m1hrBefore: "1 hr before",
-  m2hrBefore: "2 hrs before",
-  mRemindOverdue: "Remind Overdue Tasks",
-  mNextDay: "Next day",
-  m2dayLater: "2 days later",
-  mStartOFNextWeek: "At start of next week",
-  mRemindTimeAt: "at",
-  mCollapseAllSubtaskByDefault: 'Collapse all subtasks by default',
-  mAutoAssignToMe: 'Automatically assign new tasks to myself',
-  mStrikethroughCompletedTasks: 'Strikethrough completed tasks',
-  mDeveloperConsoleTitle: "Developer Apps",
+    "Вы можете выбрать, какие уведомления хотите получать, выбрав следующие параметры."
+    "Эти настройки будет применяться только к вашей учетной записи, а не ко всем участникам в этом проекте.",
+  mAssignNotifications: "Назначенные мне задачи",
+  mCommentNotifications: "Новые комментарии",
+  mCommentAllNotifications: "Все комментарии",
+  mCommentMeNotifications: "Упоминания моего имени",
+  mUpdateNotifications: "Все остальные обновления",
+  mSettingManageReminder: "Управление настройками напоминаний",
+  mSendActivityNotification: "Отправлять уведомления об активности",
+  mSendActivityNotificationDesc: "Вы можете настроить, какие уведомления вы хотите получать, в разделе настроек проекта.",
+  mActivityNotice: "Уведомления об активности",
+  mReceiveBlogPosts: "Новые сообщения в блоге",
+  mReceivePolicyUpdates: "Обновления о членстве и политике Quire",
+  mReceiveFeatureUpdates: "Обновления о продукте и выпуске новых функций",
+  mReceiveSurvey: "Получать исследовательский опрос Quire",
+  mReminders: "Напоминания о задачах",
+  mRemindAdvance: "Напомнить о предстоящих задачах",
+  m12hrBefore: "За 12 часов до",
+  m1dayBefore: "1 день до",
+  m2dayBefore: "За 2 дня до",
+  m3dayBefore: "За 3 дня до",
+  mStartOFDay: "В начале дня",
+  mStartOFWeek: "В начале недели",
+  mRemindTime: "Напоминать о предстоящих задачах со временем",
+  m0MinutesBefore: "В это время",
+  m15MinutesBefore: "За 15 минут до",
+  m30MinutesBefore: "За 30 минут до",
+  m1hrBefore: "За 1 час до",
+  m2hrBefore: "За 2 часа до",
+  mRemindOverdue: "Напомнить о просроченных задачах",
+  mNextDay: "На следующий день",
+  m2dayLater: "2 дня спустя",
+  mStartOFNextWeek: "В начале следующей недели",
+  mRemindTimeAt: "в",
+  mCollapseAllSubtaskByDefault: 'По умолчанию свернуть все подзадачи',
+  mAutoAssignToMe: 'Автоматически назначать себе новые задачи',
+  mStrikethroughCompletedTasks: 'Зачеркивать выполненные задачи',
+  mDeveloperConsoleTitle: "Приложения для разработчиков",
   mDeveloperConsoleIntro:
-    'Build an app that makes Quire an even better experience for you and your team!<br>'
-    "If you're not sure how to start, check out the <a href='/dev/api/'>developer's documentation</a> to get started on your integration.",
-  mAppListLastUpdate: 'Last Update',
-  mAppDistributeListDate: 'Submission Date',
-  mAppDistributeListStatus: 'App Status',
-  mAppDirectoryHeader: "App Directory",
-  mAppDirectoryTitle: "Quire & Beyond",
-  mAppDirectoryTitleIntro: 'Check out these great integrations to make project management a happy and easy work.',
-  mAppSearchPlaceholder: "Search Apps",
-  mAppDirectoryBackApps: 'Browse Apps',
-  mAppDirectorySidebarItems: 'popular=Popular;new=New;quire=Made by Quire;=All Apps',
-  mAppDirectoryProfileTabTitle: 'Apps',
-  mAppDeveloperTabTitle: "Developers",
-  mAppDeveloperHeader: "Developers",
-  mAppDeveloperTitle: "Build great things with Quire!",
-  mAppDeveloperTitleIntro: 'Join Quire community of developers to build an app that makes Quire an even better experience for you and your team!',
-  mAppDeveloperDocDesc: 'Developer’s documentation has all the information you need for Quire API',
-  mAppDeveloperTutorialDesc: 'Developer’s tutorial guides you to build an app with Quire API',
-  mAppDeveloperDiscTitle: 'FAQs',
-  mAppDeveloperDiscDesc: 'Join the latest discussions of Quire API with Quire Developer Team and Quire community.',
-  mAppDeveloperStartButton: 'Start building',
-  mAppCreatedBy: 'by [=company]',
-  mAppInstalledDesc: 'You have already installed this app, for more information please visit your [=setting].',
-  mAppUpdateAt: 'Last updated: [=when]',
-  mAppVisitWebsite: "Visit Developer Website",
-  mAppContactDeveloper: 'Contact App Developer',
-  mAppInstallButton: 'Install',
-  mAppInstallLabel: 'Installed',
-  mAppAuthDesc: 'With your authorization, [=app] will have permission to:',
-  mAppAuthTarget: '[=app] will have access to:',
-  mAppAuthSpecifyTarget: 'A specific organization or project',
-  mAppAuthSpecifyTargetDesc: 'Select an organization or project',
-  mAppAuthSpecifyOrganization: 'Specify an organization',
-  mAppAuthSpecifyOrganizationDesc: 'Select an organization',
-  mAppAuthSpecifyProject: 'Specify a project',
-  mAppAuthSpecifyProjectDesc: 'Select a project',
-  mAppAuthContact: "Allow app to access my team members' email addresses",
+    'Создайте приложение, которое сделает Quire еще удобнее для вас и вашей команды!<br>'
+    "Если вы не знаете, с чего начать, ознакомьтесь с <a href='/dev/api/'>документацией для разработчиков</a>, чтобы начать интеграцию.",
+  mAppListLastUpdate: 'Последнее обновление',
+  mAppDistributeListDate: 'Дата подачи',
+  mAppDistributeListStatus: 'Статус приложения',
+  mAppDirectoryHeader: "Каталог приложений",
+  mAppDirectoryTitle: "Quire & Будущее",
+  mAppDirectoryTitleIntro: 'Оцените эти отличные интеграции, которые сделают управление проектами приятной и легкой работой.',
+  mAppSearchPlaceholder: "Поиск приложений",
+  mAppDirectoryBackApps: 'Обзор приложений',
+  mAppDirectorySidebarItems: 'popular=Популярные;new=Новые;quire=Сделаны в Quire;=Все приложения',
+  mAppDirectoryProfileTabTitle: 'Приложения',
+  mAppDeveloperTabTitle: "Разработчики",
+  mAppDeveloperHeader: "Разработчики",
+  mAppDeveloperTitle: "Создавайте великие вещи с Quire!",
+  mAppDeveloperTitleIntro: 'Присоединяйтесь к сообществу разработчиков Quire, чтобы создать приложение, которое сделает Quire еще лучше для вас и вашей команды!',
+  mAppDeveloperDocDesc: 'В документации для разработчиков есть вся необходимая информация для работы с Quire API.',
+  mAppDeveloperTutorialDesc: 'Руководство для разработчиков поможет вам создать приложение с помощью Quire API.',
+  mAppDeveloperDiscTitle: 'ЧаВо',
+  mAppDeveloperDiscDesc: 'Присоединяйтесь к последним обсуждениям Quire API с командой разработчиков Quire и сообществом Quire.',
+  mAppDeveloperStartButton: 'Начать разработку',
+  mAppCreatedBy: 'от [=company]',
+  mAppInstalledDesc: 'Вы уже установили это приложение, для получения дополнительной информации посетите свои [=setting].',
+  mAppUpdateAt: 'Последнее обновление: [=when]',
+  mAppVisitWebsite: "Посетите веб-сайт разработчика",
+  mAppContactDeveloper: 'Связаться с разработчиком приложения',
+  mAppInstallButton: 'Установить',
+  mAppInstallLabel: 'Установлено',
+  mAppAuthDesc: 'С вашего одобрения, [=app] будет иметь разрешение на:',
+  mAppAuthTarget: '[=app] будет иметь доступ к:',
+  mAppAuthSpecifyTarget: 'Конкретная организация или проект',
+  mAppAuthSpecifyTargetDesc: 'Выберите организацию или проект',
+  mAppAuthSpecifyOrganization: 'Укажите организацию',
+  mAppAuthSpecifyOrganizationDesc: 'Выберите организацию',
+  mAppAuthSpecifyProject: 'Укажите проект',
+  mAppAuthSpecifyProjectDesc: 'Выберите проект',
+  mAppAuthContact: "Разрешить приложению доступ к адресам электронной почты участников моей команды",
   mNotSignupAndRedirect:
-    "You have not confirmed your signup yet.<br>"
-    "Please check your inbox or spam folder for the confirmation email, "
-    'or <a href="/signup?email=[=email]">sign up again</a>.',
-  mGplusAuthorizeErrorTitle: "Google authorization failed",
-  mGplusAuthorizeError: "Oops... Google authorization failed. Please try again.",
-  mAppleAuthorizeErrorTitle: "Apple authorization failed",
-  mAppleAuthorizeError: "Oops... Apple authorization failed. Please try again.",
-  mTransferProjectToSameOrganization: "This project is already in the organization you specified.",
-  mTransferTaskToSameProject: "This task is already in the project you specified.",
-  mTransferTargetNotExist: "The target no longer exists.",
-  mTaskNotExist: "This task has been deleted.",
-  mProjectNotExist: "This project has been deleted.",
-  mReloadData: "Data inconsistency detected. Synchronized with the server.",
-  mThanksFeedback: "Thank You! Your feedback is most valuable to us.<br>We'll get back to you ASAP!",
+    "Вы ещё не подтвердили свою регистрацию.<br>"
+    "Пожалуйста, проверьте свой почтовый ящик или папку со спамом, чтобы найти письмо с подтверждением, "
+    'или <a href="/signup?email=[=email]">пройдите регистрацию снова</a>.',
+  mGplusAuthorizeErrorTitle: "Ошибка авторизации в Google",
+  mGplusAuthorizeError: "К сожалению, авторизация в Google не удалась. Пожалуйста, попробуйте еще раз.",
+  mAppleAuthorizeErrorTitle: "Авторизация в Apple не удалась",
+  mAppleAuthorizeError: "Упс... Авторизация в Apple не удалась. Пожалуйста, попробуйте еще раз.",
+  mTransferProjectToSameOrganization: "Этот проект уже находится в указанной вами организации.",
+  mTransferTaskToSameProject: "Эта задача уже есть в указанном вами проекте.",
+  mTransferTargetNotExist: "Цель больше не существует.",
+  mTaskNotExist: "Эта задача удалена.",
+  mProjectNotExist: "Этот проект был удален.",
+  mReloadData: "Обнаружена несогласованность данных. Синхронизация с сервером.",
+  mThanksFeedback: "Спасибо! Ваш отзыв очень важен для нас.<br>Мы свяжемся с вами как можно скорее!",
   mThanksFeedbackTask:
-    "Thank You! Your feedback is most valuable to us.<br>We created a task for it. "
-    'You can <a href="[=url]">follow it here</a>.',
-  mIntegraInvalidOptions: "The configuration is incorrect",
+    "Спасибо! Ваш отзыв очень важен для нас. <br>Мы создали для него задачу."
+    'Вы можете <a href="[=url]">следить за ней здесь</a>.',
+  mIntegraInvalidOptions: "Конфигурация не верна",
   mTooManyNewOrgagnizations:
-    "You have added too many organizations in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы добавили слишком много организаций за короткое время. "
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTooManyNewProjects:
-    "You have added too many projects in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы добавили слишком много проектов за короткое время. "
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTooManyNewTasks:
-    "You have added too many tasks in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы добавили слишком много задач за короткое время."
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTooManyInvites:
-    "You have invited too many members in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы пригласили слишком много участников за короткое время."
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTooManyFriendInvites:
-    "You have invited too many friends in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы пригласили слишком много друзей за короткое время."
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTooManyRequests:
-    "You have made the same request too many times in a short time. "
-    'Please wait a few hours, or <a href="mailto:support@quire.io">contact us</a> for help.',
+    "Вы сделали один и тот же запрос слишком много раз за короткое время."
+    'Пожалуйста подождите пару часов, или <a href="mailto:support@quire.io">свяжитесь с нами</a> для помощи.',
   mBlocked:
-    'Sorry, you have violated our <a href="https://quire.io/terms" target="_blank">Terms of Service</a>. '
-    'Please wait for [=hours] hours, or <a href="mailto:support@quire.io">contact us</a> for support.',
+    'Извините, вы нарушили наши <a href="https://quire.io/terms" target="_blank">Условия использования</a>. '
+    'Пожалуйста подождите [=hours] час., или <a href="mailto:support@quire.io">свяжитесь с нами</a> для помощи.',
   mOrganizationLimit:
-    "Unable to add a new organization. Currently, the maximum number of organizations allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Невозможно добавить новую организацию. В настоящее время максимально допустимое количество организаций: <b>[=size]</b>. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mProjectLimit:
-    "Unable to add a new project to [=organization]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Невозможно добавить новый проект в [=organization]. В настоящее время максимально допустимое количество проектов: <b>[=size]</b>. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mMemberLimit:
-    "Unable to add a new member to [=organization]. "
-    "Currently, the maximum number of members allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Невозможно добавить нового участника в [=organization]. "
+    "В настоящее время максимально допустимое количество участников: <b>[=size]</b>. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mTaskLimit:
-    "Unable to add a new task. Currently, the maximum number of tasks allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Невозможно добавить новую задачу. В настоящее время максимально разрешенное количество задач: <b>[=size]</b>. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mProjectInLotLimit:
-    "Unable to add a new project to [=lot]. Currently, the maximum number of projects allowed is <b>[=size]</b>. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Невозможно добавить новый проект в [=lot]. В настоящее время максимально допустимое количество проектов: <b>[=size]</b>. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mAppAccessInHourLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in an hour. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
+    "Вы не можете получить доступ к Quire API более чем <b>[=size]</b> раз в час. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
   mAppAccessInMinuteLimit:
-    "You cannot access Quire API more than <b>[=size]</b> times in a minute. "
-    'Please <a href="mailto:support@quire.io">contact us</a> for more quota.',
-  mDenyLeaveDueToOnlyAdmin: "Sorry, you cannot leave because you are the only admin left.",
-  mDenyLeaveDueToOrgRight: "Sorry, you cannot leave this project because you're also the organization's member.",
+    "Вы не можете получить доступ к Quire API более чем <b>[=size]</b> раз в минуту. "
+    'Пожалуйста <a href="mailto:support@quire.io">свяжитесь с нами</a> для увеличения лимита.',
+  mDenyLeaveDueToOnlyAdmin: "Извините, вы не можете уйти, потому что вы единственный оставшийся администратор.",
+  mDenyLeaveDueToOrgRight: "Извините, вы не можете покинуть этот проект, потому что вы также являетесь участником организации.",
   mSlackError:
-    'Sorry, we encountered an unexpected error. '
-    "We will look into it, but "
-    'feel free to <https://quire.io/feedback|contact us>.',
-  mSlackNotAllowed: 'You do not have permission to perform this action. Please contact your Admin.',
-  mSlackNeedLinkQuireAccount: 'Hello! We need you to link to your Quire account first. It only takes a few seconds, and you will be ready to go.',
-  mSlackNeedLinkQuireAccountBtn: '<[=url]|Link Quire Account>',
-  mSlackLinkQuireAccountOK: 'You have successfully linked to your Quire account.',
-  mSlackSimpleHelpTitle: 'Here are some commands to get you started.',
-  mSlackSimpleHelpAdd: 'Add a task, and assign it to team members',
+    'К сожалению, произошла непредвиденная ошибка.'
+    "Мы изучим этот случай, но"
+    'не стесняйтесь <https://quire.io/feedback|написать нам>.',
+  mSlackNotAllowed: 'У вас нет разрешения на выполнение этого действия. Пожалуйста, свяжитесь со своим администратором.',
+  mSlackNeedLinkQuireAccount: 'Здравствуйте! Нам нужно, чтобы вы сначала связали свою учетную запись с Quire. Это займет всего несколько секунд, и вы будете готовы к работе.',
+  mSlackNeedLinkQuireAccountBtn: '<[=url]|Установить связь с учетной записью Quire>',
+  mSlackLinkQuireAccountOK: 'Вы успешно подключились к своей учетной записи Quire.',
+  mSlackSimpleHelpTitle: 'Вот несколько команд, с которых можно начать.',
+  mSlackSimpleHelpAdd: 'Добавить задачу и назначить ее членам команды',
   mSlackSimpleHelpAddExample:
-    '`/quire add [task name] [@team member name] [@team member name]`\n'
-    'Example: `/quire add Design new logo @eric @jess`',
-  mSlackSimpleHelpComment: 'Add a comment to a task',
+    '`/quire add [название задачи] [@имя участника] [@имя участника]`\n'
+    'Пример: `/quire add Дизайн нового логотипа @eric @jess`',
+  mSlackSimpleHelpComment: 'Добавить комментарий к задаче',
   mSlackSimpleHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackSimpleHelpFollow: 'Follow a task or project',
+    '`/quire comment [номер задачи] комментарий`\n'
+    'Пример: `/quire comment 123 Выглядит отлично!`',
+  mSlackSimpleHelpFollow: 'Наблюдать за задачей или проектом',
   mSlackSimpleHelpFollowExample:
-    '`/quire follow [task ID or project ID]`\n'
-    'Example: `/quire follow 123`\n'
-    'Example: `/quire follow Development_Project`',
-  mSlackSimpleHelpMore: 'More commands are available here `/quire help`.',
-  mSlackHelpAdd: 'Add a task',
+    '`/quire follow [номер задачи или ID проекта]`\n'
+    'Пример: `/quire follow 123`\n'
+    'Пример: `/quire follow Development_Project`',
+  mSlackSimpleHelpMore: 'Другие команды доступны здесь: `/quire help`.',
+  mSlackHelpAdd: 'Добавить задачу',
   mSlackHelpAddExample:
-    '`/quire add [task name]`\n'
-    '`/quire add [under or after] [parent or sibling id] [task name]`\n'
-    'Example: `/quire add Design new logo @eric @jess\n'
-    'Example: `/quire add under 10 Logo',
-  mSlackHelpLink: 'Link a Quire project to this Slack channel',
+    '`/quire add [название задачи]`\n'
+    '`/quire add [under (под) или after (после)] [parent (родитель) или sibling (потомок) id] [название задачи]`\n'
+    'Пример: `/quire add Создать новый логотип @eric @jess\n'
+    'Пример: `/quire add under 10 Логотип',
+  mSlackHelpLink: 'Свяжите проект Quire с каналом Slack',
   mSlackHelpLinkExample:
-    '`/quire link [project ID or project URL]`\n'
-    'Example: `/quire link Development_Project`\n'
-    'Example: `/quire link https://quire.io/w/development_project`',
-  mSlackHelpUnLink: 'Unlink Quire project from this Slack channel',
+    '`/quire link [ID проекта или адрес URL проекта]`\n'
+    'Пример: `/quire link Development_Project`\n'
+    'Пример: `/quire link https://quire.io/w/development_project`',
+  mSlackHelpUnLink: 'Отключить проект Quire от этого канала Slack',
   mSlackHelpUnLinkExample: '`/quire unlink`',
-  mSlackHelpListProject: 'List all projects',
+  mSlackHelpListProject: 'Список всех проектов',
   mSlackHelpListProjectExample: '`/quire list project`',
-  mSlackHelpSearchProject: 'Search projects',
+  mSlackHelpSearchProject: 'Искать проекты',
   mSlackHelpSearchProjectExample:
-    '`/quire list project [keyword 1] [keyword 2]`\n'
-    'Example: `/quire list project Development Marketing`',
-  mSlackHelpListTask: 'List recent tasks',
+    '`/quire list project [запрос 1] [запрос 2]`\n'
+    'Пример: `/quire list project Разработка Маркетинг`',
+  mSlackHelpListTask: 'Список недавних задач',
   mSlackHelpListTaskExample: '`/quire list`',
-  mSlackHelpSearchTask: 'Search tasks',
-  mSlackHelpSearchTaskExample: '`/quire list [keyword 1] [keyword 2]`',
-  mSlackHelpViewTask: 'View specific tasks',
+  mSlackHelpSearchTask: 'Поиск задач',
+  mSlackHelpSearchTaskExample: '`/quire list [запрос 1] [запрос 2]`',
+  mSlackHelpViewTask: 'Просмотр конкретных задач',
   mSlackHelpViewTaskExample:
-    '`/quire list [task ID 1] [task ID 2]`\n'
-    'Example: `/quire list 123 456`',
-  mSlackHelpListTag: 'List tags',
+    '`/quire list [номер задачи 1] [номер задачи 2]`\n'
+    'Пример: `/quire list 123 456`',
+  mSlackHelpListTag: 'Список меток',
   mSlackHelpListTagExample: '`/quire list tag`',
-  mSlackHelpListMember: 'List members',
+  mSlackHelpListMember: 'Список участников',
   mSlackHelpListMemberExample: '`/quire list member`',
-  mSlackHelpEdit: 'Edit a task',
+  mSlackHelpEdit: 'Редактировать задачу',
   mSlackHelpEditExample:
-    '`/quire edit [task ID] name`\n'
-    'Example: `/quire edit 123 Design new logo !1 @david`',
-  mSlackHelpAssign: 'Assign a task',
+    '`/quire edit [номер задачи] Имя`\n'
+    'Пример: `/quire edit 123 Создать новый логотип !1 @david`',
+  mSlackHelpAssign: 'Назначить задачу',
   mSlackHelpAssignExample:
-    '`/quire assign [task ID] [@team member name] [!priority] [#tag] [<start; due>] [^board]`\n'
-    'Example: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
-    'Example: `/quire assign 123 +@david -@jess +#marketing`',
-  mSlackHelpComment: 'Comment a task',
+    '`/quire assign [номер задачи] [@имя участника] [!приоритет] [#метка] [<начало; срок>] [^доска]`\n'
+    'Пример: `/quire assign 123 @eric @jess #design !1 <Oct 25>`\n'
+    'Пример: `/quire assign 123 +@david -@jess +#marketing`',
+  mSlackHelpComment: 'Комментировать задачу',
   mSlackHelpCommentExample:
-    '`/quire comment [task ID] comment`\n'
-    'Example: `/quire comment 123 This looks awesome!`',
-  mSlackHelpComplete: 'Complete tasks',
+    '`/quire comment [номер задачи] Комментарий`\n'
+    'Пример: `/quire comment 123 Это выглядит потрясающе!`',
+  mSlackHelpComplete: 'Выполнить задачи',
   mSlackHelpCompleteExample:
-    '`/quire complete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire complete 123 456`',
-  mSlackHelpDelete: 'Delete tasks',
+    '`/quire complete [номер задачи 1] [номер задачи 2]`\n'
+    'Пример: `/quire complete 123 456`',
+  mSlackHelpDelete: 'Удалить задачи',
   mSlackHelpDeleteExample:
-    '`/quire delete [task ID 1] [task ID 2]`\n'
-    'Example: `/quire delete 123 456`',
-  mSlackHelpFollowTask: 'Follow or unfollow tasks',
+    '`/quire delete [номер задачи 1] [номер задачи 2]`\n'
+    'Пример: `/quire delete 123 456`',
+  mSlackHelpFollowTask: 'Подпишитесь на задачи или отмените подписку',
   mSlackHelpFollowTaskExample:
-    '`/quire [follow or unfollow] [task ID 1] [task ID 2]`\n'
-    'Example: `/quire follow 123 456`',
-  mSlackHelpFollowProject: 'Follow or unfollow projects',
+    '`/quire [follow или unfollow] [номер задачи 1] [номер задачи 2]`\n'
+    'Пример: `/quire follow 123 456`',
+  mSlackHelpFollowProject: 'Подписывайтесь на проекты или отписывайтесь от них',
   mSlackHelpFollowProjectExample:
-    '`/quire [follow or unfollow] project [project ID 1] [project ID 2]`\n'
-    'Example: `/quire follow project Development_Project Marketing_Project`',
-  mSlackNeedLinkProject: 'You need to link to a Quire project first.',
-  mSlackCurrentLinkProject: 'This channel is already linked to [=project].',
-  mSlackCurrentLinkProjectSimpleHelp: 'This channel is linked to [=project].',
-  mSlackCurrentLinkProjectMarker: '(currently linked)',
-  mSlackLinkProjectOK: '[=who] has linked this channel to [=project].',
-  mSlackUnLinkProjectOK: '[=who] has unlinked this channel from [=project].',
-  mSlackAddTaskOK: '[=who] has successfully added [=task]',
-  mSlackAddTaskUnderOK: '[=who] has successfully added subtask [=task] under [=parent].',
-  mSlackAddTaskAfterOK: '[=who] has successfully added task [=task] after [=sibling].',
-  mSlackCompleteTaskOK: 'You have successfully completed [=tasks].',
-  mSlackDeleteTaskOK: 'You have successfully deleted [=tasks].',
-  mSlackAssignAssigneesTaskOK: 'You have successfully edited the assignees of [=tasks].',
-  mSlackAssignPriorityTaskOK: 'You have successfully edited the priority of [=tasks].',
-  mSlackAssignDateTaskOK: 'You have successfully edited the dates of [=tasks].',
-  mSlackAssignTagsTaskOK: 'You have successfully edited the tags of [=tasks].',
-  mSlackEditNameTaskOK: 'You have successfully renamed [=task].',
-  mSlackCommentTaskOK: '[=who] has successfully commented [=task].',
-  mSlackFollowTaskOK: '[=who] has got this channel to follow [=tasks].',
-  mSlackUnfollowTaskOK: '[=who] has got this channel to unfollow [=tasks].',
-  mSlackFollowProjectOK: '[=who] has got this channel to follow [=projects].',
-  mSlackUnfollowProjectOK: '[=who] has got this channel to unfollow [=projects].',
-  mSlackFailProjectNotFound: 'Project [=project]: not found.',
-  mSlackNoLinkedProject: 'This channel is not linked to any project.',
-  mSlackFailUserNotFound: 'Please check if [=name] has linked to his or her Quire account.',
-  mSlackFailMemberNotFound: 'Error: [=name] is not a member of your project',
-  mSlackFailTaskNotFound: 'Task [=task]: not found.',
-  mSlackFailTaskNotAllow: 'Task [=task]: not allowed.',
+    '`/quire [follow или unfollow] project [код проекта 1] [код проекта 2]`\n'
+    'Пример: `/quire follow project Development_Project Marketing_Project`',
+  mSlackNeedLinkProject: 'Сначала вам нужно установить ссылку на проект Quire.',
+  mSlackCurrentLinkProject: 'Этот канал уже связан с [=project].',
+  mSlackCurrentLinkProjectSimpleHelp: 'Этот канал связан с [=project].',
+  mSlackCurrentLinkProjectMarker: '(уже связан)',
+  mSlackLinkProjectOK: '[=who] связал этот канал с [=project].',
+  mSlackUnLinkProjectOK: '[=who] отключил этот канал от [=project].',
+  mSlackAddTaskOK: '[=who] успешно добавил [=task]',
+  mSlackAddTaskUnderOK: '[=who] успешно добавил подзадачу [=task] под [=parent].',
+  mSlackAddTaskAfterOK: '[=who] успешно добавил задачу [=task] после [=sibling].',
+  mSlackCompleteTaskOK: 'Вы успешно завершили [=tasks].',
+  mSlackDeleteTaskOK: 'Вы успешно удалили [=tasks].',
+  mSlackAssignAssigneesTaskOK: 'Вы успешно отредактировали исполнителей [=tasks].',
+  mSlackAssignPriorityTaskOK: 'Вы успешно изменили приоритет [=tasks].',
+  mSlackAssignDateTaskOK: 'Вы успешно отредактировали даты [=tasks].',
+  mSlackAssignTagsTaskOK: 'Вы успешно отредактировали метки [=tasks].',
+  mSlackEditNameTaskOK: 'Вы успешно переименовали [=task].',
+  mSlackCommentTaskOK: '[=who] успешно прокомментировал [=task].',
+  mSlackFollowTaskOK: '[=who] использовал этот канал для слежения за [=tasks].',
+  mSlackUnfollowTaskOK: '[=who] использовал этот канал для отмены слежения за [=tasks].',
+  mSlackFollowProjectOK: '[=who] использовал этот канал для слежения за [=projects].',
+  mSlackUnfollowProjectOK: '[=who] спользовал этот канал для отмены слежения за [=projects].',
+  mSlackFailProjectNotFound: 'Проект [=project]: не найден.',
+  mSlackNoLinkedProject: 'Этот канал не связан ни с одним проектом.',
+  mSlackFailUserNotFound: 'Пожалуйста, проверьте, что [=name] связано со его/её учетной записью в Quire.',
+  mSlackFailMemberNotFound: 'Ошибка: [=name] не является участником вашего проекта',
+  mSlackFailTaskNotFound: 'Задача [=task]: не найдена.',
+  mSlackFailTaskNotAllow: 'Задача [=task]: нет доступа.',
   mSlackFailListNotFound:
-    'Nothing found in the linked project. '
-    'You can go to [=project] to add them first.',
-  mAddMemberPlaceholder: "Add member by email",
-  mMobileUndo: "Undo",
-  mMobileTaskTreeAddTask: "Add Task",
-  mMobileCamera: "Camera",
-  mMobilePhotos: "Photos",
-  mMobilePhoto: "Photo",
-  mMobileComment: "Comment",
-  mMobileTaskName: "Task name",
-  mMobileTaskDesc: "Task description",
-  mMobileSaveToPhoto: "Saved to Photos",
-  mMobileEditPriority: "Edit Priority",
-  mMobileOffline: "Offline",
-  mMobileHide: "Hide",
-  mMobileAccount: "Account",
-  mMobileMyFeedback: "My Feedback",
-  mMobileSendFeedback: "Send Feedback",
-  mMobileRateQuire: "Rate Quire",
-  mMobileAddTags: "Add Tags",
-  mMobileSettings: "Settings",
-  mMobileSearch: "Search",
-  mMobileDueDay: "Due Date",
-  mMobileDueTime: "Due Time",
-  mMobileStartDay: "Start Date",
-  mMobileStartTime: "Start Time",
-  mMobileRepeateTask: "Repeat Task",
-  mMobileApply: "Apply",
-  mMobileStatus: "Status",
-  mMobileSort: "Sort",
-  mMobileNew: "New",
-  mMobileRetry: "Retry",
-  mMobileRefresh: "Refresh",
-  mMobileNextWeek: "Next week",
-  mMobilePickDate: "Pick date",
-  mMobileJustRefresh: "Just Refreshed",
-  mMobileDrill: "Zoom in",
-  mMobileUndrill: "Zoom out",
-  mMobileFavorite: "Favorite",
-  mMobileFavorited: "Favorited",
-  mMobileView: "VIEW",
-  mMobileCopiedTo: "Copied to",
-  mMobileTransferedTo: "Transferred to",
-  mMobileNewTask: "New Task",
-  mMobileBack: "Back",
-  mMobileIgnore: "ignore",
-  mMobileReload: "reload",
-  mMobileTime: "Time",
-  mMobileEditRole: "Edit role",
-  mMobileMenuArchive: "Archive",
-  mMobileMenuUnarchive: "Unarchive",
-  mMobileTasksSelected: "[=amount] Selected",
-  mMobileFiles: "Files",
-  mMobileSyncing: "Syncing",
-  mMobileMySelf: "Myself",
-  mMobileShare: "Share",
-  mMobileSkip: "Skip",
-  mMobileNext: "Next",
-  mMobileGreen: "Green",
-  mMobileBlue: "Blue",
-  mMobileGoogleDrive: "Google Drive",
-  mMobileDrafts: "Drafts",
-  mMobileDeleteAll: "Delete All",
-  mMobileUpdate: "Update",
-  mMobileNewBoard: "New Board",
-  mMobileArchivedBoard: "Archived boards",
-  mMobileProfileCamera: "Take Photo",
-  mMobileProfilePhoto: "Choose Existing Photo",
-  mMobileProfileIconColor: "Change Icon Color",
-  mMobileProfileEditColor: "Edit color",
-  mMobileEditPicture: "Edit Picture",
-  mMobileEditIcon: "Edit Icon",
-  mMobileEditName: "Edit Name",
-  mMobileEditDesc: "Edit Description",
-  mMobileEditCompany: "Edit Company",
-  mMobileEditWebsite: "Edit Website",
-  mMobileEditAttachments: "Edit Attachments",
-  mMobileEditDate: "Edit Date",
-  mMobileNoFileFound: "No files found",
-  mMobileFileModifiedDate: "Modified [=date]",
-  mMobileForgotPasswordTitle: "Forgot Password",
-  mMobileForgotResetErrorTitle: "Reset error",
-  mMobileSignupErrorTitle: "Signup error",
-  mMobileProjectTreeSearchOffline: "You cannot add project or organization when offline.",
-  mMobileDisconnected: "Connection lost. Please check your internet connection.",
-  mMobileTaskDeleted: "Sorry, this task has been deleted.",
-  mMobileUnableUploadAttachment: "We are unable to upload the file. Please try again.",
-  mMobileDetailSubtaskProgress: "Subtasks Progress",
-  mMobileDetailFollow: "Follow",
-  mMobileDetailFollowing: "Following",
-  mMobileDetailProjectInfo: "Project Info",
-  mMobileDetailProjectLotInfo: "Smart Folder Info",
-  mMobileDetailProjectTag: "Project Tags",
-  mMobileDetailTaskBeenDeletedTitle: "Oops!",
-  mMobileDetailTaskBeenDeletedDesc: "This task has been deleted.",
-  mMobileDetailTaskDescEdit: "Edit Task Info",
-  mMobileDetailProjectDescEdit: "Edit Project Info",
-  mMobileDetailTasksStatus: "Tasks Status",
-  mMobileDetailActivityLog: "Activity Log",
-  mMobileDetailReferralLog: "Referral Log",
-  mMobileShareTaskLink: "Share Link",
-  mMobileDueInvalidTitle: "Invalid Date",
-  mMobileDueInvalidDesc: "Your start date must be earlier than due date.",
-  mMobileDueAddTime: "Add Time",
-  mMobileAssigneeEditTitle: "Edit Assignee",
-  mMobileAssigneePartnerWarn: "This task is assigned to an external team, but you can assign it to your team member.",
-  mMobileAssigneeExternalTeamCantAssign: "Sorry, external team cannot be reassigned yet",
-  mMobileAssigneeHasAdded: "This member has already been added",
-  mMobileAssigneeInvite: "Invite a new member by email address",
-  mMobileAssigneeAssignee: "Asgnee",
-  mMobileAssigneeAssigner: "Asgner",
-  mMobileAssigneeCreator: "Creator",
-  mMobileFollowerEdit: "Edit Followers",
-  mMobileMemberAddTitle: "Add Members",
-  mMobileRemoveMember: "Remove Member",
-  mMobileUserName: "User name",
-  mMobileAttachmentAdd: "Add attachment",
-  mMobileCommentPost: "Post a comment",
-  mMobileFeedbackFieldRequired: "Subject and Comments are required",
-  mMobileFeedbackTitle: "Have a question or suggestion for us?\nWe're all ears!",
-  mMobileNewProject: "New Project",
-  mMobileNewProjectLot: "New Smart Folder",
-  mMobileNewOrganization: "New Organization",
-  mMobileOrganizationCreatedOn: "Created on [=createdAt]",
-  mMobileYourNewPassword: "Your new password.",
-  mMobileMoveProjectUp: "Move project up",
-  mMobileMoveProjectDown: "Move project down",
-  mMobileSearchProject: "Search Project",
-  mMobileSmartFolderExceedMaximum: "You have reached the maximum number of projects allowed in a Smart Folder.",
-  mMobileMenuManageTags: "Manage tags",
-  mMobileMenuManageMember: "Manage members",
-  mMobileAssignedByShort: "Asgd by",
-  mMobileCreatedByShort: "Crtd by",
-  mMobileAssignedToShort: "Asgd to",
-  mMobileSearchOptionsTitle: "Search results in...",
-  mMobileSearchRecent: "Recent searches",
-  mMobileSearchMoreChars: "Search by 3 or more characters",
-  mMobileSearchTaskHint: "Search for Tasks",
-  mMobileRateTitle: "Love Quire?",
-  mMobileRateDesc: "Cheer us on with a 5-star rating!",
-  mMobileRateNow: "Rate now",
-  mMobileRateFeedback: "Give us feedback",
-  mMobileRateNOThanks: "No, thanks",
-  mMobileTransferTaskToPrj: "To project:",
-  mMobileTransferTaskIncTag: "Keep the tags of the task",
-  mMobileTransferTaskIncUser: "Keep the people associated with the task",
-  mMobileTransferTaskCPTaskFinish: "Keep a copy of the task in this project",
-  mMobileSettingSupport: "Sorry, you cannot edit your profile yet. Please use the web browser for now.",
-  mMobileConfirmEmailExpired: "Oops!",
-  mMobileConfirmExpired: "Sorry, the email conformation link has expired.",
-  mMobileConfirmExpiredSubmit: "Try again",
-  mMobileSignupMailSentTitle: "You're almost there!",
+    'В связанном проекте ничего не найдено.'
+    'Вы можете перейти в [=project] и сперва их добавить.',
+  mAddMemberPlaceholder: "Добавить участника по адресу электронной почты",
+  mMobileUndo: "Отмена",
+  mMobileTaskTreeAddTask: "Добавить задачу",
+  mMobileCamera: "Камера",
+  mMobilePhotos: "Фотографии",
+  mMobilePhoto: "Фото",
+  mMobileComment: "Комментарий",
+  mMobileTaskName: "Название задачи",
+  mMobileTaskDesc: "Описание задания",
+  mMobileSaveToPhoto: "Сохранено в Фото",
+  mMobileEditPriority: "Изменить приоритет",
+  mMobileOffline: "Не в сети",
+  mMobileHide: "Спрятать",
+  mMobileAccount: "Аккаунт",
+  mMobileMyFeedback: "Мои отзывы",
+  mMobileSendFeedback: "Отправить отзыв",
+  mMobileRateQuire: "Оценить Quire",
+  mMobileAddTags: "Добавить метки",
+  mMobileSettings: "Настройки",
+  mMobileSearch: "Поиск",
+  mMobileDueDay: "Срок исполнения",
+  mMobileDueTime: "Время исполнения",
+  mMobileStartDay: "Дата начала",
+  mMobileStartTime: "Время начала",
+  mMobileRepeateTask: "Повтор задачи",
+  mMobileApply: "Применить",
+  mMobileStatus: "Статус",
+  mMobileSort: "Сортировка",
+  mMobileNew: "Новый",
+  mMobileRetry: "Повтор",
+  mMobileRefresh: "Обновить",
+  mMobileNextWeek: "Следующая неделя",
+  mMobilePickDate: "Выберите дату",
+  mMobileJustRefresh: "Только что обновлено",
+  mMobileDrill: "Приблизить",
+  mMobileUndrill: "Отдалить",
+  mMobileFavorite: "Добавить в избранное",
+  mMobileFavorited: "Избранное",
+  mMobileView: "ВИД",
+  mMobileCopiedTo: "Скопировано в",
+  mMobileTransferedTo: "Перенесено в",
+  mMobileNewTask: "Новая задача",
+  mMobileBack: "Назад",
+  mMobileIgnore: "игнорировать",
+  mMobileReload: "обновить",
+  mMobileTime: "Время",
+  mMobileEditRole: "Редактировать роль",
+  mMobileMenuArchive: "Архивировать",
+  mMobileMenuUnarchive: "Распаковать",
+  mMobileTasksSelected: "[=amount] выбран.",
+  mMobileFiles: "Файлы",
+  mMobileSyncing: "Синхронизация",
+  mMobileMySelf: "Себя",
+  mMobileShare: "Поделиться",
+  mMobileSkip: "Пропустить",
+  mMobileNext: "Далее",
+  mMobileGreen: "Зеленый",
+  mMobileBlue: "Синий",
+  mMobileGoogleDrive: "Google Диск",
+  mMobileDrafts: "Черновики",
+  mMobileDeleteAll: "Удалить всё",
+  mMobileUpdate: "Обновить",
+  mMobileNewBoard: "Новая доска",
+  mMobileArchivedBoard: "Архивные доски",
+  mMobileProfileCamera: "Сделать фото",
+  mMobileProfilePhoto: "Выбрать фото из галереи",
+  mMobileProfileIconColor: "Изменить цвет значка",
+  mMobileProfileEditColor: "Редактировать цвет",
+  mMobileEditPicture: "Редактировать изображение",
+  mMobileEditIcon: "Редактировать значок",
+  mMobileEditName: "Редактировать имя",
+  mMobileEditDesc: "Редактировать описание",
+  mMobileEditCompany: "Редактировать компанию",
+  mMobileEditWebsite: "Редактировать веб-сайт",
+  mMobileEditAttachments: "Редактировать вложения",
+  mMobileEditDate: "Редактировать дату",
+  mMobileNoFileFound: "Файлов не найдено",
+  mMobileFileModifiedDate: "Изменено [=date]",
+  mMobileForgotPasswordTitle: "Забыли пароль",
+  mMobileForgotResetErrorTitle: "Ошибка сброса",
+  mMobileSignupErrorTitle: "Ошибка регистрации",
+  mMobileProjectTreeSearchOffline: "Вы не можете добавить проект или организацию без доступа к интернету",
+  mMobileDisconnected: "Соединение потеряно. Пожалуйста, проверьте ваше подключение к интернету.",
+  mMobileTaskDeleted: "Простите, эта задача была удалена.",
+  mMobileUnableUploadAttachment: "Мы не можем загрузить файл. Пожалуйста, повторите попытку.",
+  mMobileDetailSubtaskProgress: "Прогресс подзадач",
+  mMobileDetailFollow: "Следить",
+  mMobileDetailFollowing: "Слежу за",
+  mMobileDetailProjectInfo: "Инфо проекта",
+  mMobileDetailProjectLotInfo: "Инфо умной папки",
+  mMobileDetailProjectTag: "Метки проекта",
+  mMobileDetailTaskBeenDeletedTitle: "Упс!",
+  mMobileDetailTaskBeenDeletedDesc: "Эта задача была удалена.",
+  mMobileDetailTaskDescEdit: "Редактировать информацию о задаче",
+  mMobileDetailProjectDescEdit: "Редактировать информацию о проекте",
+  mMobileDetailTasksStatus: "Статус задачи",
+  mMobileDetailActivityLog: "Журнал активности",
+  mMobileDetailReferralLog: "Журнал приглашений",
+  mMobileShareTaskLink: "Поделиться ссылкой",
+  mMobileDueInvalidTitle: "Неверная дата",
+  mMobileDueInvalidDesc: "Дата начала должна быть раньше даты окончания.",
+  mMobileDueAddTime: "Добавить время",
+  mMobileAssigneeEditTitle: "Редактировать назначенного",
+  mMobileAssigneePartnerWarn: "Эта задача назначена внешней команде, но вы можете назначить её участнику проекта.",
+  mMobileAssigneeExternalTeamCantAssign: "Простите, внешняя команда пока не может быть переназначена",
+  mMobileAssigneeHasAdded: "Этот участник уже был добавлен",
+  mMobileAssigneeInvite: "Пригласить нового участника по адресу электронной почты",
+  mMobileAssigneeAssignee: "Назначен",
+  mMobileAssigneeAssigner: "Назначил",
+  mMobileAssigneeCreator: "Создатель",
+  mMobileFollowerEdit: "Редактировать следящих",
+  mMobileMemberAddTitle: "Добавить участников",
+  mMobileRemoveMember: "Удалить участника",
+  mMobileUserName: "Имя пользователя",
+  mMobileAttachmentAdd: "Добавить файл",
+  mMobileCommentPost: "Отправить комментарий",
+  mMobileFeedbackFieldRequired: "Тема и комментарий обязательны",
+  mMobileFeedbackTitle: "Есть вопрос или предложение для нас?\nМы внимательно слушаем!",
+  mMobileNewProject: "Новый проект",
+  mMobileNewProjectLot: "Новая умная папка",
+  mMobileNewOrganization: "Новая организация",
+  mMobileOrganizationCreatedOn: "Создано в [=createdAt]",
+  mMobileYourNewPassword: "Ваш новый пароль.",
+  mMobileMoveProjectUp: "Переместить проект вверх",
+  mMobileMoveProjectDown: "Переместить проект вниз",
+  mMobileSearchProject: "Поиск проекта",
+  mMobileSmartFolderExceedMaximum: "Вы достигли максимального количества проектов, допустимых в умной папке.",
+  mMobileMenuManageTags: "Редактировать метки",
+  mMobileMenuManageMember: "Редактировать участников",
+  mMobileAssignedByShort: "Кем назн.",
+  mMobileCreatedByShort: "Кем созд.",
+  mMobileAssignedToShort: "Кому назн.",
+  mMobileSearchOptionsTitle: "Искать результаты в...",
+  mMobileSearchRecent: "Последние поиски",
+  mMobileSearchMoreChars: "Поиск по 3 и более символам",
+  mMobileSearchTaskHint: "Поиск задач",
+  mMobileRateTitle: "Нравится Quire?",
+  mMobileRateDesc: "Оцените нас на 5 звезд!",
+  mMobileRateNow: "Оценить сейчас",
+  mMobileRateFeedback: "Обратная связь",
+  mMobileRateNOThanks: "Нет, спасибо",
+  mMobileTransferTaskToPrj: "В проект:",
+  mMobileTransferTaskIncTag: "Сохранить метки задачи",
+  mMobileTransferTaskIncUser: "Сохранить назначенных участников",
+  mMobileTransferTaskCPTaskFinish: "Оставить копию задачи в этом проекте",
+  mMobileSettingSupport: "Простите, редактирование профиля здесь пока не доступно. Пожалуйста, пока используйте браузер для этого.",
+  mMobileConfirmEmailExpired: "Упс!",
+  mMobileConfirmExpired: "Простите, ссылка на подтверждение адреса электронной почты истекла.",
+  mMobileConfirmExpiredSubmit: "Попробовать снова",
+  mMobileSignupMailSentTitle: "Почти всё готово!",
   mMobileSignupMailSentDesc:
-    'We have sent a confirmation email to <strong>[=email]</strong>.<br>'
-    'Please [=hrefStart]check your inbox[=hrefEnd] or spam folder to complete registration.',
-  mMobileLoginErrorTitle: "Error",
-  mMobileLoginErrorDesc: "Incorrect email or password",
-  mMobileForgotPasswordDesc: "Don't worry! Enter your email address and we will send you a link to reset your password.",
-  mMobileEmailSentCheckTitle: "Help's on the way!",
-  mMobileEmailSentCheckDesc: "Please [=hrefStart]check your inbox[=hrefEnd] or spam folder.",
-  mMobileEmptyBackgroundTitle: "Ready?",
-  mMobileEmptyBackgroundDesc: "Add some ideas to kick start your dream!",
-  mMobileNOFilterBackgroundDesc: "Hurray~ no task is due!",
-  mMobileNODrillBackgroundDesc: "There is no subtask to show.",
-  mMobileFilterBackgroundDesc1: "No tasks found. You can try to ",
-  mMobileFilterBackgroundDesc2: "reset filter",
+    'Мы отправили письмо с подтверждением на адрес <strong>[=email]</strong>.<br>'
+    'Пожалуйста [=hrefStart]проверьте свои Входящие[=hrefEnd] или папку Спам для завершения регистрации.',
+  mMobileLoginErrorTitle: "Ошибка",
+  mMobileLoginErrorDesc: "Неверный адрес почты или пароль",
+  mMobileForgotPasswordDesc: "Не переживайте! Введите свой адрес почты и мы отправим вам ссылку на сброс вашего пароля.",
+  mMobileEmailSentCheckTitle: "Помощь уже в пути!",
+  mMobileEmailSentCheckDesc: "Пожалуйста [=hrefStart]проверьте свои Входящие[=hrefEnd] или папку Спам.",
+  mMobileEmptyBackgroundTitle: "Готовы?",
+  mMobileEmptyBackgroundDesc: "Добавьте пару идей для достижения вашей мечты!",
+  mMobileNOFilterBackgroundDesc: "Ура~ нет просроченных задач!",
+  mMobileNODrillBackgroundDesc: "Нет подзадач для отображения.",
+  mMobileFilterBackgroundDesc1: "Задач не найдено. Вы можете ",
+  mMobileFilterBackgroundDesc2: "сбросить фильтр",
   mMobileFilterBackgroundDesc3: ".",
-  mMobile404BackgroundTitle: "Ouch.",
-  mMobile404BackgroundDesc: "The thing you're looking for is gone.",
-  mMobileNOConnectionBackgroundTitle: "Bummer.",
-  mMobileNOConnectionBackgroundDesc: "Looks like you lost connection.",
-  mMobileInitNOConnectionTitle: "Oops!",
-  mMobileInitNOConnectionDesc: "We seem to lost you. Please try connecting again.",
-  mMobileNOProjectTitle: "Nothing Here",
-  mMobileNOProjectDesc: "You can create a project or refresh to see if you already have one.",
-  mMobileNOPermissionToFunction: "You don't have permission to use this function.",
-  mMobileFeedbackPublic: "Allow other Quire users to see",
-  mMobileFeedbackSuccessTitle: "Thank You!",
-  mMobileFeedbackSuccessDesc: "Your feedback is important to us. We’ll get back to you ASAP!",
-  mMobileFeedbackSuccessUrl: "Check out my feedback",
-  mMobileFeedbackSuccessOK: "OK",
+  mMobile404BackgroundTitle: "Оу.",
+  mMobile404BackgroundDesc: "То что вы ищете куда-то делось.",
+  mMobileNOConnectionBackgroundTitle: "Вот ведь.",
+  mMobileNOConnectionBackgroundDesc: "Кажется нет подключения к интернету.",
+  mMobileInitNOConnectionTitle: "Упс!",
+  mMobileInitNOConnectionDesc: "Мы потеряли связь. Попробуйте подключиться ещё раз.",
+  mMobileNOProjectTitle: "Ничего нет",
+  mMobileNOProjectDesc: "Вы можете создать проект или обновить, вдруг уже появился один.",
+  mMobileNOPermissionToFunction: "У вас нет прав на использование этой функции.",
+  mMobileFeedbackPublic: "Разрешить просмотр другим пользователям Quire",
+  mMobileFeedbackSuccessTitle: "Спасибо!",
+  mMobileFeedbackSuccessDesc: "Ваша обратная связь важна для нас. Мы ответим так быстро, как только сможем!",
+  mMobileFeedbackSuccessUrl: "Проверить мои отзывы",
+  mMobileFeedbackSuccessOK: "ОК",
   mMobileArchiveProjectContent:
-    "You're about to archive this project. "
-    "An archived project will be moved to the Archived in the menu sidebar.",
-  mMobileSidebarSearchForPrj: "Search for Projects",
-  mMobileMenuAddToMyTask: "Add to My Tasks",
-  mMobileReadOnlyProfileDesc: "It is a read-only view for now. For updates and news, follow us on",
-  mMobilePermissionDenyCamera: "You need to go to Settings and grant permissions for Quire to access your Camera.",
-  mMobilePermissionDenyPhotos: "You need to go to Settings and grant permissions for Quire to access your Photos.",
-  mMobileCrashRefreshTitle: "Oops!",
-  mMobileCrashRefreshDesc: "Looks like something went wrong! We track these errors automatically. In the meantime, you can try refreshing.",
-  mMobileBatchNOSelectedDesc: "You need to select at least one task.",
-  mMobileExcludeCompletedTask: "Exclude completed task",
-  mMobilePressBackAgainToExit: "Press again to EXIT",
-  mMobileRefreshForLanguageChange: "We will reload for your language settings to take effect.",
-  mMobileAddEmail: "Add Email",
-  mMobileEditEmail: "Edit Email",
-  mMobileEXServerError: "Sorry, we encountered an unexpected error. Please try again later.",
-  mMobileEXTaskCreated: "Your task has been added",
-  mMobileEXTaskCreatedImgMaxDeny1: "Please choose",
-  mMobileEXTaskCreatedImgMaxDeny2: "photos or less",
-  mMobileEXLogin: "Please log in Quire first",
-  mMobileSelfAssign: "Assign myself",
-  mMobileAddDue: "Add due date",
-  mMobileSelectATask: "Select a task",
-  mMobileTutorialVideos: "Tutorial videos",
-  mMobileAltHint: "Advanced mode on. You can shake again to toggle off.",
-  mMobileEditSmartFolder: "Edit Smart Folder",
-  mMobileViews: "VIEWS",
-  mMobileShowUndoList: "Show undo list",
-  mMobileSelectTasks: "Select tasks",
-  mMobileEditProject: "Edit project",
-  mMobileAddSublistTasks: "Add tasks to your sublist.",
-  mMobileEditOrganization: "Edit organization",
-  mMobileOrganizationSettings: "Organization settings",
-  mMobileEditProfile: "Edit profile",
-  mMobileViewAll: "View All",
-  mMobileNewNotification: "New notification",
-  mMobileUndoList: "UNDO LIST",
-  mMobileVisitTo: "Visit [=name]",
-  mMobileResultFoundIn: "RESULTS FOUND IN",
-  mMobileSidebarBookmarks: "Bookmarks",
-  mMobileSidebarRecent: "Recent",
-  mMobileSidebarSmartFolders: "Smart Folders",
-  mMobileSidebarProjects: "Projects",
-  mMobileHome: "Home",
-  mMobileShow: "Show",
-  mMobileSearchTasksInProjects: "Search tasks in other projects",
-  mMobileTasksFoundIn: "TASKS FOUND IN",
-  mMobileTabNotification: "Notifications",
-  mMobileTabMyTasks: "My Tasks",
-  mMobileSearchTaskResultEmpty: "No results found in <b>[=name]</b>.",
-  mMobileListDropToSub: "Drop tasks to another view",
-  mMobileSubDropToOthers: "Move tasks away from this view",
-  mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
-  mMobileDraftBannerContinue: "Continue writing your drafts.",
-  mMobileDropForQuickSet: 'Drop for quick set'
+    "Вы планируете архивировать этот проект. "
+    "Архивные проекты размещаются в разделе Архив бокового меню.",
+  mMobileSidebarSearchForPrj: "Поиск проектов",
+  mMobileMenuAddToMyTask: "Добавить в Мои задачи",
+  mMobileReadOnlyProfileDesc: "В данный момент только для чтения. Для обновлений и новостей следите за нами в ",
+  mMobilePermissionDenyCamera: "Вам надо зайти в настройки телефона и разрешить Quire доступ к камере (Камера).",
+  mMobilePermissionDenyPhotos: "Вам надо зайти в настройки телефона и разрешить Quire доступ к фото (Хранилище).",
+  mMobileCrashRefreshTitle: "Упс!",
+  mMobileCrashRefreshDesc: "Кажется что-то пошло не так! Мы отслеживаем такие ошибки автоматически. Тем временем, попробуйте обновить страницу.",
+  mMobileBatchNOSelectedDesc: "Вам нужно выбрать хотя бы одну задачу.",
+  mMobileExcludeCompletedTask: "Исключить выполненные задачи.",
+  mMobilePressBackAgainToExit: "Нажмите ещё раз для ВЫХОДА",
+  mMobileRefreshForLanguageChange: "Мы перезагрузим страницу, чтобы ваши языковые настройки вступили в силу.",
+  mMobileAddEmail: "Добавить адрес почты",
+  mMobileEditEmail: "Редактировать адрес почты",
+  mMobileEXServerError: "Простите, мы столкнулись с неожиданной ошибкой. Пожалуйста, попробуйте позже.",
+  mMobileEXTaskCreated: "Ваша задача была добавлена",
+  mMobileEXTaskCreatedImgMaxDeny1: "Пожалуйста выберите",
+  mMobileEXTaskCreatedImgMaxDeny2: "фото или меньше",
+  mMobileEXLogin: "Пожалуйста сначала войдите в Quire",
+  mMobileSelfAssign: "Назначить себе",
+  mMobileAddDue: "Добавить срок выполнения",
+  mMobileSelectATask: "Выбрать задачу",
+  mMobileTutorialVideos: "Видеоруководства",
+  mMobileAltHint: "Расширенный режим включен. Вы можете снова встряхнуть, чтобы выключить.",
+  mMobileEditSmartFolder: "Редактировать умную папку",
+  mMobileViews: "ВИДЫ",
+  mMobileShowUndoList: "Показать список отмены",
+  mMobileSelectTasks: "Выбрать задачи",
+  mMobileEditProject: "Редактировать проект",
+  mMobileAddSublistTasks: "Добавить задачи в ваш подсписок.",
+  mMobileEditOrganization: "Редактировать организацию",
+  mMobileOrganizationSettings: "Настройки организации",
+  mMobileEditProfile: "Редактировать профиль",
+  mMobileViewAll: "Смотреть все",
+  mMobileNewNotification: "Новое уведомление",
+  mMobileUndoList: "СПИСОК ОТМЕНЫ",
+  mMobileVisitTo: "Визит [=name]",
+  mMobileResultFoundIn: "РЕЗУЛЬТАТЫ НАЙДЕНЫ В",
+  mMobileSidebarBookmarks: "Закладки",
+  mMobileSidebarRecent: "Недавние",
+  mMobileSidebarSmartFolders: "Умные папки",
+  mMobileSidebarProjects: "Проекты",
+  mMobileHome: "Главная",
+  mMobileShow: "Показать",
+  mMobileSearchTasksInProjects: "Искать задачи в других проектах",
+  mMobileTasksFoundIn: "ЗАДАЧИ НАЙДЕНЫ В",
+  mMobileTabNotification: "Уведомления",
+  mMobileTabMyTasks: "Мои задачи",
+  mMobileSearchTaskResultEmpty: "Нет результатов в <b>[=name]</b>.",
+  mMobileListDropToSub: "Перекинуть задачи в другое отображение",
+  mMobileSubDropToOthers: "Убрать задачи из этого отображения",
+  mMobileSubDropToOthersDialog: "Выберите отображение, куда добавить задачи",
+  mMobileDraftBannerContinue: "Продолжить работу над черновиками.",
+  mMobileDropForQuickSet: 'Тащите для быстрой установки'
 };
