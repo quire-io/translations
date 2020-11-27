@@ -28,7 +28,7 @@ const ruServer = const <String, String> {
   mSidebarBookmarksUpper: "ЗАКЛАДКИ",
   mSidbarRecentUpper: "ПОСЛЕДНИЕ",
   mSidebarArchive: "В архиве",
-  mSidebarHidden: 'Скрытые',
+  mSidebarHidden: 'Скрыт',
   mSidebarRecycleBin: 'Корзина',
   mSidebarMembersUpper: "УЧАСТНИКИ",
   mAppCategoriesUpper: 'КАТЕГОРИИ',
@@ -1452,5 +1452,5 @@ const ruServer = const <String, String> {
   mMobileSubDropToOthers: "Убрать задачи из этого отображения",
   mMobileSubDropToOthersDialog: "Выберите отображение, куда добавить задачи",
   mMobileDraftBannerContinue: "Продолжить работу над черновиками.",
-  mMobileDropForQuickSet: 'Тащите для быстрой установки'
+  mMobileDropForQuickSet: 'Перетащите для быстрой установки'
 };
