@@ -24,7 +24,7 @@ const ruServer = const <String, String> {
   mOrganizationLower: "организация",
   mSidebarMyTasksUpper: "МОИ ЗАДАЧИ",
   mSidebarSmartFolderUpper: "УМНЫЕ ПАПКИ",
-  mSidebarWorkspaceUpper: "РАБОЧЕЕ ПРОСТРАНСТВО",
+  mSidebarWorkspaceUpper: "РАБОЧЕЕ МЕСТО",
   mSidebarBookmarksUpper: "ЗАКЛАДКИ",
   mSidbarRecentUpper: "ПОСЛЕДНИЕ",
   mSidebarArchive: "В архиве",
