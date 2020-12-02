@@ -132,7 +132,7 @@ const ruClient = const <String, String> {
   mOverdue: "Просрочено",
   mLater: "Позже",
   mEarlier: "РАНЕЕ",
-  mUnscheduled: "Незапланировано",
+  mUnscheduled: "Не запланировано",
   mUntilDate: "До даты",
   mSinceDate: "С даты",
   mOnDate: "В дату",
