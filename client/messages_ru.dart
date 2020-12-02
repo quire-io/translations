@@ -152,7 +152,7 @@ const ruClient = const <String, String> {
   mGroupCompleted: "Завершено",
   mYourEmail: "Ваш адрес электронной почты",
   mAddEmail: "Добавить адрес электронной почты",
-  mAddCrossProject: "Добавить смарт-папку",
+  mAddCrossProject: "Добавить умную папку",
   mAddOrganization: "Добавить организацию",
   mAddProject: "Добавить проект",
   mAdd: "Добавить",
@@ -740,7 +740,7 @@ const ruClient = const <String, String> {
     "bot=Боты;com=Коммуникация;crm=Техподдержка;dev=Разработка;"
     "file=Управление файлами;mkt=Маркетинг;fin=Финансы;rpt=Отчеты;sale=Продажи;time=Отслеживание времени",
   mDeleteOrganization: "Удалить эту организацию",
-  mDeleteProjectLotTitle: "Удалить смарт-папку",
+  mDeleteProjectLotTitle: "Удалить умную папку",
   mDeleteProjectTitle: "Удалить проект",
   mTransferProjectTitle: "Перенос проекта",
   mCopyProject: "Сделать копию [=name]",
