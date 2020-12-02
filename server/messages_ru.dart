@@ -931,7 +931,7 @@ const ruServer = const <String, String> {
   mOrganizationsAndProjects: "Организации и проекты",
   mOrganizationsPicture: "Изображение организации",
   mMembers: "Участники",
-  mRecentActivities: "Недваняя активность",
+  mRecentActivities: "Недавняя активность",
   mUpdateFromQuire: "Обновления в Quire",
   mMembersSecDesc: "Участники организации имеют доступ к любому принадлежащему ей проекту.",
   mAutoMode: "(авто)",
