@@ -185,7 +185,7 @@ const ruWeb = const <String, String> {
     'Quire обязуется быть прозрачным и понятным без каких-либо скрытых планов использования <a href="/privacy">личных данных</a> пользователей.',
   mTutorialTitle: "Руководство Quire",
   mTutorialDesc:
-    "Добро пожаловать!<br>Готовы начать свои проекты? "
+    "Добро пожаловать!<br>Готовы начать свои проекты?<br> "
     "Вот несколько шагов, которые помогут вам начать работу в Quire.",
   mTutorialAddProjectTitle: "Назови свой великий проект",
   mTutorialAddProjectContent:
