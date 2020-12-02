@@ -28,7 +28,7 @@ const ruServer = const <String, String> {
   mSidebarBookmarksUpper: "ЗАКЛАДКИ",
   mSidbarRecentUpper: "ПОСЛЕДНИЕ",
   mSidebarArchive: "В архиве",
-  mSidebarHidden: 'Скрыт',
+  mSidebarHidden: 'Скрытые',
   mSidebarRecycleBin: 'Корзина',
   mSidebarMembersUpper: "УЧАСТНИКИ",
   mAppCategoriesUpper: 'КАТЕГОРИИ',
