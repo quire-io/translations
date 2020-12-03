@@ -1419,7 +1419,6 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mMobileSidebarBookmarks: "Marque-pages",
   mMobileSidebarRecent: "Récent",
   mMobileSidebarSmartFolders: "Dossiers intelligents",
-  mMobileSidebarProjects: "Projets",
   mMobileHome: "Accueil",
   mMobileShow: "Afficher",
   mMobileSearchTasksInProjects: "Chercher dans les autres projets",

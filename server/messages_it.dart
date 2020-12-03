@@ -1437,7 +1437,6 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileSidebarBookmarks: "Preferiti",
   mMobileSidebarRecent: "Recenti",
   mMobileSidebarSmartFolders: "Cartelle Intelligenti",
-  mMobileSidebarProjects: "Progetti",
   mMobileHome: "Home",
   mMobileShow: "Mostra",
   mMobileSearchTasksInProjects: "Ricerca attività in altri progetti",

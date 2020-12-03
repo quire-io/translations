@@ -1437,7 +1437,6 @@ Quireをご利用になったご感想をお聞かせください。
   mMobileSidebarBookmarks: "ブックマーク",
   mMobileSidebarRecent: "閲覧履歴",
   mMobileSidebarSmartFolders: "スマートフォルダー",
-  mMobileSidebarProjects: "プロジェクト",
   mMobileHome: "トップ",
   mMobileShow: "表示",
   mMobileSearchTasksInProjects: "他のプロジェクトのタスクを検索",

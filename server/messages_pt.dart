@@ -1438,7 +1438,6 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   mMobileSidebarBookmarks: "Favoritos",
   mMobileSidebarRecent: "Recentes",
   mMobileSidebarSmartFolders: "Pastas Inteligentes",
-  mMobileSidebarProjects: "Projetos",
   mMobileHome: "Página Inicial",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Pesquisar tarefas noutros projetos",

@@ -1437,7 +1437,6 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mMobileSidebarBookmarks: "Marcadores",
   mMobileSidebarRecent: "Recientes",
   mMobileSidebarSmartFolders: "Carpetas Inteligentes",
-  mMobileSidebarProjects: "Proyectos",
   mMobileHome: "Página de inicio",
   mMobileShow: "Mostrar",
   mMobileSearchTasksInProjects: "Buscar tareas en otros proyectos",

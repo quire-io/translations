@@ -1436,7 +1436,6 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mMobileSidebarBookmarks: "Yer İmleri",
   mMobileSidebarRecent: "Güncel",
   mMobileSidebarSmartFolders: "Akıllı Klasörler",
-  mMobileSidebarProjects: "Projeler",
   mMobileHome: "Ana Sayfa",
   mMobileShow: "Göster",
   mMobileSearchTasksInProjects: "Görevleri diğer projelerde ara",

@@ -1430,7 +1430,6 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mMobileSidebarBookmarks: "Lesezeichen",
   mMobileSidebarRecent: "Kürzlich",
   mMobileSidebarSmartFolders: "Smarte Ordner",
-  mMobileSidebarProjects: "Projekte",
   mMobileHome: "Home",
   mMobileShow: "Anzeigen",
   mMobileSearchTasksInProjects: "Aufgaben in anderen Projekten suchen",

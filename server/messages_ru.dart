@@ -1440,7 +1440,6 @@ const ruServer = const <String, String> {
   mMobileSidebarBookmarks: "Закладки",
   mMobileSidebarRecent: "Недавние",
   mMobileSidebarSmartFolders: "Умные папки",
-  mMobileSidebarProjects: "Проекты",
   mMobileHome: "Главная",
   mMobileShow: "Показать",
   mMobileSearchTasksInProjects: "Искать задачи в других проектах",

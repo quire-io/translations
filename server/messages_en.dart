@@ -1825,7 +1825,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSidebarBookmarks: "Bookmarks",
   mMobileSidebarRecent: "Recent",
   mMobileSidebarSmartFolders: "Smart Folders",
-  mMobileSidebarProjects: "Projects",
   mMobileHome: "Home",
   mMobileShow: "Show",
   mMobileSearchTasksInProjects: "Search tasks in other projects",
