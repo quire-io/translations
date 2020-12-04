@@ -107,7 +107,7 @@ const ruClient = const <String, String> {
   mArchivedTask: 'Скрыть задачу',
   mId: "ID",
   mParent: "Родитель",
-  mName: "Название",
+  mName: "Имя",
   mDescription: "Описание",
   mProgress: "Прогресс",
   mWebsite: "Веб-сайт",

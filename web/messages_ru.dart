@@ -265,7 +265,7 @@ const ruWeb = const <String, String> {
     "<h3>Перемещение</h3>"
     "<ul>"
     "<li><kbd>Ctrl + ↑/↓</kbd> &mdash; Для перемещения задач вверх или вниз.</li>"
-    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Для перемещения задач влево или вправо, то есть уровень вверх или вниз.</li>"
+    "<li><kbd>Ctrl + ←/→</kbd> &mdash; Для перемещения задач влево или вправо, то есть на уровень вверх или вниз.</li>"
     "</ul>"
     "<h3>Действия с задачами</h3>"
     "<ul>"
@@ -281,7 +281,7 @@ const ruWeb = const <String, String> {
     "</ul>",
   mTutorialQuickAssignTitle: "Быстрое назначение",
   mTutorialQuickAssignContent:
-    '<p>Чтобы быстро назначить задачу, метку и прочее. '
+    '<p>Чтобы быстро назначить задачу, метку и прочее '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">без мыши</a>, '
     'нажмите @, #, <, !, ^, / на клавиатуре, когда нужные задачи выбраны.</p>'
     "<ul>"
