@@ -987,7 +987,7 @@ const ruServer = const <String, String> {
   m3dayBefore: "За 3 дня до",
   mStartOFDay: "В начале дня",
   mStartOFWeek: "В начале недели",
-  mRemindTime: "Напоминать о предстоящих задачах со временем",
+  mRemindTime: "Напоминать о предстоящих задачах со временем выполнения",
   m0MinutesBefore: "В это время",
   m15MinutesBefore: "За 15 минут до",
   m30MinutesBefore: "За 30 минут до",
