@@ -973,7 +973,7 @@ const ruServer = const <String, String> {
   mUpdateMeNotifications: "Только назначенные мне",
   mSettingManageReminder: "Управление настройками напоминаний",
   mSendActivityNotification: "Отправлять уведомления об активности",
-  mSendActivityNotificationDesc: "Вы можете настроить, какие уведомления вы хотите получать, в разделе настроек проекта.",
+  mSendActivityNotificationDesc: "Вы можете настроить какие уведомления вы хотите получать в разделе настроек проекта.",
   mActivityNotice: "Уведомления об активности",
   mReceiveBlogPosts: "Новые сообщения в блоге",
   mReceivePolicyUpdates: "Обновления о членстве и политике Quire",
