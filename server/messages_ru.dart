@@ -860,7 +860,7 @@ const ruServer = const <String, String> {
   mSettingOptionStartDesc: "Всегда показывать дату начала при установке даты",
   mSettingOptionTimeDesc: "Всегда показывать время при установке даты",
   mSettingOptionAssignee: "Множественное назначение",
-  mSettingOptionAssigneeDesc: "Всегда добавлять людей к исполнителям, когда нажимаете на их имена",
+  mSettingOptionAssigneeDesc: "Всегда добавлять людей к исполнителям при нажатии на их имена",
   mSettingOptionStatus: "Статус",
   mSettingOptionStatusDesc: "Всегда показывать выбор статуса задачи, когда вы нажимаете на значок завершения",
   mSettingOptionPrivate: "Приватный",
