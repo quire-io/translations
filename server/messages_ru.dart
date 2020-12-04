@@ -1324,7 +1324,7 @@ const ruServer = const <String, String> {
   mMobileAssigneePartnerWarn: "Эта задача назначена внешней команде, но вы можете назначить её участнику проекта.",
   mMobileAssigneeExternalTeamCantAssign: "Простите, внешняя команда пока не может быть переназначена",
   mMobileAssigneeHasAdded: "Этот участник уже был добавлен",
-  mMobileAssigneeInvite: "Пригласить нового участника по адресу электронной почты",
+  mMobileAssigneeInvite: "Пригласите нового участника, указав адрес электронной почты",
   mMobileAssigneeAssignee: "Назначен",
   mMobileAssigneeAssigner: "Назначил",
   mMobileAssigneeCreator: "Создатель",
