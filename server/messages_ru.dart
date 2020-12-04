@@ -949,9 +949,9 @@ const ruServer = const <String, String> {
     'При связывании вашей организации произошла ошибка. Повторите попытку.'
     'Если ошибка повторится, не стесняйтесь <a href="mailto:support@quire.io">связаться с нами</a>.',
   mGeneral: "Общее",
-  mOrganizationUrl: "Адрес URL организации",
-  mCrossProjectUrl: "Адрес URL умной папки",
-  mProfileUrl: "Адрес URL профиля",
+  mOrganizationUrl: "Адрес организации",
+  mCrossProjectUrl: "Адрес умной папки",
+  mProfileUrl: "Адрес профиля",
   mCompany: "Компания",
   mActive: "Активные",
   mEmailNotifications: "Уведомления по электронной почте",
