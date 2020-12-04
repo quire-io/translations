@@ -213,7 +213,7 @@ const ruClient = const <String, String> {
   mCustomize: "Настроить",
   mHideCustomize: "Скрыть настройки",
   mApply: "Применить",
-  mPrimary: "Основные",
+  mPrimary: "Основная",
   mPassword: "Пароль",
   mTheme: "Тема",
   mSettings: "Настройки",
