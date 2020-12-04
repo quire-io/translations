@@ -847,7 +847,7 @@ const ruServer = const <String, String> {
   mSettingOptionAddToTop: "Добавить наверх",
   mSettingOptionAddToBottom: "Добавить вниз",
   mSettingOptionFavorite: "Избранное",
-  mSettingOptionFavoriteDesc: "Разрешить лайкнуть (♥) задачу, чтобы сосредоточиться на тех, которые важны лично для вас",
+  mSettingOptionFavoriteDesc: "Разрешить ♥ задачи, чтобы сосредоточиться на тех, которые важны лично для вас",
   mSettingOptionComment: "Комментарии",
   mSettingOptionCommentNewAtTop: "Новые наверху",
   mSettingOptionCommentOldAtTop: "Старые наверху",
