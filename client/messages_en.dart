@@ -154,7 +154,9 @@ const enClient = const <String, String> {
   mArchivedTask: 'Peekaboo task',
 
   mId: "ID",
+  mTaskId: "Task ID",
   mParent: "Parent",
+  mSubtask: "Subtask",
   mName: "Name",
   mDescription: "Description",
   mProgress: "Progress",
