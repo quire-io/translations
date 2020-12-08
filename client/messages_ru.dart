@@ -506,7 +506,7 @@ const ruClient = const <String, String> {
   mTaskRecurringOptionTooltip: "Повторить задачу",
   mTaskRecurringOptionToggleTitle: "Установить на повтор",
   mTaskRecurringOptionLabelRepeat: "Повторение",
-  mTaskRecurringOptionLabelNORepeat: "Не повторять",
+  mTaskRecurringOptionLabelNORepeat: "Не повтор.",
   mTaskRecurringOptionWeekly: "еженедельно",
   mTaskRecurringOptionMonthly: "ежемесячно",
   mTaskRecurringOptionYearly: "ежегодно",
