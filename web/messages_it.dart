@@ -84,7 +84,7 @@ const itWeb = const <String, String> {
   mFeatureShareTitle: "Condividi il tuo progetto con Chiunque",
   mFeatureShareDesc: "Rendi il tuo progetto pubblico in modo che chiunque abbia l\'URL possa vedere il tuo progetto.",
   mFeatureDrilldownTitle: "Zoom In",
-  mFeatureDrilldownDesc: "Concentrati su un\' attività e vedi le sottoattività, escludendo tutto il resto.",
+  mFeatureDrilldownDesc: "Concentrati su un\' attività e vedi le subattività, escludendo tutto il resto.",
   mFeatureGroupTitle: "Ordina attività",
   mFeatureGroupDesc: "Ordina le tue attività per vedere vicine quelle con lo stesso assegnatario, priorità, ecc... .",
   mFeatureFilterTitle: "Filtra attività",
@@ -195,11 +195,11 @@ const itWeb = const <String, String> {
     '<p>Per aggiungere un progetto, fai clic sull\'icona "+" nella parte superiore destra dell\'area di lavoro.</p>',
   mTutorialAddTaskTitle: "Aggiungi le tue attività",
   mTutorialAddTaskContent:
-    "<p>Che si tratti di idee, note o cose da fare, puoi crearle tutte come attività o sottoattività.</p>"
+    "<p>Che si tratti di idee, note o cose da fare, puoi crearle tutte come attività o subattività.</p>"
     "<ul>"
     '<li><strong>Per aggiungere un\'attività</strong> &mdash; Fai clic sull\'icona "+" in alto, '
     'o premi semplicemente la scorciatoia ‘t’. Premi Invio e continua a premerlo per aggiungerne altre.</li>'
-    "<li><strong>Per aggiungere sottoattività</strong> &mdash; Premi Tab per rendere l\'attività una sottoattività.</li>"
+    "<li><strong>Per aggiungere subattività</strong> &mdash; Premi Tab per rendere l\'attività una subattività.</li>"
     "<li><strong>Per interrompere l\'aggiunta</strong> &mdash; Premi Esc.</li>"
     "</ul>"
     "<p>Proprio come faresti con un elaboratore di testi!</p>",
@@ -328,7 +328,7 @@ const itWeb = const <String, String> {
     '<p><span class="note">Nota: verranno aggiunte le attività appena create nella vista Bacheca '
     "anche nella vista Elenco attività.</span></p>"
     '<p><span class="note">Suggerimento: premendo Ctrl (o Alt su Mac) verrà visualizzata la posizione, '
-    "in questo modo saprai quale sottoattività appartiene a quale attività principale.</span></p>",
+    "in questo modo saprai quale subattività appartiene a quale attività principale.</span></p>",
   mBoardTutorialAssignOthersTitle: "Non dimenticare i dettagli",
   mBoardTutorialAssignOthersContent:
     "<p>È possibile aggiungere informazioni più dettagliate impostando date di inizio / scadenza, assegnatari ed etichette.</p>"
@@ -426,9 +426,9 @@ const itWeb = const <String, String> {
     'che si desidera visualizzare insieme e spostare in un elenco separato. Ora hai la tua lista di cose su cui concentrarti, '
     'senza essere distratto da tutto il resto.</p>'
     "<p>[=img]</p>"
-    "<p>Quando si seleziona l'attività principale e si aggiunge alla sottolista, le relative sottoattività saranno automaticamente"
+    "<p>Quando si seleziona l'attività principale e si aggiunge alla sottolista, le relative subattività saranno automaticamente"
     "aggiunte all'elenco. </p>"
-    "<p>Tuttavia, puoi scegliere di selezionare le sottoattività separatamente dall'attività principale"
+    "<p>Tuttavia, puoi scegliere di selezionare le subattività separatamente dall'attività principale"
     "e aggiungerle alla sottolista appena creata.</p>"
     "<p>Per differenziare la nuova sottolista dalla lista principale, puoi aggiungere alcune icone divertenti "
     "e cambiare il colore dell'icona alla tua sottolista. </p>",
