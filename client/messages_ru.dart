@@ -969,7 +969,7 @@ const ruClient = const <String, String> {
   mPartnerNormalDesc: "Может добавлять и редактировать все внешние (аутсорсинговые) задачи и их подзадачи.",
   mPartnerLimitedDesc: "Может добавлять подзадачи в задачи, переданные на аутсорсинг, и управлять назначенными задачами, кроме их удаления.",
   mPartnerGuestDesc: "Может читать и оставлять комментарии.",
-  mSearchEscape: "<code>Esc</code>, чтобы закрыть поиск",
+  mSearchEscape: "Нажмите <code>Esc</code> чтобы закрыть поиск",
   mSearchProjectHint: "поиск",
   mSearchMustChar: "Введите 3 или более символов или нажмите Enter для поиска",
   mGroupDropStateToComplete: "Перетащите задачи сюда, чтобы завершить их",
