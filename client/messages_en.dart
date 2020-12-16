@@ -505,9 +505,10 @@ const enClient = const <String, String> {
   mTreeExpandTo: "Expand up to",
   mTreeExpandLevelLabel: "1st level,2nd level,3rd level,4th level",
   
-  mUndo: "UNDO",
+  mUndoUpper: "UNDO",
+  mUndo: "Undo",
   mShowUndoTooltip: "Show undo list",
-  mUndoTooltip: "Undo",
+  mUndoTooltip: "[=$mUndo]",
 
   mActivities: "Activities",
   mOnline: "Online",
