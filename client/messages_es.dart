@@ -305,6 +305,8 @@ const esClient = const <String, String> {
   mTree: "Árbol",
   mBoard: "Tablero",
   mSublist: "Sublista",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "Ordenar por estado",
   mMenuItemSortByPriority: "Ordenar por prioridad",
   mMenuItemGroupByStates: "Agrupar por estatus",

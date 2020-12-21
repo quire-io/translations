@@ -771,6 +771,7 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   mKeyDeleteTask: 'Seçilen görevleri sil',
   mKeyCollapseTask: 'Görevleri düzeye göre daraltma veya genişletme',
   mKeySwitchMyTaskView: 'Görevlerimi başlat veya kapat',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Görünüm değiştirme',
   mKeyBlinkSearch: 'Projeler, üyeler vb. genel arama',
   mKeySearchTask: 'Görevleri ve yorumları arama',

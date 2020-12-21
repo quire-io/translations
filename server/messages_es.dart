@@ -772,6 +772,7 @@ No se permite publicar otra vez la App hasta [=days] días más tarde.</p>
   mKeyDeleteTask: 'Elimina las tareas seleccionadas',
   mKeyCollapseTask: 'Contrae o expande las tareas por nivel',
   mKeySwitchMyTaskView: 'Iniciar o cerrar Mis tareas',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Cambiar vistas',
   mKeyBlinkSearch: 'Resalta la búsqueda de proyectos, miembros, etc.',
   mKeySearchTask: 'Busca tareas y comentarios',

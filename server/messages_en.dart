@@ -1012,6 +1012,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mKeyCollapseTask: 'Collapse or expand tasks by level',
 
   mKeySwitchMyTaskView: 'Launch or close My Tasks',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Switch views',
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',

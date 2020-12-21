@@ -299,6 +299,8 @@ const trClient = const <String, String> {
   mTree: "Ağaç Diyagramı",
   mBoard: "Pano",
   mSublist: "Alt liste",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "Duruma göre sırala",
   mMenuItemSortByPriority: "Önceliğe göre sırala",
   mMenuItemGroupByStates: "Duruma göre grupla",

@@ -299,6 +299,8 @@ const deClient = const <String, String> {
   mTree: "Baum",
   mBoard: "Board",
   mSublist: "Unterliste",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "Nach Status sortieren",
   mMenuItemSortByPriority: "Nach Priorität sortieren",
   mMenuItemGroupByStates: "Nach Status gruppieren",

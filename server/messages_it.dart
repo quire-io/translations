@@ -772,6 +772,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mKeyDeleteTask: 'Elimina le attività selezionate',
   mKeyCollapseTask: 'Comprime o espande le attività per livello',
   mKeySwitchMyTaskView: 'Lancia o chiudi Le Mie Attività',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Cambia visualizzazione',
   mKeyBlinkSearch: 'Ricerca veloce di progetti, membri, ecc...',
   mKeySearchTask: 'Ricerca attività e commenti',

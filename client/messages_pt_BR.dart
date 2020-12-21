@@ -310,6 +310,8 @@ const ptBrClient = const <String, String> {
   mTree: "Árvore",
   mBoard: "Quadro",
   mSublist: "Sublista",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "Classificar por estado",
   mMenuItemSortByPriority: "Classificar por prioridade",
   mMenuItemGroupByStates: "Agrupar por estado",

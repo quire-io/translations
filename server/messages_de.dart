@@ -765,6 +765,7 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   mKeyDeleteTask: 'Ausgewählte Aufgabe(n) löschen',
   mKeyCollapseTask: 'Alle Aufgaben ebenenabhängig ein- oder ausklappen',
   mKeySwitchMyTaskView: 'Starten oder schließen Sie Meine Aufgaben',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Ansichten wechseln',
   mKeyBlinkSearch: 'Suche nach Projekten, Mitglieder, etc.',
   mKeySearchTask: 'Aufgabe suchen',

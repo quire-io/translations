@@ -754,6 +754,7 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   mKeyDeleteTask: 'Supprimer les tâches sélectionnées',
   mKeyCollapseTask: 'Réduire ou développer les tâches par niveau',
   mKeySwitchMyTaskView: 'Ouvrir ou fermer Mes Tâches',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Naviguer entre les affichages',
   mKeyBlinkSearch: 'Recherche rapide de projets, de membres, etc.',
   mKeySearchTask: 'Rechercher des tâches et des commentaires',

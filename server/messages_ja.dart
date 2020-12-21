@@ -772,6 +772,7 @@ Quireをご利用になったご感想をお聞かせください。
   mKeyDeleteTask: '選択したタスクを削除',
   mKeyCollapseTask: 'タスクをレベルごとに折りたたみまたは展開',
   mKeySwitchMyTaskView: '自分のタスクを立ち上げまたは終了',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: '表示の切り替え',
   mKeyBlinkSearch: 'プロジェクトやメンバーをサクサク検索',
   mKeySearchTask: 'タスクとコメントを検索',

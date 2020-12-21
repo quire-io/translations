@@ -305,6 +305,8 @@ const ruClient = const <String, String> {
   mTree: "Дерево",
   mBoard: "Доска",
   mSublist: "Подсписок",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "Сортировать по статусу",
   mMenuItemSortByPriority: "Сортировать по приоритету",
   mMenuItemGroupByStates: "Группировать по статусу",

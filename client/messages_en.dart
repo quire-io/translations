@@ -372,6 +372,8 @@ const enClient = const <String, String> {
   mTree: "Tree",
   mBoard: "Board",
   mSublist: "Sublist",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
 
   mMenuItemSortByStates: "Sort by status",
   mMenuItemSortByPriority: "Sort by priority",

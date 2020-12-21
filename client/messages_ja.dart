@@ -305,6 +305,8 @@ const jaClient = const <String, String> {
   mTree: "階層",
   mBoard: "ボード",
   mSublist: "サブリスト",
+  mEnterFullScreen: "Enter Full Screen",
+  mExitFullScreen: "Exit Full Screen",
   mMenuItemSortByStates: "状態で並び替え",
   mMenuItemSortByPriority: "優先度で並び替え",
   mMenuItemGroupByStates: "状態でグループ化",

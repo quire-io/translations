@@ -775,6 +775,7 @@ const ruServer = const <String, String> {
   mKeyDeleteTask: 'Удалить выбранные задачи',
   mKeyCollapseTask: 'Свернуть или развернуть задачи по уровням',
   mKeySwitchMyTaskView: 'Открыть или закрыть Мои задачи',
+  mKeyFullScreen: 'Enable or disable full screen',
   mKeySwitchViews: 'Переключить представления',
   mKeyBlinkSearch: 'Быстрый поиск проектов, участников и т.п.',
   mKeySearchTask: 'Поиск задач и комментариев',
