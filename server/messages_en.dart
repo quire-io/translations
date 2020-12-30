@@ -1616,6 +1616,7 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobilePickDate: "Pick date",
   mMobileJustRefresh: "Just Refreshed",
   mMobileDrill: "Zoom in",
+  mMobileDrillUpper: "ZOOM IN",
   mMobileUndrill: "Zoom out",
   mMobileFavorite: "Favorite",
   mMobileFavorited: "Favorited",
@@ -1838,6 +1839,22 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   mMobileSubDropToOthersDialog: "Choose a view to add tasks to",
   mMobileDraftBannerContinue: "Continue writing your drafts.",
   mMobileDropForQuickSet: 'Drop for quick set',
+
+  mMobileShowHiddenColumns: 'Show Hidden columns',
+  mMobileRecurringRepeatWeekly: "Every week on [=weekdaysText]",
+  mMobileRecurringRepeatWeeklyPlural: "Every [=rate] weeks on [=weekdaysText]",
+  mMobileRecurringRepeatMontylyDayOfWeek: "Every month on the [=weekdaysTh] [=weekdaysText]",
+  mMobileRecurringRepeatMontylyDayOfWeekPlural: "Every [=rate] months on [=weekdaysTh] [=weekdaysText]",
+  mMobileRecurringRepeatMontylyDate: 'Every month on the [=thOrLast] day',
+  mMobileRecurringRepeatMontylyDatePlural: "Every [=rate] months on the [=thOrLast] day",
+  mMobileRecurringRepeatYearly: "on the [=thOrLast] day of [=month] every year",
+  mMobileRecurringRepeatCustom: "every day",
+  mMobileRecurringRepeatCustomPlural: "every [=rate] days",
+  mMobileSelectedTasks: '[=count] selected tasks',
+  mMobileIncludeTask: 'Include [=count] task',
+  mMobileIncludeTaskPlural: 'Include [=count] tasks',
+  mMobileExcludeTask: 'Exclude [=count] task',
+  mMobileExcludeTaskPlural: 'Exclude [=count] tasks',
 };
 
 
