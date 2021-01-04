@@ -864,7 +864,7 @@ const deClient = const <String, String> {
     'Es wurde nichts kopiert oder das Kopierte kann nicht erkannt werden. '
     'Mehr zu <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">Kopieren und Einfügen</a>.',
   mPasteTaskSecondHint: "Drücken Sie [=ctrlCommand]+V nochmals, um den aktuellen Inhalt zu ersetzen.",
-  mPasteTaskSecondHintIE: "<a>Hier</a> klicken, um nochmals einzufügen.",
+  mPasteTaskSecondHintSafari: "<a>Hier</a> klicken, um nochmals einzufügen.",
   mPasteTaskSecondMessage:
     'Sie können wählen, wie Aufgaben importiert werden und weiter unten eine Vorschau sehen. '
     'Mehr zu <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">Kopieren und Einfügen</a>.',

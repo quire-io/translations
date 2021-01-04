@@ -870,7 +870,7 @@ const itClient = const <String, String> {
     'Non è stato copiato niente o quanto copiato non è riconoscibile. '
     'Maggiori informazioni riguardo <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copia e incolla.</a>',
   mPasteTaskSecondHint: "Puoi premere [=ctrlCommand]+V ancora per sostituire il contenuto corrente.",
-  mPasteTaskSecondHintIE: "Clicca <a>qui</a> per incollare ancora.",
+  mPasteTaskSecondHintSafari: "Clicca <a>qui</a> per incollare ancora.",
   mPasteTaskSecondMessage:
     'Puoi scegliere in che modo le attività sono importate e vedere un\' anteprima qui sotto. '
     'Maggiori informazioni riguardo <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copia e incolla.</a>',

@@ -870,7 +870,7 @@ const jaClient = const <String, String> {
     'データがコピーされていません、またはコピーされたデータを認識できません。'
     '<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">コピー＆ペースト</a>の詳しい説明。',
   mPasteTaskSecondHint: "現在の内容を置き換えるには、再度「[=ctrlCommand]+V」キーを押します。",
-  mPasteTaskSecondHintIE: "再度ペーストするには、<a>ここ</a>をクリックします。",
+  mPasteTaskSecondHintSafari: "再度ペーストするには、<a>ここ</a>をクリックします。",
   mPasteTaskSecondMessage:
     'タスクのインポート方法を選択してプレビューできます。'
     '<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">コピー＆ペースト</a>の詳しい説明。',

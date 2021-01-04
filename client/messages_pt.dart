@@ -875,7 +875,7 @@ const ptClient = const <String, String> {
     'Não há nada copiado ou o que copiou não é reconhecido. '
     'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',
   mPasteTaskSecondHint: "Pode pressionar [=ctrlCommand]+V novamente para substituir o conteúdo atual.",
-  mPasteTaskSecondHintIE: "Clique <a>aqui</a> para colar novamente.",
+  mPasteTaskSecondHintSafari: "Clique <a>aqui</a> para colar novamente.",
   mPasteTaskSecondMessage:
     'Pode escolher como as tarefas são importadas e pré-visualizar as mesmas abaixo. '
     'Mais sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar e colar.</a>',

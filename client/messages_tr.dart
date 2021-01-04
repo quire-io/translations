@@ -864,7 +864,7 @@ const trClient = const <String, String> {
     'Hiçbir şey kopyalanmadı veya kopyaladığınız şey tanınamıyor. '
     '<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">kopyala ve yapıştır</a> hakkında daha fazla bilgi için tıklayın.',
   mPasteTaskSecondHint: "Geçerli içeriği değiştirmek için [=ctrlCommand] + V tuşlarına tekrar basabilirsiniz.",
-  mPasteTaskSecondHintIE: "Tekrar yapıştırmak için <a>buraya</a> tıklayın.",
+  mPasteTaskSecondHintSafari: "Tekrar yapıştırmak için <a>buraya</a> tıklayın.",
   mPasteTaskSecondMessage:
     'Görevlerin nasıl içe aktarılacağını seçebilir ve aşağıda önizleyebilirsiniz. '
     '<a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">kopyala ve yapıştır</a> hakkında daha fazla bilgi için tıklayın.',

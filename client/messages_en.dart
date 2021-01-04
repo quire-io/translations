@@ -1111,7 +1111,7 @@ const enClient = const <String, String> {
     'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',
   mPasteTaskSecondHint: 
     "You can press [=ctrlCommand]+V again to replace the current content.",
-  mPasteTaskSecondHintIE: "Click <a>here</a> to paste again.",
+  mPasteTaskSecondHintSafari: "Click <a>here</a> to paste again.",
   mPasteTaskSecondMessage: 
     'You can choose how tasks are imported and preview them below. '
     'More about <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copy and paste.</a>',

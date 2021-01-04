@@ -870,7 +870,7 @@ const frClient = const <String, String> {
     'Il n\'y a rien de copié ou ce que vous avez copié n\'est pas identifiable. '
     'En savoir plus à propos du <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copier-coller.</a>',
   mPasteTaskSecondHint: "Vous pouvez taper [=ctrlCommand]+V à nouveau pour remplacer le contenu actuel.",
-  mPasteTaskSecondHintIE: "Cliquez <a>ici</a> pour coller à nouveau.",
+  mPasteTaskSecondHintSafari: "Cliquez <a>ici</a> pour coller à nouveau.",
   mPasteTaskSecondMessage:
     'Vous pouvez choisir comment les tâches sont importées et les prévisualiser ci-dessous. '
     'En savoir plus à propos du <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copier-coller.</a>',

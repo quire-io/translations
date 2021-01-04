@@ -870,7 +870,7 @@ const esClient = const <String, String> {
     'No se ha copiado nada o el documento copiado no se puede reconocer. '
     'Más información sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar y pegar.</a>',
   mPasteTaskSecondHint: "Puedes pulsar [=ctrlCommand]+V otra vez para reemplazar el contenido actual.",
-  mPasteTaskSecondHintIE: "Haz clic <a>aquí</a> para pegar de nuevo.",
+  mPasteTaskSecondHintSafari: "Haz clic <a>aquí</a> para pegar de nuevo.",
   mPasteTaskSecondMessage:
     'Puedes elegir cómo se importan las tareas y previsualizarlas a continuación. '
     'Más información sobre <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">copiar y pegar.</a>',

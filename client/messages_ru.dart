@@ -870,7 +870,7 @@ const ruClient = const <String, String> {
     'Ничего не копируется или то, что вы скопировали, не распознается. '
     'Подробнее про <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">копирование и вставку.</a>',
   mPasteTaskSecondHint: "Вы можете нажать [=ctrlCommand]+V снова, чтобы заменить текущий контент.",
-  mPasteTaskSecondHintIE: "Нажмите <a>здесь</a>, чтобы вставить еще раз.",
+  mPasteTaskSecondHintSafari: "Нажмите <a>здесь</a>, чтобы вставить еще раз.",
   mPasteTaskSecondMessage:
     'Вы можете выбрать способ импорта задач и просмотреть их ниже. '
     'Подробнее про <a href="/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html" target="_blank">копирование и вставку.</a>',
