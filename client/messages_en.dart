@@ -422,6 +422,7 @@ const enClient = const <String, String> {
   
   mTreeTagTooltip: "Tag",
 
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Set priority",
   mTreeMenuSetBoard: "Add to board",
   mTreeMenuSetStatus: "Set status",

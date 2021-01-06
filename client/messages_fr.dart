@@ -344,6 +344,7 @@ const frClient = const <String, String> {
   mPinViewTab: "Épingler",
   mUnpinViewTab: "Désépingler",
   mTreeTagTooltip: "Étiquette",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Définir la priorité",
   mTreeMenuSetBoard: "Ajouter à un tableau",
   mTreeMenuSetStatus: "Définir le statut",

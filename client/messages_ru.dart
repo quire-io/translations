@@ -344,6 +344,7 @@ const ruClient = const <String, String> {
   mPinViewTab: "Закрепить",
   mUnpinViewTab: "Открепить",
   mTreeTagTooltip: "Метка",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Установить приоритет",
   mTreeMenuSetBoard: "Добавить на доску",
   mTreeMenuSetStatus: "Установить статус",

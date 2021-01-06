@@ -344,6 +344,7 @@ const esClient = const <String, String> {
   mPinViewTab: "Fijar",
   mUnpinViewTab: "Soltar",
   mTreeTagTooltip: "Etiqueta",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Asignar prioridad",
   mTreeMenuSetBoard: "Añadir al tablero",
   mTreeMenuSetStatus: "Establecer estado",

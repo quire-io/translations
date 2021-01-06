@@ -338,6 +338,7 @@ const trClient = const <String, String> {
   mPinViewTab: "Sabitle",
   mUnpinViewTab: "Sabitlemeyi Bırak",
   mTreeTagTooltip: "Etiket",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Öncelik belirle",
   mTreeMenuSetBoard: "Panoya ekle",
   mTreeMenuSetStatus: "Durum belirle",

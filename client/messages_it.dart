@@ -344,6 +344,7 @@ const itClient = const <String, String> {
   mPinViewTab: "Blocca",
   mUnpinViewTab: "Sblocca",
   mTreeTagTooltip: "Etichetta",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Assegna priorità",
   mTreeMenuSetBoard: "Assegna a bacheca",
   mTreeMenuSetStatus: "Assegna stato",

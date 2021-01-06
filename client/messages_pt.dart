@@ -349,6 +349,7 @@ const ptClient = const <String, String> {
   mPinViewTab: "Fixar",
   mUnpinViewTab: "Soltar",
   mTreeTagTooltip: "Tag",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Definir prioridade",
   mTreeMenuSetBoard: "Adicionar ao quadro",
   mTreeMenuSetStatus: "Definir estado",

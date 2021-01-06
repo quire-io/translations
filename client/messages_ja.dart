@@ -344,6 +344,7 @@ const jaClient = const <String, String> {
   mPinViewTab: "固定",
   mUnpinViewTab: "固定を解除",
   mTreeTagTooltip: "タグ",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "優先度を設定",
   mTreeMenuSetBoard: "ボードに追加",
   mTreeMenuSetStatus: "状態を設定",

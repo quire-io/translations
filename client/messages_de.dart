@@ -338,6 +338,7 @@ const deClient = const <String, String> {
   mPinViewTab: "Anheften",
   mUnpinViewTab: "Loslösen",
   mTreeTagTooltip: "Tags",
+  mClearDate: "Clear date",
   mTreeMenuSetPriority: "Priorität festlegen",
   mTreeMenuSetBoard: "Zum Board hinzufügen",
   mTreeMenuSetStatus: "Status festzulegen",
