@@ -20,6 +20,7 @@ const frServer = const <String, String> {
   mSystemBusy:
     "Désolé, le système est surchargé. Veuillez réessayer. "
     'Si le problème persiste, veuillez <a href="/feedback">nous contacter</a>. Merci !',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "projet",
   mOrganizationLower: "organisation",
   mSidebarMyTasksUpper: "MES TÂCHES",

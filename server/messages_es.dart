@@ -20,6 +20,7 @@ const esServer = const <String, String> {
   mSystemBusy:
     "Lo siento, el sistema está ocupado. Por favor, inténtalo de nuevo. "
     'Si el problema persiste, por favor <a href="/feedback">contacta con nosotros</a>. ¡Muchas gracias!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "proyecto",
   mOrganizationLower: "organización",
   mSidebarMyTasksUpper: "MIS TAREAS",

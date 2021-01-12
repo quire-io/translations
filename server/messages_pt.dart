@@ -20,6 +20,7 @@ const ptServer = const <String, String> {
   mSystemBusy:
     "Desculpe, o sistema está ocupado. Por favor, tente novamente. "
     'Se o problema persistir, por favor <a href="/feedback">entre em contato conosco</a>. Obrigado!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "projeto",
   mOrganizationLower: "organização",
   mSidebarMyTasksUpper: "AS MINHAS TAREFAS",

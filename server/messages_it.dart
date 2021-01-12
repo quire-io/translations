@@ -20,6 +20,7 @@ const itServer = const <String, String> {
   mSystemBusy:
     "Ci scusiamo, il sitema è temporaneamente occupato. Si prega di riprovare più tardi. "
     'Se il problema persiste, si prega di <a href="/feedback">contattarci</a>. Grazie!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "progetto",
   mOrganizationLower: "organizzazione",
   mSidebarMyTasksUpper: "LE MIE ATTIVITA'",

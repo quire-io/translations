@@ -20,6 +20,7 @@ const ruServer = const <String, String> {
   mSystemBusy:
     "Извините, система занята. Пожалуйста, попробуйте еще раз."
     'Если проблема не исчезнет, ​​пожалуйста <a href="/feedback">свяжитесь с нами</a>. Спасибо!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "проект",
   mOrganizationLower: "организация",
   mSidebarMyTasksUpper: "МОИ ЗАДАЧИ",

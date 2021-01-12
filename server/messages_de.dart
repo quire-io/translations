@@ -20,6 +20,7 @@ const deServer = const <String, String> {
   mSystemBusy:
     "Sorry, das System ist ausgelastet. Bitte versuchen Sie es erneut. "
     'Wenn das Problem weiterhin besteht, <a href="/feedback">kontaktieren Sie uns</a> bitte. Danke!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "Projekt",
   mOrganizationLower: "Organisation",
   mSidebarMyTasksUpper: "MEINE AUFGABEN",

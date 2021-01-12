@@ -18,6 +18,7 @@ const enServer = const <String, String> {
   mSystemBusy:
     "Sorry, the system is busy. Please try again. "
     'If the issue persists, please <a href="/feedback">contact us</a>. Thank you!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
 
   mProjectLower: "project",
   mOrganizationLower: "organization",

@@ -20,6 +20,7 @@ const trServer = const <String, String> {
   mSystemBusy:
     "Üzgünüz, sistem meşgul. Lütfen tekrar deneyin. "
     'Sorun devam ederse, lütfen <a href="/feedback">bizimle iletişime geçin.</a>. Teşekkürler!',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "proje",
   mOrganizationLower: "organizasyon",
   mSidebarMyTasksUpper: "GÖREVLERİM",

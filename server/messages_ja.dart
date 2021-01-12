@@ -20,6 +20,7 @@ const jaServer = const <String, String> {
   mSystemBusy:
     "申し訳ありません。システムがビジー状態です。再度お試しください。"
     '問題が解消しない場合は、私たちまで<a href="/feedback">お問い合わせ</a>ください。',
+  mPleaseUpgrade: "Please update your app to the latest version.",
   mProjectLower: "プロジェクト",
   mOrganizationLower: "組織",
   mSidebarMyTasksUpper: "自分のタスク",
