@@ -44,8 +44,8 @@ const enWeb = const <String, String> {
     "Arrange, prioritize, and visualize the project with a Kanban board. "
     "Balance team resources to optimize efficiency and transparency",
 
-  mHomeSectionTeamlineTitle: "Map Out Timeline Schedule",
-  mHomeSectionTeamlineDesc:
+  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+  mHomeSectionTimelineDesc:
     "Plan ahead with a versatile Gantt chart to schedule every milestone. "
     "Have a bird’s eye view of the project progress over time. ",
 
