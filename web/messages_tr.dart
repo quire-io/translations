@@ -30,19 +30,19 @@ const trWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Bir şeyi bölerken zorlanırız. Zihinlerimiz doğal olarak böyle çalışır. <br>"
     "Quire, düşüncelerinizi haritalamanızı ve küçük adımlarla ele almanızı sağlar.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Doğru Şeylere Odaklanın",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Daha odaklı bir Alt Liste görünümü ile görevleriniz üzerinde zahmetsizce çalışın. "
+    "Her ekip üyesinin çalışmalarının kendi kontrolünde olduğundan emin olun.",
+  mHomeSectionVisuallyTitle: "İş Akışını Görsel Olarak Düzenleyin",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Projeyi bir Kanban panosu ile düzenleyin, önceliklendirin ve görselleştirin. "
+    "Verimliliği ve şeffaflığı optimize etmek için ekip kaynaklarını dengeleyin",
+  mHomeSectionTimelineTitle: "Zaman Çizelgesini Planlayın",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Her kilometre taşını planlamak için çok yönlü bir Gantt şemasıyla önceden plan yapın. "
+    "Projenin zaman içindeki ilerleyişini kuşbakışı görün ",
+  mHomeSectionProgressTitle: "Başarıları Görün Onların Üzerinde Yükselin",
   mHomeSectionProgressDesc:
     "Hayallerinizin nabzını dinleyin. Şimdi ve gelecekte görevlerinizin,  "
     "projelerinizin ve ekibinizin iniş çıkışlarını anlayın. Ve başarıyı kutlayın.",
