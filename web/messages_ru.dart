@@ -30,11 +30,19 @@ const ruWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Мы сталкиваемся с проблемой и разделяем ее на части. Так естественным образом работает наш ум. <br>"
     "Quire позволяет планировать ваши мысли и решать их небольшими шагами.",
-  mHomeSectionVisuallyTitle: "Оптимизируйте ваши задачи визуально",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Визуализируйте свой рабочий процесс. Приводите в порядок, назначайте приоритеты, "
-    "и сосредоточьтесь на том, что важнее всего с доской Канбан. Соберите их все на одной странице.",
-  mHomeSectionProgressTitle: "Увидеть и улучшить свой прогресс",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Слушайте пульс вашей мечты. Осмыслите взлеты и падения ваших задач, "
     "ваших проектов и вашей команды - сейчас и в будущем. И празднуйте успех.",

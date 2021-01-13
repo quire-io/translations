@@ -33,12 +33,23 @@ const enWeb = const <String, String> {
     "We face a challenge by breaking it down. That is how our minds naturally work. <br>"
     "Quire lets you map out your thoughts, and tackle them with small steps.",
 
-  mHomeSectionVisuallyTitle: "Streamline Your To-dos Visually",
-  mHomeSectionVisuallyDesc:
-    "Visualize your workflow. Arrange, prioritize, "
-    "and focus on what matters the most with Kanban board. Get everyone on the same page.",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
 
-  mHomeSectionProgressTitle: "See and Rise Above Your Progress",
+
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+  mHomeSectionVisuallyDesc:
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Listen to the pulse of your dreams. Understand the ups and downs of your tasks, "
     "your projects, and your team now and ahead. And celebrate success.",

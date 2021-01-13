@@ -30,11 +30,19 @@ const esWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Nos enfrentamos a un reto dividiéndolo. Así es como trabaja normalmente nuestra mente. <br>"
     "Quire te permite detallar tus ideas y acercarte a ellas paso a paso.",
-  mHomeSectionVisuallyTitle: "Organiza Tus Tareas Visualmente",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Haz que tu trabajo fluya visualmente. Organiza, prioriza, "
-    "y céntrate cada día en lo más importante que aparezca en el tablero. Con todas las fichas sobre él.",
-  mHomeSectionProgressTitle: "Observa y Supera Tus Progresos",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Déjate llevar por tus sueños. Comprende las variaciones de tus tareas, "
     "tus proyectos, y tu equipo actual y futuro. Y celebra el éxito.",

@@ -30,11 +30,19 @@ const ptWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Encaramos um desafio derrubando-o. É assim que as nossas mentes funcionam por natureza. <br>"
     "O Quire ajuda-o a mapear os seus pensamentos e encará-los em pequenos passos.",
-  mHomeSectionVisuallyTitle: "Organize as Suas Tarefas Visualmente",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Crie o seu fluxo de trabalho visualmente. "
-    "Organize, estabeleça prioridades e foque-se no que é mais importante a cada dia no quadro. Com todos a bordo.",
-  mHomeSectionProgressTitle: "Visualize e Supere o Seu Progresso",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Sinta a pulsação dos seus sonhos. "
     "Entenda os altos e baixos das suas tarefas, dos seus projetos e da sua equipa, agora e mais à frente. E celebre o sucesso.",

@@ -30,11 +30,19 @@ const frWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Nous résolvons naturellement un problème en le fragmentant en tâches réalisables. <br>"
     "Quire vous permet de détailler vos idées, et de les aborder pas à pas.",
-  mHomeSectionVisuallyTitle: "Organisez Vos Tâches Visuellement",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Faites avancer votre travail visuellement. Organisez, hiérarchisez, "
-    "et concentrez-vous chaque jour sur ce qui est le plus important sur le tableau. Avec tout le monde à bord.",
-  mHomeSectionProgressTitle: "Analysez et Dépassez Vos Progrès",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Soyez attentifs aux besoins de vos rêves. Prenez en compte les hauts et les bas de vos tâches, "
     "de vos projets, et de votre équipe, actuels et à venir. Et célébrez le succès.",

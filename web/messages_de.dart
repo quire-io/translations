@@ -28,11 +28,19 @@ const deWeb = const <String, String> {
     "- Takamura Kotaro",
   mHomeSectionStartSmallTitle: "Groß denken, klein anfangen",
   mHomeSectionStartSmallDesc: "Große Herausforderungen gehen wir mit kleinen Schritten an. <br>",
-  mHomeSectionVisuallyTitle: "Optimieren Sie Ihre Aufgaben visuell",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Visualisieren Sie Ihre Arbeitsabläufe. Verwalten, priorisieren, "
-    "und fokussieren Sie die wichtigsten Aufgaben in Boards. Mit jedem an Bord.",
-  mHomeSectionProgressTitle: "Behalten Sie den Fortschritt Ihrer Projekte im Blick",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Bleiben Sie am Puls Ihrer Projekte. Verschaffen Sie sich einen Überblick über Ihre Aufgaben, "
     "Projekte und Teams.",

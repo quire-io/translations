@@ -30,11 +30,19 @@ const jaWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "ヒトの思考はもともと、大きな仕事の細分化には向きません。 どんな人でも、作業の細分化はひと仕事。 <br>"
     "Quireは、実行可能な計画を立てるために、小さなステップを設定するお手伝いをします。",
-  mHomeSectionVisuallyTitle: "効率化へ、 やるべき作業をひと目で把握",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "作業の流れを一目瞭然に。"
-    "かんばんボードで整理して、最重要事項に集中しましょう。チーム全員が同じ画面で作業を進めることができます。",
-  mHomeSectionProgressTitle: "進捗を把握し、その先の一歩へ",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "プロジェクトの進捗をチャートにして、達成率をひと目で把握。"
     "お互いの作業状況を確認し、協力しながらプロジェクトを成功に導きましょう。",

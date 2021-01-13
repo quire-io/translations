@@ -30,11 +30,19 @@ const trWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Bir şeyi bölerken zorlanırız. Zihinlerimiz doğal olarak böyle çalışır. <br>"
     "Quire, düşüncelerinizi haritalamanızı ve küçük adımlarla ele almanızı sağlar.",
-  mHomeSectionVisuallyTitle: "Yapılacak İşlerinizi Görsel Olarak Düzenleyin",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "İş akışınızı görselleştirin. Kanban panosu ile en önemli şeyleri"
-    " düzenleyin, önceliklendirin ve odaklanın. Herkesi aynı sayfaya getirin.",
-  mHomeSectionProgressTitle: "İlerlemenizi Görün ve Yükseltin",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Hayallerinizin nabzını dinleyin. Şimdi ve gelecekte görevlerinizin,  "
     "projelerinizin ve ekibinizin iniş çıkışlarını anlayın. Ve başarıyı kutlayın.",

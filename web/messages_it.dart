@@ -30,11 +30,19 @@ const itWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Affrontiamo una sfida suddividendola. E\' così che funzionano naturalmente le nostre menti. <br>"
     "Quire ti permette di mappare i tuoi pensieri, e affrontarli con piccoli passi.",
-  mHomeSectionVisuallyTitle: "Semplifica le Cose da Fare in maniera Visuale",
+  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistDesc:
+    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "Make sure every team member is in control of their work.",
+  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
   mHomeSectionVisuallyDesc:
-    "Visualizza il tuo flusso di lavoro. Organizza, dai la priorità, "
-    "e focalizzati su ciò che è più importante con una bacheca Kanban. Porta tutti sulla stessa lunghezza d\' onda.",
-  mHomeSectionProgressTitle: "Vedi e migliora il tuo progresso",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
+  mHomeSectionTeamlineTitle: "Map Out Teamline Schedule",
+  mHomeSectionTeamlineDesc:
+    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "Have a bird’s eye view of the project progress over time. ",
+  mHomeSectionProgressTitle: "See and Rise Above Achievements",
   mHomeSectionProgressDesc:
     "Ascolta il battito dei tuoi sogni. Conosci gli alti e bassi delle tue attività, "
     "dei tuoi progetti, della tua squadra ora e in futuro. E celebra il tuo successo.",
