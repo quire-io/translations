@@ -30,19 +30,19 @@ const ptWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Encaramos um desafio derrubando-o. É assim que as nossas mentes funcionam por natureza. <br>"
     "O Quire ajuda-o a mapear os seus pensamentos e encará-los em pequenos passos.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Concentre-se nas Coisas Certas",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Trabalhe sem esforço nas suas tarefas com uma visualização de Sub-lista mais focada. "
+    "Certifique-se de que cada membro da equipa tenha o seu trabalho controlado.",
+  mHomeSectionVisuallyTitle: "Simplifique o Fluxo de Trabalho Visualmente",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Organize, priorize e visualize o projeto com um quadro Kanban. "
+    "Equilibre os recursos da equipa para otimizar a eficiência e a transparência",
+  mHomeSectionTimelineTitle: "Mapeie o Seu Cronograma",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Planeie com antecedência com um gráfico de Gantt versátil para programar cada marco. "
+    "Tenha uma visão panorâmica do progresso do projeto ao longo do tempo. ",
+  mHomeSectionProgressTitle: "Visualize e Supere as Conquistas",
   mHomeSectionProgressDesc:
     "Sinta a pulsação dos seus sonhos. "
     "Entenda os altos e baixos das suas tarefas, dos seus projetos e da sua equipa, agora e mais à frente. E celebre o sucesso.",
