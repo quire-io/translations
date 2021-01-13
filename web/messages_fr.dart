@@ -17,34 +17,34 @@ Welcome to [=systemName] version [=systemVersion]"
  */
 
 const frWeb = const <String, String> {
-  mSlogan: 'Explorez Vos Idées',
+  mSlogan: 'Explorez vos idées',
   mSloganSentence: 'Explorez vos idées',
-  mSloganSubtitle: 'Une plateforme collaborative visuelle pour vos prochains super projets.',
+  mSloganSubtitle: 'Une plateforme pour collaborer sur tous vos projets.',
   mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
-  mHomeSectionDreamsTitle: "Donnez Vie à vos Rêves",
+  mHomeSectionDreamsTitle: "Donnez vie à vos rêves",
   mHomeSectionDreamsDesc:
     "« Il n'y avait pas de route devant moi, <br> "
     "et un chemin sera tracé derrière moi. » <br>"
     "- Takamura Kotaro",
-  mHomeSectionStartSmallTitle: "Voyez Grand, Commencez Petit",
+  mHomeSectionStartSmallTitle: "Petit à petit…",
   mHomeSectionStartSmallDesc:
     "Nous résolvons naturellement un problème en le fragmentant en tâches réalisables. <br>"
     "Quire vous permet de détailler vos idées, et de les aborder pas à pas.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Concentrez-vous sur l'essentiel",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Travaillez sur vos tâches sans effort grâce aux sous-listes. "
+    "Ne laissez pas votre équipe se faire dépasser par son travail.",
+  mHomeSectionVisuallyTitle: "Organisez votre travail visuellement",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Utilisez le tableau Kanban pour organiser et visualiser votre projet. "
+    "Équilibrez les ressources de votre équipe pour améliorer son efficacité en toute transparence.",
+  mHomeSectionTimelineTitle: "Planifiez votre projet",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Ne passez pas à côté des évènements importants grâce à la flexibilité du diagramme de Gantt. "
+    "Profitez d'une vue d'ensemble de l'avancée du projet. ",
+  mHomeSectionProgressTitle: "Atteignez et dépassez vos objectifs",
   mHomeSectionProgressDesc:
-    "Soyez attentifs aux besoins de vos rêves. Prenez en compte les hauts et les bas de vos tâches, "
+    "Soyez attentifs aux besoins de vos rêves. Prenez en compte les enjeux de vos tâches, "
     "de vos projets, et de votre équipe, actuels et à venir. Et célébrez le succès.",
   mHomeSectionSignupMidDesc:
     "Tout ce dont vous avez besoin pour passer des idées à l'action. <br>"
