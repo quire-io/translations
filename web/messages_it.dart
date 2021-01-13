@@ -30,19 +30,19 @@ const itWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Affrontiamo una sfida suddividendola. E\' così che funzionano naturalmente le nostre menti. <br>"
     "Quire ti permette di mappare i tuoi pensieri, e affrontarli con piccoli passi.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Concentrati sulle cose giuste",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Lavora alle tue attività senza fatica utilizzando una Sottolista più focalizzata. "
+    "Assicurati che ogni membro della squadra sia in controllo del proprio lavoro.",
+  mHomeSectionVisuallyTitle: "Semplifica visivamente il flusso di lavoro",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Organizza, assegna la priorità e visualizza il progetto con una bacheca Kanban. "
+    "Bilancia le risorse del team per ottimizzare efficienza e trasparenza",
+  mHomeSectionTimelineTitle: "Mappa la Pianificazione Temporale",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Pianifica in anticipo con un versatile diagramma Gantt per programmare ogni traguardo. "
+    "Utilizza una visione d'insieme dell'avanzamento del progetto nel tempo. ",
+  mHomeSectionProgressTitle: "Vedi e supera i tuoi risultati",
   mHomeSectionProgressDesc:
     "Ascolta il battito dei tuoi sogni. Conosci gli alti e bassi delle tue attività, "
     "dei tuoi progetti, della tua squadra ora e in futuro. E celebra il tuo successo.",
