@@ -30,19 +30,19 @@ const esWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Nos enfrentamos a un reto dividiéndolo. Así es como trabaja normalmente nuestra mente. <br>"
     "Quire te permite detallar tus ideas y acercarte a ellas paso a paso.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Enfoque en las Cosas Correctas",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Trabaja en tus tareas sin esfuerzo con una visión de sublista más enfocada. "
+    "Asegúrate de que cada miembro del equipo tiene el control de tu trabajo.",
+  mHomeSectionVisuallyTitle: "Optimiza el flujo de trabajo visualmente",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Organizar, priorizar y visualizar el proyecto con un tablero Kanban. "
+    "Equilibrar los recursos del equipo para optimizar la eficiencia y la transparencia",
+  mHomeSectionTimelineTitle: "Mapa de la programación a lo largo del tiempo",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Planifica con anticipación con un gráfico versátil de Gantt para programar cada hito. "
+    "Tenga una vista de pájaro del progreso del proyecto a lo largo del tiempo. ",
+  mHomeSectionProgressTitle: "Ver y superar los logros",
   mHomeSectionProgressDesc:
     "Déjate llevar por tus sueños. Comprende las variaciones de tus tareas, "
     "tus proyectos, y tu equipo actual y futuro. Y celebra el éxito.",
