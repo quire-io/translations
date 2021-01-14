@@ -20,7 +20,7 @@ const ruWeb = const <String, String> {
   mSlogan: 'Раскройте Ваши Идеи',
   mSloganSentence: 'Раскройте ваши идеи',
   mSloganSubtitle: 'Визуальная платформа для совместной работы для ваших следующих замечательных проектов.',
-  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
+  mQuireDescription: 'Лучшее программное обеспечение для управления совместными проектами, которое действительно помогает командам добиваться результатов.',
   mHomeSectionDreamsTitle: "Воплотите Ваши Мечты в Жизнь",
   mHomeSectionDreamsDesc:
     "“Там нет пути до меня, <br> "
@@ -30,25 +30,25 @@ const ruWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "Мы сталкиваемся с проблемой и разделяем ее на части. Так естественным образом работает наш ум. <br>"
     "Quire позволяет планировать ваши мысли и решать их небольшими шагами.",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Сосредоточьтесь на нужных вещах",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Работайте над своими задачами без усилий с более точечным представлением в виде подсписка. "
+    "Убедитесь, что каждый участник команды контролирует свою работу.",
+  mHomeSectionVisuallyTitle: "Визуально оптимизируйте рабочий процесс",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Организуйте, расставляйте приоритеты и визуализируйте проект с помощью доски Kanban. "
+    "Сбалансируйте ресурсы команды для оптимизации эффективности и прозрачности",
+  mHomeSectionTimelineTitle: "Составьте график работы",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Планируйте заранее с помощью универсальной диаграммы Ганта, чтобы учесть каждый этап. "
+    "Окиньте взглядом весь ход проекта с высоты птичьего полета. ",
+  mHomeSectionProgressTitle: "Увидеть и улучшить свои достижения",
   mHomeSectionProgressDesc:
     "Слушайте пульс вашей мечты. Осмыслите взлеты и падения ваших задач, "
     "ваших проектов и вашей команды - сейчас и в будущем. И празднуйте успех.",
   mHomeSectionSignupMidDesc:
     "Всё, что вам нужно, чтобы перейти от идеи к действию. <br>"
-    "Регистрирейтесь сейчас. Это бесплатно!",
+    "Регистрируйтесь сейчас. Это бесплатно!",
   mHomeSectionSignupBottomDesc:
     "Quire здесь, чтобы ваши мечты обрели дом. "
     "Так что дерзайте. <br>И получайте удовольствие!",
