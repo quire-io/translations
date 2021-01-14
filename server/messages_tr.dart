@@ -20,7 +20,7 @@ const trServer = const <String, String> {
   mSystemBusy:
     "Üzgünüz, sistem meşgul. Lütfen tekrar deneyin. "
     'Sorun devam ederse, lütfen <a href="/feedback">bizimle iletişime geçin.</a>. Teşekkürler!',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "Lütfen uygulamanızı en son sürüme güncelleyin.",
   mProjectLower: "proje",
   mOrganizationLower: "organizasyon",
   mSidebarMyTasksUpper: "GÖREVLERİM",
@@ -732,8 +732,8 @@ ihlal ettiği için yasaklandığını bildirmek için yazıyoruz.
   "AT$atEditBoardObs": "[=who] [=value] panosunu düzenledi",
   "AT$atAddTaskStateObs": "[=who] [=what] projesindeki [=value] panoya [=extra] ekledi",
   "AT$atRemoveTaskStateObs": "[=who] [=what] projesindeki [=value] panodan [=extra] sildi",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who] [=value]\'ni [=what]\'na ekledi",
+  "AT$atRemoveTaskState": "[=who] [=value]\'na [=what]\'dan çıkardı",
   "AT$atAddSublist": "[=who] [=value] alt listesini [=what] projesine ekledi",
   "AT$atRemoveSublist": "[=who] [=value] alt listesini [=what] projesinden sildi",
   "AT$atSlackInstall": "[=who] Slack [=value] [=what] bağlandı",
