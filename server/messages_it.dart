@@ -20,7 +20,7 @@ const itServer = const <String, String> {
   mSystemBusy:
     "Ci scusiamo, il sitema è temporaneamente occupato. Si prega di riprovare più tardi. "
     'Se il problema persiste, si prega di <a href="/feedback">contattarci</a>. Grazie!',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "Si prega di aggiornare l'applicazione all'ultima versione.",
   mProjectLower: "progetto",
   mOrganizationLower: "organizzazione",
   mSidebarMyTasksUpper: "LE MIE ATTIVITA'",
@@ -733,8 +733,8 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   "AT$atEditBoardObs": "[=who] ha modificato la bacheca [=value]",
   "AT$atAddTaskStateObs": "[=who] ha aggiunto [=extra] alla bachecha [=value] in [=what]",
   "AT$atRemoveTaskStateObs": "[=who] ha rimosso [=extra] dalla bacheca [=value] in [=what]",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who] ha aggiunto [=value] a [=what]",
+  "AT$atRemoveTaskState": "[=who] ha rimosso [=value] da [=what]",
   "AT$atAddSublist": "[=who] ha aggiunto la sottolista [=value] a [=what]",
   "AT$atRemoveSublist": "[=who] rimosso la sottolista [=value] da [=what]",
   "AT$atSlackInstall": "[=who] ha connesso [=what] a Slack [=value]",
