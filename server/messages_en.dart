@@ -836,10 +836,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] started working on [=what]",
   "AT$atPauseTask":
     "[=who] deferred [=what]",
-  "AT$atSetBoard":
-    "[=who] added [=what] to [=value]",
-  "AT$atUnsetBoard":
-    "[=who] removed [=what] from [=value]",
   "AT$atArchiveTask":
     "[=who] peekaboo [=what]",
   "AT$atUnarchiveTask":
@@ -938,13 +934,6 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] created a share link, [=value], of [=what]",
   "AT$atRemoveShare":
     "[=who] removed a shared link, [=value], of [=what]",
-
-  "AT$atAddBoard":
-    "[=who] added the board [=value] to [=what]",
-  "AT$atRemoveBoard":
-    "[=who] removed the board [=value] from [=what]",
-  "AT$atEditBoard":
-    "[=who] edited the board [=value]",
 
   "AT$atAddTaskState":
     "[=who] added [=extra] to the board [=value] in [=what]",
