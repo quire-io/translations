@@ -20,7 +20,7 @@ const ptServer = const <String, String> {
   mSystemBusy:
     "Desculpe, o sistema está ocupado. Por favor, tente novamente. "
     'Se o problema persistir, por favor <a href="/feedback">entre em contato conosco</a>. Obrigado!',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "Por favor, atualize a sua aplicação para a versão mais recente.",
   mProjectLower: "projeto",
   mOrganizationLower: "organização",
   mSidebarMyTasksUpper: "AS MINHAS TAREFAS",
@@ -733,8 +733,8 @@ Não poderá publicar a aplicação novamente até [=days] dias depois.</p>
   "AT$atEditBoardObs": "[=who] editou um quadro [=value]",
   "AT$atAddTaskStateObs": "[=who] adicionou [=extra] ao quadro [=value] em [=what]",
   "AT$atRemoveTaskStateObs": "[=who] removeu [=extra] do quadro [=value] em [=what]",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who] adicionou [=value] a [=what]",
+  "AT$atRemoveTaskState": "[=who] removeu [=value] de [=what]",
   "AT$atAddSublist": "[=who] adicionou a sub-lista [=value] a [=what]",
   "AT$atRemoveSublist": "[=who] removeu a sub-lista [=value] de [=what]",
   "AT$atSlackInstall": "[=who] conectou [=what] ao [=value] do Slack",
