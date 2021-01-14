@@ -20,7 +20,7 @@ const trWeb = const <String, String> {
   mSlogan: 'Fikirlerinizi Ortaya Çıkarın',
   mSloganSentence: 'Fikirlerinizi ortaya çıkarın',
   mSloganSubtitle: 'Sonraki harika projeleriniz için görsel bir işbirliği platformu.',
-  mQuireDescription: 'Hiyerarşik listelerde hedefleri bölmek için en iyi ortak proje yönetimi yazılımı.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Hayallerinizi Canlandırın",
   mHomeSectionDreamsDesc:
     "“Benden önce bir yol yok, <br> "

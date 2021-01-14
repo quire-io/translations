@@ -20,7 +20,7 @@ const esWeb = const <String, String> {
   mSlogan: 'Despliega Tus Ideas',
   mSloganSentence: 'Despliega tus ideas',
   mSloganSubtitle: 'Una plataforma visual de colaboración para tus próximos grandes proyectos.',
-  mQuireDescription: 'El mejor software colaborativo de gestión de proyectos para desglosar objetivos en líneas jerárquicas.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Haz Realidad Tus Sueños",
   mHomeSectionDreamsDesc:
     "“There’s no path before me, <br>"

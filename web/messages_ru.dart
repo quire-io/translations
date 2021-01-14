@@ -20,7 +20,7 @@ const ruWeb = const <String, String> {
   mSlogan: 'Раскройте Ваши Идеи',
   mSloganSentence: 'Раскройте ваши идеи',
   mSloganSubtitle: 'Визуальная платформа для совместной работы для ваших следующих замечательных проектов.',
-  mQuireDescription: 'Лучшее программное обеспечение для совместного управления проектами для разбивки целей в иерархических списках.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Воплотите Ваши Мечты в Жизнь",
   mHomeSectionDreamsDesc:
     "“Там нет пути до меня, <br> "

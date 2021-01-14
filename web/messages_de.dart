@@ -20,7 +20,7 @@ const deWeb = const <String, String> {
   mSlogan: 'Entfalte Deine Ideen',
   mSloganSentence: 'Entfalte Deine Ideen',
   mSloganSubtitle: 'Eine kollaborative Plattform für Ihre Projekte.',
-  mQuireDescription: 'Die beste Projektmanagement-Anwendung mit hierarchischen Aufgabenlisten für perfektes Teamwork.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Verwirklichen Sie Ihre Ideen",
   mHomeSectionDreamsDesc:
     "“There’s no path before me, <br> "

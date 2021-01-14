@@ -20,7 +20,7 @@ const enWeb = const <String, String> {
   mSloganSubtitle:
     'A visual collaborative platform for your next, great projects.',
   mQuireDescription:
-    'The best collaborative project management software for breaking down goals in hierarchical lists.',
+    'The best collaborative project management software that actually helps teams get things done.',
 
   mHomeSectionDreamsTitle: "Bring Your Dreams to Life",
   mHomeSectionDreamsDesc:

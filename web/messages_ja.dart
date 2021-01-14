@@ -20,7 +20,7 @@ const jaWeb = const <String, String> {
   mSlogan: "アイデアを、広げよう。",
   mSloganSentence: "アイデアを、広げよう。",
   mSloganSubtitle: 'プロジェクトの成功へ、ビジュアル重視のコラボレーション・プラットフォーム。',
-  mQuireDescription: '作業を細分化して階層リスト化できる、コラボレーションに最適なプロジェクト管理ソフトウェア。',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "夢を、かたちに",
   mHomeSectionDreamsDesc:
     "「僕の前に道はない<br> "

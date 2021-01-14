@@ -20,7 +20,7 @@ const frWeb = const <String, String> {
   mSlogan: 'Explorez vos idées',
   mSloganSentence: 'Explorez vos idées',
   mSloganSubtitle: 'Une plateforme pour collaborer sur tous vos projets.',
-  mQuireDescription: 'La meilleure plateforme de gestion de projets en collaboration, pour morceler ses objectifs en listes hiérarchisées.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Donnez vie à vos rêves",
   mHomeSectionDreamsDesc:
     "« Il n'y avait pas de route devant moi, <br> "

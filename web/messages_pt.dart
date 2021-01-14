@@ -20,7 +20,7 @@ const ptWeb = const <String, String> {
   mSlogan: 'Desenrole As Suas Ideias',
   mSloganSentence: 'Desenrole as suas ideias',
   mSloganSubtitle: 'alcance mais com a gestão de projetos do Quire',
-  mQuireDescription: 'O melhor software de gestão colaborativa de projetos para decompor objetivos em listas hierárquicas.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Transforme os Seus Sonhos em Realidade",
   mHomeSectionDreamsDesc:
     "“Não existe uma estrada antes de mim, <br> "

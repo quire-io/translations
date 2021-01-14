@@ -20,7 +20,7 @@ const itWeb = const <String, String> {
   mSlogan: 'Schiudi le Tue idee',
   mSloganSentence: 'Schiudi le Tue idee',
   mSloganSubtitle: 'Una piattaforma di collaborazione visuale per i tuoi prossimi, grandi progetti.',
-  mQuireDescription: 'Il miglior software di gestione progetti per suddividere obbiettivi in liste gerarchiche.',
+  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
   mHomeSectionDreamsTitle: "Dai vita ai tuoi sogni",
   mHomeSectionDreamsDesc:
     "“Non c'è percorso davanti a me, <br> "
