@@ -836,6 +836,10 @@ You won't be allowed to publish the app again until [=days] days later.</p>
     "[=who] started working on [=what]",
   "AT$atPauseTask":
     "[=who] deferred [=what]",
+  "AT$atSetBoardObs":
+    "[=who] added [=what] to [=value]",
+  "AT$atUnsetBoardObs":
+    "[=who] removed [=what] from [=value]",
   "AT$atArchiveTask":
     "[=who] peekaboo [=what]",
   "AT$atUnarchiveTask":
@@ -935,10 +939,22 @@ You won't be allowed to publish the app again until [=days] days later.</p>
   "AT$atRemoveShare":
     "[=who] removed a shared link, [=value], of [=what]",
 
-  "AT$atAddTaskState":
+  "AT$atAddBoardObs":
+    "[=who] added the board [=value] to [=what]",
+  "AT$atRemoveBoardObs":
+    "[=who] removed the board [=value] from [=what]",
+  "AT$atEditBoardObs":
+    "[=who] edited the board [=value]",
+
+  "AT$atAddTaskStateObs":
     "[=who] added [=extra] to the board [=value] in [=what]",
-  "AT$atRemoveTaskState":
+  "AT$atRemoveTaskStateObs":
     "[=who] removed [=extra] from the board [=value] in [=what]",
+
+  "AT$atAddTaskState":
+    "[=who] added [=value] to [=what]",
+  "AT$atRemoveTaskState":
+    "[=who] removed [=value] from [=what]",
 
   "AT$atAddSublist":
     "[=who] added the sublist [=value] to [=what]",
