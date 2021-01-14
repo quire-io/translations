@@ -20,7 +20,7 @@ const frServer = const <String, String> {
   mSystemBusy:
     "Désolé, le système est surchargé. Veuillez réessayer. "
     'Si le problème persiste, veuillez <a href="/feedback">nous contacter</a>. Merci !',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "Veuillez mettre à jour l'application pour utiliser la dernière version.",
   mProjectLower: "projet",
   mOrganizationLower: "organisation",
   mSidebarMyTasksUpper: "MES TÂCHES",
@@ -715,8 +715,8 @@ Vous ne pourrez pas republier cette application avant [=days] jours.</p>
   "AT$atEditBoardObs": "[=who] a modifié le tableau [=value]",
   "AT$atAddTaskStateObs": "[=who] a ajouté [=extra] au tableau [=value] dans [=what]",
   "AT$atRemoveTaskStateObs": "[=who] a retiré [=extra] du tableau [=value] dans [=what]",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who] a ajouté [=value] à [=what]",
+  "AT$atRemoveTaskState": "[=who] a retiré [=value] de [=what]",
   "AT$atAddSublist": "[=who] a ajouté la sous-liste [=value] à [=what]",
   "AT$atRemoveSublist": "[=who] a retiré la sous-liste [=value] de [=what]",
   "AT$atSlackInstall": "[=who] a connecté [=what] à [=value] dans Slack",
