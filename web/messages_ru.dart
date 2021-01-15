@@ -71,6 +71,8 @@ const ruWeb = const <String, String> {
   mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",
   mFeatureBoardTitle: "Доска Канбан",
   mFeatureBoardDesc: "Визуализируйте свой рабочий процесс, чтобы лучше управлять и фокусироваться на своих задачах.",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "Подсписки",
   mFeatureSublistDesc: "Создавайте персонализированные списки, чтобы сосредоточиться на нужных задачах в нужное время.",
   mFeatureMytasksTitle: "Мои задачи с одного взгляда",

@@ -87,6 +87,9 @@ const enWeb = const <String, String> {
   mFeatureBoardTitle: "Kanban Board",
   mFeatureBoardDesc: "Visualize your workflow to better manage and focus on your tasks.",
 
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
+
   mFeatureSublistTitle: "Sublist",
   mFeatureSublistDesc: "Create personalized sublists to get focused on the right tasks at the right time.",
 

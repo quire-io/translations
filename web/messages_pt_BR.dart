@@ -71,6 +71,8 @@ const ptBrWeb = const <String, String> {
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos gerenciáveis.",
   mFeatureBoardTitle: "Quadro Kanban",
   mFeatureBoardDesc: "Visualize seu fluxo de trabalho para gerenciar melhor e se concentrar em suas tarefas.",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "Sublista",
   mFeatureSublistDesc: "Crie sublistas personalizadas para se concentrar nas tarefas certas, na hora certa.",
   mFeatureMytasksTitle: "Minhas Tarefas Resumidas",

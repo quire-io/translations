@@ -67,6 +67,8 @@ const deWeb = const <String, String> {
   mFeatureHierarchyDesc: "Zerlegen Sie große Projekte in überschaubare Schritte und Unteraufgaben.",
   mFeatureBoardTitle: "Kanban Board",
   mFeatureBoardDesc: "Visualisieren Sie Ihren Workflow, um Ihre Aufgaben besser zu verwalten und den Fokus nicht aus dem Auge zu verlieren.",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "Unterliste",
   mFeatureSublistDesc: "Erstellen Sie personalisierte Unterlisten, um sich zur richtigen Zeit auf die richtigen Aufgaben zu konzentrieren.",
   mFeatureMytasksTitle: "Ihre Aufgaben und Projekte auf einen Blick",

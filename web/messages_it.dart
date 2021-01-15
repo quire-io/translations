@@ -71,6 +71,8 @@ const itWeb = const <String, String> {
   mFeatureHierarchyDesc: "Affronta grandi progetti suddividendoli in piccoli, e gestibili passi.",
   mFeatureBoardTitle: "Bacheca Kanban",
   mFeatureBoardDesc: "Visualizza il tuo flusso di lavoro per gestire e focalizzarti meglio sulle tue attività.",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "Sottoliste",
   mFeatureSublistDesc: "Crea sottoliste personalizzate per focalizzarti sull'attività corretta nel momento giusto.",
   mFeatureMytasksTitle: "Le mie attività a Colpo d\' Occhio",

@@ -71,6 +71,8 @@ const esWeb = const <String, String> {
   mFeatureHierarchyDesc: "Aborda grandes proyectos dividiéndolos en pasos más pequeños y manejables.",
   mFeatureBoardTitle: "Tablero Kanban",
   mFeatureBoardDesc: "Visualiza tu trabajo para enfocar y administrar mejor tus tareas.",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "Sublista",
   mFeatureSublistDesc: "Crea sublistas personalizadas para centrarte en las tareas correctas a su debido tiempo.",
   mFeatureMytasksTitle: "Mis Tareas de un Vistazo",

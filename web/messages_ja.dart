@@ -71,6 +71,8 @@ const jaWeb = const <String, String> {
   mFeatureHierarchyDesc: "大きなプロジェクトを、小さく管理しやすいステップに細分化しましょう。",
   mFeatureBoardTitle: "かんばんボード",
   mFeatureBoardDesc: "作業の流れを可視化して、効率化しましょう。",
+  mFeatureTimelineTitle: "Timeline",
+  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
   mFeatureSublistTitle: "サブリスト",
   mFeatureSublistDesc: "自分だけのサブリストを作成して、やるべきときにやるべき仕事に集中しましょう。",
   mFeatureMytasksTitle: "タスク一覧",
