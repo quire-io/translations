@@ -157,7 +157,7 @@ const deWeb = const <String, String> {
     "<p>Im Moment ist Quire kostenlos.</p>"
     "<p>Sie können ein kostenloses Quire-Konto mit bis zu 35 Organisationen, 80 Projekten und 30 Mitgliedern pro Organisation nutzen. Die gute Nachricht ist, dass alles, was Sie gerade verwenden, auch nach Einführung der Preispakete weiterhin kostenlos sein wird.</p>"
     "<p>Viele Leute haben sich gefragt, warum Quire das Preisprogramm noch nicht gestartet hat. Der Grund dafür ist, dass noch so viele aufregende Ideen und Funktionen zu entdecken sind! Wir möchten unseren Benutzern noch mehr bieten und uns bemühen, Quire noch besser zu machen, als uns auf den Verkauf zu konzentrieren.</p>"
-    "<p>Zum Beispiel entwickelt unser Team derzeit ein Gantt-Diagramm und verfeinert das vorhandene Kanban-Board. Unser Team arbeitet hart daran, eine Projektmanagement-Anwendung mit Funktionen zu erstellen, die sinnvoll ineinander greifen, anstatt die Anwendung mit so vielen Funktionen wie möglich zu überfrachten.</p>"
+    "<p>Unser Team arbeitet hart daran, eine Projektmanagement-Anwendung mit Funktionen zu erstellen, die sinnvoll ineinander greifen, anstatt die Anwendung mit so vielen Funktionen wie möglich zu überfrachten.</p>"
     '<p>Wenn Sie detailliertere Informationen zu unseren Preisen benötigen oder einige der aktuellen Einschränkungen für Ihr Unternehmen aufheben möchten, <a href="mailto:info@quire.io">wenden Sie sich gerne direkt an uns</a>.</p>',
   mCookieGDPRDesc: "Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies.",
   mSecurityPageTitle: 'Sicherheit bei Quire',
