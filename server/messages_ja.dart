@@ -20,7 +20,7 @@ const jaServer = const <String, String> {
   mSystemBusy:
     "申し訳ありません。システムがビジー状態です。再度お試しください。"
     '問題が解消しない場合は、私たちまで<a href="/feedback">お問い合わせ</a>ください。',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "アプリを最新バージョンに更新してください。",
   mProjectLower: "プロジェクト",
   mOrganizationLower: "組織",
   mSidebarMyTasksUpper: "自分のタスク",
@@ -733,8 +733,8 @@ Quireをご利用になったご感想をお聞かせください。
   "AT$atEditBoardObs": "[=who]さんがボード[=value]を編集しました",
   "AT$atAddTaskStateObs": "[=who]さんが[=extra]を[=what]のボード[=value]に追加しました",
   "AT$atRemoveTaskStateObs": "[=who]さんが[=extra]を[=what]のボード[=value]から消去しました",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who]さんが[=what]に[=value]を追加しました",
+  "AT$atRemoveTaskState": "[=who]さんが[=what]から[=value]を消去しました",
   "AT$atAddSublist": "[=who]さんが[=what]にサブリスト[=value]を追加しました",
   "AT$atRemoveSublist": "[=who]さんが[=what]からサブリスト[=value]を消去しました",
   "AT$atSlackInstall": "[=who]さんが[=what]をSlackの[=value]に連携しました",
