@@ -20,7 +20,7 @@ const jaWeb = const <String, String> {
   mSlogan: "アイデアを、広げよう。",
   mSloganSentence: "アイデアを、広げよう。",
   mSloganSubtitle: 'プロジェクトの成功へ、ビジュアル重視のコラボレーション・プラットフォーム。',
-  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
+  mQuireDescription: 'チームの目標達成を支える、コラボレーションに最適なプロジェクト管理ソフトウェア。',
   mHomeSectionDreamsTitle: "夢を、かたちに",
   mHomeSectionDreamsDesc:
     "「僕の前に道はない<br> "
@@ -30,19 +30,19 @@ const jaWeb = const <String, String> {
   mHomeSectionStartSmallDesc:
     "ヒトの思考はもともと、大きな仕事の細分化には向きません。 どんな人でも、作業の細分化はひと仕事。 <br>"
     "Quireは、実行可能な計画を立てるために、小さなステップを設定するお手伝いをします。",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "やるべきことに集中",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
+    "選んだタスクだけをサブリストで表示して、作業をもっとシンプルにします。"
     "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "効率化へ、 やるべき作業をひと目で把握",
+  mHomeSectionVisuallyTitle: "効率化へ、ワークフローをひと目で把握",
   mHomeSectionVisuallyDesc:
-    "作業の流れを一目瞭然に。"
+    "かんばんボードでプロジェクトを整理し、優先度順に並べ替え、流れを可視化しましょう。"
     "かんばんボードで整理して、最重要事項に集中しましょう。チーム全員が同じ画面で作業を進めることができます。",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+  mHomeSectionTimelineTitle: "綿密な計画作成に、タイムライン表示",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
+    "フレキシブルなガントチャートで、すべてのマイルストーンを設定できます。"
     "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "進捗を把握し、その先の一歩へ",
+  mHomeSectionProgressTitle: "達成を見据え、その先の一歩へ",
   mHomeSectionProgressDesc:
     "プロジェクトの進捗をチャートにして、達成率をひと目で把握。"
     "お互いの作業状況を確認し、協力しながらプロジェクトを成功に導きましょう。",
