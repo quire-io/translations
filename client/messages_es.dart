@@ -370,6 +370,7 @@ const esClient = const <String, String> {
   mTaskArchiveNeverOption: "No volver a mostrar",
   mTaskArchiveDayOption: "Volver a mostrar [=n] días más tarde",
   mTreeMenuArchiveTip: "Las tareas <a href='[=link]' target='_blank'>Peekaboo</a> serán guardadas hasta que estés listo para ponerte con ellas.",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "Completar",
   mTreeBatchAssigneeTooltip: "Asignar",
   mTreeBatchDateTooltip: "Fecha de vencimiento",

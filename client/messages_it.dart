@@ -370,6 +370,7 @@ const itClient = const <String, String> {
   mTaskArchiveNeverOption: "Non mostrare più",
   mTaskArchiveDayOption: "Mostra nuovamente [=n] giorno/i dopo",
   mTreeMenuArchiveTip: "Le attività <a href='[=link]' target='_blank'>Peekaboo</a> verranno nascosce fino a che non sei pronto per gestirle.",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "Completa",
   mTreeBatchAssigneeTooltip: "Assegna",
   mTreeBatchDateTooltip: "Data",

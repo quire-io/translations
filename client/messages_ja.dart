@@ -370,6 +370,7 @@ const jaClient = const <String, String> {
   mTaskArchiveNeverOption: "今後表示しない",
   mTaskArchiveDayOption: "[=n]日後に再表示",
   mTreeMenuArchiveTip: "「<a href='[=link]' target='_blank'>あとで表示</a>」のタスクは、着手する準備ができるまで非表示になります。",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "完了",
   mTreeBatchAssigneeTooltip: "担当者",
   mTreeBatchDateTooltip: "日付",

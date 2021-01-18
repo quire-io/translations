@@ -370,6 +370,7 @@ const ruClient = const <String, String> {
   mTaskArchiveNeverOption: "Больше никогда не показывать",
   mTaskArchiveDayOption: "Снова показать через [=n] дн.",
   mTreeMenuArchiveTip: "<a href='[=link]' target='_blank'>Скрытые</a> задачи будут отложены, пока вы не будете готовы с ними справиться.",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "Завершить",
   mTreeBatchAssigneeTooltip: "Исполнитель",
   mTreeBatchDateTooltip: "Дата",

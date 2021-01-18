@@ -364,6 +364,7 @@ const trClient = const <String, String> {
   mTaskArchiveNeverOption: "Bir daha gösterme",
   mTaskArchiveDayOption: "[=n] gün sonra göster",
   mTreeMenuArchiveTip: "<a href='[=link]' target='_blank'>Mahzendeki</a> görevler sen onları yapmaya hazır olana kadar gizlenir.",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "Tamamla",
   mTreeBatchAssigneeTooltip: "Sorumlu",
   mTreeBatchDateTooltip: "Tarih",

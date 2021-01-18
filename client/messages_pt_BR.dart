@@ -375,6 +375,7 @@ const ptBrClient = const <String, String> {
   mTaskArchiveNeverOption: "Não mostrar de novo",
   mTaskArchiveDayOption: "Mostrar de novo [=n] dias depois",
   mTreeMenuArchiveTip: "Tarefas <a href='[=link]' target='_blank'>Peekaboo</a> serão escondidas até que você esteja pronto para lidar com elas.",
+  mTreeMenuMarkAsRead: "Mark as read",
   mTreeBatchCompleteTooltip: "Concluído",
   mTreeBatchAssigneeTooltip: "Responsável",
   mTreeBatchDateTooltip: "Data",
