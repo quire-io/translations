@@ -175,11 +175,17 @@ const enWeb = const <String, String> {
   mFeatureGoogleCalendarTitle: "Sync to Google Calendar",
   mFeatureGoogleCalendarDesc: "See your tasks as events on Google, iCal or Outlook Calendar and get notified.",
 
+  mFeatureGoogleAssistantTitle:  "Google Assistant for Tasks",
+  mFeatureGoogleAssistantDesc: "Manage your tasks list with a voice-controlled virtual assistant.",
+
   mFeatureSlackTitle: "Slack integration",
   mFeatureSlackDesc: "Get updates about your projects in a Slack channel and more.",
 
   mFeatureZapierTitle: "Zapier integration",
   mFeatureZapierDesc: "Connect Quire instantly with 2,000+ apps to automate your workflow and find productivity super powers.",
+
+  mFeatureMsTeamsTitle: "Microsoft Teams Integration",
+  mFeatureMsTeamsDesc: "Connect team’s conversations to Quire task lists.",
 
   mFeatureIntegraGithubTitle: "GitHub integration",
   mFeatureIntegraGithubDesc: "Keep everyone on your team up to date with the code changes by linking commits to your tasks.",
