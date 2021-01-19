@@ -36,8 +36,8 @@ const jaWeb = const <String, String> {
     "Make sure every team member is in control of their work.",
   mHomeSectionVisuallyTitle: "効率化へ、ワークフローをひと目で把握",
   mHomeSectionVisuallyDesc:
-    "かんばんボードでプロジェクトを整理し、優先度順に並べ替え、流れを可視化しましょう。"
-    "かんばんボードで整理して、最重要事項に集中しましょう。チーム全員が同じ画面で作業を進めることができます。",
+    "Arrange, prioritize, and visualize the project with a Kanban board. "
+    "Balance team resources to optimize efficiency and transparency",
   mHomeSectionTimelineTitle: "綿密な計画作成に、タイムライン表示",
   mHomeSectionTimelineDesc:
     "フレキシブルなガントチャートで、すべてのマイルストーンを設定できます。"
