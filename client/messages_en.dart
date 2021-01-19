@@ -165,6 +165,7 @@ const enClient = const <String, String> {
   mStart: "Start",
   mDue: "Due",
   mDate: "Date",
+  mCompletedDate: "Completed Date",
   mDay: "Due Per Day",
   mWeek: "Due Per Week",
   mCompletedWeek: "Complete Per Week",

@@ -117,6 +117,7 @@ const esClient = const <String, String> {
   mStart: "Empezar",
   mDue: "Vencimiento",
   mDate: "Fecha",
+  mCompletedDate: "Completed Date",
   mDay: "Vencimiento por Día",
   mWeek: "Vencimiento por Mes",
   mCompletedWeek: "Completar por Semana",

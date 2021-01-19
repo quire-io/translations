@@ -111,6 +111,7 @@ const deClient = const <String, String> {
   mStart: "Anfang",
   mDue: "Fällig",
   mDate: "Datum",
+  mCompletedDate: "Completed Date",
   mDay: "Fällig pro Tag",
   mWeek: "Fällig pro Woche",
   mCompletedWeek: "Erledigt pro Woche",

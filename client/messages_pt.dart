@@ -122,6 +122,7 @@ const ptClient = const <String, String> {
   mStart: "Início",
   mDue: "Fim",
   mDate: "Data",
+  mCompletedDate: "Completed Date",
   mDay: "Agendado Por Dia",
   mWeek: "Agendado Por Semana",
   mCompletedWeek: "Concluído Por Semana",

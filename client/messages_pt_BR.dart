@@ -122,6 +122,7 @@ const ptBrClient = const <String, String> {
   mStart: "Começo",
   mDue: "Final",
   mDate: "Data",
+  mCompletedDate: "Completed Date",
   mDay: "Agendado Por Dia",
   mWeek: "Agendado Por Semana",
   mCompletedWeek: "Concluído Por Semana",

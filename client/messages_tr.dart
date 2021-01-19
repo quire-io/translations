@@ -111,6 +111,7 @@ const trClient = const <String, String> {
   mStart: "Başlama",
   mDue: "Termin",
   mDate: "Tarih",
+  mCompletedDate: "Completed Date",
   mDay: "Termin, Günlük",
   mWeek: "Termin, Haftalık",
   mCompletedWeek: "Tamamlama, Haftalık",

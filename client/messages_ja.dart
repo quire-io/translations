@@ -117,6 +117,7 @@ const jaClient = const <String, String> {
   mStart: "開始",
   mDue: "期限",
   mDate: "日",
+  mCompletedDate: "Completed Date",
   mDay: "期限日",
   mWeek: "期限の週",
   mCompletedWeek: "完了の週",

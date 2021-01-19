@@ -117,6 +117,7 @@ const ruClient = const <String, String> {
   mStart: "Начало",
   mDue: "Срок",
   mDate: "Дата",
+  mCompletedDate: "Completed Date",
   mDay: "По дням окончания",
   mWeek: "По неделям окончания",
   mCompletedWeek: "Завершено, по неделям",
