@@ -145,8 +145,8 @@ const enWeb = const <String, String> {
   mFeaturePeekabooTitle: "Peekaboo",
   mFeaturePeekabooDesc: "Temporarily tuck away your currently non-actionable tasks to better organize your task list and avoid stress at work.",
 
-  mFeatureTimeTitle: "Time and Duration",
-  mFeatureTimeDesc: "Set start and due dates to see a Gantt chart-like view in your calendar.",
+  mFeatureTimeTitle: "Start and Due Date",
+  mFeatureTimeDesc: "Set start and due dates and time to clearly indicate the schedule of the task.",
 
   mFeatureRemindersTitle: "Reminders",
   mFeatureRemindersDesc: "Get reminded of upcoming tasks before start or due whenever you want across devices.",

@@ -32,7 +32,7 @@ const deWeb = const <String, String> {
   mHomeSectionSublistDesc:
     "Arbeiten Sie konzentriert an Ihren Aufgaben - mit einer verbesserten Unterlistenansicht. "
     "Stellen Sie sicher, dass jedes Teammitglied die Kontrolle über seine Arbeit hat.",
-  mHomeSectionVisuallyTitle: "Optimieren Sie Ihre Aufgaben visuell",
+  mHomeSectionVisuallyTitle: "Optimieren Sie Ihren Workflow visuell",
   mHomeSectionVisuallyDesc:
     "Ordnen, priorisieren und visualisieren Sie das Projekt mit einem Kanban-Board."
     "Verwalten Sie Teamressourcen, um Effizienz und Transparenz zu optimieren",
@@ -105,8 +105,8 @@ const deWeb = const <String, String> {
   mFeatureRecurringDesc: "Mit wiederkehrenden Aufgaben richten Sie täglich, wöchentlich oder monatlich wiederkehrende Aufgaben bequem ein.",
   mFeaturePeekabooTitle: "Peekaboo",
   mFeaturePeekabooDesc: "Verstauen Sie vorübergehend Ihre derzeit nicht umsetzbaren Aufgaben, um Ihre Aufgabenliste besser zu organisieren und Stress bei der Arbeit zu vermeiden.",
-  mFeatureTimeTitle: "Zeit und Dauer",
-  mFeatureTimeDesc: "Legen Sie Start- und Endzeitpunkte fest, um eine Gantt-Chart-Ansicht in Ihrem Kalender zu sehen.",
+  mFeatureTimeTitle: "Start and Due Date",
+  mFeatureTimeDesc: "Set start and due dates and time to clearly indicate the schedule of the task.",
   mFeatureRemindersTitle: "Erinnerungen",
   mFeatureRemindersDesc: "Lassen Sie sich erinnern, wenn eine Aufgabe ansteht oder abgeschlossen werden muss. Auf all Ihren Geräten.",
   mFeatureNotificationTitle: "Benachrichtigungen",
