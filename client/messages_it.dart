@@ -117,7 +117,7 @@ const itClient = const <String, String> {
   mStart: "Inizia",
   mDue: "Scade",
   mDate: "Data",
-  mCompletedDate: "Completed Date",
+  mCompletedDate: "Data di Completamento",
   mDay: "Scadenze Per Giorno",
   mWeek: "Scadenze Per Settimana",
   mCompletedWeek: "Completati Per Settimana",
