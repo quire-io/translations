@@ -71,8 +71,8 @@ const trWeb = const <String, String> {
   mFeatureHierarchyDesc: "Büyük projeleri küçük, yönetilebilir adımlara bölerek yönetin.",
   mFeatureBoardTitle: "Kanban Panosu",
   mFeatureBoardDesc: "Görevlerinizi daha iyi yönetmek ve odaklanmak için iş akışınızı görselleştirin.",
-  mFeatureTimelineTitle: "Timeline",
-  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
+  mFeatureTimelineTitle: "Zaman Çizelgesi",
+  mFeatureTimelineDesc: "Liste ve Pano arasında değiştirilebilen güzel bir Gantt şeması görünümüyle ekip programını planlayın.",
   mFeatureSublistTitle: "Alt liste",
   mFeatureSublistDesc: "Doğru zamanda doğru görevlere odaklanmak için kişiselleştirilmiş alt listeler oluşturun.",
   mFeatureMytasksTitle: "Bir Bakışta Görevlerim",
@@ -129,14 +129,14 @@ const trWeb = const <String, String> {
   mFeatureGoogleEmailDesc: "Google e-postalarınızı eşzamanlı olarak Quire görevlerine dönüştürün.",
   mFeatureGoogleCalendarTitle: "Google Takvim Senkronizasyonu",
   mFeatureGoogleCalendarDesc: "Görevlerinizi Google, iCal veya Outlook Takvim'de etkinlik olarak görün ve bildirim alın.",
-  mFeatureGoogleAssistantTitle: "Google Assistant for Tasks",
-  mFeatureGoogleAssistantDesc: "Manage your tasks list with a voice-controlled virtual assistant.",
+  mFeatureGoogleAssistantTitle: "Görevler için Google Asistan",
+  mFeatureGoogleAssistantDesc: "Görev listenizi ses kontrollü bir sanal asistan ile yönetin.",
   mFeatureSlackTitle: "Slack entegrasyonu",
   mFeatureSlackDesc: "Slack kanalındaki projelerinizle ilgili güncellemeleri alın ve daha fazlasını yapın.",
   mFeatureZapierTitle: "Zapier entegrasyonu",
   mFeatureZapierDesc: "İş akışınızı otomatikleştirmek ve verimlilik süper güçlerini bulmak için Quire'yi 2.000'den fazla uygulamayla anında bağlayın.",
-  mFeatureMsTeamsTitle: "Microsoft Teams Integration",
-  mFeatureMsTeamsDesc: "Connect team’s conversations to Quire task lists.",
+  mFeatureMsTeamsTitle: "Microsoft Teams Entegrasyonu",
+  mFeatureMsTeamsDesc: "Ekibin görüşmelerini Quire görev listelerine bağlayın.",
   mFeatureIntegraGithubTitle: "GitHub entegrasyonu",
   mFeatureIntegraGithubDesc: "Taahhütlerinizi görevinize bağlayarak ekibinizdeki herkesi kod değişiklikleriyle güncel tutuns.",
   mFeatureChromeExtensionTitle: "Chrome Entegrasyonu",
@@ -168,7 +168,7 @@ const trWeb = const <String, String> {
     "<p>35 organizasyon, 80 proje ve organizasyon başına 30 üyeye kadar ücretsiz bir Quire hesabının tadını çıkarabilirsiniz. İyi haber şu ki, şu anda kullandığınız her şey, fiyatlandırma paketlerini açıkladıktan sonra bile ücretsiz olmaya devam edecek.</p>"
     "<p>Birçok kişi Quire'ın neden fiyatlandırma programını henüz başlatmadığını merak ediyor. Bunun nedeni henüz keşfedilmeyi bekleyen pek çok heyecan verici fikir ve özellik olması! Satışa odaklanmaktan ziyade, kullanıcılarımıza daha sade bir deneyim sunmayı amaçlıyor ve Quire'ı daha harika bir hale getirmek için çaba sarf ediyoruz.</p>"
     "<p>Ekibimiz, mümkün olduğunca çok özellik eklemek yerine birbirleriyle uyumlu özelliklere sahip bir proje yönetim yazılımı oluşturmak ve hedeflerinize  en uygun iş akışı modeliyle ulaşmanız için çok çalışıyor.</p>"
-    '<p>Quire ile harika şeyler başarmaya hazır olduğunuzu biliyoruz. Uzun vadeli başarınızı sağlamak için buradayız. Fiyatlandırmayla ilgili daha ayrıntılı bilgiye ihtiyacınız varsa veya organizasyonlarınız için mevcut bazı sınırlamaları kaldırmak istiyorsanız, lütfen <a href="mailto:info@quire.io"> bize ulaşmaktan </a> çekinmeyin.</p>',
+    '<p>Quire ile harika şeyler başarmaya hazır olduğunuzu biliyoruz. Uzun vadeli başarınızı sağlamak için buradayız. Fiyatlandırmayla ilgili daha ayrıntılı bilgiye ihtiyacınız varsa veya organizasyonlarınız için mevcut bazı sınırlamaları kaldırmak istiyorsanız, lütfen <a href="mailto:info@quire.io">bizimle iletişime geçmekten</a> çekinmeyin.</p>',
   mCookieGDPRDesc: "Web sitemizde size en iyi deneyimi sunabilmemiz için çerezleri kullanıyoruz.",
   mSecurityPageTitle: 'Quire\'da Güvenlik',
   mSecurityPageDesc:
