@@ -371,7 +371,7 @@ const frClient = const <String, String> {
   mTaskArchiveNeverOption: "Ne plus jamais afficher",
   mTaskArchiveDayOption: "Remontrer [=n] jours plus tard",
   mTreeMenuArchiveTip: "Les tâches <a href='[=link]' target='_blank'>peekaboo</a> seront archivées jusqu'à ce que vous soyez prêt(e) à les prendre en charge.",
-  mTreeMenuMarkAsRead: "Mark as read",
+  mTreeMenuMarkAsRead: "Marquer comme lu",
   mTreeBatchCompleteTooltip: "Terminer",
   mTreeBatchAssigneeTooltip: "Attribution",
   mTreeBatchDateTooltip: "Date",
