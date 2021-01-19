@@ -32,16 +32,16 @@ const jaWeb = const <String, String> {
     "Quireは、実行可能な計画を立てるために、小さなステップを設定するお手伝いをします。",
   mHomeSectionSublistTitle: "やるべきことに集中",
   mHomeSectionSublistDesc:
-    "選んだタスクだけをサブリストで表示して、作業をもっとシンプルにします。"
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "効率化へ、ワークフローをひと目で把握",
+    "選んだタスクだけをサブリストで表示して、作業をもっと楽にしましょう。"
+    "チームメンバー一人ひとりが、自分の仕事を管理できます。",
+  mHomeSectionVisuallyTitle: "効率化へ、ワークフローを可視化",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
+    "かんばんボードでプロジェクトを整理し、優先度順に並べ替え、流れを一目瞭然に。"
+    "チームのリソースを適正に割り当て、効率と透明性を最大限に高めます。",
   mHomeSectionTimelineTitle: "綿密な計画作成に、タイムライン表示",
   mHomeSectionTimelineDesc:
-    "フレキシブルなガントチャートで、すべてのマイルストーンを設定できます。"
-    "Have a bird’s eye view of the project progress over time. ",
+    "フレキシブルなガントチャートで、すべてのマイルストーンを設定。"
+    "プロジェクトの日々の進捗がひと目で分かります。",
   mHomeSectionProgressTitle: "達成を見据え、その先の一歩へ",
   mHomeSectionProgressDesc:
     "プロジェクトの進捗をチャートにして、達成率をひと目で把握。"
