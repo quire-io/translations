@@ -20,7 +20,7 @@ const deWeb = const <String, String> {
   mSlogan: 'Entfalte Deine Ideen',
   mSloganSentence: 'Entfalte Deine Ideen',
   mSloganSubtitle: 'Eine kollaborative Plattform für Ihre Projekte.',
-  mQuireDescription: 'The best collaborative project management software that actually helps teams get things done.',
+  mQuireDescription: 'Die beste Anwendung für kollaboratives Projektmanagement.',
   mHomeSectionDreamsTitle: "Verwirklichen Sie Ihre Ideen",
   mHomeSectionDreamsDesc:
     "“There’s no path before me, <br> "
@@ -28,19 +28,19 @@ const deWeb = const <String, String> {
     "- Takamura Kotaro",
   mHomeSectionStartSmallTitle: "Groß denken, klein anfangen",
   mHomeSectionStartSmallDesc: "Große Herausforderungen gehen wir mit kleinen Schritten an. <br>",
-  mHomeSectionSublistTitle: "Focus on the Right Things",
+  mHomeSectionSublistTitle: "Konzentrieren Sie sich auf die richtigen Dinge",
   mHomeSectionSublistDesc:
-    "Work on your tasks effortlessly with a more focused Sublist view. "
-    "Make sure every team member is in control of their work.",
-  mHomeSectionVisuallyTitle: "Streamline Workflow Visually",
+    "Arbeiten Sie konzentriert an Ihren Aufgaben - mit einer verbesserten Unterlistenansicht. "
+    "Stellen Sie sicher, dass jedes Teammitglied die Kontrolle über seine Arbeit hat.",
+  mHomeSectionVisuallyTitle: "Optimieren Sie Ihre Aufgaben visuell",
   mHomeSectionVisuallyDesc:
-    "Arrange, prioritize, and visualize the project with a Kanban board. "
-    "Balance team resources to optimize efficiency and transparency",
-  mHomeSectionTimelineTitle: "Map Out Timeline Schedule",
+    "Ordnen, priorisieren und visualisieren Sie das Projekt mit einem Kanban-Board."
+    "Verwalten Sie Teamressourcen, um Effizienz und Transparenz zu optimieren",
+  mHomeSectionTimelineTitle: "Planen Sie den Zeitplan",
   mHomeSectionTimelineDesc:
-    "Plan ahead with a versatile Gantt chart to schedule every milestone. "
-    "Have a bird’s eye view of the project progress over time. ",
-  mHomeSectionProgressTitle: "See and Rise Above Achievements",
+    "Planen Sie Meilensteine mit einem vielseitigen Gantt-Diagramm. "
+    "Sehen Sie sich den Projektfortschritt aus der Vogelperspektive an. ",
+  mHomeSectionProgressTitle: "Behalten Sie den Fortschritt Ihrer Projekte im Blick",
   mHomeSectionProgressDesc:
     "Bleiben Sie am Puls Ihrer Projekte. Verschaffen Sie sich einen Überblick über Ihre Aufgaben, "
     "Projekte und Teams.",
@@ -68,7 +68,7 @@ const deWeb = const <String, String> {
   mFeatureBoardTitle: "Kanban Board",
   mFeatureBoardDesc: "Visualisieren Sie Ihren Workflow, um Ihre Aufgaben besser zu verwalten und den Fokus nicht aus dem Auge zu verlieren.",
   mFeatureTimelineTitle: "Timeline",
-  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
+  mFeatureTimelineDesc: "Planen Sie Kapazitäten mit einer wunderschönen Gantt-Diagrammansicht, die zwischen Liste und Board umgeschaltet werden kann.",
   mFeatureSublistTitle: "Unterliste",
   mFeatureSublistDesc: "Erstellen Sie personalisierte Unterlisten, um sich zur richtigen Zeit auf die richtigen Aufgaben zu konzentrieren.",
   mFeatureMytasksTitle: "Ihre Aufgaben und Projekte auf einen Blick",
@@ -125,14 +125,14 @@ const deWeb = const <String, String> {
   mFeatureGoogleEmailDesc: "Verwandeln Sie Ihre Google-E-Mails in Quire-Aufgaben.",
   mFeatureGoogleCalendarTitle: "Mit Google Kalender synchronisieren",
   mFeatureGoogleCalendarDesc: "Sehen Sie Ihre Aufgaben als Termine in Google Kalender, iCal oder Outlook und werden Sie benachrichtigt.",
-  mFeatureGoogleAssistantTitle: "Google Assistant for Tasks",
-  mFeatureGoogleAssistantDesc: "Manage your tasks list with a voice-controlled virtual assistant.",
+  mFeatureGoogleAssistantTitle: "Google Assistant für Aufgaben",
+  mFeatureGoogleAssistantDesc: "Verwalten Sie Ihre Aufgaben mit Google's sprachgesteuertem virtuellen Assistenten.",
   mFeatureSlackTitle: "Slack Integration",
   mFeatureSlackDesc: "Erhalten Sie Updates zu Projekten in einem Slack-Channel.",
   mFeatureZapierTitle: "Zapier Integration",
   mFeatureZapierDesc: "Verbinden Sie Quire mit über 2.000 Apps, um Ihren Workflow zu automatisieren und Ihre Produktivtät noch weiter zu steigern.",
   mFeatureMsTeamsTitle: "Microsoft Teams Integration",
-  mFeatureMsTeamsDesc: "Connect team’s conversations to Quire task lists.",
+  mFeatureMsTeamsDesc: "Konversationen in Teams mit Quire-Aufgabenliste verknüpfen.",
   mFeatureIntegraGithubTitle: "GitHub Integration",
   mFeatureIntegraGithubDesc: "Halten Sie Ihr Team bei Codeänderungen auf dem Laufenden indem Sie Commits mit Aufgaben verknüpfen.",
   mFeatureChromeExtensionTitle: "Chrome Browser-Erweiterung",

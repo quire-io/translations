@@ -20,7 +20,7 @@ const deServer = const <String, String> {
   mSystemBusy:
     "Sorry, das System ist ausgelastet. Bitte versuchen Sie es erneut. "
     'Wenn das Problem weiterhin besteht, <a href="/feedback">kontaktieren Sie uns</a> bitte. Danke!',
-  mPleaseUpgrade: "Please update your app to the latest version.",
+  mPleaseUpgrade: "Bitte aktualisieren Sie Ihre App auf die neueste Version.",
   mProjectLower: "Projekt",
   mOrganizationLower: "Organisation",
   mSidebarMyTasksUpper: "MEINE AUFGABEN",
@@ -726,8 +726,8 @@ Sie können versuchen die App nach [=days] Tagen erneut zu veröffentlichen.</p>
   "AT$atEditBoardObs": "[=who] hat das Board[=value] bearbeitet",
   "AT$atAddTaskStateObs": "[=who] hat [=extra] zu dem Board [=value] in [=what] hinzugefügt",
   "AT$atRemoveTaskStateObs": "[=who] hat [=extra] von dem Board [=value] in [=what] entfernt",
-  "AT$atAddTaskState": "[=who] added [=value] to [=what]",
-  "AT$atRemoveTaskState": "[=who] removed [=value] from [=what]",
+  "AT$atAddTaskState": "[=who] hat [=value] zu [=what] hinzugefügt",
+  "AT$atRemoveTaskState": "[=who] hat [=value] von [=what] entfernt",
   "AT$atAddSublist": "[=who] hat die Unterliste [=value] zu [=what] hinzugefügt",
   "AT$atRemoveSublist": "[=who] hat die Unterliste [=value] von [=what] entfernt",
   "AT$atSlackInstall": "[=who] hat [=what] an Slack's [=value] angebunden",
