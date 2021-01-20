@@ -117,7 +117,7 @@ const frClient = const <String, String> {
   mStart: "Début",
   mDue: "Échéance",
   mDate: "Date",
-  mCompletedDate: "Completed Date",
+  mCompletedDate: "Date de complétion",
   mDay: "Dues par jour",
   mWeek: "Dues par semaine",
   mCompletedWeek: "Terminées par semaine",
