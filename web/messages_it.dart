@@ -38,7 +38,7 @@ const itWeb = const <String, String> {
   mHomeSectionVisuallyDesc:
     "Organizza, assegna la priorità e visualizza il progetto con una bacheca Kanban. "
     "Bilancia le risorse del team per ottimizzare efficienza e trasparenza",
-  mHomeSectionTimelineTitle: "Mappa la Pianificazione Temporale",
+  mHomeSectionTimelineTitle: "Mappa la Sequenza Temporale",
   mHomeSectionTimelineDesc:
     "Pianifica in anticipo con un versatile diagramma Gantt per programmare ogni traguardo. "
     "Utilizza una visione d'insieme dell'avanzamento del progetto nel tempo. ",
@@ -71,7 +71,7 @@ const itWeb = const <String, String> {
   mFeatureHierarchyDesc: "Affronta grandi progetti suddividendoli in piccoli, e gestibili passi.",
   mFeatureBoardTitle: "Bacheca Kanban",
   mFeatureBoardDesc: "Visualizza il tuo flusso di lavoro per gestire e focalizzarti meglio sulle tue attività.",
-  mFeatureTimelineTitle: "Sequenza temporale",
+  mFeatureTimelineTitle: "Sequenza Temporale",
   mFeatureTimelineDesc: "Pianifica le attività della squadra con una splendida visualizzazione del diagramma di Gantt, commutabile tra Lista e Bacheca.",
   mFeatureSublistTitle: "Sottoliste",
   mFeatureSublistDesc: "Crea sottoliste personalizzate per focalizzarti sull'attività corretta nel momento giusto.",
@@ -315,12 +315,12 @@ const itWeb = const <String, String> {
     "<p>Ora che conosci meglio l'applicazione, puoi dare il via al tuo progetto!</p>",
   mTutorialContextmenuTip: "Suggerimento: è possibile premere F1 per visualizzare un elenco completo di scorciatoie da tastiera.",
   mNextTutorial: "Prossimo tutorial",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "Suddividi i grandi progetti in attività più piccole con l'albero annidato di Quire",
+  mBoardTutorialLinkTitle: "Semplifica visivamente il flusso di lavoro con la Bacheca Kanban di Quire",
   mSublistTutorialLinkTitle: "Concentrati sulle attività giuste con una sottolista personalizzata di Quire",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Pianifica le attività del progetto con la Sequenza Temporale di Quire",
   mSignupToday: "Cominciamo oggi con Quire!",
-  mBoardTutorialTitle: "Quire Tutorial - Bachca Kanban",
+  mBoardTutorialTitle: "Quire Tutorial - Bacheca Kanban",
   mBoardTutorialDesc:
     "Dopo aver scaricato e organizzato tutte le tue idee nell' elenco nidificato delle attività, "
     "è tempo di lavorare sul tuo progetto!<br>"
@@ -477,71 +477,71 @@ const itWeb = const <String, String> {
     "e la produttività del tuo team! La produttività sta tutta nel concentrarsi "
     "sulla cosa giusta al momento giusto!</p>"
     "<p>Ora vai e realizza i tuoi sogni!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Quire Tutorial - Sequenza Temporale",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "Hai problemi a individuare le attività bloccanti del tuo progetto? Con un solo tocco, "
+    "cambia il tuo elenco di attività in una visualizzazione Pianificazione Temporele e inizia a visualizzare il tuo progetto con una vista temporale di facile comprensione.",
+  mTimelineTutorialSwitchViewTitle: "Passa alla vista Pianidifcazione Temporale dalla vista ad Albero",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>Nell'angolo in alto a destra, vedrai tre pulsanti associati a diverse visualizzazioni del tuo progetto e delle tue sottoliste. "
+    "Fare clic sul pulsante Sequenza Temporale per trasformare il progetto in un Diagramma di Gantt (Sequenza Temporale) e tutte le attività mapperanno le loro scadenze.</p>",
+  mTimelineTutorialSwitchViewTip: 'Suggerimento: ogni elenco di attività ha una propria visualizzazione ad albero, una visualizzazione <a href="https://quire.io/blog/p/board.html"> bacheca </a> e una visualizzazione sequenza temporale.',
+  mTimelineTutorialNestedListTitle: "Visualizza la Sequenza Temporale fianco a fianco con l' Albero delle attività",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>La tua schermata sarà divisa in due visualizzazioni: "
+    "sul lato sinistro c'è l'albero delle attività e sul lato destro c'è la vista Sequenza Temporale. "
+    "Puoi ridimensionare l'albero delle attività passando con il mouse sulla linea di separazione tra l'albero e la visualizzazione Sequenza Temporale.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Se l'attività è stata pianificata in precedenza (con una data di inizio o una data di scadenza), "
+    "ci sarà un punto alla fine dell'attività che indica che c'è un periodo di tempo associato a questa attività. "
+    "Fare clic sul punto per scorrere rapidamente alla barra dell'intervallo di tempo delle attività.</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Puoi riordinare l'elenco delle attività trascinando l'attività stessa o spostando la barra dell'intervallo temporale per riorganizzare l'ordine delle attività.</p>",
+  mTimelineTutorialNestedListTip: "Suggerimento: puoi fare clic sul menu a discesa accanto al nome del progetto e scegliere “Accedi a schermo intero” per visualizzare ulteriori dettagli nella Sequenza Temporale.",
+  mTimelineTutorialAddTaskTitle: "Aggiungi nuove attività alla vista Sequenza temporale",
+  mTimelineTutorialAddTaskContent: "<p>Apri l'albero delle attività e seleziona un'attività esistente, quindi premi “Invio” per creare una nuova attività allo stesso livello, o “Shift + Invio” per creare una sottoattività.</p>",
+  mTimelineTutorialAddTaskTip: "Suggerimento: è possibile scegliere di nascondere la visualizzazione ad Albero dopo aver creato una nuova attività per espandere la visualizzazione Sequanza temporale.",
+  mTimelineTutorialRescheduleTitle: "Ripianifica la Sequenza temporale",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>È ideale quando tutte le scadenze vengono rispettate, ma a volte la vita si intromette. "
+    "Ecco perché dovresti sempre riorganizzare la tua pianificazione per gestire meglio la larghezza di banda del progetto.</p>"
+    "<p>Se vuoi vedere la durata della tua attività, "
+    "puoi passare il mouse sulla barra del periodo e la pianificazione dell'attività verrà mostrata sotto la barra.</p>"
+    "<p>Basta passare il mouse sopra la data di inizio o di scadenza dell'attività ed estendere o ridurre la durata. "
+    "Puoi fare clic per spostare o trascinare la barra.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Hai fatto degli errori? Nessun problema, puoi sempre fare clic sul pulsante Annulla nell'angolo in alto e annullare la modifica.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Suggerimento: se non ti senti sicuro a trascinare e rilasciare la barra del periodo, "
+    "puoi modificare la data di inizio o di scadenza nella colonna della griglia o nel pannello dei dettagli dell'attività.",
+  mTimelineTutorialColorTitle: "Colora la Sequenza Temporale come vuoi",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>La Sequenza Temporale é principalmente per visualizzazione, quindi è importante far risaltare visivamente ogni attività. "
+    "Puoi scegliere di colorare le tue attività in base a priorità, etichetta, data o semplicemente lasciarle a nessuno.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Se un'attività principale ha una durata diversa come sottoattività, nella visualizzazione Sequenza Temporale, "
+    "la barra del periodo di tempo dell'attività principale sarà anche contrassegnata da una barra grigia sbarrata che copre anche la durata delle attività secondarie.</p>",
+  mTimelineTutorialColorTip: "Suggerimento: i significati dei colori possono essere trovati in questa guida dettagliata.",
+  mTimelineTutorialGridViewTitle: "Personalizza l'elenco delle attività con la visualizzazione Griglia",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Poiché la visualizzazione della Sequenza Temporale può mostrare solo dettagli molto limitati dell'elenco delle attività, "
+    "puoi clicckare il pulsante della Sequenza Temporale e attivare la visualizzazione Griglia.</p>"
+    "<p>Puoi scegliere i dettagli dell'attività che desideri mostrare nel tuo elenco, "
+    "le selezioni predefinite sono “Stato”, “Priorità”, “Assegnatario”, “Etichetta”, “Inizio” e “Scadenza”. "
+    "Dopo aver scelto quale opzione vuoi mostrare, puoi ridimensionare la colonna se necessario.</p>",
+  mTimelineTutorialNavigateTitle: "Naviga nella Sequenza Temporale",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Seleziona più attività utilizzando “Shift” e riprogrammale tutte in una volta.</li>"
+    "<li>Afferra l'intestazione del calendario e spostati a destra oa sinistra.</li>"
+    "<li>Fare clic sul pulsante “Oggi” nell'angolo in alto a destra per passare alla data odierna.</li>"
+    "<li>Cambia la visualizzazione della sequenza temporale in Visualizzazione Giorno, Settimana, Mese, Anno e scegli se mostrare o meno i fine settimana.</li>"
+    "<li>Usa Filtro per ordinare e raggruppare la tua sequenza temporale come preferisci. Puoi scegliere di visualizzare la tua sequenza temporale per stato dell'attività, assegnatari o priorità.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Ora hai imparato tutto sulla Squenza Temporale di Quire e sei pronto per raggiungere il prossimo traguardo del progetto! Scatenati e divertiti!</p>",
   mLearnMoreDoc: "Per saperne di più",
   mGettingStartedLinkTitle: "Funzionalità nella nostra Guida introduttiva",
   mBlogLinkTitle: "Notizie, suggerimenti e ispirazioni nel nostro blog",

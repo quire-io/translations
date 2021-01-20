@@ -1038,7 +1038,7 @@ const itClient = const <String, String> {
   mTreeViewTooltip: "Lista",
   mMyTaskViewTooltip: "Mie attività",
   mUserTaskViewTooltip: "Attività",
-  mTimeline: "Storia",
+  mTimeline: "Sequenza Temporale",
   mProfileEditTooltip: "Modifica",
   mStatsWeeklyCompletedLabel: "Completate",
   mStatsWeeklyCreatedLabel: "Modificate",
