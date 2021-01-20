@@ -315,8 +315,10 @@ const jaWeb = const <String, String> {
     "<p>使い方が分かったところで、さっそくプロジェクトを開始しましょう！</p>",
   mTutorialContextmenuTip: "ヒント：ショートカットキーの一覧を表示するには「F1」キーを押します。",
   mNextTutorial: "次のチュートリアルに進む",
-  mBoardTutorialLinkTitle: "Quireかんばんボードで作業の流れを可視化",
+  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
+  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
   mSublistTutorialLinkTitle: "自分だけのQuireサブリストで、重要なタスクに集中",
+  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
   mSignupToday: "今日からQuireで始めましょう！",
   mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
@@ -475,6 +477,71 @@ const jaWeb = const <String, String> {
     "チームのモチベーションを維持しましょう。生産性向上の鍵は、"
     "やるべきときにやるべきことを集中して行うことにあります。</p>"
     "<p>課題を1つずつ達成して、夢をかたちにしてください。</p>",
+  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialDesc:
+    "Having troubles spotting roadblocks with your project? With only one tap, "
+    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
+  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+  mTimelineTutorialSwitchViewContent:
+    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
+    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
+  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
+  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+  mTimelineTutorialNestedListContent:
+    "<p>Your main screen will be divided into two views: "
+    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
+    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>[=img1]</p>"
+    "<p>If your task has been scheduled before (either having a start date or a due date), "
+    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
+    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>[=img2]</p>"
+    "<p>[=tip]</p>"
+    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
+  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
+  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
+  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
+  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
+  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+  mTimelineTutorialRescheduleContent:
+    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
+    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
+    "<p>If you want to see the duration of your task, "
+    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
+    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
+    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>[=img]</p>"
+    "<p>[=tip]</p>"
+    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+  mTimelineTutorialRescheduleTip:
+    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
+    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
+  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+  mTimelineTutorialColorContent:
+    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
+    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>[=img]</p>"
+    "<p>[=tip]</p>"
+    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
+    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
+  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
+  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+  mTimelineTutorialGridViewContent:
+    "<p>Since the timeline view can only show very limited details of the task list, "
+    "you can tap on the timeline button and toggle on Grid View.</p>"
+    "<p>You can choose which task details you would like to  show on your list, "
+    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
+    "After choosing which option you want to show, you can resize the column if needed.</p>",
+  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+  mTimelineTutorialNavigateContent:
+    "<ul>"
+    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
+    "<li>Grab on the calendar header and move right or left.</li>"
+    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
+    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
+    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "</ul>"
+    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
   mLearnMoreDoc: "もっと詳しく",
   mGettingStartedLinkTitle: "初めてガイドで機能を確認",
   mBlogLinkTitle: "Quireブログでお知らせや使いこなしのヒントをチェック",
