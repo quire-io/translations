@@ -34,7 +34,7 @@ const jaWeb = const <String, String> {
   mHomeSectionSublistDesc:
     "選んだタスクだけをサブリストで表示して、作業をもっと楽にしましょう。"
     "チームメンバー一人ひとりが、自分の仕事を管理できます。",
-  mHomeSectionVisuallyTitle: "効率化へ、ワークフローを可視化",
+  mHomeSectionVisuallyTitle: "効率化へ、<br> ワークフローを可視化",
   mHomeSectionVisuallyDesc:
     "かんばんボードでプロジェクトを整理し、優先度順に並べ替え、流れを一目瞭然に。"
     "チームのリソースを適正に割り当て、効率と透明性を最大限に高めます。",
