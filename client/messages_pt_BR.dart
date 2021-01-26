@@ -495,6 +495,7 @@ const ptBrClient = const <String, String> {
     'As tarefas selecionadas estão atribuídas a uma equipe externa, '
     'ao adicionar este responsável, você removerá a equipe externa dessas tarefas.',
   mAssigneeMemberListTitle: "membros [=team]",
+  mRemoveFromParentTasks: "Remove from parent tasks",
   mInviteMembers: "Convidar usuários",
   mInvite: "Convidar",
   mREInvite: "Voltar a convidar",
@@ -1036,7 +1037,7 @@ const ptBrClient = const <String, String> {
   mTipCheckTutorial:
     "Não sabe ao certo como começar? "
     'Confira nosso <a href="/tutorial" target="_blank">Tutorial</a>!',
-  mTipReopenArchive: 'Tarefas Peekaboo serão novamente apresentadas automaticamente depois de [=n] dias.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
   mTipFilterForArchived: 'Você pode clicar em Tarefas Peekaboo para ver as tarefas que acabou de ocultar.',
   mProfileViewTooltip: "Visão Geral",
   mTreeViewTooltip: "Lista",

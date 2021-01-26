@@ -484,6 +484,7 @@ const trClient = const <String, String> {
     'Seçilen görevler dış bir ekibe atanmış, '
     'bu kişiyi ekleyerek, dış ekibi bu görevlerden kaldıracaksınız.',
   mAssigneeMemberListTitle: "[=team] üyeleri",
+  mRemoveFromParentTasks: "Remove from parent tasks",
   mInviteMembers: "Üyeleri davet et",
   mInvite: "Davet et",
   mREInvite: "Tekrar davet et",
@@ -1025,7 +1026,7 @@ const trClient = const <String, String> {
   mTipCheckTutorial:
     "Nasıl başlayacağınızdan emin değil misiniz? "
     '<a href="/tutorial" target="_blank">Kullanım Kılavuzu</a>\'na göz atın!',
-  mTipReopenArchive: 'Mahzendeki görevler [=n] gün sonra otomatik olarak tekrar gösterilecek.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
   mTipFilterForArchived: 'Mahzendeki görevleri görmek için Mahzendeki Görevler\'e tıklayabilirsiniz..',
   mProfileViewTooltip: "Genel Bakış",
   mTreeViewTooltip: "Liste",

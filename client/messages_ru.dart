@@ -490,6 +490,7 @@ const ruClient = const <String, String> {
     'Выбранные задачи были переданы внешней команде, '
     'добавив этого исполнителя, вы удалите внешнюю команду из этих задач.',
   mAssigneeMemberListTitle: "[=team] участник.",
+  mRemoveFromParentTasks: "Remove from parent tasks",
   mInviteMembers: "Пригласить участников",
   mInvite: "Пригласить",
   mREInvite: "Пригласить ещё раз",
@@ -1031,7 +1032,7 @@ const ruClient = const <String, String> {
   mTipCheckTutorial:
     "Не уверены как начать? "
     'Смотрите наше <a href="/tutorial" target="_blank">Руководство</a>!',
-  mTipReopenArchive: 'Скрытые задачи снова появятся автоматически через [=n] дн.',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
   mTipFilterForArchived: 'Вы можете нажать на Скрытые задачи, чтобы посмотреть, какие задачи вы спрятали',
   mProfileViewTooltip: "Обзор",
   mTreeViewTooltip: "Список",

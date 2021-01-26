@@ -490,6 +490,7 @@ const jaClient = const <String, String> {
     '選択したタスクは外部チームが担当しています。'
     'この担当者を追加すると、これらのタスクから外部チームが消去されます。',
   mAssigneeMemberListTitle: "[=team]のメンバー",
+  mRemoveFromParentTasks: "Remove from parent tasks",
   mInviteMembers: "メンバーを招待",
   mInvite: "招待",
   mREInvite: "再度招待",
@@ -1032,7 +1033,7 @@ const jaClient = const <String, String> {
   mTipCheckTutorial:
     "始め方が分からないときは、"
     'まず<a href="/tutorial" target="_blank">チュートリアル</a>をチェック！',
-  mTipReopenArchive: '「あとで表示」のタスクは、[=n]日後に自動的に再表示されます。',
+  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
   mTipFilterForArchived: '「あとで表示」のタスクを確認するには、「あとで表示のタスク」をクリックします。',
   mProfileViewTooltip: "概況",
   mTreeViewTooltip: "一覧",
