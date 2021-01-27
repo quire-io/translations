@@ -65,7 +65,7 @@ const itWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Migra da Trello",
   mFeaturesMigrationWunderlistButton: "Migra da Wunderlist",
   mFeaturesCompareWrikeButton: "Confronta con Wrike",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
+  mFeaturesMigrationTodoistButton: "Migra da Todoist",
   mFeaturesMigrationOthersButton: "Migra da Altro",
   mFeatureHierarchyTitle: "Lista attività innestata",
   mFeatureHierarchyDesc: "Affronta grandi progetti suddividendoli in piccoli, e gestibili passi.",
@@ -480,8 +480,8 @@ const itWeb = const <String, String> {
   mTimelineTutorialTitle: "Quire Tutorial - Sequenza Temporale",
   mTimelineTutorialDesc:
     "Hai problemi a individuare le attività bloccanti del tuo progetto? Con un solo tocco, "
-    "cambia il tuo elenco di attività in una visualizzazione Pianificazione Temporele e inizia a visualizzare il tuo progetto con una vista temporale di facile comprensione.",
-  mTimelineTutorialSwitchViewTitle: "Passa alla vista Pianidifcazione Temporale dalla vista ad Albero",
+    "cambia il tuo elenco di attività in una visualizzazione Sequenza Temporale e inizia a visualizzare il tuo progetto con una vista temporale di facile comprensione.",
+  mTimelineTutorialSwitchViewTitle: "Passa alla vista Sequenza Temporale dalla vista ad Albero",
   mTimelineTutorialSwitchViewContent:
     "<p>Nell'angolo in alto a destra, vedrai tre pulsanti associati a diverse visualizzazioni del tuo progetto e delle tue sottoliste. "
     "Fare clic sul pulsante Sequenza Temporale per trasformare il progetto in un Diagramma di Gantt (Sequenza Temporale) e tutte le attività mapperanno le loro scadenze.</p>",

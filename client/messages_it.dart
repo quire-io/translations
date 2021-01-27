@@ -490,7 +490,7 @@ const itClient = const <String, String> {
     'Le attività selezionate sono assegnate ad una squadra esterna, '
     'aggiungento questo assegnatario, rimuoverai la squadra esterna da queste attività.',
   mAssigneeMemberListTitle: "[=team] membri",
-  mRemoveFromParentTasks: "Remove from parent tasks",
+  mRemoveFromParentTasks: "Rimuovi dall'attività padre",
   mInviteMembers: "Invita membri",
   mInvite: "Invita",
   mREInvite: "Reinvita",
@@ -1033,7 +1033,7 @@ const itClient = const <String, String> {
   mTipCheckTutorial:
     "Non sei sicuro di come iniziare? "
     'Dai un\' occhiata al nostro <a href="/tutorial" target="_blank">Tutorial</a>!',
-  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
+  mTipReopenArchive: 'Attività Peekaboo verranno mostrate automaticamente alla data selezionata.',
   mTipFilterForArchived: 'Puoi cliccare Attività Peekaboo per vedere le attività che hai appena messo a peekaboo.',
   mProfileViewTooltip: "Panoramica",
   mTreeViewTooltip: "Lista",
