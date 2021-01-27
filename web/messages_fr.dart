@@ -65,7 +65,7 @@ const frWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Migrer depuis Trello",
   mFeaturesMigrationWunderlistButton: "Migrer depuis Wunderlist",
   mFeaturesCompareWrikeButton: "Comparer avec Wrike",
-  mFeaturesCompareTodoistButton: "Comparer avec Todoist",
+  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
   mFeaturesMigrationOthersButton: "Migrer depuis d'autres plateformes",
   mFeatureHierarchyTitle: "Liste de tâches imbriquées",
   mFeatureHierarchyDesc: "Abordez les grands projets en les décomposant en petites étapes, plus gérables.",
