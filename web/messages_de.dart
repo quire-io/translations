@@ -311,10 +311,10 @@ const deWeb = const <String, String> {
     "<p>Jetzt, da Sie sich auskennen, können Sie loslegen mit Ihrem Projekt!</p>",
   mTutorialContextmenuTip: "Tipp: Sie können F1 drücken, um eine vollständige Liste der Tastaturkürzel anzuzeigen.",
   mNextTutorial: "Nächstes Tutorial",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "Teilen Sie große Projekte in kleine Aufgabenpakete auf - mit Quire Nested Tree",
+  mBoardTutorialLinkTitle: "Optimieren Sie Ihren Workflow mit dem Quire Kanban Board",
   mSublistTutorialLinkTitle: "Fokussieren Sie sich mit einer Unterliste auf die richtigen Aufgaben",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Erstellen Sie einen Projektplan mit Quire Timeline",
   mSignupToday: "Los geht's!",
   mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
   mBoardTutorialDesc:
@@ -471,30 +471,29 @@ const deWeb = const <String, String> {
     "<p>Also packen wir's an!</p>",
   mTimelineTutorialTitle: "Quire Tutorial - Timeline",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "Potenzielle Hindernisse können Sie besser in der Timeline-Ansicht erkennen. "
+    "Schalten Sie Ihre Aufgabenliste dazu schnell und einfach um.",
+  mTimelineTutorialSwitchViewTitle: "Von der Baumansicht in die Timeline-Ansicht wechseln",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>In der oberen rechten Ecke sehen Sie drei Schaltflächen, die unterschiedlichen Ansichten Ihres Projekts und Unterlisten zugeordnet sind. "
+    "Klicken Sie auf die Schaltfläche Timeline, um Ihr Projekt in eine Gantt-Diagrammansicht (Timeline) zu verwandeln.</p>",
+  mTimelineTutorialSwitchViewTip: 'Tipp: Jede Aufgabenliste verfügt über eine eigene Baumansicht, <a href="https://quire.io/blog/p/board.html">Board-Ansicht</a> und Timeline-Ansicht.',
+  mTimelineTutorialNestedListTitle: "Timeline und Nested Task List nebeneinander anzeigen",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>Ihr Hauptbildschirm wird in zwei Ansichten unterteilt: "
+    "Auf der linken Seite befindet sich die verschachtelte Aufgabenliste, die Sie im Kontext hält, und auf der rechten Seite die Zeitleistenansicht. "
+    "Sie können die Größe der Aufgabenliste ändern, indem Sie den Mauszeiger über die Trennlinie zwischen der Liste und der Timeline bewegen.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Wenn Ihre Aufgabe bereits geplant wurde (entweder mit einem Startdatum oder einem Enddatum), "
+    "wird am Ende der Aufgabe ein Punkt angezeigt, der angibt, dass dieser Aufgabe ein Zeitrahmen zugeordnet ist. </p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Sie können die Aufgabenliste neu anordnen, indem Sie die Aufgabe selbst ziehen oder die Zeitspannenleiste verschieben.</p>",
+  mTimelineTutorialNestedListTip: 'Tipp: Sie können auf das Dropdown-Menü neben dem Projektnamen klicken und "Vollbildmodus" auswählen, um weitere Details in der Timeline anzuzeigen.',
+  mTimelineTutorialAddTaskTitle: "Neue Aufgaben in der Timeline-Ansicht hinzufügen",
+  mTimelineTutorialAddTaskContent: "<p>Öffnen Sie die Liste der verschachtelten Aufgaben und wählen Sie eine vorhandene Aufgabe aus. Drücken Sie dann die Eingabetaste, um eine neue Aufgabe auf derselben Ebene zu erstellen, oder die Umschalttaste + Eingabetaste, um eine Unteraufgabe zu erstellen.</p>",
+  mTimelineTutorialAddTaskTip: "Tipp: Sie können die verschachtelte Listenansicht ausblenden, nachdem Sie eine neue Aufgabe erstellt haben, um die Timeline-Ansicht zu erweitern.",
+  mTimelineTutorialRescheduleTitle: "Die Timeline neu planen",
   mTimelineTutorialRescheduleContent:
     "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
     "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"

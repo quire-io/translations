@@ -484,7 +484,7 @@ const deClient = const <String, String> {
     'Die ausgewählten Aufgaben sind einem externen Team zugewiesen, '
     'durch Hinzufügen dieses Beauftragten, wird das externe Team von diesen Aufgaben entbunden.',
   mAssigneeMemberListTitle: "[=team] Mitglieder",
-  mRemoveFromParentTasks: "Remove from parent tasks",
+  mRemoveFromParentTasks: "Aus übergeordneten Aufgaben entfernen",
   mInviteMembers: "Mitglieder einladen",
   mInvite: "Einladen",
   mREInvite: "Erneut einladen",
@@ -1029,7 +1029,7 @@ const deClient = const <String, String> {
   mTipCheckTutorial:
     "Sie sind nicht sicher, wie Sie anfangen sollen? "
     'Schauen Sie sich unser <a href="/tutorial" target="_blank">Tutorial</a> an!',
-  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
+  mTipReopenArchive: 'Peekaboo-Aufgaben werden am ausgewählten Datum automatisch wieder angezeigt.',
   mTipFilterForArchived: 'Sie können Peekaboo-Aufgaben anklicken, um die Aufgaben anzuzeigen, die Sie gerade einsehen.',
   mProfileViewTooltip: "Übersicht",
   mTreeViewTooltip: "Liste",
