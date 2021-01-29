@@ -326,44 +326,44 @@ const ptBrWeb = const <String, String> {
     "é hora de trabalhar no seu projeto!<br>"
     'Fique <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">focado</a> '
     "nas tarefas selecionadas e visualize seu fluxo de trabalho com o quadro Kanban.",
-  mBoardTutorialAddBoardTitle: "Nomeie Seu Quadro",
-  mBoardTutorialAddBoardContent:
-    "<p>Depois de listar suas centenas de tarefas para o evento Corrida Infantil para Caridade, "
-    "agora você gostaria de se concentrar em algumas tarefas cruciais no estágio inicial. Basta criar um quadro.</p>"
-    '<p>Para adicionar um quadro, clique no botão "+", escolha Adicionar quadro e digite o nome do Quadro.</p>',
-  mBoardTutorialAddBoardTip: "Dica: Você pode criar vários quadros para diferentes estágios do seu projeto.",
-  mBoardTutorialAssignBoardTitle: "Comece a Adicionar Tarefas ao Quadro",
-  mBoardTutorialAssignBoardContent:
-    "<p>Comece adicionando tarefas existentes da lista de tarefas que você deseja focar para este estágio.</p>"
-    '<p>Clique no sinal "+" no canto superior direito de uma coluna, escolha "Adicionar tarefas existentes".</p>'
+  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+  mBoardTutorialSwitchBoardViewContent:
+    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
     "<p>[=img]</p>"
-    "<p>Obviamente, se você não encontrou o que deseja adicionar nas tarefas existentes, "
-    "você pode criar novas tarefas na visualização do quadro.</p>"
-    '<p>Escolha "Criar novas tarefas".</p>',
-  mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Nota: As tarefas recém-criadas no modo de exibição Quadro serão adicionadas '
-    "também no modo de exibição lista de Tarefas.</span></p>"
-    '<p><span class="note">Dica: Pressionar Ctrl (ou Alt no Mac) mostrará a trilha de navegação, '
-    "por isso você saberá qual subtarefa pertence a qual tarefa principal.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Não Esqueça os Detalhes",
-  mBoardTutorialAssignOthersContent:
-    "<p>Você pode adicionar informações mais detalhadas definindo datas de início/conclusão, responsáveis e tags.</p>"
-    '<p>Clique nos ícones "data", "responsável", "tag" para definir informações adicionais.</p>',
-  mBoardTutorialAssignOthersTip:
-    "Dica: Pressionando a barra de espaço, o "
-    '<a href="/guide/user-interface#detail-panel">painel de detalhes</a> aparecerá '
-    "para você adicionar descrições, anexar arquivos, deixar comentários, etc.",
-  mBoardTutorialOrganizeProgressTitle: "Acompanhe e Organize o Progresso",
-  mBoardTutorialOrganizeProgressContent:
-    "<p>Você pode reposicionar tarefas na coluna para obter maior prioridade. Além disso, "
-    "você pode arrastar e soltar tarefas em diferentes colunas para acompanhar o progresso.</p>"
-    "<p>Agora, você poderá ver rapidamente o status dinâmico do seu projeto.</p>"
+    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
+  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
+  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
+  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+  mBoardTutorialCreateTaskContent:
+    "<p>There are two ways to create a task in Board view:</p>"
+    '<ul class="list-unstyled"><li>'
+    "<ol>"
+    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<p>[=video]</p>"
+    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "</ol>"
+    "</li></ul>",
+  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
+  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialTrackProgressContent:
+    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
+    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
+  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
+  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+  mBoardTutorialAddMoreDetailContent:
+    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
+    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
+  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
+  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+  mBoardTutorialSwimlaneContent:
+    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
+    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
+  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+  mBoardTutorialShuffleColumnContent:
+    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
+    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
     "<p>[=img]</p>"
-    "<p>Sentindo que todas as tarefas estão agrupadas em uma coluna e "
-    "está ficando mais difícil controlar o volume de trabalho "
-    "e o status de cada membro da equipe?</p>"
-    "<p>Você pode usar o recurso de filtro/classificação para agrupar suas tarefas pelos atributos preferenciais. "
-    "Por exemplo: agrupados por responsáveis para ver as tarefas de cada membro responsável.</p>",
+    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
   mBoardTutorialShortcutTitle: "Atalhos Úteis",
   mBoardTutorialShortcutContent:
     "<h3>Adicionar & Editar</h3>"
@@ -417,7 +417,6 @@ const ptBrWeb = const <String, String> {
     "</ul>",
   mBoardTutorialContextmenuTitle: "Menu de Contexto do Botão Direito",
   mBoardTutorialContextmenuContent: "Você pode clicar com o botão direito do mouse em uma tarefa, para abrir o menu de contexto para definir a data limite, o responsável, tag, e mais.",
-  mBoardTutorialContextmenuTip: "Dica: Você pode alternar entre a exibição do Quadro e a exibição da lista de Tarefas para obter uma visão geral de todo o projeto.",
   mBoardTutorialYourBoardTitle: "Crie Seu Próprio Quadro Agora!",
   mBoardTutorialYourBoardContent: "É tudo o que temos a falar sobre o quadro Kanban por enquanto. Vá em frente e divirta-se!",
   mSublistTutorialTitle: "Tutorial Quire - Sublista",
@@ -427,27 +426,29 @@ const ptBrWeb = const <String, String> {
     'para que você possa se concentrar nas tarefas certas, no momento certo, sem nenhuma distração.',
   mSublistTutorialAddSublistTitle: "Nomeie Sua Sublista",
   mSublistTutorialAddSublistContent:
-    "<p>Cansad@ de olhar para uma lista sem fim à vista? Existem muitas tarefas "
-    "que não são relevantes para você, mas você não pode fazer Peekaboo para escondê-las "
-    "porque outros membros ainda estão trabalhando nessas tarefas. A sublista está aqui para resgatar você!</p>"
-    '<p>Para adicionar uma sublista, clique no botão "+" e escolha "Adicionar sublista".</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "Dica: Você pode criar quantas sublistas quiser para um projeto.",
   mSublistTutorialPickTaskTitle: "Selecione as Tarefas Certas e Adicione à Sublista",
   mSublistTutorialPickTaskContent:
-    '<p>Digamos que você esteja trabalhando em um projeto "Corrida Infantil para Caridade" '
-    'que envolve centenas de tarefas. Há pelo menos 10 pessoas que colaboram juntas. '
-    'Você não pode continuar criando tags diferentes para organizar as tarefas pelas quais é responsável. '
-    'Você não pode fazer Peekaboo para esconder as tarefas irrelevantes porque outros membros da equipe ainda precisam visualizá-las.</p>'
-    '<p>Respire fundo e crie sua primeira sublista para resolver seu problema. Basta selecionar as tarefas importantes '
-    'que você deseja visualizar juntas e passar para uma lista separada. Agora você tem sua própria lista de tarefas para se concentrar, '
-    'sem se distrair com tudo o resto.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Quando você seleciona a tarefa raiz e a adiciona à sublista, suas subtarefas serão automaticamente "
-    "adicionadas à lista.</p>"
-    "<p>No entanto, você pode optar por selecionar as subtarefas separadamente da tarefa raiz "
-    "e adicionar à sublista recém-criada.</p>"
-    "<p>Para diferenciar a sublista recém-criada com a lista principal, você pode adicionar alguns ícones divertidos "
-    "e alterar a cor do ícone para sua sublista.</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Compartilhe a Sublista com as Pessoas Certas",
   mSublistTutorialShareContent:
     "<p>Depois de escolher as tarefas e adicionar a uma sublista, você também pode "
