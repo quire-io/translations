@@ -322,44 +322,44 @@ const deWeb = const <String, String> {
     "ist es Zeit, an Ihrem Projekt zu arbeiten!<br>"
     '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Konzentrieren Sie sich</a> '
     "auf ausgewählte Aufgaben und visualisieren Sie Ihren Workflow mit dem Kanban-Board.",
-  mBoardTutorialAddBoardTitle: "Benennen Sie Ihr Board",
-  mBoardTutorialAddBoardContent:
-    "<p>Nachdem Sie alle Aufgaben für den Kinderlauf aufgelistet haben, "
-    "möchten Sie sich jetzt in der Anfangsphase auf einige wichtige Aufgaben konzentrieren. Erstellen Sie dazu einfach ein Board.</p>"
-    '<p>Um ein Board hinzuzufügen, klicken Sie den "+" Button. Hier können Sie ein neues Board anlegen und dieses benennen.</p>',
-  mBoardTutorialAddBoardTip: "Tipp: Sie können mehrere Boards für verschiedene Phasen Ihres Projekts erstellen.",
-  mBoardTutorialAssignBoardTitle: "Beginnen Sie mit dem Hinzufügen von Aufgaben zum Board",
-  mBoardTutorialAssignBoardContent:
-    "<p>Fügen Sie zunächst vorhandene Aufgaben aus der Aufgabenliste hinzu, auf die Sie sich in dieser Phase konzentrieren möchten.</p>"
-    '<p>Klicken Sie auf das "+" Zeichen in der oberen rechten Ecke einer Spalte und wählen Sie "Vorhandene Aufgaben hinzufügen".</p>'
+  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+  mBoardTutorialSwitchBoardViewContent:
+    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
     "<p>[=img]</p>"
-    "<p>Wenn Sie in den vorhandenen Aufgaben nichts gefunden haben, was Sie hinzufügen möchten, "
-    "können Sie neue Aufgaben in der Board-Ansicht erstellen.</p>"
-    '<p>Wählen Sie dafür "Neue Aufgaben erstellen".</p>',
-  mBoardTutorialAssignBoardTip:
-    '<p><span class="note">Hinweis: Die neu erstellten Aufgaben in der Board-Ansicht '
-    "werden auch in der Aufgabenlistenansicht hinzugefügt.</span></p>"
-    '<p><span class="note">Tipp: Durch Drücken von Strg (oder Alt auf dem Mac) werden der Aufgabenpfad angezeigt. '
-    "Dadurch wissen Sie, welche Unteraufgabe zu welcher übergeordneten Aufgabe gehört.</span></p>",
-  mBoardTutorialAssignOthersTitle: "Vergessen Sie die Details nicht",
-  mBoardTutorialAssignOthersContent:
-    "<p>Sie können detailliertere Informationen hinzufügen, indem Sie Start-/Fälligkeitstermine, Verantwortliche und Tags festlegen.</p>"
-    '<p>Klicken Sie auf die Symbole "Datum", "Beauftragter", "Tag", um zusätzliche Informationen festzulegen.</p>',
-  mBoardTutorialAssignOthersTip:
-    "Tipp: Durch Drücken der Leertaste wird das "
-    '<a href="/guide/user-interface#detail-panel">Detailfenster</a> angezeigt '
-    "in dem Sie Beschreibungen hinzufügen, Dateien anhängen und Kommentare hinterlassen können.",
-  mBoardTutorialOrganizeProgressTitle: "Verfolgen und organisieren Sie den Fortschritt",
-  mBoardTutorialOrganizeProgressContent:
-    "<p>Sie können Aufgaben in der Spalte für eine höhere Priorität neu positionieren. "
-    "Außerdem können Sie Aufgaben zur Fortschrittsverfolgung in verschiedene Spalten ziehen und dort ablegen.</p>"
-    "<p>Jetzt können Sie den Status Ihres Projekts auf einen Blick sehen.</p>"
+    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
+  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
+  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
+  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+  mBoardTutorialCreateTaskContent:
+    "<p>There are two ways to create a task in Board view:</p>"
+    '<ul class="list-unstyled"><li>'
+    "<ol>"
+    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<p>[=video]</p>"
+    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "</ol>"
+    "</li></ul>",
+  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
+  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialTrackProgressContent:
+    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
+    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
+  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
+  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+  mBoardTutorialAddMoreDetailContent:
+    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
+    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
+  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
+  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+  mBoardTutorialSwimlaneContent:
+    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
+    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
+  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+  mBoardTutorialShuffleColumnContent:
+    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
+    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
     "<p>[=img]</p>"
-    "<p>Sie haben das Gefühl, dass alle Aufgaben in einer Spalte "
-    "zusammengefasst sind und es immer schwieriger wird, "
-    "die Auslastung und den Status jedes einzelnen Teammitglieds zu erfassen?</p>"
-    "<p>Sie können die Filter- und Sortierfunktion verwenden, um Ihre Aufgaben nach bestimmten Attributen zu gruppieren. "
-    "Beispiel: Gruppieren Sie nach Beauftragten, um die Aufgaben der entsprechenden Teammitglieder anzuzeigen.</p>",
+    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
   mBoardTutorialShortcutTitle: "Nützliche Tastaturkürzel",
   mBoardTutorialShortcutContent:
     "<h3>Hinzufügen & Bearbeiten</h3>"
@@ -410,7 +410,6 @@ const deWeb = const <String, String> {
     "</ul>",
   mBoardTutorialContextmenuTitle: "Rechtsklick Kontextmenü",
   mBoardTutorialContextmenuContent: "Sie können mit der rechten Maustaste auf eine Aufgabe klicken, um das Kontextmenü aufzurufen, um dort Fälligkeitsdatum, Beauftragter, Tags etc. hinzuzufügen.",
-  mBoardTutorialContextmenuTip: "Tipp: Sie können von der Board-Ansicht zur Aufgabenlistenansicht wechseln, um sich einen Überblick über Ihr gesamtes Projekt zu verschaffen.",
   mBoardTutorialYourBoardTitle: "Erstelle Sie jetzt Ihr eigenes Board!",
   mBoardTutorialYourBoardContent: "Das ist vorerst alles, was es über Kanban-Boards zu wissen gibt. Probieren Sie es aus!",
   mSublistTutorialTitle: "Quire Tutorial - Unterliste",
