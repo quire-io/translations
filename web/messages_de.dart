@@ -61,7 +61,7 @@ const deWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Wechseln von Trello",
   mFeaturesMigrationWunderlistButton: "Wechseln von Wunderlist",
   mFeaturesCompareWrikeButton: "Mit Wrike vergleichen",
-  mFeaturesMigrationTodoistButton: "Mit Todoist vergleichen",
+  mFeaturesMigrationTodoistButton: "Wechseln von Todoist",
   mFeaturesMigrationOthersButton: "Wechseln von Anderen",
   mFeatureHierarchyTitle: "Verschachtelte Aufgabenliste",
   mFeatureHierarchyDesc: "Zerlegen Sie große Projekte in überschaubare Schritte und Unteraufgaben.",
@@ -495,44 +495,44 @@ const deWeb = const <String, String> {
   mTimelineTutorialAddTaskTip: "Tipp: Sie können die verschachtelte Listenansicht ausblenden, nachdem Sie eine neue Aufgabe erstellt haben, um die Timeline-Ansicht zu erweitern.",
   mTimelineTutorialRescheduleTitle: "Die Timeline neu planen",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>Es ist ideal, wenn alle Fristen eingehalten werden, aber in der Realität klappt das nicht immer. "
+    "Deshalb ist es in Quire möglich eine Timeline neu zu planen und enthaltene Aufgaben neu zu ordnen.</p>"
+    "<p>Wenn Sie die Dauer Ihrer Aufgabe anzeigen möchten, "
+    "können Sie den Mauszeiger über die entsprechende Zeitspanne bewegen. Der zeitliche Ablauf der Aufgabe wird dann angezeigt.</p>"
+    "<p>Bewegen Sie den Mauszeiger einfach über das Start- oder Enddatum der Aufgabe und verlängern oder verkürzen Sie die Dauer. "
+    "Mit einem Klick auf die Zeitleiste können Sie dieser verschieben.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Fehler gemacht? Keine Sorge, Sie können jederzeit auf die Schaltfläche Rückgängig in der oberen Ecke klicken und Ihren letzte Aktion rückgängig machen.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Tipp: Statt die Drag&Drop-Funktion der Timeline zu nutzen, "
+    "können Sie das Start- oder Enddatum in der Rasterspalte oder in der Detailansicht der Aufgabe ändern.",
+  mTimelineTutorialColorTitle: "Gestalten Sie die Timeline nach Ihren Vorstellungen",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>Die Timeline dient hauptsächlich der Visualisierung. Daher ist es wichtig, dass jede Aufgabe visuell hervorgehoben wird. "
+    "Sie können Ihre Aufgaben nach Priorität, Tag, Datum färben.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Wenn eine übergeordnete Aufgabe eine andere Dauer als ihre Unteraufgaben hat, "
+    "wird in der Timeline-Ansicht die Zeitspanne der übergeordneten Aufgabe grau hinterlegt.</p>",
+  mTimelineTutorialColorTip: "Tipp: Die Bedeutung der Farben finden Sie in dieser ausführlichen Anleitung.",
+  mTimelineTutorialGridViewTitle: "Die Aufgabenliste mit der Rasteransicht anpassen",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Da in der Timeline-Ansicht nur eine begrenzte Auswahl an Details der Aufgabenliste angezeigt werden kann, "
+    "können Sie per Klick auf den Timeline-Button in die Rasteransicht wechseln.</p>"
+    "<p>Sie können auswählen, welche Details Sie in Ihrer Liste anzeigen möchten. "
+    "Standardmäßig sind “Status”, “Priorität”, “Verantwortlicher”, “Tags”, “Start”, und “Ende” ausgewählt. "
+    "Nachdem Sie ausgewählt haben, welche Option Sie anzeigen möchten, können Sie die Größe der Spalte bei Bedarf ändern.</p>",
+  mTimelineTutorialNavigateTitle: "Arbeiten mit der Timeline",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Wählen Sie mehrere Aufgaben mit “Shift” aus und bearbeiten Sie alle gleichzeitig.</li>"
+    "<li>Halten und ziehen Sie den Kalenderkopf nach rechts oder links.</li>"
+    "<li>Klicken Sie oben rechts auf den Button “Heute”, um zum heutigen Tag zu springen.</li>"
+    "<li>Wechseln Sie zwischen Tages-, Wochen-, Monats- und Jahresansicht, und wählen Sie aus, ob Wochenenden angezeigt werden sollen oder nicht.</li>"
+    "<li>Nutzen Sie Filter, um Ihre Timeline in der gewünschten Reihenfolge zu sortieren und zu gruppieren. Sie können Ihre Timeline nach Aufgabenstatus, Verantwortlichen oder Priorität anzeigen lassen.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Jetzt haben Sie alles über die Quire Timeline gelernt und sind bereit, Ihren nächsten Projektmeilenstein zu erreichen! Viel Spaß und Erfolg!</p>",
   mLearnMoreDoc: "Mehr erfahren",
   mGettingStartedLinkTitle: "Features in unserem Getting Started Guide",
   mBlogLinkTitle: "News, Tipps und Inspiration in unserem Blog",
