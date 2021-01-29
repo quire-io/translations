@@ -419,27 +419,29 @@ const deWeb = const <String, String> {
     'damit Sie sich ohne Ablenkung zur richtigen Zeit auf die richtigen Aufgaben konzentrieren können.',
   mSublistTutorialAddSublistTitle: "Benennen Sie Ihre Unterliste",
   mSublistTutorialAddSublistContent:
-    "<p>Sind Sie es leid, auf die Liste zu schauen, ohne dass ein Ende in Sicht ist? Es gibt zu viele Aufgaben, "
-    "die für Sie nicht relevant sind, aber Sie können sie nicht einfach archivieren, "
-    "da andere Mitglieder noch an diesen Aufgaben arbeiten. Hier kommt die Unterliste ins Spiel!</p>"
-    '<p>Um eine Unterliste hinzuzufügen, klicken Sie auf den "+" Button und wählen Sie "Unterliste hinzufügen".</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "Tipp: Sie können für ein Projekt beliebig viele Unterlisten erstellen.",
   mSublistTutorialPickTaskTitle: "Aufgaben auswählen und zu einer Unterliste hinzufügen",
   mSublistTutorialPickTaskContent:
-    '<p>Angenommen, Sie arbeiten an einem Projekt "Kinderlauf für wohltätige Zwecke", '
-    'das hunderte von Aufgaben umfasst. Mindestens 10 Personen arbeiten dafür zusammen. '
-    'Sie können nicht ständig verschiedene Tags erstellen, um die Aufgaben zu organisieren, für die Sie verantwortlich sind. '
-    'Sie können nicht mit Peekaboo die irrelevanten Aufgaben verstauen, da andere Teammitglieder diese noch sehen müssen.</p>'
-    '<p>Atmen Sie tief ein und erstellen Sie Ihre erste Unterliste, um Ihr Problem zu lösen. Wählen Sie einfach die wichtigen Aufgaben aus, '
-    'die Sie gemeinsam sehen möchten und verschieben Sie diese in eine separate Liste. Jetzt haben Sie Ihre eigene Aufgabenliste, auf die Sie sich konzentrieren können, '
-    'ohne sich von allem anderen ablenken zu lassen.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Wenn Sie die Stammaufgabe auswählen und zur Unterliste hinzufügen, "
-    "werden deren Unteraufgaben automatisch zur Liste hinzugefügt.</p>"
-    "<p>Sie können die Unteraufgaben auch getrennt von der Stammaufgabe auswählen "
-    "und zur neu erstellten Unterliste hinzufügen.</p>"
-    "<p>Um die neu erstellte Unterliste von der Hauptliste zu unterscheiden, "
-    "können Sie diese mit Icons versehen und farblich anpassen.</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Die Unterliste mit den richtigen Leuten teilen",
   mSublistTutorialShareContent:
     "<p>Nachdem Sie die Aufgaben ausgewählt und zu einer Unterliste hinzugefügt haben, "

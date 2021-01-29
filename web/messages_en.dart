@@ -532,9 +532,9 @@ const enWeb = const <String, String> {
   mSublistTutorialAddSublistTitle: "Name Your Sublist",
   mSublistTutorialAddSublistContent: 
     "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    "that are not relevant to you but you cannot Peekaboo to tuck them away "
-    "because other members are still working on those tasks. A sublist is here to the rescue!</p>"
-    '<p>To add a sublist, click on the "+" button and choose "Add sublist".</p>',
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: 
     "Tip: You can create as many sublists as you want for a project.",
 
@@ -548,6 +548,8 @@ const enWeb = const <String, String> {
     'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
     'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
     "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
     "added to the list.</p>"
     "<p>However, you can choose to select the subtasks separately from the root task "

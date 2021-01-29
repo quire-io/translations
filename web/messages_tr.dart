@@ -426,27 +426,29 @@ const trWeb = const <String, String> {
     'böylece dikkatiniz dağılmadan doğru görevlere doğru zamanda odaklanabilirsiniz.',
   mSublistTutorialAddSublistTitle: "Alt Listenize Bir İsim Verin",
   mSublistTutorialAddSublistContent:
-    "<p>Görünürde sonu olmayan listeye bakmaktan bıktınız mı? Sizinle alakalı olmayan çok fazla görev var, "
-    "ancak Mahzen ile görevleri öteleyemezsiniz "
-    "çünkü diğer üyeler hala bu görevler üzerinde çalışıyor. Alt liste burada kurtarıcınız!</p>"
-    '<p>Bir alt liste eklemek için "+" düğmesini tıklayın ve "Alt liste ekle"yi seçin.</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "İpucu: Bir proje için istediğiniz kadar alt liste oluşturabilirsiniz.",
   mSublistTutorialPickTaskTitle: "Doğru Görevleri Seçin ve Alt Listeye Ekleyin",
   mSublistTutorialPickTaskContent:
-    '<p>Diyelim ki "Çocuklar İçin Yardım Koşusu" projesi üzerinde çalışıyorsunuz '
-    've bu proje yüzlerce görev içeriyor. Birlikte çalışan en az 10 kişi var. '
-    'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
-    'Mahzen ile sizinle ilgisi olmayan görevleri ortadan kaldıramazsınız çünkü diğer ekip üyelerinin hala onları görmesi gerekir.</p>'
-    '<p>Derin bir nefes alın ve sorununuzu çözmek için ilk alt listenizi oluşturun. Birlikte görüntülemek istediğiniz önemli '
-    'görevleri seçin ve ayrı bir listeye gidin. Artık her şeyin dikkatinizi dağıtmadan, '
-    'odaklanacak kendi yapılacaklar listeniz var.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Kök görevi seçtiğinizde ve alt listeye eklediğinizde, alt görevler otomatik olarak "
-    "listeye eklenir.</p>"
-    "<p>Ancak, alt görevleri kök görevden ayrı olarak seçmeyi ve "
-    "yeni oluşturulan alt listeye eklemeyi seçebilirsiniz.</p>"
-    "<p>Yeni oluşturulan alt listeyi ana listeyle ayırt etmek için bazı eğlenceli simgeler ekleyebilir "
-    "ve simge rengini alt listenize ekleyebilirsiniz.</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Alt Listeyi Doğru Kişilerle Paylaşın",
   mSublistTutorialShareContent:
     "<p>Görevleri seçip bir alt listeye ekledikten sonra, "

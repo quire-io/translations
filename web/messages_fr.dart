@@ -426,27 +426,29 @@ const frWeb = const <String, String> {
     'pour vous concentrer sur les bonnes tâches au bon moment, sans égarement.',
   mSublistTutorialAddSublistTitle: "Donnez un nom à votre sous-liste",
   mSublistTutorialAddSublistContent:
-    "<p>Fatigué(e) de regarder une liste sans en voir la fin ? Il y a trop de tâches "
-    "qui ne vous concernent pas, mais vous ne pouvez pas les mettre de côté avec Peekaboo, "
-    "car les autres membres y travaillent dessus. Les sous-listes sont là pour vous !</p>"
-    '<p>Pour ajouter une sous-liste, cliquez sur le bouton "+" et sélectionnez "Ajouter une sous-liste".</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "Astuce : Vous pouvez créer autant de sous-listes que vous voulez pour un projet.",
   mSublistTutorialPickTaskTitle: "Sélectionnez les bonnes tâches et ajoutez-les à une sous-liste",
   mSublistTutorialPickTaskContent:
-    '<p>Disons que vous travaillez sur un projet "Course de charité pour les enfants" '
-    'qui implique des centaines de tâches. Il y au moins 10 personnes qui y travaillent dessus. '
-    'Vous ne pouvez pas en permanence créer de nouvelles étiquettes pour organiser les tâches dont vous vous occupez. '
-    'Vous ne pouvez pas utiliser Peekaboo pour mettre de côté les tâches qui ne vous concernent pas, puisque les autres membres de l\'équipe ont besoin de les voir.</p>'
-    '<p>Respirez profondément et créez votre première sous-liste pour résoudre votre problème. Sélectionnez simplement les tâches importantes '
-    'que vous voulez regrouper et déplacer vers une liste séparée. Vous avez maintenant votre propre liste de tâches sur laquelle vous concentrer, '
-    'sans aucune autre distraction.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Lorsque vous sélectionnez une tâche à la racine et que vous l'ajoutez à une sous-liste, ses sous-tâches seront automatiquement "
-    "ajoutées à la liste.</p>"
-    "<p>Cependant, vous pouvez choisir de sélectionner des sous-tâches sans la tâche à la racine "
-    "pour les ajouter à la nouvelle sous-liste.</p>"
-    "<p>Pour différencier les sous-listes nouvellement créées de la liste principale, vous pouvez ajouter des icônes spéciales, "
-    "de la couleur que vous voulez, à vos sous-listes.</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Partagez les sous-listes avec les bonnes personnes",
   mSublistTutorialShareContent:
     "<p>Après avoir choisi des tâches et les avoir ajoutées à une sous-liste, vous pouvez aussi "

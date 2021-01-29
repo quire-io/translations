@@ -426,27 +426,29 @@ const ptBrWeb = const <String, String> {
     'para que você possa se concentrar nas tarefas certas, no momento certo, sem nenhuma distração.',
   mSublistTutorialAddSublistTitle: "Nomeie Sua Sublista",
   mSublistTutorialAddSublistContent:
-    "<p>Cansad@ de olhar para uma lista sem fim à vista? Existem muitas tarefas "
-    "que não são relevantes para você, mas você não pode fazer Peekaboo para escondê-las "
-    "porque outros membros ainda estão trabalhando nessas tarefas. A sublista está aqui para resgatar você!</p>"
-    '<p>Para adicionar uma sublista, clique no botão "+" e escolha "Adicionar sublista".</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "Dica: Você pode criar quantas sublistas quiser para um projeto.",
   mSublistTutorialPickTaskTitle: "Selecione as Tarefas Certas e Adicione à Sublista",
   mSublistTutorialPickTaskContent:
-    '<p>Digamos que você esteja trabalhando em um projeto "Corrida Infantil para Caridade" '
-    'que envolve centenas de tarefas. Há pelo menos 10 pessoas que colaboram juntas. '
-    'Você não pode continuar criando tags diferentes para organizar as tarefas pelas quais é responsável. '
-    'Você não pode fazer Peekaboo para esconder as tarefas irrelevantes porque outros membros da equipe ainda precisam visualizá-las.</p>'
-    '<p>Respire fundo e crie sua primeira sublista para resolver seu problema. Basta selecionar as tarefas importantes '
-    'que você deseja visualizar juntas e passar para uma lista separada. Agora você tem sua própria lista de tarefas para se concentrar, '
-    'sem se distrair com tudo o resto.</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>Quando você seleciona a tarefa raiz e a adiciona à sublista, suas subtarefas serão automaticamente "
-    "adicionadas à lista.</p>"
-    "<p>No entanto, você pode optar por selecionar as subtarefas separadamente da tarefa raiz "
-    "e adicionar à sublista recém-criada.</p>"
-    "<p>Para diferenciar a sublista recém-criada com a lista principal, você pode adicionar alguns ícones divertidos "
-    "e alterar a cor do ícone para sua sublista.</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "Compartilhe a Sublista com as Pessoas Certas",
   mSublistTutorialShareContent:
     "<p>Depois de escolher as tarefas e adicionar a uma sublista, você também pode "

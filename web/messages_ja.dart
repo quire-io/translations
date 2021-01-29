@@ -426,27 +426,29 @@ const jaWeb = const <String, String> {
     'やるべきときにやるべき仕事に集中しましょう。',
   mSublistTutorialAddSublistTitle: "サブリストに名前を付ける",
   mSublistTutorialAddSublistContent:
-    "<p>タスクリストを眺めていると、果てしがないように思えませんか。自分に関係がないけれど"
-    "他のメンバーが作業中で、「あとで表示」にしてしまえないタスクが"
-    "多すぎるのかもしれません。そんなときはサブリストを作りましょう。</p>"
-    '<p>サブリストを追加するには「+」ボタンを押し、「サブリストを追加」を選択します。</p>',
+    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
+    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
+    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
+    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
   mSublistTutorialAddSublistTip: "ヒント：サブリストはプロジェクト1件につき必要な数だけ作成できます。",
   mSublistTutorialPickTaskTitle: "サブリストにタスクを追加",
   mSublistTutorialPickTaskContent:
-    '<p>「子どもたちのためのチャリティーラン」プロジェクトを始動しているとしましょう。'
-    'そのためには10人以上のメンバーで何百ものタスクをこなす必要があり、'
-    'タグだけでは自分のタスクを管理しきれません。'
-    '他のメンバーが作業しているため、関係のないタスクに「あとで表示」を設定して、しばらく非表示にすることもできません。</p>'
-    '<p>そんなときは思い切って、最初のサブリストを作りましょう。一括表示したい重要なタスクを選択し、'
-    '別のリストに移動するだけで、自分だけの「やることリスト」の完成です。'
-    '他のタスクを気にすることなく、自分のタスクに集中できます。</p>'
+    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
+    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
+    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
+    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
+    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
+    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
+    'without getting distracted by everything else.</p>'
     "<p>[=img]</p>"
-    "<p>レベル1のタスクをサブリストに追加すると、"
-    "その子タスクも一緒に追加されます。</p>"
-    "<p>子タスクは、レベル1のタスクとは別に"
-    "サブリストに追加することもできます。</p>"
-    "<p>新しく作ったサブリストは、もとのリストと区別するため、"
-    "楽しいアイコンを好きな色にして追加することもできます。</p>",
+    "<p>When creating a sublist, in the below task list menu, "
+    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
+    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
+    "added to the list.</p>"
+    "<p>However, you can choose to select the subtasks separately from the root task "
+    "and add to the newly created sublist.</p>"
+    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
+    "and change the icon color to your sublist.</p>",
   mSublistTutorialShareTitle: "サブリストの共有",
   mSublistTutorialShareContent:
     "<p>タスクを選んでサブリストに追加したら、"
