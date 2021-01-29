@@ -65,7 +65,7 @@ const ptBrWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Migrar do Trello",
   mFeaturesMigrationWunderlistButton: "Migrar do Wunderlist",
   mFeaturesCompareWrikeButton: "Comparar com o Wrike",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
+  mFeaturesMigrationTodoistButton: "Migrar do Todoist",
   mFeaturesMigrationOthersButton: "Migrar de Outros",
   mFeatureHierarchyTitle: "Lista de Tarefas Aninhadas",
   mFeatureHierarchyDesc: "Enfrente grandes projetos dividindo-os em pequenos passos gerenciáveis.",
@@ -235,7 +235,7 @@ const ptBrWeb = const <String, String> {
     "<p>Por exemplo, você pode adicionar tags chamadas Patrocinadores, Local ou Promoção "
     "nas cores vermelho, verde e azul às tarefas relacionadas.</p>"
     '<p>Para adicionar tags, clique no ícone "tag" de uma tarefa e digite o nome da tag.</p>',
-  mTutorialTagTip: "Dica: você pode filtrar tarefas por tag(s) para ver apenas um grupo de tarefas com essa(s) tag(s).",
+  mTutorialTagTip: "Dica: Você pode filtrar tarefas por tag(s) para ver apenas um grupo de tarefas com essa(s) tag(s).",
   mTutorialAutocompleteTitle: "Adição rápida, enquanto você digita",
   mTutorialAutocompleteContent:
     "<p>E se você puder adicionar e atribuir tudo, de uma só vez?</p>"
@@ -315,10 +315,10 @@ const ptBrWeb = const <String, String> {
     "<p>Agora que você sabe o que fazer, pode iniciar seu projeto!</p>",
   mTutorialContextmenuTip: "Dica: Você pode pressionar F1 para ver uma lista completa dos atalhos de teclado.",
   mNextTutorial: "Próximo Tutorial",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "Divida grandes projetos em tarefas menores com a Árvore Aninhada do Quire",
+  mBoardTutorialLinkTitle: "Simplifique o fluxo de trabalho visualmente com o Quadro Kanban do Quire",
   mSublistTutorialLinkTitle: "Concentre-se nas tarefas certas com uma Sublista personalizada do Quire",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Mapeie a cronologia do projeto com o Cronograma do Quire",
   mSignupToday: "Vamos começar hoje no Quire!",
   mBoardTutorialTitle: "Tutorial Quire - Quadro Kanban",
   mBoardTutorialDesc:
@@ -477,71 +477,71 @@ const ptBrWeb = const <String, String> {
     "e a produtividade da sua equipe! A produtividade é focar-se na "
     "coisa certa, na hora certa!</p>"
     "<p>Agora, faça as coisas acontecerem e realize seus sonhos!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Tutorial Quire - Cronograma",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "Está tendo problemas para identificar obstáculos em seu projeto? Com apenas um toque, "
+    "mude sua lista de tarefas para uma vista de Cronograma e comece a visualizar seu projeto com uma linha do tempo fácil de entender.",
+  mTimelineTutorialSwitchViewTitle: "Mude para Vista de Cronograma a partir da Vista em Árvore",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>No canto superior direito, você verá três botões que se associam a diferentes visualizações de seu projeto e sublistas. "
+    "Clique no botão Cronograma para mudar seu projeto para uma visualização de Gráfico de Gantt (Linha do tempo) e todas as suas tarefas mapearão seus prazos.</p>",
+  mTimelineTutorialSwitchViewTip: 'Dica: Cada lista de tarefas tem sua própria vista em Árvore, vista em <a href="https://quire.io/blog/p/board.html">Quadro</a> e vista de Cronograma.',
+  mTimelineTutorialNestedListTitle: "Visualizar o Cronograma lado a lado com a Lista de Tarefas Aninhadas",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>Sua tela principal será dividida em duas visualizações: "
+    "no lado esquerdo está a lista de tarefas aninhadas que o mantém no contexto e no lado direito está a visualização do Cronograma. "
+    "Você pode redimensionar a lista de tarefas passando o mouse sobre a linha de separação entre a lista e a visualização do Cronograma.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Se a sua tarefa foi agendada antes (tendo uma data de início ou uma data limite), "
+    "haverá um ponto no final da tarefa que indica que há um prazo associado a esta tarefa. "
+    "Clique no ponto para deslizar rapidamente para a barra de intervalo de tempo da tarefa.</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Você pode reordenar a lista de tarefas arrastando a própria tarefa ou agarrando a barra de tempo para reorganizar a ordem das tarefas.</p>",
+  mTimelineTutorialNestedListTip: "Dica: Você pode clicar no menu suspenso ao lado do nome do projeto e escolher “Entrar em tela inteira” para ver mais detalhes no Cronograma.",
+  mTimelineTutorialAddTaskTitle: "Adicionar Novas Tarefas na Vista de Cronograma",
+  mTimelineTutorialAddTaskContent: "<p>Abra a lista de tarefas aninhadas e selecione uma tarefa existente e pressione “Enter” para criar uma nova tarefa de mesmo nível, ou “Shift + Enter” para criar uma subtarefa.</p>",
+  mTimelineTutorialAddTaskTip: "Dica: Você pode optar por ocultar a exibição de lista aninhada após criar uma nova tarefa para expandir a vista do Cronograma.",
+  mTimelineTutorialRescheduleTitle: "Reprogramar seu cronograma",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>O ideal é que todos os prazos sejam cumpridos, mas às vezes a vida atrapalha. "
+    "É por isso que você deve sempre reorganizar sua agenda para gerenciar melhor a largura de banda do projeto.</p>"
+    "<p>Se você quiser ver a duração de sua tarefa, "
+    "você pode passar o mouse sobre a barra de intervalo de tempo e a programação da tarefa será exibida abaixo dela.</p>"
+    "<p>Basta passar o mouse sobre a data de início ou limite da tarefa e estender ou encurtar a duração. "
+    "Você pode clicar para mover ou arrastar toda a barra.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Cometeu algum erro? Não se preocupe, você sempre pode clicar no botão Desfazer no canto superior e desfazer sua ação.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Dica: Se você não estiver tão confiante em arrastar e soltar a barra de intervalo de tempo, "
+    "você pode na realidade alterar a data de início ou limite na coluna da grade ou no painel de detalhes da tarefa.",
+  mTimelineTutorialColorTitle: "Colorir a Vista do Cronograma da Maneira que Desejar",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>O Cronograma é principalmente para visualização, por isso, é importante deixar cada tarefa se destacar visualmente. "
+    "Você pode escolher colorir suas tarefas por prioridade, tag, data ou simplesmente não fazer nada.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Se uma tarefa mãe tiver uma duração diferente de suas subtarefas, na visualização do Cronograma, "
+    "a barra de intervalo de tempo da tarefa mãe também será marcada como uma barra cinza que cobre o tempo de duração das subtarefas.</p>",
+  mTimelineTutorialColorTip: "Dica: Os significados das cores podem ser encontrados neste guia detalhado.",
+  mTimelineTutorialGridViewTitle: "Personalizar a Lista de Tarefas com Vista em Grade",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Uma vez que a vista do cronograma apenas pode mostrar detalhes muito limitados da lista de tarefas, "
+    "você pode tocar no botão do cronograma e alternar para a Vista em Grade.</p>"
+    "<p>Você pode escolher quais detalhes da tarefa deseja mostrar na sua lista, "
+    "as seleções padrão são "Estado", "Prioridade","Responsável","Tags","Início" e "Prazo". "
+    "Depois de escolher a opção que deseja mostrar, você pode redimensionar a coluna se necessário.</p>",
+  mTimelineTutorialNavigateTitle: "Navegar pelo cronograma",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Selecione várias tarefas usando “Shift” e reprograme todas de uma vez.</li>"
+    "<li>Pegue no cabeçalho do calendário e mova para a direita ou esquerda.</li>"
+    "<li>Clique no botão "Hoje" no canto superior direito para ir para a data de Hoje.</li>"
+    "<li>Altere a vista do cronograma para Vista do Dia, Vista da Semana, Vista do Mês, Vista do Ano e escolha se quer mostrar os finaiss de semana ou não.</li>"
+    "<li>Use o Filtro para classificar e agrupar seu cronograma na ordem que desejar. Você pode escolher visualizar seu cronograma por estado de tarefa, responsáveis ou prioridade.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Agora você já aprendeu tudo sobre o Cronograma do Quire e está preparad@ para alcançar o próximo marco de seu projeto! Fique louc@ e divirta-se!</p>",
   mLearnMoreDoc: "Saber Mais",
   mGettingStartedLinkTitle: "Recursos em nosso Guia de Introdução",
   mBlogLinkTitle: "Notícias, dicas e inspirações em nosso Blog",
