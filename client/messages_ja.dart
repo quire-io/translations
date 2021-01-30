@@ -117,7 +117,7 @@ const jaClient = const <String, String> {
   mStart: "開始",
   mDue: "期限",
   mDate: "日",
-  mCompletedDate: "Completed Date",
+  mCompletedDate: "完了日",
   mDay: "期限日",
   mWeek: "期限の週",
   mCompletedWeek: "完了の週",
@@ -371,7 +371,7 @@ const jaClient = const <String, String> {
   mTaskArchiveNeverOption: "今後表示しない",
   mTaskArchiveDayOption: "[=n]日後に再表示",
   mTreeMenuArchiveTip: "「<a href='[=link]' target='_blank'>あとで表示</a>」のタスクは、着手する準備ができるまで非表示になります。",
-  mTreeMenuMarkAsRead: "Mark as read",
+  mTreeMenuMarkAsRead: "既読にする",
   mTreeBatchCompleteTooltip: "完了",
   mTreeBatchAssigneeTooltip: "担当者",
   mTreeBatchDateTooltip: "日付",
@@ -490,7 +490,7 @@ const jaClient = const <String, String> {
     '選択したタスクは外部チームが担当しています。'
     'この担当者を追加すると、これらのタスクから外部チームが消去されます。',
   mAssigneeMemberListTitle: "[=team]のメンバー",
-  mRemoveFromParentTasks: "Remove from parent tasks",
+  mRemoveFromParentTasks: "親タスクから消去",
   mInviteMembers: "メンバーを招待",
   mInvite: "招待",
   mREInvite: "再度招待",
@@ -1033,7 +1033,7 @@ const jaClient = const <String, String> {
   mTipCheckTutorial:
     "始め方が分からないときは、"
     'まず<a href="/tutorial" target="_blank">チュートリアル</a>をチェック！',
-  mTipReopenArchive: 'Peekaboo tasks will be shown again automatically on the selected date.',
+  mTipReopenArchive: '「あとで表示」のタスクは、選択した日付になると自動的に再表示されます。',
   mTipFilterForArchived: '「あとで表示」のタスクを確認するには、「あとで表示のタスク」をクリックします。',
   mProfileViewTooltip: "概況",
   mTreeViewTooltip: "一覧",
