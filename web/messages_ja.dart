@@ -65,7 +65,7 @@ const jaWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Trelloから移行",
   mFeaturesMigrationWunderlistButton: "ワンダーリストから移行",
   mFeaturesCompareWrikeButton: "Wrikeと比較",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
+  mFeaturesMigrationTodoistButton: "Todoistから移行",
   mFeaturesMigrationOthersButton: "他ツールから移行",
   mFeatureHierarchyTitle: "階層タスクリスト",
   mFeatureHierarchyDesc: "大きなプロジェクトを、小さく管理しやすいステップに細分化しましょう。",
@@ -109,8 +109,8 @@ const jaWeb = const <String, String> {
   mFeatureRecurringDesc: "いつもの作業を、予定日に自動で表示しましょう。",
   mFeaturePeekabooTitle: "あとで表示",
   mFeaturePeekabooDesc: "しばらく実行できないタスクを一時的に隠してタスクリストを整理し、ストレスを減らしましょう。",
-  mFeatureTimeTitle: "Start and Due Date",
-  mFeatureTimeDesc: "Set start and due dates and time to clearly indicate the schedule of the task.",
+  mFeatureTimeTitle: "開始日と期限日",
+  mFeatureTimeDesc: "開始日時と期限日時を設定して、タスクの予定を明確化できます。",
   mFeatureRemindersTitle: "予定の通知",
   mFeatureRemindersDesc: "タスクの開始日や期限日を忘れないよう、手持ちのデバイスに通知を送りましょう。",
   mFeatureNotificationTitle: "通知",
@@ -315,10 +315,10 @@ const jaWeb = const <String, String> {
     "<p>使い方が分かったところで、さっそくプロジェクトを開始しましょう！</p>",
   mTutorialContextmenuTip: "ヒント：ショートカットキーの一覧を表示するには「F1」キーを押します。",
   mNextTutorial: "次のチュートリアルに進む",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "大きな仕事を小さなタスクに細分化する、Quire階層ツリー",
+  mBoardTutorialLinkTitle: "Quireかんばんボードで可視化して、ワークフローを効率化",
   mSublistTutorialLinkTitle: "自分だけのQuireサブリストで、重要なタスクに集中",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Quireタイムラインで、プロジェクト全体の予定を表示",
   mSignupToday: "今日からQuireで始めましょう！",
   mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
@@ -478,7 +478,7 @@ const jaWeb = const <String, String> {
     "チームのモチベーションを維持しましょう。生産性向上の鍵は、"
     "やるべきときにやるべきことを集中して行うことにあります。</p>"
     "<p>課題を1つずつ達成して、夢をかたちにしてください。</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Quireチュートリアル - タイムライン",
   mTimelineTutorialDesc:
     "Having troubles spotting roadblocks with your project? With only one tap, "
     "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
