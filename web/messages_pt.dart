@@ -531,14 +531,14 @@ const ptWeb = const <String, String> {
     "<p>Uma vez que a vista do cronograma apenas pode mostrar detalhes muito limitados da lista de tarefas, "
     "pode tocar no botão do cronograma e alternar para a Vista em Grelha.</p>"
     "<p>Pode escolher quais os detalhes da tarefa que deseja mostrar na sua lista, "
-    "as seleções padrão são "Estado", "Prioridade","Colaborador","Tags","Início" e "Prazo". "
+    'as seleções padrão são "Estado", "Prioridade","Colaborador","Tags","Início" e "Prazo". '
     "Depois de escolher a opção que deseja mostrar, pode redimensionar a coluna se necessário.</p>",
   mTimelineTutorialNavigateTitle: "Navegar pelo cronograma",
   mTimelineTutorialNavigateContent:
     "<ul>"
     "<li>Selecione várias tarefas usando “Shift” e reagende todas de uma vez.</li>"
     "<li>Agarre o cabeçalho do calendário e mova para a direita ou esquerda.</li>"
-    "<li>Clique no botão "Hoje" no canto superior direito para ir para o dia de Hoje.</li>"
+    '<li>Clique no botão "Hoje" no canto superior direito para ir para o dia de Hoje.</li>'
     "<li>Altere a vista do cronograma para Vista do Dia, Vista da Semana, Vista do Mês, Vista do Ano e escolha se quer mostrar os fins de semana ou não.</li>"
     "<li>Use o Filtro para ordenar e agrupar o seu cronograma na ordem que desejar. Pode escolher visualizar o seu cronograma por estado da tarefa, colaboradores ou prioridade.</li>"
     "</ul>"

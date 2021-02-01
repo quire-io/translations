@@ -531,14 +531,14 @@ const ptBrWeb = const <String, String> {
     "<p>Uma vez que a vista do cronograma apenas pode mostrar detalhes muito limitados da lista de tarefas, "
     "você pode tocar no botão do cronograma e alternar para a Vista em Grade.</p>"
     "<p>Você pode escolher quais detalhes da tarefa deseja mostrar na sua lista, "
-    "as seleções padrão são "Estado", "Prioridade","Responsável","Tags","Início" e "Prazo". "
+    'as seleções padrão são "Estado", "Prioridade","Responsável","Tags","Início" e "Prazo". '
     "Depois de escolher a opção que deseja mostrar, você pode redimensionar a coluna se necessário.</p>",
   mTimelineTutorialNavigateTitle: "Navegar pelo cronograma",
   mTimelineTutorialNavigateContent:
     "<ul>"
     "<li>Selecione várias tarefas usando “Shift” e reprograme todas de uma vez.</li>"
     "<li>Pegue no cabeçalho do calendário e mova para a direita ou esquerda.</li>"
-    "<li>Clique no botão "Hoje" no canto superior direito para ir para a data de Hoje.</li>"
+    '<li>Clique no botão "Hoje" no canto superior direito para ir para a data de Hoje.</li>'
     "<li>Altere a vista do cronograma para Vista do Dia, Vista da Semana, Vista do Mês, Vista do Ano e escolha se quer mostrar os finaiss de semana ou não.</li>"
     "<li>Use o Filtro para classificar e agrupar seu cronograma na ordem que desejar. Você pode escolher visualizar seu cronograma por estado de tarefa, responsáveis ou prioridade.</li>"
     "</ul>"
