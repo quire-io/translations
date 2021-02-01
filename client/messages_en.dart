@@ -323,7 +323,9 @@ const enClient = const <String, String> {
   mShowMemberCount: "View complete member list",
   mInvitationSent: "Invite sent",
   mNewMemberAdded: "New members have been added to [=name]",
-  
+  mSharedHosts: "Shared Organizations and Projects",
+
+
   mNone: "None",
   mNA: "N/A",
 

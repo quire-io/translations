@@ -258,6 +258,7 @@ const trClient = const <String, String> {
   mShowMemberCount: "Tam Üye Listesini Görüntüle",
   mInvitationSent: "Davet gönderildi",
   mNewMemberAdded: "[=name]\'e yeni üyeler eklendi",
+  mSharedHosts: "Shared Organizations and Projects",
   mNone: "Hiçbiri",
   mNA: "N/A",
   mDontShowAgain: "Tekrar gösterme",

@@ -269,6 +269,7 @@ const ptClient = const <String, String> {
   mShowMemberCount: "Ver lista completa de membros",
   mInvitationSent: "Convite enviado",
   mNewMemberAdded: "Foram adicionados novos membros a [=name]",
+  mSharedHosts: "Shared Organizations and Projects",
   mNone: "Nenhum",
   mNA: "N/A",
   mDontShowAgain: "Não mostrar novamente",

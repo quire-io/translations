@@ -264,6 +264,7 @@ const ruClient = const <String, String> {
   mShowMemberCount: "Просмотр полного списка участников",
   mInvitationSent: "Приглашение отправлено",
   mNewMemberAdded: "Новые участники были добавлены в [=name]",
+  mSharedHosts: "Shared Organizations and Projects",
   mNone: "Нет",
   mNA: "Н/Д",
   mDontShowAgain: "Не показывать снова",
