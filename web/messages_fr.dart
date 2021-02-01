@@ -65,7 +65,7 @@ const frWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Migrer depuis Trello",
   mFeaturesMigrationWunderlistButton: "Migrer depuis Wunderlist",
   mFeaturesCompareWrikeButton: "Comparer avec Wrike",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
+  mFeaturesMigrationTodoistButton: "Migrer depuis Todoist",
   mFeaturesMigrationOthersButton: "Migrer depuis d'autres plateformes",
   mFeatureHierarchyTitle: "Liste de tâches imbriquées",
   mFeatureHierarchyDesc: "Abordez les grands projets en les décomposant en petites étapes, plus gérables.",
@@ -499,49 +499,49 @@ const frWeb = const <String, String> {
     "<p>[=tip]</p>"
     "<p>Vous pouvez réorganiser la liste de tâches en déplaçant la tâche elle-même ou déplacer la barre qui y est associée.</p>",
   mTimelineTutorialNestedListTip: "Astuce : Vous pouvez cliquer sur le menu déroulant à côté du nom du projet et sélectionner \"Passer en mode plein écran\" pour voir plus de détails sur la frise chronologique.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+  mTimelineTutorialAddTaskTitle: "Ajouter de nouvelles tâches en mode Frise chronologique",
+  mTimelineTutorialAddTaskContent: "<p>Ouvrez la liste de tâches et sélectionnez une tâche existante, puis tapez \"Entrer\" pour créer une tâche au même niveau, ou \"Maj + Entrer\" pour créer une sous-tâche.</p>",
+  mTimelineTutorialAddTaskTip: "Astuce : Vous pouvez choisir de masquer la liste de tâches après avoir créé une nouvelle tâche pour étendre la frise chronologique.",
+  mTimelineTutorialRescheduleTitle: "Replanifier les tâches",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>Nous aimerions tous respecter les délais, mais la vie peut parfois nous en empêcher. "
+    "C'est pourquoi vous devriez en permanence réorganiser votre planning pour vous adapter aux aléas de votre projet.</p>"
+    "<p>Si vous voulez voir la durée de vos tâches, "
+    "vous pouvez survoler la barre associée pour faire apparaître en-dessous sa planification.</p>"
+    "<p>Survolez simplement la date de début ou de fin de la tâche et allongez ou raccourcissez sa durée. "
+    "Vous pouvez cliquer pour déplacer la barre de la tâche.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Vous vous êtes trompé(e) ? Pas d'inquiétude, vous pouvez toujours cliquer sur le bouton Annuler en haut à droite.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Astuce : Si vous n'êtes pas à l'aise avec le glisser-déposer, "
+    "vous pouvez aussi changer les dates de début et d'échéance dans la grille ou dans le panneau des détails de la tâche.",
+  mTimelineTutorialColorTitle: "Colorer la frise selon vos goûts",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>La frise chronologique est là pour vous aider à visualiser votre projet, il est donc important que chaque tâche puisse sortir du lot. "
+    "Vous pouvez colorer vos tâches par priorité, étiquette, date, ou les laisser sans couleur.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Si une tâche a une durée différente de ses sous-tâches, dans la frise chronologique, "
+    "sa barre de durée apparaîtra grisée pour aussi couvrir la durée des sous-tâches.</p>",
+  mTimelineTutorialColorTip: "Astuce : La signification des couleurs est indiquée dans ce guide détaillé.",
+  mTimelineTutorialGridViewTitle: "Personnaliser la liste des tâches avec l'affichage en grille",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>La frise chronologique ne pouvant montrer que certains détails de la liste des tâches, "
+    "vous pouvez cliquer sur le bouton Chronologie et activer l'Affichage en grille.</p>"
+    "<p>Vous pouvez sélectionner les informations des tâches que vous voulez voir dans la grille, "
+    "celles affichées par défaut étant \"Statut\", \"Priorité\", \"Attribution\", \"Étiquettes\", \"Début\", et \"Échéance\". "
+    "Après avoir choisi les paramètres que vous souhaitez voir, vous pouvez si besoin redimensionner les colonnes.</p>",
+  mTimelineTutorialNavigateTitle: "Se déplacer sur la frise",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Sélectionnez plusieurs tâches avec \"Maj\" pour les replanifier en une fois.</li>"
+    "<li>Cliquez sur le calendrier en haut et déplacez-le à droite ou à gauche.</li>"
+    "<li>Cliquez sur le bouton \"Aujourd'hui\" dans le coin en haut à droite pour revenir à la date du jour.</li>"
+    "<li>Changez l'affichage en mode Jour, Semaine, Mois, ou Année et choisissez d'afficher ou non les week-ends.</li>"
+    "<li>Utilisez les filtres pour trier et grouper la frise comme vous le souhaitez. Vous pouvez choisir d'afficher la frise par statut de tâche, attribution, ou priorité.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Vous savez désormais tout sur la frise chronologique de Quire, et vous êtes prêt(e) pour la prochaine étape clé de votre projet ! C'est le moment de l'essayer !</p>",
   mLearnMoreDoc: "En savoir plus",
   mGettingStartedLinkTitle: "Fonctionnalités dans notre guide pour bien démarrer",
   mBlogLinkTitle: "Nouveautés, astuces et inspiration dans notre blog",
