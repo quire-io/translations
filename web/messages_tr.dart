@@ -109,8 +109,8 @@ const trWeb = const <String, String> {
   mFeatureRecurringDesc: "Rutinlerinizi görev ağacınıza bir kez ve herkes için alın.",
   mFeaturePeekabooTitle: "Mahzen",
   mFeaturePeekabooDesc: "Görev listenizi daha iyi düzenlemek ve işyerinde stresten kaçınmak için şu anda işlemde olmayan görevlerinizi geçici olarak kaldırın.",
-  mFeatureTimeTitle: "Start and Due Date",
-  mFeatureTimeDesc: "Set start and due dates and time to clearly indicate the schedule of the task.",
+  mFeatureTimeTitle: "Başlangıç ve Termin Tarihi",
+  mFeatureTimeDesc: "Görevin zamanlamasını açıkça belirtmek için başlangıç ve termin tarihlerini ve saati ayarlayın. ",
   mFeatureRemindersTitle: "Hatırlatmalar",
   mFeatureRemindersDesc: "Başlamadan önce veya cihazlar arasında istediğiniz zaman, yaklaşan görevleri hatırlatın.",
   mFeatureNotificationTitle: "Bildirimler",
@@ -315,10 +315,10 @@ const trWeb = const <String, String> {
     "<p>Artık yolunuzu bildiğinize göre, projenize başlayabilirsiniz!</p>",
   mTutorialContextmenuTip: "İpucu: Klavye kısayollarının tam listesini görmek için F1 tuşunu tıklayabilirsiniz.",
   mNextTutorial: "Sonraki Kılavuz",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "Quire Ağaç Yapısı ile büyük projeleri daha küçük görevlere ayırın ",
+  mBoardTutorialLinkTitle: "Quire Kanban Board ile iş akışını görsel olarak kolaylaştırın",
   mSublistTutorialLinkTitle: "Kişiselleştirilmiş bir Quire Alt Listesi ile doğru görevlere odaklanın",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Quire Zaman Çizelgesi ile projenin zaman çizelgesini planlayın",
   mSignupToday: "Bugüne Quire ile başlayalım!",
   mBoardTutorialTitle: "Quire Kılavuzu - Kanban Panosu",
   mBoardTutorialDesc:
@@ -478,16 +478,16 @@ const trWeb = const <String, String> {
     "verimliliğini düşürmesine izin vermeyin! Verimlilik, doğru zamanda "
     "doğru şeye odaklanmakla ilgilidir!</p>"
     "<p>Şimdi gidip işleri hallet ve hayallerine ulaş!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Quire Kılavuzu - Zaman Çizelgesi",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "Projenizle ilgili engelleri tespit etmekte sorun mu yaşıyorsunuz? Tek bir dokunuşla görev listenizi Zaman Çizelgesi görünümüne getirin "
+    "ve anlaşılması kolay bir zaman çerçevesiyle projenizi görselleştirmeye başlayın.",
+  mTimelineTutorialSwitchViewTitle: "Ağaç Görünümünden Zaman Çizelgesi Görünümüne Geç ",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>Sağ üst köşede, projenizin ve alt listelerinizin farklı görünümleriyle ilişkilendirilen üç düğme göreceksiniz. "
+    "Projenizi bir Gantt Şeması (Zaman Çizelgesi) görünümüne geçirmek için Zaman Çizelgesi düğmesine tıklayın ve tüm görevleriniz son tarihlerini belirleyecektir.</p>",
+  mTimelineTutorialSwitchViewTip: 'İpucu: Her görev listesinin kendi Ağaç görünümü <a href="https://quire.io/blog/p/board.html">Pano</a> görünümü Zaman Çizelgesi görünümü vardır.',
+  mTimelineTutorialNestedListTitle: "İç İçe Görev Listesi ile Zaman Çizelgesini Yan Yana Görüntüleyin ",
   mTimelineTutorialNestedListContent:
     "<p>Your main screen will be divided into two views: "
     "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
