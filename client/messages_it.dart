@@ -345,6 +345,7 @@ const itClient = const <String, String> {
   mZoomOutTask: "Rimpicciolisci (a)",
   mPinViewTab: "Blocca",
   mUnpinViewTab: "Sblocca",
+  mUnpinRightTabs: "Unpin all tabs to the right",
   mTreeTagTooltip: "Etichetta",
   mClearDate: "Rimuovi data",
   mTreeMenuSetPriority: "Assegna priorità",

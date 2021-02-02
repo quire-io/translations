@@ -345,6 +345,7 @@ const ruClient = const <String, String> {
   mZoomOutTask: "Отдалить (a)",
   mPinViewTab: "Закрепить",
   mUnpinViewTab: "Открепить",
+  mUnpinRightTabs: "Unpin all tabs to the right",
   mTreeTagTooltip: "Метка",
   mClearDate: "Очистить дату",
   mTreeMenuSetPriority: "Установить приоритет",

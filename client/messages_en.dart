@@ -422,6 +422,7 @@ const enClient = const <String, String> {
   mZoomOutTask: "Zoom out (a)",
   mPinViewTab: "Pin",
   mUnpinViewTab: "Unpin",
+  mUnpinRightTabs: "Unpin all tabs to the right",
   
   mTreeTagTooltip: "Tag",
 

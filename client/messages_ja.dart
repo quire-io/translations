@@ -345,6 +345,7 @@ const jaClient = const <String, String> {
   mZoomOutTask: "ズームアウト (a)",
   mPinViewTab: "固定",
   mUnpinViewTab: "固定を解除",
+  mUnpinRightTabs: "Unpin all tabs to the right",
   mTreeTagTooltip: "タグ",
   mClearDate: "日付をクリア",
   mTreeMenuSetPriority: "優先度を設定",

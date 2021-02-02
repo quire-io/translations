@@ -350,6 +350,7 @@ const ptBrClient = const <String, String> {
   mZoomOutTask: "Menos zoom (a)",
   mPinViewTab: "Fixar",
   mUnpinViewTab: "Soltar",
+  mUnpinRightTabs: "Unpin all tabs to the right",
   mTreeTagTooltip: "Tag",
   mClearDate: "Limpar data",
   mTreeMenuSetPriority: "Definir prioridade",
