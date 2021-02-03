@@ -326,44 +326,44 @@ const itWeb = const <String, String> {
     "è tempo di lavorare sul tuo progetto!<br>"
     '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Focalizzata</a> '
     "su attività selezionate e visualizzare il flusso di lavoro con la bacheca Kanban.",
-  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+  mBoardTutorialSwitchBoardViewTitle: "Passa alla vista Bacheca dall'albero",
   mBoardTutorialSwitchBoardViewContent:
-    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
+    "<p>Nell'angolo in alto a destra della vista ad Albero, seleziona l'icona “Bacheca”.</p>"
     "<p>[=img]</p>"
-    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
-  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
-  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
-  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+    "Puoi utilizzare l'icona Filtro per filtrare le attività che vuoi selezionare oppure utilizzare la funzione Ricerca per trovare le attività. Clicca poi “Crea” per entrare nella vista Bacheca di questa Sottolista.",
+  mBoardTutorialReorderColumnsTitle: "Riordina Colonne nella vista Bacheca",
+  mBoardTutorialReorderColumnsContent: "<p>Nel caso in cui non ti piaccia l'ordine delle colonne nella vista Bacheca, puoi trascinare l'intestazione di una colonna e muoverla nella nuova posizione.</p>",
+  mBoardTutorialCreateTaskTitle: "Crea un'attività nella vista Bacheca",
   mBoardTutorialCreateTaskContent:
-    "<p>There are two ways to create a task in Board view:</p>"
+    "<p>Ci sono due modalità per creare una nuova attività nella vista Bacheca:</p>"
     '<ul class="list-unstyled"><li>'
     "<ol>"
-    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<li>Puoi selezionare un'attività esistente e cliccare “Invio” per creare una nuova attività allo stesso livellooppure “Shift + Invio” per creare una sotto attività collagata all'attività padre.</li>"
     "<p>[=video]</p>"
-    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "<li>Nell'angolo in basso di ogni colonna, clicca “Aggiungi Attività” e comincia a digitarne il nome ed eventuali parametri (e.s. Assegnatario, priorità, etc...). Poi premi invio per salvare la nuova attività.</li>"
     "</ol>"
     "</li></ul>",
-  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
-  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialCreateTaskTip: 'Suggerimento: Approfitta della funzione <a href="/guide/inline-assign/">assegnazione in linea</a> per risparmiare tempo quando aggiungi una nuova attività.',
+  mBoardTutorialTrackProgressTitle: "Tieni traccia dei progressi con la vista Bacheca",
   mBoardTutorialTrackProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
-  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
-  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+    "<p>Puoi riposizionare attività nella colonna di priorità più alta. Puoi anche trascinare attività in colonne differenti per tenere traccia dei progressi.</p>"
+    "<p>Ora puoi visualizzare, a colpo d'occhio, lo stato dinamico dei tuoi progetti.</p>",
+  mBoardTutorialTrackProgressTip: "Suggerimenti: Ricorda che se scegli di ordinare le tue attività per nome o raggrupparle per Aggiornamenti per Settimana o Completate per Settimana, non potrai trascinerle o riodinarle.",
+  mBoardTutorialAddMoreDetailTitle: "Agggiungi più dettagli alla vista Bacheca",
   mBoardTutorialAddMoreDetailContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
-  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
-  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+    "<p>Puoi aggiungere informazioni più dettagliate assegnando date di inizio/fine, assegnatari, e etichette.</p>"
+    "<p>Clicca sulle icone “data”, “assegnatari”, “etichette” per aggiungere le informazioni aggiuntive.</p>",
+  mBoardTutorialAddMoreDetailTip: 'Suggerimento: Cliccando la Barra Spaziatrice, il <a href="/guide/descriptions/">pannello dei dettagli</a> sarà mostrato per aggiungere la descrizione, aggiungere files, aggiungere commenti, etc...',
+  mBoardTutorialSwimlaneTitle: "Impara a conoscere le Swimlane delle Bacheche Kamban",
   mBoardTutorialSwimlaneContent:
-    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
-    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+    "<p>Ti sembra che tutte le attività siano schiacciate in una colonna e che sia sempre più difficile controllare il carico di lavoro e lo stato di ogni membro del team?</p>"
+    "<p>YÈ possibile utilizzare funzioni di filtro e ordinamento per raggruppare le attività in base agli attributi preferiti. Ad esempio: raggruppato per assegnatari per vedere le attività in carico ad ogni membro.</p>",
+  mBoardTutorialShuffleColumnTitle: "Riordina le colonne nella vista Bacheca",
   mBoardTutorialShuffleColumnContent:
-    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
-    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
+    "<p>La visualizzazione predefinita della bacheca è raggruppata per stato. Ogni colonna rappresenta una fase unica del progetto e il cerchio accanto all'intestazione della colonna rappresenta la percentuale della sua fase.</p>"
+    "<p>Se non vuoi raggruppare le attività per stato, clicca ancora sull'icona “Bacheca” per selezionare una modalità differente di visualizzazione.</p>"
     "<p>[=img]</p>"
-    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
+    "<p>All'interno di ogni colonna, le attività sono raggruppate nello stesso ordine della visualizzazione ad Albero. È possibile riordinare le attività su e giù o spostare le attività tra le colonne trascinandole.</p>",
   mBoardTutorialShortcutTitle: "Scorciatoie utili",
   mBoardTutorialShortcutContent:
     "<h3>Aggiungi & modifica</h3>"
@@ -426,29 +426,29 @@ const itWeb = const <String, String> {
     'così puoi concentrarti sulle attività giuste al momento giusto, senza distrazioni.',
   mSublistTutorialAddSublistTitle: "Dai un nome alla tua Sottolista",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
-    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
-    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
+    '<p>Stanco di guardare una lista infinita? Ci sono troppe attività '
+    'che non sono per te rilevanti ma non puoi usa <a href="/guide/peekaboo/">Peekaboo</a> per nasconderle '
+    'perché altri membri stanno ancora lavorando a tali attività. Una <a href="/blog/p/Quire-sublist.html">Sottolista</a> è pronta ad aiutarti!</p>'
+    '<p>Per aggiungere una sottolista, fare clic sul bottone "+" per creare una Sottolista.</p>',
   mSublistTutorialAddSublistTip: "Suggerimento: è possibile creare tutte le sottolista desiderate per un progetto.",
   mSublistTutorialPickTaskTitle: "Seleziona le attività giuste e aggiungile alla sottolista",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Supponiamo che tu stia lavorando a un progetto "Corsa di beneficenza per bambini" '
+    'che comporta centinaia di attività. Ci sono almeno 10 persone che collaborano insieme. '
+    'Non è possibile continuare a creare etichette diverse per organizzare le attività di cui si è responsabili. '
+    'Non puoi usare Peekaboo per nascondere le attività irrilevanti perché gli altri membri della squadra devono ancora poterle visualizzare.</p>'
+    '<p>Fai un respiro profondo e crea la tua prima sottolista per risolvere il tuo problema. Basta selezionare le attività importanti '
+    'che si desidera visualizzare insieme e spostare in una lista separata. Ora hai la tua lista di cose su cui concentrarti, '
+    'senza essere distratto da tutto il resto.</p>'
     "<p>[=img]</p>"
-    "<p>When creating a sublist, in the below task list menu, "
-    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
+    "<p>Quando si sta creando una Sottolista, nel menu sottostante, "
+    "puoi selezioanre di “Includere” le attività selezionate o “Escluderle”.</p>"
+    "<p>Quando si seleziona l'attività principale e si aggiunge alla sottolista, le relative subattività saranno automaticamente "
+    "aggiunte alla lista.</p>"
+    "<p>Tuttavia, puoi scegliere di selezionare le subattività separatamente dall'attività principale "
+    "e aggiungerle alla sottolista appena creata.</p>"
+    "<p>Per differenziare la nuova sottolista dalla lista principale, puoi aggiungere alcune icone divertenti "
+    "e cambiare il colore dell'icona alla tua sottolista.</p>",
   mSublistTutorialShareTitle: "Condividi la sottolista con le persone giuste",
   mSublistTutorialShareContent:
     "<p>Dopo aver scelto le attività e averle aggiunte a una sottolista, è anche possibile "
@@ -501,7 +501,7 @@ const itWeb = const <String, String> {
     "<p>Puoi riordinare l'elenco delle attività trascinando l'attività stessa o spostando la barra dell'intervallo temporale per riorganizzare l'ordine delle attività.</p>",
   mTimelineTutorialNestedListTip: "Suggerimento: puoi fare clic sul menu a discesa accanto al nome del progetto e scegliere “Accedi a schermo intero” per visualizzare ulteriori dettagli nella Sequenza Temporale.",
   mTimelineTutorialAddTaskTitle: "Aggiungi nuove attività alla vista Sequenza temporale",
-  mTimelineTutorialAddTaskContent: "<p>Apri l'albero delle attività e seleziona un'attività esistente, quindi premi “Invio” per creare una nuova attività allo stesso livello, o “Shift + Invio” per creare una sottoattività.</p>",
+  mTimelineTutorialAddTaskContent: "<p>Apri l'albero delle attività e seleziona un'attività esistente, quindi premi “Invio” per creare una nuova attività allo stesso livello, o “Shift + Invio” per creare una subattività.</p>",
   mTimelineTutorialAddTaskTip: "Suggerimento: è possibile scegliere di nascondere la visualizzazione ad Albero dopo aver creato una nuova attività per espandere la visualizzazione Sequanza temporale.",
   mTimelineTutorialRescheduleTitle: "Ripianifica la Sequenza temporale",
   mTimelineTutorialRescheduleContent:
@@ -523,7 +523,7 @@ const itWeb = const <String, String> {
     "Puoi scegliere di colorare le tue attività in base a priorità, etichetta, data o semplicemente lasciarle a nessuno.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Se un'attività principale ha una durata diversa come sottoattività, nella visualizzazione Sequenza Temporale, "
+    "<p>Se un'attività principale ha una durata diversa come subattività, nella visualizzazione Sequenza Temporale, "
     "la barra del periodo di tempo dell'attività principale sarà anche contrassegnata da una barra grigia sbarrata che copre anche la durata delle attività secondarie.</p>",
   mTimelineTutorialColorTip: "Suggerimento: i significati dei colori possono essere trovati in questa guida dettagliata.",
   mTimelineTutorialGridViewTitle: "Personalizza l'elenco delle attività con la visualizzazione Griglia",

@@ -1374,7 +1374,7 @@ Non potrai ripubblicare l\'app per [=days] giorni.</p>
   mMobileEmptyBackgroundTitle: "Pronto?",
   mMobileEmptyBackgroundDesc: "Aggiungi qualche idea per iniziare il tuo sogno!",
   mMobileNOFilterBackgroundDesc: "Hurra~ nessuna attività in scadenza!",
-  mMobileNODrillBackgroundDesc: "Non ci sono sottoattività da mostrare.",
+  mMobileNODrillBackgroundDesc: "Non ci sono subattività da mostrare.",
   mMobileFilterBackgroundDesc1: "Nessuna attività trovata. Puoi provare a ",
   mMobileFilterBackgroundDesc2: "resetta filtri",
   mMobileFilterBackgroundDesc3: ".",
