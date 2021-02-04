@@ -238,6 +238,7 @@ const ptBrClient = const <String, String> {
   mSelectAll: "Selecionar tudo",
   mUnselect: "Desmarcar",
   mUnselectAll: "Desmarcar tudo",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Esse nome já foi usado',
   mDuplicatedValue: 'Esse valor já foi usado',
   mPreviewUpper: "VISTA PRÉVIA",

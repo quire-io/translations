@@ -227,6 +227,7 @@ const trClient = const <String, String> {
   mSelectAll: "Tümünü seç",
   mUnselect: "Seçimi kaldır",
   mUnselectAll: "Tüm seçimleri kaldır",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Bu ad zaten alınmış',
   mDuplicatedValue: 'Bu değer zaten alınmış',
   mPreviewUpper: "ÖNİZLEME",

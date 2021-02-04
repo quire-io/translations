@@ -233,6 +233,7 @@ const itClient = const <String, String> {
   mSelectAll: "Seleziona tutti",
   mUnselect: "Deseleziona",
   mUnselectAll: "Deseleziona tutti",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Questo nome è già utilizzato',
   mDuplicatedValue: 'Questo valore è già utilizzato',
   mPreviewUpper: "ANTEPRIMA",

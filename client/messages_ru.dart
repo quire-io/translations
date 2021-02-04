@@ -233,6 +233,7 @@ const ruClient = const <String, String> {
   mSelectAll: "Выделить всё",
   mUnselect: "Снять выделение",
   mUnselectAll: "Снять всё выделение",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Это имя уже используется',
   mDuplicatedValue: 'Это значение уже используется',
   mPreviewUpper: "ПРОСМОТР",

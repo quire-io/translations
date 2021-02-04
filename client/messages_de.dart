@@ -227,6 +227,7 @@ const deClient = const <String, String> {
   mSelectAll: "Alle auswählen",
   mUnselect: "Abwählen",
   mUnselectAll: "Alle abwählen",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Dieser Name existiert bereits',
   mDuplicatedValue: 'Dieser Wert ist bereits vergeben',
   mPreviewUpper: "VORSCHAU",

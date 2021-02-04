@@ -233,6 +233,7 @@ const jaClient = const <String, String> {
   mSelectAll: "すべて選択",
   mUnselect: "選択を解除",
   mUnselectAll: "選択をすべて解除",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'この名前はすでに使われています',
   mDuplicatedValue: 'この値はすでに使われています',
   mPreviewUpper: "プレビュー",

@@ -233,6 +233,7 @@ const frClient = const <String, String> {
   mSelectAll: "Tout sélectionner",
   mUnselect: "Déselctionner",
   mUnselectAll: "Tout désélectionner",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Ce nom est déjà pris',
   mDuplicatedValue: 'Cette valeur est déjà utilisée',
   mPreviewUpper: "APERÇU",

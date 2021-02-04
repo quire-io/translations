@@ -233,6 +233,7 @@ const esClient = const <String, String> {
   mSelectAll: "Seleccionar todo",
   mUnselect: "Anular selección",
   mUnselectAll: "Anular toda la selección",
+  mSelectAllSubtasks: "Select all relevant subtasks",
   mDuplicatedName: 'Este nombre ya está en uso',
   mDuplicatedValue: 'Este valor ya está en uso',
   mPreviewUpper: "VISTA PREVIA",

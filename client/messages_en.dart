@@ -283,6 +283,7 @@ const enClient = const <String, String> {
   mSelectAll: "Select all",
   mUnselect: "Deselect",
   mUnselectAll: "Deselect all",
+  mSelectAllSubtasks: "Select all relevant subtasks",
 
   mDuplicatedName: 'This name is already taken',
   mDuplicatedValue: 'This value is already taken',
