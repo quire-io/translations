@@ -1003,7 +1003,8 @@ You won't be allowed to publish the app again until [=days] days later.</p>
 
   mKeySwitchMyTaskView: 'Launch or close My Tasks',
   mKeyFullScreen: 'Enable or disable full screen',
-  mKeySwitchViews: 'Switch views',
+  mKeySwitchTabs: 'Switch tabs',
+  mKeySwitchViews: 'Switch tasks view',
   mKeyBlinkSearch: 'Blink search projects, members, etc.',
   mKeySearchTask: 'Search tasks and comments',
   mKeyCompleteTask: 'Complete selected tasks',
