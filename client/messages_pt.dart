@@ -101,6 +101,7 @@ const ptClient = const <String, String> {
   mProjectLot: "Pasta Inteligente",
   mTask: "Tarefa",
   mUser: "Utilizador",
+  mMember: "Member",
   mOrganization: "Organização",
   mProfilePicture: "Foto de Perfil",
   mEntityNotFound: '[=entity] não encontrado',

@@ -96,6 +96,7 @@ const ruClient = const <String, String> {
   mProjectLot: "Умная папка",
   mTask: "Задача",
   mUser: "Пользователь",
+  mMember: "Member",
   mOrganization: "Организация",
   mProfilePicture: "Изображение профиля",
   mEntityNotFound: '[=entity] не найдено',

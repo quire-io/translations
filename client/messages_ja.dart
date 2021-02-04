@@ -96,6 +96,7 @@ const jaClient = const <String, String> {
   mProjectLot: "スマートフォルダー",
   mTask: "タスク",
   mUser: "ユーザー",
+  mMember: "Member",
   mOrganization: "組織",
   mProfilePicture: "プロフィール画像",
   mEntityNotFound: '[=entity]が見つかりません',

@@ -142,6 +142,7 @@ const enClient = const <String, String> {
   mProjectLot: "Smart Folder",
   mTask: "Task",
   mUser: "User",
+  mMember: "Member",
   mOrganization: "Organization",
   mProfilePicture: "Profile Picture",
 

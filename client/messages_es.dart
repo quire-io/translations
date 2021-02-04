@@ -96,6 +96,7 @@ const esClient = const <String, String> {
   mProjectLot: "Carpeta Inteligente",
   mTask: "Tarea",
   mUser: "Usuario",
+  mMember: "Member",
   mOrganization: "Organización",
   mProfilePicture: "Foto de Perfil",
   mEntityNotFound: '[=entity] no encontrado',

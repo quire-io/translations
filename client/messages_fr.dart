@@ -96,6 +96,7 @@ const frClient = const <String, String> {
   mProjectLot: "Dossier Intelligent",
   mTask: "Tâche",
   mUser: "Utilisateur",
+  mMember: "Member",
   mOrganization: "Organisation",
   mProfilePicture: "Photo de Profil",
   mEntityNotFound: '[=entity] non trouvé',

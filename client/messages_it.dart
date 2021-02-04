@@ -96,6 +96,7 @@ const itClient = const <String, String> {
   mProjectLot: "Cartella intelligente",
   mTask: "Attività",
   mUser: "Utente",
+  mMember: "Member",
   mOrganization: "Organizzazione",
   mProfilePicture: "Immagine di Profilo",
   mEntityNotFound: '[=entity] non trovato',

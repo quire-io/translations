@@ -90,6 +90,7 @@ const trClient = const <String, String> {
   mProjectLot: "Akıllı Klasör",
   mTask: "Görev",
   mUser: "Kullanıcı",
+  mMember: "Member",
   mOrganization: "Organizasyon",
   mProfilePicture: "Profil Resmi",
   mEntityNotFound: '[=entity] bulunamadı',

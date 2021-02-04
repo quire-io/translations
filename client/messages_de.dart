@@ -90,6 +90,7 @@ const deClient = const <String, String> {
   mProjectLot: "Smarter Ordner",
   mTask: "Aufgaben",
   mUser: "Benutzer",
+  mMember: "Member",
   mOrganization: "Organisation",
   mProfilePicture: "Profilbild",
   mEntityNotFound: '[=entity] nicht gefunden',
