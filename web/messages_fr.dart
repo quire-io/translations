@@ -297,13 +297,14 @@ const frWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Pour définir des attributions, étiquettes, etc. rapidement '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sans la souris</a>, '
-    'tapez @, #, <, !, ^, / sur le clavier quand une (des) tâche(s) est (sont) sélectionnée(s).</p>'
+    'tapez @, #, <, !, ^, >, / sur le clavier quand une (des) tâche(s) est (sont) sélectionnée(s).</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Ajouter une attribution</li>"
     "<li><kbd>#</kbd> &mdash; Ajouter une étiquette</li>"
     "<li><kbd><</kbd> &mdash; Ajouter une date limite</li>"
     "<li><kbd>!</kbd> &mdash; Définir la priorité</li>"
-    "<li><kbd>^</kbd> &mdash; Ajouter la tâche à un tableau</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Définir le statut</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Menu contextuel pour le clic-droit",
@@ -405,14 +406,15 @@ const frWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     "<p>Pour définir rapidement les attributions, les étiquettes, etc.  "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sans la souris</a>, '
-    "tapez @, #, <, !, ^, / sur votre clavier quand une (des) tâche(s) est (sont) sélectionnée(s)."
+    "tapez @, #, <, !, ^, >, / sur votre clavier quand une (des) tâche(s) est (sont) sélectionnée(s)."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Ajouter une attribution</li>"
     "<li><kbd>#</kbd> &mdash; Ajouter une étiquette</li>"
     "<li><kbd><</kbd> &mdash; Ajouter une date d'échéance</li>"
     "<li><kbd>!</kbd> &mdash; Définir la priorité</li>"
-    "<li><kbd>^</kbd> &mdash; Ajouter à un tableau</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Définir le statut</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Clic-droit",

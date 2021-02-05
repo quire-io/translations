@@ -297,13 +297,14 @@ const esWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Para configurar rápidamente el asignatario, la etiqueta, etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sin el ratón</a>, '
-    'pulsa @, #, <, !, ^, / en el teclado cuando se selecione la(s) tarea(s).</p>'
+    'pulsa @, #, <, !, ^, >, / en el teclado cuando se selecione la(s) tarea(s).</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Añadir asignatario</li>"
     "<li><kbd>#</kbd> &mdash; Añadir etiqueta</li>"
     "<li><kbd><</kbd> &mdash; Añadir la fecha límite</li>"
     "<li><kbd>!</kbd> &mdash; Fijar la prioridad</li>"
-    "<li><kbd>^</kbd> &mdash; Añadir tarea al tablero</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Fijar status</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Menú contextual haciendo clic en el botón derecho del ratón",
@@ -405,14 +406,15 @@ const esWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     "<p>Para configurar rápidamente el asignatario, la etiqueta, etc  "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sin el ratón</a>, '
-    "pulsa @, #, <, !, ^, / en el teclado cuando se selecione la(s) tarea(s)."
+    "pulsa @, #, <, !, ^, >, / en el teclado cuando se selecione la(s) tarea(s)."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Añadir asignatario</li>"
     "<li><kbd>#</kbd> &mdash; Añadir etiqueta</li>"
     "<li><kbd><</kbd> &mdash; Añadir la fecha límite</li>"
     "<li><kbd>!</kbd> &mdash; Fijar la prioridad</li>"
-    "<li><kbd>^</kbd> &mdash; Añadir tarea al tablero</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Fijar status</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Menú contextual haciendo clic en el botón derecho del ratón",

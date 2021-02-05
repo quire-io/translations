@@ -297,13 +297,14 @@ const trWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Sorumluları, etiketleri vb. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
-    'hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <,!, ^, / tuşlarına basın.</p>'
+    'hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına basın.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
     "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
     "<li><kbd><</kbd> &mdash; Termin ekle</li>"
     "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
-    "<li><kbd>^</kbd> &mdash; Panoya görev ekle</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
@@ -405,14 +406,15 @@ const trWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     "<p>Sorumluları, etiketleri vb.  "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
-    "hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <,!, ^, / tuşlarına tıklayın."
+    "hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına tıklayın."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
     "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
     "<li><kbd><</kbd> &mdash; Termin ekle</li>"
     "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
-    "<li><kbd>^</kbd> &mdash; Görevi panoya ekle</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Sağ Tıklama Menüsü",

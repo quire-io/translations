@@ -297,13 +297,14 @@ const ptBrWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Para definir rapidamente o responsável, tag, etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sem o mouse</a>, '
-    'pressione @, #, <, !, ^, / no teclado quando as tarefas são selecionadas.</p>'
+    'pressione @, #, <, !, ^, >, / no teclado quando as tarefas são selecionadas.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Adicionar responsável</li>"
     "<li><kbd>#</kbd> &mdash; Adicionar tag</li>"
     "<li><kbd><</kbd> &mdash; Adicionar data limite</li>"
     "<li><kbd>!</kbd> &mdash; Definir prioridade</li>"
-    "<li><kbd>^</kbd> &mdash; Adicionar tarefa ao quadro</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Definir estado</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Menu de Contexto do Botão Direito",
@@ -405,14 +406,15 @@ const ptBrWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     "<p>Para definir rapidamente o responsável, tag, etc. "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">sem o mouse</a>, '
-    "pressione @, #, <, !, ^, / no teclado quando as tarefas são selecionadas."
+    "pressione @, #, <, !, ^, >, / no teclado quando as tarefas são selecionadas."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Adicionar responsável</li>"
     "<li><kbd>#</kbd> &mdash; Adicionar tag</li>"
     "<li><kbd><</kbd> &mdash; Adicionar data limite</li>"
     "<li><kbd>!</kbd> &mdash; Definir prioridade</li>"
-    "<li><kbd>^</kbd> &mdash; Adicionar tarefa ao quadro</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Definir estado</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Menu de Contexto do Botão Direito",

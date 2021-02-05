@@ -297,13 +297,14 @@ const jaWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>'
     '担当者やタグをすばやく設定するには、'
-    'タスクを選択して「@」や「#」「<」「!」「^」「/」キーを押します。</p>'
+    'タスクを選択して「@」や「#」「<」「!」「^」「>」「/」キーを押します。</p>'
     "<ul>"
     "<li><kbd>@</kbd>　担当者を追加</li>"
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd>　タスクをボードに追加</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
   mTutorialContextmenuTitle: "右クリックで設定メニューを表示",
@@ -405,14 +406,15 @@ const jaWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     '<p><a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">マウスを使わず</a>'
     '担当者やタグをササッと設定するには、'
-    "タスクを選択して「@」や「#」「<」「!」「^」「/」を押します。"
+    "タスクを選択して「@」や「#」「<」「!」「^」「>」「/」を押します。"
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd>　担当者を追加</li>"
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd>　タスクをボードに追加</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "右クリックで設定メニューを表示",

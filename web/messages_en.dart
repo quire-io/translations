@@ -376,13 +376,14 @@ const enWeb = const <String, String> {
   mTutorialQuickAssignContent: 
     '<p>To quickly set assignee, tag, etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-    'press @, #, <, !, ^, / on the keyboard when task(s) are selected.</p>'
+    'press @, #, <, !, ^, >, / on the keyboard when task(s) are selected.</p>'
     "<ul>"
       "<li><kbd>@</kbd> &mdash; Add assignee</li>"
       "<li><kbd>#</kbd> &mdash; Add tag</li>"
       "<li><kbd><</kbd> &mdash; Add due date</li>"
       "<li><kbd>!</kbd> &mdash; Set priority</li>"
-      "<li><kbd>^</kbd> &mdash; Add task to board</li>"
+      "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+      "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
       "<li><kbd>/</kbd> &mdash; Set status</li>"
     "</ul>",
 
@@ -503,7 +504,7 @@ const enWeb = const <String, String> {
   mBoardTutorialQuickAssignContent: 
     "<p>To quickly set assignee, tag, etc.  "
       '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">without the mouse</a>, '
-      "press @, #, <, !, ^, / on the keyboard when task(s) are selected."
+      "press @, #, <, !, ^, >, / on the keyboard when task(s) are selected."
     "</p>"
     "<ul>"
       "<li><kbd>@</kbd> &mdash; Add assignee</li>"
@@ -511,6 +512,7 @@ const enWeb = const <String, String> {
       "<li><kbd><</kbd> &mdash; Add due date</li>"
       "<li><kbd>!</kbd> &mdash; Set priority</li>"
       "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+      "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
       "<li><kbd>/</kbd> &mdash; Set status</li>"
     "</ul>",
 

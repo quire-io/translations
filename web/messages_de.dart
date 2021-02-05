@@ -293,13 +293,14 @@ const deWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Um schnell Beauftragte, Tags etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">ohne Maus</a> hinzuzufügen, '
-    'drücken Sie @, #, <, !, ^, / wenn Aufgaben ausgewählt wurden.</p>'
+    'drücken Sie @, #, <, !, ^, >, / wenn Aufgaben ausgewählt wurden.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Beauftragten hinzufügen</li>"
     "<li><kbd>#</kbd> &mdash; Tag hinzufügen</li>"
     "<li><kbd><</kbd> &mdash; Fälligkeitsdatum hinzufügen</li>"
     "<li><kbd>!</kbd> &mdash; Priorität hinzufügen</li>"
-    "<li><kbd>^</kbd> &mdash; Aufgabe zu einem Board hinzufügen</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Status hinzufügen</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Rechtsklick Kontextmenü",
@@ -399,13 +400,14 @@ const deWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     '<p>Um schnell Beauftragte, Tags etc. '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">ohne Maus</a> hinzuzufügen, '
-    'drücken Sie @, #, <, !, ^, / wenn Aufgaben ausgewählt wurden.</p>'
+    'drücken Sie @, #, <, !, ^, >, / wenn Aufgaben ausgewählt wurden.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Beauftragten hinzufügen</li>"
     "<li><kbd>#</kbd> &mdash; Tag hinzufügen</li>"
     "<li><kbd><</kbd> &mdash; Fälligkeitsdatum hinzufügen</li>"
     "<li><kbd>!</kbd> &mdash; Priorität hinzufügen</li>"
-    "<li><kbd>^</kbd> &mdash; Aufgabe zu einem Board hinzufügen</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Status hinzufügen</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Rechtsklick Kontextmenü",

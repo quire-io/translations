@@ -297,13 +297,14 @@ const itWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Per impostare rapidamente assegnatario, etichetta, ecc... '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">senza il mouse</a>, '
-    'Premi @, #, <, !, ^, / sulla tastiera quando sono selezionate le attività.</p>'
+    'Premi @, #, <, !, ^, >, / sulla tastiera quando sono selezionate le attività.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Aggiungi assegnatario</li>"
     "<li><kbd>#</kbd> &mdash; Aggiungi etichetta</li>"
     "<li><kbd><</kbd> &mdash; Aggiungi data di scadenza</li>"
     "<li><kbd>!</kbd> &mdash; Imposta la priorità</li>"
-    "<li><kbd>^</kbd> &mdash; Aggiungi attività alla bacheca</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Imposta lo stato</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Menu contestuale del tasto destro",
@@ -405,14 +406,15 @@ const itWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     '<p>Per impostare rapidamente assegnatario, etichetta, ecc... '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">senza il mouse</a>, '
-    'Premi @, #, <, !, ^, / sulla tastiera quando sono selezionate le attività.'
+    'Premi @, #, <, !, ^, >, / sulla tastiera quando sono selezionate le attività.'
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Aggiungi assegnatario</li>"
     "<li><kbd>#</kbd> &mdash; Aggiungi etichetta</li>"
     "<li><kbd><</kbd> &mdash; Aggiungi data di scadenza</li>"
     "<li><kbd>!</kbd> &mdash; Imposta la priorità</li>"
-    "<li><kbd>^</kbd> &mdash; Aggiungi attività alla bacheca</li>"
+    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
+    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
     "<li><kbd>/</kbd> &mdash; Imposta lo stato</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Menu contestuale del tasto destro",
