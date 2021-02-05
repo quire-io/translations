@@ -341,7 +341,7 @@ const trClient = const <String, String> {
   mZoomOutTask: "Uzaklaştır (a)",
   mPinViewTab: "Sabitle",
   mUnpinViewTab: "Sabitlemeyi Bırak",
-  mUnpinRightTabs: "Unpin all tabs to the right",
+  mUnpinRightTabs: "Unpin tabs to the right",
   mTreeTagTooltip: "Etiket",
   mClearDate: "Tarihi Temizle",
   mTreeMenuSetPriority: "Öncelik belirle",

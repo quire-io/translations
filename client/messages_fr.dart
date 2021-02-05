@@ -347,7 +347,7 @@ const frClient = const <String, String> {
   mZoomOutTask: "Dézoomer (a)",
   mPinViewTab: "Épingler",
   mUnpinViewTab: "Désépingler",
-  mUnpinRightTabs: "Unpin all tabs to the right",
+  mUnpinRightTabs: "Unpin tabs to the right",
   mTreeTagTooltip: "Étiquette",
   mClearDate: "Retirer la date",
   mTreeMenuSetPriority: "Définir la priorité",

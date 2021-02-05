@@ -347,7 +347,7 @@ const esClient = const <String, String> {
   mZoomOutTask: "Alejar (a)",
   mPinViewTab: "Fijar",
   mUnpinViewTab: "Soltar",
-  mUnpinRightTabs: "Unpin all tabs to the right",
+  mUnpinRightTabs: "Unpin tabs to the right",
   mTreeTagTooltip: "Etiqueta",
   mClearDate: "Fecha límite",
   mTreeMenuSetPriority: "Asignar prioridad",
