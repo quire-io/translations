@@ -325,7 +325,6 @@ const ptWeb = const <String, String> {
   mBoardTutorialDesc:
     "Tenha uma visão geral do seu projeto com um quadro Kanban flexível, mas poderoso. "
     "Visualize o progresso da equipa e avance a caminho do sucesso!",
-
   mBoardTutorialSwitchBoardViewTitle: "Mudar para Vista de Quadro desde a Árvore",
   mBoardTutorialSwitchBoardViewContent:
     "<p>No canto superior direito da sua vista em Árvore, escolha o ícone “Quadro”.</p>"
@@ -340,7 +339,7 @@ const ptWeb = const <String, String> {
     "<ol>"
     "<li>Pode selecionar uma tarefa existente numa coluna e pressionar “Enter” para criar uma nova tarefa do mesmo nível ou “Shift + Enter” para criar uma sub-tarefa que se vincule à tarefa mãe existente escolhida.</li>"
     "<p>[=video]</p>"
-    "<li>No canto inferior de cada coluna, clique em "Adicionar tarefas" e comece a digitar o nome da tarefa e quaisquer parâmetros (por exemplo, Colaborador, prioridade, etc.). Depois, pressione Enter para guardar a sua nova tarefa.</li>"
+    '<li>No canto inferior de cada coluna, clique em "Adicionar tarefas" e comece a digitar o nome da tarefa e quaisquer parâmetros (por exemplo, Colaborador, prioridade, etc.). Depois, pressione Enter para guardar a sua nova tarefa.</li>'
     "</ol>"
     "</li></ul>",
   mBoardTutorialCreateTaskTip: 'Dica: aproveite a funcionalidade <a href="/guide/inline-assign/">atribuição em linha</a> para poupar tempo ao adicionar novos parâmetros a uma tarefa.',

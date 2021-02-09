@@ -322,10 +322,9 @@ const ptBrWeb = const <String, String> {
   mTimelineTutorialLinkTitle: "Mapeie a cronologia do projeto com o Cronograma do Quire",
   mSignupToday: "Vamos começar hoje no Quire!",
   mBoardTutorialTitle: "Tutorial Quire - Quadro Kanban",
-   mBoardTutorialDesc:
+  mBoardTutorialDesc:
     "Tenha uma visão geral de seu projeto com um quadro Kanban flexível, mas poderoso. "
     "Visualize o progresso da equipe e siga em frente para o sucesso!",
-
   mBoardTutorialSwitchBoardViewTitle: "Mudar para Vista de Quadro desde a Árvore",
   mBoardTutorialSwitchBoardViewContent:
     "<p>No canto superior direito de sua vista em Árvore, escolha o ícone “Quadro”.</p>"
@@ -340,7 +339,7 @@ const ptBrWeb = const <String, String> {
     "<ol>"
     "<li>Você pode selecionar uma tarefa existente em uma coluna e pressionar “Enter” para criar uma nova tarefa de mesmo nível ou “Shift + Enter” para criar uma subtarefa que se vincule à tarefa mãe existente escolhida.</li>"
     "<p>[=video]</p>"
-    "<li>No canto inferior de cada coluna, clique em "Adicionar tarefas" e comece a digitar o nome da tarefa e quaisquer parâmetros (por exemplo, Responsável, prioridade, etc.). Em seguida, pressione Enter para salvar sua nova tarefa.</li>"
+    '<li>No canto inferior de cada coluna, clique em "Adicionar tarefas" e comece a digitar o nome da tarefa e quaisquer parâmetros (por exemplo, Responsável, prioridade, etc.). Em seguida, pressione Enter para salvar sua nova tarefa.</li>'
     "</ol>"
     "</li></ul>",
   mBoardTutorialCreateTaskTip: 'Dica: aproveite a funcionalidade <a href="/guide/inline-assign/">atribuição em linha</a> para economizar tempo ao adicionar novos parâmetros a uma tarefa.',
