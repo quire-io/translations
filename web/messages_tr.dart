@@ -491,21 +491,21 @@ const trWeb = const <String, String> {
   mTimelineTutorialSwitchViewTip: 'İpucu: Her görev listesinin kendi Ağaç görünümü <a href="https://quire.io/blog/p/board.html">Pano</a> görünümü Zaman Çizelgesi görünümü vardır.',
   mTimelineTutorialNestedListTitle: "İç İçe Görev Listesi ile Zaman Çizelgesini Yan Yana Görüntüleyin ",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>Ana ekranınız iki görünüme bölünecek: "
+    "sol tarafta sizi bağlam içinde tutan iç içe geçmiş görev listesi ve sağ tarafta Zaman Çizelgesi görünümü bulunur. "
+    "Liste ve Zaman Çizelgesi görünümü arasındaki ayırma çizgisinin üzerine gelerek görev listesini yeniden boyutlandırabilirsiniz.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Göreviniz daha önce planlanmışsa (bir başlangıç tarihi veya bitiş tarihi varsa), "
+    "görevin sonunda bu görevle ilişkili bir zaman çerçevesi olduğunu gösteren bir nokta olacaktır. "
+    "Görev zaman aralığı çubuğuna hızlıca kaydırmak için noktaya tıklayın.</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Görev sırasını yeniden düzenlemek için görevin kendisini sürükleyerek veya zaman aralığı çubuğunu tutarak görev listesini yeniden düzenleyebilirsiniz.</p>",
+  mTimelineTutorialNestedListTip: "İpucu: Zaman çizelgesinde daha fazla ayrıntı görmek için proje adının yanındaki açılır menüye tıklayabilir ve 'Tam ekrana gir'i seçebilirsiniz.",
+  mTimelineTutorialAddTaskTitle: "Zaman Çizelgesi Görünümünde Yeni Görevler Ekle",
+  mTimelineTutorialAddTaskContent: "<p>İç içe geçmiş görev listesini açın ve mevcut bir görevi seçin ve ardından aynı seviyede yeni bir görev oluşturmak için 'Enter' tuşuna veya bir alt görev oluşturmak için 'Shift + Enter' tuşuna basın.</p>",
+  mTimelineTutorialAddTaskTip: "İpucu: Zaman Çizelgesi görünümünü genişletmek için yeni bir görev oluşturduktan sonra iç içe geçmiş liste görünümünü gizlemeyi seçebilirsiniz.",
+  mTimelineTutorialRescheduleTitle: "Zaman çizelgenizi yeniden planlayın",
   mTimelineTutorialRescheduleContent:
     "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
     "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
