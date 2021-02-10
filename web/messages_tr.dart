@@ -507,15 +507,15 @@ const trWeb = const <String, String> {
   mTimelineTutorialAddTaskTip: "İpucu: Zaman Çizelgesi görünümünü genişletmek için yeni bir görev oluşturduktan sonra iç içe geçmiş liste görünümünü gizlemeyi seçebilirsiniz.",
   mTimelineTutorialRescheduleTitle: "Zaman çizelgenizi yeniden planlayın",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>İdeal olan tüm terminlere uymaktır, ancak bazen hayat araya girebilir. "
+    "Bu nedenle, proje bant genişliğini daha iyi yönetmek için programınızı her zaman yeniden düzenlemelisiniz.</p>"
+    "<p>Görevinizin süresini görmek istiyorsanız, "
+    "zaman aralığı çubuğunun üzerine gelebilirsiniz ve görevin planı zaman aralığı çubuğunun altında gösterilecektir.</p>"
+    "<p>Görevin başlangıç veya bitiş tarihinin üzerine gelin ve süreyi uzatın veya kısaltın. "
+    "Tüm çubuğu birlikte taşımak veya sürüklemek için tıklayabilirsiniz.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Hata mı yaptınız? Endişelenmeyin, her zaman üst köşedeki Geri Al düğmesine tıklayabilir ve hareketinizi geri alabilirsiniz.</p>",
   mTimelineTutorialRescheduleTip:
     "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
     "you can actually change the start or due date at the grid column or in the task’s detail panel.",
