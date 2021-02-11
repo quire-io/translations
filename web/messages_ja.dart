@@ -303,8 +303,8 @@ const jaWeb = const <String, String> {
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd>　ボードに追加</li>"
+    "<li><kbd>></kbd>　プロジェクトに移動</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
   mTutorialContextmenuTitle: "右クリックで設定メニューを表示",
@@ -323,48 +323,48 @@ const jaWeb = const <String, String> {
   mSignupToday: "今日からQuireで始めましょう！",
   mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
-    "階層タスクリストにアイデアを詰め込んだら、"
-    "プロジェクトの開始です。<br>"
-    'かんばんボードで作業の流れを可視化して、'
-    '選択したタスクに<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">集中</a>しましょう。',
-  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+    "フレキシブルでパワフルなかんばんボードで、プロジェクトを概観できます。"
+    "進捗を可視化して、チームとともに進みましょう。"
+    
+    
+  mBoardTutorialSwitchBoardViewTitle: "階層表示からボード表示に切り替え",
   mBoardTutorialSwitchBoardViewContent:
-    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
+    "<p>階層表示の右上にある「ボード」アイコンをクリックします。</p>"
     "<p>[=img]</p>"
-    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
-  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
-  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
-  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+    "タスクをフィルターアイコンでフィルター、または検索機能で検索して選び出し、「作成」をクリックしてこのリストをボード表示することもできます。",
+  mBoardTutorialReorderColumnsTitle: "ボード表示で欄を並べ替え",
+  mBoardTutorialReorderColumnsContent: "<p>ボード表示で欄の順序を変更するには、欄のヘッダー部分を掴んで好きな位置に移動します。</p>",
+  mBoardTutorialCreateTaskTitle: "ボード表示でタスクを作成",
   mBoardTutorialCreateTaskContent:
-    "<p>There are two ways to create a task in Board view:</p>"
+    "<p>ボード表示でのタスク作成には、2つの方法があります。</p>"
     '<ul class="list-unstyled"><li>'
     "<ol>"
-    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<li>欄で既存のタスクを選択し、「Enter」キーを押して同じレベルに、「Shift＋Enter」キーを押して子レベルにタスクを作成します。</li>"
     "<p>[=video]</p>"
-    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "<li>欄の下方で「タスクを追加」をクリックし、タスクの名前と、担当者や優先度など関連情報を追加してから、「Enter」キーを押して保存します。</li>"
     "</ol>"
     "</li></ul>",
-  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
-  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialCreateTaskTip: 'ヒント：<a href="/guide/inline-assign/">インライン設定</a>機能を使うと、すばやく情報を追加できます。',
+  mBoardTutorialTrackProgressTitle: "ボードでいつでも進捗を確認",
   mBoardTutorialTrackProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
-  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
-  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+    "<p>タスクは欄の中で優先度に応じて入れ替えたり、進捗に合わせて別の欄にドラッグ＆ドロップしたりすることもできます。</p>"
+    "<p>プロジェクトの動きがひと目で分かります。</p>",
+  mBoardTutorialTrackProgressTip: "ヒント：タスクを名前で並べ替えたり、更新の週や完了の週でグループ化したりしたときは、ドラッグによる並べ替えはできません。",
+  mBoardTutorialAddMoreDetailTitle: "ボード表示で情報を追加",
   mBoardTutorialAddMoreDetailContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
-  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
-  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+    "<p>「日付」「担当者」「タグ」アイコンをクリックして、</p>"
+    "<p>開始日、期限日、担当者、タグなどの情報を設定できます。</p>",
+  mBoardTutorialAddMoreDetailTip: 'ヒント：キーボードで「Space」キーを押して<a href="/guide/descriptions/">詳細パネル</a>を表示し、説明や添付ファイル、コメントを追加できます。',
+  mBoardTutorialSwimlaneTitle: "かんばんボードのスイムレーンについて",
   mBoardTutorialSwimlaneContent:
-    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
-    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+    "<p>欄にタスクがたまって、作業量や各メンバーの進捗が分かりにくくなってきた……。</p>"
+    "<p>そんなときはフィルターや並べ替え機能を使い、特定の条件でタスクをグループ化してみましょう。例えば担当者でグループ化して、各メンバーの担当タスクを確認できます。</p>",
+  mBoardTutorialShuffleColumnTitle: "ボード表示で欄をシャッフル",
   mBoardTutorialShuffleColumnContent:
-    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
-    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
+    "<p>ボード表示のデフォルトでは、タスクが状態別にグループ化され、プロジェクトの特定の段階ごとに1つの欄に表示されます。各欄の段階は、ヘッダーにある円グラフで確認できます。</p>"
+    "<p>状態以外でグループ化するには、「ボード」アイコンを再度クリックして、別のグループ化の方法を選択します。</p>"
     "<p>[=img]</p>"
-    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
+    "<p>欄内でのタスクの順番は、階層表示のときと同じです。タスクはドラッグして、上下や別の欄に移動できます。</p>",
   mBoardTutorialShortcutTitle: "便利なショートカットキー",
   mBoardTutorialShortcutContent:
     "<h3>追加と編集</h3>"
@@ -413,8 +413,8 @@ const jaWeb = const <String, String> {
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd>　ボードに追加</li>"
+    "<li><kbd>></kbd>　プロジェクトに移動</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "右クリックで設定メニューを表示",
@@ -482,69 +482,69 @@ const jaWeb = const <String, String> {
     "<p>課題を1つずつ達成して、夢をかたちにしてください。</p>",
   mTimelineTutorialTitle: "Quireチュートリアル - タイムライン",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "プロジェクトが進まない理由が分からない。そんなときは、"
+    "タスクリストをタップしてタイムライン表示に切り替え、見やすい時系列で確認してみましょう。",
+  mTimelineTutorialSwitchViewTitle: "タイムライン表示から階層表示に切り替え",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>右上にある3つのボタンから、プロジェクトやサブリストの表示を切り替えることができます。"
+    "タイムラインボタンをクリックすると、ガントチャート（タイムライン）表示に切り替わり、すべてのタスクが期間表示されます。</p>",
+  mTimelineTutorialSwitchViewTip: 'ヒント：階層表示、<a href="https://quire.io/blog/p/board.html">ボード</a>表示、タイムライン表示の内容は、タスクリストごとに異なります。',
+  mTimelineTutorialNestedListTitle: "タイムラインと階層タスクリストを並べて表示",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>メインペインは2つに分かれています。"
+    "左側に関係が分かりやすい階層タスクリスト、右側にタイムラインが表示されます。"
+    "間の分割ラインをマウスでドラッグし、各エリアの幅を調整できます。</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>開始日または期限日が設定されているタスクには、"
+    "期間があることを示す丸い点が末尾に表示されます。"
+    "この点をクリックすると、タイムラインバーがその日付にまで一気にスライドされます。</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>タスクはタスクリストでドラッグするか、タイムラインバーを掴んで、並べ替えることができます。</p>",
+  mTimelineTutorialNestedListTip: "ヒント：プロジェクトの名前の後ろにあるドロップダウンメニューから「全画面表示にする」を選択して、タイムラインの詳細を表示できます。",
+  mTimelineTutorialAddTaskTitle: "タイムライン表示で新しいタスクを追加",
+  mTimelineTutorialAddTaskContent: "<p>階層タスクリストを開いて既存のタスクを選択し、「Enter」キーを押して同じレベルに、「Shift＋Enter」キーを押して子レベルにタスクを作成できます。</p>",
+  mTimelineTutorialAddTaskTip: "ヒント：タスク作成後にリストを非表示にして、タイムライン表示エリアを広げることができます。",
+  mTimelineTutorialRescheduleTitle: "期間を変更",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>期限は厳守が理想的ですが、現実には必ずしもそうはいきません。"
+    "プロジェクトの管理中に、予定の時間幅を調整できる必要があるのは、そのためです。</p>"
+    "<p>タスクの期間は、"
+    "タイムラインバーにカーソルを当てると、バーのすぐ下に表示されます。</p>"
+    "<p>バーの端（開始日または期限日）にカーソルを移動させてドラッグするだけで調整できます。"
+    "バー自体も、マウスで掴んでドラッグし、移動することができます。</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>間違えたときは、右上隅の「元に戻す」ボタンをクリックして、操作を取り消すことができます。</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "ヒント：バーをドラッグしにくいときは、"
+    "グリッド欄またはタスクの詳細パネルで、直接開始日や期限日を変更できます。",
+  mTimelineTutorialColorTitle: "タイムラインを好きな色に変える",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>可視化が目的のタイムライン表示では、タスクがひと目で区別できることが大切です。"
+    "タスクの色はそのままにしておくことも、優先度、タグ、日付で変えることもできます。</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>親タスクと子タスクで期間が異なるときは、"
+    "親タスクのバーが子タスクの期間にまで灰色のストライプで延長して表示されます。</p>",
+  mTimelineTutorialColorTip: "ヒント：色の意味について、詳しくはこのガイドをご覧ください。",
+  mTimelineTutorialGridViewTitle: "グリッド表示でタスクリストをカスタマイズ",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>タイムライン表示では、タスクリストにある情報のごく一部しか表示されないため、"
+    "タイムラインボタンをクリックして、グリッド表示にすることもできます。</p>"
+    "<p>リストに表示される情報は、デフォルトでは"
+    "「状態」「優先度」「担当者」「タグ」「開始」「期限」ですが、他にも選択できます。"
+    "選択した後、見やすいように欄の幅を調整できます。</p>",
+  mTimelineTutorialNavigateTitle: "タイムラインを便利に使う",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>「Shift」キーを押しながら複数のタスクを選択し、予定をまとめて変更できます。</li>"
+    "<li>上部のカレンダーを掴んで左右に移動させましょう。</li>"
+    "<li>右上の「今日」ボタンをクリックすると、今日の日付にジャンプします。</li>"
+    "<li>タイムラインは日、週、月、年単位で表示でき、週末を非表示にすることもできます。</li>"
+    "<li>フィルターでタイムラインを思い通りに並べ替え、グループ化しましょう。タスクは状態、担当者、優先度別に表示できます。</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Quireタイムラインについては、これで完璧です。次のマイルストーンの達成に、楽しみながら活用してください！</p>",
   mLearnMoreDoc: "もっと詳しく",
   mGettingStartedLinkTitle: "初めてガイドで機能を確認",
   mBlogLinkTitle: "Quireブログでお知らせや使いこなしのヒントをチェック",
