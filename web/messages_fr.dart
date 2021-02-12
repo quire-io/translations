@@ -303,8 +303,8 @@ const frWeb = const <String, String> {
     "<li><kbd>#</kbd> &mdash; Ajouter une étiquette</li>"
     "<li><kbd><</kbd> &mdash; Ajouter une date limite</li>"
     "<li><kbd>!</kbd> &mdash; Définir la priorité</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; Ajouter à une sous-liste</li>"
+    "<li><kbd>></kbd> &mdash; Transférer à un projet</li>"
     "<li><kbd>/</kbd> &mdash; Définir le statut</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Menu contextuel pour le clic-droit",
@@ -323,15 +323,13 @@ const frWeb = const <String, String> {
   mSignupToday: "Commençons sur Quire aujourd'hui !",
   mBoardTutorialTitle: "Tutoriel de Quire - Tableau Kanban",
   mBoardTutorialDesc:
-    "Après avoir ajouté et organisé vos idées dans la liste des tâches, "
-    "c'est le moment de travailler sur votre projet !<br>"
-    '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Concentrez-vous</a> '
-    "sur certaines tâches et visualisez votre travail avec le tableau Kanban.",
-  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+    "Profitez d'une vue d'ensemble sur votre projet grâce aux tableaux Kanban, à la fois flexibles et puissants."
+    "Constatez l'avancée de votre équipe, jusqu'au succès !",
+  mBoardTutorialSwitchBoardViewTitle: "Passer de l'affichage en arbre à l'affichage en tableau",
   mBoardTutorialSwitchBoardViewContent:
-    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
+    "<p>En haut à droite de l'affichage en arbre, sélectionnez l'icône \"Tableau\".</p>"
     "<p>[=img]</p>"
-    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
+    "Vous pouvez utiliser l'icône \"Filtre\" pour filtrer les tâches que vous voulez sélectionner ou utilisez le champ de recherche pour trouver des tâches. Cliquez ensuite sur \"Créer\" pour afficher le tableau correspondant à cette sous-liste.",
   mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
   mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
   mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
@@ -413,8 +411,8 @@ const frWeb = const <String, String> {
     "<li><kbd>#</kbd> &mdash; Ajouter une étiquette</li>"
     "<li><kbd><</kbd> &mdash; Ajouter une date d'échéance</li>"
     "<li><kbd>!</kbd> &mdash; Définir la priorité</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; Ajouter à une sous-liste</li>"
+    "<li><kbd>></kbd> &mdash; Transférer à un projet</li>"
     "<li><kbd>/</kbd> &mdash; Définir le statut</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Clic-droit",
