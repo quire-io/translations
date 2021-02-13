@@ -480,71 +480,71 @@ const esWeb = const <String, String> {
     "y de la productividad de tu equipo! ¡La productivity se basa en centrarse en "
     "lo correcto, en el momento oportuno!</p>"
     "<p>¡Ponte en marcha y alcanza tus sueños!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Quire Tutorial - Línea del tiempo",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "¿Tienes problemas para detectar obstáculos en tu proyecto? Con un solo toque, "
+    "cambia tu lista de tareas a una vista de línea de tiempo y comienza a visualizar tu proyecto con un marco de tiempo fácil de entender.",
+  mTimelineTutorialSwitchViewTitle: "Cambiar a la vista de línea de tiempo desde la vista de árbol",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>En la esquina superior derecha, verás tres botones que se asocian con diferentes vistas de tu proyecto y sublistas. "
+    "Haz click en el botón Línea de tiempo para cambiar tu proyecto a una vista de diagrama de Gantt (línea de tiempo) y todas sus tareas tendrán sus plazos.</p>",
+  mTimelineTutorialSwitchViewTip: 'Consejo: Cada lista de tareas tiene su propia vista de árbol, <a href="https://quire.io/blog/p/board.html">Board</a> y vista de la línea de tiempo.',
+  mTimelineTutorialNestedListTitle: "Ver la línea de tiempo en paralelo con la lista de tareas anidadas",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>La pantalla principal se dividirá en dos vistas: "
+    "en el lado izquierdo está la lista de tareas anidadas que te mantiene en contexto y en el lado derecho está la vista de la línea de tiempo. "
+    "Puedes cambiar el tamaño de la lista de tareas pasando por encima de la línea de separación entre la lista y la vista de la línea de tiempo.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Si tu tarea ha sido programada con anterioridad (teniendo una fecha de inicio o una fecha de vencimiento), "
+    "habrá un punto al final de la tarea que indica que hay un período de tiempo asociado a esta tarea. "
+    "Haz click en el punto para deslizarte rápidamente a la barra de intervalo de tiempo de la tarea.</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Puedes reordenar la lista de tareas arrastrando la propia tarea tarea en sí o tomando la barra de intervalo de tiempo para reorganizar el orden de las tareas .</p>",
+  mTimelineTutorialNestedListTip: "Consejo: Puedes hacer click en el menú desplegable junto al nombre del proyecto y elegir “Entrar en pantalla completa” para ver más detalles en la línea de tiempo.",
+  mTimelineTutorialAddTaskTitle: "Añadir nuevas tareas en la vista de línea de tiempo",
+  mTimelineTutorialAddTaskContent: "<p>Abre la lista de tareas anidadas y selecciona una tarea existente, luego presiona  “Intro” para crear una tarea del mismo nivel, o “Mayus + Intro” para crear una subtarea.</p>",
+  mTimelineTutorialAddTaskTip: "Consejo: Puedes optar por ocultar la vista de lista anidada después de crear una nueva tarea para ampliar la vista de la línea de tiempo.",
+  mTimelineTutorialRescheduleTitle: "Reprograma tu línea del tiempo",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>Es ideal cuando se cumplen todos los plazos, pero a veces la vida se interpone. "
+    "Por eso siempre hay que reorganizar el calendario para gestionar mejor el proyecto.</p>"
+    "<p>Si quieres ver la duración de tu tarea, "
+    "puedes pasar el ratón por la barra de intervalo de tiempo y la programación de la tarea se mostrará debajo de la barra de intervalo de tiempo.</p>"
+    "<p>Simplemente coloca el cursor sobre la fecha de inicio o vencimiento de la tarea y extienda o acorte la duracción del tiempo. "
+    "Puedes hacer click para mover o arrastrar toda la barra.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>¿Te has equivocado? No te preocupes, siempre puedes hacer click en el botón de deshacer en la esquina superior y deshacer tu movimiento.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Consejo: Si no te sientes muy seguro arrastrando y soltando la barra de tiempo, "
+    "puedes cambiar la fecha de inicio o de vencimiento en la columna de la cuadrícula o en el panel de detalles de la tarea.",
+  mTimelineTutorialColorTitle: "Colorea la vista de la línea de tiempo como quieras ",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>La línea de tiempo es principalmente para visualizar, por lo que es importante que cada tarea se destaque visualmente. "
+    "Puedes elegir colorear tus tareas por prioridad, etiqueta, fecha o simplemente dejarlas sin personalizar.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Si una tarea principal tiene una duracción diferente a la de sus subtareas, en la vista de la línea de tiempo "
+    "la barra de duración de la tarea principal también se marcará como una barra gris que cubre el tiempo de duración de las subtareas también.</p>",
+  mTimelineTutorialColorTip: "Consejos: Los significados de los colores se pueden encontrar en esta guía detallada.",
+  mTimelineTutorialGridViewTitle: "Personaliza la lista de tareas con la vista de cuadrícula",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Dado que la vista de la línea de tiempo sólo puede mostrar detalles muy limitados de la lista de tareas, "
+    "puedes pulsar el botón de la línea de tiempo y activar la vista de cuadrícula.</p>"
+    "<p>Puedes elegir los detalles de la tarea que desees mostrar en su lista, "
+    "las seleccionadas por defecto son “Status”, “Prioridad”, “Asignados”, “Etiqueta”, “Inicio”, and “Vencimiento”. "
+    "Después de elegir la opción que deseas mostrar, puedes cambiar el tamaño de la columna si es necesario.</p>",
+  mTimelineTutorialNavigateTitle: "Navega por la línea de tiempo",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Selecciona varias tareas con “Mayús” y reprográmalas todas a la vez.</li>"
+    "<li>Selecciona y arrastra el encabezado del calendario y muévete a la derecha o a la izquierda.</li>"
+    "<li>Pulsa el botón “Hoy” en la esquina superior derecha para saltar a la fecha de Hoy.</li>"
+    "<li>Cambia la vista de la línea de tiempo a vista de Día, vista de Semana, vista de Mes, vista de Año y elija mostrar los fines de semana o no.</li>"
+    "<li>Usa el filtro para clasificar y agrupar tu línea de tiempo en el orden que desees. Puedes elegir ver su línea de tiempo por status, asignados o prioridad.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>¡Ahora has aprendido todo sobre la Línea de Tiempo de Quire y estás listo para lograr el siguiente hito de tu proyecto! ¡Anímate y diviértete!</p>",
   mLearnMoreDoc: "Más información",
   mGettingStartedLinkTitle: "En nuestra Guía de Inicio",
   mBlogLinkTitle: "Noticias, consejos e inspiraciones en nuestro Blog",
