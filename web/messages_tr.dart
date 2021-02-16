@@ -61,12 +61,12 @@ const trWeb = const <String, String> {
     "İstediğiniz her şey ve işleri halletmek için ihtiyacınız olan her şey. <br>"
     "Kendiniz görün, şimdi kaydolun.",
   mFeaturesMigrationSectionTitle: "Daha iyi bir şey mi arıyorsunuz?",
-  mFeaturesMigrationAsanaButton: "Asana'dan geçin",
-  mFeaturesMigrationTrelloButton: "Trello'den geçin",
-  mFeaturesMigrationWunderlistButton: "Wunderlist'ten geçin",
+  mFeaturesMigrationAsanaButton: "Asana'dan geçiş yapın",
+  mFeaturesMigrationTrelloButton: "Trello'dan geçiş yapın",
+  mFeaturesMigrationWunderlistButton: "Wunderlist'ten geçiş yapın",
   mFeaturesCompareWrikeButton: "Wrike ile karşılaştır",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
-  mFeaturesMigrationOthersButton: "Diğer uygulamalardan geçin",
+  mFeaturesMigrationTodoistButton: "Todoist'ten geçiş yapın",
+  mFeaturesMigrationOthersButton: "Diğer uygulamalardan geçiş yapın",
   mFeatureHierarchyTitle: "İç İçe Geçmiş Görev Listesi",
   mFeatureHierarchyDesc: "Büyük projeleri küçük, yönetilebilir adımlara bölerek yönetin.",
   mFeatureBoardTitle: "Kanban Panosu",
@@ -295,9 +295,9 @@ const trWeb = const <String, String> {
     "</ul>",
   mTutorialQuickAssignTitle: "Hızlı Atama",
   mTutorialQuickAssignContent:
-    '<p>Sorumluları, etiketleri vb. '
+    '<p>Atanı, etiketi vb. hızlı bir şekilde ayarlamak için '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
-    'hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına basın.</p>'
+    'görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına basın.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
     "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
@@ -323,48 +323,46 @@ const trWeb = const <String, String> {
   mSignupToday: "Bugüne Quire ile başlayalım!",
   mBoardTutorialTitle: "Quire Kılavuzu - Kanban Panosu",
   mBoardTutorialDesc:
-    "Tüm fikirlerinizi iç içe görev listesi görünümünde toplayıp düzenledikten sonra, "
-    "projeniz üzerinde çalışma zamanı!<br>"
-    'Kanban panosuyla seçilen görevlere <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">odaklanın</a> '
-    "ve iş akışınızı görselleştirin.",
-  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+    "Esnek ancak güçlü bir Kanban panosu ile projenizin kuş bakışı görünümünü elde edin."
+    "Takımın ilerlemesini görselleştirin ve başarıya doğru ilerleyin!",
+  mBoardTutorialSwitchBoardViewTitle: "Ağaç Görünümünden Pano Görünümüne Geçme",
   mBoardTutorialSwitchBoardViewContent:
-    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
+    "<p>Ağaç görünümünüzün sağ üst köşesinde, 'Pano' simgesini seçin. </p>"
     "<p>[=img]</p>"
-    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
-  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
-  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
-  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+    "Seçmek istediğiniz görevleri filtrelemek için Filtre simgesini kullanabilir veya görevleri bulmak için Ara işlevini kullanabilirsiniz. Ardından bu Alt Liste için Pano görünümünüze girmek için 'Oluştur'u tıklayın. ",
+  mBoardTutorialReorderColumnsTitle: "Pano Görünümünde Sütunları Yeniden Sıralama",
+  mBoardTutorialReorderColumnsContent: "<p>Pano görünümünde sütunlarınızın varsayılan sırasını beğenmezseniz, sütun başlığını yakalayabilir ve sütunu yeni bir hedefe taşımaya başlayabilirsiniz.</p>",
+  mBoardTutorialCreateTaskTitle: "Pano Görünümünde Görev Oluşturma",
   mBoardTutorialCreateTaskContent:
-    "<p>There are two ways to create a task in Board view:</p>"
+    "<p>Pano görünümünde görev oluşturmanın iki yolu vardır:</p>"
     '<ul class="list-unstyled"><li>'
     "<ol>"
-    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<li>Bir sütundaki mevcut bir görevi seçebilir ve aynı seviyede yeni bir görev oluşturmak için 'Enter' tuşuna veya seçilen mevcut ana göreve bağlanan bir alt görev oluşturmak için 'Shift + Enter' tuşuna basabilirsiniz.</li>"
     "<p>[=video]</p>"
-    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "<li>Her sütunun alt köşesinde, 'Görev ekle'yi tıklayın, ardından görev adınızı ve herhangi bir parametreyi (örn. sorumlu, öncelik vb.) yazmaya başlayın. Ardından yeni görevinizi kaydetmek için enter tuşuna basın.</li>"
     "</ol>"
     "</li></ul>",
-  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
-  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialCreateTaskTip: 'İpucu: Göreve yeni parametreler eklerken zaman kazanmak için <a href="/guide/inline-assign/">satır içi atama</a> işlevinden yararlanın. ',
+  mBoardTutorialTrackProgressTitle: "Pano Görünümüyle İlerlemeyi İzleme",
   mBoardTutorialTrackProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
-  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
-  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+    "<p>Daha yüksek öncelik için sütundaki görevleri yeniden konumlandırabilirsiniz. Ayrıca, ilerlemeyi izlemek için görevleri farklı sütunlara sürükleyip bırakabilirsiniz.</p>"
+    "<p>Artık projenizin dinamik durumunu bir bakışta görebileceksiniz.</p>",
+  mBoardTutorialTrackProgressTip: "İpuçları: Görevlerinizi ada göre sıralamayı seçerseniz veya görevinizi Haftalık Güncelleme veya Haftalık Tamamlama'ya göre gruplandırırsanız, bunları yeniden sıralamak için sürükleyemeyeceğinizi unutmayın.",
+  mBoardTutorialAddMoreDetailTitle: "Pano Görünümüne Daha Fazla Ayrıntı Ekleme",
   mBoardTutorialAddMoreDetailContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
-  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
-  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+    "<p>Başlangıç/bitiş tarihlerini, atananları ve etiketleri belirleyerek daha ayrıntılı bilgiler ekleyebilirsiniz.</p>"
+    "<p>Ek bilgileri ayarlamak için 'tarih', 'sorumlu', 'etiket' simgelerine tıklayın.</p>",
+  mBoardTutorialAddMoreDetailTip: 'İpucu: Boşluk çubuğuna bastığınızda, açıklama eklemeniz, dosya eklemeniz, yorum bırakmanız vb. için <a href="/guide/descriptions/">ayrıntı paneli</a> görünecektir. ',
+  mBoardTutorialSwimlaneTitle: "Kanban Panosu Kulvarını Tanıma",
   mBoardTutorialSwimlaneContent:
-    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
-    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+    "<p>Tüm görevlerin tek bir sütuna sıkıştırıldığını hissetmek ve her ekip üyesinin iş yükünü ve durumunu ele almak gittikçe zorlaşıyor mu?</p>"
+    "<p>Görevlerinizi tercih edilen özniteliklere göre gruplandırmak için filtreleme ve sıralama özelliklerini kullanabilirsiniz. Örneğin: her üyenin sorumlu görevlerini görmek için atananlara göre gruplandırma.</p>",
+  mBoardTutorialShuffleColumnTitle: "Pano Görünümünde Sütunları Karıştırma",
   mBoardTutorialShuffleColumnContent:
-    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
-    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
+    "<p>Varsayılan Pano görünümünüz duruma göre gruplandırılmıştır. Her sütun, projenizin benzersiz bir aşamasını temsil eder ve sütun başlığının yanındaki daire, aşamasının yüzdesini temsil eder.</p>"
+    "<p>Görevlerinizi duruma göre gruplamak istemiyorsanız, görevlerinizi görselleştirmek için farklı bir yol seçmek üzere 'Pano' simgesine tekrar tıklayın.</p>"
     "<p>[=img]</p>"
-    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
+    "<p>Her bir sütunda, görevler Ağaç görünümünüzle aynı sırada gruplanır. Görevleri yukarı ve aşağı yeniden sıralayabilir veya sürükleyerek sütunlar arasında taşıyabilirsiniz.</p>",
   mBoardTutorialShortcutTitle: "Yardımcı Kısayollar",
   mBoardTutorialShortcutContent:
     "<h3>Ekle & Düzenle</h3>"
@@ -404,9 +402,9 @@ const trWeb = const <String, String> {
     "</ul>",
   mBoardTutorialQuickAssignTitle: "Hızlı Atama",
   mBoardTutorialQuickAssignContent:
-    "<p>Sorumluları, etiketleri vb.  "
+    "<p>Atanı, etiketi vb. hızlı bir şekilde ayarlamak için  "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">fare olmadan</a>, '
-    "hızlı bir şekilde ayarlamak için görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına tıklayın."
+    "görevler seçildiğinde klavyede @, #, <, !, ^, >, / tuşlarına tıklayın."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Sorumlu ekle</li>"
@@ -428,29 +426,28 @@ const trWeb = const <String, String> {
     'böylece dikkatiniz dağılmadan doğru görevlere doğru zamanda odaklanabilirsiniz.',
   mSublistTutorialAddSublistTitle: "Alt Listenize Bir İsim Verin",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
-    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
-    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
+    "<p>Sonu görünmeyen listeye bakmaktan bıktınız mı? Sizinle ilgili olmayan çok fazla görev var, "
+    'ancak diğer üyeler hala bu görevler üzerinde çalıştığı için bunları <a href="/guide/peekaboo/">Mahzen</a>e atamazsınız '
+    'Hayat kurtarmak için <a href="/blog/p/Quire-sublist.html">alt liste</a> burada!</p>'
+    '<p>Bir alt liste eklemek için, "+" düğmesine tıklayın ve bir alt liste oluşturun.</p>',
   mSublistTutorialAddSublistTip: "İpucu: Bir proje için istediğiniz kadar alt liste oluşturabilirsiniz.",
   mSublistTutorialPickTaskTitle: "Doğru Görevleri Seçin ve Alt Listeye Ekleyin",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Yüzlerce görev içeren bir "Çocuklar İçin Yardım Koşusu" projesi üzerinde çalıştığınızı varsayalım. '
+    'Birlikte çalışan en az 10 kişi var. '
+    'Sorumlu olduğunuz görevleri düzenlemek için farklı etiketler oluşturmaya devam edemezsiniz. '
+    'İlgisiz görevleri gizlemek için onları Mahzene atamazsınız çünkü diğer takım üyelerinin hala onları görmesi gerekir.</p>'
+    '<p>Derin bir nefes alın ve probleminizi çözmek için ilk alt listenizi oluşturun. '
+    'Birlikte görüntülemek istediğiniz önemli görevleri seçin ve ayrı bir listeye gidin. Artık diğer her şeyden rahatsız olmadan '
+    'odaklanabileceğiniz kendi yapılacaklar listeniz var.</p>'
     "<p>[=img]</p>"
-    "<p>When creating a sublist, in the below task list menu, "
-    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
+    "<p>Bir alt liste oluştururken, aşağıdaki görev listesi menüsünde, "
+    "seçili görevleri 'Dahil etmeyi' veya seçilen görevleri 'Hariç Tutmayı' seçebilirsiniz. </p>"
+    "<p>Kök görevi seçip alt listeye eklediğinizde, alt görevler otomatik olarak listeye eklenecektir.</p>"
+    "<p>Bununla birlikte, alt görevleri kök görevden ayrı seçmeyi ve "
+    "yeni oluşturulan alt listeye eklemeyi seçebilirsiniz.</p>"
+    "<p>Yeni oluşturulan alt listeyi ana listeyle ayırt etmek için, bazı eğlenceli simgeler ekleyebilir "
+    "ve simge rengini alt listenize değiştirebilirsiniz.</p>",
   mSublistTutorialShareTitle: "Alt Listeyi Doğru Kişilerle Paylaşın",
   mSublistTutorialShareContent:
     "<p>Görevleri seçip bir alt listeye ekledikten sonra, "
