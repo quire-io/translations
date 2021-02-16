@@ -517,34 +517,34 @@ const trWeb = const <String, String> {
     "<p>[=tip]</p>"
     "<p>Hata mı yaptınız? Endişelenmeyin, her zaman üst köşedeki Geri Al düğmesine tıklayabilir ve hareketinizi geri alabilirsiniz.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "İpucu: Zaman aralığı çubuğunu sürükleyip bırakma konusunda o kadar emin değilseniz, "
+    "başlangıç veya bitiş tarihini ızgara sütununda veya görevin ayrıntı panelinde de değiştirebilirsiniz.",
+  mTimelineTutorialColorTitle: "Zaman Çizelgesi Görünümü İstediğiniz Gibi Renklendirin",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>Zaman çizelgesi esas olarak görselleştirme içindir, bu nedenle her bir görevin görsel olarak öne çıkmasına izin vermek önemlidir. "
+    "Görevlerinizi önceliğe, etikete, tarihe göre renklendirmeyi seçebilir veya mevcut şekilde bırakabilirsiniz. </p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Bir üst görevin alt görevlerinden farklı bir süresi varsa, Zaman Çizelgesi görünümünde, "
+    "üst görevin zaman aralığı çubuğu, alt görevlerin zaman süresini de kapsayan gri bir eğik çizgi ile işaretlenecektir.</p>",
+  mTimelineTutorialColorTip: "İpucu: Renklerin anlamları bu ayrıntılı kılavuzda bulunabilir.",
+  mTimelineTutorialGridViewTitle: "Görev Listesini Izgara Görünümüyle Özelleştirin",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Zaman çizelgesi görünümü yalnızca görev listesinin çok sınırlı ayrıntılarını gösterebildiğinden, "
+    "zaman çizelgesi düğmesine dokunabilir ve Izgara Görünümü'ne geçebilirsiniz.</p>"
+    "<p>Listenizde hangi görev detaylarının gösterilmesini istediğinizi seçebilirsiniz,  "
+    "varsayılan seçimler 'Durum', 'Öncelik', 'Vekil', 'Etiketler', 'Başlangıç' ve 'Termin'dir. "
+    "Göstermek istediğiniz seçeneği seçtikten sonra, gerekirse sütunu yeniden boyutlandırabilirsiniz.</p>",
+  mTimelineTutorialNavigateTitle: "Zaman çizelgesinde gezinin",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>'Shift' kullanarak görevleri birden çok seçin ve hepsini tek seferde yeniden planlayın .</li>"
+    "<li>Takvim başlığını tutun ve sağa veya sola gidin.</li>"
+    "<li>Bugün tarihine atlamak için sağ üst köşedeki 'Bugün' düğmesine tıklayın. </li>"
+    "<li>Zaman çizelgesi görünümünü Gün görünümü, Hafta görünümü, Ay görünümü, Yıl görünümü olarak değiştirin ve hafta sonlarını gösterip göstermemeyi seçin.</li>"
+    "<li>Zaman çizelgenizi istediğiniz gibi sıralamak ve gruplamak için Filtre'yi kullanın. Zaman çizelgenizi görev durumuna, atananlara veya önceliğe göre görüntülemeyi seçebilirsiniz. </li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Artık Quire Timeline hakkında her şeyi öğrendiniz ve bir sonraki proje kilometre taşınıza ulaşmaya hazırsınız! Çıldırın ve eğlenin!</p>",
   mLearnMoreDoc: "Daha fazla bilgi edin",
   mGettingStartedLinkTitle: "Başlangıç Kılavuzumuzdaki Özellikler",
   mBlogLinkTitle: "Blogumuzdaki haberler, ipuçları ve ilhamlar",
