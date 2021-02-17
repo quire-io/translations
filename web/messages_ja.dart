@@ -324,9 +324,7 @@ const jaWeb = const <String, String> {
   mBoardTutorialTitle: "Quireチュートリアル：かんばんボード",
   mBoardTutorialDesc:
     "フレキシブルでパワフルなかんばんボードで、プロジェクトを概観できます。"
-    "進捗を可視化して、チームとともに進みましょう。"
-    
-    
+    "進捗を可視化して、チームとともに進みましょう。",
   mBoardTutorialSwitchBoardViewTitle: "階層表示からボード表示に切り替え",
   mBoardTutorialSwitchBoardViewContent:
     "<p>階層表示の右上にある「ボード」アイコンをクリックします。</p>"
