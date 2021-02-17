@@ -557,6 +557,7 @@ const ruClient = const <String, String> {
   mTimelineGridOptions: "Вид сетки",
   mTaskColor: "Цвет задачи",
   mTaskColorByPriority: "Цвет по приоритету",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Цвет по метке",
   mTaskColorByDate: "Цвет по дате",
   mTag: "Метка",

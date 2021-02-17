@@ -557,6 +557,7 @@ const esClient = const <String, String> {
   mTimelineGridOptions: "Vista en cuadrícula",
   mTaskColor: "Color de la tarea",
   mTaskColorByPriority: "Color por prioridad",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Color por etiqueta",
   mTaskColorByDate: "Color por fecha",
   mTag: "Etiqueta",

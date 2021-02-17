@@ -557,6 +557,7 @@ const itClient = const <String, String> {
   mTimelineGridOptions: "Griglia",
   mTaskColor: "Colore attività",
   mTaskColorByPriority: "Colora per priorità",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Colora per etichetta",
   mTaskColorByDate: "Colora per data",
   mTag: "Etichetta",

@@ -551,6 +551,7 @@ const deClient = const <String, String> {
   mTimelineGridOptions: "Rasteransicht",
   mTaskColor: "Aufgabenfarbe",
   mTaskColorByPriority: "Nach Priorität färben",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Nach Tag färben",
   mTaskColorByDate: "Nach Datum färben",
   mTag: "Tag",

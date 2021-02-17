@@ -562,6 +562,7 @@ const ptClient = const <String, String> {
   mTimelineGridOptions: "Vista em grelha",
   mTaskColor: "Cor da tarefa",
   mTaskColorByPriority: "Cor por prioridade",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Cor por tag",
   mTaskColorByDate: "Cor por data",
   mTag: "Tag",

@@ -306,7 +306,6 @@ const trWeb = const <String, String> {
     "<li><kbd>^</kbd> &mdash; Alt liste görünümüne ekle </li>"
     "<li><kbd>></kbd> &mdash; Bir projeye transfer et</li>"
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
-      
     "</ul>",
   mTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
   mTutorialContextmenuContent:

@@ -551,6 +551,7 @@ const trClient = const <String, String> {
   mTimelineGridOptions: "Izgara görünümü",
   mTaskColor: "Görev rengi",
   mTaskColorByPriority: "Önceliğe göre renklendir",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Etikete göre renklendir",
   mTaskColorByDate: "Tarihe göre renklendir",
   mTag: "Etiket",

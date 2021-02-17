@@ -692,6 +692,7 @@ const enClient = const <String, String> {
   mTimelineGridOptions: "Grid view",
   mTaskColor: "Task color",
   mTaskColorByPriority: "Color by priority",
+  mTaskColorByStatus: "Color by status",
   mTaskColorByTag: "Color by tag",
   mTaskColorByDate: "Color by date",
 
