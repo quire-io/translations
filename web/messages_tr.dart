@@ -303,9 +303,10 @@ const trWeb = const <String, String> {
     "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
     "<li><kbd><</kbd> &mdash; Termin ekle</li>"
     "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; Alt liste görünümüne ekle </li>"
+    "<li><kbd>></kbd> &mdash; Bir projeye transfer et</li>"
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
+      
     "</ul>",
   mTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
   mTutorialContextmenuContent:
@@ -411,8 +412,8 @@ const trWeb = const <String, String> {
     "<li><kbd>#</kbd> &mdash; Etiket ekle</li>"
     "<li><kbd><</kbd> &mdash; Termin ekle</li>"
     "<li><kbd>!</kbd> &mdash; Öncelik belirle</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; Alt liste görünümüne ekle</li>"
+    "<li><kbd>></kbd> &mdash; Bir projeye transfer et</li>"
     "<li><kbd>/</kbd> &mdash; Durum belirle</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Sağ Tıklama Menüsü",
