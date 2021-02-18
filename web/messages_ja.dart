@@ -303,7 +303,7 @@ const jaWeb = const <String, String> {
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd>　ボードに追加</li>"
+    "<li><kbd>^</kbd>　サブリストに追加</li>"
     "<li><kbd>></kbd>　プロジェクトに移動</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
@@ -411,7 +411,7 @@ const jaWeb = const <String, String> {
     "<li><kbd>#</kbd>　タグを追加</li>"
     "<li><kbd><</kbd>　期限日を追加</li>"
     "<li><kbd>!</kbd>　優先度を設定</li>"
-    "<li><kbd>^</kbd>　ボードに追加</li>"
+    "<li><kbd>^</kbd>　サブリストに追加</li>"
     "<li><kbd>></kbd>　プロジェクトに移動</li>"
     "<li><kbd>/</kbd>　状態を設定</li>"
     "</ul>",
