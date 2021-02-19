@@ -306,7 +306,7 @@ const frClient = const <String, String> {
   mPriorityLabel: "Faible,Moyenne,Haute,Urgente",
   mStateLabel: "À faire,En cours,Terminé",
   mTaskTypeLabel: "Normale,Sous-projet,Étiquette",
-  mTree: "Arbre",
+  mTree: "Liste",
   mBoard: "Tableau",
   mSublist: "Sous-liste",
   mEnterFullScreen: "Passer en mode Plein écran",
