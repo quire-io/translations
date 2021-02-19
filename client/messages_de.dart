@@ -341,7 +341,7 @@ const deClient = const <String, String> {
   mZoomOutTask: "Herauszoomen (a)",
   mPinViewTab: "Anheften",
   mUnpinViewTab: "Loslösen",
-  mUnpinRightTabs: "Unpin tabs to the right",
+  mUnpinRightTabs: "Alle Tabs loslösen",
   mTreeTagTooltip: "Tags",
   mClearDate: "Datum löschen",
   mTreeMenuSetPriority: "Priorität festlegen",

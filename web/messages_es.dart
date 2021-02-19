@@ -323,8 +323,10 @@ const esWeb = const <String, String> {
   mSignupToday: "¡Empezemos hoy en Quire!",
   mBoardTutorialTitle: "Turorial de Quire - Kanban Board",
   mBoardTutorialDesc:
-    "Get the bird’s eye view of your project with a flexible yet powerful Kanban board. "
-    "Visualize the team's progress and move forward to success!",
+    "Después de descargar y organizar todas tus ideas en la vista de lista de tareas anidadas, "
+    "¡Es hora de trabajar en tu proyecto<br>"
+    'Concentraté <a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html"></a> '
+    "en las tareas seleccionadas y visualiza tu flujo de trabajo con el tablero Kanban.",
   mBoardTutorialSwitchBoardViewTitle: "Cambiar a la vista de tablero desde el árbol",
   mBoardTutorialSwitchBoardViewContent:
     "<p>En la esquina superior derecha de la vista de árbol, elije el icono Tabla.</p>"

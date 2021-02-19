@@ -297,14 +297,13 @@ const ruWeb = const <String, String> {
   mTutorialQuickAssignContent:
     '<p>Чтобы быстро назначить задачу, метку и прочее '
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">без мыши</a>, '
-    'нажмите @, #, <, !, ^, >, / на клавиатуре, когда нужные задачи выбраны.</p>'
+    'нажмите @, #, <, !, ^, / на клавиатуре, когда нужные задачи выбраны.</p>'
     "<ul>"
     "<li><kbd>@</kbd> &mdash; добавить назначение</li>"
     "<li><kbd>#</kbd> &mdash; добавить метку</li>"
     "<li><kbd><</kbd> &mdash; добавить срок выполнения</li>"
     "<li><kbd>!</kbd> &mdash; добавить приоритет</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; добавить задачу на доску</li>"
     "<li><kbd>/</kbd> &mdash; указать статус выполнения</li>"
     "</ul>",
   mTutorialContextmenuTitle: "Контекстное меню",
@@ -406,15 +405,14 @@ const ruWeb = const <String, String> {
   mBoardTutorialQuickAssignContent:
     "<p>Чтобы быстро установить исполнителя, метку и т.д.  "
     '<a href="/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html">без мыши</a>, '
-    "нажмите @, #, <, !, ^, >, / на клавиатуре после выбора задач."
+    "нажмите @, #, <, !, ^, / на клавиатуре после выбора задач."
     "</p>"
     "<ul>"
     "<li><kbd>@</kbd> &mdash; Добавить исполнителя</li>"
     "<li><kbd>#</kbd> &mdash; Добавить метку</li>"
     "<li><kbd><</kbd> &mdash; Добавить срок сдачи</li>"
     "<li><kbd>!</kbd> &mdash; Установить приоритет</li>"
-    "<li><kbd>^</kbd> &mdash; Add to a sublist view</li>"
-    "<li><kbd>></kbd> &mdash; Transfer to a project</li>"
+    "<li><kbd>^</kbd> &mdash; Добавить задачу на доску</li>"
     "<li><kbd>/</kbd> &mdash; Установить статус</li>"
     "</ul>",
   mBoardTutorialContextmenuTitle: "Контекстное меню правой кнопки мыши",
