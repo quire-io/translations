@@ -892,6 +892,7 @@ const ruClient = const <String, String> {
   mPasteTaskToOption2: "нижний уровень как подзадачи",
   mInvalidId: 'Неверный ID. Разрешены только буквы, цифры, тире, точки и подчеркивания.',
   mReservedId: 'Введенный вами идентификатор зарезервирован',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'Неправильный адрес',
   mInvalidEmail: 'Неверный адрес электронной почты.',
   mInvalidValue: 'Неверное значение',

@@ -318,11 +318,7 @@ const deWeb = const <String, String> {
   mTimelineTutorialLinkTitle: "Erstellen Sie einen Projektplan mit Quire Timeline",
   mSignupToday: "Los geht's!",
   mBoardTutorialTitle: "Quire Tutorial - Kanban Board",
-  mBoardTutorialDesc:
-    "Nachdem Sie alle Ihre Ideen in der verschachtelten Aufgabenlistenansicht gespeichert und organisiert haben, "
-    "ist es Zeit, an Ihrem Projekt zu arbeiten!<br>"
-    '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Konzentrieren Sie sich</a> '
-    "auf ausgewählte Aufgaben und visualisieren Sie Ihren Workflow mit dem Kanban-Board.",
+  mBoardTutorialDesc: "Visualisieren Sie das Projekt mit einem Kanban-Board und beobachten Sie den Fortschritt des Teams aus der Vogelperspektive.",
   mBoardTutorialSwitchBoardViewTitle: "Zwischen Baum- und Boardansicht wechseln",
   mBoardTutorialSwitchBoardViewContent:
     "<p>Wählen Sie in der oberen rechten Ecke Ihrer Baumansicht das Symbol “Board”.</p>"

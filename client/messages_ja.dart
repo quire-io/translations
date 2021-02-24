@@ -892,6 +892,7 @@ const jaClient = const <String, String> {
   mPasteTaskToOption2: "子タスクとして次レベル",
   mInvalidId: '無効なIDです。使えるのは半角英数字、ダッシュ、ピリオド、アンダーバーのみです。',
   mReservedId: '入力したIDは予約済みです',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: '無効なURL',
   mInvalidEmail: '無効なメールアドレスです。',
   mInvalidValue: '無効な値',

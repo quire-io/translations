@@ -892,6 +892,7 @@ const itClient = const <String, String> {
   mPasteTaskToOption2: "livello inferiore come subattività",
   mInvalidId: 'ID non valido. Solo lettere, numeri, trattini, punti e "_" sono permessi.',
   mReservedId: 'L\' ID che hai immesso è riservato',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'URL non valido',
   mInvalidEmail: 'Email non valida.',
   mInvalidValue: 'Valore non valido',

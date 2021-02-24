@@ -892,6 +892,7 @@ const frClient = const <String, String> {
   mPasteTaskToOption2: "niveau inférieur comme sous-tâches",
   mInvalidId: 'ID invalide. Seuls les lettres, nombres, tirets, points et underscores sont autorisés.',
   mReservedId: 'L\'ID que vous avez entré est réservé',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'URL invalide',
   mInvalidEmail: 'Invalid Email.',
   mInvalidValue: 'Valeur invalide',

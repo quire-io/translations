@@ -892,6 +892,7 @@ const esClient = const <String, String> {
   mPasteTaskToOption2: "de menor nivel que las subtareas",
   mInvalidId: 'ID inválida. Solo se permiten letras, dígitos, guiones, puntos y guiones bajos.',
   mReservedId: 'El ID que ha introducido está reservado',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'URL no válida',
   mInvalidEmail: 'Email no válido.',
   mInvalidValue: 'Valor no válido',

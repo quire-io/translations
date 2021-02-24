@@ -886,6 +886,7 @@ const trClient = const <String, String> {
   mPasteTaskToOption2: "alt görevler olarak düşük seviye",
   mInvalidId: 'Geçersiz ID. Yalnızca harf, rakam, tire, nokta ve alt çizgiye izin verilir.',
   mReservedId: 'Girdiğiniz ID rezerv edilmiş durumda',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'Geçersiz URL',
   mInvalidEmail: 'Geçersiz E-posta.',
   mInvalidValue: 'Geçersiz değer',

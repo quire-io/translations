@@ -1136,6 +1136,7 @@ const enClient = const <String, String> {
 
   mInvalidId: 'Invalid ID. Only letters, digits, dashes, dots, and underscores are allowed.',
   mReservedId: 'The ID you entered is reserved',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'Invalid URL',
   mInvalidEmail: 'Invalid Email.',
   mInvalidValue: 'Invalid value',

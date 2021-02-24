@@ -897,6 +897,7 @@ const ptBrClient = const <String, String> {
   mPasteTaskToOption2: "nível inferior como subtarefas",
   mInvalidId: 'ID inválida. Somente letras, dígitos, traços, pontos e sublinhas são permitidos.',
   mReservedId: 'A ID digitada está reservada',
+  mReservedName: 'The name you entered is reserved',
   mInvalidUrl: 'URL inválido',
   mInvalidEmail: 'Email Inválido.',
   mInvalidValue: 'Valor inválido',
