@@ -557,7 +557,7 @@ const jaClient = const <String, String> {
   mTimelineGridOptions: "グリッド表示",
   mTaskColor: "タスクの色",
   mTaskColorByPriority: "優先度で色付け",
-  mTaskColorByStatus: "Color by status",
+  mTaskColorByStatus: "状態で色付け",
   mTaskColorByTag: "タグで色付け",
   mTaskColorByDate: "日付で色付け",
   mTag: "タグ",
