@@ -65,14 +65,14 @@ const ruWeb = const <String, String> {
   mFeaturesMigrationTrelloButton: "Мигрировать из Trello",
   mFeaturesMigrationWunderlistButton: "Мигрировать из Wunderlist",
   mFeaturesCompareWrikeButton: "Сравнить с Wrike",
-  mFeaturesMigrationTodoistButton: "Migrate from Todoist",
+  mFeaturesMigrationTodoistButton: "Мигрировать из Todoist",
   mFeaturesMigrationOthersButton: "Мигрировать из других",
   mFeatureHierarchyTitle: "Вложенный список задач",
   mFeatureHierarchyDesc: "Занимайтесь большими проектами, разбивая их на маленькие выполнимые шаги.",
   mFeatureBoardTitle: "Доска Канбан",
   mFeatureBoardDesc: "Визуализируйте свой рабочий процесс, чтобы лучше управлять и фокусироваться на своих задачах.",
-  mFeatureTimelineTitle: "Timeline",
-  mFeatureTimelineDesc: "Map out team schedule with a beautiful Gantt-chart view, switchable between List and Board.",
+  mFeatureTimelineTitle: "Временная шкала",
+  mFeatureTimelineDesc: "Составьте график работы команды с красивым представлением диаграммы Ганта с возможностью переключения вида между списком и доской.",
   mFeatureSublistTitle: "Подсписки",
   mFeatureSublistDesc: "Создавайте персонализированные списки, чтобы сосредоточиться на нужных задачах в нужное время.",
   mFeatureMytasksTitle: "Мои задачи с одного взгляда",
@@ -109,8 +109,8 @@ const ruWeb = const <String, String> {
   mFeatureRecurringDesc: "Избавьтесь от рутины в списке задач раз и навсегда.",
   mFeaturePeekabooTitle: "Спрятать задачи",
   mFeaturePeekabooDesc: "Временно отложите свои задачи, которые в настоящее время не выполнимы, чтобы лучше организовать список задач и избежать стресса на работе.",
-  mFeatureTimeTitle: "Start and Due Date",
-  mFeatureTimeDesc: "Set start and due dates and time to clearly indicate the schedule of the task.",
+  mFeatureTimeTitle: "Дата начала и окончания",
+  mFeatureTimeDesc: "Установите дату и время начала и окончания, чтобы четко обозначить график выполнения задачи.",
   mFeatureRemindersTitle: "Напоминания",
   mFeatureRemindersDesc: "Получайте напоминания о предстоящих задачах перед началом или в любое время, когда вы хотите - на разных устройствах.",
   mFeatureNotificationTitle: "Уведомления",
@@ -129,14 +129,14 @@ const ruWeb = const <String, String> {
   mFeatureGoogleEmailDesc: "Превратите свои электронные письма в Google одновременно в задачи Quire.",
   mFeatureGoogleCalendarTitle: "Синхронизация с Календарем Google",
   mFeatureGoogleCalendarDesc: "Смотрите ваши задачи как события в календаре Google, iCal или Outlook и получайте уведомления.",
-  mFeatureGoogleAssistantTitle: "Google Assistant for Tasks",
-  mFeatureGoogleAssistantDesc: "Manage your tasks list with a voice-controlled virtual assistant.",
+  mFeatureGoogleAssistantTitle: "Google Ассистент для задач",
+  mFeatureGoogleAssistantDesc: "Управляйте списком задач с помощью виртуального помощника с голосовым управлением.",
   mFeatureSlackTitle: "Интеграция в Slack",
   mFeatureSlackDesc: "Получайте обновления о всех своих проектах и многое другое на канале Slack.",
   mFeatureZapierTitle: "Интеграция с Zapier",
   mFeatureZapierDesc: "Мгновенно подключайте Quire к более чем 2000 приложений, чтобы автоматизировать рабочий процесс и найти суперспособности для повышения производительности.",
-  mFeatureMsTeamsTitle: "Microsoft Teams Integration",
-  mFeatureMsTeamsDesc: "Connect team’s conversations to Quire task lists.",
+  mFeatureMsTeamsTitle: "Интеграция с Microsoft Teams",
+  mFeatureMsTeamsDesc: "Свяжите общение команды со списками задач Quire.",
   mFeatureIntegraGithubTitle: "Интеграция с GitHub",
   mFeatureIntegraGithubDesc: "Держите всех в вашей команде в курсе изменений кода, связывая коммиты с вашими задачами.",
   mFeatureChromeExtensionTitle: "Расширение Chrome",
@@ -315,10 +315,10 @@ const ruWeb = const <String, String> {
     "<p>Теперь, когда вы немного осмотрелись, вы можете запустить свой проект!</p>",
   mTutorialContextmenuTip: "Совет: Вы можете нажать F1, чтобы увидеть полный список сочетаний клавиш.",
   mNextTutorial: "Следующий урок",
-  mListTutorialLinkTitle: "Break down big projects into smaller tasks with Quire Nested Tree",
-  mBoardTutorialLinkTitle: "Streamline workflow visually with Quire Kanban Board",
+  mListTutorialLinkTitle: "Разбивайте большие проекты на более мелкие задачи в Quire с помощью дерева с подуровнями",
+  mBoardTutorialLinkTitle: "Визуально оптимизируйте рабочий процесс в Quire с помощью доски Канбан",
   mSublistTutorialLinkTitle: "Сосредоточьтесь на правильных задачах с помощью персонализированного подсписка задач",
-  mTimelineTutorialLinkTitle: "Map out project schedule with Quire Timeline",
+  mTimelineTutorialLinkTitle: "Составьте график проекта с помощью Quire Timeline",
   mSignupToday: "Начните работать с Quire сегодня!",
   mBoardTutorialTitle: "Руководство Quire - Доска Канбан",
   mBoardTutorialDesc:
@@ -326,44 +326,44 @@ const ruWeb = const <String, String> {
     "пора поработать над своим проектом!<br>"
     '<a href="/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html">Сосредоточьтесь</a> '
     "на выбранных задачах и визуализируйте свой рабочий процесс с помощью доски Канбан.",
-  mBoardTutorialSwitchBoardViewTitle: "Switch to Board View From Tree",
+  mBoardTutorialSwitchBoardViewTitle: "Переключиться на вид доски из дерева",
   mBoardTutorialSwitchBoardViewContent:
-    "<p>On the top right corner of your Tree view, choose the “Board” icon.</p>"
+    "<p>В правом верхнем углу представления в виде дерева выберите значок «Доска».</p>"
     "<p>[=img]</p>"
-    "You can use the Filter icon to filter out the tasks that you want to select or use the Search function to find the tasks. Then click “Create” to enter your Board view for this Sublist.",
-  mBoardTutorialReorderColumnsTitle: "Reorder Columns in Board View",
-  mBoardTutorialReorderColumnsContent: "<p>In case you don’t like the default order of your columns in Board view, you can grab the column header and start moving the column to a new destination.</p>",
-  mBoardTutorialCreateTaskTitle: "Create a Task in Board View",
+    "Вы можете использовать значок фильтра, чтобы отфильтровать задачи, которые вы хотите выбрать, или использовать функцию поиска, чтобы найти задачи. Затем нажмите «Создать», чтобы войти в представление доски для этого подсписка.",
+  mBoardTutorialReorderColumnsTitle: "Изменить порядок столбцов в виде доски",
+  mBoardTutorialReorderColumnsContent: "<p>Если вам не нравится порядок столбцов по умолчанию в представлении «Доска», вы можете взять заголовок столбца и начать перемещать столбец в новое место назначения.</p>",
+  mBoardTutorialCreateTaskTitle: "Создать задачу в режиме доски",
   mBoardTutorialCreateTaskContent:
-    "<p>There are two ways to create a task in Board view:</p>"
+    "<p>Есть два способа создать задачу в режиме доски.:</p>"
     '<ul class="list-unstyled"><li>'
     "<ol>"
-    "<li>You can select an existing task on a column and press “Enter” to create a new same-level task or “Shift + Enter” to create a subtask that links to the chosen existing parent task.</li>"
+    "<li>Вы можете выбрать существующую задачу в столбце и нажать «Enter», чтобы создать новую задачу того же уровня, или «Shift + Enter», чтобы создать подзадачу, которая связана с выбранной существующей родительской задачей.</li>"
     "<p>[=video]</p>"
-    "<li>In the bottom corner of each column, click “Add tasks'' then start typing in your task name and any parameters (i.g. Assignee, priority , etc.). Then press enter to save your new task.</li>"
+    "<li>В нижнем углу каждого столбца нажмите «Добавить задачи», затем начните вводить имя своей задачи и любые параметры (например, исполнитель, приоритет и т.д.). Затем нажмите Enter, чтобы сохранить новую задачу.</li>"
     "</ol>"
     "</li></ul>",
-  mBoardTutorialCreateTaskTip: 'Tip: Take advantage of the <a href="/guide/inline-assign/">inline assign</a> function to save time when adding new parameters to a task.',
-  mBoardTutorialTrackProgressTitle: "Track Progress with Board View",
+  mBoardTutorialCreateTaskTip: 'Совет: воспользуйтесь функцией <a href="/guide/inline-assign/">быстрого назначения</a>, чтобы сэкономить время при добавлении новых параметров к задаче.',
+  mBoardTutorialTrackProgressTitle: "Отслеживайте прогресс с помощью вида «Доска»",
   mBoardTutorialTrackProgressContent:
-    "<p>You can reposition tasks in the column for higher priority. Also, you can drag and drop tasks to different columns for progress tracking.</p>"
-    "<p>Now, you will be able to see the dynamic status of your project at a glance.</p>",
-  mBoardTutorialTrackProgressTip: "Tips: Note that if you choose to sort your tasks by name or group your task by Update Per Week or Complete Per Week, you cannot drag to reorder them.",
-  mBoardTutorialAddMoreDetailTitle: "Add More Details to Board View",
+    "<p>Вы можете изменить положение задач в столбце для получения более высокого приоритета. Кроме того, вы можете перетаскивать задачи в разные столбцы для отслеживания прогресса.</p>"
+    "<p>Теперь вы сможете сразу увидеть актуальный статус вашего проекта.</p>",
+  mBoardTutorialTrackProgressTip: "Совет: обратите внимание, что если вы решите сортировать задачи по имени или сгруппировать задачи по «Обновлениям за неделю» или «Завершенным за неделю», вы не сможете перетащить их, чтобы изменить их порядок.",
+  mBoardTutorialAddMoreDetailTitle: "Добавить больше деталей в вид доски",
   mBoardTutorialAddMoreDetailContent:
-    "<p>You could add more detailed information by setting start/due dates, assignees, and tags.</p>"
-    "<p>Click on the “date”, “assignee”, “tag” icons to set additional information.</p>",
-  mBoardTutorialAddMoreDetailTip: 'Tip: By pressing the Spacebar, the <a href="/guide/descriptions/">detail panel</a> will show up for you to add descriptions, attach files, leave comments, etc.',
-  mBoardTutorialSwimlaneTitle: "Get to Know Kanban Board Swimlane",
+    "<p>Вы можете добавить более подробную информацию, установив даты начала/окончания, исполнителей и метки.</p>"
+    "<p>Щелкните значки «дата», «исполнитель», «метка», чтобы задать дополнительную информацию.</p>",
+  mBoardTutorialAddMoreDetailTip: 'Совет: при нажатии клавиши пробела открывается <a href="/guide/descriptions/">панель сведений</a>, на которой вы можете добавить описание, прикреплять файлы, оставлять комментарии и т.д.',
+  mBoardTutorialSwimlaneTitle: "Познакомьтесь с дорожкой канбан-доски",
   mBoardTutorialSwimlaneContent:
-    "<p>Feeling like all the tasks are squished into one column and it’s getting harder to get a hold of the workload and status of each team member?</p>"
-    "<p>You can use filter and sort features to group your tasks by the preferred attributes. For example: grouped by assignees to see each members' responsible tasks.</p>",
-  mBoardTutorialShuffleColumnTitle: "Shuffle Columns in Board View",
+    "<p>Чувствуете, что все задачи сведены в один столбец, и становится все труднее контролировать рабочую нагрузку и статус каждого члена команды?</p>"
+    "<p>Вы можете использовать функции фильтрации и сортировки, чтобы сгруппировать задачи по предпочтительным атрибутам. Например: задачи сгруппированы по исполнителям, чтобы увидеть конкретные задачи каждого участника.</p>",
+  mBoardTutorialShuffleColumnTitle: "Перемешать столбцы в виде доски",
   mBoardTutorialShuffleColumnContent:
-    "<p>Your default Board view is grouped by status. Each column represents an unique stage of your project and the circle next to the column header represents the percentage of its stage.</p>"
-    "<p>If you don’t want to group your tasks by status, click on the “Board” icon again to choose a different way to visualize your tasks.</p>"
+    "<p>Представление Доски по умолчанию сгруппировано по статусу. Каждый столбец представляет собой уникальный этап вашего проекта, а кружок рядом с заголовком столбца представляет процент его этапа.</p>"
+    "<p>Если вы не хотите группировать задачи по статусу, нажмите значок «Доска» еще раз, чтобы выбрать другой способ визуализации задач.</p>"
     "<p>[=img]</p>"
-    "<p>Within each column, the tasks are grouped together in the same order with your Tree view. You can reorder the tasks up and down or move the tasks across columns by dragging them.</p>",
+    "<p>В каждом столбце задачи сгруппированы вместе в том же порядке, что и в древовидном представлении. Вы можете переупорядочивать задачи вверх и вниз или перемещать задачи по столбцам, перетаскивая их.</p>",
   mBoardTutorialShortcutTitle: "Полезные горячие клавиши",
   mBoardTutorialShortcutContent:
     "<h3>Добавление & редактирование</h3>"
@@ -478,71 +478,71 @@ const ruWeb = const <String, String> {
     "и продуктивность вашей команды! Продуктивность - это сосредоточение внимания на "
     "нужных вещах в нужное время!</p>"
     "<p>А теперь делайте дела и достигайте своей мечты!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Timeline",
+  mTimelineTutorialTitle: "Quire Tutorial - Временная шкала проекта",
   mTimelineTutorialDesc:
-    "Having troubles spotting roadblocks with your project? With only one tap, "
-    "switch your task list into a Timeline view and start visualizing your project with an easy-to-understand time frame.",
-  mTimelineTutorialSwitchViewTitle: "Switch to Timeline View from Tree View",
+    "Возникли проблемы с обнаружением препятствий на пути вашего проекта? Всего одним нажатием "
+    "откройте список задач в виде временной шкалы и начните визуализировать свой проект с помощью простых для понимания временных рамок.",
+  mTimelineTutorialSwitchViewTitle: "Переключиться на представление временной шкалы из представления в виде дерева",
   mTimelineTutorialSwitchViewContent:
-    "<p>On the upper right corner, you will see three buttons that associate with different views of your project and sublists. "
-    "Click on the Timeline button to switch your project into a Gantt Chart (Timeline) view and all of your tasks will map out their deadlines.</p>",
-  mTimelineTutorialSwitchViewTip: 'Tip: Each task list has its own Tree view, <a href="https://quire.io/blog/p/board.html">Board</a> view and Timeline view.',
-  mTimelineTutorialNestedListTitle: "View Timeline Side-by-side with Nested Task List",
+    "<p>В правом верхнем углу вы увидите три кнопки, которые связаны с различными представлениями вашего проекта и подсписка. "
+    "Нажмите кнопку «Временная шкала», чтобы переключить свой проект в режим «Диаграмма Ганта» (временная шкала), и для всех ваших задач будут обозначены сроки выполнения.</p>",
+  mTimelineTutorialSwitchViewTip: 'Совет: у каждого списка задач есть собственное представление в виде дерева, в виде <a href="https://quire.io/blog/p/board.html">доски</a> и в виде временной шкалы.',
+  mTimelineTutorialNestedListTitle: "Просмотр временной шкалы бок о бок с вложенным списком задач",
   mTimelineTutorialNestedListContent:
-    "<p>Your main screen will be divided into two views: "
-    "on the left side is the nested task list that keeps you in context and on the right side is the Timeline view. "
-    "You can resize the task list by hovering over the separating line between the list and the Timeline view.</p>"
+    "<p>Ваш главный экран будет разделен на две части: "
+    "слева находится список вложенных задач, который держит вас в контексте, а справа - представление временной шкалы. "
+    "Вы можете изменить размер списка задач, наведя курсор на разделительную линию между списком и представлением временной шкалы.</p>"
     "<p>[=img1]</p>"
-    "<p>If your task has been scheduled before (either having a start date or a due date), "
-    "there will be a dot at the end of the task that indicates there’s a time frame associated with this task. "
-    "Click on the dot to quickly slide to the task timespan bar.</p>"
+    "<p>Если ваша задача была запланирована раньше (либо с датой начала, либо со сроком выполнения), "
+    "в конце задачи будет точка, указывающая на временные рамки, связанные с этой задачей. "
+    "Щелкните на точку, чтобы быстро перейти к времени выполнения задачи.</p>"
     "<p>[=img2]</p>"
     "<p>[=tip]</p>"
-    "<p>You can reorder the task list by dragging the task itself or grabbing the timespan bar to rearrange the task order.</p>",
-  mTimelineTutorialNestedListTip: "Tip: You can click on the dropdown menu next to the project name and choose “Enter full screen” to view more details in the Timeline.",
-  mTimelineTutorialAddTaskTitle: "Add New Tasks in Timeline View",
-  mTimelineTutorialAddTaskContent: "<p>Open the nested task list and select an existing task then press “Enter” to create a new same-level task, or “Shift + Enter” to create a subtask.</p>",
-  mTimelineTutorialAddTaskTip: "Tip: You can choose to hide the nested list view after creating a new task to expand the Timeline view.",
-  mTimelineTutorialRescheduleTitle: "Reschedule your timeline",
+    "<p>Вы можете изменить порядок списка задач, перетащив саму задачу или взяв полосу временного интервала, чтобы изменить порядок задач.</p>",
+  mTimelineTutorialNestedListTip: "Совет: вы можете щелкнуть раскрывающееся меню рядом с названием проекта и выбрать «Перейти в полноэкранный режим», чтобы просмотреть дополнительные сведения на временной шкале.",
+  mTimelineTutorialAddTaskTitle: "Добавить новые задачи в режиме просмотра временной шкалы",
+  mTimelineTutorialAddTaskContent: "<p>Откройте список вложенных задач и выберите существующую задачу, затем нажмите «Enter», чтобы создать новую задачу того же уровня, или «Shift + Enter», чтобы создать подзадачу.</p>",
+  mTimelineTutorialAddTaskTip: "Совет: Вы можете скрыть представление вложенного списка после создания новой задачи, чтобы развернуть представление временной шкалы.",
+  mTimelineTutorialRescheduleTitle: "Перепланируйте задачи на временной шкале",
   mTimelineTutorialRescheduleContent:
-    "<p>It’s ideal when all of the deadlines are met, but sometimes life gets in the way. "
-    "That’s why you should always rearrange your schedule to better manage the project bandwidth.</p>"
-    "<p>If you want to see the duration of your task, "
-    "you can hover on the timespan bar and the task’s schedule will be shown under the timespan bar.</p>"
-    "<p>Simply hover over the start or due date of the task and extend or shorten the time duration. "
-    "You can click to move or drag the whole bar altogether.</p>"
+    "<p>Идеально, когда все сроки соблюдаются, но иногда жизнь этому мешает. "
+    "Вот почему вы всегда должны изменять свое расписание, чтобы лучше управлять пропускной способностью проекта.</p>"
+    "<p>Если вы хотите увидеть продолжительность вашей задачи, "
+    "вы можете навести указатель мыши на полосу промежутка времени, и расписание задачи будет отображаться под полосой промежутка времени.</p>"
+    "<p>Просто наведите указатель мыши на дату начала или окончания задачи и увеличьте или сократите продолжительность. "
+    "Вы можете щелкнуть, чтобы переместить или перетащить всю полосу целиком.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>Made mistakes? No worries, you can always click on the Undo button in the upper corner and undo your move.</p>",
+    "<p>Сделали ошибки? Не беспокойтесь, вы всегда можете нажать кнопку «Отменить» в верхнем углу и вернуть всё назад.</p>",
   mTimelineTutorialRescheduleTip:
-    "Tip: If you’re not so confident with the dragging and dropping the timespan bar, "
-    "you can actually change the start or due date at the grid column or in the task’s detail panel.",
-  mTimelineTutorialColorTitle: "Color Timeline View in Any Way You Want",
+    "Совет: Если вам не нравится таскать полоску задачи для изменения промежутка времени, "
+    "вы можете изменить дату начала или окончания в столбце сетки или на панели сведений о задаче.",
+  mTimelineTutorialColorTitle: "Раскраска временной шкалы любым удобным для вас способом",
   mTimelineTutorialColorContent:
-    "<p>Timeline is mainly for visualizing, so it’s important to let each task stand out visually. "
-    "You can choose to color your tasks by priority, tag, date or just leave it as none.</p>"
+    "<p>Временная шкала в основном предназначена для визуализации, поэтому важно, чтобы каждая задача выделялась визуально. "
+    "Вы можете раскрасить свои задачи по приоритету, тегу, дате или просто оставить все как нет.</p>"
     "<p>[=img]</p>"
     "<p>[=tip]</p>"
-    "<p>If a parent task has a different duration as its subtasks, in Timeline view, "
-    "the timespan bar of the parent task will also mark as a grayed slashed bar that covers the time duration of the subtasks as well.</p>",
-  mTimelineTutorialColorTip: "Tip: The colors meanings can be found in this detailed guide.",
-  mTimelineTutorialGridViewTitle: "Customize Task List with Grid View",
+    "<p>Если длительность родительской задачи отличается от продолжительности подзадач, в представлении «Временная шкала» "
+    "полоса промежутка времени родительской задачи будет отмечена серой полосой с косой чертой, которая также охватывает продолжительность подзадач.</p>",
+  mTimelineTutorialColorTip: "Совет: значения цветов можно найти в этом подробном руководстве.",
+  mTimelineTutorialGridViewTitle: "Настроить список задач в виде сетки",
   mTimelineTutorialGridViewContent:
-    "<p>Since the timeline view can only show very limited details of the task list, "
-    "you can tap on the timeline button and toggle on Grid View.</p>"
-    "<p>You can choose which task details you would like to  show on your list, "
-    "the default selections are “Status”, “Priority”, “Assignee”, “Tags”, “Start”, and “Due”. "
-    "After choosing which option you want to show, you can resize the column if needed.</p>",
-  mTimelineTutorialNavigateTitle: "Navigate around the timeline",
+    "<p>Поскольку на временной шкале могут отображаться только очень ограниченные сведения о списке задач, "
+    "вы можете нажать на кнопку временной шкалы и переключиться на просмотр в виде сетки.</p>"
+    "<p>Вы можете выбрать, какие детали задачи вы хотите отображать в своем списке, "
+    "по умолчанию выбраны «Статус», «Приоритет», «Назначение», «Метки», «Начало» и «Срок». "
+    "Выбрав вариант для отображения, при необходимости можно изменить размер столбца.</p>",
+  mTimelineTutorialNavigateTitle: "Перемещайтесь по временной шкале",
   mTimelineTutorialNavigateContent:
     "<ul>"
-    "<li>Multi-select tasks by using “Shift” and reschedule them all at once.</li>"
-    "<li>Grab on the calendar header and move right or left.</li>"
-    "<li>Click on the “Today” button on the upper right corner to jump to Today date.</li>"
-    "<li>Change the timeline view to Day view, Week view, Month view, Year view and choose to show weekends or not.</li>"
-    "<li>Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.</li>"
+    "<li>Выборите несколько задач с помощью «Shift» и перепланируйте их всех сразу.</li>"
+    "<li>Захватите заголовок календаря и двигайтесь вправо или влево.</li>"
+    "<li>Нажмите кнопку «Сегодня» в правом верхнем углу, чтобы перейти к текущей дате.</li>"
+    "<li>Измените представление временной шкалы на представление «День», «Просмотр недели», «Просмотр месяца», «Просмотр года» и выберите отображение выходных или нет.</li>"
+    "<li>Используйте фильтр для сортировки и группировки вашей временной шкалы в любом порядке. Вы можете выбрать просмотр своей временной шкалы по статусу задачи, исполнителям или приоритету.</li>"
     "</ul>"
-    "<p>Now you have learned everything about Quire Timeline and ready to achieve your next project milestone! Go wild and have fun!</p>",
+    "<p>Теперь вы узнали все о Quire Timeline и готовы перейти к следующему этапу проекта! Не бойтесь и получайте удовольствие!</p>",
   mLearnMoreDoc: "Узнать больше",
   mGettingStartedLinkTitle: "Особенности в нашем руководстве по началу работы",
   mBlogLinkTitle: "Новости, советы и вдохновения в нашем блоге",
