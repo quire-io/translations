@@ -426,29 +426,29 @@ const ruWeb = const <String, String> {
     'чтобы вы могли сосредоточиться на нужных задачах в нужное время, не отвлекаясь.',
   mSublistTutorialAddSublistTitle: "Назовите свой подсписок",
   mSublistTutorialAddSublistContent:
-    "<p>Tired of looking at the list with no end in sight? There are too many tasks "
-    'that are not relevant to you but you cannot <a href="/guide/peekaboo/">Peekaboo</a> to tuck them away '
-    'because other members are still working on those tasks. A <a href="/blog/p/Quire-sublist.html">sublist</a> is here to the rescue!</p>'
-    '<p>To add a sublist, click on the “+” button and create a sublist.</p>',
+    "<p>Устали смотреть на список, которому не видно конца? Слишком много задач, "
+    'которые не имеют отношения к вам, но вы не можете <a href="/guide/peekaboo/">скрыть</a> их совсем, '
+    'потому что другие участники все еще работают над этими задачами? <a href="/blog/p/Quire-sublist.html">Подсписок</a> спешит к вам на помощь!</p>'
+    '<p>Чтобы добавить подсписок, нажмите кнопку «+» и создайте подсписок.</p>',
   mSublistTutorialAddSublistTip: "Совет: Вы можете создать любое количество подсписков для проекта.",
   mSublistTutorialPickTaskTitle: "Выберите правильные задачи и добавьте в подсписок",
   mSublistTutorialPickTaskContent:
-    '<p>Let’s say you are working on a "Children\'s Run for Charity" project '
-    'that involves hundreds of tasks. There are at least 10 people who collaborate together. '
-    'You cannot keep creating different tags to organize the tasks that you are in charge of. '
-    'You cannot Peekaboo to tuck away the irrelevant tasks because other team members still need to view them.</p>'
-    '<p>Take a deep breath and create your first sublist to solve your problem. Simply select the important tasks '
-    'which you want to view together and move to a separate list. Now you have your own to do list to focus on, '
-    'without getting distracted by everything else.</p>'
+    '<p>Допустим, вы работаете над проектом «Детский забег на благотворительность», '
+    'который включает в себя сотни задач. Есть как минимум 10 человек, которые сотрудничают вместе. '
+    'Вы не можете постоянно создавать разные теги для организации задач, за которые вы отвечаете. '
+    'Вы не можете скрывать ненужные вам задачи, потому что другим участникам команды всё ещё нужно их просматривать.</p>'
+    '<p>Сделайте глубокий вдох и создайте свой первый подсписок для решения вашей проблемы. Просто выберите важные задачи, '
+    'которые вы хотите просмотреть вместе и переместить в отдельный список. Теперь у вас есть собственный список дел, на котором нужно сосредоточиться '
+    'не отвлекаясь на все остальное.</p>'
     "<p>[=img]</p>"
-    "<p>When creating a sublist, in the below task list menu, "
-    "you can choose either to “Include” the selected tasks or “Exclude” the selected tasks.</p>"
-    "<p>When you select the root task and add to the sublist, its subtasks will automatically be "
-    "added to the list.</p>"
-    "<p>However, you can choose to select the subtasks separately from the root task "
-    "and add to the newly created sublist.</p>"
-    "<p>To differentiate the newly created sublist with the master list, you can add some fun icons "
-    "and change the icon color to your sublist.</p>",
+    "<p>При создании подсписка в меню списка задач ниже, "
+    "вы можете выбрать «Включить» выбранные задачи или «Исключить» выбранные задачи.</p>"
+    "<p>Когда вы выбираете корневую задачу и добавляете ее в подсписок, ее подзадачи будут автоматически "
+    "добавлены в список.</p>"
+    "<p>Однако вы можете выбрать подзадачи отдельно от корневой задачи "
+    "и добавить во вновь созданный подсписок.</p>"
+    "<p>Чтобы отличить вновь созданный подсписок от основного списка, вы можете добавить несколько забавных значков "
+    "и измените цвет значка для своего подсписка.</p>",
   mSublistTutorialShareTitle: "Поделитесь подсписком с нужными людьми",
   mSublistTutorialShareContent:
     "<p>После выбора задач и добавления в подсписок вы также можете "
@@ -478,7 +478,7 @@ const ruWeb = const <String, String> {
     "и продуктивность вашей команды! Продуктивность - это сосредоточение внимания на "
     "нужных вещах в нужное время!</p>"
     "<p>А теперь делайте дела и достигайте своей мечты!</p>",
-  mTimelineTutorialTitle: "Quire Tutorial - Временная шкала проекта",
+  mTimelineTutorialTitle: "Руководство Quire - Временная шкала проекта",
   mTimelineTutorialDesc:
     "Возникли проблемы с обнаружением препятствий на пути вашего проекта? Всего одним нажатием "
     "откройте список задач в виде временной шкалы и начните визуализировать свой проект с помощью простых для понимания временных рамок.",
