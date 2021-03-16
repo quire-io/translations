@@ -1434,7 +1434,7 @@ const ruServer = const <String, String> {
   mMobileViewAll: "Смотреть все",
   mMobileNewNotification: "Новое уведомление",
   mMobileUndoList: "СПИСОК ОТМЕНЫ",
-  mMobileVisitTo: "Визит [=name]",
+  mMobileVisitTo: "Перейти в [=name]",
   mMobileResultFoundIn: "РЕЗУЛЬТАТЫ НАЙДЕНЫ В",
   mMobileSidebarBookmarks: "Закладки",
   mMobileSidebarRecent: "Недавние",
