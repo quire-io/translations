@@ -91,7 +91,7 @@ const ruServer = const <String, String> {
   mUserGuide: "Документация",
   mFooterLinkDevelopers: "Разработчики и API",
   mFooterLinkCategoryCompany: "Компания",
-  mPost: "Опублировать",
+  mPost: "Опубликовать",
   mGotIt: "Понятно!",
   mReadOnly: "Только чтение",
   mReadMore: "Подробнее",
