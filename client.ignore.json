@@ -1,0 +1,13 @@
+{
+	"ja": [
+		"mDatePrep", 
+		"mTaskRecurringLabelMonthlyBy", 
+		"mTaskRecurringLabelOnWhen",
+		"mTaskRecurringLabelOnTheDay",
+		"mTaskRecurringLabelDayOfMonth",
+		"mTaskRecurringLabelDayOfMonth"
+	],
+	"de": [
+		"mTaskRecurringLabelDayOfMonth"
+	]
+}

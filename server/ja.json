@@ -969,5 +969,5 @@
 	"mMobileIncludeTaskPlural": "[=count]件のタスクを含む",
 	"mMobileExcludeTask": "[=count]件のタスクを除く",
 	"mMobileExcludeTaskPlural": "[=count]件のタスクを除く",
-	"mMobileTest": "Test translation platform works"
+	"mMobileTest": ""
 }
