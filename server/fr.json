@@ -968,5 +968,6 @@
 	"mMobileIncludeTask": "Inclure [=count] tâche",
 	"mMobileIncludeTaskPlural": "Inclure [=count] tâches",
 	"mMobileExcludeTask": "Exclure [=count] tâche",
-	"mMobileExcludeTaskPlural": "Exclure [=count] tâches"
+	"mMobileExcludeTaskPlural": "Exclure [=count] tâches",
+	"mMobileTest": "Test translation platform works"
 }
