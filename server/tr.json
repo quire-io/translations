@@ -968,6 +968,5 @@
 	"mMobileIncludeTask": "[=count] görevi dahil et",
 	"mMobileIncludeTaskPlural": "[=count] görevi dahil et",
 	"mMobileExcludeTask": "[=count] görevi çıkar",
-	"mMobileExcludeTaskPlural": "[=count] görevi çıkar",
-	"mMobileTest": ""
+	"mMobileExcludeTaskPlural": "[=count] görevi çıkar"
 }
