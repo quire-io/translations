@@ -326,7 +326,6 @@
 	"mTreeMenuDuplicate": "Duplizieren",
 	"mTreeMenuTransfer": "Übertragen nach",
 	"mTreeMenuMerge": "Zusammenführen mit",
-	"mTreeMenuMoveTo": "",
 	"mTreeMenuPaste": "Einfügen",
 	"mTreeMenuDelete": "Entfernen ([=ctrlCommand]+ENTF)",
 	"mTreeMenuCutTask": "Ausschneiden ([=ctrlCommand]+X)",

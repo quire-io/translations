@@ -326,7 +326,6 @@
 	"mTreeMenuDuplicate": "複製",
 	"mTreeMenuTransfer": "移動先",
 	"mTreeMenuMerge": "統合先",
-	"mTreeMenuMoveTo": "",
 	"mTreeMenuPaste": "ペースト",
 	"mTreeMenuDelete": "削除 ([=ctrlCommand]+DEL)",
 	"mTreeMenuCutTask": "カット ([=ctrlCommand]+X)",
