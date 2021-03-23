@@ -326,6 +326,7 @@
 	"mTreeMenuDuplicate": "Дублировать",
 	"mTreeMenuTransfer": "Перенести в",
 	"mTreeMenuMerge": "Объединить с",
+	"mTreeMenuMoveTo": "",
 	"mTreeMenuPaste": "Вставить",
 	"mTreeMenuDelete": "Удалить ([=ctrlCommand]+DEL)",
 	"mTreeMenuCutTask": "Вырезать ([=ctrlCommand]+X)",
