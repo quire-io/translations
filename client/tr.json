@@ -326,6 +326,7 @@
 	"mTreeMenuDuplicate": "Yinele",
 	"mTreeMenuTransfer": "Aktar",
 	"mTreeMenuMerge": "Birleştir",
+	"mTreeMenuMoveTo": "",
 	"mTreeMenuPaste": "Yapıştır",
 	"mTreeMenuDelete": "Sil ([=ctrlCommand]+DEL)",
 	"mTreeMenuCutTask": "Kes ([=ctrlCommand]+X)",
