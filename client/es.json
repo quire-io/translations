@@ -137,6 +137,8 @@
 	"mOkay": "De acuerdo",
 	"mYes": "Sí",
 	"mCancel": "Cancelar",
+	"mKeepOriginal": "",
+	"mReset": "",
 	"mAuth": "Obtener Autenticación",
 	"mCreate": "Crear",
 	"mCreateLink": "Crear Enlace",

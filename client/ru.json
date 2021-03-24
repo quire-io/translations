@@ -137,6 +137,8 @@
 	"mOkay": "Окей",
 	"mYes": "Да",
 	"mCancel": "Отмена",
+	"mKeepOriginal": "",
+	"mReset": "",
 	"mAuth": "Получить аутентификацию",
 	"mCreate": "Создать",
 	"mCreateLink": "Создать ссылку",

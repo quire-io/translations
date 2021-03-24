@@ -137,6 +137,8 @@
 	"mOkay": "Tamam",
 	"mYes": "Evet",
 	"mCancel": "İptal",
+	"mKeepOriginal": "",
+	"mReset": "",
 	"mAuth": "Doğrulama Yap",
 	"mCreate": "Oluştur",
 	"mCreateLink": "Link Oluştur",

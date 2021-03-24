@@ -137,6 +137,8 @@
 	"mOkay": "OK",
 	"mYes": "はい",
 	"mCancel": "取消",
+	"mKeepOriginal": "",
+	"mReset": "",
 	"mAuth": "認証を取得",
 	"mCreate": "作成",
 	"mCreateLink": "リンクを作成",
