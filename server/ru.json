@@ -187,6 +187,7 @@
 	"mUndoCompleteTaskEmptyDesc": "В последнее время ни одна задача не выполнялась.",
 	"mSearchPartialResult": "Показана только часть результатов",
 	"mSearchOtherProjects": "Поискать в других проектах",
+	"mSearchIn": "",
 	"mBackSearch": "Вернуться к поиску",
 	"mMarkAllRead": "Отметить все как прочитанное",
 	"mEmptyNotificationMessage": "У вас нет уведомлений.",

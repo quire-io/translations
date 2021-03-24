@@ -187,6 +187,7 @@
 	"mUndoCompleteTaskEmptyDesc": "最近完了したタスクはありません。",
 	"mSearchPartialResult": "結果の一部のみ表示しています",
 	"mSearchOtherProjects": "他のプロジェクトを検索",
+	"mSearchIn": "",
 	"mBackSearch": "検索に戻る",
 	"mMarkAllRead": "既読にする",
 	"mEmptyNotificationMessage": "通知がありません。",

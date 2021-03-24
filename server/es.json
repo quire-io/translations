@@ -187,6 +187,7 @@
 	"mUndoCompleteTaskEmptyDesc": "No se han completado tareas recientemente.",
 	"mSearchPartialResult": "Solo se muestra parte de los resultados",
 	"mSearchOtherProjects": "Buscar otros proyectos",
+	"mSearchIn": "",
 	"mBackSearch": "Volver a la búsqueda",
 	"mMarkAllRead": "Marcar Todo como Leído",
 	"mEmptyNotificationMessage": "No tienes notificaciones.",
