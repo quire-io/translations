@@ -912,6 +912,7 @@
 	"mSearchEscape": "<code>Esc</code>で、検索ウィンドウを閉じる",
 	"mSearchProjectHint": "検索",
 	"mSearchMustChar": "半角英数字または半角記号を3つ以上入力するか、「Enter」キーを押して検索",
+	"mSearchIn": "",
 	"mGroupDropStateToComplete": "ここにドロップしてタスクを完了",
 	"mGroupDropStateToStart": "ここにドロップしてタスクを開始",
 	"mGroupDropStateToPostpone": "ここにドロップしてタスクを延期",

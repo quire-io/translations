@@ -912,6 +912,7 @@
 	"mSearchEscape": "Нажмите <code>Esc</code> чтобы закрыть поиск",
 	"mSearchProjectHint": "поиск",
 	"mSearchMustChar": "Введите 3 или более символов или нажмите Enter для поиска",
+	"mSearchIn": "",
 	"mGroupDropStateToComplete": "Перетащите задачи сюда, чтобы завершить их",
 	"mGroupDropStateToStart": "Перетащите задачи сюда, чтобы начать их",
 	"mGroupDropStateToPostpone": "Перетащите задачи сюда, чтобы отложить их",

@@ -912,6 +912,7 @@
 	"mSearchEscape": "<code>Esc</code> per chiudere la ricerca",
 	"mSearchProjectHint": "cerca",
 	"mSearchMustChar": "Digita 3 o più caratteri oppure premi Invio per ricercare",
+	"mSearchIn": "",
 	"mGroupDropStateToComplete": "Rilascia qui per completare le attività",
 	"mGroupDropStateToStart": "Rilascia qui per iniziare le attività",
 	"mGroupDropStateToPostpone": "Rilascia qui per posporre le attività",

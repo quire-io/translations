@@ -912,6 +912,7 @@
 	"mSearchEscape": "Aramayı kapatmak için <code>Esc</code> tıklayın",
 	"mSearchProjectHint": "arama",
 	"mSearchMustChar": "3 veya daha fazla karakter yazın veya aramak için Enter tuşuna basın",
+	"mSearchIn": "",
 	"mGroupDropStateToComplete": "Tamamlamak için görevleri buraya bırakın",
 	"mGroupDropStateToStart": "Başlamak için görevleri buraya bırakın",
 	"mGroupDropStateToPostpone": "Ertelemek için görevleri buraya bırakın",
