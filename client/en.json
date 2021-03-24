@@ -778,7 +778,7 @@
 	"mLoadOrganizationsFailed": "You do not have the permission to create a project in any existing organization. You have to create your own organization first.",
 	"mArchiveProjectContent": "You are about to archive this project. An archived project will be moved to the Archived category in the sidebar.",
 	"mResetTasksStatusTitle": "Reset Status",
-	"mResetTasksStatusContent": "Do you want to reset all statuses for duplicated tasks to [=todo] ?",
+	"mResetTasksStatusContent": "Do you want to reset all statuses for duplicated tasks to [=todo]?",
 	"mDuplicateTaskCPState": "Reset all statuses to [=todo]",
 	"mTransferTaskContent": "You are about to transfer [=name] to project",
 	"mTransferTaskContentPlural": "You are about to transfer [=name] and [=count] other tasks to project",
