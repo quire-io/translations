@@ -1047,5 +1047,7 @@
 	"mAppAuthAllowTo": "İzin:",
 	"mAppAuthShowNotAllowTo": "Bu uygulamanın erişim iznine sahip olmadığı alanı göster",
 	"mAppAuthNotAllowTo": "İzin olmayanlar:",
-	"mRefreshList": "Listeyi yenile"
+	"mRefreshList": "Listeyi yenile",
+	"mTestClient1": "",
+	"mTestClient2": ""
 }

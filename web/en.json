@@ -245,5 +245,7 @@
 	"mMobileWelcomeP1Desc": "Unfold your ideas.",
 	"mMobileWelcomeP2Desc": "Swipe left or right to complete, delete or add a task.",
 	"mMobileWelcomeP3Desc": "Focus on selected tasks with Kanban board.",
-	"mMobileWelcomeP4Desc": "Add assignees, tags, due dates, etc., to get started with your project."
+	"mMobileWelcomeP4Desc": "Add assignees, tags, due dates, etc., to get started with your project.",
+	"mTestWeb1": "test translation in web 1",
+	"mTestWeb2": "test translation in web 2"
 }

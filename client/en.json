@@ -1047,5 +1047,7 @@
 	"mAppAuthAllowTo": "Permission to:",
 	"mAppAuthShowNotAllowTo": "Show which area this app has no permission to access",
 	"mAppAuthNotAllowTo": "No permission to:",
-	"mRefreshList": "Refresh list"
+	"mRefreshList": "Refresh list",
+	"mTestClient1": "test translation in client 1",
+	"mTestClient2": "test translation in client 2"
 }

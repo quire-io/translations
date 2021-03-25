@@ -245,5 +245,7 @@
 	"mMobileWelcomeP1Desc": "Schiudi le tue idee.",
 	"mMobileWelcomeP2Desc": "Scorri verso sinistra o destra per completare, eliminare o aggiungere un'attività.",
 	"mMobileWelcomeP3Desc": "Concentrati sulle attività selezionate con la bacheca Kanban.",
-	"mMobileWelcomeP4Desc": "Aggiungi assegnatari, etichette, date di scadenza, ecc., Per iniziare con il tuo progetto."
+	"mMobileWelcomeP4Desc": "Aggiungi assegnatari, etichette, date di scadenza, ecc., Per iniziare con il tuo progetto.",
+	"mTestWeb1": "",
+	"mTestWeb2": ""
 }

@@ -245,5 +245,7 @@
 	"mMobileWelcomeP1Desc": "Explorez vos idées.",
 	"mMobileWelcomeP2Desc": "Glissez une tâche vers la gauche ou vers la droite pour la terminer, la supprimer ou y ajouter une sous-tâche.",
 	"mMobileWelcomeP3Desc": "Concentrez-vous sur les tâches sélectionnées avec le tableau Kanban.",
-	"mMobileWelcomeP4Desc": "Ajoutez des attributions, des étiquettes, des échéances, etc., pour commencer votre projet."
+	"mMobileWelcomeP4Desc": "Ajoutez des attributions, des étiquettes, des échéances, etc., pour commencer votre projet.",
+	"mTestWeb1": "",
+	"mTestWeb2": ""
 }

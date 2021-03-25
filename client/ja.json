@@ -1047,5 +1047,7 @@
 	"mAppAuthAllowTo": "許可：",
 	"mAppAuthShowNotAllowTo": "このアプリにアクセスを許可しない項目を表示",
 	"mAppAuthNotAllowTo": "不許可：",
-	"mRefreshList": "リストをリロード（再読み込み）"
+	"mRefreshList": "リストをリロード（再読み込み）",
+	"mTestClient1": "",
+	"mTestClient2": ""
 }

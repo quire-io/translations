@@ -245,5 +245,7 @@
 	"mMobileWelcomeP1Desc": "Despliega tus ideas.",
 	"mMobileWelcomeP2Desc": "Desliza el dedo hacia la izquierda o hacia la derecha para completar, eliminar o añadir una tarea.",
 	"mMobileWelcomeP3Desc": "Céntrate en las tareas seleccionadas con el tablero Kanban.",
-	"mMobileWelcomeP4Desc": "Añade asignaciones, etiquetas, plazos, etc., para iniciar tu proyecto."
+	"mMobileWelcomeP4Desc": "Añade asignaciones, etiquetas, plazos, etc., para iniciar tu proyecto.",
+	"mTestWeb1": "",
+	"mTestWeb2": ""
 }

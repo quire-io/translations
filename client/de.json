@@ -1047,5 +1047,7 @@
 	"mAppAuthAllowTo": "Erlaubnis für:",
 	"mAppAuthShowNotAllowTo": "Anzeigen, auf welchen Bereich diese App keinen Zugriff hat",
 	"mAppAuthNotAllowTo": "Keine Erlaubnis für:",
-	"mRefreshList": "Liste aktualisieren"
+	"mRefreshList": "Liste aktualisieren",
+	"mTestClient1": "",
+	"mTestClient2": ""
 }

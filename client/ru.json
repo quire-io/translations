@@ -1047,5 +1047,7 @@
 	"mAppAuthAllowTo": "Разрешения на:",
 	"mAppAuthShowNotAllowTo": "Показать, к какой области у этого приложения нет разрешения на доступ",
 	"mAppAuthNotAllowTo": "Нет разрешений на:",
-	"mRefreshList": "Обновить список"
+	"mRefreshList": "Обновить список",
+	"mTestClient1": "",
+	"mTestClient2": ""
 }
