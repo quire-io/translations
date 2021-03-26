@@ -968,7 +968,5 @@
     "mMobileIncludeTask": "Incluir [=count] la tarea",
     "mMobileIncludeTaskPlural": "Incluir [=count] las tareas",
     "mMobileExcludeTask": "Excluir [=count] tarea",
-    "mMobileExcludeTaskPlural": "Excluir [=count] las tareas",
-    "mTestServer1": "",
-    "mTestServer3": ""
+    "mMobileExcludeTaskPlural": "Excluir [=count] las tareas"
 }

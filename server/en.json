@@ -968,7 +968,5 @@
     "mMobileIncludeTask": "Include [=count] task",
     "mMobileIncludeTaskPlural": "Include [=count] tasks",
     "mMobileExcludeTask": "Exclude [=count] task",
-    "mMobileExcludeTaskPlural": "Exclude [=count] tasks",
-    "mTestServer1": "test translation in server 1 with update",
-    "mTestServer3": "test translation in server 3"
+    "mMobileExcludeTaskPlural": "Exclude [=count] tasks"
 }

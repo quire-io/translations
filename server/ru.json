@@ -968,7 +968,5 @@
     "mMobileIncludeTask": "Включить [=count] задачу",
     "mMobileIncludeTaskPlural": "Включить [=count] задач",
     "mMobileExcludeTask": "Исключить [=count] задачу",
-    "mMobileExcludeTaskPlural": "Исключить [=count] задач",
-    "mTestServer1": "",
-    "mTestServer3": ""
+    "mMobileExcludeTaskPlural": "Исключить [=count] задач"
 }

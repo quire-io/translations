@@ -968,7 +968,5 @@
     "mMobileIncludeTask": "[=count] Aufgabe einbeziehen",
     "mMobileIncludeTaskPlural": "[=count] Aufgaben einbeziehen",
     "mMobileExcludeTask": "[=count] Aufgabe ausschließen",
-    "mMobileExcludeTaskPlural": "[=count] Aufgaben ausschließen",
-    "mTestServer1": "",
-    "mTestServer3": ""
+    "mMobileExcludeTaskPlural": "[=count] Aufgaben ausschließen"
 }
