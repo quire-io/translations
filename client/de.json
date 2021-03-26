@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Drücken Sie Tab und Shift+Tab, um Aufgaben horizontal zu verschieben",
     "mNewTaskNameHint3": "Drücken Sie Esc oder Enter, um das Hinzufügen von Aufgaben zu beenden",
     "mSearchIconTooltip": "Aufgaben durchsuchen <code>s</code>",
-    "mSearchTaskHintIncomplete": "Unvollständige Aufgaben durchsuchen",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Alle Aufgaben durchsuchen",
     "mSearchTaskHintComplete": "Abgeschlossene Aufgaben durchsuchen",
     "mSearchTaskHintArchive": "Peekaboo Aufgaben durchsuchen",

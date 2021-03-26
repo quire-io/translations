@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Нажмите Tab и Shift+Tab, чтобы переместить задачу по горизонтали",
     "mNewTaskNameHint3": "Нажмите Esc или Enter, чтобы прекратить добавление задач.",
     "mSearchIconTooltip": "Поиск задач <code>s</code>",
-    "mSearchTaskHintIncomplete": "Искать по незавершенным задачам",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Искать по всем задачам",
     "mSearchTaskHintComplete": "Искать по выполненным задачам",
     "mSearchTaskHintArchive": "Искать по скрытым задачам",

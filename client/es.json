@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Pulsa Tab y Mayus+Tab para mover la tarea horizontalmente",
     "mNewTaskNameHint3": "Presiona Esc o Entrar para dejar de añadir tareas",
     "mSearchIconTooltip": "Buscar tareas <code>s</code>",
-    "mSearchTaskHintIncomplete": "Buscar tareas incompletas",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Buscar en todas las tareas",
     "mSearchTaskHintComplete": "Buscar tareas completadas",
     "mSearchTaskHintArchive": "Buscar tareas peekaboo",

@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "タスクを横に移動するには、「Tab」や「Shift+Tab」キーを押します。",
     "mNewTaskNameHint3": "タスクの追加を中止するには、「Esc」または「Enter」キーを押します。",
     "mSearchIconTooltip": "タスクを検索 <code>s</code>",
-    "mSearchTaskHintIncomplete": "未完了のタスクを検索",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "すべてのタスクを検索",
     "mSearchTaskHintComplete": "完了したタスクを検索",
     "mSearchTaskHintArchive": "「あとで表示」のタスクを検索",

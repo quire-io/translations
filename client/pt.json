@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Pressione Tab e Shift+Tab para mover a tarefa horizontalmente",
     "mNewTaskNameHint3": "Pressione Esc para parar de adicionar tarefas",
     "mSearchIconTooltip": "Pesquisar tarefas <code>s</code>",
-    "mSearchTaskHintIncomplete": "Pesquisar tarefas incompletas",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Pesquisar todas as tarefas",
     "mSearchTaskHintComplete": "Pesquisar tarefas concluídas",
     "mSearchTaskHintArchive": "Pesquisar tarefas peekaboo",

@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Görevi yatay olarak taşımak için Tab ve Shift+Tab tuşlarına basın",
     "mNewTaskNameHint3": "Görev eklemeyi durdurmak için Esc veya Enter tuşlarına basın",
     "mSearchIconTooltip": "Görevleri ara <code>s</code>",
-    "mSearchTaskHintIncomplete": "Tamamlanmamış görevleri ara",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Tüm görevleri ara",
     "mSearchTaskHintComplete": "Tamamlanmış görevleri ara",
     "mSearchTaskHintArchive": "Mahzendeki görevleri ara",

@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Premi Tab e Shift+Tab per muovere attività orizzontalmente",
     "mNewTaskNameHint3": "Premi Esc o Invio per smettere di aggiungere attività",
     "mSearchIconTooltip": "Ricerca attività <code>s</code>",
-    "mSearchTaskHintIncomplete": "Ricerca attività incomplete",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Ricerca tutte le attività",
     "mSearchTaskHintComplete": "Ricerca attività completate",
     "mSearchTaskHintArchive": "Ricerca attività peekaboo",

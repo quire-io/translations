@@ -595,7 +595,7 @@
     "mNewTaskNameHint2": "Tapez Tab et Maj+Tab pour déplacer une tâche horizontalement",
     "mNewTaskNameHint3": "Tapez Esc ou Entrer pour arrêter d'ajouter des tâches",
     "mSearchIconTooltip": "Chercher des tâches <code>s</code>",
-    "mSearchTaskHintIncomplete": "Chercher parmi les tâches incomplètes",
+    "mSearchTaskHintIncomplete": "",
     "mSearchTaskHintAll": "Chercher parmi toutes les tâches",
     "mSearchTaskHintComplete": "Chercher parmi les tâches terminées",
     "mSearchTaskHintArchive": "Chercher parmi les tâches peekaboo",
