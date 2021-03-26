@@ -193,6 +193,8 @@
     "mShowMoreActivities": "Önceki etkinlikleri göster",
     "mShowMoreTasks": "Daha fazla görev göster",
     "mShowMoreComments": "Önceki yorumları göster",
+    "mShowMoreResults": "",
+    "mEndOfResults": "",
     "mEmptyComments": "Yorum yok",
     "mEmptyCommentsDesc": "<a>Yorum ekleyen</a> ilk siz olun",
     "mNewComments": "Yeni yorumlar",

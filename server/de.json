@@ -193,6 +193,8 @@
     "mShowMoreActivities": "Frühere Aktivitäten zeigen",
     "mShowMoreTasks": "Mehr Aufgaben anzeigen",
     "mShowMoreComments": "Frühere Kommentare zeigen",
+    "mShowMoreResults": "",
+    "mEndOfResults": "",
     "mEmptyComments": "Keine Kommentare",
     "mEmptyCommentsDesc": "<a>Kommentar verfassen</a>",
     "mNewComments": "Neue Kommentare",

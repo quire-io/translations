@@ -193,6 +193,8 @@
     "mShowMoreActivities": "Показать предыдущие действия",
     "mShowMoreTasks": "Показать больше задач",
     "mShowMoreComments": "Показать предыдущие комментарии",
+    "mShowMoreResults": "",
+    "mEndOfResults": "",
     "mEmptyComments": "Без комментариев",
     "mEmptyCommentsDesc": "Будьте первым, кто <a>оставит комментарий</a>",
     "mNewComments": "Новые комментарии",

@@ -193,6 +193,8 @@
     "mShowMoreActivities": "Afficher les activités antérieures",
     "mShowMoreTasks": "Afficher plus de tâches",
     "mShowMoreComments": "Afficher les commentaires antérieurs",
+    "mShowMoreResults": "",
+    "mEndOfResults": "",
     "mEmptyComments": "Pas de commentaires",
     "mEmptyCommentsDesc": "Soyez le premier à <a>ajouter un commentaire</a>",
     "mNewComments": "Nouveaux commentaires",
