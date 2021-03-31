@@ -877,8 +877,6 @@
     "mChangeBoardTitle": "Cambia Bacheca",
     "mChangeBoardContent": "Spostare le attività dalla bacheca [=board] a questa?",
     "mChangeBoardContentPlural": "Spostare le attività dalla bacheca [=board] e [=count] altri a questa?",
-    "mAddTaskToBoardTitle": "Aggiungi Attività Esistenti",
-    "mAddTaskToBoardContent": "Puoi selezionare attivià esistendi da aggiungere a questa bacheca.",
     "mAddedInBoardTooltip": "Aggiunti a <i>[=board]</i>",
     "mAddedMyTaskMessage": "Aggiunti [=task]",
     "mConfirmAddTaskToBoardTitle": "Stato Modificato",

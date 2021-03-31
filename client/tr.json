@@ -877,8 +877,6 @@
     "mChangeBoardTitle": "Pano Değişikliği",
     "mChangeBoardContent": "Görevler [=board] panosundan bu panoya taşınsın mı?",
     "mChangeBoardContentPlural": "Görevler [=board] ve diğer [=count] panodan bu panoya taşınsın mı?",
-    "mAddTaskToBoardTitle": "Mevcut Görevleri Ekle",
-    "mAddTaskToBoardContent": "Bu panoya eklemek için mevcut görevleri seçebilirsiniz.",
     "mAddedInBoardTooltip": "<i>[=board]</i> panosuna eklendi",
     "mAddedMyTaskMessage": "[=task] eklendi",
     "mConfirmAddTaskToBoardTitle": "Durum Değişikliği",

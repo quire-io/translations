@@ -877,8 +877,6 @@
     "mChangeBoardTitle": "Смена доски",
     "mChangeBoardContent": "Перенести задачи из [=board] на эту доску?",
     "mChangeBoardContentPlural": "Перенести задачи из [=board] и [=count] др. на эту доску?",
-    "mAddTaskToBoardTitle": "Добавить существующие задачи",
-    "mAddTaskToBoardContent": "Вы можете выбрать существующие задачи для добавления на эту доску.",
     "mAddedInBoardTooltip": "Добавлено в <i>[=board]</i>",
     "mAddedMyTaskMessage": "Добавлено [=task]",
     "mConfirmAddTaskToBoardTitle": "Изменение статуса",

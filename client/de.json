@@ -877,8 +877,6 @@
     "mChangeBoardTitle": "Boardwechsel",
     "mChangeBoardContent": "Aufgaben von [=board] auf dieses Board verschieben?",
     "mChangeBoardContentPlural": "Aufgaben von [=board] und [=count] anderen auf dieses Board verschieben?",
-    "mAddTaskToBoardTitle": "Vorhandene Aufgaben hinzufügen",
-    "mAddTaskToBoardContent": "Sie können vorhandene Aufgaben auswählen und zu diesem Board hinzufügen.",
     "mAddedInBoardTooltip": "Hinzugefügt zu <i>[=board]</i>",
     "mAddedMyTaskMessage": "[=task] hinzugefügt",
     "mConfirmAddTaskToBoardTitle": "Statusänderung",

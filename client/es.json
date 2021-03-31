@@ -877,8 +877,6 @@
     "mChangeBoardTitle": "Cambio del tablero",
     "mChangeBoardContent": "Mover las tareas de [=board] a este tablero?",
     "mChangeBoardContentPlural": "Mover las tareas de [=board] y [=count] a este tablero?",
-    "mAddTaskToBoardTitle": "Añadir Tareas Existentes",
-    "mAddTaskToBoardContent": "Puedes seleccionar tareas existentes para añadir a este tablero.",
     "mAddedInBoardTooltip": "Añadido a <i>[=board]</i>",
     "mAddedMyTaskMessage": "Añadido [=task]",
     "mConfirmAddTaskToBoardTitle": "Cambio de Estado",
