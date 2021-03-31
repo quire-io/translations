@@ -1,6 +1,6 @@
 {
     "mSubmit": "Enviar",
-    "mClear": "Clear",
+    "mClear": "Limpar",
     "mSystemBusy": "Desculpe, o sistema está ocupado. Por favor, tente novamente. Se o problema persistir, por favor, <a href=\"/feedback\">contacte-nos</a>. Obrigado!",
     "mPleaseUpgrade": "Atualize seu aplicativo para a versão mais recente.",
     "mProjectLower": "projeto",
@@ -193,8 +193,8 @@
     "mShowMoreActivities": "Mostrar atividades anteriores",
     "mShowMoreTasks": "Mostrar mais tarefas",
     "mShowMoreComments": "Mostrar comentários anteriores",
-    "mShowMoreResults": "",
-    "mEndOfResults": "",
+    "mShowMoreResults": "Mostrar mais resultados",
+    "mEndOfResults": "Fim dos resultados da pesquisa",
     "mEmptyComments": "Sem comentários",
     "mEmptyCommentsDesc": "Seja o primeiro a <a>adicionar um comentário <a>",
     "mNewComments": "Novos comentários",
