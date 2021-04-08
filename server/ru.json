@@ -462,6 +462,7 @@
     "mSettingOptionPublicDesc": "Доступ любому пользователю, включая анонимных",
     "mSettingOptionPublicAllowAddDesc": "Разрешить пользователям добавлять задачи на верхнем уровне",
     "mSettingOptionOthers": "",
+    "mSettingOptionRightToLeft": "",
     "mSettingOptionExportCsv": "Экспорт в CSV",
     "mSettingOptionExportJson": "Экспорт в JSON",
     "mSettingOptionDuplicateProject": "Дублировать проект",

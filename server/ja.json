@@ -462,6 +462,7 @@
     "mSettingOptionPublicDesc": "匿名のユーザーを含むすべてのユーザーが利用できます",
     "mSettingOptionPublicAllowAddDesc": "ユーザーがレベル1にタスクを追加することを許可",
     "mSettingOptionOthers": "",
+    "mSettingOptionRightToLeft": "",
     "mSettingOptionExportCsv": "CSVにエクスポート",
     "mSettingOptionExportJson": "JSONにエクスポート",
     "mSettingOptionDuplicateProject": "プロジェクトを複製",

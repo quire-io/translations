@@ -462,6 +462,7 @@
     "mSettingOptionPublicDesc": "Disponible para cualquier usuario, incluidos usuarios anónimos",
     "mSettingOptionPublicAllowAddDesc": "Permitir a los usuarios añadir tareas en el primer nivel",
     "mSettingOptionOthers": "",
+    "mSettingOptionRightToLeft": "",
     "mSettingOptionExportCsv": "Exportar a CSV",
     "mSettingOptionExportJson": "Exportar a JSON",
     "mSettingOptionDuplicateProject": "Duplicar proyecto",

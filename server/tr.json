@@ -462,6 +462,7 @@
     "mSettingOptionPublicDesc": "Anonim kullanıcılar da dahil olmak üzere tüm kullanıcılara açık",
     "mSettingOptionPublicAllowAddDesc": "Kullanıcıların ilk seviyede görev eklemesine izin ver",
     "mSettingOptionOthers": "",
+    "mSettingOptionRightToLeft": "",
     "mSettingOptionExportCsv": "CSV'ye aktar",
     "mSettingOptionExportJson": "JSON'a aktar",
     "mSettingOptionDuplicateProject": "Projeyi yinele",
