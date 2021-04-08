@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "[=n] tarefas recomendadas para esta tarefa",
     "mReferrers": "Recomendadores",
     "mSubtaskStatus": "[=active] sub-tarefas incompletas e [=completed] concluídas",
-    "mSubtaskStatisticOthers": "",
+    "mSubtaskStatisticOthers": "[=$mOthers]",
     "mSubtaskStatisticFirstLevel": "Sub-tarefas de Primeiro Nível",
     "mProjectMember": "Membros do Projeto",
     "mMemberAmount": "[=amount] membros",
