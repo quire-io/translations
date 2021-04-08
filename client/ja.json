@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "このタスクは[=n]件のタスクが参照",
     "mReferrers": "参照元",
     "mSubtaskStatus": "子タスクは未完了[=active]件、完了[=completed]件",
-    "mSubtaskStatisticOthers": "その他",
+    "mSubtaskStatisticOthers": "",
     "mSubtaskStatisticFirstLevel": "レベル1の子タスク",
     "mProjectMember": "プロジェクトのメンバー",
     "mMemberAmount": "[=amount]人",

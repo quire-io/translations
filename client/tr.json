@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "Bu göreve atıfta bulunan [=n] görev var",
     "mReferrers": "Atıflar",
     "mSubtaskStatus": "[=active] tamamlanmamış ve [=completed] tamamlanmış alt görev",
-    "mSubtaskStatisticOthers": "Diğerleri",
+    "mSubtaskStatisticOthers": "",
     "mSubtaskStatisticFirstLevel": "Birinci düzey alt görevler",
     "mProjectMember": "Proje Üyeleri",
     "mMemberAmount": "[=amount] üye",

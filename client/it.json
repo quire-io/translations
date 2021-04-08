@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "[=n] attività referenziate a questa",
     "mReferrers": "Refrenti",
     "mSubtaskStatus": "[=active] incompleti e [=completed] subattività completate",
-    "mSubtaskStatisticOthers": "Altri",
+    "mSubtaskStatisticOthers": "",
     "mSubtaskStatisticFirstLevel": "Subattività di primo livello",
     "mProjectMember": "Membri del progetto",
     "mMemberAmount": "[=amount] memberi",

@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "[=n] задач., относящиеся к этой задаче",
     "mReferrers": "Ссылки",
     "mSubtaskStatus": "[=active] незавершенных и [=completed] выполненных подзадач",
-    "mSubtaskStatisticOthers": "Другие",
+    "mSubtaskStatisticOthers": "",
     "mSubtaskStatisticFirstLevel": "Подзадачи первого уровня",
     "mProjectMember": "Участники проекта",
     "mMemberAmount": "[=amount] участников",
