@@ -968,7 +968,7 @@
     "mTimeline": "タイムライン",
     "mTreeViewKey": "[=$mTree] <code>1</code>",
     "mBoardViewKey": "[=$mBoard] <code>2</code>",
-    "mTimelineViewKey": "[=$mTreeViewKey] <code>3</code>",
+    "mTimelineViewKey": "[=$mTimeline] <code>3</code>",
     "mProfileEditTooltip": "編集",
     "mStatsWeeklyCompletedLabel": "完了",
     "mStatsWeeklyCreatedLabel": "作成",

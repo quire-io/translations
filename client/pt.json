@@ -968,7 +968,7 @@
     "mTimeline": "Cronograma",
     "mTreeViewKey": "[=$mTree] <code>1</code>",
     "mBoardViewKey": "[=$mBoard] <code>2</code>",
-    "mTimelineViewKey": "[=$mTreeViewKey] <code>3</code>",
+    "mTimelineViewKey": "[=$mTimeline] <code>3</code>",
     "mProfileEditTooltip": "Editar",
     "mStatsWeeklyCompletedLabel": "Concluído",
     "mStatsWeeklyCreatedLabel": "Criado",
