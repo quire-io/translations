@@ -962,7 +962,7 @@
     "mTipReopenArchive": "As tarefas Peekaboo serão automaticamente mostradas de novo na data selecionada.",
     "mTipFilterForArchived": "Você pode clicar em Tarefas Peekaboo para ver as tarefas que acabou de ocultar.",
     "mProfileViewTooltip": "Visão Geral",
-    "mTreeViewTooltip": "Lista",
+    "mTaskViewTooltip": "Lista",
     "mMyTaskViewTooltip": "As Minhas Tarefas",
     "mUserTaskViewTooltip": "Tarefas",
     "mTimeline": "Cronograma",
