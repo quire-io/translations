@@ -461,7 +461,7 @@
     "mSettingOptionPublic": "Público",
     "mSettingOptionPublicDesc": "Disponible para cualquier usuario, incluidos usuarios anónimos",
     "mSettingOptionPublicAllowAddDesc": "Permitir a los usuarios añadir tareas en el primer nivel",
-    "mSettingOptionOthers": "[=$mOtros]",
+    "mSettingOptionOthers": "[=$mOthers]",
     "mSettingOptionRightToLeft": "Activar el formato de derecha a izquierda",
     "mSettingOptionExportCsv": "Exportar a CSV",
     "mSettingOptionExportJson": "Exportar a JSON",
