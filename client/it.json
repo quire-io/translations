@@ -312,7 +312,7 @@
     "mMultipleGrouperSepLabel": "Poi",
     "mExcludeCompletedTaskIn": "Escludi attività completate in",
     "mExcludeCompletedTaskOverNDays": "In [=n] giorni",
-    "mReloadViewTooltip": "Clicca qui per vedere gli ultimi aggiornamenti",
+    "mReloadViewKey": "Clicca qui per vedere gli ultimi aggiornamenti <code>r</code>",
     "mProjectISPublic": "Questo progetto è pubblico",
     "mDeleteTask": "Cancella questa attività ([=ctrlCommand]+DEL)",
     "mArchiveTask": "Peekaboo questa attività",

@@ -312,7 +312,7 @@
     "mMultipleGrouperSepLabel": "Entonces",
     "mExcludeCompletedTaskIn": "Excluir las tareas completadas",
     "mExcludeCompletedTaskOverNDays": "hasta [=n] días",
-    "mReloadViewTooltip": "Pulsa aquí para ver las últimas actualizaciones",
+    "mReloadViewKey": "Pulsa aquí para ver las últimas actualizaciones <code>r</code>",
     "mProjectISPublic": "Este proyecto es público",
     "mDeleteTask": "Eliminar esta tarea ([=ctrlCommand]+DEL)",
     "mArchiveTask": "Peekaboo esta tarea",

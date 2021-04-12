@@ -312,7 +312,7 @@
     "mMultipleGrouperSepLabel": "Dann",
     "mExcludeCompletedTaskIn": "Abgeschlossene Aufgabe ausschließen in",
     "mExcludeCompletedTaskOverNDays": "Über [=n] Tage",
-    "mReloadViewTooltip": "Klicken Sie hier, um die neuesten Updates zu sehen",
+    "mReloadViewKey": "Klicken Sie hier, um die neuesten Updates zu sehen <code>r</code>",
     "mProjectISPublic": "Dieses Projekt ist öffentlich",
     "mDeleteTask": "Diese Aufgabe löschen ([=ctrlCommand]+Entf)",
     "mArchiveTask": "Peekaboo auf diese Aufgabe anwenden",

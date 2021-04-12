@@ -312,7 +312,7 @@
     "mMultipleGrouperSepLabel": "＋",
     "mExcludeCompletedTaskIn": "非表示にするタスクの完了日は",
     "mExcludeCompletedTaskOverNDays": "[=n]日前",
-    "mReloadViewTooltip": "クリックして最新の更新を確認",
+    "mReloadViewKey": "クリックして最新の更新を確認 <code>r</code>",
     "mProjectISPublic": "このプロジェクトは公開されています",
     "mDeleteTask": "このタスクを削除 ([=ctrlCommand]+DEL)",
     "mArchiveTask": "このタスクをあとで表示",

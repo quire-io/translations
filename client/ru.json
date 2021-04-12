@@ -312,7 +312,7 @@
     "mMultipleGrouperSepLabel": "Затем",
     "mExcludeCompletedTaskIn": "Исключить выполненные задачи",
     "mExcludeCompletedTaskOverNDays": "Более [=n] дней",
-    "mReloadViewTooltip": "Нажмите, чтобы просмотреть последние обновления",
+    "mReloadViewKey": "Нажмите, чтобы просмотреть последние обновления <code>r</code>",
     "mProjectISPublic": "Этот проект публичный",
     "mDeleteTask": "Удалить эту задачу ([=ctrlCommand]+DEL)",
     "mArchiveTask": "Скрыть эту задачу",
