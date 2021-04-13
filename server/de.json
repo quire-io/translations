@@ -43,6 +43,8 @@
     "mTryAgain": "Bitte probieren Sie es erneut",
     "mSignupAt": "Angemeldet",
     "mCreatedAt": "Erstellt",
+    "mFrom": "",
+    "mTo": "",
     "mTour": "Tour",
     "mFeatures": "Features",
     "mBlog": "Blog",
