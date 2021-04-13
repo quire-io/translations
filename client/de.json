@@ -230,7 +230,7 @@
     "mReferredTaskAmount": "[=n] Aufgaben verweisen auf diese Aufgabe",
     "mReferrers": "Verweise",
     "mSubtaskStatus": "[=active] offene und [=completed] erledigte Unteraufgaben",
-    "mSubtaskStatisticOthers": "",
+    "mSubtaskStatisticOthers": "[=$mOthers]",
     "mSubtaskStatisticFirstLevel": "Unteraufgaben der ersten Ebene",
     "mProjectMember": "Projektmitglieder",
     "mMemberAmount": "[=amount] Mitglieder",
