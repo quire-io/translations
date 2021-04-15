@@ -24,6 +24,7 @@
     "mLanguage": "言語",
     "mLanguageAuto": "（自動）",
     "mFirstDayOfWeek": "週の始まりの曜日",
+    "mWeekend": "",
     "m24hourTime": "時刻",
     "m24hourTimeDesc": "24時間表示",
     "mAllow": "許可",

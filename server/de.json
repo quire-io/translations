@@ -24,6 +24,7 @@
     "mLanguage": "Sprache",
     "mLanguageAuto": "(auto)",
     "mFirstDayOfWeek": "Erster Tag der Woche",
+    "mWeekend": "",
     "m24hourTime": "Zeit",
     "m24hourTimeDesc": "24-Stunden-Zeit aktivieren",
     "mAllow": "Zulassen",
