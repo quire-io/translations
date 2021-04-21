@@ -165,7 +165,7 @@
     "mAlreadyConfirmDesc": "Vous avez déjà confirmé cette adresse email.",
     "mSignupConfirmTitle": "Merci pour votre confirmation",
     "mSignupConfirmDesc": "Merci d\\'avoir confirmé votre adresse email <strong>[=email]</strong>.<br/>[=continue]",
-    "mSignupConfirmThenLogin": "Please <a href=\"/login\">log in here</a> to proceed.",
+    "mSignupConfirmThenLogin": "Veuillez <a href=\"/login\">vous connecter</a> pour continuer.",
     "mInviteFriends": "Inviter des Amis",
     "mInviteFriendsTitle": "Invitez vos amis à bord",
     "mInviteFriendsDesc": "Vous appréciez votre expérience avec Quire ?<br/>Dites à vos amis qu'ils peuvent également accomplir leur rêve facilement !",
