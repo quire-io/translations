@@ -424,7 +424,7 @@
     "mEditComment": "Editar comentário",
     "mPinComment": "Fixar",
     "mUnpinComment": "Soltar",
-    "mMoreComment": "",
+    "mMoreComment": "Existem mais [=count] comentários para essa tarefa.",
     "mLearnMore": "Aprenda mais",
     "mLoadMore": "Carregar mais",
     "mMore": "mais",
