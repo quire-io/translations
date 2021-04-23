@@ -424,6 +424,7 @@
     "mEditComment": "Edit comment",
     "mPinComment": "Pin",
     "mUnpinComment": "Unpin",
+    "mMoreComment": "There are [=count]+ more comments for this task.",
     "mLearnMore": "Learn more",
     "mLoadMore": "Load more",
     "mMore": "more",
