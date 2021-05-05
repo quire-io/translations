@@ -243,9 +243,11 @@
     "mMobileWelcomeP1Title2": "Hoşgeldiniz",
     "mMobileWelcomeP2Title": "Başlangıçtan bitime",
     "mMobileWelcomeP3Title": "İş akışınızı kolaylaştırın",
-    "mMobileWelcomeP4Title": "Harekete geçin",
+    "mMobileWelcomeP4Title": "",
+    "mMobileWelcomeP5Title": "Harekete geçin",
     "mMobileWelcomeP1Desc": "Fikirlerinizi ortaya çıkarın.",
     "mMobileWelcomeP2Desc": "Bir görevi tamamlamak, silmek veya eklemek için sola veya sağa kaydırın.",
     "mMobileWelcomeP3Desc": "Kanban panosu ile seçilen görevlere odaklanın.",
-    "mMobileWelcomeP4Desc": "Projenize başlamak için sorumlular, etiketler, termin tarihleri vb. ekleyin.."
+    "mMobileWelcomeP4Desc": "",
+    "mMobileWelcomeP5Desc": "Projenize başlamak için sorumlular, etiketler, termin tarihleri vb. ekleyin.."
 }

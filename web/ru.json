@@ -243,9 +243,11 @@
     "mMobileWelcomeP1Title2": "Quire",
     "mMobileWelcomeP2Title": "От начала до конца",
     "mMobileWelcomeP3Title": "Оптимизируйте свой рабочий процесс",
-    "mMobileWelcomeP4Title": "Приступайте к действиям",
+    "mMobileWelcomeP4Title": "",
+    "mMobileWelcomeP5Title": "Приступайте к действиям",
     "mMobileWelcomeP1Desc": "Раскройте свои идеи.",
     "mMobileWelcomeP2Desc": "Проведите пальцем влево или вправо, чтобы завершить, удалить или добавить задачу.",
     "mMobileWelcomeP3Desc": "Сосредоточьтесь на выбранных задачах с помощью доски Канбан.",
-    "mMobileWelcomeP4Desc": "Добавьте исполнителей, метки, сроки выполнения и т.д., чтобы начать работу над проектом."
+    "mMobileWelcomeP4Desc": "",
+    "mMobileWelcomeP5Desc": "Добавьте исполнителей, метки, сроки выполнения и т.д., чтобы начать работу над проектом."
 }

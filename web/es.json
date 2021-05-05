@@ -243,9 +243,11 @@
     "mMobileWelcomeP1Title2": "Quire",
     "mMobileWelcomeP2Title": "De principio a fin",
     "mMobileWelcomeP3Title": "Organiza tu trabajo",
-    "mMobileWelcomeP4Title": "Ponte en acción",
+    "mMobileWelcomeP4Title": "",
+    "mMobileWelcomeP5Title": "Ponte en acción",
     "mMobileWelcomeP1Desc": "Despliega tus ideas.",
     "mMobileWelcomeP2Desc": "Desliza el dedo hacia la izquierda o hacia la derecha para completar, eliminar o añadir una tarea.",
     "mMobileWelcomeP3Desc": "Céntrate en las tareas seleccionadas con el tablero Kanban.",
-    "mMobileWelcomeP4Desc": "Añade asignaciones, etiquetas, plazos, etc., para iniciar tu proyecto."
+    "mMobileWelcomeP4Desc": "",
+    "mMobileWelcomeP5Desc": "Añade asignaciones, etiquetas, plazos, etc., para iniciar tu proyecto."
 }

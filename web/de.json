@@ -243,9 +243,11 @@
     "mMobileWelcomeP1Title2": "Quire",
     "mMobileWelcomeP2Title": "Von Anfang bis Ende",
     "mMobileWelcomeP3Title": "Optimieren Sie Ihren Workflow",
-    "mMobileWelcomeP4Title": "Loslegen",
+    "mMobileWelcomeP4Title": "",
+    "mMobileWelcomeP5Title": "Loslegen",
     "mMobileWelcomeP1Desc": "Entfalten Sie Ihre Ideen.",
     "mMobileWelcomeP2Desc": "Wischen sie links oder rechts um Aufgaben zu erledigen, löschen oder hinzuzufügen.",
     "mMobileWelcomeP3Desc": "Konzentrieren Sie sich mit Kanban Boards auf ausgewählte Aufgaben.",
-    "mMobileWelcomeP4Desc": "Fügen Sie Bearbeiter, Tags, Fälligkeitstermine usw. hinzu, um mit Ihrem Projekt zu beginnen."
+    "mMobileWelcomeP4Desc": "",
+    "mMobileWelcomeP5Desc": "Fügen Sie Bearbeiter, Tags, Fälligkeitstermine usw. hinzu, um mit Ihrem Projekt zu beginnen."
 }

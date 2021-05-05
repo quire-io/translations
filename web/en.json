@@ -243,9 +243,11 @@
     "mMobileWelcomeP1Title2": "Quire",
     "mMobileWelcomeP2Title": "From start to finish",
     "mMobileWelcomeP3Title": "Streamline your workflow",
-    "mMobileWelcomeP4Title": "Get into action",
+    "mMobileWelcomeP4Title": "Map out timeline",
+    "mMobileWelcomeP5Title": "Get into action",
     "mMobileWelcomeP1Desc": "Unfold your ideas.",
     "mMobileWelcomeP2Desc": "Swipe left or right to complete, delete or add a task.",
     "mMobileWelcomeP3Desc": "Focus on selected tasks with Kanban board.",
-    "mMobileWelcomeP4Desc": "Add assignees, tags, due dates, etc., to get started with your project."
+    "mMobileWelcomeP4Desc": "Plan ahead with a versatile Gantt chart.",
+    "mMobileWelcomeP5Desc": "Add assignees, tags, due dates, etc., to get started with your project."
 }
