@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "ボードを削除",
     "mDeleteStatusTitle": "状態を消去",
     "mMakeUnarchiveMsg": "このプロジェクトのアーカイブを解除しました。",
-    "mPermissionChange": "このプロジェクトでのご自身の権限が変更されました。",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "組織での役割を変えると、このメンバーは一部のプロジェクトにアクセスできなくなります。",
     "mRemoveOrganizationMemberContent": "この組織内のすべてのタスクから、このメンバーの担当を解除します。",
     "mRemoveProjectMemberContent": "このプロジェクト内の[=task]から、このメンバーの担当を解除します。",

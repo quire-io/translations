@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Delete Board",
     "mDeleteStatusTitle": "Remove Status",
     "mMakeUnarchiveMsg": "You've unarchived this project.",
-    "mPermissionChange": "Your permissions in this project have been changed.",
+    "mPermissionChange": "Your permissions for this workspace have been changed.",
     "mConfirmChangeOrganizationMemberRoleContent": "This member will lose their access to particular projects if you change their organization roles.",
     "mRemoveOrganizationMemberContent": "This member will be unassigned from all tasks in this organization.",
     "mRemoveProjectMemberContent": "This member will be unassigned from [=task] in this project.",

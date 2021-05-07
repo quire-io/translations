@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Supprimer le tableau",
     "mDeleteStatusTitle": "Retirer le statut",
     "mMakeUnarchiveMsg": "Vous avez désarchivé ce projet.",
-    "mPermissionChange": "Vos permissions dans ce projet ont été modifiées.",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "Ce membre perdra l'accès à certains projets si vous le changez de rôle dans l'organisation.",
     "mRemoveOrganizationMemberContent": "Les tâches de cette organisation ne seront plus attribuées à ce membre.",
     "mRemoveProjectMemberContent": "[=task] ne sera plus attribuée à ce membre dans ce projet.",

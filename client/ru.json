@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Удалить доску",
     "mDeleteStatusTitle": "Удалить статус",
     "mMakeUnarchiveMsg": "Вы разархивировали этот проект.",
-    "mPermissionChange": "Ваши разрешения в этом проекте были изменены.",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "Этот участник потеряет доступ к определенным проектам, если вы измените его роли в организации.",
     "mRemoveOrganizationMemberContent": "Этот участник будет отстранен от всех задач в этой организации.",
     "mRemoveProjectMemberContent": "Этот участник будет отстранен от задачи [=task] в этом проекте.",

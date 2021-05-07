@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Board löschen",
     "mDeleteStatusTitle": "Status entfernen",
     "mMakeUnarchiveMsg": "Sie haben dieses Projekt aus dem Archiv geholt.",
-    "mPermissionChange": "Ihre Berechtigungen in diesem Projekt haben sich geändert.",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "Dieses Mitglied verliert den Zugriff auf bestimmte Projekte, wenn Sie dessen Organisationsrollen ändern.",
     "mRemoveOrganizationMemberContent": "Dieses Mitglied wird von allen Aufgaben in dieser Organisation entbunden.",
     "mRemoveProjectMemberContent": "Dieses Mitglied wird von [=task] in diesem Projekt entbunden.",

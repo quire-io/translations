@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Eliminar Quadro",
     "mDeleteStatusTitle": "Remover Estado",
     "mMakeUnarchiveMsg": "Desarquivou este projeto.",
-    "mPermissionChange": "As suas permissões neste projeto foram alteradas.",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "Este membro irá perder o seu acesso a projetos particulares se alterar as funções da sua organização.",
     "mRemoveOrganizationMemberContent": "Isto desatribuirá este membro de todas as tarefas que lhe tinham sido atribuídas nesta organização.",
     "mRemoveProjectMemberContent": "Isto desatribuirá este membro de [=task] neste projeto.",

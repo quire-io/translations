@@ -738,7 +738,7 @@
     "mDeleteBoardTitle": "Panoyu Sil",
     "mDeleteStatusTitle": "Durumu Kaldır",
     "mMakeUnarchiveMsg": "Bu projeyi arşivden çıkardınız.",
-    "mPermissionChange": "Bu projedeki izinleriniz değiştirildi.",
+    "mPermissionChange": "",
     "mConfirmChangeOrganizationMemberRoleContent": "Organizasyon rollerini değiştirirseniz bu üye belirli projelere erişimini kaybedecek.",
     "mRemoveOrganizationMemberContent": "Bu üyenin bu organizasyondaki tüm görevlerdeki sorumluluğu kaldırılacak.",
     "mRemoveProjectMemberContent": "Bu projede, bu üyenin [=task] görevindeki sorumluluğu kaldırılacak.",
