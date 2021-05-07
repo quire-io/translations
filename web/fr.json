@@ -243,11 +243,11 @@
     "mMobileWelcomeP1Title2": "Quire",
     "mMobileWelcomeP2Title": "De A à Z",
     "mMobileWelcomeP3Title": "Organisez votre travail",
-    "mMobileWelcomeP4Title": "",
+    "mMobileWelcomeP4Title": "Planifiez vos projets",
     "mMobileWelcomeP5Title": "Rentrez dans l'action",
     "mMobileWelcomeP1Desc": "Explorez vos idées.",
     "mMobileWelcomeP2Desc": "Glissez une tâche vers la gauche ou vers la droite pour la terminer, la supprimer ou y ajouter une sous-tâche.",
     "mMobileWelcomeP3Desc": "Concentrez-vous sur les tâches sélectionnées avec le tableau Kanban.",
-    "mMobileWelcomeP4Desc": "",
+    "mMobileWelcomeP4Desc": "Profitez d'un diagramme de Gantt polyvalent.",
     "mMobileWelcomeP5Desc": "Ajoutez des attributions, des étiquettes, des échéances, etc., pour commencer votre projet."
 }
