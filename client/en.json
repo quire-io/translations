@@ -246,6 +246,8 @@
     "mSharedHosts": "Shared Organizations and Projects",
     "mNone": "None",
     "mNA": "N/A",
+    "mCompleteInvisibleChildren": "You are about to complete [=number] other associated subtasks also. Are you sure?",
+    "mDeleteInvisibleChildren": "You are about to delete [=number] other associated subtasks also. Are you sure?",
     "mDontShowAgain": "Do not show again",
     "mIdRequired": "ID required",
     "mNameRequired": "Name required",

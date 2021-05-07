@@ -246,6 +246,8 @@
     "mSharedHosts": "Paylaşılan Organizasyonlar ve Projeler",
     "mNone": "Hiçbiri",
     "mNA": "N/A",
+    "mCompleteInvisibleChildren": "",
+    "mDeleteInvisibleChildren": "",
     "mDontShowAgain": "Tekrar gösterme",
     "mIdRequired": "ID gerekli",
     "mNameRequired": "İsim gerekli",

@@ -246,6 +246,8 @@
     "mSharedHosts": "共有の組織とプロジェクト",
     "mNone": "なし",
     "mNA": "該当なし",
+    "mCompleteInvisibleChildren": "",
+    "mDeleteInvisibleChildren": "",
     "mDontShowAgain": "今後表示しない",
     "mIdRequired": "IDを記入してください",
     "mNameRequired": "名前を記入してください",

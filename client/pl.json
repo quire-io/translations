@@ -246,6 +246,8 @@
     "mSharedHosts": "",
     "mNone": "",
     "mNA": "",
+    "mCompleteInvisibleChildren": "",
+    "mDeleteInvisibleChildren": "",
     "mDontShowAgain": "",
     "mIdRequired": "",
     "mNameRequired": "",

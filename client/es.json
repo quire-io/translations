@@ -246,6 +246,8 @@
     "mSharedHosts": "Organizaciones y proyectos compartidos",
     "mNone": "Ninguno",
     "mNA": "N/A",
+    "mCompleteInvisibleChildren": "",
+    "mDeleteInvisibleChildren": "",
     "mDontShowAgain": "No volver a mostrar",
     "mIdRequired": "ID obligatoria",
     "mNameRequired": "Nombre Obligatorio",

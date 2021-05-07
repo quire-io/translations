@@ -246,6 +246,8 @@
     "mSharedHosts": "Общие организации и проекты",
     "mNone": "Нет",
     "mNA": "Н/Д",
+    "mCompleteInvisibleChildren": "",
+    "mDeleteInvisibleChildren": "",
     "mDontShowAgain": "Не показывать снова",
     "mIdRequired": "ID обязателен",
     "mNameRequired": "Имя обязательно",
