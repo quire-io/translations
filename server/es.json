@@ -687,7 +687,7 @@
     "mSlackHelpListTag": "Listar etiquetas",
     "mSlackHelpListTagExample": "`/quire list tag`",
     "mSlackHelpListMember": "Listar miembros",
-    "mSlackHelpListMemberExample": "`/miembro de la lista quire`",
+    "mSlackHelpListMemberExample": "`/quire list member`",
     "mSlackHelpEdit": "Editar una tarea",
     "mSlackHelpEditExample": "`/quire edit [ID de tarea] name`\\nEjemplo: `/quire edit 123 Diseñar nuevo logo !1 @david`",
     "mSlackHelpAssign": "Asignar una tarea",
