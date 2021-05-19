@@ -1,8 +1,8 @@
 {
     "mInternalError": "",
     "mNetworkError": "",
-    "mNotAllowed": "",
-    "mNotFound": "",
+    "mNotAllowed": "Nie masz uprawnień do wykonania tej akcji.<br/>Skontaktuj się z twoim Adminitratorem.",
+    "mNotFound": "Przepraszamy, nie możemy znaleźć tego, czego szukasz.",
     "mTooLarge": "",
     "mSessionTimeout": "",
     "mAddProjectWithoutOrg": "",
