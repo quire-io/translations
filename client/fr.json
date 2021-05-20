@@ -840,7 +840,7 @@
     "mPasteTaskFirstErrorMessage": "Il n\\'y a rien de copié ou ce que vous avez copié n\\'est pas identifiable. En savoir plus à propos du <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copier-coller.</a>",
     "mPasteTaskSecondHint": "Vous pouvez taper [=ctrlCommand]+V à nouveau pour remplacer le contenu actuel.",
     "mPasteTaskSecondHintSafari": "Cliquez <a>ici</a> pour coller à nouveau.",
-    "mPasteTaskSecondMessage": "",
+    "mPasteTaskSecondMessage": "Voici un aperçu de la forme sous laquelle vos tâches seront importées. En savoir plus sur <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">le copier-coller</a>.",
     "mPasteTaskAsLabel": "En tant que",
     "mPasteTaskAsOption1": "tâche unique",
     "mPasteTaskAsOption2": "tâches multiples",
