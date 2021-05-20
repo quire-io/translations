@@ -840,7 +840,7 @@
     "mPasteTaskFirstErrorMessage": "Não há nada copiado ou o que copiou não é reconhecido. Mais sobre <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copiar e colar.</a>",
     "mPasteTaskSecondHint": "Pode pressionar [=ctrlCommand]+V novamente para substituir o conteúdo atual.",
     "mPasteTaskSecondHintSafari": "Clique <a>aqui</a> para colar novamente.",
-    "mPasteTaskSecondMessage": "Pode escolher como as tarefas são importadas e pré-visualizar as mesmas abaixo. Mais sobre <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copiar e colar.</a>",
+    "mPasteTaskSecondMessage": "",
     "mPasteTaskAsLabel": "Como",
     "mPasteTaskAsOption1": "tarefa única",
     "mPasteTaskAsOption2": "várias tarefas",

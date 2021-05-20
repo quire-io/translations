@@ -840,7 +840,7 @@
     "mPasteTaskFirstErrorMessage": "Nothing is copied or what you copied is not recognizable. More about <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copy and paste.</a>",
     "mPasteTaskSecondHint": "You can press [=ctrlCommand]+V again to replace the current content.",
     "mPasteTaskSecondHintSafari": "Click <a>here</a> to paste again.",
-    "mPasteTaskSecondMessage": "You can choose how tasks are imported and preview them below. More about <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copy and paste.</a>",
+    "mPasteTaskSecondMessage": "Please preview how your tasks are imported below. More about <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">copy and paste.</a>",
     "mPasteTaskAsLabel": "As",
     "mPasteTaskAsOption1": "single task",
     "mPasteTaskAsOption2": "multiple tasks",

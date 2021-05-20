@@ -840,7 +840,7 @@
     "mPasteTaskFirstErrorMessage": "Hiçbir şey kopyalanmadı veya kopyaladığınız şey tanınamıyor. <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">Kopyala ve yapıştır</a> hakkında daha fazla bilgi için tıklayın.",
     "mPasteTaskSecondHint": "Geçerli içeriği değiştirmek için [=ctrlCommand] + V tuşlarına tekrar basabilirsiniz.",
     "mPasteTaskSecondHintSafari": "Tekrar yapıştırmak için <a>buraya</a> tıklayın.",
-    "mPasteTaskSecondMessage": "Görevlerin nasıl içe aktarılacağını seçebilir ve aşağıda önizleyebilirsiniz. <a href=\"/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html\" target=\"_blank\">Kopyala ve yapıştır</a> hakkında daha fazla bilgi için tıklayın.",
+    "mPasteTaskSecondMessage": "",
     "mPasteTaskAsLabel": "Tekli/Çoklu Görev",
     "mPasteTaskAsOption1": "tek görev",
     "mPasteTaskAsOption2": "çoklu görevler",
