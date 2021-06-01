@@ -152,8 +152,6 @@
     "mYes": "Evet",
     "mCancel": "İptal",
     "mKeepOriginal": "Orijinali Sakla",
-    "mResumePlan": "",
-    "mChangePaymentMethod": "",
     "mReset": "Sıfırla",
     "mAuth": "Doğrulama Yap",
     "mCreate": "Oluştur",
@@ -1061,10 +1059,5 @@
     "mAppAuthAllowTo": "İzin:",
     "mAppAuthShowNotAllowTo": "Bu uygulamanın erişim iznine sahip olmadığı alanı göster",
     "mAppAuthNotAllowTo": "İzin olmayanlar:",
-    "mRefreshList": "Listeyi yenile",
-    "mPlanLabel": "",
-    "mNoOrgUpgradeContent": "",
-    "mFailUpgradePlanTitle": "",
-    "mUpgradeCancellingPlanContent": "",
-    "mUpgradeFailPaymentPlanContent": ""
+    "mRefreshList": "Listeyi yenile"
 }

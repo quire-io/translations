@@ -976,16 +976,5 @@
     "mMobileIncludeTask": "Include [=count] task",
     "mMobileIncludeTaskPlural": "Include [=count] tasks",
     "mMobileExcludeTask": "Exclude [=count] task",
-    "mMobileExcludeTaskPlural": "Exclude [=count] tasks",
-    "mBillingHistoryUpgradePlan": "Upgrade to [=plan] Plan",
-    "mBillingHistoryChangePlan": "Change to [=plan] Plan",
-    "mBillingHistoryCancelPlan": "Cancel [=plan] Plan subscription",
-    "mBillingHistoryKeepPlan": "Keep [=plan] Plan subscription",
-    "mBillingHistoryAddMember": "Add [=count] member,Add [=count] members",
-    "mBillingHistoryReduceMember": "Reduce [=count] member,Reduce [=count] members",
-    "mBillingHistoryRenewPlan": "Renew [=plan] Plan subscription",
-    "mBillingHistoryChangePlanAnnual": "Change to annual billing",
-    "mBillingHistoryChangePlanMonthly": "Change to monthly billing",
-    "mBillingHistoryRenewPlanSuccessLabel": "Auto renew",
-    "mBillingHistoryRenewPlanFailLabel": "Payment failed"
+    "mMobileExcludeTaskPlural": "Exclude [=count] tasks"
 }

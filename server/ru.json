@@ -976,16 +976,5 @@
     "mMobileIncludeTask": "Включить [=count] задачу",
     "mMobileIncludeTaskPlural": "Включить [=count] задач",
     "mMobileExcludeTask": "Исключить [=count] задачу",
-    "mMobileExcludeTaskPlural": "Исключить [=count] задач",
-    "mBillingHistoryUpgradePlan": "",
-    "mBillingHistoryChangePlan": "",
-    "mBillingHistoryCancelPlan": "",
-    "mBillingHistoryKeepPlan": "",
-    "mBillingHistoryAddMember": "",
-    "mBillingHistoryReduceMember": "",
-    "mBillingHistoryRenewPlan": "",
-    "mBillingHistoryChangePlanAnnual": "",
-    "mBillingHistoryChangePlanMonthly": "",
-    "mBillingHistoryRenewPlanSuccessLabel": "",
-    "mBillingHistoryRenewPlanFailLabel": ""
+    "mMobileExcludeTaskPlural": "Исключить [=count] задач"
 }
