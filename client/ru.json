@@ -152,6 +152,8 @@
     "mYes": "Да",
     "mCancel": "Отмена",
     "mKeepOriginal": "Сохранить оригинал",
+    "mResumePlan": "",
+    "mChangePaymentMethod": "",
     "mReset": "Сброс",
     "mAuth": "Получить аутентификацию",
     "mCreate": "Создать",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "Разрешения на:",
     "mAppAuthShowNotAllowTo": "Показать, к какой области у этого приложения нет разрешения на доступ",
     "mAppAuthNotAllowTo": "Нет разрешений на:",
-    "mRefreshList": "Обновить список"
+    "mRefreshList": "Обновить список",
+    "mPlanLabel": "",
+    "mNoOrgUpgradeContent": "",
+    "mFailUpgradePlanTitle": "",
+    "mUpgradeCancellingPlanContent": "",
+    "mUpgradeFailPaymentPlanContent": ""
 }

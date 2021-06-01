@@ -152,6 +152,8 @@
     "mYes": "Yes",
     "mCancel": "Cancel",
     "mKeepOriginal": "Keep Original",
+    "mResumePlan": "Resume plan",
+    "mChangePaymentMethod": "Change payment method",
     "mReset": "Reset",
     "mAuth": "Get Authentication",
     "mCreate": "Create",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "Permission to:",
     "mAppAuthShowNotAllowTo": "Show which area this app has no permission to access",
     "mAppAuthNotAllowTo": "No permission to:",
-    "mRefreshList": "Refresh list"
+    "mRefreshList": "Refresh list",
+    "mPlanLabel": "Free,Professional,Premium,Enterprise",
+    "mNoOrgUpgradeContent": "You don't have any organization available to upgrade yet. Please create one before upgrading.",
+    "mFailUpgradePlanTitle": "Failed to upgrade",
+    "mUpgradeCancellingPlanContent": "[=organization] is scheduled to be canceled, you have to resume the original plan first.",
+    "mUpgradeFailPaymentPlanContent": "The current payment for [=organization] is failed. Please update your payment details first."
 }

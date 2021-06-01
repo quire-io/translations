@@ -152,6 +152,8 @@
     "mYes": "はい",
     "mCancel": "取消",
     "mKeepOriginal": "",
+    "mResumePlan": "",
+    "mChangePaymentMethod": "",
     "mReset": "再設定",
     "mAuth": "認証を取得",
     "mCreate": "作成",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "許可：",
     "mAppAuthShowNotAllowTo": "このアプリにアクセスを許可しない項目を表示",
     "mAppAuthNotAllowTo": "不許可：",
-    "mRefreshList": "リストをリロード（再読み込み）"
+    "mRefreshList": "リストをリロード（再読み込み）",
+    "mPlanLabel": "",
+    "mNoOrgUpgradeContent": "",
+    "mFailUpgradePlanTitle": "",
+    "mUpgradeCancellingPlanContent": "",
+    "mUpgradeFailPaymentPlanContent": ""
 }

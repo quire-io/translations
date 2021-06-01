@@ -152,6 +152,8 @@
     "mYes": "",
     "mCancel": "",
     "mKeepOriginal": "",
+    "mResumePlan": "",
+    "mChangePaymentMethod": "",
     "mReset": "",
     "mAuth": "",
     "mCreate": "",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "",
     "mAppAuthShowNotAllowTo": "",
     "mAppAuthNotAllowTo": "",
-    "mRefreshList": ""
+    "mRefreshList": "",
+    "mPlanLabel": "",
+    "mNoOrgUpgradeContent": "",
+    "mFailUpgradePlanTitle": "",
+    "mUpgradeCancellingPlanContent": "",
+    "mUpgradeFailPaymentPlanContent": ""
 }

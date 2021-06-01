@@ -976,5 +976,16 @@
     "mMobileIncludeTask": "",
     "mMobileIncludeTaskPlural": "",
     "mMobileExcludeTask": "",
-    "mMobileExcludeTaskPlural": ""
+    "mMobileExcludeTaskPlural": "",
+    "mBillingHistoryUpgradePlan": "",
+    "mBillingHistoryChangePlan": "",
+    "mBillingHistoryCancelPlan": "",
+    "mBillingHistoryKeepPlan": "",
+    "mBillingHistoryAddMember": "",
+    "mBillingHistoryReduceMember": "",
+    "mBillingHistoryRenewPlan": "",
+    "mBillingHistoryChangePlanAnnual": "",
+    "mBillingHistoryChangePlanMonthly": "",
+    "mBillingHistoryRenewPlanSuccessLabel": "",
+    "mBillingHistoryRenewPlanFailLabel": ""
 }

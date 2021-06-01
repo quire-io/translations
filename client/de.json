@@ -152,6 +152,8 @@
     "mYes": "Ja",
     "mCancel": "Abbrechen",
     "mKeepOriginal": "Original behalten",
+    "mResumePlan": "",
+    "mChangePaymentMethod": "",
     "mReset": "Zurücksetzen",
     "mAuth": "Authentifizieren",
     "mCreate": "Erstellen",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "Erlaubnis für:",
     "mAppAuthShowNotAllowTo": "Anzeigen, auf welchen Bereich diese App keinen Zugriff hat",
     "mAppAuthNotAllowTo": "Keine Erlaubnis für:",
-    "mRefreshList": "Liste aktualisieren"
+    "mRefreshList": "Liste aktualisieren",
+    "mPlanLabel": "",
+    "mNoOrgUpgradeContent": "",
+    "mFailUpgradePlanTitle": "",
+    "mUpgradeCancellingPlanContent": "",
+    "mUpgradeFailPaymentPlanContent": ""
 }

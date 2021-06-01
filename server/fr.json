@@ -976,5 +976,16 @@
     "mMobileIncludeTask": "Inclure [=count] tâche",
     "mMobileIncludeTaskPlural": "Inclure [=count] tâches",
     "mMobileExcludeTask": "Exclure [=count] tâche",
-    "mMobileExcludeTaskPlural": "Exclure [=count] tâches"
+    "mMobileExcludeTaskPlural": "Exclure [=count] tâches",
+    "mBillingHistoryUpgradePlan": "",
+    "mBillingHistoryChangePlan": "",
+    "mBillingHistoryCancelPlan": "",
+    "mBillingHistoryKeepPlan": "",
+    "mBillingHistoryAddMember": "",
+    "mBillingHistoryReduceMember": "",
+    "mBillingHistoryRenewPlan": "",
+    "mBillingHistoryChangePlanAnnual": "",
+    "mBillingHistoryChangePlanMonthly": "",
+    "mBillingHistoryRenewPlanSuccessLabel": "",
+    "mBillingHistoryRenewPlanFailLabel": ""
 }

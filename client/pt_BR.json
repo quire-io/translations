@@ -152,6 +152,8 @@
     "mYes": "Sim",
     "mCancel": "Cancelar",
     "mKeepOriginal": "Manter Original",
+    "mResumePlan": "",
+    "mChangePaymentMethod": "",
     "mReset": "Redefinir",
     "mAuth": "Obter Autenticação",
     "mCreate": "Criar",
@@ -1059,5 +1061,10 @@
     "mAppAuthAllowTo": "Permissão para:",
     "mAppAuthShowNotAllowTo": "Mostrar qual área este aplicativo não tem permissão para acessar",
     "mAppAuthNotAllowTo": "Sem permissão para:",
-    "mRefreshList": "Atualizar lista"
+    "mRefreshList": "Atualizar lista",
+    "mPlanLabel": "",
+    "mNoOrgUpgradeContent": "",
+    "mFailUpgradePlanTitle": "",
+    "mUpgradeCancellingPlanContent": "",
+    "mUpgradeFailPaymentPlanContent": ""
 }
