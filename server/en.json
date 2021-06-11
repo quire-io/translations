@@ -975,5 +975,7 @@
     "mMobileIncludeTask": "Include [=count] task",
     "mMobileIncludeTaskPlural": "Include [=count] tasks",
     "mMobileExcludeTask": "Exclude [=count] task",
-    "mMobileExcludeTaskPlural": "Exclude [=count] tasks"
+    "mMobileExcludeTaskPlural": "Exclude [=count] tasks",
+    "mMobileNoViewPermission": "You are not allowed to access this view. Please <a href=\"mailto:support@quire.io\">contact us</a> for more information.",
+    "mMobileMaxSublistLimited": "Unable to create a new sublist. You have maximized the sublist numbers. Please <a href=\"mailto:support@quire.io\">contact us</a> for more information."
 }

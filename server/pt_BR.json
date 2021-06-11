@@ -975,5 +975,7 @@
     "mMobileIncludeTask": "Incluir [=count] tarefa",
     "mMobileIncludeTaskPlural": "Incluir [=count] tarefas",
     "mMobileExcludeTask": "Excluir [=count] tarefa",
-    "mMobileExcludeTaskPlural": "Excluir [=count] tarefas"
+    "mMobileExcludeTaskPlural": "Excluir [=count] tarefas",
+    "mMobileNoViewPermission": "",
+    "mMobileMaxSublistLimited": ""
 }
