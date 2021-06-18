@@ -978,11 +978,11 @@
     "mMobileExcludeTaskPlural": "Excluir [=count] tarefas",
     "mMobileNoViewPermission": "Você não tem permissão para acessar essa visualização. Por favor, <a href=\"mailto:support@quire.io\">entre em contato conosco</a> para mais informações.",
     "mMobileMaxSublistLimited": "Não foi possível criar uma nova sublista. Você atingiu o número máximo de sublistas. Por favor, <a href=\"mailto:support@quire.io\">entre em contato conosco</a> para mais informações.",
-    "mMobilePasteFromClipboard": "",
-    "mMobileNoDataFromClipboard": "",
-    "mMobilePasteBottomOf": "",
-    "mMobilePasteTopOf": "",
-    "mMobilePasteSibling": "",
-    "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobilePasteFromClipboard": "Colar tarefa da área de transferência",
+    "mMobileNoDataFromClipboard": "Não há nada para colar da sua área de transferência. Por favor, tente novamente.",
+    "mMobilePasteBottomOf": "A parte inferior da lista de tarefas",
+    "mMobilePasteTopOf": "O topo da lista de tarefas",
+    "mMobilePasteSibling": "Como mesmo nível da tarefa selecionada",
+    "mMobilePasteChild": "Como subtarefas da tarefa selecionada",
+    "mMobilePasteSelectedTask": "Tarefa selecionada"
 }
