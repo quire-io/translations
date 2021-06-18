@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "Исключить [=count] задачу",
     "mMobileExcludeTaskPlural": "Исключить [=count] задач",
     "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": ""
+    "mMobileMaxSublistLimited": "",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }

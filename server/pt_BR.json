@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "Excluir [=count] tarefa",
     "mMobileExcludeTaskPlural": "Excluir [=count] tarefas",
     "mMobileNoViewPermission": "Você não tem permissão para acessar essa visualização. Por favor, <a href=\"mailto:support@quire.io\">entre em contato conosco</a> para mais informações.",
-    "mMobileMaxSublistLimited": "Não foi possível criar uma nova sublista. Você atingiu o número máximo de sublistas. Por favor, <a href=\"mailto:support@quire.io\">entre em contato conosco</a> para mais informações."
+    "mMobileMaxSublistLimited": "Não foi possível criar uma nova sublista. Você atingiu o número máximo de sublistas. Por favor, <a href=\"mailto:support@quire.io\">entre em contato conosco</a> para mais informações.",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }

@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "[=count]件のタスクを除く",
     "mMobileExcludeTaskPlural": "[=count]件のタスクを除く",
     "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": "新しいサブリストを作成できません。詳しくは<a href=\"mailto:support@quire.io\">私たちまでご連絡</a> ください。"
+    "mMobileMaxSublistLimited": "新しいサブリストを作成できません。詳しくは<a href=\"mailto:support@quire.io\">私たちまでご連絡</a> ください。",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }

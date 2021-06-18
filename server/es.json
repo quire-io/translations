@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "Excluir [=count] tarea",
     "mMobileExcludeTaskPlural": "Excluir [=count] las tareas",
     "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": ""
+    "mMobileMaxSublistLimited": "",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }

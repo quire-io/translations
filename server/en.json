@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "Exclude [=count] task",
     "mMobileExcludeTaskPlural": "Exclude [=count] tasks",
     "mMobileNoViewPermission": "You are not allowed to access this view. Please <a href=\"mailto:support@quire.io\">contact us</a> for more information.",
-    "mMobileMaxSublistLimited": "Unable to create a new sublist. You have maximized the sublist numbers. Please <a href=\"mailto:support@quire.io\">contact us</a> for more information."
+    "mMobileMaxSublistLimited": "Unable to create a new sublist. You have maximized the sublist numbers. Please <a href=\"mailto:support@quire.io\">contact us</a> for more information.",
+    "mMobilePasteFromClipboard": "Paste task from clipboard",
+    "mMobileNoDataFromClipboard": "There is nothing to paste from your clipboard. Please try again.",
+    "mMobilePasteBottomOf": "The bottom of task list",
+    "mMobilePasteTopOf": "The top of task list",
+    "mMobilePasteSibling": "As same-level of the selected task",
+    "mMobilePasteChild": "As subtasks of the selected task",
+    "mMobilePasteSelectedTask": "Selected task"
 }

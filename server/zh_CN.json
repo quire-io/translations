@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "",
     "mMobileExcludeTaskPlural": "",
     "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": ""
+    "mMobileMaxSublistLimited": "",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }

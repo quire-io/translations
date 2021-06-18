@@ -977,5 +977,12 @@
     "mMobileExcludeTask": "[=count] görevi çıkar",
     "mMobileExcludeTaskPlural": "[=count] görevi çıkar",
     "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": ""
+    "mMobileMaxSublistLimited": "",
+    "mMobilePasteFromClipboard": "",
+    "mMobileNoDataFromClipboard": "",
+    "mMobilePasteBottomOf": "",
+    "mMobilePasteTopOf": "",
+    "mMobilePasteSibling": "",
+    "mMobilePasteChild": "",
+    "mMobilePasteSelectedTask": ""
 }
