@@ -978,11 +978,11 @@
     "mMobileExcludeTaskPlural": "Escludi [=count] attività",
     "mMobileNoViewPermission": "Non sei abilitato ad accedere a questa vista. Si prega di <a href=\"mailto:support@quire.io\">contattarci</a> per maggiori informazioni.",
     "mMobileMaxSublistLimited": "Impossibile creare una nuova sottolista. Hai raggiunto il numero massimo di sottoliste. Si prega di <a href=\"mailto:support@quire.io\">contattarci</a> per maggiori informazioni.",
-    "mMobilePasteFromClipboard": "",
-    "mMobileNoDataFromClipboard": "",
-    "mMobilePasteBottomOf": "",
-    "mMobilePasteTopOf": "",
-    "mMobilePasteSibling": "",
-    "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobilePasteFromClipboard": "Incolla attività dagli appunti",
+    "mMobileNoDataFromClipboard": "Non c'è niente da incollare negli appunti. Si prega di provare nuovamente.",
+    "mMobilePasteBottomOf": "Alla fine della lista attività",
+    "mMobilePasteTopOf": "All'inizio della lista attività",
+    "mMobilePasteSibling": "Allo stesso livello dell'attività selezionata",
+    "mMobilePasteChild": "Come subattività dell'attività selezionata",
+    "mMobilePasteSelectedTask": "Attività selezionata"
 }
