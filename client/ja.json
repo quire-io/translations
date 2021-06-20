@@ -248,7 +248,7 @@
     "mNone": "なし",
     "mNA": "該当なし",
     "mCompleteInvisibleChildren": "関連する子タスク[=number]件も同時に完了されます。完了しますか？",
-    "mDeleteInvisibleChildren": "関連する子タスク[=number]件も同時に削除されます。完了しますか？",
+    "mDeleteInvisibleChildren": "関連する子タスク[=number]件も同時に削除されます。削除しますか？",
     "mDontShowAgain": "今後表示しない",
     "mIdRequired": "IDを記入してください",
     "mNameRequired": "名前を記入してください",
