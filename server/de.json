@@ -978,11 +978,11 @@
     "mMobileExcludeTaskPlural": "[=count] Aufgaben ausschließen",
     "mMobileNoViewPermission": "Sie sind nicht berechtigt, auf diese Ansicht zuzugreifen. Bitte <a href=\"mailto:support@quire.io\">kontaktieren Sie uns</a> für weitere Informationen.",
     "mMobileMaxSublistLimited": "Es kann keine neue Unterliste erstellt werden. Sie haben die maximal zulässige Anzahl von Unterlisten erreicht. Bitte <a href=\"mailto:support@quire.io\">kontaktieren Sie uns</a> für weitere Informationen.",
-    "mMobilePasteFromClipboard": "",
-    "mMobileNoDataFromClipboard": "",
-    "mMobilePasteBottomOf": "",
-    "mMobilePasteTopOf": "",
-    "mMobilePasteSibling": "",
-    "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobilePasteFromClipboard": "Aufgabe aus Zwischenablage einfügen",
+    "mMobileNoDataFromClipboard": "Es gibt nichts aus Ihrer Zwischenablage einzufügen. Bitte versuchen Sie es erneut.",
+    "mMobilePasteBottomOf": "Das Ende der Aufgabenliste",
+    "mMobilePasteTopOf": "Anfang der Aufgabenliste",
+    "mMobilePasteSibling": "Auf gleichen Ebene wie die ausgewählte Aufgabe",
+    "mMobilePasteChild": "Als Teilaufgaben der ausgewählten Aufgabe",
+    "mMobilePasteSelectedTask": "Ausgewählte Aufgabe"
 }
