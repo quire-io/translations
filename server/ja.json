@@ -978,11 +978,11 @@
     "mMobileExcludeTaskPlural": "[=count]件のタスクを除く",
     "mMobileNoViewPermission": "アクセスして表示する権限がありません。詳しくは<a href=\"mailto:support@quire.io\">私たちまでお問い合わせ</a> ください。",
     "mMobileMaxSublistLimited": "新しいサブリストを作成できません。詳しくは<a href=\"mailto:support@quire.io\">私たちまでご連絡</a> ください。",
-    "mMobilePasteFromClipboard": "",
-    "mMobileNoDataFromClipboard": "",
-    "mMobilePasteBottomOf": "",
-    "mMobilePasteTopOf": "",
-    "mMobilePasteSibling": "",
-    "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobilePasteFromClipboard": "クリップボードからタスクをペースト",
+    "mMobileNoDataFromClipboard": "ペーストできるデータがクリップボードにありません。再度お試しください。",
+    "mMobilePasteBottomOf": "タスクリストの一番下",
+    "mMobilePasteTopOf": "タスクリストの一番上",
+    "mMobilePasteSibling": "選択したタスクと同じレベル",
+    "mMobilePasteChild": "選択したタスクの子タスク",
+    "mMobilePasteSelectedTask": "選択したタスク"
 }
