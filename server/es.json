@@ -976,13 +976,13 @@
     "mMobileIncludeTaskPlural": "Incluir [=count] las tareas",
     "mMobileExcludeTask": "Excluir [=count] tarea",
     "mMobileExcludeTaskPlural": "Excluir [=count] las tareas",
-    "mMobileNoViewPermission": "",
-    "mMobileMaxSublistLimited": "",
-    "mMobilePasteFromClipboard": "",
-    "mMobileNoDataFromClipboard": "",
-    "mMobilePasteBottomOf": "",
-    "mMobilePasteTopOf": "",
-    "mMobilePasteSibling": "",
-    "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobileNoViewPermission": "No tienes permiso para acceder a esta vista. Por favor, <a href=\"mailto:support@quire.io\">contacta con nosotros</a> para más información.",
+    "mMobileMaxSublistLimited": "No se puede crear una nueva sublista. Has llegado al límite de sublistas. Por favor <a href=\"mailto:support@quire.io\">contacta con nosotros</a> para más información.",
+    "mMobilePasteFromClipboard": "Pegar una tarea desde el portapapeles",
+    "mMobileNoDataFromClipboard": "No hay nada que pegar desde el portapapeles. Por favor, inténtelo de nuevo.",
+    "mMobilePasteBottomOf": "El fondo de la lista de tareas",
+    "mMobilePasteTopOf": "La parte superior de la lista de tareas",
+    "mMobilePasteSibling": "Al mismo nivel que la tarea seleccionada",
+    "mMobilePasteChild": "Como subtareas de la tarea seleccionada",
+    "mMobilePasteSelectedTask": "Tarea seleccionada"
 }
