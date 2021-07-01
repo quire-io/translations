@@ -984,5 +984,6 @@
     "mMobilePasteTopOf": "Le haut de la liste de tâches",
     "mMobilePasteSibling": "Au même niveau que la tâche sélectionnée",
     "mMobilePasteChild": "En sous-tâches de la tâche sélectionnée",
-    "mMobilePasteSelectedTask": "Tâche sélectionnée"
+    "mMobilePasteSelectedTask": "Tâche sélectionnée",
+    "mMobileCopyToClipboard": ""
 }

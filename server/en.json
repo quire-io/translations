@@ -984,5 +984,6 @@
     "mMobilePasteTopOf": "The top of task list",
     "mMobilePasteSibling": "As same-level of the selected task",
     "mMobilePasteChild": "As subtasks of the selected task",
-    "mMobilePasteSelectedTask": "Selected task"
+    "mMobilePasteSelectedTask": "Selected task",
+    "mMobileCopyToClipboard": "Copy to clipboard"
 }

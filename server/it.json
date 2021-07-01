@@ -984,5 +984,6 @@
     "mMobilePasteTopOf": "All'inizio della lista attività",
     "mMobilePasteSibling": "Allo stesso livello dell'attività selezionata",
     "mMobilePasteChild": "Come subattività dell'attività selezionata",
-    "mMobilePasteSelectedTask": "Attività selezionata"
+    "mMobilePasteSelectedTask": "Attività selezionata",
+    "mMobileCopyToClipboard": ""
 }

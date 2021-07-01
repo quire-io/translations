@@ -984,5 +984,6 @@
     "mMobilePasteTopOf": "タスクリストの一番上",
     "mMobilePasteSibling": "選択したタスクと同じレベル",
     "mMobilePasteChild": "選択したタスクの子タスク",
-    "mMobilePasteSelectedTask": "選択したタスク"
+    "mMobilePasteSelectedTask": "選択したタスク",
+    "mMobileCopyToClipboard": ""
 }

@@ -984,5 +984,6 @@
     "mMobilePasteTopOf": "",
     "mMobilePasteSibling": "",
     "mMobilePasteChild": "",
-    "mMobilePasteSelectedTask": ""
+    "mMobilePasteSelectedTask": "",
+    "mMobileCopyToClipboard": ""
 }
