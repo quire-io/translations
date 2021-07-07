@@ -271,7 +271,7 @@
     "mFromWorkingPhoneLabel": "Working Phone number",
     "mFromOrganizationUrlLabel": "Quire Organization URL",
     "mFromUpload501abel": "Please upload a valid 501(c)(3) or similar documentation",
-    "mFromUploadFileDesc": "Maximum file size is 10MB. Images and PDF formats supported only.",
+    "mFromUploadFileDesc": "Maximum file size is [=size]. Images and PDF formats supported only.",
     "mFromPlanOtherHelpLabel": "Anything we can assist you with?",
     "mFromCustomEnterpriseHelpDesc": "If you would like to upgrade your subscription plan to Custom Enterprise, please write in details your requested numbers of users, storage size, numbers of projects and other quotas.",
     "mFromUsingDurationLabel": "Please provide a brief summary of how you plan and how long you are going to use Quire with your student groups",
