@@ -660,6 +660,8 @@
     "mAddProjectLimit": "",
     "mAddMemberLimit": "",
     "mAddProjectInLotLimit": "",
+    "mLinkMasterOrganizationLimit": "",
+    "mLinkSlackOrganizationLimit": "",
     "mAppAccessInHourLimit": "Quire API'sına bir saatte <b>[=size]</b> kereden fazla erişemezsiniz. Daha fazla kota için lütfen <a href=\"mailto:support@quire.io\">bizimle iletişime geçin</a>.",
     "mAppAccessInMinuteLimit": "Quire API'sına bir dakikada <b>[=size]</b> kereden fazla erişemezsiniz. Daha fazla kota için lütfen <a href=\"mailto:support@quire.io\">bizimle iletişime geçin</a>.",
     "mDenyLeaveDueToOnlyAdmin": "Maalesef gidemezsiniz çünkü tek yönetici sizsiniz.",

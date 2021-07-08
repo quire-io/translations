@@ -660,6 +660,8 @@
     "mAddProjectLimit": "Unable to add a new project to [=organization] due to quota limitations. [=$mUpgradeOrContectUs]",
     "mAddMemberLimit": "Unable to add a new member to [=organization] due to quota limitations. [=$mUpgradeOrContectUs]",
     "mAddProjectInLotLimit": "Unable to add a new project to [=lot] due to quota limitations. [=$mUpgradeOrContectUs]",
+    "mLinkMasterOrganizationLimit": "There are too many organizations link to the given organization already.",
+    "mLinkSlackOrganizationLimit": "You cannot link an organization with a subscription plan to another organization.",
     "mAppAccessInHourLimit": "You cannot access Quire API more than <b>[=size]</b> times in an hour. Please <a href=\"mailto:support@quire.io\">contact us</a> for more quota.",
     "mAppAccessInMinuteLimit": "You cannot access Quire API more than <b>[=size]</b> times in a minute. Please <a href=\"mailto:support@quire.io\">contact us</a> for more quota.",
     "mDenyLeaveDueToOnlyAdmin": "Sorry, you cannot leave because you are the only admin left.",

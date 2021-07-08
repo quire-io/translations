@@ -660,6 +660,8 @@
     "mAddProjectLimit": "",
     "mAddMemberLimit": "",
     "mAddProjectInLotLimit": "",
+    "mLinkMasterOrganizationLimit": "",
+    "mLinkSlackOrganizationLimit": "",
     "mAppAccessInHourLimit": "",
     "mAppAccessInMinuteLimit": "",
     "mDenyLeaveDueToOnlyAdmin": "",

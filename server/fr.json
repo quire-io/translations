@@ -660,6 +660,8 @@
     "mAddProjectLimit": "",
     "mAddMemberLimit": "",
     "mAddProjectInLotLimit": "",
+    "mLinkMasterOrganizationLimit": "",
+    "mLinkSlackOrganizationLimit": "",
     "mAppAccessInHourLimit": "Vous ne pouvez pas accéder à l'API de Quire plus de <b>[=size]</b> fois par heure. Veuillez <a href=\"mailto:support@quire.io\">nous contacter</a> pour un quota plus important.",
     "mAppAccessInMinuteLimit": "Vous ne pouvez pas accéder à l'API de Quire plus de <b>[=size]</b> fois par minute. Veuillez <a href=\"mailto:support@quire.io\">nous contacter</a> pour un quota plus important.",
     "mDenyLeaveDueToOnlyAdmin": "Désolé, vous ne pouvez pas quitter, car vous êtes le seul administrateur restant.",

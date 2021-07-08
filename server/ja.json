@@ -660,6 +660,8 @@
     "mAddProjectLimit": "",
     "mAddMemberLimit": "",
     "mAddProjectInLotLimit": "",
+    "mLinkMasterOrganizationLimit": "",
+    "mLinkSlackOrganizationLimit": "",
     "mAppAccessInHourLimit": "Quire APIにアクセスできる回数の上限は、1時間につき<b>[=size]</b>回です。<a href=\"mailto:support@quire.io\">私たちまで連絡</a>して割り当てを増やしてください。",
     "mAppAccessInMinuteLimit": "Quire APIにアクセスできる回数の上限は、1分につき<b>[=size]</b>回です。<a href=\"mailto:support@quire.io\">私たちまで連絡</a>して割り当てを増やしてください。",
     "mDenyLeaveDueToOnlyAdmin": "申し訳ありません。他に管理者がいないので、退出できません。",

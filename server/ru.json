@@ -660,6 +660,8 @@
     "mAddProjectLimit": "",
     "mAddMemberLimit": "",
     "mAddProjectInLotLimit": "",
+    "mLinkMasterOrganizationLimit": "",
+    "mLinkSlackOrganizationLimit": "",
     "mAppAccessInHourLimit": "Вы не можете получить доступ к Quire API более чем <b>[=size]</b> раз в час. Пожалуйста <a href=\"mailto:support@quire.io\">свяжитесь с нами</a> для увеличения лимита.",
     "mAppAccessInMinuteLimit": "Вы не можете получить доступ к Quire API более чем <b>[=size]</b> раз в минуту. Пожалуйста <a href=\"mailto:support@quire.io\">свяжитесь с нами</a> для увеличения лимита.",
     "mDenyLeaveDueToOnlyAdmin": "Извините, вы не можете уйти, потому что вы единственный оставшийся администратор.",
