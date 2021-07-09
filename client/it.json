@@ -1138,7 +1138,7 @@
     "mUpgradePlanSuccessContent": "Hai aggiornato correttamente il piano di abbonamento per questa organizzazione. Divertiti con Quire e continua da dove avevi interrotto!",
     "mChangePlanSuccessContent": "Hai modificato correttamente il piano di abbonamento per questa organizzazione. Divertiti con Quire e continua da dove avevi interrotto!",
     "mChangePlanCycleSuccessContent": "Hai modificato correttamente il ciclo di fatturazione per questa organizzazione. Divertiti con Quire e continua da dove avevi interrotto!",
-    "mTrialCanceledTitle": "Piano di prova annullato",
+    "mTrialCancelledTitle": "Piano di prova annullato",
     "mPaymentFailTitle": "Pagamento Fallito",
     "mPaymentFailLabel": "Pagamento fallito",
     "mFailUpgradePlanTitle": "Aggiornamento fallito",

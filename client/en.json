@@ -1138,7 +1138,7 @@
     "mUpgradePlanSuccessContent": "You have successfully upgraded the subscription plan for this organization. Enjoy Quire and continue where you left off!",
     "mChangePlanSuccessContent": "You have successfully changed the subscription plan for this organization. Enjoy Quire and continue where you left off!",
     "mChangePlanCycleSuccessContent": "You have successfully changed the billing cycle for this organization. Enjoy Quire and continue where you left off!",
-    "mTrialCanceledTitle": "Trail plan cancelled",
+    "mTrialCancelledTitle": "Trail plan cancelled",
     "mPaymentFailTitle": "Payment Failed",
     "mPaymentFailLabel": "Payment failed",
     "mFailUpgradePlanTitle": "Upgrade failed",

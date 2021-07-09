@@ -1138,7 +1138,7 @@
     "mUpgradePlanSuccessContent": "Vous avez réussi la mise à niveau de l'offre souscrite pour cette organisation. Vous pouvez profiter de Quire et reprendre là où vous en étiez !",
     "mChangePlanSuccessContent": "Vous avez réussi la modification de l'offre souscrite pour cette organisation. Vous pouvez profiter de Quire et reprendre là où vous en étiez !",
     "mChangePlanCycleSuccessContent": "Vous avez réussi la modification de la période de facturation pour cette organisation. Vous pouvez profiter de Quire et reprendre là où vous en étiez !",
-    "mTrialCanceledTitle": "Période d'essai annulée",
+    "mTrialCancelledTitle": "Période d'essai annulée",
     "mPaymentFailTitle": "Échec du paiement",
     "mPaymentFailLabel": "Échec du paiement",
     "mFailUpgradePlanTitle": "Échec de la mise à niveau",
