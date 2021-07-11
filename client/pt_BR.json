@@ -1151,7 +1151,7 @@
     "mResumePlanButton": "Manter assinatura",
     "mResumePlanContent": "Você está prestes a manter sua assinatura do plano [= plan] para esta organização. Os detalhes de faturamento permanecerão os mesmos.",
     "mResumePlanDialogButton": "Manter esta assinatura",
-    "mConfirmBeforeAction": "Por favor, confirme seu e-mail antes de realizar esta ação.",
+    "mConfirmBeforeAction": "Por favor, confirme seu email antes de realizar esta ação.",
     "mRejectDeletePaidOrganization": "Você precisa cancelar o plano de assinatura antes de excluir esta organização.",
     "mRejectDeleteMasterOrganization": "Você precisa desvincular todas as suas suborganizações antes de excluir esta organização.",
     "mConfirmDeletePaidOrganization": "Restam [=days] dias em seu plano [= plan]. Tem certeza de que deseja excluir esta organização?",
