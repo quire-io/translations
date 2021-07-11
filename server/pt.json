@@ -1029,7 +1029,7 @@
     "mPlanAgreeAndPay": "Ao clicar no botão que se segue, concorda com os nossos <a href=\"/terms\">Termos e Contrato de Assinatura</a>.",
     "mNextPaymentWhenDesc": "Próximo pagamento a [=when]",
     "mPlanEndedWhenDesc": "Terminou a [=when]",
-    "mEmailAddressLabel": "Endereço de E-mail",
+    "mEmailAddressLabel": "Endereço de Email",
     "mEmailAddressDesc": "Caso deseje modificar o contacto de faturação, <a href=\"/feedback\">contacte-nos</a>",
     "mBillingHistoryUpgradePlan": "Atualizar para o Plano [=plan]",
     "mBillingHistoryChangePlan": "Alterar para o Plano [=plan]",
