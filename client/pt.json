@@ -122,6 +122,7 @@
     "mPlanPeriodYears": "[=n] Ano§[=n] Anos",
     "mPlanPeriodMonths": "[=n] mês§[=n] meses",
     "mPlanPeriodDays": "[=n] dia§[=n] dias",
+    "mPlanPeriodHours": "",
     "mMinutesAgo": "[=n] minutos atrás",
     "mOneHourAgo": "1 hora atrás",
     "mHoursAgo": "[=n] horas atrás",

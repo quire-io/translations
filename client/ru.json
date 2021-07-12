@@ -122,6 +122,7 @@
     "mPlanPeriodYears": "[=n] год§[=n] лет",
     "mPlanPeriodMonths": "[=n] месяц§[=n] месяцев",
     "mPlanPeriodDays": "[=n] день§[=n] дней",
+    "mPlanPeriodHours": "",
     "mMinutesAgo": "[=n] минут назад",
     "mOneHourAgo": "1 час назад",
     "mHoursAgo": "[=n] часов назад",

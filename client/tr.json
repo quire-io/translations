@@ -122,6 +122,7 @@
     "mPlanPeriodYears": "",
     "mPlanPeriodMonths": "",
     "mPlanPeriodDays": "",
+    "mPlanPeriodHours": "",
     "mMinutesAgo": "[=n] dakika önce",
     "mOneHourAgo": "1 saat önce",
     "mHoursAgo": "[=n] saat önce",

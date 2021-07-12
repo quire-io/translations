@@ -122,6 +122,7 @@
     "mPlanPeriodYears": "",
     "mPlanPeriodMonths": "",
     "mPlanPeriodDays": "",
+    "mPlanPeriodHours": "",
     "mMinutesAgo": "[=n]分前",
     "mOneHourAgo": "1時間前",
     "mHoursAgo": "[=n]時間前",
