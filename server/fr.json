@@ -1041,7 +1041,7 @@
     "mBillingHistoryChangePlanMonthly": "Opter pour une facturation mensuelle",
     "mBillingHistoryRenewPlanSuccessLabel": "Renouvellement automatique",
     "mBillingHistoryCancelByQuireLabel": "Annulation automatique",
-    "mFailPaymentDesc": "",
+    "mFailPaymentDesc": "Le paiement pour cette souscription n'a pas réussi. Veuillez réessayer.",
     "mFailChangePlanDesc": "Vous ne pouvez pas modifier cette formule, veuillez <a href=\"/feedback\">nous contacter</a>. Merci !",
     "mFailChangePlanCycleDesc": "Vous ne pouvez pas modifier la période de facturation pour cette formule, veuillez <a href=\"/feedback\">nous contacter</a>. Merci !",
     "mFailCancelPlanDesc": "Vous ne pouvez pas mettre fin à cette souscription, veuillez <a href=\"/feedback\">nous contacter</a>. Merci !",
