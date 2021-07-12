@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "Cambia piano",
     "mCancelPlanTitle": "Annulla piano",
     "mCancelTrialTitle": "Annulla prova",
+    "mUpgradePlanDesc": "",
+    "mUpgradePlanLearnMore": "",
     "mCurrentPlanLabel": "piano sottoscritto correntemente",
     "mUpgradeCancellingPlanContent": "[=organization] é schedulata per essere cancellata, devi ripristinare il piano originale prima di poterla utilizzare.",
     "mUpgradeFailPaymentPlanContent": "Il pagamento correntemente configurato per [=organization] non é stato elaborato correttamente. Si prega di aggiornare i dettagli di pagamento.",

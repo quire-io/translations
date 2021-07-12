@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "Alterar plano de assinatura",
     "mCancelPlanTitle": "Cancelar plano",
     "mCancelTrialTitle": "Cancelar teste",
+    "mUpgradePlanDesc": "",
+    "mUpgradePlanLearnMore": "",
     "mCurrentPlanLabel": "plano de assinatura atual",
     "mUpgradeCancellingPlanContent": "[=organization] está programada para ser cancelada, primeiro você precisa retomar o plano original.",
     "mUpgradeFailPaymentPlanContent": "O pagamento atual para [=organization] não foi processado. Atualize os detalhes de pagamento primeiro.",

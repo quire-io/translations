@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "Modifier la formule souscrite",
     "mCancelPlanTitle": "Mettre fin à la souscription",
     "mCancelTrialTitle": "Mettre fin à la période d'essai",
+    "mUpgradePlanDesc": "",
+    "mUpgradePlanLearnMore": "",
     "mCurrentPlanLabel": "formule actuellement souscrite",
     "mUpgradeCancellingPlanContent": "L'annulation de [=organization] est planifiée, vous devez d'abord reprendre la souscription.",
     "mUpgradeFailPaymentPlanContent": "Le paiement actuel pour [=organization] a échoué. Veuillez d'abord mettre à jour les informations de paiement.",

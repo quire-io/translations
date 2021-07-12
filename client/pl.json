@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "",
     "mCancelPlanTitle": "",
     "mCancelTrialTitle": "",
+    "mUpgradePlanDesc": "",
+    "mUpgradePlanLearnMore": "",
     "mCurrentPlanLabel": "",
     "mUpgradeCancellingPlanContent": "",
     "mUpgradeFailPaymentPlanContent": "",

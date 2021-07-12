@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "",
     "mCancelPlanTitle": "",
     "mCancelTrialTitle": "",
+    "mUpgradePlanDesc": "",
+    "mUpgradePlanLearnMore": "",
     "mCurrentPlanLabel": "",
     "mUpgradeCancellingPlanContent": "",
     "mUpgradeFailPaymentPlanContent": "Die aktuelle Zahlung für [=organization] konnte nicht verarbeitet werden. Bitte aktualisieren Sie zuerst die Zahlungsdetails.",

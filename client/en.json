@@ -1128,6 +1128,8 @@
     "mChangePlanTitle": "Change subscription plan",
     "mCancelPlanTitle": "Cancel plan",
     "mCancelTrialTitle": "Cancel trial",
+    "mUpgradePlanDesc": "Upgrade to a [=plan] subscription plan to see how much more productive you can become.",
+    "mUpgradePlanLearnMore": "Learn more about [=plan] subscription plan.",
     "mCurrentPlanLabel": "current subscription plan",
     "mUpgradeCancellingPlanContent": "[=organization] is scheduled to be cancelled, you have to resume the original plan first.",
     "mUpgradeFailPaymentPlanContent": "The current payment for [=organization] has failed to process. Please update the payment details first.",
