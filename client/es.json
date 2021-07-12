@@ -1184,6 +1184,7 @@
     "mRedirectBackWorkspace": "Estás siendo redirigido de vuelta a su espacio de trabajo, o <a href=\"#\" class=\"continue-btn\">continuar ahora</a>",
     "mRedirectBackPreviousPage": "Estás siendo redirigido a tu página anterior, o <a href=\"#\" class=\"continue-btn\">continuar ahora</a>.",
     "mTrialPeriodLabel": "",
+    "mTrialDaysButton": "",
     "mPaymentPathPlan": "Plan",
     "mPaymentPathPayment": "Pago",
     "mPaymentPathConfirmation": "Confirmación",

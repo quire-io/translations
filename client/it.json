@@ -1184,6 +1184,7 @@
     "mRedirectBackWorkspace": "Stai per essere reindirizzato alla tua area di lavoro oppure <a href=\"#\" class=\"continue-btn\">continua ora</a>",
     "mRedirectBackPreviousPage": "Stai per essere reindirizzato alla pagina precedente oppure <a href=\"#\" class=\"continue-btn\">continua ora</a>.",
     "mTrialPeriodLabel": "",
+    "mTrialDaysButton": "",
     "mPaymentPathPlan": "Piano",
     "mPaymentPathPayment": "Pagamento",
     "mPaymentPathConfirmation": "Conferma",
