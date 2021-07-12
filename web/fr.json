@@ -128,7 +128,7 @@
     "mPricingPageSubtitle": "Que vous soyez une petite équipe ou une entreprise, nous mettons à votre disposition toutes les ressources disponibles.",
     "mPricingBillMonthly": "Paiement mensuel",
     "mPricingBillYearly": "Paiement annuel",
-    "mPricingBillSave": "Économisez 20 %",
+    "mPricingBillSave": "Économisez [=discount]",
     "mPricingPlanUnit": "par membre / mois",
     "mPricingFeaturesHeader": "Toutes les fonctionnalités de la formule <strong>[=plan]</strong>, plus :",
     "mPricingPlanFreeDesc": "",
