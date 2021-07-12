@@ -1042,6 +1042,7 @@
     "mBillingHistoryChangePlanMonthly": "Change to monthly billing",
     "mBillingHistoryRenewPlanSuccessLabel": "Auto renewal",
     "mBillingHistoryCancelByQuireLabel": "Auto cancellation",
+    "FailPaymentDesc": "The payment for this subscription plan has not been successful. Please try again.",
     "mFailChangePlanDesc": "You cannot change this subscription plan, please <a href=\"/feedback\">contact us</a>. Thank you!",
     "mFailChangePlanCycleDesc": "You cannot change billing cycle for this subscription plan, please <a href=\"/feedback\">contact us</a>. Thank you!",
     "mFailCancelPlanDesc": "You cannot cancel this subscription plan, please <a href=\"/feedback\">contact us</a>. Thank you!",
