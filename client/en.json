@@ -1203,6 +1203,7 @@
     "mStorageQuotaUsedDesc": "Using <b>[=amount]</b> of [=total] storage limit",
     "mTrialDaysLeftLabel": "[=days] days left for your trial",
     "mTrialTwice": "Oops, this organization has activated free trial before",
+    "mTrialAllPlansTried": "This organization [=organization] has activated all of the trial plans. Please select another organization and try again.",
     "mTrialExpiredTitle": "Oops, your trial has expired",
     "mTrialExpiredDesc": "<p>You no longer have access to Quire super powerful features and this definitely is not an experience we would recommend.</p><p>Upgrade your organization now to continue right where you left off. Ready to get back to work now?</p><ul><li>Powerful features</li><li>Collaborate with external teams</li><li>Smart Folder</li><li>Unlimited file storage</li></ul>"
 }

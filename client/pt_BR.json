@@ -1203,6 +1203,7 @@
     "mStorageQuotaUsedDesc": "Usando <b>[=amount]</b> do limite de [=total] de armazenamento",
     "mTrialDaysLeftLabel": "Restam [=days] dias para seu teste",
     "mTrialTwice": "Opa, esta organização ativou a avaliação grátis antes",
+    "mTrialAllPlansTried": "",
     "mTrialExpiredTitle": "Opa, sua avaliação terminou",
     "mTrialExpiredDesc": "<p>Você não tem mais acesso aos recursos super poderosos do Quire e esta definitivamente não é uma experiência que recomendamos.</p><p>Atualize sua organização agora para continuar de onde parou. Pront@ para voltar ao trabalho agora?</p><ul><li>Recursos poderosos</li><li>Colabore com equipes externas</li><li>Pasta Inteligente</li> <li>Armazenamento ilimitado de arquivos</li> </ul>"
 }

@@ -1203,6 +1203,7 @@
     "mStorageQuotaUsedDesc": "Utilizzando <b>[=amount]</b> di [=total] spazio di archiviazione totale",
     "mTrialDaysLeftLabel": "[=days] giorni rimanenti per la prova",
     "mTrialTwice": "Spiacenti, questa organizzazione ha già attivato la prova gratuita",
+    "mTrialAllPlansTried": "",
     "mTrialExpiredTitle": "Spiacenti, il periodo di prova è scaduto",
     "mTrialExpiredDesc": "<p>Non hai più accesso alle potenti funzionalità di Quire e questa non è sicuramente un\\'esperienza che consigliamo.</p><p>Aggiorna subito la tua organizzazione per continuare da dove avevi interrotto. Pronto a tornare al lavoro ora?</p><ul><li>Potenti funzionalità </li><li>Collabora con squadre esterni</li><li>Cartelle intelligenti</li><li>Archiviazione file illimitata </li></ul>"
 }
