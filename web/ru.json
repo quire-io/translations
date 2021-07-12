@@ -187,6 +187,7 @@
     "mQuotaUnlimitedActivityLabel": "",
     "mQuotaStorageTotalLabel": "",
     "mQuotaStoragePerMemberLabel": "",
+    "mQuotaStoragePerMemberOrCusLabel": "",
     "mPlanSupportPerHoursLabel": "",
     "mPlanSupportFreeHoursLabel": "",
     "mQuotaKeptTaskDaysTip": "",
