@@ -1042,7 +1042,7 @@
     "mBillingHistoryChangePlanMonthly": "Alterar para cobrança mensal",
     "mBillingHistoryRenewPlanSuccessLabel": "Renovar automaticamente",
     "mBillingHistoryCancelByQuireLabel": "Cancelar automaticamente",
-    "FailPaymentDesc": "",
+    "mFailPaymentDesc": "",
     "mFailChangePlanDesc": "Não pode alterar este plano de assinatura, por favor, <a href=\"/feedback\">contacte-nos</a>. Obrigado!",
     "mFailChangePlanCycleDesc": "Não pode alterar o ciclo de faturação para este plano de assinatura, por favor, <a href=\"/feedback\">contacte-nos</a>. Obrigado!",
     "mFailCancelPlanDesc": "Não pode cancelar este plano de assinatura, por favor, <a href=\"/feedback\">contacte-nos</a>. Obrigado!",
