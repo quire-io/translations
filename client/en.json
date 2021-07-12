@@ -1148,6 +1148,7 @@
     "mFailChangeCycleTitle": "Change billing cycle failed",
     "mFailCancelPlanTitle": "Cancel Plan Failed",
     "mFailCancelTrialTitle": "Cancel Trial Failed",
+    "mPaymentMethodSectionTitle": "Payment Method",
     "mPlanStartedContent": "Your plan has been actived.",
     "mPlanCancelContent": "The [=plan] Plan for this organization is scheduled to be cancelled on <b>[=when]</b>.",
     "mResumePlanButton": "Keep subscription",

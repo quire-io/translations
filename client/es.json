@@ -1148,6 +1148,7 @@
     "mFailChangeCycleTitle": "Error en el cambio del ciclo de facturación",
     "mFailCancelPlanTitle": "Plan de cancelación fallido",
     "mFailCancelTrialTitle": "Cancelación de la prueba fallida",
+    "mPaymentMethodSectionTitle": "Forma de pago",
     "mPlanStartedContent": "Tu plan ha sido activado.",
     "mPlanCancelContent": "El [=plan] Plan de esta organización está programado para ser cancelado en <b>[=when]</b>.",
     "mResumePlanButton": "Mantener la suscripción",

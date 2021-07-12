@@ -1148,6 +1148,7 @@
     "mFailChangeCycleTitle": "Modifica ciclo di fatturazione non riuscita",
     "mFailCancelPlanTitle": "Annullamento Piano Fallito",
     "mFailCancelTrialTitle": "Annullamento Prova Fallito",
+    "mPaymentMethodSectionTitle": "Metodo di Pagamento",
     "mPlanStartedContent": "Il tuo piano é stato attivato.",
     "mPlanCancelContent": "Il piano [=plan] per questa organizzazione è programmato per essere annullato il <b>[=when]</b>.",
     "mResumePlanButton": "Mantieni sottoscrizione",

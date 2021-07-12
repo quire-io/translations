@@ -1148,6 +1148,7 @@
     "mFailChangeCycleTitle": "Échec de la modification de la période de facturation",
     "mFailCancelPlanTitle": "Échec de l'annulation de la formule",
     "mFailCancelTrialTitle": "Échec de l'annulation de la période d'essai",
+    "mPaymentMethodSectionTitle": "Méthode de paiement",
     "mPlanStartedContent": "Votre formule a été activée.",
     "mPlanCancelContent": "L'annulation de l'offre [=plan] pour cette organisation est prévue le<b>[=when]</b>.",
     "mResumePlanButton": "Conserver la souscription",
