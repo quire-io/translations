@@ -206,7 +206,7 @@
     "mQuotaTasksLabel": "Tasks per project",
     "mQuotaTasksDetail": "[=n] tasks per project",
     "mQuotaSublistsLabel": "Sublists per project",
-    "mQuotaSublistsDetail": "[=n] sublist(s) per project",
+    "mQuotaSublistsDetail": "[=n] sublists per project",
     "mQuotaSublistsTip": "Private Sublist will not be counted toward this limitation",
     "mQuotaExternalTeamsLabel": "External Teams per project",
     "mQuotaExternalTeamsDetail": "[=n] external teams per project",
