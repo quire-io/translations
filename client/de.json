@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Quire-Konto wir mit einem anderen zusammen gelegt",
     "mDeleteAccountWhyAlternative": "Wechsel zu einer anderen Lösung",
     "mDeleteAccountConfirm": "Ich bin mir im Klaren darüber, dass ich diese Aktion <strong>nicht rückgängig machen kann</strong>.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Konto löschen",
     "mRestoreDeletedEntityContent": "Möchten Sie den gelöschten [=host] wirklich wiederherstellen?",
     "mSettingOptionLeaveOrganization": "Organisation verlassen",

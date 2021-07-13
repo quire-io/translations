@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Fusion avec un autre compte Quire",
     "mDeleteAccountWhyAlternative": "Choix d'utiliser une autre plateforme",
     "mDeleteAccountConfirm": "Je suis conscient(e) que je <strong>ne pourrai pas annuler</strong> ceci.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Supprimer mon compte",
     "mRestoreDeletedEntityContent": "Êtes-vous sûr(e) de vouloir restaurer [=host] ?",
     "mSettingOptionLeaveOrganization": "Quitter l'organisation",

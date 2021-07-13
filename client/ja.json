@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "別のQuireアカウントと統合する",
     "mDeleteAccountWhyAlternative": "他のツールに乗り換える",
     "mDeleteAccountConfirm": "この操作が<strong>元に戻せない</strong>ことを理解しています。",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "自分のアカウントを削除",
     "mRestoreDeletedEntityContent": "削除した[=host]を復元しますか？",
     "mSettingOptionLeaveOrganization": "組織を退出",

@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Слияние с другой учетной записью Quire",
     "mDeleteAccountWhyAlternative": "Решил перейти на другое решение",
     "mDeleteAccountConfirm": "Я знаю, что <strong>не смогу</strong> отменить это.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Удалите мой аккаунт",
     "mRestoreDeletedEntityContent": "Вы уверены, что хотите восстановить удаленный [=host]?",
     "mSettingOptionLeaveOrganization": "Покинуть организацию",

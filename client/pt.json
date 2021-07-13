@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Fundir com outra conta Quire",
     "mDeleteAccountWhyAlternative": "Decidi mudar para outra solução",
     "mDeleteAccountConfirm": "Estou ciente de que <strong>não posso desfazer</strong> esta ação.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Eliminar a Minha Conta",
     "mRestoreDeletedEntityContent": "Tem a certeza de que pretende restaurar o [=host] eliminado?",
     "mSettingOptionLeaveOrganization": "Sair da organização",

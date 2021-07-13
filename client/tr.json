@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Başka bir Quire hesabıyla birleştirme",
     "mDeleteAccountWhyAlternative": "Başka bir çözüme geçmeye karar verme",
     "mDeleteAccountConfirm": "Bu işlemi <strong>geri alamayacağımın</strong> farkındayım.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Hesabımı Sil",
     "mRestoreDeletedEntityContent": "Silinen [=host] geri yüklemek istediğinizden emin misiniz?",
     "mSettingOptionLeaveOrganization": "Organizasyondan ayrıl",

@@ -801,6 +801,7 @@
     "mDeleteAccountWhyMerge": "Fusionarse con otra cuenta de Quire",
     "mDeleteAccountWhyAlternative": "Decidió cambiar a otra solución",
     "mDeleteAccountConfirm": "Soy consciente de que <strong>no puedo deshacer</strong> esto.",
+    "mDeleteAccountPaddle": "",
     "mDeleteAccount": "Eliminar mi cuenta",
     "mRestoreDeletedEntityContent": "¿Estás seguro de que deseas restaurar el archivo eliminado [=host]?",
     "mSettingOptionLeaveOrganization": "Salir de la organización",
