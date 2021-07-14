@@ -1126,7 +1126,7 @@
     "mChangeCycleTip": "The payment for this billing cycle has been made successfully. The new billing cycle will take effect when the current billing cycle ends.",
     "mDownloadInvoice": "Download invoice",
     "mNoOrgUpgradeContent": "You don't have any organization available to upgrade yet. Please create one before upgrading.",
-    "mNoOrgTrialContent": "You don't have any organization available to start the trial yet.Please create one before starting the trial.",
+    "mNoOrgTrialContent": "You don't have any organization available to start the trial yet. Please create one before starting the trial.",
     "mNoOrgLinkContent": "Sorry, you do not have any organization with Premium or Enterprise plans yet. <a href=\"[=link]\">Upgrade plan</a> now?",
     "mDowngradPlanWarning": "Some of the features you are using are not available in the [=plan] subscription plan and will be deactivated.",
     "mPlanMemberExceedWarning": "Seems like you\\'re having more members than <a href=\"[=link]\">currently</a>. Please check again.",
