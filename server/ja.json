@@ -973,6 +973,7 @@
     "mMobileSubDropToOthersDialog": "タスクを追加する表示を選択",
     "mMobileDraftBannerContinue": "下書きの編集を続ける",
     "mMobileDropForQuickSet": "ドロップして設定",
+    "mMobileFileLimit": "",
     "mMobileShowHiddenColumns": "非表示の欄を表示",
     "mMobileRecurringRepeatWeekly": "毎週[=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "[=rate]週間ごとの[=weekdaysText]",

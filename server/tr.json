@@ -973,6 +973,7 @@
     "mMobileSubDropToOthersDialog": "Görev eklemek için bir görünüm seçin",
     "mMobileDraftBannerContinue": "Taslaklarınızı yazmaya devam edin.",
     "mMobileDropForQuickSet": "Hızlı kurulum için bırakın",
+    "mMobileFileLimit": "",
     "mMobileShowHiddenColumns": "Gizli sütunları göster",
     "mMobileRecurringRepeatWeekly": "Her hafta [=weekdaysText] günü",
     "mMobileRecurringRepeatWeeklyPlural": "Her [=rate] haftada [=weekdaysText] günleri",

@@ -973,6 +973,7 @@
     "mMobileSubDropToOthersDialog": "Escolha uma vista para adicionar tarefas",
     "mMobileDraftBannerContinue": "Continue a escrever os seus rascunhos.",
     "mMobileDropForQuickSet": "Largue para configuração rápida",
+    "mMobileFileLimit": "",
     "mMobileShowHiddenColumns": "Mostrar colunas Ocultas",
     "mMobileRecurringRepeatWeekly": "A cada semana na [=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "A cada [=rate] semanas na [=weekdaysText]",
