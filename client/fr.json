@@ -1130,6 +1130,7 @@
     "mNoOrgLinkContent": "Désolé, vous n'avez pas encore d'organisation avec une souscription aux offres Premium ou Entreprise. Voulez-vous <a href=\"[=link]\">mettre à niveau votre souscription</a> ?",
     "mDowngradPlanWarning": "Des fonctionnalités que vous utilisez ne sont pas disponibles dans l'offre [=plan] et seront désactivées.",
     "mPlanMemberExceedWarning": "",
+    "mRemovePlanMemberWarning": "",
     "mPlanMaxMemberLimit": "L'offre souscrite permet un maximum de [=amount] membres.",
     "mAddPlanMemberDesc": "Ajout de [=amount] membres de plus à la formule souscrite.",
     "mRemovePlanMemberDesc": "Suppression de [=amount] membres de la formule souscrite.",

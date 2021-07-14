@@ -1130,6 +1130,7 @@
     "mNoOrgLinkContent": "Desculpe, ainda não tem nenhuma organização com planos Premium ou Empresarial. <a href=\"[=link]\">Atualizar plano</a> agora?",
     "mDowngradPlanWarning": "Alguns dos recursos que está a usar não estão disponíveis no plano de assinatura [=plan] e serão desativados.",
     "mPlanMemberExceedWarning": "",
+    "mRemovePlanMemberWarning": "",
     "mPlanMaxMemberLimit": "Ups, o plano de assinatura selecionado apenas permite, no máximo, [=amount] membros.",
     "mAddPlanMemberDesc": "A adicionar mais [=amount] membros ao plano de assinatura atual.",
     "mRemovePlanMemberDesc": "A remover [=amount] membros do plano de assinatura atual.",

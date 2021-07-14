@@ -1130,6 +1130,7 @@
     "mNoOrgLinkContent": "Sorry, you do not have any organization with Premium or Enterprise plans yet. <a href=\"[=link]\">Upgrade plan</a> now?",
     "mDowngradPlanWarning": "Some of the features you are using are not available in the [=plan] subscription plan and will be deactivated.",
     "mPlanMemberExceedWarning": "Seems like you\\'re having more members than <a href=\"[=link]\">currently</a>. Please check again.",
+    "mRemovePlanMemberWarning": "Sorry, you cannot reduce to a lower number than currently having in your subscription.",
     "mPlanMaxMemberLimit": "Oops, the selected subscription plan only allows [=amount] members maximum.",
     "mAddPlanMemberDesc": "Adding [=amount] more members to the current subscription plan.",
     "mRemovePlanMemberDesc": "Removing [=amount] members from the current subscription plan.",
