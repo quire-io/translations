@@ -1108,6 +1108,7 @@
     "mMonthlyPlanRenewDesc": "A sua assinatura será renovada automaticamente e cobrar-lhe-emos [=amount]/mês (+ impostos aplicáveis) como montante final na próxima data de renovação a <b>[=when]</b>.",
     "mFirstYearFreeCouponLabel": "Primeiro ano grátis",
     "mOffCouponLabel": "Menos [=off]",
+    "mSaveAmountLabel": "",
     "mYearlyTotalAmountLabel": "Total anual",
     "mMonthlyTotalAmountLabel": "Total mensal",
     "mCustomizedTotalAmountLabel": "Total",

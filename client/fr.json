@@ -1108,6 +1108,7 @@
     "mMonthlyPlanRenewDesc": "Votre souscription sera renouvelée automatiquement et nous vous facturerons un montant total de [=amount]/mois (+ taxes en vigueur) au prochain renouvellement le <b>[=when]</b>.",
     "mFirstYearFreeCouponLabel": "Première année gratuite",
     "mOffCouponLabel": "Moins [=off]",
+    "mSaveAmountLabel": "",
     "mYearlyTotalAmountLabel": "Montant annuel",
     "mMonthlyTotalAmountLabel": "Montant mensuel",
     "mCustomizedTotalAmountLabel": "Total",

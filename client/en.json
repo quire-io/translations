@@ -1108,6 +1108,7 @@
     "mMonthlyPlanRenewDesc": "Your subscription will be renewed automatically and we will charge you [=amount]/month (+ applicable taxes) as a final amount on the next renewal date as <b>[=when]</b>.",
     "mFirstYearFreeCouponLabel": "First one year free",
     "mOffCouponLabel": "[=off] off",
+    "mSaveAmountLabel": "save [=discount]",
     "mYearlyTotalAmountLabel": "Total annually",
     "mMonthlyTotalAmountLabel": "Total monthly",
     "mCustomizedTotalAmountLabel": "Total",

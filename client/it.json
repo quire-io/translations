@@ -1108,6 +1108,7 @@
     "mMonthlyPlanRenewDesc": "Il tuo abbonamento verrà rinnovato automaticamente per [=amount]/mese (+ eventuali tasse) come soluzione unica alla prossima data di rinnovo <b>[=when]</b>.",
     "mFirstYearFreeCouponLabel": "Primo anno gratuito",
     "mOffCouponLabel": "[=off] spento",
+    "mSaveAmountLabel": "",
     "mYearlyTotalAmountLabel": "Totale annuale",
     "mMonthlyTotalAmountLabel": "Totale mensile",
     "mCustomizedTotalAmountLabel": "Totale",

@@ -1108,6 +1108,7 @@
     "mMonthlyPlanRenewDesc": "Ihr Abo wird automatisch verlängert und wir berechnen Ihnen [=amount]/Monat (+ ggf. Steuern) als endgültigen Betrag am nächsten Verlängerungsdatum (<b>[=when]</b>).",
     "mFirstYearFreeCouponLabel": "Das erste Jahr kostenlos",
     "mOffCouponLabel": "",
+    "mSaveAmountLabel": "",
     "mYearlyTotalAmountLabel": "Gesamt jährlich",
     "mMonthlyTotalAmountLabel": "Gesamt monatlich",
     "mCustomizedTotalAmountLabel": "Gesamt",
