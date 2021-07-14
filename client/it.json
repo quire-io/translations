@@ -1097,7 +1097,7 @@
     "mPremiumPlanShortDesc": "Adatto per aziende e teams interfunzionali.",
     "mEnterprisePlanShortDesc": "Adatto per grosse aziende che necessitano di una gestione definitiva.",
     "mUpgradeOrContectUs": "Si prega di <a href=\"/upgrade/[=id]\">aggiornare l\\'abbonamento</a> o <a href=\"/feedback\">contattarci</a> per maggiori dettagli.",
-    "mLearnMoreCustomizedEnterprisePlan": "Hai bisogno di personalizzare il tuo abbonamento Enterprise o ulteriore assistenza? <a href=\"/feedback\">Contattaci</a>",
+    "mLearnMoreCustomizedEnterprisePlan": "Hai bisogno di personalizzare il tuo abbonamento Enterprise o ulteriore assistenza? <a href=\"[=link]\">Contattaci</a>",
     "mLearnMoreCustomizedPlan": "Hai bisogno di assistenza con il tuo piano personalizzato? <a href=\"/feedback\">Contattaci</a>",
     "mLearnMorePlan": "Hai bisogno di aiuto? <a href=\"/feedback\">Contattaci</a>",
     "mYearlyPlanDetailDesc": "[=plan], [=count] Membri, Annuali",
