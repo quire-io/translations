@@ -973,7 +973,7 @@
     "mMobileSubDropToOthersDialog": "Elija una vista para añadir tareas",
     "mMobileDraftBannerContinue": "Continua escribiendo tus borradores.",
     "mMobileDropForQuickSet": "Desciende rápido",
-    "mMobileFileLimit": "",
+    "mMobileFileLimit": "No ha sido posible sibir el archivo ya que excede el tamaño máximo de archivo permitido ([=size]).",
     "mMobileShowHiddenColumns": "Mostrar columnas ocultas",
     "mMobileRecurringRepeatWeekly": "Cada semana en [=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "Todas [=rate] las semanas en [=weekdaysText]",

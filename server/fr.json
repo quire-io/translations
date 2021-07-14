@@ -973,7 +973,7 @@
     "mMobileSubDropToOthersDialog": "Sélectionnez une vue à laquelle ajouter les tâches",
     "mMobileDraftBannerContinue": "Poursuivre la modification des brouillons.",
     "mMobileDropForQuickSet": "Déposez ici pour ajouter à un groupe",
-    "mMobileFileLimit": "",
+    "mMobileFileLimit": "Impossible de mettre en ligne le fichier car il dépasse la taille maximale autorisée ([=size]).",
     "mMobileShowHiddenColumns": "Afficher les colonnes masquées",
     "mMobileRecurringRepeatWeekly": "Toutes les semaines le [=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "Toutes les [=rate] semaines le [=weekdaysText]",

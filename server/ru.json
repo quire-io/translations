@@ -973,7 +973,7 @@
     "mMobileSubDropToOthersDialog": "Выберите отображение, куда добавить задачи",
     "mMobileDraftBannerContinue": "Продолжить работу над черновиками.",
     "mMobileDropForQuickSet": "Перетащите для быстрой установки",
-    "mMobileFileLimit": "",
+    "mMobileFileLimit": "Невозможно загрузить файл, поскольку он превышает максимально допустимый размер файла ([=size]).",
     "mMobileShowHiddenColumns": "Показать скрытые столбцы",
     "mMobileRecurringRepeatWeekly": "Каждую неделю в [=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "Каждую [=rate] неделю в [=weekdaysText]",

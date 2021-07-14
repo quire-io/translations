@@ -973,7 +973,7 @@
     "mMobileSubDropToOthersDialog": "Escolha uma vista para adicionar tarefas",
     "mMobileDraftBannerContinue": "Continue escrevendo seus rascunhos.",
     "mMobileDropForQuickSet": "Largue para configuração rápida",
-    "mMobileFileLimit": "",
+    "mMobileFileLimit": "Não é possível enviar o arquivo porque ele excede o tamanho máximo de arquivo permitido ([=size]).",
     "mMobileShowHiddenColumns": "Mostrar colunas Ocultas",
     "mMobileRecurringRepeatWeekly": "Toda semana na [=weekdaysText]",
     "mMobileRecurringRepeatWeeklyPlural": "A cada [=rate] semanas na [=weekdaysText]",
