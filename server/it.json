@@ -1013,8 +1013,6 @@
     "mBillingDetailTitle": "[=organization] Dettagli di Fatturazione",
     "mBillingChargedYearlyTitle": "Annuale",
     "mBillingChargedMonthlyTitle": "Mensile",
-    "mBillingChargedYearlyDesc": "[=amount] pagamento annuale",
-    "mBillingChargedMonthlyDesc": "[=amount] pagamento mensile",
     "mPlanPricePerMemberMonthlyLabel": "per membro<br>/ mese",
     "mCustomizedPlanPricePerMemberYearlyLabel": "[=amount] per membro per anno",
     "mApplicableTaxesAmountLabel": "[=amount] tasse",

@@ -1113,6 +1113,8 @@
     "mCustomizedTotalAmountLabel": "",
     "mPlanStartFrom": "",
     "mApplicableTaxesLabel": "",
+    "mBillingChargedYearlyDesc": "",
+    "mBillingChargedMonthlyDesc": "",
     "mPlanMembersByPeriod": "",
     "mPlanProratedDays": "",
     "mCreditRemaining": "",

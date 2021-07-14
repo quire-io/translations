@@ -1013,8 +1013,6 @@
     "mBillingDetailTitle": "[=organization] Rechnungsdetails",
     "mBillingChargedYearlyTitle": "Jährlich",
     "mBillingChargedMonthlyTitle": "Monatlich",
-    "mBillingChargedYearlyDesc": "[=amount] bei jährlicher Abrechnung",
-    "mBillingChargedMonthlyDesc": "[=amount] bei monatlicher Abrechnung",
     "mPlanPricePerMemberMonthlyLabel": "pro Nutzer<br>/ Monat",
     "mCustomizedPlanPricePerMemberYearlyLabel": "[=amount] pro Nutzer pro Jahr",
     "mApplicableTaxesAmountLabel": "[=amount] Steuern",

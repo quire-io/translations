@@ -1113,6 +1113,8 @@
     "mCustomizedTotalAmountLabel": "Total",
     "mPlanStartFrom": "Du [=when]",
     "mApplicableTaxesLabel": "taxes en vigueur",
+    "mBillingChargedYearlyDesc": "[=amount] facturés annuellement",
+    "mBillingChargedMonthlyDesc": "[=amount] facturés mensuellement",
     "mPlanMembersByPeriod": "[=amount] membres x [=days] jours",
     "mPlanProratedDays": "Au prorata pour [=days] jours",
     "mCreditRemaining": "[=amount] restant",

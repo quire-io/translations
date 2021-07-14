@@ -1113,6 +1113,8 @@
     "mCustomizedTotalAmountLabel": "Totale",
     "mPlanStartFrom": "Iniziando da [=when]",
     "mApplicableTaxesLabel": "tasse applicabili",
+    "mBillingChargedYearlyDesc": "[=amount] pagamento annuale",
+    "mBillingChargedMonthlyDesc": "[=amount] pagamento mensile",
     "mPlanMembersByPeriod": "[=amount] membri per [=days] giorni",
     "mPlanProratedDays": "Proporzionato per [=days] giorni",
     "mCreditRemaining": "[=amount] rimanente",
