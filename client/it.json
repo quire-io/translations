@@ -1125,7 +1125,7 @@
     "mNoOrgTrialContent": "Non hai ancora nessuna organizzazione disponibile per iniziare la prova. Creane una prima di iniziare la prova.",
     "mNoOrgLinkContent": "Spiacenti, non hai ancora alcuna organizzazione con piani Premium o Enterprise. <a href=\"[=link]\">Aggiorna il piano</a> adesso?",
     "mDowngradPlanWarning": "Alcune delle funzionalità che stai utilizzando non sono disponibili nel piano di abbonamento [=plan] e verranno disattivate.",
-    "mPlanMemberExceedWarning": "Sembra che tu abbia <a href=\"[=link]\">correntemente</a> più membri. Si prega di riprovare.",
+    "mPlanMemberExceedWarning": "",
     "mPlanMaxMemberLimit": "Oops, il piano correntemente selezionato permette [=amount] membri massimo.",
     "mAddPlanMemberDesc": "Aggiungendo [=amount] membri al piano di sottoscrizione corrente.",
     "mRemovePlanMemberDesc": "Rimuovendo [=amount] membri al piano di sottoscrizione corrente.",

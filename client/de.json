@@ -1125,7 +1125,7 @@
     "mNoOrgTrialContent": "",
     "mNoOrgLinkContent": "",
     "mDowngradPlanWarning": "",
-    "mPlanMemberExceedWarning": "Anscheinend haben Sie <a href=\"[=link]\">derzeit</a> mehr Mitglieder. Bitte schauen Sie nochmal nach.",
+    "mPlanMemberExceedWarning": "",
     "mPlanMaxMemberLimit": "",
     "mAddPlanMemberDesc": "",
     "mRemovePlanMemberDesc": "",
