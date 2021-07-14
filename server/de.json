@@ -1046,7 +1046,7 @@
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Ihr Abo endet am [=due]. Bitte [=hrefStart]erneuern Sie es jetzt.[=hrefEnd]</div></div>",
     "mPlanExpired": "<div class=\"expire\"><div class=\"msg\">[=$mPlanExpiredText]</div></div>",
     "mPlanExpiredText": "Ihr Abo ist abgelaufen. Bitte [=hrefStart]erneuern Sie es jetzt.[=hrefEnd]",
-    "mPlanQuotaExceed": "Sie haben <a href=\"/pricing\" target=\"_blank\">mindestens ein</a> Nutzungskontingent für dieses Abo überschritten.",
+    "mPlanQuotaExceed": "Sie haben <a href=\"[=link]\">mindestens ein</a> Nutzungskontingent für dieses Abo überschritten.",
     "mCustomerCode": "Kundennummer",
     "mCouponNotFound": "Hoppla, dieser Gutscheincode ist nicht verfügbar.",
     "mCouponExpired": "Hoppla, dieser Gutscheincode ist abgelaufen.",

@@ -1046,7 +1046,7 @@
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Your subscription will end on [=due]. Please [=hrefStart]renew it now.[=hrefEnd]</div></div>",
     "mPlanExpired": "<div class=\"expire\"><div class=\"msg\">[=$mPlanExpiredText]</div></div>",
     "mPlanExpiredText": "Your subscription expired. Please [=hrefStart]renew it now.[=hrefEnd]",
-    "mPlanQuotaExceed": "You have exceeded <a href=\"/pricing\" target=\"_blank\">one or more</a> of the usage quota for this subscription plan.",
+    "mPlanQuotaExceed": "You have exceeded <a href=\"mPlanQuotaExceed\">one or more</a> of the usage quota for this subscription plan.",
     "mCustomerCode": "Customer code",
     "mCouponNotFound": "Oops, this coupon code isn’t available.",
     "mCouponExpired": "Opps, this coupon code is expired.",

@@ -1046,7 +1046,7 @@
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Sua assinatura terminará em [=due]. Por favor, [=hrefStart]renove agora.[=hrefEnd]</div></div>",
     "mPlanExpired": "<div class=\"expire\"><div class=\"msg\">[=$mPlanExpiredText]</div></div>",
     "mPlanExpiredText": "Sua assinatura expirou. Por favor, [=hrefStart]renove agora.[=hrefEnd]",
-    "mPlanQuotaExceed": "Você excedeu <a href=\"/pricing\" target=\"_blank\">uma ou mais</a> da cota de uso para este plano de assinatura.",
+    "mPlanQuotaExceed": "Você excedeu <a href=\"[=link]\">uma ou mais</a> da cota de uso para este plano de assinatura.",
     "mCustomerCode": "Código de cliente",
     "mCouponNotFound": "Opa, este código de cupom não está disponível.",
     "mCouponExpired": "Opa, este código de cupom caducou.",
