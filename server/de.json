@@ -1019,7 +1019,7 @@
     "mApplicableTaxesAmountLabel": "[=amount] Steuern",
     "mPlanSummarySectionTitle": "Zusammenfassung",
     "mPlanCreditSectionTitle": "Guthaben",
-    "mPlanNewCreditSectionTitle": "Neues Guthaben",
+    "mPlanNewCreditSectionTitle": "",
     "mAddCouponLabel": "Gutschein einlösen",
     "mPlanNextPaymentSectionTitle": "Nächste Zahlung",
     "mVerifyPlanDesc": "Bitte überprüfen Sie, ob der angegebene Betrag korrekt ist.",
