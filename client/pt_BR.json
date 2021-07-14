@@ -1113,6 +1113,7 @@
     "mMonthlyTotalAmountLabel": "Total mensalmente",
     "mCustomizedTotalAmountLabel": "Total",
     "mPlanStartFrom": "A partir de [=when]",
+    "mDueTodayLabel": "Vence hoje",
     "mApplicableTaxesLabel": "impostos aplicáveis",
     "mBillingChargedYearlyDesc": "[=amount] cobrado anualmente",
     "mBillingChargedMonthlyDesc": "[=amount] cobrado mensalmente",

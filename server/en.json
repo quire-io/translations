@@ -1021,7 +1021,6 @@
     "mPlanNewCreditSectionTitle": "Newly Created Credits",
     "mAddCouponLabel": "Add coupon",
     "mPlanNextPaymentSectionTitle": "Next payment",
-    "mDueTodaySectionTitle": "Due today",
     "mVerifyPlanDesc": "Please double check and verify the listed amount is correct.",
     "mPlanAgreeAndPay": "By clicking the following button, you agree to our <a href=\"/terms\">Subscription Terms and Agreement</a>.",
     "mNextPaymentWhenDesc": "Next payment on [=when]",

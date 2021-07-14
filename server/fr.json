@@ -1021,7 +1021,6 @@
     "mPlanNewCreditSectionTitle": "Nouveaux crédits",
     "mAddCouponLabel": "Ajouter un coupon",
     "mPlanNextPaymentSectionTitle": "Prochain paiement",
-    "mDueTodaySectionTitle": "À échéance aujourd'hui",
     "mVerifyPlanDesc": "Veuillez vous assurer que le montant indiqué est correct.",
     "mPlanAgreeAndPay": "En cliquant sur le bouton suivant, vous acceptez nos <a href=\"/terms\">Conditions et Accords de souscription</a>.",
     "mNextPaymentWhenDesc": "Prochain paiement le [=when]",

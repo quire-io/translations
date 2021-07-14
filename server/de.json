@@ -1021,7 +1021,6 @@
     "mPlanNewCreditSectionTitle": "Neues Guthaben",
     "mAddCouponLabel": "Gutschein einlösen",
     "mPlanNextPaymentSectionTitle": "Nächste Zahlung",
-    "mDueTodaySectionTitle": "Heute fällig",
     "mVerifyPlanDesc": "Bitte überprüfen Sie, ob der angegebene Betrag korrekt ist.",
     "mPlanAgreeAndPay": "Hiermit stimmen Sie unseren <a href=\"/terms\">Abo-Bedingungen</a> zu.",
     "mNextPaymentWhenDesc": "Nächste Zahlung am [=when]",

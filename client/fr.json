@@ -1113,6 +1113,7 @@
     "mMonthlyTotalAmountLabel": "Montant mensuel",
     "mCustomizedTotalAmountLabel": "Total",
     "mPlanStartFrom": "Du [=when]",
+    "mDueTodayLabel": "À échéance aujourd'hui",
     "mApplicableTaxesLabel": "taxes en vigueur",
     "mBillingChargedYearlyDesc": "[=amount] facturés annuellement",
     "mBillingChargedMonthlyDesc": "[=amount] facturés mensuellement",
