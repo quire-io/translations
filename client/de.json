@@ -1096,7 +1096,7 @@
     "mProfessionalPlanShortDesc": "Geeignet für kleine Teams.",
     "mPremiumPlanShortDesc": "Geeignet für Unternehmen mit cross-funktionalen Teams.",
     "mEnterprisePlanShortDesc": "Geeignet für große Unternehmen.",
-    "mUpgradeOrContectUs": "Bitte <a href=\"/upgrade/[=id]\">erneuern Sie Ihr Abo</a> oder <a href=\"[=link]\">kontaktieren Sie uns</a>.",
+    "mUpgradeOrContectUs": "Bitte <a href=\"/upgrade/[=id]\">erneuern Sie Ihr Abo</a> oder <a href=\"mailto:info@quire.io\">kontaktieren Sie uns</a>.",
     "mLearnMoreCustomizedEnterprisePlan": "",
     "mLearnMoreCustomizedPlan": "",
     "mLearnMorePlan": "Brauchen Sie Unterstützung? Dann <a href=\"[=link]\">kontaktieren Sie uns</a>",
