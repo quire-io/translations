@@ -1214,7 +1214,7 @@
     "mCancelPlanNowSuccessTitle": "Annulation de la souscription réussie",
     "mCancelPlanSuccessDesc": "Vous avez planifié l'annulation de l'offre souscrite pour cette organisation le <b>[=when]</b>.",
     "mCancelPlanNowSuccessDesc": "Votre souscription à l'offre Premium pour l'organisation [=organization] a bien été annulée.",
-    "mLinkMasterOrgDesc": "Cette organisation est liée à et facturée sous l'organisation principale <b>[=organization]</b>",
+    "mLinkMasterOrgDesc": "Cette organisation est liée à et facturée sous l'organisation principale <b>[=organization]</b>.",
     "mLinkMasterOrgDetailDesc": "Pour plus de modifications, veuillez vous rendre dans <a href=\"[=link]\">[=organization] > Souscription</a>",
     "mUnlinkMasterOrgButton": "Dissocier l'organisation",
     "mUnlinkMasterOrgContent": "Si vous choisissez de dissocier cette organisation de son organisation principale, vous perdrez tout accès aux fonctionnalités avancées puisque votre organisation sera rétrogradée à la formule Gratuite.",

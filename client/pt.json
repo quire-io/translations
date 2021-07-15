@@ -1214,7 +1214,7 @@
     "mCancelPlanNowSuccessTitle": "Assinatura cancelada com sucesso",
     "mCancelPlanSuccessDesc": "Agendou com sucesso o cancelamento do plano de assinatura para esta organização a <b>[=when]</b>.",
     "mCancelPlanNowSuccessDesc": "A sua assinatura do plano Premium para a organização [=organization] foi cancelada com sucesso.",
-    "mLinkMasterOrgDesc": "Esta organização está vinculada e é faturada pela organização principal <b>[=organization]</b>",
+    "mLinkMasterOrgDesc": "Esta organização está vinculada e é faturada pela organização principal <b>[=organization]</b>.",
     "mLinkMasterOrgDetailDesc": "Para fazer outras alterações, por favor, visite <a href=\"[=link]\">[=organization] > Assinatura</a>",
     "mUnlinkMasterOrgButton": "Desvincular organização",
     "mUnlinkMasterOrgContent": "Se decidir desvincular esta organização da sua organização principal, perderá todo o acesso aos recursos privilegiados, uma vez que a sua organização será rebaixada para um plano de assinatura gratuita.",
