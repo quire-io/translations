@@ -132,7 +132,7 @@
     "mPricingPlanUnit": "1人当たり／月",
     "mPricingFeaturesHeader": "<strong>[=plan]</strong>のすべての機能、および：",
     "mPricingPlanFreeDesc": "Quireを初めて利用する、個人またはチームのお客様向け",
-    "mPricingPlanProDesc": "For small teams up to [=members] team members that need to visualize their work in one place",
+    "mPricingPlanProDesc": "",
     "mPricingPlanPremDesc": "ワークフローが複雑な大人数チーム、またはクロスファンクショナルチームを有する企業向け",
     "mPricingPlanEntDesc": "最高の作業管理とセキュリティー管理、サポートが必要なエンタープライズ向け",
     "mPricingPlanEntNote": "",
