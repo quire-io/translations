@@ -181,7 +181,7 @@
     "mPlanFeatureMembersUnlimited": "Nombre de membres illimité",
     "mPlanFeatureProjects": "[=n] projets",
     "mPlanFeatureStorage": "[=n] de stockage",
-    "mPlanFeatureStoragePerMemberOrCustom": "",
+    "mPlanFeatureStoragePerMemberOrCustom": "[=n] de stockage par membre ou personnalisé",
     "mPlanFeatureMobileSupport": "Applications iOS et Android",
     "mPlanFeature3rdPartySupport": "Intégration à vos applications préférées",
     "mPlanFeatureTimeline": "Chronologie dynamique",
