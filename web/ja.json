@@ -260,7 +260,7 @@
     "mPlanFeatureStartDateLabel": "開始日と時刻",
     "mPlanFeatureDueDateLabel": "期限日と時刻",
     "mPlanFeatureShareProjectLabel": "プロジェクトを共有",
-    "mPlanFeatureShareProjectTip": "未登録のユーザーとプロジェクトを共有します",
+    "mPlanFeatureShareProjectTip": "未登録のユーザーとプロジェクトを共有します。これらのユーザーは、組織メンバーとしてカウントされません",
     "mPlanFeaturePermissionLabel": "権限管理",
     "mPlanFeatureOverviewLabel": "プロジェクト概況",
     "mPlanFeatureEmailLabel": "メール通知",
