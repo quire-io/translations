@@ -1128,6 +1128,7 @@
     "mNoOrgUpgradeContent": "Você ainda não tem nenhuma organização disponível para atualizar. Por favor, crie uma antes de atualizar.",
     "mNoOrgTrialContent": "Você ainda não tem nenhuma organização disponível para iniciar a avaliação. Crie uma antes de iniciar a avaliação.",
     "mNoOrgLinkContent": "Desculpe, você ainda não tem nenhuma organização com planos Premium ou Empresarial. <a href=\"[=link]\">Atualizar plano</a> agora?",
+    "mOrglinkPlanLimit": "",
     "mDowngradPlanWarning": "Alguns dos recursos que você está usando não estão disponíveis no plano de assinatura [= plan] e serão desativados.",
     "mPlanMemberExceedWarning": "Parece que você tem mais membros do que <a href=\"[=link]\">atualmente</a>. Por favor, verifique de novo.",
     "mRemovePlanMemberWarning": "Desculpe, você não pode reduzir para um número menor do que o atual em sua assinatura.",

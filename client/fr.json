@@ -1128,6 +1128,7 @@
     "mNoOrgUpgradeContent": "Vous n'avez pas encore d'organisation disponible pour une mise à niveau. Veuillez en créer une avant la mise à niveau.",
     "mNoOrgTrialContent": "Vous n'avez pas encore d'organisation disponible pour commencer une période d'essai. Veuillez en créer une avant de commencer la période d'essai.",
     "mNoOrgLinkContent": "Désolé, vous n'avez pas encore d'organisation avec une souscription aux offres Premium ou Entreprise. Voulez-vous <a href=\"[=link]\">mettre à niveau votre souscription</a> ?",
+    "mOrglinkPlanLimit": "",
     "mDowngradPlanWarning": "Des fonctionnalités que vous utilisez ne sont pas disponibles dans l'offre [=plan] et seront désactivées.",
     "mPlanMemberExceedWarning": "Il semble que vous ayez plus de membres <a href=\"[=link]\">qu'actuellement</a>. Veuillez vérifier de nouveau.",
     "mRemovePlanMemberWarning": "Désolé, vous ne pouvez réduire à un nombre inférieur à ce que vous avez actuellement dans votre formule.",

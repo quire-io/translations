@@ -1128,6 +1128,7 @@
     "mNoOrgUpgradeContent": "Non hai ancora nessuna organizzazione disponibile per l\\'upgrade. Creane uno prima di aggiornare.",
     "mNoOrgTrialContent": "Non hai ancora nessuna organizzazione disponibile per iniziare la prova. Creane una prima di iniziare la prova.",
     "mNoOrgLinkContent": "Spiacenti, non hai ancora alcuna organizzazione con piani Premium o Enterprise. <a href=\"[=link]\">Aggiorna il piano</a> adesso?",
+    "mOrglinkPlanLimit": "",
     "mDowngradPlanWarning": "Alcune delle funzionalità che stai utilizzando non sono disponibili nel piano di abbonamento [=plan] e verranno disattivate.",
     "mPlanMemberExceedWarning": "Sembra tu abbia più membri dei <a href=\"[=link]\">disponibili</a>. Si prega di riprovare.",
     "mRemovePlanMemberWarning": "",
