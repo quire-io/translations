@@ -1131,7 +1131,7 @@
     "mOrglinkPlanLimit": "",
     "mDowngradPlanWarning": "Alcune delle funzionalità che stai utilizzando non sono disponibili nel piano di abbonamento [=plan] e verranno disattivate.",
     "mPlanMemberExceedWarning": "Sembra tu abbia più membri dei <a href=\"[=link]\">disponibili</a>. Si prega di riprovare.",
-    "mRemovePlanMemberWarning": "",
+    "mRemovePlanMemberWarning": "Ci dispiace, ma non puoi ridurre ad un numero inferiore rispetto a quello dell\\'abbonamento corrente.",
     "mPlanMaxMemberLimit": "Oops, il piano correntemente selezionato permette [=amount] membri massimo.",
     "mAddPlanMemberDesc": "Aggiungendo [=amount] membri al piano di sottoscrizione corrente.",
     "mRemovePlanMemberDesc": "Rimuovendo [=amount] membri al piano di sottoscrizione corrente.",
