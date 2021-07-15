@@ -1019,7 +1019,7 @@
     "mApplicableTaxesAmountLabel": "[=amount] impostos",
     "mPlanSummarySectionTitle": "Resumo do plano",
     "mPlanCreditSectionTitle": "Créditos",
-    "mPlanNewCreditSectionTitle": "",
+    "mPlanNewCreditSectionTitle": "Créditos recém-criados",
     "mAddCouponLabel": "Adicionar cupom",
     "mPlanNextPaymentSectionTitle": "Próximo pagamento",
     "mVerifyPlanDesc": "Por favor, verifique novamente e confirme se o valor listado está correto.",
