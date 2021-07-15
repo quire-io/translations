@@ -206,7 +206,7 @@
     "mQuotaUnlimitedSmartFolderProjectLabel": "Nombre de projets par dossier intelligent illimité",
     "mQuotaUnlimitedActivityLabel": "Nombre d'activités réservées illimité",
     "mQuotaStorageTotalLabel": "Total de [=n]",
-    "mQuotaStoragePerMemberLabel": "",
+    "mQuotaStoragePerMemberLabel": "[=size] par membre",
     "mQuotaStoragePerMemberOrCusLabel": "",
     "mQuotaGoogleDriveFilesLimitOrCustom": "",
     "mPlanSupportPerHoursLabel": "",
