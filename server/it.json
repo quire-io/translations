@@ -1027,7 +1027,7 @@
     "mNextPaymentWhenDesc": "Prossimo pagamento il [=when]",
     "mPlanEndedWhenDesc": "Terminato il [=when]",
     "mEmailAddressLabel": "Indirizzo Email",
-    "mEmailAddressDesc": "Se desideri modificare il contatto di fatturazione, <a href=\"/feedback\">contattaci</a>",
+    "mEmailAddressDesc": "Se desideri modificare il contatto di fatturazione, <a href=\"[=link]\">contattaci</a>.",
     "mBillingHistoryUpgradePlan": "Aggiorna al piano [=plan]",
     "mBillingHistoryChangePlan": "Passa al piano [=plan]",
     "mBillingHistoryCancelPlan": "Annulla l\\'abbonamento al piano [=plan]",
