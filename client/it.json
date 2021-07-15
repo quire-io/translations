@@ -1219,6 +1219,7 @@
     "mUnlinkMasterOrgButton": "Scollega l\\'organizzazione",
     "mUnlinkMasterOrgContent": "Se scegli di scollegare questa organizzazione dalla sua organizzazione principale, perderai l\\'accesso alle funzionalità privilegiate poiché la tua organizzazione verrà declassata a un piano di abbonamento gratuito.",
     "mStorageLabel": "Spazio di archiviazione",
+    "mMemberQuotaDesc": "",
     "mMemberQuotaUsedDesc": "Utilizzando <b>[=amount]</b> del [=total] limite di membri",
     "mProjectQuotaUsedDesc": "Utilizzando <b>[=amount]</b> dei [=totale] progetti massimi",
     "mStorageQuotaUsedDesc": "Utilizzando <b>[=amount]</b> di [=total] spazio di archiviazione totale",

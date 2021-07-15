@@ -1219,6 +1219,7 @@
     "mUnlinkMasterOrgButton": "Dissocier l'organisation",
     "mUnlinkMasterOrgContent": "Si vous choisissez de dissocier cette organisation de son organisation principale, vous perdrez tout accès aux fonctionnalités avancées puisque votre organisation sera rétrogradée à la formule Gratuite.",
     "mStorageLabel": "Stockage",
+    "mMemberQuotaDesc": "",
     "mMemberQuotaUsedDesc": "Utilisation de <b>[=amount]</b> membres sur les [=total] permis",
     "mProjectQuotaUsedDesc": "Utilisation de <b>[=amount]</b> projets sur les [=total] permis",
     "mStorageQuotaUsedDesc": "Utilisation de <b>[=amount]</b> des [=total] de stockage limite",

@@ -1219,6 +1219,7 @@
     "mUnlinkMasterOrgButton": "Unlink organization",
     "mUnlinkMasterOrgContent": "If you choose to unlink this organization from its master organization, you will lose all of the access to privileged features as your organization will be downgraded to a Free subscription plan.",
     "mStorageLabel": "Storage",
+    "mMemberQuotaDesc": "<b>[=amount]</b> of [=total] members limitation",
     "mMemberQuotaUsedDesc": "Using <b>[=amount]</b> of [=total] members limit",
     "mProjectQuotaUsedDesc": "Using <b>[=amount]</b> of [=total] project limit",
     "mStorageQuotaUsedDesc": "Using <b>[=amount]</b> of [=total] storage limit",

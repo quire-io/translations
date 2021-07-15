@@ -1219,6 +1219,7 @@
     "mUnlinkMasterOrgButton": "Desvincular organização",
     "mUnlinkMasterOrgContent": "Se você decidir desvincular esta organização de sua organização principal, perderá todo o acesso aos recursos privilegiados, pois sua organização será rebaixada para um plano de assinatura gratuita.",
     "mStorageLabel": "Armazenamento",
+    "mMemberQuotaDesc": "",
     "mMemberQuotaUsedDesc": "Usando <b>[=amount]</b> do limite de [=total] membros",
     "mProjectQuotaUsedDesc": "Usando <b>[=amount]</b> do limite de [=total] do projeto",
     "mStorageQuotaUsedDesc": "Usando <b>[=amount]</b> do limite de [=total] de armazenamento",
