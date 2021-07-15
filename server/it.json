@@ -1046,7 +1046,7 @@
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Il tuo abbonamento terminerà il [=due]. Per favore [=hrefStart]rinnovalo ora.[=hrefEnd]</div></div>",
     "mPlanExpired": "<div class=\"expire\"><div class=\"msg\">[=$mPlanExpiredText]</div></div>",
     "mPlanExpiredText": "Il tuo abbonamento è scaduto. Per favore [=hrefStart]rinnovalo ora.[=hrefEnd]",
-    "mPlanQuotaExceed": "Hai superato <a href=\"[=link]\">uno o più</a> delle quote di utilizzo per questo piano di abbonamento.",
+    "mPlanQuotaExceed": "Hai superato <a href=\"[=link]\">una o più</a> delle quote di utilizzo per questo piano di abbonamento.",
     "mCustomerCode": "Codice cliente",
     "mCouponNotFound": "Oops, questo codice buono non é disponibile.",
     "mCouponExpired": "Opps, questo codice buono é scaduto.",
