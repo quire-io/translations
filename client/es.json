@@ -1144,7 +1144,7 @@
     "mCurrentPlanLabel": "plan de suscripción actual",
     "mUpgradeCancellingPlanContent": "[=organization] está programada para ser cancelada, tienes que reanudar primero el plan original.",
     "mUpgradeFailPaymentPlanContent": "El pago actual para [=organization] no se ha podido procesar. Por favor, actualiza primero los detalles del pago.",
-    "mUpgradeCustomizedPlanContent": "No se puede actualizar una organización con un plan de suscripción personalizado. Por favor <a href=\"/feedback\">contacta con nosotros</a>.",
+    "mUpgradeCustomizedPlanContent": "No se puede actualizar una organización con un plan de suscripción personalizado. Por favor <a href=\"mailto:support@quire.io\">contacta con nosotros</a>.",
     "mPaymentSuccessTitle": "",
     "mUpgradePlanSuccessTitle": "Actualizar el plan de suscripción correctamente",
     "mChangePlanSuccessTitle": "Cambiar el plan de suscripción con éxito",

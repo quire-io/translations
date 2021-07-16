@@ -1144,7 +1144,7 @@
     "mCurrentPlanLabel": "formule actuellement souscrite",
     "mUpgradeCancellingPlanContent": "L'annulation de [=organization] est planifiée, vous devez d'abord reprendre la souscription.",
     "mUpgradeFailPaymentPlanContent": "Le paiement actuel pour [=organization] a échoué. Veuillez d'abord mettre à jour les informations de paiement.",
-    "mUpgradeCustomizedPlanContent": "Vous ne pouvez pas mettre à niveau une organisation avec une offre personnalisée. Veuillez <a href=\"/feedback\">nous contacter</a>.",
+    "mUpgradeCustomizedPlanContent": "Vous ne pouvez pas mettre à niveau une organisation avec une offre personnalisée. Veuillez <a href=\"mailto:support@quire.io\">nous contacter</a>.",
     "mPaymentSuccessTitle": "Paiement réussi",
     "mUpgradePlanSuccessTitle": "Mise à jour de la formule souscrite réussie",
     "mChangePlanSuccessTitle": "Modification de la formule souscrite réussie",

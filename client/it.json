@@ -1144,7 +1144,7 @@
     "mCurrentPlanLabel": "piano sottoscritto correntemente",
     "mUpgradeCancellingPlanContent": "[=organization] é schedulata per essere cancellata, devi ripristinare il piano originale prima di poterla utilizzare.",
     "mUpgradeFailPaymentPlanContent": "Il pagamento correntemente configurato per [=organization] non é stato elaborato correttamente. Si prega di aggiornare i dettagli di pagamento.",
-    "mUpgradeCustomizedPlanContent": "Non puoi aggiornare un\\'organizzazione con un piano personalizzato. Si prega di <a href=\"/feedback\">contattarci</a>.",
+    "mUpgradeCustomizedPlanContent": "Non puoi aggiornare un\\'organizzazione con un piano personalizzato. Si prega di <a href=\"mailto:support@quire.io\">contattarci</a>.",
     "mPaymentSuccessTitle": "Pagamento riuscito",
     "mUpgradePlanSuccessTitle": "Il tuo piano é stato aggiornato correttamente",
     "mChangePlanSuccessTitle": "Modifica del piano completata correttamente",
