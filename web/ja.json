@@ -232,7 +232,6 @@
     "mQuotaTasksDetail": "1プロジェクトにつき[=n]タスク",
     "mQuotaSublistsLabel": "1プロジェクトのサブリスト数",
     "mQuotaSublistsDetail": "1プロジェクトにつき[=n]サブリスト",
-    "mQuotaSublistsTip": "プライベートサブリストはカウントされません",
     "mQuotaExternalTeamsLabel": "1プロジェクトの外部チーム数",
     "mQuotaExternalTeamsDetail": "1プロジェクトにつき[=n]外部チーム",
     "mQuotaSmartFolderLabel": "スマートフォルダーのプロジェクト数",

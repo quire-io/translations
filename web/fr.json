@@ -232,7 +232,6 @@
     "mQuotaTasksDetail": "[=n] tâches par projet",
     "mQuotaSublistsLabel": "Sous-listes par projet",
     "mQuotaSublistsDetail": "[=n] sous-listes par projet",
-    "mQuotaSublistsTip": "Les sous-listes privées ne sont pas décomptées de cette limite.",
     "mQuotaExternalTeamsLabel": "Équipes externes par projet",
     "mQuotaExternalTeamsDetail": "[=n] équipes externes par projet",
     "mQuotaSmartFolderLabel": "Projets par dossier intelligent",

@@ -232,7 +232,6 @@
     "mQuotaTasksDetail": "[=n] tarefas por projeto",
     "mQuotaSublistsLabel": "Sublistas por projeto",
     "mQuotaSublistsDetail": "[=n] sublistas por projeto",
-    "mQuotaSublistsTip": "A sublista privada não será contabilizada para esta limitação",
     "mQuotaExternalTeamsLabel": "Equipes Externas por projeto",
     "mQuotaExternalTeamsDetail": "[=n] equipes externas por projeto",
     "mQuotaSmartFolderLabel": "Projetos por Pasta Inteligente",

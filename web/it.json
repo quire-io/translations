@@ -232,7 +232,6 @@
     "mQuotaTasksDetail": "[=n] attività per progetto",
     "mQuotaSublistsLabel": "Sottoliste per progetto",
     "mQuotaSublistsDetail": "[=n] sottoliste per progetto",
-    "mQuotaSublistsTip": "Sottoliste Private non verranno conteggiate verso i limiti.",
     "mQuotaExternalTeamsLabel": "Squadre Esterne per progetto",
     "mQuotaExternalTeamsDetail": "[=n] squadre esterne per progetto",
     "mQuotaSmartFolderLabel": "Progetti per Cartelle Intelligenti",
