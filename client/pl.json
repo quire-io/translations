@@ -6,7 +6,7 @@
     "mTooLarge": "",
     "mSessionTimeout": "Przepraszamy, Twoja sesja wygasła. Spróbuj zalogować się ponownie.",
     "mAddProjectWithoutOrg": "Nie można dodać projektu bez wcześniejszego dodania organizacji.",
-    "mNotAllowedAddRootTask": "",
+    "mNotAllowedAddRootTask": "Nie masz uprawnień, aby dodać zadanie główne.",
     "mMaintenance": "Przepraszamy, trwają prace konserwacyjne. Wrócimy wkrótce. Nie martw się, Twoje zmiany zostaną zapisane lokalnie.",
     "mConnected": "Połączenie zostało przywrócone. Wszystko jest zsynchronizowane.",
     "mDisconnected": "Utracono połączenie. Nie martw się, Twoje zmiany zostaną zapisane lokalnie.",
@@ -1236,11 +1236,11 @@
     "mTrialSharedLinkDesc": "",
     "mTrialSmartFolderTitle": "",
     "mTrialSmartFolderDesc": "",
-    "mTrialMultipleAssigneeTitle": "",
+    "mTrialMultipleAssigneeTitle": "Wiele przypisanych osób",
     "mTrialMultipleAssigneeProDesc": "",
     "mTrialMultipleAssigneePreDesc": "",
-    "mTrialPeekabooTitle": "",
+    "mTrialPeekabooTitle": "A kuku",
     "mTrialPeekabooDesc": "",
-    "mTrialExpiredTitle": "",
+    "mTrialExpiredTitle": "Ups, Twój okres próbny wygasł",
     "mTrialExpiredDesc": ""
 }
