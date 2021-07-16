@@ -1040,7 +1040,7 @@
     "mBillingHistoryRenewPlanSuccessLabel": "Automatische Verlängerung",
     "mBillingHistoryCancelByQuireLabel": "Automatische Kündigung",
     "mFailPaymentDesc": "Die Zahlung für dieses Abo war nicht erfolgreich. Bitte versuchen Sie es erneut.",
-    "mFailChangePlanDesc": "Sie können dieses Abo nicht ändern, bitte <a href=\"/feedback\">kontaktieren Sie uns</a>.",
+    "mFailChangePlanDesc": "Sie können dieses Abo nicht ändern, bitte <a href=\"[=link]\">kontaktieren Sie uns</a>.",
     "mFailChangePlanCycleDesc": "Sie können den Abrechnungszeitraum für dieses Abo nicht ändern. Bitte <a href=\"mailto:support@quire.io\">kontaktieren Sie uns</a>. Vielen Dank!",
     "mFailCancelPlanDesc": "Sie können dieses Abo nicht kündigen, bitte <a href=\"mailto:support@quire.io\">kontaktieren Sie uns</a>. Vielen Dank!",
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Ihr Abo endet am [=due]. Bitte [=hrefStart]erneuern Sie es jetzt.[=hrefEnd]</div></div>",

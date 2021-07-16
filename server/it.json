@@ -1040,7 +1040,7 @@
     "mBillingHistoryRenewPlanSuccessLabel": "Rinnovo automatico",
     "mBillingHistoryCancelByQuireLabel": "Cancellazione automatica",
     "mFailPaymentDesc": "Il pagamento per questo piano di abbonamento non è andato a buon fine. Per favore riprova.",
-    "mFailChangePlanDesc": "Non puoi cambiare questo piano di abbonamento, si prega di <a href=\"/feedback\">contattarci</a>. Grazie!",
+    "mFailChangePlanDesc": "Non puoi cambiare questo piano di abbonamento, si prega di <a href=\"[=link]\">contattarci</a>. Grazie!",
     "mFailChangePlanCycleDesc": "Non è possibile modificare il ciclo di fatturazione per questo piano di abbonamento, <a href=\"mailto:support@quire.io\">contattaci</a>. Grazie!",
     "mFailCancelPlanDesc": "Non puoi annullare questo piano di abbonamento, per favore <a href=\"mailto:support@quire.io\">contattaci</a>. Grazie!",
     "mPlanExpiring": "<div class=\"expire\"><div class=\"msg\">Il tuo abbonamento terminerà il [=due]. Per favore [=hrefStart]rinnovalo ora.[=hrefEnd]</div></div>",
